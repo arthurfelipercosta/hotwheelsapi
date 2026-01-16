@@ -1,0 +1,15 @@
+{
+    "casting_id": "mclaren-p1",
+    "name": "McLaren P1",
+    "designer": "Ryu Asada",
+    "debut_year": 2015,
+    "manufacturer": "McLaren",
+    "description": {
+        "en": "Limited-production high-performance hybrid sports car acting as the successor to the McLaren F1.",
+        "pt-br": "Carro esportivo híbrido de alta performance e produção limitada, considerado o sucessor do McLaren F1."
+    },
+    "specs": {
+        "real_car_engine": "3.8L M838TQ twin-turbocharged V8",
+        "horsepower": 903
+    }
+}

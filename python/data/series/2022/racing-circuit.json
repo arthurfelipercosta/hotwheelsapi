@@ -1,0 +1,10 @@
+{
+    "series_id": "racing-circuit",
+    "year": 2022,
+    "name": "Racing Circuit",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hdg70.json"
+    ]
+}

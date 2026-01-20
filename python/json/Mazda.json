@@ -1,0 +1,65 @@
+[
+    {
+        "metadata": {
+            "name": "Mazda MX-5 Miata",
+            "series": "HW Dream Garage",
+            "number": "HYW18",
+            "years": "2025 – Present",
+            "designer": "Chris Watson and Shawn Moghadam",
+            "image": "MazdaChimera.jpg",
+            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MazdaChimera.jpg"
+        },
+        "description": {
+            "en-us": "The Mazda MX-5 is a small sports car manufactured by Mazda since 1991.\n\nThis casting is based on a heavily modified 1990 Mazda MX-5 built by New Zealander Chris Watson of Tofu Auto Works. The car is named the Chimera and was the winner of the 2023 Hot Wheels Legends Tour. It features Cyberpunk and Japanese Kaido racer influence.",
+            "pt-br": ""
+        },
+        "releases": [
+            {
+                "Col #": "001/250",
+                "Year": "2025",
+                "Series": "HW Dream Garage2/5",
+                "Color": "Metalflake gunmetal gray",
+                "Tampo": "Detailed taillights, green accent striping, \"\", Hot Wheels logo on sides, black hood striping and detailing",
+                "Base Color/Type": "Black/Plastic",
+                "Window Color": "Smoke tint",
+                "Interior Color": "Black",
+                "Wheel Type": "Black L4",
+                "Toy #": "HYW18",
+                "Country": "Malaysia",
+                "Notes": "New ModelBase code(s): T34, T36, T37, T38, T39, T40, T41",
+                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MazdaChimera.jpg"
+            },
+            {
+                "Col #": "001/250",
+                "Year": "2025",
+                "Series": "HW Dream Garage2/5",
+                "Color": "Lime Green",
+                "Tampo": "Detailed taillights, black accent striping, \"\", Hot Wheels logo on sides, black hood striping and detailing",
+                "Base Color/Type": "Black/Plastic",
+                "Window Color": "Smoke tint",
+                "Interior Color": "Grey",
+                "Wheel Type": "Grey L4",
+                "Toy #": "HYX57",
+                "Country": "Malaysia",
+                "Notes": "New ModelBase code(s): U02N, U04N, U05N, U06N",
+                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/GreenChimera.jpg"
+            },
+            {
+                "Col #": "001/250",
+                "Year": "2026",
+                "Series": "HW Dream Garage1/5",
+                "Color": "White",
+                "Tampo": "Black, Pink and Grey Graphics on hood and sides",
+                "Base Color/Type": "Black/Plastic",
+                "Window Color": "Smoke tint",
+                "Interior Color": "Grey",
+                "Wheel Type": "White lip, black AeroDisc",
+                "Toy #": "JJJ02",
+                "Country": "Malaysia",
+                "Notes": "Base code(s): U36N, U39N",
+                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/26/CyberpunkMazda.jpg"
+            }
+        ],
+        "source_file": "Mazda.txt"
+    }
+]

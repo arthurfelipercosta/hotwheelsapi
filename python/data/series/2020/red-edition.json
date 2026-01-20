@@ -1,0 +1,10 @@
+{
+    "series_id": "red-edition",
+    "year": 2020,
+    "name": "Red Edition",
+    "total_releases": 1,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2020/ghg73.json"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-dream-garage",
+    "year": 2025,
+    "name": "HW Dream Garage",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2025/hyw18.json",
+        "data/releases/2025/hyx57.json"
+    ]
+}

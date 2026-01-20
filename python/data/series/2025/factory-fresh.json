@@ -1,0 +1,11 @@
+{
+    "series_id": "factory-fresh",
+    "year": 2025,
+    "name": "Factory Fresh",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2025/hyw34.json",
+        "data/releases/2025/hyy08.json"
+    ]
+}

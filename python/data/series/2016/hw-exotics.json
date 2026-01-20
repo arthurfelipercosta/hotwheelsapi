@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-exotics",
+    "year": 2016,
+    "name": "HW Exotics",
+    "total_releases": 2,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2016/dhp95.json",
+        "data/releases/2016/dhx19.json"
+    ]
+}

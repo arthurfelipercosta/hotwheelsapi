@@ -1,0 +1,18 @@
+{
+    "casting_id": "ferrari-sf90-stradale",
+    "name": "Ferrari SF90 Stradale",
+    "description": {
+        "en-us": "The Ferrari SF90 Stradale is a high-performance mid-engined hybrid sports car produced by Ferrari from 2019 to 2024. Styled by Flavio Manzoni of Centro Stile Ferrari, the SF90 Stradale was released to celebrate Scuderia Ferrari's 90th anniversary since its founding. It is powered by a 4.0L F154FA twin-turbocharged V8 assisted by 3 electric motors producing 986 horsepower; which is then mated to an 8-speed Magna 8DCL900 dual clutch. The car features a dual-part rear wing using technology derived from Formula One, using a moving  part known as the \"shut off Gurney\". A number of variants of the SF90 have been produced since. The car was replaced with the 849 Testarosssa from 2026.\n\nThis is the first Ferrari model released following Mattel's new license agreement signed with Ferrari in 2025.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw34-ferrari-sf90-stradale.json",
+        "data/releases/2025/hyy08-ferrari-sf90-stradale.json",
+        "data/releases/2025/jbj89-ferrari-sf90-stradale.json",
+        "data/releases/2026/jjj12-ferrari-sf90-stradale.json"
+    ],
+    "specs": {},
+    "designer": "Shawn Moghadam",
+    "debut_year": 2025,
+    "manufacturer": "Ferrari"
+}

@@ -1,0 +1,10 @@
+{
+    "brand_id": "lamborghini",
+    "name": "Lamborghini",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/lamborghini-gallardo-lp560-4.json"
+    ],
+    "description": "Manufacturer of Lamborghini vehicles."
+}

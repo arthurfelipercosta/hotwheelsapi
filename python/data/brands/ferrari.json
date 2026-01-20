@@ -1,0 +1,10 @@
+{
+    "brand_id": "ferrari",
+    "name": "Ferrari",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/ferrari-sf90-stradale.json"
+    ],
+    "description": "Manufacturer of Ferrari vehicles."
+}

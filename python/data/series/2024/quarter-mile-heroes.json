@@ -1,0 +1,12 @@
+{
+    "series_id": "quarter-mile-heroes",
+    "year": 2024,
+    "name": "Quarter Mile Heroes",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2024/htb85.json",
+        "data/releases/2024/htd92.json",
+        "data/releases/2024/htf65.json"
+    ]
+}

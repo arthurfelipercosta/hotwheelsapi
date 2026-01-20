@@ -1,0 +1,10 @@
+{
+    "brand_id": "mazda",
+    "name": "Mazda",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/mazda-mx-5-miata.json"
+    ],
+    "description": "Manufacturer of Mazda vehicles."
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-exotics",
+    "year": 2020,
+    "name": "HW Exotics",
+    "total_releases": 2,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2020/ghc36.json",
+        "data/releases/2020/ghf48.json"
+    ]
+}

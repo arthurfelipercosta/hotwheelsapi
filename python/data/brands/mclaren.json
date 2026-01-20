@@ -1,0 +1,10 @@
+{
+    "brand_id": "mclaren",
+    "name": "McLaren",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/mclaren-p1.json"
+    ],
+    "description": "Manufacturer of McLaren vehicles."
+}

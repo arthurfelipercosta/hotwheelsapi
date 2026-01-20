@@ -1,0 +1,10 @@
+{
+    "series_id": "mainline",
+    "year": 2000,
+    "name": "Mainline",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2000/29300-deora-ii.json"
+    ]
+}

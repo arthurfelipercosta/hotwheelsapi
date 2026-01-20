@@ -6,5 +6,8 @@
     "castings": [
         "data/castings/ferrari-sf90-stradale.json"
     ],
-    "description": "Manufacturer of Ferrari vehicles."
+    "description": {
+        "en-us": "Manufacturer of Ferrari vehicles.",
+        "pt-br": "Fabricante de veículos Ferrari."
+    }
 }

@@ -6,5 +6,8 @@
     "castings": [
         "data/castings/mazda-mx-5-miata.json"
     ],
-    "description": "Manufacturer of Mazda vehicles."
+    "description": {
+        "en-us": "Manufacturer of Mazda vehicles.",
+        "pt-br": "Fabricante de veículos Mazda."
+    }
 }

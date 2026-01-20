@@ -6,5 +6,8 @@
     "castings": [
         "data/castings/lamborghini-gallardo-lp560-4.json"
     ],
-    "description": "Manufacturer of Lamborghini vehicles."
+    "description": {
+        "en-us": "Manufacturer of Lamborghini vehicles.",
+        "pt-br": "Fabricante de veículos Lamborghini."
+    }
 }

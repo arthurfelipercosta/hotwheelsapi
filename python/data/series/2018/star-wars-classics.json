@@ -1,0 +1,10 @@
+{
+    "series_id": "star-wars-classics",
+    "year": 2018,
+    "name": "Star Wars: Classics",
+    "total_releases": 1,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2018/fkd62-deora-ii.json"
+    ]
+}

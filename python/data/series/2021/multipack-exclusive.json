@@ -2,9 +2,10 @@
     "series_id": "multipack-exclusive",
     "year": 2021,
     "name": "Multipack Exclusive",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2021/x6999.json"
+        "data/releases/2021/x6999-lamborghini-gallardo-lp560-4.json",
+        "data/releases/2021/x6999-mclaren-p1.json"
     ]
 }

@@ -1,0 +1,13 @@
+{
+    "brand_id": "mattel",
+    "name": "Mattel",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/deora-ii.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Mattel vehicles.",
+        "pt-br": "Fabricante de veículos Mattel."
+    }
+}

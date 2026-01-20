@@ -7,6 +7,7 @@
     },
     "releases": [
         "data/releases/2010/r7546-lamborghini-gallardo-lp560-4.json",
+        "data/releases/2010/r7546-lamborghini-gallardo-lp560-4-v2.json",
         "data/releases/2010/w2308-lamborghini-gallardo-lp560-4.json",
         "data/releases/2010/r4023-lamborghini-gallardo-lp560-4.json",
         "data/releases/2010/t4443-lamborghini-gallardo-lp560-4.json",
@@ -18,8 +19,10 @@
         "data/releases/2020/gjv60-lamborghini-gallardo-lp560-4.json",
         "data/releases/2021/x6999-lamborghini-gallardo-lp560-4.json",
         "data/releases/2022/x6999-lamborghini-gallardo-lp560-4.json",
+        "data/releases/2022/x6999-lamborghini-gallardo-lp560-4-v2.json",
+        "data/releases/2022/x6999-lamborghini-gallardo-lp560-4-v3.json",
         "data/releases/2023/x6999k5904-lamborghini-gallardo-lp560-4.json",
-        "data/releases/2024/x6999k5904 (3pk)-lamborghini-gallardo-lp560-4.json",
+        "data/releases/2024/x6999k5904-3pk-lamborghini-gallardo-lp560-4.json",
         "data/releases/2025/x6999-lamborghini-gallardo-lp560-4.json",
         "data/releases/2026/x6999-lamborghini-gallardo-lp560-4.json"
     ],

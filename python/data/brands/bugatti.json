@@ -6,5 +6,8 @@
     "castings": [
         "data/castings/bugatti-veyron.json"
     ],
-    "description": "Manufacturer of Bugatti vehicles."
+    "description": {
+        "en-us": "Manufacturer of Bugatti vehicles.",
+        "pt-br": "Fabricante de veículos Bugatti."
+    }
 }

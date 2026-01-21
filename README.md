@@ -9,7 +9,7 @@ Uma base de dados abrangente e estruturada de castings, releases, séries e marc
 ## 📋 Índice
 
 - [Visão Geral](#visão-geral)
-- [Estrutura dos Dados](#estrutura-dos-dados)
+- [📁 Estrutura dos Dados](#estrutura-dos-dados)
 - [Como Começar](#como-começar)
 - [Adicionando/Editando Dados](#adicionandoditando-dados)
 - [Contribuindo via Git](#contribuindo-via-git)
@@ -29,7 +29,7 @@ Este projeto é impulsionado por dados organizados em arquivos JSON. Ajudamos a 
 
 ---
 
-## 📁 [Estrutura dos Dados](#estrutura-dos-dados)
+## [📁 Estrutura dos Dados](#estrutura-dos-dados)
 
 ```
 data/

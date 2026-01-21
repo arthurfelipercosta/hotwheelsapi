@@ -239,7 +239,7 @@ git push origin feature/data-update-bugatti-veyron
 
 ## Fontes
 - Hot Wheels Fandom Wiki
-- Catálogos 2024-2026
+- Catálogos 2013-2026
 
 Closes #42
 ```
@@ -315,6 +315,7 @@ Seu trabalho faz diferença! Cada dado adicionado nos aproxima de um banco de da
 ---
 
 **Obrigado por ajudar a construir este vasto banco de dados! 🙏🏎️**
+
 
 
 

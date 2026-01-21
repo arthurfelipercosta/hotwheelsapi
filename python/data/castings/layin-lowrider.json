@@ -1,0 +1,21 @@
+{
+    "casting_id": "layin-lowrider",
+    "name": "Layin' Lowrider",
+    "description": {
+        "en-us": "Layin' Lowrider Debut series Experimotors Produced 2022 – Present Designer Sonny Fisher Number HCT39",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct39-layin-lowrider.json",
+        "data/releases/2022/hcx29-layin-lowrider.json",
+        "data/releases/2023/hkj08-layin-lowrider.json",
+        "data/releases/2024/htb91-layin-lowrider.json",
+        "data/releases/2024/htf79-layin-lowrider.json",
+        "data/releases/2024/htd39-layin-lowrider.json",
+        "data/releases/2025/jbb37-layin-lowrider.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

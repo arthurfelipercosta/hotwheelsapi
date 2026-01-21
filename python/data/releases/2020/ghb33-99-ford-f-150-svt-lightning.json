@@ -1,0 +1,24 @@
+{
+    "release_id": "ghb33-99-ford-f-150-svt-lightning-2020",
+    "toy_number": "GHB33",
+    "casting_id": "99-ford-f-150-svt-lightning",
+    "year": 2020,
+    "series_id": "hw-hot-trucks",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Champagne Gold",
+        "tampo": "Detailed headlights, taillights, & front grill, Lightning logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N25, N27, N28, N31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/2020ML13_%28Large%29.JPG/revision/latest?cb=20200920030954"
+    }
+}

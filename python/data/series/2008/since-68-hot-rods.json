@@ -1,0 +1,11 @@
+{
+    "series_id": "since-68-hot-rods",
+    "year": 2008,
+    "name": "Since '68: Hot Rods",
+    "total_releases": 2,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2008/m1573-58-impala.json",
+        "data/releases/2008/m1576-custom-53-chevy.json"
+    ]
+}

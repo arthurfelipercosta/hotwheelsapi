@@ -1,0 +1,11 @@
+{
+    "series_id": "batman-5-pack",
+    "year": 2011,
+    "name": "Batman 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2011/w4240-bone-shaker.json",
+        "data/releases/2011/w4240-the-dark-knight-batmobile.json"
+    ]
+}

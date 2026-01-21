@@ -1,0 +1,24 @@
+{
+    "release_id": "jbk74-land-rover-defender-90-2025",
+    "toy_number": "JBK74",
+    "casting_id": "land-rover-defender-90",
+    "year": 2025,
+    "series_id": "car-culture-hw-off-road",
+    "series_index": 2,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Detailed headlights, taillights and trim",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black ORRR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T50, T52A, U05A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/LandRover90.jpg/revision/latest?cb=20250128105854"
+    }
+}

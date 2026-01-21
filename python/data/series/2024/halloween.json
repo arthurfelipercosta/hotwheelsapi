@@ -1,0 +1,10 @@
+{
+    "series_id": "halloween",
+    "year": 2024,
+    "name": "Halloween",
+    "total_releases": 1,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2024/hvx10-madfast.json"
+    ]
+}

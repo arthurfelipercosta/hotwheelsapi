@@ -1,0 +1,24 @@
+{
+    "release_id": "fyn60-nissan-skyline-gt-r-bnr32-2019",
+    "toy_number": "FYN60",
+    "casting_id": "nissan-skyline-gt-r-bnr32",
+    "year": 2019,
+    "series_id": "car-culture-open-track",
+    "series_index": 1,
+    "specs": {
+        "color": "Black",
+        "tampo": "Aqua, Blue & Black Striped Design, 'HKS Super Oil' Logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White RRE"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): L49, L51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/FYN60_Nissan_Skyline_GT-R_%28BNR32%29-3.jpg/revision/latest?cb=20190414124732"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "t9732-datsun-240z-2011",
+    "toy_number": "T9732",
+    "casting_id": "datsun-240z",
+    "year": 2011,
+    "series_id": "treasure-hunts",
+    "series_index": 12,
+    "specs": {
+        "color": "Red & White",
+        "tampo": "Red & Blue stripes on sides & across top, '24' on sides, 'Datsun' on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Lip MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D18, D19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Datsun_240Z_-_11TH.JPG/revision/latest?cb=20151209062738"
+    }
+}

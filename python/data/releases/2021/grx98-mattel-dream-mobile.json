@@ -1,0 +1,32 @@
+{
+    "release_id": "grx98-mattel-dream-mobile-2021",
+    "toy_number": "GRX98",
+    "casting_id": "mattel-dream-mobile",
+    "year": 2021,
+    "series_id": "tooned",
+    "series_index": 2,
+    "specs": {
+        "color": "Blue Bullet",
+        "tampo": "Silver stripes on sides & roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "Chartreuse Dreamliner",
+            "2": "Red",
+            "3": "GTC20",
+            "4": "Base code(s): P02",
+            "5": "P03",
+            "6": "P05",
+            "7": "P07",
+            "8": "P11"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N33, N34, N36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Mattel_Dream_Mobile_-_2021_Tooned_-_Turquoise.jpg/revision/latest?cb=20231124220221"
+    }
+}

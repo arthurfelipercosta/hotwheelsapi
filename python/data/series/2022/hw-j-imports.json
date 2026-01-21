@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-j-imports",
+    "year": 2022,
+    "name": "HW J-Imports",
+    "total_releases": 8,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2022/hct11-honda-civic-custom.json",
+        "data/releases/2022/hcv76-mazda-rx-7.json",
+        "data/releases/2022/hcv78-mazda-rx-3.json",
+        "data/releases/2022/hcv83-90-acura-nsx.json",
+        "data/releases/2022/hcx24-mazda-rx-7.json",
+        "data/releases/2022/hcx58-90-acura-nsx.json",
+        "data/releases/2022/hcx78-honda-civic-custom.json",
+        "data/releases/2022/hcy54-mazda-rx-3.json"
+    ]
+}

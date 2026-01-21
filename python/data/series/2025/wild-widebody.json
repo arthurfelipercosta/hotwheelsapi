@@ -1,0 +1,19 @@
+{
+    "series_id": "wild-widebody",
+    "year": 2025,
+    "name": "Wild Widebody",
+    "total_releases": 10,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2025/hyw38-bmw-635-csi.json",
+        "data/releases/2025/hyw54-jaguar-xjc-v12-coupe.json",
+        "data/releases/2025/hyy21-jaguar-xjc-v12-coupe.json",
+        "data/releases/2025/jbb11-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2025/jbb24-pontiac-aztek-custom.json",
+        "data/releases/2025/jbb84-bmw-635-csi.json",
+        "data/releases/2025/jbb85-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2025/jbc09-pontiac-aztek-custom.json",
+        "data/releases/2025/jbc33-84-audi-sport-quattro.json",
+        "data/releases/2025/jjm45-pontiac-aztek-custom.json"
+    ]
+}

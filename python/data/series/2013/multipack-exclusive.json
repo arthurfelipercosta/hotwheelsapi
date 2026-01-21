@@ -1,0 +1,16 @@
+{
+    "series_id": "multipack-exclusive",
+    "year": 2013,
+    "name": "Multipack Exclusive",
+    "total_releases": 7,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x6999-55-chevy.json",
+        "data/releases/2013/x6999-corvette-stingray.json",
+        "data/releases/2013/x6999-fish-d-chip-d.json",
+        "data/releases/2013/x6999-mid-mill.json",
+        "data/releases/2013/x6999-pass-n-gasser.json",
+        "data/releases/2013/x6999-salt-shaker.json",
+        "data/releases/2013/x6999-triumph-tr6.json"
+    ]
+}

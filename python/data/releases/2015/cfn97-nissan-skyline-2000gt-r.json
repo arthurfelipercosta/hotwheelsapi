@@ -1,0 +1,24 @@
+{
+    "release_id": "cfn97-nissan-skyline-2000gt-r-2015",
+    "toy_number": "CFN97",
+    "casting_id": "nissan-skyline-2000gt-r",
+    "year": 2015,
+    "series_id": "hot-wheels-heritage-redline",
+    "series_index": 11,
+    "specs": {
+        "color": "Red",
+        "tampo": "White and black Stripes on sides,hood, and roof. \"22\" on sides and hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RLBW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/Nissan_Skyline_2000GT-R_-_15_Heritage_Redlines_600pxDM.jpg/revision/latest?cb=20151201064837"
+    }
+}

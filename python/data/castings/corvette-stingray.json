@@ -1,0 +1,37 @@
+{
+    "casting_id": "corvette-stingray",
+    "name": "Corvette Stingray",
+    "description": {
+        "en-us": "Corvette Stingray Debut series Color FX Produced 1990 - Present Designer Larry Wood Number 12030",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/1995/12030-corvette-stingray.json",
+        "data/releases/1996/13366-corvette-stingray.json",
+        "data/releases/1996/15263-corvette-stingray.json",
+        "data/releases/1999/24070-corvette-stingray.json",
+        "data/releases/2000/27120-corvette-stingray.json",
+        "data/releases/2004/b3619-corvette-stingray.json",
+        "data/releases/2006/l1193-corvette-stingray.json",
+        "data/releases/2009/p7771-corvette-stingray.json",
+        "data/releases/2010/r0215-corvette-stingray.json",
+        "data/releases/2013/x6999-corvette-stingray.json",
+        "data/releases/2014/x6999-corvette-stingray.json",
+        "data/releases/2015/x6999-corvette-stingray.json",
+        "data/releases/2015/x6999-corvette-stingray-v2.json",
+        "data/releases/2015/cfm44-corvette-stingray.json",
+        "data/releases/2018/x6999-corvette-stingray.json",
+        "data/releases/2019/fyg03-corvette-stingray.json",
+        "data/releases/2020/x6999-corvette-stingray.json",
+        "data/releases/2021/x6999-corvette-stingray.json",
+        "data/releases/2022/x6999-corvette-stingray.json",
+        "data/releases/2024/htb52-corvette-stingray.json",
+        "data/releases/2024/htd53-corvette-stingray.json",
+        "data/releases/2025/x6999-corvette-stingray.json",
+        "data/releases/2026/jkx86-corvette-stingray.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 1995,
+    "manufacturer": "Mattel"
+}

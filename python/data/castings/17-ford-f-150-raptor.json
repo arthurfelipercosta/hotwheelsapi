@@ -1,0 +1,33 @@
+{
+    "casting_id": "17-ford-f-150-raptor",
+    "name": "'17 Ford F-150 Raptor",
+    "description": {
+        "en-us": "'17 Ford F-150 Raptor Debut series HW Hot Trucks Produced 2016 - Present Designer Ryu Asada Number DHP19",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp19-17-ford-f-150-raptor.json",
+        "data/releases/2016/dhx48-17-ford-f-150-raptor.json",
+        "data/releases/2017/dtx72-17-ford-f-150-raptor.json",
+        "data/releases/2017/dvb69-17-ford-f-150-raptor.json",
+        "data/releases/2018/fjw59-17-ford-f-150-raptor.json",
+        "data/releases/2018/fjy53-17-ford-f-150-raptor.json",
+        "data/releases/2018/fjy54-17-ford-f-150-raptor.json",
+        "data/releases/2019/fyn71-17-ford-f-150-raptor.json",
+        "data/releases/2019/fyp67-17-ford-f-150-raptor.json",
+        "data/releases/2020/ghp51-17-ford-f-150-raptor.json",
+        "data/releases/2021/gtd72-17-ford-f-150-raptor.json",
+        "data/releases/2021/gry06-17-ford-f-150-raptor.json",
+        "data/releases/2021/gtb91-17-ford-f-150-raptor.json",
+        "data/releases/2022/hfv94-17-ford-f-150-raptor.json",
+        "data/releases/2023/hlk22-17-ford-f-150-raptor.json",
+        "data/releases/2024/hrr77-17-ford-f-150-raptor.json",
+        "data/releases/2025/jbk70-17-ford-f-150-raptor.json",
+        "data/releases/2025/jbb05-17-ford-f-150-raptor.json",
+        "data/releases/2025/hyy19-17-ford-f-150-raptor.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Ford"
+}

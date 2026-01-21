@@ -1,0 +1,24 @@
+{
+    "release_id": "djk87-92-ford-mustang-2016",
+    "toy_number": "DJK87",
+    "casting_id": "92-ford-mustang",
+    "year": 2016,
+    "series_id": "ford-performance",
+    "series_index": 3,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Black & red lines on top & sides, Ford logo, Ford Performance, Sponsors logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Orange 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): J02, J06, J13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/92_Mustang_%28DJK87%29.png/revision/latest?cb=20170819232838"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "gry91-67-chevy-c10-2021",
+    "toy_number": "GRY91",
+    "casting_id": "67-chevy-c10",
+    "year": 2021,
+    "series_id": "hw-hot-trucks",
+    "series_index": 4,
+    "specs": {
+        "color": "Blue",
+        "tampo": "White stripe below window with Hot Wheels and Chevrolet logos in dark blue. Dark blue stripe at bottom with Goodyear logo in yellow. Dark blue and yellow on hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "B5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P12, P14 Case(s): L",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/GRY91_%2767_Chevy_C10_Loose.jpg/revision/latest?cb=20210703232819"
+    }
+}

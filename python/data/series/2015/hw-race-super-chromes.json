@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-race-super-chromes",
+    "year": 2015,
+    "name": "HW Race: Super Chromes",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfl01-rd-06.json",
+        "data/releases/2015/cfl05-salt-shaker.json",
+        "data/releases/2015/cfl95-rd-06.json"
+    ]
+}

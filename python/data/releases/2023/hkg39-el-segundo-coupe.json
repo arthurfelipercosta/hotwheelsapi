@@ -1,0 +1,24 @@
+{
+    "release_id": "hkg39-el-segundo-coupe-2023",
+    "toy_number": "HKG39",
+    "casting_id": "el-segundo-coupe",
+    "year": 2023,
+    "series_id": "hw-dream-garage",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake gray",
+        "tampo": "White circles on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): R46, R47, R50, R52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/ElSegundoCoupe.jpg/revision/latest?cb=20221216090828"
+    }
+}

@@ -2,10 +2,13 @@
     "series_id": "speed-machines",
     "year": 2010,
     "name": "Speed Machines",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/2010/r8492-2008-lancer-evolution.json",
-        "data/releases/2010/t4423-2008-lancer-evolution.json"
+        "data/releases/2010/r8494-lotus-sport-elise.json",
+        "data/releases/2010/r8504-ford-gt.json",
+        "data/releases/2010/t4423-2008-lancer-evolution.json",
+        "data/releases/2010/t4435-ford-gt.json"
     ]
 }

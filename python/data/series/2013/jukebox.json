@@ -2,9 +2,14 @@
     "series_id": "jukebox",
     "year": 2013,
     "name": "Jukebox",
-    "total_releases": 1,
-    "max_index": 30,
+    "total_releases": 6,
+    "max_index": 24,
     "releases": [
-        "data/releases/2013/y2066-2008-lancer-evolution.json"
+        "data/releases/2013/y2060-80-el-camino.json",
+        "data/releases/2013/y2061-33-ford-lo-boy.json",
+        "data/releases/2013/y2062-47-chevy-fleetline.json",
+        "data/releases/2013/y2066-2008-lancer-evolution.json",
+        "data/releases/2013/y2074-92-ford-mustang.json",
+        "data/releases/2013/y9392-dmc-delorean.json"
     ]
 }

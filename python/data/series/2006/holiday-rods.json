@@ -1,0 +1,17 @@
+{
+    "series_id": "holiday-rods",
+    "year": 2006,
+    "name": "Holiday Rods",
+    "total_releases": 8,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2006/j2799-70-plymouth-superbird.json",
+        "data/releases/2006/j2799-70-plymouth-superbird.json",
+        "data/releases/2006/j2799-70-plymouth-superbird.json",
+        "data/releases/2006/j2799-70-plymouth-superbird.json",
+        "data/releases/2006/k9105-68-dodge-dart.json",
+        "data/releases/2006/k9105-68-dodge-dart.json",
+        "data/releases/2006/k9105-68-dodge-dart.json",
+        "data/releases/2006/k9105-68-dodge-dart.json"
+    ]
+}

@@ -24,5 +24,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): C42",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/2010-091b.jpg/revision/latest?cb=20100903151124"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/2010-091b.jpg/revision/latest?cb=20100903151124"
+    }
 }

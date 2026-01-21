@@ -2,9 +2,10 @@
     "series_id": "avengers",
     "year": 2018,
     "name": "Avengers",
-    "total_releases": 1,
-    "max_index": 4,
+    "total_releases": 2,
+    "max_index": 2,
     "releases": [
+        "data/releases/2018/fkd51-purple-passion.json",
         "data/releases/2018/fkd54-night-shifter.json"
     ]
 }

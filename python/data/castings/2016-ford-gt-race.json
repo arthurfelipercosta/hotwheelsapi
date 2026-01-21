@@ -1,0 +1,30 @@
+{
+    "casting_id": "2016-ford-gt-race",
+    "name": "2016 Ford GT Race",
+    "description": {
+        "en-us": "2016 Ford GT Race Debut series HW Speed Graphics Produced 2017 - Present Designer Ryu Asada Number DTW92",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtw92-2016-ford-gt-race.json",
+        "data/releases/2017/dvb59-2016-ford-gt-race.json",
+        "data/releases/2017/dwj92-2016-ford-gt-race.json",
+        "data/releases/2018/fjw45-2016-ford-gt-race.json",
+        "data/releases/2018/fjy36-2016-ford-gt-race.json",
+        "data/releases/2018/fkb38-2016-ford-gt-race.json",
+        "data/releases/2018/flc26-2016-ford-gt-race.json",
+        "data/releases/2020/gjt40-2016-ford-gt-race.json",
+        "data/releases/2021/gry40-2016-ford-gt-race.json",
+        "data/releases/2021/gtb52-2016-ford-gt-race.json",
+        "data/releases/2022/hcy72-2016-ford-gt-race.json",
+        "data/releases/2022/hff49-2016-ford-gt-race.json",
+        "data/releases/2023/hly63-2016-ford-gt-race.json",
+        "data/releases/2024/htc71-2016-ford-gt-race.json",
+        "data/releases/2025/jbl67-2016-ford-gt-race.json",
+        "data/releases/2026/jjm05-2016-ford-gt-race.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Ford"
+}

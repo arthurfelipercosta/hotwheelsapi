@@ -18,5 +18,7 @@
     },
     "country": "Thailand",
     "notes": "Base code(s): L08, L09, L17, L19, L22",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/IMG_0546_%282%29.jpg/revision/latest?cb=20180519114030"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/IMG_0546_%282%29.jpg/revision/latest?cb=20180519114030"
+    }
 }

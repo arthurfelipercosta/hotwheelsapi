@@ -1,0 +1,11 @@
+{
+    "series_id": "advent-calendar",
+    "year": 2023,
+    "name": "Advent Calendar",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2023/fjw02-hw50-concept.json",
+        "data/releases/2023/hkl74-el-viento.json"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "brand_id": "lamborghini",
+    "name": "Lamborghini",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/71-lamborghini-miura-sv.json",
+        "data/castings/lamborghini-hurac-n-sterrato.json",
+        "data/castings/16-lamborghini-centenario-roadster.json",
+        "data/castings/lb-works-lamborghini-hurac-n-coup.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Lamborghini vehicles.",
+        "pt-br": "Fabricante de veículos Lamborghini."
+    }
+}

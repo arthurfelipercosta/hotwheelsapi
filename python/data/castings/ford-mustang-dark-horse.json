@@ -1,0 +1,16 @@
+{
+    "casting_id": "ford-mustang-dark-horse",
+    "name": "Ford Mustang Dark Horse",
+    "description": {
+        "en-us": "Ford Mustang Dark Horse Debut series Then and Now Produced 2024 – Present Designer Shawn Moghadam Number HRY93",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry93-ford-mustang-dark-horse.json",
+        "data/releases/2025/jbb34-ford-mustang-dark-horse.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Ford"
+}

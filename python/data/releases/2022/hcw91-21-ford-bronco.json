@@ -1,0 +1,24 @@
+{
+    "release_id": "hcw91-21-ford-bronco-2022",
+    "toy_number": "HCW91",
+    "casting_id": "21-ford-bronco",
+    "year": 2022,
+    "series_id": "mud-studs",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "Detailed headlights, \"BRONCO\" on front, number '1' & mud stains on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Tan BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R07, R10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Ford_Bronco%28red%29.png/revision/latest?cb=20220623185920"
+    }
+}

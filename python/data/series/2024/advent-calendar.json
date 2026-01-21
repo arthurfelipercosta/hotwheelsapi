@@ -1,0 +1,10 @@
+{
+    "series_id": "advent-calendar",
+    "year": 2024,
+    "name": "Advent Calendar",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2024/htg00-hw-formula-solar.json"
+    ]
+}

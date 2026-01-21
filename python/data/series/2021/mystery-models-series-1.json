@@ -1,0 +1,12 @@
+{
+    "series_id": "mystery-models-series-1",
+    "year": 2021,
+    "name": "Mystery Models (Series 1)",
+    "total_releases": 3,
+    "max_index": 11,
+    "releases": [
+        "data/releases/2021/gtd95-rrroadster.json",
+        "data/releases/2021/gtf00-twin-mill-gen-e.json",
+        "data/releases/2021/gtf04-gotta-go.json"
+    ]
+}

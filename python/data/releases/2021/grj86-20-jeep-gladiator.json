@@ -1,0 +1,24 @@
+{
+    "release_id": "grj86-20-jeep-gladiator-2021",
+    "toy_number": "GRJ86",
+    "casting_id": "20-jeep-gladiator",
+    "year": 2021,
+    "series_id": "car-culture-hyper-haulers",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Forest Green",
+        "tampo": "Detailed headlights and taillights, black doors, dirt bikes in bed",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RRF52T"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P27, P29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/%2720JeepGladiator.jpg/revision/latest?cb=20211010064922"
+    }
+}

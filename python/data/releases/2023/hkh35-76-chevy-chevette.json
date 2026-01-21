@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh35-76-chevy-chevette-2023",
+    "toy_number": "HKH35",
+    "casting_id": "76-chevy-chevette",
+    "year": 2023,
+    "series_id": "hw-drag-strip",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "Orange, Yellow, and Black stripes roof, hood, and sides. White Chevrolet logo, \"GOODYEAR\", and \"BELL\" on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5 & 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): S19, S20, S21, S22, S23, S24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/HKH35-LOOSE.jpg/revision/latest?cb=20230820081305"
+    }
+}

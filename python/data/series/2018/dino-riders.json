@@ -1,0 +1,10 @@
+{
+    "series_id": "dino-riders",
+    "year": 2018,
+    "name": "Dino Riders",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2018/fjx16-humvee.json"
+    ]
+}

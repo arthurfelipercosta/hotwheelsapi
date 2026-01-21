@@ -1,0 +1,16 @@
+{
+    "series_id": "experimotors",
+    "year": 2021,
+    "name": "Experimotors",
+    "total_releases": 7,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2021/grx73-carbonator.json",
+        "data/releases/2021/grx75-hw-formula-solar.json",
+        "data/releases/2021/grx78-speed-driver.json",
+        "data/releases/2021/gtc18-carbonator.json",
+        "data/releases/2021/gtc25-speed-driver.json",
+        "data/releases/2021/gtc27-hw-formula-solar.json",
+        "data/releases/2021/gtc87-skull-shaker.json"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "factory-fresh",
+    "year": 2019,
+    "name": "Factory Fresh",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2019/fyb37-range-rover-velar.json",
+        "data/releases/2019/fyc11-17-audi-rs6-avant.json",
+        "data/releases/2019/fyc47-porsche-911-gt3-rs.json",
+        "data/releases/2019/fyg05-porsche-911-gt3-rs.json",
+        "data/releases/2019/fyg50-range-rover-velar.json"
+    ]
+}

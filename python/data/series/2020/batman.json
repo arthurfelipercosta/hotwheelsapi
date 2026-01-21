@@ -1,0 +1,12 @@
+{
+    "series_id": "batman",
+    "year": 2020,
+    "name": "Batman",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2020/ghb94-tv-series-batmobile.json",
+        "data/releases/2020/ghd69-arkham-asylum-batmobile.json",
+        "data/releases/2020/ghg55-tv-series-batmobile.json"
+    ]
+}

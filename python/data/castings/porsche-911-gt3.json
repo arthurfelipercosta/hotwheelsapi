@@ -1,0 +1,23 @@
+{
+    "casting_id": "porsche-911-gt3",
+    "name": "Porsche 911 GT3",
+    "description": {
+        "en-us": "Porsche 911 GT3 Debut series Factory Fresh Produced 2022 – Present Designer Lindsey Lee Number HCT22",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct22-porsche-911-gt3.json",
+        "data/releases/2022/hcx85-porsche-911-gt3.json",
+        "data/releases/2023/hkc44-porsche-911-gt3.json",
+        "data/releases/2023/hkc45-porsche-911-gt3.json",
+        "data/releases/2023/hkh97-porsche-911-gt3.json",
+        "data/releases/2023/hkl49-porsche-911-gt3.json",
+        "data/releases/2025/hyx17-porsche-911-gt3.json",
+        "data/releases/2025/jcb40-porsche-911-gt3.json",
+        "data/releases/2026/jlb25-porsche-911-gt3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Porsche"
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-moto",
+    "year": 2023,
+    "name": "HW Moto",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2023/hkg49-honda-cb750-caf.json",
+        "data/releases/2023/hkk34-honda-cb750-caf.json"
+    ]
+}

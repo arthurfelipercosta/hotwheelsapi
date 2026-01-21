@@ -1,0 +1,24 @@
+{
+    "release_id": "cfn94-datsun-240z-2015",
+    "toy_number": "CFN94",
+    "casting_id": "datsun-240z",
+    "year": 2015,
+    "series_id": "hot-wheels-heritage-real-riders",
+    "series_index": 3,
+    "specs": {
+        "color": "Red",
+        "tampo": "Silver stripes on hood, roof, & sides, \"Datsun\" on hood, \"Special 240\", \"F/GT\", & \"Good Year\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "DISH"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): H17, H18, H20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/HW-2015-Heritage_Series-Datsun_240Z.jpg/revision/latest?cb=20150716135914"
+    }
+}

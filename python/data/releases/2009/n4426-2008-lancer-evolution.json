@@ -18,5 +18,7 @@
     },
     "country": "Thailand",
     "notes": "Base code(s): B31",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/08_Lancer_Color_Shifter.jpg/revision/latest?cb=20090211103014"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/08_Lancer_Color_Shifter.jpg/revision/latest?cb=20090211103014"
+    }
 }

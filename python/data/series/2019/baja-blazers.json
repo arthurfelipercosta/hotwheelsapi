@@ -1,0 +1,16 @@
+{
+    "series_id": "baja-blazers",
+    "year": 2019,
+    "name": "Baja Blazers",
+    "total_releases": 7,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2019/fwg04-84-audi-sport-quattro.json",
+        "data/releases/2019/fyb98-15-land-rover-defender-double-cab.json",
+        "data/releases/2019/fyf52-15-land-rover-defender-double-cab.json",
+        "data/releases/2019/fyf52-15-land-rover-defender-double-cab.json",
+        "data/releases/2019/fyf53-84-audi-sport-quattro.json",
+        "data/releases/2019/fyf91-humvee.json",
+        "data/releases/2019/fyg28-15-land-rover-defender-double-cab.json"
+    ]
+}

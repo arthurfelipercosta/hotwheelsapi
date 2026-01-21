@@ -1,0 +1,12 @@
+{
+    "series_id": "mystery-models-series-2",
+    "year": 2022,
+    "name": "Mystery Models (Series 2)",
+    "total_releases": 3,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2022/hfk90-91-gmc-syclone.json",
+        "data/releases/2022/hfk95-el-viento.json",
+        "data/releases/2022/hfk97-fish-d-chip-d.json"
+    ]
+}

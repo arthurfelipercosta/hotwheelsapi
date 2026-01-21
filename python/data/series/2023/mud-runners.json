@@ -1,0 +1,12 @@
+{
+    "series_id": "mud-runners",
+    "year": 2023,
+    "name": "Mud Runners",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2023/hlk19-15-land-rover-defender-double-cab.json",
+        "data/releases/2023/hlk20-blazer-4-4.json",
+        "data/releases/2023/hlk22-17-ford-f-150-raptor.json"
+    ]
+}

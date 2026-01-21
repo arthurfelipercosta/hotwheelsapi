@@ -26,5 +26,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): K16",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Futurismo_Digital_Chase.jpg/revision/latest?cb=20240222180300"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Futurismo_Digital_Chase.jpg/revision/latest?cb=20240222180300"
+    }
 }

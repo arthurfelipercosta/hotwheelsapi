@@ -1,0 +1,10 @@
+{
+    "series_id": "disney-classics",
+    "year": 2022,
+    "name": "Disney Classics",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2022/hdg88-the-vanster.json"
+    ]
+}

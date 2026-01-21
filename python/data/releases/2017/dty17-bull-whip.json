@@ -19,5 +19,7 @@
     },
     "country": "Malaysia",
     "notes": "Updated Tooling Base code(s): K15",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/7/75/BullWhipDTY17.jpg/revision/latest?cb=20170524011658"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/BullWhipDTY17.jpg/revision/latest?cb=20170524011658"
+    }
 }

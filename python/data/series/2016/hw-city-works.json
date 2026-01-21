@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-city-works",
+    "year": 2016,
+    "name": "HW City Works",
+    "total_releases": 6,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2016/dhp24-crate-racer.json",
+        "data/releases/2016/dhr30-67-austin-mini-van.json",
+        "data/releases/2016/dhr71-chill-mill.json",
+        "data/releases/2016/dhw56-chill-mill.json",
+        "data/releases/2016/dhx00-crate-racer.json",
+        "data/releases/2016/dhx53-67-austin-mini-van.json"
+    ]
+}

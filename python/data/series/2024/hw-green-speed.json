@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-green-speed",
+    "year": 2024,
+    "name": "HW Green Speed",
+    "total_releases": 8,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2024/hry49-czinger-21c.json",
+        "data/releases/2024/hry63-silverado-ev-rst.json",
+        "data/releases/2024/hry90-ford-performance-supervan-4.json",
+        "data/releases/2024/htc92-czinger-21c.json",
+        "data/releases/2024/htd33-ford-performance-supervan-4.json",
+        "data/releases/2024/htd57-silverado-ev-rst.json",
+        "data/releases/2024/htf20-ford-mustang-mach-e-1400.json",
+        "data/releases/2024/htf46-czinger-21c.json"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "casting_id": "71-lamborghini-miura-sv",
+    "name": "'71 Lamborghini Miura SV",
+    "description": {
+        "en-us": "'71 Lamborghini Miura SV Debut series Hot Wheels id: Factory Fresh Produced 2019 – Present Designer Phil Riehlman Number FXB06",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fxb06-71-lamborghini-miura-sv.json",
+        "data/releases/2020/gml20-71-lamborghini-miura-sv.json",
+        "data/releases/2022/hcv34-71-lamborghini-miura-sv.json",
+        "data/releases/2022/hcy13-71-lamborghini-miura-sv.json",
+        "data/releases/2022/hcx02-71-lamborghini-miura-sv.json",
+        "data/releases/2024/hrv03-71-lamborghini-miura-sv.json",
+        "data/releases/2025/hyx22-71-lamborghini-miura-sv.json",
+        "data/releases/2025/hyx73-71-lamborghini-miura-sv.json",
+        "data/releases/2025/hyy27-71-lamborghini-miura-sv.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Lamborghini"
+}

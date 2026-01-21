@@ -1,0 +1,11 @@
+{
+    "series_id": "holiday-hot-rods",
+    "year": 2019,
+    "name": "Holiday Hot Rods",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2019/gbc62-screamliner.json",
+        "data/releases/2019/gbc64-carbonator.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "r3748-8-crate-2010",
+    "toy_number": "R3748",
+    "casting_id": "8-crate",
+    "year": 2010,
+    "series_id": "hot-wheels-delivery-slick-rides",
+    "series_index": 29,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Black & Red \"TRW\" with stripe design",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Red)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Redline RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): C13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/8Crate_delivery_silver.JPG/revision/latest?cb=20100525232522"
+    }
+}

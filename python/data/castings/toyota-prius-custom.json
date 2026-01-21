@@ -1,0 +1,16 @@
+{
+    "casting_id": "toyota-prius-custom",
+    "name": "Toyota Prius Custom",
+    "description": {
+        "en-us": "Toyota Prius Custom Debut series HW J-Imports Produced 2026 – Present Designer Bryan Zhao and Jimmy Liu Number JJH37",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2026/jjh37-toyota-prius-custom.json",
+        "data/releases/2026/jjm48-toyota-prius-custom.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2026,
+    "manufacturer": "Toyota"
+}

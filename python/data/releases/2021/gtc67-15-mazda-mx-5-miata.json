@@ -1,0 +1,24 @@
+{
+    "release_id": "gtc67-15-mazda-mx-5-miata-2021",
+    "toy_number": "GTC67",
+    "casting_id": "15-mazda-mx-5-miata",
+    "year": 2021,
+    "series_id": "then-and-now",
+    "series_index": 4,
+    "specs": {
+        "color": "Anodized Metalflake Gray",
+        "tampo": "White offset stripe across hood, 'MAZDA' stripe on sides & Hot Wheels logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P18, P21, P28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/15_MAZDA_MX-5_MIATA_GTC67.jpg/revision/latest?cb=20211108182453"
+    }
+}

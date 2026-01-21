@@ -1,0 +1,24 @@
+{
+    "release_id": "gtc08-98-honda-prelude-2021",
+    "toy_number": "GTC08",
+    "casting_id": "98-honda-prelude",
+    "year": 2021,
+    "series_id": "hw-j-imports",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "Honda hood logo & detailed front foglights, detailed taillights & Black Hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P21, P30, P31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/GTC08-01.JPG/revision/latest?cb=20211225010930"
+    }
+}

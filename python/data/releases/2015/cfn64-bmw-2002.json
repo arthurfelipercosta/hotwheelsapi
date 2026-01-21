@@ -1,0 +1,24 @@
+{
+    "release_id": "cfn64-bmw-2002-2015",
+    "toy_number": "CFN64",
+    "casting_id": "bmw-2002",
+    "year": 2015,
+    "series_id": "hot-wheels-heritage-real-riders",
+    "series_index": 11,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Black & Blue stripes on sides, hood, & trunk, '02' on sides, Goodyear logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Chrome & Black RR8SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H28, H30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/HW-2015-Heritage_Series_RR_-11-BMW_2002.jpg/revision/latest?cb=20151101141043"
+    }
+}

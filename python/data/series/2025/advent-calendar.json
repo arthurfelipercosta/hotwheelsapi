@@ -1,0 +1,11 @@
+{
+    "series_id": "advent-calendar",
+    "year": 2025,
+    "name": "Advent Calendar",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2025/jcb47-electro-silhouette.json",
+        "data/releases/2025/jcb47-nerve-hammer.json"
+    ]
+}

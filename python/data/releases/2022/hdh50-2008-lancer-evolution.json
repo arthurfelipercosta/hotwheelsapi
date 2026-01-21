@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): P36",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/8/83/MitsubishiEvoX.jpg/revision/latest?cb=20220318225517"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/MitsubishiEvoX.jpg/revision/latest?cb=20220318225517"
+    }
 }

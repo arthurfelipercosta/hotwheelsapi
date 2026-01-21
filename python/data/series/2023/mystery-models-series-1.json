@@ -2,9 +2,12 @@
     "series_id": "mystery-models-series-1",
     "year": 2023,
     "name": "Mystery Models (Series 1)",
-    "total_releases": 1,
-    "max_index": 6,
+    "total_releases": 4,
+    "max_index": 4,
     "releases": [
-        "data/releases/2023/hlr23-formula-flashback.json"
+        "data/releases/2023/hlr23-formula-flashback.json",
+        "data/releases/2023/hlr28-track-ripper.json",
+        "data/releases/2023/hlr50-arrow-dynamic.json",
+        "data/releases/2023/hlr51-24-seven.json"
     ]
 }

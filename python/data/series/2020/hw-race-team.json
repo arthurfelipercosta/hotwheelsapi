@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-race-team",
+    "year": 2020,
+    "name": "HW Race Team",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2020/ghc59-custom-18-ford-mustang-gt.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "jkg12-formula-1-2026",
+    "toy_number": "JKG12",
+    "casting_id": "formula-1",
+    "year": 2026,
+    "series_id": "formula-one-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Haas livery, Haas, MoneyGram logos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "AeroDisc"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/JKG12_Haas_web.jpg/revision/latest?cb=20260120031833"
+    }
+}

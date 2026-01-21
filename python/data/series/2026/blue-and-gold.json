@@ -1,0 +1,17 @@
+{
+    "series_id": "blue-and-gold",
+    "year": 2026,
+    "name": "Blue and Gold",
+    "total_releases": 8,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2026/jkx81-bone-shaker.json",
+        "data/releases/2026/jkx83-70-chevy-camaro-rs.json",
+        "data/releases/2026/jkx86-corvette-stingray.json",
+        "data/releases/2026/jkx87-bmw-m3-wagon.json",
+        "data/releases/2026/jkx89-rodger-dodger-2-0.json",
+        "data/releases/2026/jkx90-escort-rally.json",
+        "data/releases/2026/jkx91-fiat-500e.json",
+        "data/releases/2026/jkx92-track-dwagon.json"
+    ]
+}

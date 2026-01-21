@@ -1,0 +1,24 @@
+{
+    "release_id": "hrv02-bmw-2002-2024",
+    "toy_number": "HRV02",
+    "casting_id": "bmw-2002",
+    "year": 2024,
+    "series_id": "vintage-racing-club",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights and taillights, Bilstein logo, \"2\", \"BS\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "C5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S41, S42, S43, S44, S45, S47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2024-VRC_HRV02_BMW_2002_open-4.jpg/revision/latest?cb=20240126205155"
+    }
+}

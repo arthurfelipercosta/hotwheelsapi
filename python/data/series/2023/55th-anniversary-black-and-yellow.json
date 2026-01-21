@@ -1,0 +1,11 @@
+{
+    "series_id": "55th-anniversary-black-and-yellow",
+    "year": 2023,
+    "name": "55th Anniversary Black and Yellow",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2023/hlk02-67-chevy-c10.json",
+        "data/releases/2023/hlk05-mercedes-benz-unimog-1300l.json"
+    ]
+}

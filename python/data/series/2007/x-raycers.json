@@ -1,0 +1,11 @@
+{
+    "series_id": "x-raycers",
+    "year": 2007,
+    "name": "X-Raycers",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2007/k7584-nerve-hammer.json",
+        "data/releases/2007/k7585-stockar.json"
+    ]
+}

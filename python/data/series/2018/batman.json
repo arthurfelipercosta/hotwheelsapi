@@ -1,0 +1,14 @@
+{
+    "series_id": "batman",
+    "year": 2018,
+    "name": "Batman",
+    "total_releases": 5,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2018/fjx34-tv-series-batmobile.json",
+        "data/releases/2018/fkb53-tv-series-batmobile.json",
+        "data/releases/2018/fkf39-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2018/fkf40-the-dark-knight-batmobile.json",
+        "data/releases/2018/fkf41-arkham-asylum-batmobile.json"
+    ]
+}

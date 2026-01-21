@@ -1,0 +1,21 @@
+{
+    "series_id": "red-edition",
+    "year": 2025,
+    "name": "Red Edition",
+    "total_releases": 12,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2025/hyy38-90-honda-civic-ef.json",
+        "data/releases/2025/hyy39-custom-cadillac-fleetwood.json",
+        "data/releases/2025/hyy40-small-bloc.json",
+        "data/releases/2025/hyy41-20-ford-shelby-gt500.json",
+        "data/releases/2025/hyy42-2020-ram-1500-rebel.json",
+        "data/releases/2025/hyy43-mercedes-benz-500-e.json",
+        "data/releases/2025/hyy44-datsun-240z.json",
+        "data/releases/2025/hyy45-lamborghini-hurac-n-sterrato.json",
+        "data/releases/2025/hyy46-68-corvette-gas-monkey-garage.json",
+        "data/releases/2025/hyy47-vw-t3-custom.json",
+        "data/releases/2025/hyy48-gordon-murray-automotive-t-50s.json",
+        "data/releases/2025/hyy49-75-chevy-blazer-custom.json"
+    ]
+}

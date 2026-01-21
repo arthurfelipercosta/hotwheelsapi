@@ -1,0 +1,14 @@
+{
+    "series_id": "ultra-hots",
+    "year": 2007,
+    "name": "Ultra Hots",
+    "total_releases": 5,
+    "max_index": 20,
+    "releases": [
+        "data/releases/2007/l0065-70-chevy-camaro-rs.json",
+        "data/releases/2007/l0075-67-mustang.json",
+        "data/releases/2007/l0080-70-dodge-hemi-challenger.json",
+        "data/releases/2007/m3633-67-mustang.json",
+        "data/releases/2007/m3641-70-dodge-hemi-challenger.json"
+    ]
+}

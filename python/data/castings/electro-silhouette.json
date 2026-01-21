@@ -1,0 +1,26 @@
+{
+    "casting_id": "electro-silhouette",
+    "name": "Electro Silhouette",
+    "description": {
+        "en-us": "Electro Silhouette Debut series HW Green Speed Produced 2019 - Present Designer John O'Laughlin Number FYB52",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb52-electro-silhouette.json",
+        "data/releases/2019/fyg51-electro-silhouette.json",
+        "data/releases/2020/ghc31-electro-silhouette.json",
+        "data/releases/2020/ghf45-electro-silhouette.json",
+        "data/releases/2021/x6999-electro-silhouette.json",
+        "data/releases/2021/gtf19-electro-silhouette.json",
+        "data/releases/2022/hcw43-electro-silhouette.json",
+        "data/releases/2023/x6999-electro-silhouette.json",
+        "data/releases/2024/htv45-electro-silhouette.json",
+        "data/releases/2025/jck96-electro-silhouette.json",
+        "data/releases/2025/jcb47-electro-silhouette.json",
+        "data/releases/2026/jjm02-electro-silhouette.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

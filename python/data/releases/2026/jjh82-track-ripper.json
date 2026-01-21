@@ -1,0 +1,24 @@
+{
+    "release_id": "jjh82-track-ripper-2026",
+    "toy_number": "JJH82",
+    "casting_id": "track-ripper",
+    "year": 2026,
+    "series_id": "hw-starting-grid",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "White, black & green stripes, gold accents \"23\", \"HWRT\", & Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Gold 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U34N, U35N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/TrackRipper.jpg/revision/latest?cb=20251015122131"
+    }
+}

@@ -18,5 +18,7 @@
     },
     "country": "Thailand",
     "notes": "",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    }
 }

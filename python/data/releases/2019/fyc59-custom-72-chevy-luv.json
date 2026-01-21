@@ -1,0 +1,24 @@
+{
+    "release_id": "fyc59-custom-72-chevy-luv-2019",
+    "toy_number": "FYC59",
+    "casting_id": "custom-72-chevy-luv",
+    "year": 2019,
+    "series_id": "hw-hot-trucks",
+    "series_index": 9,
+    "specs": {
+        "color": "Shannon Green",
+        "tampo": "Yellow, Orange & Brown stripes on sides & hood; HW logo on front fenders",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "OH5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L34, L35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/33/Custom_%2772_Chevy_LUV._2018_HW_Hot_Trucks._Front.jpg/revision/latest?cb=20181112034644"
+    }
+}

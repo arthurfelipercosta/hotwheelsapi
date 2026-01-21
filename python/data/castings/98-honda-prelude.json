@@ -1,0 +1,24 @@
+{
+    "casting_id": "98-honda-prelude",
+    "name": "'98 Honda Prelude",
+    "description": {
+        "en-us": "'98 Honda Prelude Debut series Honda Produced 2020 - Present Designer Ryu Asada Number GHB55",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb55-98-honda-prelude.json",
+        "data/releases/2020/ghf15-98-honda-prelude.json",
+        "data/releases/2021/gtb05-98-honda-prelude.json",
+        "data/releases/2021/gtd34-98-honda-prelude.json",
+        "data/releases/2021/gtc08-98-honda-prelude.json",
+        "data/releases/2021/grj91-98-honda-prelude.json",
+        "data/releases/2022/hfv93-98-honda-prelude.json",
+        "data/releases/2023/hlk16-98-honda-prelude.json",
+        "data/releases/2025/jcb00-98-honda-prelude.json",
+        "data/releases/2026/jjj89-98-honda-prelude.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Honda"
+}

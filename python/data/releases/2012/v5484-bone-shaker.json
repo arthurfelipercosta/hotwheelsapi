@@ -1,0 +1,25 @@
+{
+    "release_id": "v5484-bone-shaker-2012",
+    "toy_number": "V5484",
+    "casting_id": "bone-shaker",
+    "year": 2012,
+    "series_id": "hw-racing",
+    "series_index": 10,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Red, Yellow & White Hot Wheels Race Team deco, \"2\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): D45, D51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Bone_shaker_2012_blue.png/revision/latest?cb=20120517024822"
+    }
+}

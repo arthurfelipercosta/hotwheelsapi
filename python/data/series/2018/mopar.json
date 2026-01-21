@@ -1,0 +1,11 @@
+{
+    "series_id": "mopar",
+    "year": 2018,
+    "name": "Mopar",
+    "total_releases": 2,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2018/gdg54-2013-srt-viper.json",
+        "data/releases/2018/gdg61-70-dodge-power-wagon.json"
+    ]
+}

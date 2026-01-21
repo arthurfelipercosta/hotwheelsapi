@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Ferrari12Cilindri.jpg/revision/latest?cb=20251128012749"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Ferrari12Cilindri.jpg/revision/latest?cb=20251128012749"
+    }
 }

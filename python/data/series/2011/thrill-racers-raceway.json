@@ -1,0 +1,11 @@
+{
+    "series_id": "thrill-racers-raceway",
+    "year": 2011,
+    "name": "Thrill Racers: Raceway",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2011/t9926-ford-gt.json",
+        "data/releases/2011/v0033-ford-gt.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "fyf26-rrroadster-2019",
+    "toy_number": "FYF26",
+    "casting_id": "rrroadster",
+    "year": 2019,
+    "series_id": "hw-roadsters",
+    "series_index": 4,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black & White stripes hood & sides. HW Logo front side planels.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M22, M25, M26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/RRROADSTER_FYF26.jpg/revision/latest?cb=20190903212647"
+    }
+}

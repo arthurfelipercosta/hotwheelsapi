@@ -1,0 +1,19 @@
+{
+    "casting_id": "75-chevy-blazer-custom",
+    "name": "'75 Chevy Blazer Custom",
+    "description": {
+        "en-us": "'75 Chevy Blazer Custom Debut series Replica Entertainment: Jaws Produced 2023 – Present Designer Mark Jones Number HKC24",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkc24-75-chevy-blazer-custom.json",
+        "data/releases/2024/dap06-75-chevy-blazer-custom.json",
+        "data/releases/2025/jbb19-75-chevy-blazer-custom.json",
+        "data/releases/2025/hyy01-75-chevy-blazer-custom.json",
+        "data/releases/2025/hyy49-75-chevy-blazer-custom.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

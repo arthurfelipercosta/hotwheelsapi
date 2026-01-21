@@ -1,0 +1,25 @@
+{
+    "casting_id": "2018-bentley-continental-gt3",
+    "name": "2018 Bentley Continental GT3",
+    "description": {
+        "en-us": "2018 Bentley Continental GT3 Debut series Nightburnerz Produced 2020 - Present Designer Ryu Asada Number GHB29",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb29-2018-bentley-continental-gt3.json",
+        "data/releases/2020/gtd37-2018-bentley-continental-gt3.json",
+        "data/releases/2021/grx93-2018-bentley-continental-gt3.json",
+        "data/releases/2021/gtc29-2018-bentley-continental-gt3.json",
+        "data/releases/2023/hkh84-2018-bentley-continental-gt3.json",
+        "data/releases/2023/hkl45-2018-bentley-continental-gt3.json",
+        "data/releases/2024/hrx56-2018-bentley-continental-gt3.json",
+        "data/releases/2024/hrv93-2018-bentley-continental-gt3.json",
+        "data/releases/2024/hvr63-2018-bentley-continental-gt3.json",
+        "data/releases/2025/jbb30-2018-bentley-continental-gt3.json",
+        "data/releases/2025/jbc18-2018-bentley-continental-gt3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

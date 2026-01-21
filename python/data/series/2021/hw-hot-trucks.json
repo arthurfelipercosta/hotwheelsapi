@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-hot-trucks",
+    "year": 2021,
+    "name": "HW Hot Trucks",
+    "total_releases": 3,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2021/gry91-67-chevy-c10.json",
+        "data/releases/2021/gry97-99-ford-f-150-svt-lightning.json",
+        "data/releases/2021/gtc95-1978-dodge-li-l-red-express-truck.json"
+    ]
+}

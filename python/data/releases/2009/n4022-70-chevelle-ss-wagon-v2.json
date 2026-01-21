@@ -1,0 +1,24 @@
+{
+    "release_id": "n4022-70-chevelle-ss-wagon-2009",
+    "toy_number": "N4022",
+    "casting_id": "70-chevelle-ss-wagon",
+    "year": 2009,
+    "series_id": "2009-new-models",
+    "series_index": 19,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripes on hood, Silver accents",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B09, B12, B14, B18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/ChevelleWagon09NMYellow.jpg/revision/latest?cb=20250223101342"
+    }
+}

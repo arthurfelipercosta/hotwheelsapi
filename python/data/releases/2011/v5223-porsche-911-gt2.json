@@ -1,0 +1,25 @@
+{
+    "release_id": "v5223-porsche-911-gt2-2011",
+    "toy_number": "V5223",
+    "casting_id": "porsche-911-gt2",
+    "year": 2011,
+    "series_id": "nightburnerz",
+    "series_index": 9,
+    "specs": {
+        "color": "Metallic White",
+        "tampo": "Porsche badge, tail lights, GT2 on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome lip",
+            "1": "black J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Wing in \"White\" or \"Pearl White\" Base code(s): D37, D42, D44, D49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/2011-Porsche911GT2-White.jpg/revision/latest?cb=20120127003227"
+    }
+}

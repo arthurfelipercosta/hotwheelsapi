@@ -1,0 +1,18 @@
+{
+    "series_id": "fast-foodie",
+    "year": 2025,
+    "name": "Fast Foodie",
+    "total_releases": 9,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2025/hyw42-hot-wheengs.json",
+        "data/releases/2025/hyx29-street-wiener.json",
+        "data/releases/2025/hyx83-street-wiener.json",
+        "data/releases/2025/hyy51-sushi-tuner.json",
+        "data/releases/2025/hyy84-good-humor-truck.json",
+        "data/releases/2025/jbb63-good-humor-truck.json",
+        "data/releases/2025/jbc01-sushi-tuner.json",
+        "data/releases/2025/jbc02-hot-wheengs.json",
+        "data/releases/2025/jbc28-chill-mill.json"
+    ]
+}

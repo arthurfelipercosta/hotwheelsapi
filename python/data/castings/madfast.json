@@ -1,0 +1,29 @@
+{
+    "casting_id": "madfast",
+    "name": "Madfast",
+    "description": {
+        "en-us": "Madfast Debut series 2008 New Models Produced 2008 - Present Designer Bryan Benedict Number L9949",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2008/l9949-madfast.json",
+        "data/releases/2008/l9949-madfast-v2.json",
+        "data/releases/2009/n4078-madfast.json",
+        "data/releases/2010/r7577-madfast.json",
+        "data/releases/2011/t9833-madfast.json",
+        "data/releases/2011/v0040-madfast.json",
+        "data/releases/2012/w4247-madfast.json",
+        "data/releases/2013/y2098-madfast.json",
+        "data/releases/2014/bfd26-madfast.json",
+        "data/releases/2014/bff50-madfast.json",
+        "data/releases/2016/dmj09-madfast.json",
+        "data/releases/2023/hkk99-madfast.json",
+        "data/releases/2024/hvx10-madfast.json",
+        "data/releases/2025/jbb01-madfast.json",
+        "data/releases/2025/hyy09-madfast.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2008,
+    "manufacturer": "Mattel"
+}

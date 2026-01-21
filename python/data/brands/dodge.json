@@ -1,0 +1,26 @@
+{
+    "brand_id": "dodge",
+    "name": "Dodge",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/70-dodge-power-wagon.json",
+        "data/castings/1974-brazilian-dodge-charger.json",
+        "data/castings/rodger-dodger.json",
+        "data/castings/1978-dodge-li-l-red-express-truck.json",
+        "data/castings/20-dodge-charger-hellcat.json",
+        "data/castings/68-dodge-dart.json",
+        "data/castings/69-dodge-coronet-superbee.json",
+        "data/castings/70-dodge-hemi-challenger.json",
+        "data/castings/71-dodge-challenger.json",
+        "data/castings/96-dodge-viper-gts.json",
+        "data/castings/rodger-dodger-2-0.json",
+        "data/castings/64-dodge-330.json",
+        "data/castings/69-dodge-charger-daytona.json",
+        "data/castings/92-dodge-viper-rt-10.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Dodge vehicles.",
+        "pt-br": "Fabricante de veículos Dodge."
+    }
+}

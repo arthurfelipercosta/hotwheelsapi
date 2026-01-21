@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2016,
+    "name": "HW Screen Time",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2016/dht12-snoopy.json"
+    ]
+}

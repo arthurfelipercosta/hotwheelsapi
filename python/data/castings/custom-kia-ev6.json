@@ -1,0 +1,16 @@
+{
+    "casting_id": "custom-kia-ev6",
+    "name": "Custom Kia EV6",
+    "description": {
+        "en-us": "Custom Kia EV6 Debut series HW EV Produced 2025 – Present Designer Craig Callum Number HYW22",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw22-custom-kia-ev6.json",
+        "data/releases/2025/hyx63-custom-kia-ev6.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

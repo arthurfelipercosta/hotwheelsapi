@@ -1,0 +1,16 @@
+{
+    "casting_id": "porsche-911-turbo-cabriolet",
+    "name": "Porsche 911 Turbo Cabriolet",
+    "description": {
+        "en-us": "Porsche 911 Turbo Cabriolet Debut series Then and Now Produced 2025 – Present Designer Fraser Campbell Number HYW37",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw37-porsche-911-turbo-cabriolet.json",
+        "data/releases/2026/jjj22-porsche-911-turbo-cabriolet.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Porsche"
+}

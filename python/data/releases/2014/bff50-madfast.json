@@ -1,0 +1,25 @@
+{
+    "release_id": "bff50-madfast-2014",
+    "toy_number": "BFF50",
+    "casting_id": "madfast",
+    "year": 2014,
+    "series_id": "hw-race-thrill-racers",
+    "series_index": null,
+    "specs": {
+        "color": "Light Purple",
+        "tampo": "Green & Black Stripe w 3 Stars on top, HW logo on top rear fender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gold Chrome",
+        "wheel_type": {
+            "0": "Green Rim Black SK5 &",
+            "1": "Green Rim Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s) F32, F50, F51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Bff50.jpg/revision/latest?cb=20190613183734"
+    }
+}

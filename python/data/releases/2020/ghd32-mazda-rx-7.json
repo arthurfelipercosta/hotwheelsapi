@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd32-mazda-rx-7-2020",
+    "toy_number": "GHD32",
+    "casting_id": "mazda-rx-7",
+    "year": 2020,
+    "series_id": "speed-blur",
+    "series_index": 5,
+    "specs": {
+        "color": "Orange",
+        "tampo": "White Stripes, White and Blue Graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M48, M49, N01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/GHD32-01.jpg/revision/latest?cb=20200611100313"
+    }
+}

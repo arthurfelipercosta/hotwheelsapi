@@ -1,0 +1,26 @@
+{
+    "series_id": "batman",
+    "year": 2022,
+    "name": "Batman",
+    "total_releases": 17,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2022/hct04-classic-tv-series-batmobile.json",
+        "data/releases/2022/hct65-batmobile.json",
+        "data/releases/2022/hcv63-arkham-asylum-batmobile.json",
+        "data/releases/2022/hcv64-tv-series-batmobile.json",
+        "data/releases/2022/hcw59-arkham-asylum-batmobile.json",
+        "data/releases/2022/hcw60-classic-tv-series-batmobile.json",
+        "data/releases/2022/hcw61-tv-series-batmobile.json",
+        "data/releases/2022/hcw61-tv-series-batmobile.json",
+        "data/releases/2022/hcw62-batmobile.json",
+        "data/releases/2022/hcw63-arkham-asylum-batmobile.json",
+        "data/releases/2022/hcx94-the-dark-knight-batmobile.json",
+        "data/releases/2022/hcy36-batmobile.json",
+        "data/releases/2022/hdh00-tv-series-batmobile.json",
+        "data/releases/2022/hdh05-screamliner.json",
+        "data/releases/2022/hdk68-the-dark-knight-batmobile.json",
+        "data/releases/2022/hdk74-arkham-asylum-batmobile.json",
+        "data/releases/2022/hdk78-the-brave-and-the-bold-batmobile.json"
+    ]
+}

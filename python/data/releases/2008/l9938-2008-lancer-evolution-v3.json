@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): A29, A33, A37",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/08_2008_Lancer_AGENTAIR_Evolution_blue.jpg/revision/latest?cb=20080924034219"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/08_2008_Lancer_AGENTAIR_Evolution_blue.jpg/revision/latest?cb=20080924034219"
+    }
 }

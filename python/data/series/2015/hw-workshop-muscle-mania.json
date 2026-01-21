@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-workshop-muscle-mania",
+    "year": 2015,
+    "name": "HW Workshop: Muscle Mania",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfj05-71-dodge-challenger.json",
+        "data/releases/2015/cfj07-70-plymouth-superbird.json",
+        "data/releases/2015/cfj44-70-plymouth-superbird.json",
+        "data/releases/2015/cfj92-71-dodge-challenger.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dty10-x-steam-2017",
+    "toy_number": "DTY10",
+    "casting_id": "x-steam",
+    "year": 2017,
+    "series_id": "x-raycers",
+    "series_index": 5,
+    "specs": {
+        "color": "Green",
+        "tampo": "Blue, HW logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Yellow & Purple PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K16, K19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/be/XSteamDTY10.jpg/revision/latest?cb=20170524011200"
+    }
+}

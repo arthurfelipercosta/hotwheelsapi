@@ -1,0 +1,10 @@
+{
+    "series_id": "disney-mickey-friends",
+    "year": 2019,
+    "name": "Disney Mickey & Friends",
+    "total_releases": 1,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2019/gbb45-fish-d-chip-d.json"
+    ]
+}

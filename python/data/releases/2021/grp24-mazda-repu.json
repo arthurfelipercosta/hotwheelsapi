@@ -1,0 +1,24 @@
+{
+    "release_id": "grp24-mazda-repu-2021",
+    "toy_number": "GRP24",
+    "casting_id": "mazda-repu",
+    "year": 2021,
+    "series_id": "hot-pickups",
+    "series_index": 2,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripes, Mazda & HW logos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: N50, N51, P01, P05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/GRP24.jpg/revision/latest?cb=20241212155943"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "t9911-subaru-impreza-2011",
+    "toy_number": "T9911",
+    "casting_id": "subaru-impreza",
+    "year": 2011,
+    "series_id": "thrill-racers-volcano",
+    "series_index": 6,
+    "specs": {
+        "color": "Mustard Yellow",
+        "tampo": "Black & White Racing deco \"368\", Flames on hood & side, \"Rally Volcano\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "Red Chrome Rimmed OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): D22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Subaru_Impreza_%28800x600%29.jpg/revision/latest?cb=20110920151808"
+    }
+}

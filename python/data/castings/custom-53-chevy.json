@@ -1,0 +1,38 @@
+{
+    "casting_id": "custom-53-chevy",
+    "name": "Custom '53 Chevy",
+    "description": {
+        "en-us": "Custom '53 Chevy Debut series 2007 New Models Produced 2007 - Present Designer Larry Wood Number K6166",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6166-custom-53-chevy.json",
+        "data/releases/2007/k6166-custom-53-chevy-v2.json",
+        "data/releases/2007/k6166-custom-53-chevy-v3.json",
+        "data/releases/2008/54886-custom-53-chevy.json",
+        "data/releases/2008/54886-custom-53-chevy-v2.json",
+        "data/releases/2008/54886-custom-53-chevy-v3.json",
+        "data/releases/2008/m1576-custom-53-chevy.json",
+        "data/releases/2008/n1179-custom-53-chevy.json",
+        "data/releases/2008/n8427-custom-53-chevy.json",
+        "data/releases/2009/p2357-custom-53-chevy.json",
+        "data/releases/2009/p2369-custom-53-chevy.json",
+        "data/releases/2011/t9798-custom-53-chevy.json",
+        "data/releases/2011/v0005-custom-53-chevy.json",
+        "data/releases/2011/v0052-custom-53-chevy.json",
+        "data/releases/2013/y9453-custom-53-chevy.json",
+        "data/releases/2014/bdl08-custom-53-chevy.json",
+        "data/releases/2018/fjw67-custom-53-chevy.json",
+        "data/releases/2018/fkc20-custom-53-chevy.json",
+        "data/releases/2018/fjy63-custom-53-chevy.json",
+        "data/releases/2019/gbc21-custom-53-chevy.json",
+        "data/releases/2022/hdh65-custom-53-chevy.json",
+        "data/releases/2024/htf18-custom-53-chevy.json",
+        "data/releases/2025/hyw68-custom-53-chevy.json",
+        "data/releases/2025/hyy11-custom-53-chevy.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Mattel"
+}

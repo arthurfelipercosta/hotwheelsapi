@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-drag-strip",
+    "year": 2023,
+    "name": "HW Drag Strip",
+    "total_releases": 6,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2023/hkh29-ford-mustang-mach-e-1400.json",
+        "data/releases/2023/hkh33-honda-civic-custom.json",
+        "data/releases/2023/hkh35-76-chevy-chevette.json",
+        "data/releases/2023/hkk02-ford-mustang-mach-e-1400.json",
+        "data/releases/2023/hkk99-madfast.json",
+        "data/releases/2023/hkl48-honda-civic-custom.json"
+    ]
+}

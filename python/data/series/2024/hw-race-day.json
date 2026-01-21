@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-race-day",
+    "year": 2024,
+    "name": "HW Race Day",
+    "total_releases": 7,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2024/hry58-honda-s800-racing.json",
+        "data/releases/2024/hry66-formula-e-gen3.json",
+        "data/releases/2024/hry76-67-lotus-type-49.json",
+        "data/releases/2024/hry80-jaguar-mk1.json",
+        "data/releases/2024/htc79-mazda-787b.json",
+        "data/releases/2024/htd99-67-lotus-type-49.json",
+        "data/releases/2024/htf39-mazda-787b.json"
+    ]
+}

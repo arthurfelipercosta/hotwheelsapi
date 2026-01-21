@@ -1,0 +1,24 @@
+{
+    "release_id": "t8470-70-plymouth-superbird-2011",
+    "toy_number": "T8470",
+    "casting_id": "70-plymouth-superbird",
+    "year": 2011,
+    "series_id": "vintage-racing",
+    "series_index": 23,
+    "specs": {
+        "color": "Petty Racing Blue",
+        "tampo": "Richard Petty Race Scheme",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray DDRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D34, D36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/70_Plymouth_Superbird_-_11_Vintage_Racing_R1_1200pxOTD.png/revision/latest?cb=20190904055223"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "series_id": "super-chromes",
+    "year": 2018,
+    "name": "Super Chromes",
+    "total_releases": 6,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2018/fjw99-blitzspeeder.json",
+        "data/releases/2018/fjx03-x-steam.json",
+        "data/releases/2018/fjx06-power-rocket.json",
+        "data/releases/2018/fjy76-x-steam.json",
+        "data/releases/2018/fjy77-power-rocket.json",
+        "data/releases/2018/fkb27-blitzspeeder.json"
+    ]
+}

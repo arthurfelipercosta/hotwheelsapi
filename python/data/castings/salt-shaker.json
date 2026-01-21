@@ -1,0 +1,29 @@
+{
+    "casting_id": "salt-shaker",
+    "name": "Salt Shaker",
+    "description": {
+        "en-us": "Salt Shaker Debut series 2010 New Models Produced 2010 – Present Designer Jun Imai Number R0951",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0951-salt-shaker.json",
+        "data/releases/2010/r0951-salt-shaker-v2.json",
+        "data/releases/2010/r0951-salt-shaker-v3.json",
+        "data/releases/2010/r0951-salt-shaker-v4.json",
+        "data/releases/2010/r0951-salt-shaker-v5.json",
+        "data/releases/2011/w5510-salt-shaker.json",
+        "data/releases/2013/x6999-salt-shaker.json",
+        "data/releases/2015/cfl05-salt-shaker.json",
+        "data/releases/2016/x6999-salt-shaker.json",
+        "data/releases/2018/x6999-salt-shaker.json",
+        "data/releases/2019/fyd70-salt-shaker.json",
+        "data/releases/2019/fyg42-salt-shaker.json",
+        "data/releases/2020/ghp59-salt-shaker.json",
+        "data/releases/2025/hyy75-salt-shaker.json",
+        "data/releases/2025/jbb80-salt-shaker.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "jjj56-64-impala-2026",
+    "toy_number": "JJJ56",
+    "casting_id": "64-impala",
+    "year": 2026,
+    "series_id": "layin-low",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake cyan",
+        "tampo": "Pinstriping on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "WW5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/1964ChevroletImpala.jpg/revision/latest?cb=20251216111004"
+    }
+}

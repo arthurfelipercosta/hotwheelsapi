@@ -1,0 +1,10 @@
+{
+    "series_id": "pixar",
+    "year": 2020,
+    "name": "Pixar",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2020/gjv21-fish-d-chip-d.json"
+    ]
+}

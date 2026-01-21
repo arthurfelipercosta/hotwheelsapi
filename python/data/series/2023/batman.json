@@ -2,9 +2,23 @@
     "series_id": "batman",
     "year": 2023,
     "name": "Batman",
-    "total_releases": 1,
-    "max_index": 19,
+    "total_releases": 15,
+    "max_index": 1,
     "releases": [
+        "data/releases/2023/hkg97-classic-tv-series-batmobile.json",
+        "data/releases/2023/hkg98-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2023/hkj72-classic-tv-series-batmobile.json",
+        "data/releases/2023/hkj75-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2023/hkl16-classic-tv-series-batmobile.json",
+        "data/releases/2023/hlk44-tv-series-batmobile.json",
+        "data/releases/2023/hlk45-the-dark-knight-batmobile.json",
+        "data/releases/2023/hlk46-batmobile.json",
+        "data/releases/2023/hlk61-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2023/hlk64-the-vanster.json",
+        "data/releases/2023/hlk66-the-dark-knight-batmobile.json",
+        "data/releases/2023/hlk68-fish-d-chip-d.json",
+        "data/releases/2023/hlk69-bullet-proof.json",
+        "data/releases/2023/hlk70-arkham-asylum-batmobile.json",
         "data/releases/2023/hlk72-night-shifter.json"
     ]
 }

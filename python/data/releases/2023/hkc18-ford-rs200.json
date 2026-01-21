@@ -1,0 +1,24 @@
+{
+    "release_id": "hkc18-ford-rs200-2023",
+    "toy_number": "HKC18",
+    "casting_id": "ford-rs200",
+    "year": 2023,
+    "series_id": "group-b-collector-set",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights and taillights, Ford Racing livery, \"4\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RREURO"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/FordRS200.jpg/revision/latest?cb=20230909130254"
+    }
+}

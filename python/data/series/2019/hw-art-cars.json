@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-art-cars",
+    "year": 2019,
+    "name": "HW Art Cars",
+    "total_releases": 2,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2019/fyc25-83-chevy-silverado.json",
+        "data/releases/2019/fyc26-67-ford-mustang-coupe.json"
+    ]
+}

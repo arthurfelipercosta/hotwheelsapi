@@ -1,0 +1,25 @@
+{
+    "casting_id": "crescendo",
+    "name": "Crescendo",
+    "description": {
+        "en-us": "Crescendo Debut series Super Chromes Produced 2017 - Present Designer Dmitriy Shakhmatov Number DTX04",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx04-crescendo.json",
+        "data/releases/2017/dvb95-crescendo.json",
+        "data/releases/2018/fjx17-crescendo.json",
+        "data/releases/2018/fwr12-crescendo.json",
+        "data/releases/2019/fyd69-crescendo.json",
+        "data/releases/2019/fyf34-crescendo.json",
+        "data/releases/2020/ghp59-crescendo.json",
+        "data/releases/2021/gry89-crescendo.json",
+        "data/releases/2023/hly63-crescendo.json",
+        "data/releases/2025/hyw89-crescendo.json",
+        "data/releases/2025/hyx85-crescendo.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

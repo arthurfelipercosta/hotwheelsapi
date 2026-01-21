@@ -1,0 +1,20 @@
+{
+    "casting_id": "cadillac-project-gtp-hypercar",
+    "name": "Cadillac Project GTP Hypercar",
+    "description": {
+        "en-us": "Cadillac Project GTP Hypercar Debut series HW Turbo Produced 2024 – Present Designer Fraser Campbell Number HRY60",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry60-cadillac-project-gtp-hypercar.json",
+        "data/releases/2024/htd35-cadillac-project-gtp-hypercar.json",
+        "data/releases/2025/hyx40-cadillac-project-gtp-hypercar.json",
+        "data/releases/2025/hyy36-cadillac-project-gtp-hypercar.json",
+        "data/releases/2025/jbb91-cadillac-project-gtp-hypercar.json",
+        "data/releases/2025/jgj13-cadillac-project-gtp-hypercar.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

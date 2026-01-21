@@ -1,0 +1,15 @@
+{
+    "series_id": "factory-fresh",
+    "year": 2021,
+    "name": "Factory Fresh",
+    "total_releases": 6,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2021/grx27-94-audi-avant-rs2.json",
+        "data/releases/2021/grx59-mercedes-benz-500-e.json",
+        "data/releases/2021/gry30-mclaren-speedtail.json",
+        "data/releases/2021/gtb73-mercedes-benz-500-e.json",
+        "data/releases/2021/gtb75-94-audi-avant-rs2.json",
+        "data/releases/2021/gtc55-mclaren-speedtail.json"
+    ]
+}

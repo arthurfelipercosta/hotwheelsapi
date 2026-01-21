@@ -1,0 +1,29 @@
+{
+    "casting_id": "donut-drifter",
+    "name": "Donut Drifter",
+    "description": {
+        "en-us": "Donut Drifter Debut series Fast Foodie Produced 2020 - Present Designer Charlie Angulo Number GHB63",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb63-donut-drifter.json",
+        "data/releases/2020/ghd98-donut-drifter.json",
+        "data/releases/2021/gry08-donut-drifter.json",
+        "data/releases/2021/gtb92-donut-drifter.json",
+        "data/releases/2021/gtd60-donut-drifter.json",
+        "data/releases/2022/hcv51-donut-drifter.json",
+        "data/releases/2022/hcx84-donut-drifter.json",
+        "data/releases/2023/hkk97-donut-drifter.json",
+        "data/releases/2024/htb46-donut-drifter.json",
+        "data/releases/2024/htd70-donut-drifter.json",
+        "data/releases/2025/hyw92-donut-drifter.json",
+        "data/releases/2025/jcm46-donut-drifter.json",
+        "data/releases/2025/jcm48-donut-drifter.json",
+        "data/releases/2026/jjj24-donut-drifter.json",
+        "data/releases/2026/jkp19-donut-drifter.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

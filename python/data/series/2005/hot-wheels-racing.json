@@ -1,0 +1,10 @@
+{
+    "series_id": "hot-wheels-racing",
+    "year": 2005,
+    "name": "Hot Wheels Racing",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2005/g6811-escort-rally.json"
+    ]
+}

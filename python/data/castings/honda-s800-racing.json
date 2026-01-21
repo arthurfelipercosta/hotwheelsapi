@@ -1,0 +1,17 @@
+{
+    "casting_id": "honda-s800-racing",
+    "name": "Honda S800 Racing",
+    "description": {
+        "en-us": "Honda S800 Racing Debut series HW Race Day Produced 2024 – Present Designer Fraser Campbell Number HRY58",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry58-honda-s800-racing.json",
+        "data/releases/2025/jbc30-honda-s800-racing.json",
+        "data/releases/2026/jkx62-honda-s800-racing.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Honda"
+}

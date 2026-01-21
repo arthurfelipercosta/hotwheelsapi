@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-roadsters",
+    "year": 2019,
+    "name": "HW Roadsters",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2019/fyc64-rrroadster.json",
+        "data/releases/2019/fyf26-rrroadster.json"
+    ]
+}

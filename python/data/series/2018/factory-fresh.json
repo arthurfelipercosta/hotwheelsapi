@@ -1,0 +1,13 @@
+{
+    "series_id": "factory-fresh",
+    "year": 2018,
+    "name": "Factory Fresh",
+    "total_releases": 4,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2018/fjw00-17-audi-rs6-avant.json",
+        "data/releases/2018/fjw10-90-acura-nsx.json",
+        "data/releases/2018/fjw11-dmc-delorean.json",
+        "data/releases/2018/fkb37-17-audi-rs6-avant.json"
+    ]
+}

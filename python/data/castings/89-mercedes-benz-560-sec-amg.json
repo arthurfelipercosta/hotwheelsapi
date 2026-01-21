@@ -1,0 +1,20 @@
+{
+    "casting_id": "89-mercedes-benz-560-sec-amg",
+    "name": "'89 Mercedes-Benz 560 SEC AMG",
+    "description": {
+        "en-us": "'89 Mercedes-Benz 560 SEC AMG Debut series HW Turbo Produced 2023 – Present Designer Sonny Fisher Number HKG45",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg45-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2023/hkk85-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2024/htb70-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2024/htf33-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2025/jbb11-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2025/jbb85-89-mercedes-benz-560-sec-amg.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc03-84-audi-sport-quattro-2020",
+    "toy_number": "GHC03",
+    "casting_id": "84-audi-sport-quattro",
+    "year": 2020,
+    "series_id": "factory-fresh",
+    "series_index": 10,
+    "specs": {
+        "color": "Red",
+        "tampo": "Detailed headlights & taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N02, N03, N04, N05, N06, N07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/06/GHC03-01.jpg/revision/latest?cb=20200405121028"
+    }
+}

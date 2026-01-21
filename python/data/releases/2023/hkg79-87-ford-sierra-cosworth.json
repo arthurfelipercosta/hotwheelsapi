@@ -1,0 +1,24 @@
+{
+    "release_id": "hkg79-87-ford-sierra-cosworth-2023",
+    "toy_number": "HKG79",
+    "casting_id": "87-ford-sierra-cosworth",
+    "year": 2023,
+    "series_id": "hw-the-80s",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "\"87\", \"HWGRFX\", Castrol logos on sides and hood, \"BILSTEIN\" & \"CLONE\" on sides, white diagonals",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R33, R34, R36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/HKG79-LOOSE.jpg/revision/latest?cb=20230416051911"
+    }
+}

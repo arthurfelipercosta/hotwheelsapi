@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-metro",
+    "year": 2020,
+    "name": "HW Metro",
+    "total_releases": 3,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2020/ghc44-deora-iii.json",
+        "data/releases/2020/ghd74-mercedes-benz-unimog-1300l.json",
+        "data/releases/2020/ghg52-deora-iii.json"
+    ]
+}

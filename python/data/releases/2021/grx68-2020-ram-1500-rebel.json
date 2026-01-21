@@ -1,0 +1,25 @@
+{
+    "release_id": "grx68-2020-ram-1500-rebel-2021",
+    "toy_number": "GRX68",
+    "casting_id": "2020-ram-1500-rebel",
+    "year": 2021,
+    "series_id": "baja-blazers",
+    "series_index": 8,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Detailed grill, headlights, taillights. \"RAM\" in grill.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Brown tire",
+            "1": "Gray BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N48, N50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/2020_RAM_1500_REBEL_2021_BAJA_BLAZERS.png/revision/latest?cb=20211207203042"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-winter",
+    "year": 2021,
+    "name": "HW Winter",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2021/grr10-escort-rally.json",
+        "data/releases/2021/grr11-carbonator.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "gtc65-big-air-bel-air-2021",
+    "toy_number": "GTC65",
+    "casting_id": "big-air-bel-air",
+    "year": 2021,
+    "series_id": "baja-blazers",
+    "series_index": 10,
+    "specs": {
+        "color": "Turquoise",
+        "tampo": "Orange & White Stripes, 68 Baja Blazers, HW logo, sponsor logos on sides. Wide White with narrow Orange stripes top.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black Rim",
+            "1": "Brown BAJA5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P12, P21, P32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/Big-Air_Bel-Air_2021_Turquoise_Baja_Blazers.jpg/revision/latest?cb=20220329215936"
+    }
+}

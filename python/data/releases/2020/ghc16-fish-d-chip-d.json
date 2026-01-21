@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc16-fish-d-chip-d-2020",
+    "toy_number": "GHC16",
+    "casting_id": "fish-d-chip-d",
+    "year": 2020,
+    "series_id": "hw-art-cars",
+    "series_index": 4,
+    "specs": {
+        "color": "White",
+        "tampo": "Black Tampo Pattern all over. \"W\" on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "black rim",
+            "1": "gray PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Plastic body Base code(s): M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/113_-_Fish%27d_%26_Chip%27d.jpg/revision/latest?cb=20200128195155"
+    }
+}

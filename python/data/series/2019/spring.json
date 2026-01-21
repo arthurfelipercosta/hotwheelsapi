@@ -2,9 +2,10 @@
     "series_id": "spring",
     "year": 2019,
     "name": "Spring",
-    "total_releases": 1,
-    "max_index": 1,
+    "total_releases": 2,
+    "max_index": 5,
     "releases": [
-        "data/releases/2019/gbc43-carbonic.json"
+        "data/releases/2019/gbc43-carbonic.json",
+        "data/releases/2019/gbc47-nerve-hammer.json"
     ]
 }

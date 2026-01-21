@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc73-16-lamborghini-centenario-roadster-2020",
+    "toy_number": "GHC73",
+    "casting_id": "16-lamborghini-centenario-roadster",
+    "year": 2020,
+    "series_id": "hw-roadsters",
+    "series_index": 2,
+    "specs": {
+        "color": "Bianco Pheme",
+        "tampo": "Detailed headlights & taillights, Lamborghini logo on front bumper, Lamborghini wordmark on rear bumper",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N04, N07, N08, N09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/GHC73_-_170_-_16_Lamborghini_Centenario_Roadster.JPG/revision/latest?cb=20200606204741"
+    }
+}

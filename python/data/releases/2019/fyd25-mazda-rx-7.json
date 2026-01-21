@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd25-mazda-rx-7-2019",
+    "toy_number": "FYD25",
+    "casting_id": "mazda-rx-7",
+    "year": 2019,
+    "series_id": "hw-speed-graphics",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Black & Red Stripes, 'MAZDA', & Koni logo, on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M02, M05, M07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/SA22_RX7_Grey_19.jpg/revision/latest?cb=20190322083830"
+    }
+}

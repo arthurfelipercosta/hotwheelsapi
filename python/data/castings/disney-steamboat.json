@@ -1,0 +1,17 @@
+{
+    "casting_id": "disney-steamboat",
+    "name": "Disney Steamboat",
+    "description": {
+        "en-us": "Disney Steamboat Debut series HW Screen Time Produced 2021 – Present Designer Manson Cheung Number GRX18",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx18-disney-steamboat.json",
+        "data/releases/2022/hct56-disney-steamboat.json",
+        "data/releases/2025/hyy98-disney-steamboat.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,26 @@
+{
+    "release_id": "jjj10-roller-toaster-2026",
+    "toy_number": "JJJ10",
+    "casting_id": "roller-toaster",
+    "year": 2026,
+    "series_id": "experimotors",
+    "series_index": 3,
+    "specs": {
+        "color": "Butter",
+        "tampo": "Orange, Seafoam & white \"Roller Toaster\", stars on sides, brown plug",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Teal tint",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Cinnamon tyre",
+            "1": "White wall & rim",
+            "2": "cinnamon 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U37N, U39N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/RollerToaster.jpg/revision/latest?cb=20251018122748"
+    }
+}

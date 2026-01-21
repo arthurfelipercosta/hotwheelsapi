@@ -1,0 +1,25 @@
+{
+    "release_id": "gml20-71-lamborghini-miura-sv-2020",
+    "toy_number": "GML20",
+    "casting_id": "71-lamborghini-miura-sv",
+    "year": 2020,
+    "series_id": "hot-wheels-id-factory-fresh",
+    "series_index": 1,
+    "specs": {
+        "color": "Spectraflame Verde Rio Metallizzato",
+        "tampo": "Detailed headlights, taillights, grilles, badging, HWid logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Yellow Rim",
+            "1": "Chrome ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N01, N06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Miura_Green.jpg/revision/latest?cb=20200525110352"
+    }
+}

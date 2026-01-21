@@ -1,0 +1,15 @@
+{
+    "series_id": "fast-foodie",
+    "year": 2018,
+    "name": "Fast Foodie",
+    "total_releases": 6,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2018/fjv59-buns-of-steel.json",
+        "data/releases/2018/fjx81-good-humor-truck.json",
+        "data/releases/2018/fjx82-roller-toaster.json",
+        "data/releases/2018/fjx83-street-wiener.json",
+        "data/releases/2018/fkb14-buns-of-steel.json",
+        "data/releases/2018/fkb34-good-humor-truck.json"
+    ]
+}

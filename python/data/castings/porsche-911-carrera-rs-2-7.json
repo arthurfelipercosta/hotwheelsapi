@@ -1,0 +1,23 @@
+{
+    "casting_id": "porsche-911-carrera-rs-2-7",
+    "name": "Porsche 911 Carrera RS 2.7",
+    "description": {
+        "en-us": "Porsche 911 Carrera RS 2.7 Debut series Retro Racers Produced 2023 – Present Designer Fraser Campbell Number HKG42",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg42-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2023/hkj82-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2024/htc49-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2024/htd08-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2025/hrw07-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2025/jcl00-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2025/jbl19-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2025/x6999-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2025/jgk64-porsche-911-carrera-rs-2-7.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Porsche"
+}

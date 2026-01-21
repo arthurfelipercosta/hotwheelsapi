@@ -1,0 +1,19 @@
+{
+    "casting_id": "rapid-pulse",
+    "name": "Rapid Pulse",
+    "description": {
+        "en-us": "Rapid Pulse Debut series HW First Response Produced 2024 – Present Designer Eric Han Number HRY68",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry68-rapid-pulse.json",
+        "data/releases/2024/htd71-rapid-pulse.json",
+        "data/releases/2025/hyy76-rapid-pulse.json",
+        "data/releases/2025/jbb50-rapid-pulse.json",
+        "data/releases/2026/jjj47-rapid-pulse.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

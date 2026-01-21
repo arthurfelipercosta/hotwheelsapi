@@ -1,0 +1,24 @@
+{
+    "release_id": "gbg33-standard-kart-2019",
+    "toy_number": "GBG33",
+    "casting_id": "standard-kart",
+    "year": 2019,
+    "series_id": "mario-kart",
+    "series_index": null,
+    "specs": {
+        "color": "Cyan",
+        "tampo": "Rosalina emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/Rosalina_standard_car.jpg/revision/latest?cb=20220729234936"
+    }
+}

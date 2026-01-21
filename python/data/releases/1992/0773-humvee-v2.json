@@ -1,0 +1,27 @@
+{
+    "release_id": "0773-humvee-1992",
+    "toy_number": "0773",
+    "casting_id": "humvee",
+    "year": 1992,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Tan",
+        "tampo": "Orange, Brown & Black camouflage on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "CT",
+            "1": "Black",
+            "2": "Metal",
+            "3": "Plastic body"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Metal body",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Hummer_ltBrnMet.JPG/revision/latest?cb=20090207051810"
+    }
+}

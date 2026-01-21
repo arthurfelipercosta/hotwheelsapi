@@ -1,0 +1,13 @@
+{
+    "series_id": "color-reveal",
+    "year": 2025,
+    "name": "Color Reveal",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2025/jcl82-rodger-dodger-2-0.json",
+        "data/releases/2025/jcl83-time-shifter.json",
+        "data/releases/2025/jcl87-mattel-dream-mobile.json",
+        "data/releases/2025/jcl91-power-rocket.json"
+    ]
+}

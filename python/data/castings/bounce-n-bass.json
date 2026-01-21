@@ -1,0 +1,16 @@
+{
+    "casting_id": "bounce-n-bass",
+    "name": "Bounce'n Bass",
+    "description": {
+        "en-us": "Bounce'n Bass Debut series Layin' Low Produced 2026 – Present Designer Bryan Zhao Number JJH32",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2026/jjh32-bounce-n-bass.json",
+        "data/releases/2026/jjk69-bounce-n-bass.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2026,
+    "manufacturer": "Mattel"
+}

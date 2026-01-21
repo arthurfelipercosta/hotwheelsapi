@@ -1,0 +1,24 @@
+{
+    "release_id": "hry90-ford-performance-supervan-4-2024",
+    "toy_number": "HRY90",
+    "casting_id": "ford-performance-supervan-4",
+    "year": 2024,
+    "series_id": "hw-green-speed",
+    "series_index": 9,
+    "specs": {
+        "color": "White",
+        "tampo": "Standard Ford logo on sides & rear; Ford PRO commercial fleet logo, \"Productivity Accelerated\", & light gray hatch pattern on sides; \"SUPERVAN\" & blue, gray, & silver pattern on rear; detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "B10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): S50, S51, T01, T02, T04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/FordSuperVan4.jpg/revision/latest?cb=20240215145737"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "series_id": "hw-starting-grid",
+    "year": 2026,
+    "name": "HW Starting Grid",
+    "total_releases": 11,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2026/jjh31-instant-boost.json",
+        "data/releases/2026/jjh44-maserati-tipo-61.json",
+        "data/releases/2026/jjh82-track-ripper.json",
+        "data/releases/2026/jjh97-69-dodge-charger-daytona.json",
+        "data/releases/2026/jjj20-bugatti-bolide.json",
+        "data/releases/2026/jjj60-renault-espace-f1.json",
+        "data/releases/2026/jjj61-twin-dorado.json",
+        "data/releases/2026/jjk73-instant-boost.json",
+        "data/releases/2026/jjm04-cone-shaker.json",
+        "data/releases/2026/jjm33-track-ripper.json",
+        "data/releases/2026/jjm52-69-dodge-charger-daytona.json"
+    ]
+}

@@ -2,9 +2,13 @@
     "series_id": "color-shifters",
     "year": 2015,
     "name": "Color Shifters",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2015/cfm40-2008-lancer-evolution.json"
+        "data/releases/2015/bhr57-monster-dairy-delivery.json",
+        "data/releases/2015/cfm40-2008-lancer-evolution.json",
+        "data/releases/2015/cfm44-corvette-stingray.json",
+        "data/releases/2015/cfm47-24-seven.json",
+        "data/releases/2015/cfm50-purple-passion.json"
     ]
 }

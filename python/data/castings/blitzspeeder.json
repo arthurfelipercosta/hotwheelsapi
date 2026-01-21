@@ -1,0 +1,26 @@
+{
+    "casting_id": "blitzspeeder",
+    "name": "Blitzspeeder",
+    "description": {
+        "en-us": "Blitzspeeder Debut series X-Raycers Produced 2016 - Present Designer Ryu Asada Number DHN91",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhn91-blitzspeeder.json",
+        "data/releases/2016/dhw52-blitzspeeder.json",
+        "data/releases/2017/dty15-blitzspeeder.json",
+        "data/releases/2018/fjw99-blitzspeeder.json",
+        "data/releases/2018/fkb27-blitzspeeder.json",
+        "data/releases/2018/fwr11-blitzspeeder.json",
+        "data/releases/2019/fyh09-blitzspeeder.json",
+        "data/releases/2019/fyl20-blitzspeeder.json",
+        "data/releases/2020/ghp63-blitzspeeder.json",
+        "data/releases/2022/hfd03-blitzspeeder.json",
+        "data/releases/2025/jbb32-blitzspeeder.json",
+        "data/releases/2025/jbb83-blitzspeeder.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

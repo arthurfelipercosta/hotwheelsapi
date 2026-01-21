@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-pickups",
+    "year": 2021,
+    "name": "Hot Pickups",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2021/grp24-mazda-repu.json",
+        "data/releases/2021/grp27-custom-72-chevy-luv.json"
+    ]
+}

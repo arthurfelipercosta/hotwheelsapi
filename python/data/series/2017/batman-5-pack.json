@@ -1,0 +1,11 @@
+{
+    "series_id": "batman-5-pack",
+    "year": 2017,
+    "name": "Batman 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2017/dvf92-arkham-asylum-batmobile.json",
+        "data/releases/2017/dvf92-tv-series-batmobile.json"
+    ]
+}

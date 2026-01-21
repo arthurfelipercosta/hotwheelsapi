@@ -1,0 +1,16 @@
+{
+    "series_id": "mainline",
+    "year": 2001,
+    "name": "Mainline",
+    "total_releases": 7,
+    "max_index": 90,
+    "releases": [
+        "data/releases/2001/50038-deora-ii.json",
+        "data/releases/2001/50656-67-mustang.json",
+        "data/releases/2001/50665-good-humor-truck.json",
+        "data/releases/2001/53705-humvee.json",
+        "data/releases/2001/53725-rodger-dodger.json",
+        "data/releases/2001/53731-la-troca.json",
+        "data/releases/2001/53736-power-rocket.json"
+    ]
+}

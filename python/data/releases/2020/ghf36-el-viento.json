@@ -1,0 +1,24 @@
+{
+    "release_id": "ghf36-el-viento-2020",
+    "toy_number": "GHF36",
+    "casting_id": "el-viento",
+    "year": 2020,
+    "series_id": "experimotors",
+    "series_index": 5,
+    "specs": {
+        "color": "Black",
+        "tampo": "Orange circuit stripes on canopy",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Yellow RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/HW_EL_VIENTO_Experimotors_RED.jpg/revision/latest?cb=20201013122409"
+    }
+}

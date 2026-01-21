@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb35-15-mazda-mx-5-miata-2021",
+    "toy_number": "GTB35",
+    "casting_id": "15-mazda-mx-5-miata",
+    "year": 2021,
+    "series_id": "then-and-now",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "White offset stripe across hood, 'MAZDA' stripe on sides & Hotwheels logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N40, N44, N45, N48, N49, N50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Mx5.jpeg/revision/latest?cb=20210129163821"
+    }
+}

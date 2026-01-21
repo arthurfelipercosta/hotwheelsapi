@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-rescue",
+    "year": 2016,
+    "name": "HW Rescue",
+    "total_releases": 5,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2016/dht03-blazer-4-4.json",
+        "data/releases/2016/dht08-humvee.json",
+        "data/releases/2016/dhx72-blazer-4-4.json",
+        "data/releases/2016/dhx73-humvee.json",
+        "data/releases/2016/dhx86-blazer-4-4.json"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "casting_id": "draggin-wagon",
+    "name": "Draggin' Wagon",
+    "description": {
+        "en-us": "Draggin' Wagon Debut series Experimotors Produced 2023 – Present Designer Sonny Fisher Number HKG26",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg26-draggin-wagon.json",
+        "data/releases/2023/hkk71-draggin-wagon.json",
+        "data/releases/2024/htf21-draggin-wagon.json",
+        "data/releases/2025/jhv10-draggin-wagon.json",
+        "data/releases/2025/hyx69-draggin-wagon.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

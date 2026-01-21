@@ -1,0 +1,25 @@
+{
+    "release_id": "x6999-porsche-911-gt2-2017",
+    "toy_number": "X6999",
+    "casting_id": "porsche-911-gt2",
+    "year": 2017,
+    "series_id": "multipack-exclusive",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Blue & white stripes on hood & roof, GT2 on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome lip",
+            "1": "black J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated Tooling Base code(s): K11, K25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/20173Pack911GT2.jpg/revision/latest?cb=20170620114016"
+    }
+}

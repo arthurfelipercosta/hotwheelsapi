@@ -1,0 +1,14 @@
+{
+    "series_id": "batman",
+    "year": 2024,
+    "name": "Batman",
+    "total_releases": 5,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2024/hrw21-tv-series-batmobile.json",
+        "data/releases/2024/hrw22-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2024/hrw32-the-dark-knight-batmobile.json",
+        "data/releases/2024/hry54-batman-robin-batmobile.json",
+        "data/releases/2024/htd51-batman-robin-batmobile.json"
+    ]
+}

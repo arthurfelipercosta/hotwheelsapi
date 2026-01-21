@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-rescue",
+    "year": 2021,
+    "name": "HW Rescue",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2021/gtb08-mercedes-benz-unimog-1300l.json",
+        "data/releases/2021/gtb10-alpha-pursuit.json",
+        "data/releases/2021/gtc54-mercedes-benz-unimog-1300l.json"
+    ]
+}

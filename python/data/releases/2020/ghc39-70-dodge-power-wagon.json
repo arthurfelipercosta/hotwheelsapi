@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc39-70-dodge-power-wagon-2020",
+    "toy_number": "GHC39",
+    "casting_id": "70-dodge-power-wagon",
+    "year": 2020,
+    "series_id": "hw-hot-trucks",
+    "series_index": 7,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "White side panels with dark blue stripes, Dodge logo, orange side markers",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Updated tooling Base code(s): N01, N02, N03, N04, N05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Dpw01.jpg/revision/latest?cb=20210212034522"
+    }
+}

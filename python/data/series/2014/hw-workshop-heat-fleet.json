@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-workshop-heat-fleet",
+    "year": 2014,
+    "name": "HW Workshop: Heat Fleet",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bfd90-68-dodge-dart.json",
+        "data/releases/2014/bfd90-68-dodge-dart.json",
+        "data/releases/2014/bfd91-69-dodge-coronet-superbee.json",
+        "data/releases/2014/bfg42-68-dodge-dart.json",
+        "data/releases/2014/bfg43-69-dodge-coronet-superbee.json"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "mystery-models-series-2",
+    "year": 2019,
+    "name": "Mystery Models (Series 2)",
+    "total_releases": 3,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2019/gbd53-70-plymouth-superbird.json",
+        "data/releases/2019/gbd61-datsun-240z.json",
+        "data/releases/2019/gbd62-ford-gt.json"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-winter",
+    "year": 2020,
+    "name": "HW Winter",
+    "total_releases": 1,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2020/gjv87-carbonator.json"
+    ]
+}

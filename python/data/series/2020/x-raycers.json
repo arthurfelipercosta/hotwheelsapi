@@ -1,0 +1,13 @@
+{
+    "series_id": "x-raycers",
+    "year": 2020,
+    "name": "X-Raycers",
+    "total_releases": 4,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2020/ghd55-hw-formula-solar.json",
+        "data/releases/2020/ghd58-power-rocket.json",
+        "data/releases/2020/ghf31-power-rocket.json",
+        "data/releases/2020/ghf72-hw-formula-solar.json"
+    ]
+}

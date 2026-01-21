@@ -1,0 +1,11 @@
+{
+    "series_id": "motor-show-5-pack",
+    "year": 2023,
+    "name": "Motor Show 5‑Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2023/hly63-2016-ford-gt-race.json",
+        "data/releases/2023/hly63-crescendo.json"
+    ]
+}

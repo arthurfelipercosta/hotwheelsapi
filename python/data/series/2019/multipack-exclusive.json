@@ -2,10 +2,22 @@
     "series_id": "multipack-exclusive",
     "year": 2019,
     "name": "Multipack Exclusive",
-    "total_releases": 2,
+    "total_releases": 14,
     "max_index": 0,
     "releases": [
+        "data/releases/2019/fjx79-70-dodge-hemi-challenger.json",
+        "data/releases/2019/k5904-bone-shaker.json",
+        "data/releases/2019/x6999-2013-srt-viper.json",
+        "data/releases/2019/x6999-90-acura-nsx.json",
         "data/releases/2019/x6999-carbonic.json",
-        "data/releases/2019/x6999-futurismo.json"
+        "data/releases/2019/x6999-datsun-240z.json",
+        "data/releases/2019/x6999-datsun-240z.json",
+        "data/releases/2019/x6999-datsun-240z.json",
+        "data/releases/2019/x6999-ford-gt.json",
+        "data/releases/2019/x6999-futurismo.json",
+        "data/releases/2019/x6999-monteracer.json",
+        "data/releases/2019/x6999-pass-n-gasser.json",
+        "data/releases/2019/x6999-porsche-911-gt2.json",
+        "data/releases/2019/x6999-triumph-tr6.json"
     ]
 }

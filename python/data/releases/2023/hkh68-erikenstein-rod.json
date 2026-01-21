@@ -1,0 +1,25 @@
+{
+    "release_id": "hkh68-erikenstein-rod-2023",
+    "toy_number": "HKH68",
+    "casting_id": "erikenstein-rod",
+    "year": 2023,
+    "series_id": "hw-55-race-team",
+    "series_index": 3,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "White stripes on hood, roof, and sides. HW logo, \"55th\", \"HWRT\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Tinted Chrome",
+        "wheel_type": {
+            "0": "Grey AeroDisc",
+            "1": "OCDD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R42, R45, R46, S02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Erikenstein2023RaceTeamBlue.jpg/revision/latest?cb=20230712064015"
+    }
+}

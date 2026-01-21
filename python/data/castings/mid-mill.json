@@ -1,0 +1,22 @@
+{
+    "casting_id": "mid-mill",
+    "name": "Mid Mill",
+    "description": {
+        "en-us": "Mid Mill Debut series 2009 New Models Produced 2009 – Present Designer Fraser Campbell Number N4015",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4015-mid-mill.json",
+        "data/releases/2009/n4015-mid-mill-v2.json",
+        "data/releases/2010/k5904-mid-mill.json",
+        "data/releases/2011/t8635-mid-mill.json",
+        "data/releases/2013/x6999-mid-mill.json",
+        "data/releases/2025/hyx39-mid-mill.json",
+        "data/releases/2025/hyx79-mid-mill.json",
+        "data/releases/2026/jjj93-mid-mill.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

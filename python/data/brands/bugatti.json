@@ -1,0 +1,14 @@
+{
+    "brand_id": "bugatti",
+    "name": "Bugatti",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/94-bugatti-eb110-ss.json",
+        "data/castings/bugatti-bolide.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Bugatti vehicles.",
+        "pt-br": "Fabricante de veículos Bugatti."
+    }
+}

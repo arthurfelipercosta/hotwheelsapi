@@ -1,0 +1,18 @@
+{
+    "casting_id": "67-camaro",
+    "name": "'67 Camaro",
+    "description": {
+        "en-us": "'67 Camaro Debut series FAO Schwarz Gold Multipack Produced 2022 – Present Designer Phil Riehlman Number GWJ14",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hnb86-67-camaro.json",
+        "data/releases/2024/htb74-67-camaro.json",
+        "data/releases/2026/jjj26-67-camaro.json",
+        "data/releases/2026/jjm46-67-camaro.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

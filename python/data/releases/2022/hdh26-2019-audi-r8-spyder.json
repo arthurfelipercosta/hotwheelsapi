@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh26-2019-audi-r8-spyder-2022",
+    "toy_number": "HDH26",
+    "casting_id": "2019-audi-r8-spyder",
+    "year": 2022,
+    "series_id": "world-class-racers",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Daytona Grey",
+        "tampo": "Detailed headlights and taillights, \"R8 Spyder\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "GPR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R24. R26, R27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/World_Class_Racers_2022_2019_Audi_R8_Spyder_HDH26.jpg/revision/latest?cb=20221003231653"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "series_id": "2010-new-models",
+    "year": 2010,
+    "name": "2010 New Models",
+    "total_releases": 12,
+    "max_index": 31,
+    "releases": [
+        "data/releases/2010/named-81-delorean-dmc-12-base-code-s-c05-c06-c08-c11-c12-c13-dmc-delorean.json",
+        "data/releases/2010/named-81-delorean-dmc-12-base-code-s-c28-c29-c30-c33-c42-dmc-delorean.json",
+        "data/releases/2010/r0916-67-shelby-gt500.json",
+        "data/releases/2010/r0916-67-shelby-gt500.json",
+        "data/releases/2010/r0916-67-shelby-gt500.json",
+        "data/releases/2010/r0930-porsche-911-gt2.json",
+        "data/releases/2010/r0930-porsche-911-gt2.json",
+        "data/releases/2010/r0930-porsche-911-gt2.json",
+        "data/releases/2010/r0931-dmc-delorean.json",
+        "data/releases/2010/r0951-salt-shaker.json",
+        "data/releases/2010/r0951-salt-shaker.json",
+        "data/releases/2010/r6456-the-brave-and-the-bold-batmobile.json"
+    ]
+}

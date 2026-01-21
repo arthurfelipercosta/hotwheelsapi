@@ -1,0 +1,34 @@
+{
+    "casting_id": "porsche-911-gt2",
+    "name": "Porsche 911 GT2",
+    "description": {
+        "en-us": "Porsche 911 GT2 Debut series 2010 New Models Produced 2010 - Present Designer John Violette Number R0930",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0930-porsche-911-gt2.json",
+        "data/releases/2010/r0930-porsche-911-gt2-v2.json",
+        "data/releases/2010/r0930-porsche-911-gt2-v3.json",
+        "data/releases/2011/t9826-porsche-911-gt2.json",
+        "data/releases/2011/v5223-porsche-911-gt2.json",
+        "data/releases/2012/w2316-porsche-911-gt2.json",
+        "data/releases/2012/v5427-porsche-911-gt2.json",
+        "data/releases/2012/w4447-porsche-911-gt2.json",
+        "data/releases/2014/x6999-porsche-911-gt2.json",
+        "data/releases/2014/x6999-porsche-911-gt2-v2.json",
+        "data/releases/2015/cdt27-porsche-911-gt2.json",
+        "data/releases/2015/cdt27-porsche-911-gt2-v2.json",
+        "data/releases/2017/x6999-porsche-911-gt2.json",
+        "data/releases/2019/x6999-porsche-911-gt2.json",
+        "data/releases/2020/x6999-porsche-911-gt2.json",
+        "data/releases/2021/x6999-porsche-911-gt2.json",
+        "data/releases/2022/x6999-porsche-911-gt2.json",
+        "data/releases/2023/x6999-k5904-porsche-911-gt2.json",
+        "data/releases/2024/x6999-k5904-porsche-911-gt2.json",
+        "data/releases/2025/x6999-porsche-911-gt2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Porsche"
+}

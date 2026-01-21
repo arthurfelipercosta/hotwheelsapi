@@ -1,0 +1,24 @@
+{
+    "release_id": "n9005-humvee-2009",
+    "toy_number": "N9005",
+    "casting_id": "humvee",
+    "year": 2009,
+    "series_id": "cop-rods",
+    "series_index": 13,
+    "specs": {
+        "color": "Black & White",
+        "tampo": "\"Police\" on side and roof. Police Badge on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "OR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Target exclusive Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/Humvee.cop.jpg/revision/latest?cb=20090626174227"
+    }
+}

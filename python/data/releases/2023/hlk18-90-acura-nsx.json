@@ -1,0 +1,24 @@
+{
+    "release_id": "hlk18-90-acura-nsx-2023",
+    "toy_number": "HLK18",
+    "casting_id": "90-acura-nsx",
+    "year": 2023,
+    "series_id": "japanese-classics",
+    "series_index": 2,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Detailed taillights, black diagonal stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R44, S03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/Honda_Acura_NSX_1990_%281k%29_-_HotWheels.jpg/revision/latest?cb=20240821132354"
+    }
+}

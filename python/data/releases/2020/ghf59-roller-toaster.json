@@ -1,0 +1,25 @@
+{
+    "release_id": "ghf59-roller-toaster-2020",
+    "toy_number": "GHF59",
+    "casting_id": "roller-toaster",
+    "year": 2020,
+    "series_id": "fast-foodie",
+    "series_index": 4,
+    "specs": {
+        "color": "Purple",
+        "tampo": "Brown & White stripes, 'Roller Toaster', 'Hot & Fast' & toaster tampo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "Brown",
+            "1": "Chrome Red OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/2020HWRollerToaster-39Purple.jpg/revision/latest?cb=20200927035317"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-hw-off-road",
+    "year": 2025,
+    "name": "Car Culture: HW Off Road",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2025/jbk70-17-ford-f-150-raptor.json",
+        "data/releases/2025/jbk74-land-rover-defender-90.json"
+    ]
+}

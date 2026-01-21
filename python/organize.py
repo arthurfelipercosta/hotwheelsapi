@@ -11,7 +11,7 @@ def slugify(text):
 
 def extract_manufacturer(casting_name):
     if not casting_name: return "Unknown"
-    real_manufacturers = ["Ferrari", "Lamborghini", "McLaren", "Porsche", "Bugatti", "Ford", "Chevrolet", "Dodge", "Nissan", "Honda", "Toyota", "Mazda"] 
+    real_manufacturers = ["Ferrari", "Lamborghini", "McLaren", "Porsche", "Bugatti", "Ford", "Chevrolet", "Chevy", "Dodge", "Nissan", "Honda", "Koenigsegg", "Toyota", "Mazda", "Maserati", "Subaru", "Tesla"] 
     first_word = casting_name.split()[0]
     if first_word in real_manufacturers: return first_word
     for m in real_manufacturers:
@@ -111,11 +111,14 @@ def organize_batch():
                 # Registra que este arquivo já foi "tomado" nesta rodada
                 generated_files_registry.add(file_path)
 
-                # --- Wheel Type (sempre normalizado) ---
+                # --- Sempre normalizado ---
                 raw_wheel = row.get('Wheel Type', '').strip()
+                raw_images = row.get('Photo', '').strip()
 
                 # separadores possíveis no fandom
                 parts = re.split(r'\s*/\s*|\s*,\s*|\s+and\s+', raw_wheel)
+
+                images = {"0": raw_images} if raw_images else {}
 
                 if len(parts) > 1:
                     wheel_type = {
@@ -125,7 +128,6 @@ def organize_batch():
                     }
                 else:
                     wheel_type = {"0": raw_wheel} if raw_wheel else {}
-                    
                 # Objeto Release
                 release_data = {
                     "release_id": f"{clean_toy_num}-{casting_id}-{year}",
@@ -145,7 +147,7 @@ def organize_batch():
                     },
                     "country": row.get('Country', ''),
                     "notes": row.get('Notes', ''),
-                    "image_url": row.get('Photo', '')
+                    "images": images
                 }
 
                 # Salva (sobrescreve se já existir no disco)

@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "New Model Base code(s): U30N, U31N, U32N, U33N, U34N, U35N",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/9/92/FerrariF40C.jpg/revision/latest?cb=20250816102812"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/FerrariF40C.jpg/revision/latest?cb=20250816102812"
+    }
 }

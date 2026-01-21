@@ -1,0 +1,49 @@
+{
+    "release_id": "grx16-x-34-landspeeder-2021",
+    "toy_number": "GRX16",
+    "casting_id": "x-34-landspeeder",
+    "year": 2021,
+    "series_id": "hw-screen-time",
+    "series_index": 2,
+    "specs": {
+        "color": "Matte Brown",
+        "tampo": "Red graphics, Grey weathering",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Metallic Gray",
+        "wheel_type": {
+            "0": "Brown Micro5SP",
+            "1": "194",
+            "2": "250",
+            "3": "2022",
+            "4": "HW Screen Time 10",
+            "5": "10",
+            "6": "HCT60",
+            "7": "Identical to GRX16 Base code(s): R18",
+            "8": "R20",
+            "9": "R22",
+            "10": "138",
+            "11": "250",
+            "12": "2023",
+            "13": "HW Screen Time 7",
+            "14": "10",
+            "15": "HKG76",
+            "16": "Identical to GRX16 Base code(s): S01",
+            "17": "S05",
+            "18": "031",
+            "19": "250",
+            "20": "2025",
+            "21": "HW Screen Time 4",
+            "22": "10",
+            "23": "HYW84",
+            "24": "Identical to GRX16 Base code(s): T36",
+            "25": "T37"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): N33, N34, N35, N38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Landspeeder.jpg/revision/latest?cb=20210926022659"
+    }
+}

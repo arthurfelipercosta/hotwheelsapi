@@ -1,0 +1,15 @@
+{
+    "series_id": "then-and-now",
+    "year": 2017,
+    "name": "Then and Now",
+    "total_releases": 6,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2017/dvb00-90-honda-civic-ef.json",
+        "data/releases/2017/dvb01-mazda-rx-7.json",
+        "data/releases/2017/dvb07-2013-srt-viper.json",
+        "data/releases/2017/dvc97-2013-srt-viper.json",
+        "data/releases/2017/fbj12-mazda-rx-7.json",
+        "data/releases/2017/fkb97-90-honda-civic-ef.json"
+    ]
+}

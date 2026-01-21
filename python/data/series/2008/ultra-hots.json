@@ -1,0 +1,11 @@
+{
+    "series_id": "ultra-hots",
+    "year": 2008,
+    "name": "Ultra Hots",
+    "total_releases": 2,
+    "max_index": 36,
+    "releases": [
+        "data/releases/2008/m3644-custom-56-ford-truck.json",
+        "data/releases/2008/m3653-custom-56-ford-truck.json"
+    ]
+}

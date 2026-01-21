@@ -1,0 +1,25 @@
+{
+    "release_id": "dtx72-17-ford-f-150-raptor-2017",
+    "toy_number": "DTX72",
+    "casting_id": "17-ford-f-150-raptor",
+    "year": 2017,
+    "series_id": "hw-hot-trucks",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Dark Red",
+        "tampo": "Black stripe, 'NITTO' & 'Raptor' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Orange Chrome rim",
+            "1": "Black OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J30, J35, J36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Raptor_Red_Frontside.jpg/revision/latest?cb=20181017151120"
+    }
+}

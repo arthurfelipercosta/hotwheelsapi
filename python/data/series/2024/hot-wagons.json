@@ -1,0 +1,10 @@
+{
+    "series_id": "hot-wagons",
+    "year": 2024,
+    "name": "Hot Wagons",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2024/hrr85-17-audi-rs6-avant.json"
+    ]
+}

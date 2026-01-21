@@ -1,0 +1,21 @@
+{
+    "casting_id": "raijin-express",
+    "name": "Raijin Express",
+    "description": {
+        "en-us": "Raijin Express Debut series HW Metro Produced 2021 - Present Designer Ryu Asada Number GRX49",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx49-raijin-express.json",
+        "data/releases/2021/gtb63-raijin-express.json",
+        "data/releases/2022/hct53-raijin-express.json",
+        "data/releases/2022/hcx59-raijin-express.json",
+        "data/releases/2023/hkk98-raijin-express.json",
+        "data/releases/2024/hvx03-raijin-express.json",
+        "data/releases/2026/jjj27-raijin-express.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Mattel"
+}

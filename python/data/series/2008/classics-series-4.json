@@ -1,0 +1,13 @@
+{
+    "series_id": "classics-series-4",
+    "year": 2008,
+    "name": "Classics (Series 4)",
+    "total_releases": 4,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2008/m1867-64-impala.json",
+        "data/releases/2008/m1867-64-impala.json",
+        "data/releases/2008/m1867-64-impala.json",
+        "data/releases/2008/m1867-64-impala.json"
+    ]
+}

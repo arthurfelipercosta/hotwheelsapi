@@ -1,0 +1,24 @@
+{
+    "release_id": "bf032-ford-rs200-2021",
+    "toy_number": "BF032",
+    "casting_id": "ford-rs200",
+    "year": 2021,
+    "series_id": "period-correct",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Martini-esque livery, Sponsor Logos on sides, '2' on sides, 'P.C. RACING' on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White RRA"
+        }
+    },
+    "country": "Thailand",
+    "notes": "13 February 2021 Base code(s): N48, N49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/PCFORDRS200.jpg/revision/latest?cb=20210302032325"
+    }
+}

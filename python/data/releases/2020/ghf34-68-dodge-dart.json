@@ -1,0 +1,24 @@
+{
+    "release_id": "ghf34-68-dodge-dart-2020",
+    "toy_number": "GHF34",
+    "casting_id": "68-dodge-dart",
+    "year": 2020,
+    "series_id": "hw-speed-graphics",
+    "series_index": 5,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Red, White, Blue stripes along sides. 'Mopar', Hot Wheels & 'Goodyear' logo on sides. Black stripe along bonnet, roof & trunk. 'Dodge' on bonnet",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N02, N07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/GHF34-01.jpg/revision/latest?cb=20200328114528"
+    }
+}

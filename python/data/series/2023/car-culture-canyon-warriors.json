@@ -1,0 +1,12 @@
+{
+    "series_id": "car-culture-canyon-warriors",
+    "year": 2023,
+    "name": "Car Culture: Canyon Warriors",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hkc54-87-ford-sierra-cosworth.json",
+        "data/releases/2023/hkc55-mercedes-benz-500-e.json",
+        "data/releases/2023/hkc57-mercedes-benz-500-e.json"
+    ]
+}

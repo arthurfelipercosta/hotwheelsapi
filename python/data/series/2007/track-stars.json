@@ -1,0 +1,13 @@
+{
+    "series_id": "track-stars",
+    "year": 2007,
+    "name": "Track Stars",
+    "total_releases": 4,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2007/k7601-subaru-impreza.json",
+        "data/releases/2007/k7601-subaru-impreza.json",
+        "data/releases/2007/k7601-subaru-impreza.json",
+        "data/releases/2007/k7601-subaru-impreza.json"
+    ]
+}

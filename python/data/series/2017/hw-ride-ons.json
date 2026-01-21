@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-ride-ons",
+    "year": 2017,
+    "name": "HW Ride-Ons",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2017/dvc28-pedal-driver.json",
+        "data/releases/2017/dvd09-pedal-driver.json"
+    ]
+}

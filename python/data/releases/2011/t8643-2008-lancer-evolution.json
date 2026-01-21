@@ -18,5 +18,7 @@
     },
     "country": "Thailand",
     "notes": "Base code(s):",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/2011HWTunerz2008Evolution.jpg/revision/latest?cb=20111019012248"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/2011HWTunerz2008Evolution.jpg/revision/latest?cb=20111019012248"
+    }
 }

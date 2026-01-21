@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv08-59-chevy-bel-air-2022",
+    "toy_number": "HCV08",
+    "casting_id": "59-chevy-bel-air",
+    "year": 2022,
+    "series_id": "chevy-bel-air",
+    "series_index": 4,
+    "specs": {
+        "color": "Pearl Pink",
+        "tampo": "Dark Pink, Purple & Gold stripes on sides & Hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Purple)",
+        "interior_color": "Purple",
+        "wheel_type": {
+            "0": "Gold LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Named '59 Chevy Impala Base code(s): P43, P44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/59_Impala_Pink_22.jpg/revision/latest?cb=20220114082225"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "casting_id": "mercedes-benz-unimog-1300l",
+    "name": "Mercedes-Benz Unimog 1300L",
+    "description": {
+        "en-us": "Mercedes-Benz Unimog 1300L Debut series HW Hot Trucks Produced 2019 – Present Designer Dmitriy Shakhmatov Number FYB55",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb55-mercedes-benz-unimog-1300l.json",
+        "data/releases/2019/fyf08-mercedes-benz-unimog-1300l.json",
+        "data/releases/2020/ghd74-mercedes-benz-unimog-1300l.json",
+        "data/releases/2021/gtb08-mercedes-benz-unimog-1300l.json",
+        "data/releases/2021/gtc54-mercedes-benz-unimog-1300l.json",
+        "data/releases/2022/hdh07-mercedes-benz-unimog-1300l.json",
+        "data/releases/2022/hbg31-mercedes-benz-unimog-1300l.json",
+        "data/releases/2023/hkh26-mercedes-benz-unimog-1300l.json",
+        "data/releases/2023/hkj99-mercedes-benz-unimog-1300l.json",
+        "data/releases/2023/hlk05-mercedes-benz-unimog-1300l.json",
+        "data/releases/2024/htb24-mercedes-benz-unimog-1300l.json",
+        "data/releases/2024/htf54-mercedes-benz-unimog-1300l.json",
+        "data/releases/2024/htf05-mercedes-benz-unimog-1300l.json",
+        "data/releases/2026/jjj32-mercedes-benz-unimog-1300l.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

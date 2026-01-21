@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-metro",
+    "year": 2022,
+    "name": "HW Metro",
+    "total_releases": 3,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2022/hct79-barbie-dream-camper.json",
+        "data/releases/2022/hct89-ain-t-fare.json",
+        "data/releases/2022/hcx00-ain-t-fare.json"
+    ]
+}

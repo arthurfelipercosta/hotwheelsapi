@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-metro",
+    "year": 2025,
+    "name": "HW Metro",
+    "total_releases": 9,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2025/hyw21-maserati-shamal.json",
+        "data/releases/2025/hyw35-cone-shaker.json",
+        "data/releases/2025/hyw64-kowloon-d-hypervan.json",
+        "data/releases/2025/hyw65-small-bloc.json",
+        "data/releases/2025/hyx56-small-bloc.json",
+        "data/releases/2025/hyx75-kowloon-d-hypervan.json",
+        "data/releases/2025/hyx76-maserati-shamal.json",
+        "data/releases/2025/jbb62-cone-shaker.json",
+        "data/releases/2025/jbc22-mailed-it.json"
+    ]
+}

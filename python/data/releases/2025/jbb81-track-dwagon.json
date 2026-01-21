@@ -1,0 +1,24 @@
+{
+    "release_id": "jbb81-track-dwagon-2025",
+    "toy_number": "JBB81",
+    "casting_id": "track-dwagon",
+    "year": 2025,
+    "series_id": "hw-wagons",
+    "series_index": 2,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Black, lime green, blue and white design on sides, \"34\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Front: Black AeroDisc Back: Lime green AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U26N, U36N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/TrackDwagonP.jpg/revision/latest?cb=20250924094500"
+    }
+}

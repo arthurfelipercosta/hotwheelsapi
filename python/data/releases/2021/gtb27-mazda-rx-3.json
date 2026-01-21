@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb27-mazda-rx-3-2021",
+    "toy_number": "GTB27",
+    "casting_id": "mazda-rx-3",
+    "year": 2021,
+    "series_id": "hw-drift",
+    "series_index": 5,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue strips on sides, hood & roof. 'Mad Mike' logo on roof & doors. Various sponsor logos all around. HW logo on sideskirts",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N48, N49, N52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/Mazda_rx3_whity.jpg/revision/latest?cb=20210328014959"
+    }
+}

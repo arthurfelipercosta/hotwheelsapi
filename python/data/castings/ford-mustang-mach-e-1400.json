@@ -1,0 +1,22 @@
+{
+    "casting_id": "ford-mustang-mach-e-1400",
+    "name": "Ford Mustang Mach-E 1400",
+    "description": {
+        "en-us": "Ford Mustang Mach-E 1400 Debut series HW Green Speed Produced 2022 – Present Designer Ryu Asada Number HCT06",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct06-ford-mustang-mach-e-1400.json",
+        "data/releases/2022/hcx38-ford-mustang-mach-e-1400.json",
+        "data/releases/2022/hcy30-ford-mustang-mach-e-1400.json",
+        "data/releases/2023/hkh29-ford-mustang-mach-e-1400.json",
+        "data/releases/2023/hkk02-ford-mustang-mach-e-1400.json",
+        "data/releases/2024/htf20-ford-mustang-mach-e-1400.json",
+        "data/releases/2026/jjh86-ford-mustang-mach-e-1400.json",
+        "data/releases/2026/jjm61-ford-mustang-mach-e-1400.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Ford"
+}

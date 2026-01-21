@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb91-17-ford-f-150-raptor-2021",
+    "toy_number": "GTB91",
+    "casting_id": "17-ford-f-150-raptor",
+    "year": 2021,
+    "series_id": "hw-torque",
+    "series_index": 5,
+    "specs": {
+        "color": "Red-brown",
+        "tampo": "\"RAPTOR\" on sides, black lines",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P18, P21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/GTB91.jpg/revision/latest?cb=20210910014228"
+    }
+}

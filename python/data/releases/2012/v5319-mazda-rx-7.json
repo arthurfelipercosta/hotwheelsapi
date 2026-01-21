@@ -1,0 +1,24 @@
+{
+    "release_id": "v5319-mazda-rx-7-2012",
+    "toy_number": "V5319",
+    "casting_id": "mazda-rx-7",
+    "year": 2012,
+    "series_id": "2012-new-models",
+    "series_index": 31,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red & Gold stripes, White \"20\" inside black circle, White \"B. Ozaki\" on doors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D49, D50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/2012-MazdaRX7.jpg/revision/latest?cb=20120122185149"
+    }
+}

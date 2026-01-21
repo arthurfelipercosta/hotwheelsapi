@@ -1,0 +1,12 @@
+{
+    "series_id": "car-culture-speed-machines",
+    "year": 2023,
+    "name": "Car Culture: Speed Machines",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2023/hkc44-porsche-911-gt3.json",
+        "data/releases/2023/hkc45-porsche-911-gt3.json",
+        "data/releases/2023/hkc46-ford-gt.json"
+    ]
+}

@@ -20,5 +20,7 @@
     },
     "country": "Thailand",
     "notes": "Base code(s): G14",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/05/2008_Lancer_Evolution-2014_5-Pack.jpg/revision/latest?cb=20140707142907"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/2008_Lancer_Evolution-2014_5-Pack.jpg/revision/latest?cb=20140707142907"
+    }
 }

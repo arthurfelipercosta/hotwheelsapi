@@ -1,0 +1,28 @@
+{
+    "series_id": "hw-70s-vs-90s",
+    "year": 2025,
+    "name": "HW: '70s vs. '90s",
+    "total_releases": 19,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2025/hyw81-90-honda-civic-ef.json",
+        "data/releases/2025/hyw82-94-audi-avant-rs2.json",
+        "data/releases/2025/hyx02-mercedes-benz-500-e.json",
+        "data/releases/2025/hyx03-70-chevy-camaro-rs.json",
+        "data/releases/2025/hyx21-bmw-2002.json",
+        "data/releases/2025/hyx22-71-lamborghini-miura-sv.json",
+        "data/releases/2025/hyx60-94-audi-avant-rs2.json",
+        "data/releases/2025/hyx73-71-lamborghini-miura-sv.json",
+        "data/releases/2025/hyx90-90-honda-civic-ef.json",
+        "data/releases/2025/hyy04-nissan-skyline-gt-r-bcnr33.json",
+        "data/releases/2025/hyy14-bmw-2002.json",
+        "data/releases/2025/hyy27-71-lamborghini-miura-sv.json",
+        "data/releases/2025/hyy68-92-ford-mustang.json",
+        "data/releases/2025/hyy80-nissan-skyline-gt-r-bcnr33.json",
+        "data/releases/2025/hyy95-95-mazda-rx-7-drift.json",
+        "data/releases/2025/hyy96-70-dodge-hemi-challenger.json",
+        "data/releases/2025/jbb57-95-mazda-rx-7-drift.json",
+        "data/releases/2025/jbb60-mercedes-benz-500-e.json",
+        "data/releases/2025/jbb61-bmw-2002.json"
+    ]
+}

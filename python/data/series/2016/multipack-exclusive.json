@@ -1,0 +1,16 @@
+{
+    "series_id": "multipack-exclusive",
+    "year": 2016,
+    "name": "Multipack Exclusive",
+    "total_releases": 7,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2016/x6999-2013-srt-viper.json",
+        "data/releases/2016/x6999-68-dodge-dart.json",
+        "data/releases/2016/x6999-70-dodge-hemi-challenger.json",
+        "data/releases/2016/x6999-bone-shaker.json",
+        "data/releases/2016/x6999-mazda-rx-7.json",
+        "data/releases/2016/x6999-salt-shaker.json",
+        "data/releases/2016/x6999-triumph-tr6.json"
+    ]
+}

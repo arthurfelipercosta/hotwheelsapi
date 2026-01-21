@@ -1,0 +1,24 @@
+{
+    "release_id": "blr16-83-chevy-silverado-2014",
+    "toy_number": "BLR16",
+    "casting_id": "83-chevy-silverado",
+    "year": 2014,
+    "series_id": "hwc-series-13-real-riders",
+    "series_index": 1,
+    "specs": {
+        "color": "Spectraflame Root Beer",
+        "tampo": "Cream 2-tone & silver stripes on sides & rear; Silverado 20 logo on sides; \"CHEVROLET\" on black & gray stripe on tailgate; silver trim; painted headlights & taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Real Riders Off-Road ORRRPrf"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G48, G50, H11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/83_Silverado_2.jpg/revision/latest?cb=20160201062427"
+    }
+}

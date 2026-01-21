@@ -1,0 +1,25 @@
+{
+    "brand_id": "honda",
+    "name": "Honda",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/90-honda-civic-ef.json",
+        "data/castings/2018-honda-civic-type-r.json",
+        "data/castings/73-honda-civic-custom.json",
+        "data/castings/85-honda-city-turbo-ii.json",
+        "data/castings/honda-cb750-caf.json",
+        "data/castings/honda-civic-custom.json",
+        "data/castings/honda-motocompo.json",
+        "data/castings/honda-s800-racing.json",
+        "data/castings/honda-vfr750r-rc30.json",
+        "data/castings/1985-honda-cr-x.json",
+        "data/castings/98-honda-prelude.json",
+        "data/castings/custom-2020-honda-e.json",
+        "data/castings/honda-odyssey.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Honda vehicles.",
+        "pt-br": "Fabricante de veículos Honda."
+    }
+}

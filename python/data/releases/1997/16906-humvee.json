@@ -1,0 +1,26 @@
+{
+    "release_id": "16906-humvee-1997",
+    "toy_number": "16906",
+    "casting_id": "humvee",
+    "year": 1997,
+    "series_id": "race-team-iii",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Hot Wheels Race Team deco, red \"1\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Gray",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ORSB",
+            "1": "Metalflake Silver",
+            "2": "Metal"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Short & Tall antenna variants",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/Humvee_-_Race_Team_Series_4.jpg/revision/latest?cb=20090103234649"
+    }
+}

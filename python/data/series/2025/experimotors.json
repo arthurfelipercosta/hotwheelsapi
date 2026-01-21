@@ -1,0 +1,28 @@
+{
+    "series_id": "experimotors",
+    "year": 2025,
+    "name": "Experimotors",
+    "total_releases": 19,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2025/hyw39-decidedly-go.json",
+        "data/releases/2025/hyw45-quick-chat.json",
+        "data/releases/2025/hyx88-flippin-fast.json",
+        "data/releases/2025/hyy02-slide-kick.json",
+        "data/releases/2025/hyy57-slide-kick.json",
+        "data/releases/2025/hyy58-flippin-fast.json",
+        "data/releases/2025/hyy59-skull-shaker.json",
+        "data/releases/2025/hyy90-hw-ultimate-t-rex-transporter.json",
+        "data/releases/2025/jbb02-crate-racer.json",
+        "data/releases/2025/jbb12-porsche-911-carrera-clip.json",
+        "data/releases/2025/jbb25-speed-driver.json",
+        "data/releases/2025/jbb73-skull-shaker.json",
+        "data/releases/2025/jbb87-crate-racer.json",
+        "data/releases/2025/jbb88-speed-driver.json",
+        "data/releases/2025/jbc10-hw-ultimate-t-rex-transporter.json",
+        "data/releases/2025/jbc11-porsche-911-carrera-clip.json",
+        "data/releases/2025/jbc12-decidedly-go.json",
+        "data/releases/2025/jbc13-quick-chat.json",
+        "data/releases/2025/jbc31-shark-bite.json"
+    ]
+}

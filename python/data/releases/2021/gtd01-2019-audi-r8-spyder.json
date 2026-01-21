@@ -1,0 +1,24 @@
+{
+    "release_id": "gtd01-2019-audi-r8-spyder-2021",
+    "toy_number": "GTD01",
+    "casting_id": "2019-audi-r8-spyder",
+    "year": 2021,
+    "series_id": "hw-exotics",
+    "series_index": 4,
+    "specs": {
+        "color": "Spectraflame Santorini Blue",
+        "tampo": "Detailed headlights & taillights, Audi & R8 logos, 'R8 Spyder' license plates",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR5SPM"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Super Treasure Hunt Base code(s): P12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2019_Audi_R8_Spyder.jpg/revision/latest?cb=20211114063216"
+    }
+}

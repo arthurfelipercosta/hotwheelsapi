@@ -1,0 +1,24 @@
+{
+    "release_id": "fjx50-70-chevelle-ss-wagon-2018",
+    "toy_number": "FJX50",
+    "casting_id": "70-chevelle-ss-wagon",
+    "year": 2018,
+    "series_id": "hw-daredevils",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "'Daredevils' & HW logo on sides, '01' on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow & Black MC5 Black MC5 with off-white tires"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K25, K29, K30, K36, K40, K43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/70_Chevelle_SS_Wagon.jpg/revision/latest?cb=20220528195145"
+    }
+}

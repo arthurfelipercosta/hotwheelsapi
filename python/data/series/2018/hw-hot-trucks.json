@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-hot-trucks",
+    "year": 2018,
+    "name": "HW Hot Trucks",
+    "total_releases": 10,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2018/fjv45-15-land-rover-defender-double-cab.json",
+        "data/releases/2018/fjv97-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2018/fjw54-mazda-repu.json",
+        "data/releases/2018/fjw54-mazda-repu.json",
+        "data/releases/2018/fjw59-17-ford-f-150-raptor.json",
+        "data/releases/2018/fjy48-mazda-repu.json",
+        "data/releases/2018/fjy53-17-ford-f-150-raptor.json",
+        "data/releases/2018/fjy54-17-ford-f-150-raptor.json",
+        "data/releases/2018/fjy55-15-land-rover-defender-double-cab.json",
+        "data/releases/2018/fjy55-15-land-rover-defender-double-cab.json"
+    ]
+}

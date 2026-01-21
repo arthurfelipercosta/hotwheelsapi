@@ -1,0 +1,17 @@
+{
+    "casting_id": "mo-stash",
+    "name": "Mo-Stash",
+    "description": {
+        "en-us": "Mo-Stash Debut series Experimotors Produced 2024 – Present Designer Craig Callum Number HRY56",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry56-mo-stash.json",
+        "data/releases/2024/htd64-mo-stash.json",
+        "data/releases/2025/jbb46-mo-stash.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

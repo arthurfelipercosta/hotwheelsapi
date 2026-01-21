@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "New Model Base codes: U12N, U13N, U14N, U15N, U16N, U17N, U18N, U19N",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/66/FerrariF40Competizione.jpg/revision/latest?cb=20250423114302"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/FerrariF40Competizione.jpg/revision/latest?cb=20250423114302"
+    }
 }

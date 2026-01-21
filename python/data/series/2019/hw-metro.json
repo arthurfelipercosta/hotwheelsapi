@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-metro",
+    "year": 2019,
+    "name": "HW Metro",
+    "total_releases": 6,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2019/fyc61-good-humor-truck.json",
+        "data/releases/2019/fyc63-buns-of-steel.json",
+        "data/releases/2019/fyc67-street-wiener.json",
+        "data/releases/2019/fyf22-good-humor-truck.json",
+        "data/releases/2019/fyf24-buns-of-steel.json",
+        "data/releases/2019/fyf28-street-wiener.json"
+    ]
+}

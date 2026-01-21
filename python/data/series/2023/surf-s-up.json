@@ -1,0 +1,11 @@
+{
+    "series_id": "surf-s-up",
+    "year": 2023,
+    "name": "Surf's Up",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2023/hkj34-deora-iii.json",
+        "data/releases/2023/hkk81-deora-iii.json"
+    ]
+}

@@ -2,10 +2,18 @@
     "series_id": "multipack-exclusive",
     "year": 2022,
     "name": "Multipack Exclusive",
-    "total_releases": 2,
+    "total_releases": 10,
     "max_index": 0,
     "releases": [
+        "data/releases/2022/x6999-16-lamborghini-centenario-roadster.json",
         "data/releases/2022/x6999-carbonic.json",
-        "data/releases/2022/x6999-formula-flashback.json"
+        "data/releases/2022/x6999-corvette-stingray.json",
+        "data/releases/2022/x6999-formula-flashback.json",
+        "data/releases/2022/x6999-hw-formula-solar.json",
+        "data/releases/2022/x6999-monteracer.json",
+        "data/releases/2022/x6999-pass-n-gasser.json",
+        "data/releases/2022/x6999-porsche-911-gt2.json",
+        "data/releases/2022/x6999-rrroadster.json",
+        "data/releases/2022/x6999-super-volt.json"
     ]
 }

@@ -1,0 +1,19 @@
+{
+    "series_id": "x-raycers",
+    "year": 2018,
+    "name": "X-Raycers",
+    "total_releases": 10,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2018/fjw90-el-viento.json",
+        "data/releases/2018/fjw91-rig-storm.json",
+        "data/releases/2018/fjw92-monteracer.json",
+        "data/releases/2018/fjw93-hi-roller.json",
+        "data/releases/2018/fjw95-bullet-proof.json",
+        "data/releases/2018/fjw96-69-chevelle.json",
+        "data/releases/2018/fjy70-rig-storm.json",
+        "data/releases/2018/fjy71-hi-roller.json",
+        "data/releases/2018/fkb26-monteracer.json",
+        "data/releases/2018/fkb94-el-viento.json"
+    ]
+}

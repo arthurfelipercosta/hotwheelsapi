@@ -1,0 +1,13 @@
+{
+    "series_id": "batman",
+    "year": 2021,
+    "name": "Batman",
+    "total_releases": 4,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2021/grp59-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2021/grp60-tv-series-batmobile.json",
+        "data/releases/2021/grx23-batmobile.json",
+        "data/releases/2021/gtb53-batmobile.json"
+    ]
+}

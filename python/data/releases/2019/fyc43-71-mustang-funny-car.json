@@ -1,0 +1,24 @@
+{
+    "release_id": "fyc43-71-mustang-funny-car-2019",
+    "toy_number": "FYC43",
+    "casting_id": "71-mustang-funny-car",
+    "year": 2019,
+    "series_id": "hw-flames",
+    "series_index": 8,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "White, Yellow & Red flames with \"Hot Wheels\" flaming text",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black Chrome Red 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): L37, L42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/%2771_Mustang_Funny_Car._FYC43._HW_Flames.JPG/revision/latest?cb=20181204060030"
+    }
+}

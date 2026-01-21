@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-flames",
+    "year": 2017,
+    "name": "HW Flames",
+    "total_releases": 7,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2017/dtx81-55-chevy.json",
+        "data/releases/2017/dtx86-68-dodge-dart.json",
+        "data/releases/2017/dtx88-custom-72-chevy-luv.json",
+        "data/releases/2017/dvb77-68-dodge-dart.json",
+        "data/releases/2017/fbj15-55-chevy.json",
+        "data/releases/2017/fbj17-68-dodge-dart.json",
+        "data/releases/2017/fcj75-custom-72-chevy-luv.json"
+    ]
+}

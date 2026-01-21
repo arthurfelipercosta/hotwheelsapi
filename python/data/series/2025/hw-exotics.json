@@ -2,10 +2,17 @@
     "series_id": "hw-exotics",
     "year": 2025,
     "name": "HW Exotics",
-    "total_releases": 2,
-    "max_index": 4,
+    "total_releases": 9,
+    "max_index": 2,
     "releases": [
+        "data/releases/2025/hyw11-peugeot-9x8-hypercar.json",
         "data/releases/2025/hyw59-ferrari-f40-competizione.json",
-        "data/releases/2025/jbb92-ferrari-f40-competizione.json"
+        "data/releases/2025/hyx40-cadillac-project-gtp-hypercar.json",
+        "data/releases/2025/hyy36-cadillac-project-gtp-hypercar.json",
+        "data/releases/2025/jbb14-gordon-murray-automotive-t-50s.json",
+        "data/releases/2025/jbb28-mclaren-speedtail.json",
+        "data/releases/2025/jbb91-cadillac-project-gtp-hypercar.json",
+        "data/releases/2025/jbb92-ferrari-f40-competizione.json",
+        "data/releases/2025/jbc44-mclaren-speedtail.json"
     ]
 }

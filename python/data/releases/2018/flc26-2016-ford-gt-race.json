@@ -1,0 +1,24 @@
+{
+    "release_id": "flc26-2016-ford-gt-race-2018",
+    "toy_number": "FLC26",
+    "casting_id": "2016-ford-gt-race",
+    "year": 2018,
+    "series_id": "car-culture-circuit-legends",
+    "series_index": 4,
+    "specs": {
+        "color": "Blue & Red",
+        "tampo": "Detailed headlights, Ford logo on top & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): L30, L31, L33, L34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/16FordGTRaceCarCulture.jpg/revision/latest?cb=20181028031620"
+    }
+}

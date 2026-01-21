@@ -2,9 +2,22 @@
     "series_id": "multipack-exclusive",
     "year": 2020,
     "name": "Multipack Exclusive",
-    "total_releases": 1,
+    "total_releases": 14,
     "max_index": 0,
     "releases": [
-        "data/releases/2020/x6999-formula-flashback.json"
+        "data/releases/2020/x6999-55-chevy.json",
+        "data/releases/2020/x6999-68-corvette-gas-monkey-garage.json",
+        "data/releases/2020/x6999-73-pontiac-firebird.json",
+        "data/releases/2020/x6999-73-pontiac-firebird.json",
+        "data/releases/2020/x6999-73-pontiac-firebird.json",
+        "data/releases/2020/x6999-bone-shaker.json",
+        "data/releases/2020/x6999-corvette-stingray.json",
+        "data/releases/2020/x6999-fish-d-chip-d.json",
+        "data/releases/2020/x6999-formula-flashback.json",
+        "data/releases/2020/x6999-monteracer.json",
+        "data/releases/2020/x6999-porsche-911-gt2.json",
+        "data/releases/2020/x6999-rrroadster.json",
+        "data/releases/2020/x6999-super-volt.json",
+        "data/releases/2020/x6999-track-ripper.json"
     ]
 }

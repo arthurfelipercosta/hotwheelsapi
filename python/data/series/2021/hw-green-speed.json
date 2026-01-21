@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-green-speed",
+    "year": 2021,
+    "name": "HW Green Speed",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2021/grx36-nissan-leaf-nismo-rc-02.json",
+        "data/releases/2021/gtb23-porsche-taycan-turbo-s.json"
+    ]
+}

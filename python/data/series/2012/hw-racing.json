@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-racing",
+    "year": 2012,
+    "name": "HW Racing",
+    "total_releases": 5,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2012/v5478-70-dodge-hemi-challenger.json",
+        "data/releases/2012/v5484-bone-shaker.json",
+        "data/releases/2012/v5621-70-dodge-hemi-challenger.json",
+        "data/releases/2012/v5700-70-dodge-hemi-challenger.json",
+        "data/releases/2012/v5707-bone-shaker.json"
+    ]
+}

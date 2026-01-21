@@ -1,0 +1,11 @@
+{
+    "series_id": "batman",
+    "year": 2015,
+    "name": "Batman",
+    "total_releases": 2,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2015/dfk71-tv-series-batmobile.json",
+        "data/releases/2015/dfk73-the-dark-knight-batmobile.json"
+    ]
+}

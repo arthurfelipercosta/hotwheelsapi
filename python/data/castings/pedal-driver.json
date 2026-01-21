@@ -1,0 +1,26 @@
+{
+    "casting_id": "pedal-driver",
+    "name": "Pedal Driver",
+    "description": {
+        "en-us": "Pedal Driver Debut series HW City: Surf Patrol Produced 2015 - Present Designer Ryu Asada Number CFG87",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfg87-pedal-driver.json",
+        "data/releases/2015/cfj66-pedal-driver.json",
+        "data/releases/2016/dhp92-pedal-driver.json",
+        "data/releases/2016/dhw73-pedal-driver.json",
+        "data/releases/2017/dvd09-pedal-driver.json",
+        "data/releases/2017/dvc28-pedal-driver.json",
+        "data/releases/2018/fkw89-pedal-driver.json",
+        "data/releases/2018/fkw90-jcm50-pedal-driver.json",
+        "data/releases/2018/fkv12-pedal-driver.json",
+        "data/releases/2020/ghp49-pedal-driver.json",
+        "data/releases/2025/jbc23-pedal-driver.json",
+        "data/releases/2026/jjj76-pedal-driver.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

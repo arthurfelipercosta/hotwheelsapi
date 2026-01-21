@@ -1,0 +1,13 @@
+{
+    "series_id": "nightburnerz",
+    "year": 2020,
+    "name": "Nightburnerz",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2020/ghb29-2018-bentley-continental-gt3.json",
+        "data/releases/2020/ghb56-89-mazda-savanna-rx-7-fc3s.json",
+        "data/releases/2020/ghd17-mazda-rx-3.json",
+        "data/releases/2020/gtd37-2018-bentley-continental-gt3.json"
+    ]
+}

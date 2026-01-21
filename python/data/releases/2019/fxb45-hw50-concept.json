@@ -1,0 +1,24 @@
+{
+    "release_id": "fxb45-hw50-concept-2019",
+    "toy_number": "FXB45",
+    "casting_id": "hw50-concept",
+    "year": 2019,
+    "series_id": "hot-wheels-id-moving-forward",
+    "series_index": 1,
+    "specs": {
+        "color": "Spectraflame Blue",
+        "tampo": "White flame outlines on the sides & roof, HWID logo on front & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): M22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/FXB45.jpg/revision/latest?cb=20210407231840"
+    }
+}

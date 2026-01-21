@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv20-cruise-bruiser-2022",
+    "toy_number": "HCV20",
+    "casting_id": "cruise-bruiser",
+    "year": 2022,
+    "series_id": "hw-wagons",
+    "series_index": 3,
+    "specs": {
+        "color": "Gold",
+        "tampo": "White and Black lines, Red \"CRUISE BRUISER\", \"22\" and sponsors logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome Red 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R16, R17, R20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/HCV20.jpg/revision/latest?cb=20220527123342"
+    }
+}

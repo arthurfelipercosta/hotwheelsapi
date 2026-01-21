@@ -1,0 +1,24 @@
+{
+    "release_id": "t8319-65-mercury-comet-cyclone-2011",
+    "toy_number": "T8319",
+    "casting_id": "65-mercury-comet-cyclone",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-ford",
+    "series_index": 13,
+    "specs": {
+        "color": "Metalflake Gray",
+        "tampo": "Red design on sides, hood and trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RRDragS & RRMag"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/%2765_Mercury_Comet_Cyclone.JPG/revision/latest?cb=20150516044448"
+    }
+}

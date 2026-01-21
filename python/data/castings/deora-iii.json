@@ -1,0 +1,26 @@
+{
+    "casting_id": "deora-iii",
+    "name": "Deora III",
+    "description": {
+        "en-us": "Deora III Debut series Rod Squad Produced 2019 - Present Designer Mark Jones Number FYB43",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb43-deora-iii.json",
+        "data/releases/2019/fyd90-deora-iii.json",
+        "data/releases/2020/ghc44-deora-iii.json",
+        "data/releases/2020/ghg52-deora-iii.json",
+        "data/releases/2021/gry53-deora-iii.json",
+        "data/releases/2021/gtc37-deora-iii.json",
+        "data/releases/2022/hfv89-deora-iii.json",
+        "data/releases/2023/hkj34-deora-iii.json",
+        "data/releases/2023/hkk81-deora-iii.json",
+        "data/releases/2024/htc70-deora-iii.json",
+        "data/releases/2025/hyw67-deora-iii.json",
+        "data/releases/2025/hyx47-deora-iii.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

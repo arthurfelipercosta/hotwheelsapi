@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh25-ford-gt-2022",
+    "toy_number": "HDH25",
+    "casting_id": "ford-gt",
+    "year": 2022,
+    "series_id": "world-class-racers",
+    "series_index": 4,
+    "specs": {
+        "color": "Mark IV Red",
+        "tampo": "Detailed headlights, stripes down hood, \"5\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R24, R26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/World_Class_Racers_2022_Ford_GT_HDH25.jpg/revision/latest?cb=20221003231606"
+    }
+}

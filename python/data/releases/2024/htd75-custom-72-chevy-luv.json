@@ -1,0 +1,24 @@
+{
+    "release_id": "htd75-custom-72-chevy-luv-2024",
+    "toy_number": "HTD75",
+    "casting_id": "custom-72-chevy-luv",
+    "year": 2024,
+    "series_id": "hw-hot-trucks",
+    "series_index": 6,
+    "specs": {
+        "color": "White",
+        "tampo": "Light blue, blue, dark blue, & bright blue stripes on sides & hood; Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gold RSW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T22, T23, T24, T28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/1972_Custom_Chevy_Luv_%28Hot_Trucks%29_%282nd%29_%282024%29.png/revision/latest?cb=20250507131813"
+    }
+}

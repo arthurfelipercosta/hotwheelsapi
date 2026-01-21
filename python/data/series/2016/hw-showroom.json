@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-showroom",
+    "year": 2016,
+    "name": "HW Showroom",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2016/dhp09-hi-roller.json",
+        "data/releases/2016/dhp26-honda-odyssey.json",
+        "data/releases/2016/dhw80-hi-roller.json"
+    ]
+}

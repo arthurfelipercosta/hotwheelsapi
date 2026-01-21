@@ -1,0 +1,13 @@
+{
+    "series_id": "mainline",
+    "year": 1995,
+    "name": "Mainline",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1995/0773-humvee.json",
+        "data/releases/1995/12351-blazer-4-4.json",
+        "data/releases/1995/12356-purple-passion.json",
+        "data/releases/1995/5904-good-humor-truck.json"
+    ]
+}

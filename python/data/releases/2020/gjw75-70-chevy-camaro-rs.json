@@ -1,0 +1,24 @@
+{
+    "release_id": "gjw75-70-chevy-camaro-rs-2020",
+    "toy_number": "GJW75",
+    "casting_id": "70-chevy-camaro-rs",
+    "year": 2020,
+    "series_id": "stars-stripes",
+    "series_index": 7,
+    "specs": {
+        "color": "Gloss Red",
+        "tampo": "White & Blue stripes along hood, roof, trunk & sides. White stars along hood, roof & trunk.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N08, N09, N14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/GJW75-01.JPG/revision/latest?cb=20200622023218"
+    }
+}

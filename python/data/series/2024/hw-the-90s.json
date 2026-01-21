@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-the-90s",
+    "year": 2024,
+    "name": "HW: The '90s",
+    "total_releases": 8,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2024/htb03-96-porsche-carrera.json",
+        "data/releases/2024/htb04-90-acura-nsx.json",
+        "data/releases/2024/htb05-92-ford-mustang.json",
+        "data/releases/2024/htb07-99-ford-f-150-svt-lightning.json",
+        "data/releases/2024/htb10-91-gmc-syclone.json",
+        "data/releases/2024/htf01-96-porsche-carrera.json",
+        "data/releases/2024/htf02-90-acura-nsx.json",
+        "data/releases/2024/htf53-90-acura-nsx.json"
+    ]
+}

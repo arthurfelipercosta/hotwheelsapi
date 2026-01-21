@@ -1,0 +1,29 @@
+{
+    "casting_id": "mazda-repu",
+    "name": "Mazda REPU",
+    "description": {
+        "en-us": "Mazda REPU Debut series HW Daredevils Produced 2017 - Present Designer Jun Imai Number DTX00",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx00-mazda-repu.json",
+        "data/releases/2018/fjw54-mazda-repu.json",
+        "data/releases/2018/fjw54-mazda-repu-v2.json",
+        "data/releases/2018/fjy48-mazda-repu.json",
+        "data/releases/2019/fyd72-mazda-repu.json",
+        "data/releases/2019/fyg13-mazda-repu.json",
+        "data/releases/2020/ghc91-mazda-repu.json",
+        "data/releases/2021/grp24-mazda-repu.json",
+        "data/releases/2022/hcv58-mazda-repu.json",
+        "data/releases/2022/hcy26-mazda-repu.json",
+        "data/releases/2022/hcw82-mazda-repu.json",
+        "data/releases/2023/hkh99-mazda-repu.json",
+        "data/releases/2024/hrx04-mazda-repu.json",
+        "data/releases/2025/hyw98-mazda-repu.json",
+        "data/releases/2026/jkx40-mazda-repu.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mazda"
+}

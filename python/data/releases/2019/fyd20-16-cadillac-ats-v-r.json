@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd20-16-cadillac-ats-v-r-2019",
+    "toy_number": "FYD20",
+    "casting_id": "16-cadillac-ats-v-r",
+    "year": 2019,
+    "series_id": "hw-race-day",
+    "series_index": 2,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue, Red & Silver stripes, 'Cadillac', 'HW Logo' & '4' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red Rim Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L36, L39, L42, L44, L45, L46, L47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/%2716_Cadillac_ATS-V_R.jpg/revision/latest?cb=20181223055449"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "series_id": "2012-new-models",
+    "year": 2012,
+    "name": "2012 New Models",
+    "total_releases": 13,
+    "max_index": 28,
+    "releases": [
+        "data/releases/2012/v5299-2013-srt-viper.json",
+        "data/releases/2012/v5304-73-pontiac-firebird.json",
+        "data/releases/2012/v5305-k-i-t-t.json",
+        "data/releases/2012/v5309-bmw-2002.json",
+        "data/releases/2012/v5316-monster-dairy-delivery.json",
+        "data/releases/2012/v5319-mazda-rx-7.json",
+        "data/releases/2012/v5322-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2012/v5338-69-mercury-cyclone.json",
+        "data/releases/2012/v5588-73-pontiac-firebird.json",
+        "data/releases/2012/v5600-mazda-rx-7.json",
+        "data/releases/2012/v5601-bmw-2002.json",
+        "data/releases/2012/v5635-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2012/y5851-2013-srt-viper.json"
+    ]
+}

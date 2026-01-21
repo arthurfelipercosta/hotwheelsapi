@@ -1,0 +1,24 @@
+{
+    "release_id": "grl94-87-buick-regal-gnx-2021",
+    "toy_number": "GRL94",
+    "casting_id": "87-buick-regal-gnx",
+    "year": 2021,
+    "series_id": "hot-wheels-boulevard-30",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Dark Gray",
+        "tampo": "Detailed Headlights & Taillights, Grand National emblem. Red striping along sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Dark Gray RR10SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N33, N35, P09, P12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/GRL94-01.JPG/revision/latest?cb=20210529060155"
+    }
+}

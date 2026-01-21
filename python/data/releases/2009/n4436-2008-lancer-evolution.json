@@ -18,5 +18,7 @@
     },
     "country": "Thailand",
     "notes": "Base code(s): B27",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/4/44/HW_Colour_Shifter_Evo_X_2009.jpg/revision/latest?cb=20230528115424"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/HW_Colour_Shifter_Evo_X_2009.jpg/revision/latest?cb=20230528115424"
+    }
 }

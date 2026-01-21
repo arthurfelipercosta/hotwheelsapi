@@ -1,0 +1,11 @@
+{
+    "series_id": "mystery-models-series-3",
+    "year": 2021,
+    "name": "Mystery Models (Series 3)",
+    "total_releases": 2,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2021/gtf23-super-volt.json",
+        "data/releases/2021/gtf34-dmc-delorean.json"
+    ]
+}

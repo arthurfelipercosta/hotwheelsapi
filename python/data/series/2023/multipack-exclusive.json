@@ -2,9 +2,27 @@
     "series_id": "multipack-exclusive",
     "year": 2023,
     "name": "Multipack Exclusive",
-    "total_releases": 1,
+    "total_releases": 19,
     "max_index": 0,
     "releases": [
-        "data/releases/2023/x6999-carbonic.json"
+        "data/releases/2023/x6999-1985-honda-cr-x.json",
+        "data/releases/2023/x6999-1985-honda-cr-x.json",
+        "data/releases/2023/x6999-1985-honda-cr-x.json",
+        "data/releases/2023/x6999-20-toyota-gr-supra.json",
+        "data/releases/2023/x6999-20-toyota-gr-supra.json",
+        "data/releases/2023/x6999-90-acura-nsx.json",
+        "data/releases/2023/x6999-91-gmc-syclone.json",
+        "data/releases/2023/x6999-99-ford-f-150-svt-lightning.json",
+        "data/releases/2023/x6999-bone-shaker.json",
+        "data/releases/2023/x6999-carbonic.json",
+        "data/releases/2023/x6999-custom-18-ford-mustang-gt.json",
+        "data/releases/2023/x6999-custom-18-ford-mustang-gt.json",
+        "data/releases/2023/x6999-electro-silhouette.json",
+        "data/releases/2023/x6999-k5904-porsche-911-gt2.json",
+        "data/releases/2023/x6999-mclaren-speedtail.json",
+        "data/releases/2023/x6999-porsche-911-gt3-rs.json",
+        "data/releases/2023/x6999-porsche-911-gt3-rs.json",
+        "data/releases/2023/x6999-super-volt.json",
+        "data/releases/2023/x6999-track-ripper.json"
     ]
 }

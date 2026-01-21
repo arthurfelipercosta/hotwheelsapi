@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx35-custom-56-ford-truck-2017",
+    "toy_number": "DTX35",
+    "casting_id": "custom-56-ford-truck",
+    "year": 2017,
+    "series_id": "hw-hot-trucks",
+    "series_index": 2,
+    "specs": {
+        "color": "Matte Grey",
+        "tampo": "'Hot Wheels Hot Trucks' & rust on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J45, J48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/Custom_%2756_Ford_Truck-2017_108.jpg/revision/latest?cb=20161210131425"
+    }
+}

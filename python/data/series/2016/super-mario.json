@@ -1,0 +1,10 @@
+{
+    "series_id": "super-mario",
+    "year": 2016,
+    "name": "Super Mario",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2016/djk73-cruise-bruiser.json"
+    ]
+}

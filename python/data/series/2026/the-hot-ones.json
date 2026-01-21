@@ -1,0 +1,12 @@
+{
+    "series_id": "the-hot-ones",
+    "year": 2026,
+    "name": "The Hot Ones",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2026/jkx40-mazda-repu.json",
+        "data/releases/2026/jkx41-69-corvette-racer.json",
+        "data/releases/2026/jkx47-73-honda-civic-custom.json"
+    ]
+}

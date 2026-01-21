@@ -1,0 +1,25 @@
+{
+    "release_id": "hlr36-rrroadster-2023",
+    "toy_number": "HLR36",
+    "casting_id": "rrroadster",
+    "year": 2023,
+    "series_id": "mystery-models-series-2",
+    "series_index": 9,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Orange HW Logo and green and blue \"bubble\" stripes on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light blue tint",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Black",
+            "1": "Yellow Rim PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R49, S12, S13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/09Rrroadster.jpg/revision/latest?cb=20230615010636"
+    }
+}

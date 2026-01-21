@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-dream-garage",
+    "year": 2020,
+    "name": "HW Dream Garage",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2020/ghb30-mattel-dream-mobile.json",
+        "data/releases/2020/ghc25-twin-mill-gen-e.json",
+        "data/releases/2020/ghc27-bone-shaker.json",
+        "data/releases/2020/ghf28-twin-mill-gen-e.json"
+    ]
+}

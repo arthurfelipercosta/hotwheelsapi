@@ -1,0 +1,11 @@
+{
+    "series_id": "teenage-mutant-ninja-turtles",
+    "year": 2020,
+    "name": "Teenage Mutant Ninja Turtles",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2020/gjv09-the-vanster.json",
+        "data/releases/2020/gjv10-rrroadster.json"
+    ]
+}

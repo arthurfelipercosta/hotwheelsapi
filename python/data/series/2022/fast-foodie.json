@@ -1,0 +1,14 @@
+{
+    "series_id": "fast-foodie",
+    "year": 2022,
+    "name": "Fast Foodie",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hcv51-donut-drifter.json",
+        "data/releases/2022/hcv52-carbonator.json",
+        "data/releases/2022/hcx33-carbonator.json",
+        "data/releases/2022/hcx84-donut-drifter.json",
+        "data/releases/2022/hcx97-good-humor-truck.json"
+    ]
+}

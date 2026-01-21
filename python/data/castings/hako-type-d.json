@@ -1,0 +1,17 @@
+{
+    "casting_id": "hako-type-d",
+    "name": "Hako Type D",
+    "description": {
+        "en-us": "Hako Type D Debut series HW J-Imports Produced 2025 – Present Designer Bryan Zhao Number HYW25",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw25-hako-type-d.json",
+        "data/releases/2025/hyx80-hako-type-d.json",
+        "data/releases/2026/jjj43-hako-type-d.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

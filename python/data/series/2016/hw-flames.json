@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-flames",
+    "year": 2016,
+    "name": "HW Flames",
+    "total_releases": 4,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2016/dhr09-69-dodge-coronet-superbee.json",
+        "data/releases/2016/dhr15-69-mercury-cyclone.json",
+        "data/releases/2016/dhx29-69-mercury-cyclone.json",
+        "data/releases/2016/dhx68-69-dodge-coronet-superbee.json"
+    ]
+}

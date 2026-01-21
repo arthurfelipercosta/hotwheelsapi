@@ -1,0 +1,25 @@
+{
+    "release_id": "htc18-fiat-500e-2024",
+    "toy_number": "HTC18",
+    "casting_id": "fiat-500e",
+    "year": 2024,
+    "series_id": "compact-kings",
+    "series_index": 2,
+    "specs": {
+        "color": "Gray",
+        "tampo": "Detailed headlights and front grill. Black and Orange stripes, \"5\" in White roundel on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Orange rim",
+            "1": "Black J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S34, S35, S36, S45, S47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/FiatElectric500.jpg/revision/latest?cb=20240308074600"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hry78-22-ford-maverick-custom-2024",
+    "toy_number": "HRY78",
+    "casting_id": "22-ford-maverick-custom",
+    "year": 2024,
+    "series_id": "hw-hot-trucks",
+    "series_index": 10,
+    "specs": {
+        "color": "Metalflake Velocity Blue",
+        "tampo": "Detailed headlights and taillights, white stripes with red highlights, Motul, Bilstein, Ford logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Dark chrome",
+        "wheel_type": {
+            "0": "Gray L4"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): T16, T18, T19, T20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/FordMaverickPickup.jpg/revision/latest?cb=20240606130816"
+    }
+}

@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): M30",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/9/96/HW_Black_Pink_SRT.jpg/revision/latest?cb=20211218042336"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/HW_Black_Pink_SRT.jpg/revision/latest?cb=20211218042336"
+    }
 }

@@ -1,0 +1,30 @@
+{
+    "release_id": "18775-good-humor-truck-1998",
+    "toy_number": "18775",
+    "casting_id": "good-humor-truck",
+    "year": 1998,
+    "series_id": "tropicool",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Green, Yellow, Red  & Black tampos, White HW logo, \"RASTA\", \"FRUITS AND VEGGIES\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Light Green",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "Green",
+            "2": "Yellow",
+            "3": "Red  & Black tampos",
+            "4": "Black HW logo",
+            "5": "\"RASTA\"",
+            "6": "\"FRUITS AND VEGGIES\""
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/GoodHumorTruck_Rasta3.jpg/revision/latest?cb=20230102152132"
+    }
+}

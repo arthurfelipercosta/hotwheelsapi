@@ -1,0 +1,15 @@
+{
+    "series_id": "hot-wheels-garage-ford",
+    "year": 2011,
+    "name": "Hot Wheels Garage: Ford",
+    "total_releases": 6,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2011/t8276-65-mercury-comet-cyclone.json",
+        "data/releases/2011/t8288-67-ford-mustang-coupe.json",
+        "data/releases/2011/t8302-67-ford-mustang-coupe.json",
+        "data/releases/2011/t8303-67-shelby-gt500.json",
+        "data/releases/2011/t8319-65-mercury-comet-cyclone.json",
+        "data/releases/2011/v5257-67-shelby-gt500.json"
+    ]
+}

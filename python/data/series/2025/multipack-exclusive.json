@@ -1,0 +1,21 @@
+{
+    "series_id": "multipack-exclusive",
+    "year": 2025,
+    "name": "Multipack Exclusive",
+    "total_releases": 12,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2025/h7045-1985-honda-cr-x.json",
+        "data/releases/2025/x6999-20-toyota-gr-supra.json",
+        "data/releases/2025/x6999-2019-audi-r8-spyder.json",
+        "data/releases/2025/x6999-2019-audi-r8-spyder.json",
+        "data/releases/2025/x6999-90-acura-nsx.json",
+        "data/releases/2025/x6999-bone-shaker.json",
+        "data/releases/2025/x6999-corvette-stingray.json",
+        "data/releases/2025/x6999-pass-n-gasser.json",
+        "data/releases/2025/x6999-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2025/x6999-porsche-911-gt2.json",
+        "data/releases/2025/x6999-subaru-impreza.json",
+        "data/releases/2025/x6999-subaru-impreza.json"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "casting_id": "aston-martin-db4gt-high-speed-edition",
+    "name": "Aston Martin DB4GT High-Speed Edition",
+    "description": {
+        "en-us": "Aston Martin DB4GT High-Speed Edition Debut series Muscle Mania Produced 2024 – Present Designer Miles Nurnberger , Thomas Gilbert and Craig Callum Number HRY86",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry86-aston-martin-db4gt-high-speed-edition.json",
+        "data/releases/2025/hyy52-aston-martin-db4gt-high-speed-edition.json",
+        "data/releases/2025/jbc39-aston-martin-db4gt-high-speed-edition.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

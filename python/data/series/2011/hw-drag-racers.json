@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-drag-racers",
+    "year": 2011,
+    "name": "HW Drag Racers",
+    "total_releases": 2,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2011/t9833-madfast.json",
+        "data/releases/2011/v0040-madfast.json"
+    ]
+}

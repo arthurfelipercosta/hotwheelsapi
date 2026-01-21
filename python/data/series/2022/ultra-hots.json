@@ -1,0 +1,13 @@
+{
+    "series_id": "ultra-hots",
+    "year": 2022,
+    "name": "Ultra Hots",
+    "total_releases": 4,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2022/hdg62-69-mercury-cyclone.json",
+        "data/releases/2022/hdg64-80-el-camino.json",
+        "data/releases/2022/hdg66-70-chevy-camaro-rs.json",
+        "data/releases/2022/hdg67-87-buick-regal-gnx.json"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "casting_id": "quick-chat",
+    "name": "Quick Chat",
+    "description": {
+        "en-us": "Quick Chat Debut series Experimotors Produced 2025 – Present Designer Bryan Zhao Number HYW45",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw45-quick-chat.json",
+        "data/releases/2025/jbc13-quick-chat.json",
+        "data/releases/2026/jjj18-quick-chat.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

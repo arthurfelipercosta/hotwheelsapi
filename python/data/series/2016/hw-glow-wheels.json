@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-glow-wheels",
+    "year": 2016,
+    "name": "HW Glow Wheels",
+    "total_releases": 6,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2016/dhn97-voltage-spike.json",
+        "data/releases/2016/dhp76-wattzup.json",
+        "data/releases/2016/dhp77-arrow-dynamic.json",
+        "data/releases/2016/dhw67-voltage-spike.json",
+        "data/releases/2016/dhw68-wattzup.json",
+        "data/releases/2016/dhw69-arrow-dynamic.json"
+    ]
+}

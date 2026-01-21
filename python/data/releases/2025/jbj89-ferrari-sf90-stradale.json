@@ -18,5 +18,7 @@
     },
     "country": "Indonesia",
     "notes": "Base code(s): U19I, U20I, U24I, U25I",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/FioranoSF90.jpg/revision/latest?cb=20251026230611"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/FioranoSF90.jpg/revision/latest?cb=20251026230611"
+    }
 }

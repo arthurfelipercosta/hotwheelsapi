@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "New in Mainline Base code(s): F11, F13, F14, F15",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Custom_%2712_Ford_Mustang-2013_230.jpg/revision/latest?cb=20130601123203"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Custom_%2712_Ford_Mustang-2013_230.jpg/revision/latest?cb=20130601123203"
+    }
 }

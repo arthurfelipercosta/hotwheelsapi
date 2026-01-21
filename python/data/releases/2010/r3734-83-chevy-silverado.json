@@ -1,0 +1,24 @@
+{
+    "release_id": "r3734-83-chevy-silverado-2010",
+    "toy_number": "R3734",
+    "casting_id": "83-chevy-silverado",
+    "year": 2010,
+    "series_id": "slick-rides",
+    "series_index": 8,
+    "specs": {
+        "color": "Flat Black & Red",
+        "tampo": "White, Black & Red \"Edelbrock\" deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "RRMAG"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): B42, B41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/2010_Slick_Rides.jpg/revision/latest?cb=20250223071142"
+    }
+}

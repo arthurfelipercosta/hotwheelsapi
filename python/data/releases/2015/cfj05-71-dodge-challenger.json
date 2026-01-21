@@ -1,0 +1,24 @@
+{
+    "release_id": "cfj05-71-dodge-challenger-2015",
+    "toy_number": "CFJ05",
+    "casting_id": "71-dodge-challenger",
+    "year": 2015,
+    "series_id": "hw-workshop-muscle-mania",
+    "series_index": null,
+    "specs": {
+        "color": "Dark Red",
+        "tampo": "Black front quarter panel with White stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Gold MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H04, H05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/DSC_5567.jpg/revision/latest?cb=20170730202932"
+    }
+}

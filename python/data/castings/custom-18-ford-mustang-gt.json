@@ -1,0 +1,31 @@
+{
+    "casting_id": "custom-18-ford-mustang-gt",
+    "name": "Custom '18 Ford Mustang GT",
+    "description": {
+        "en-us": "Custom '18 Ford Mustang GT Debut series Muscle Mania Produced 2019 - Present Designer Ryu Asada Number FYB67",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb67-custom-18-ford-mustang-gt.json",
+        "data/releases/2019/fyf87-custom-18-ford-mustang-gt.json",
+        "data/releases/2020/gml07-custom-18-ford-mustang-gt.json",
+        "data/releases/2020/ghc59-custom-18-ford-mustang-gt.json",
+        "data/releases/2020/ghg66-custom-18-ford-mustang-gt.json",
+        "data/releases/2021/gtb25-custom-18-ford-mustang-gt.json",
+        "data/releases/2021/gtc45-custom-18-ford-mustang-gt.json",
+        "data/releases/2021/gtd46-custom-18-ford-mustang-gt.json",
+        "data/releases/2022/hcv87-custom-18-ford-mustang-gt.json",
+        "data/releases/2022/hcy18-custom-18-ford-mustang-gt.json",
+        "data/releases/2023/x6999-custom-18-ford-mustang-gt.json",
+        "data/releases/2023/x6999-custom-18-ford-mustang-gt-v2.json",
+        "data/releases/2023/hly78-custom-18-ford-mustang-gt.json",
+        "data/releases/2024/x6999-custom-18-ford-mustang-gt.json",
+        "data/releases/2024/htv51-custom-18-ford-mustang-gt.json",
+        "data/releases/2024/x6999-custom-18-ford-mustang-gt-v2.json",
+        "data/releases/2025/hyy94-custom-18-ford-mustang-gt.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Ford"
+}

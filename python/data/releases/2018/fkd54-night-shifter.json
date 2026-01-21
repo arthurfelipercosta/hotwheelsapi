@@ -18,5 +18,7 @@
     },
     "country": "Thailand",
     "notes": "Walmart Exclusive Base code(s):",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/01/AvengersSeriesIron.jpg/revision/latest?cb=20180611003145"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/AvengersSeriesIron.jpg/revision/latest?cb=20180611003145"
+    }
 }

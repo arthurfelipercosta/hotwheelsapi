@@ -1,0 +1,20 @@
+{
+    "casting_id": "coupe-clip",
+    "name": "Coupe Clip",
+    "description": {
+        "en-us": "Coupe Clip Debut series Experimotors Produced 2022 – Present Designer Sonny Fisher Number HCT38",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct38-coupe-clip.json",
+        "data/releases/2022/hcx09-coupe-clip.json",
+        "data/releases/2023/hkj26-coupe-clip.json",
+        "data/releases/2023/hkk72-coupe-clip.json",
+        "data/releases/2023/hxt40-coupe-clip.json",
+        "data/releases/2026/jjj55-coupe-clip.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

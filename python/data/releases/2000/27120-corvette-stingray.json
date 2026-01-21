@@ -1,0 +1,25 @@
+{
+    "release_id": "27120-corvette-stingray-2000",
+    "toy_number": "27120",
+    "casting_id": "corvette-stingray",
+    "year": 2000,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Orange, yellow, White & Red graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black opaque",
+        "interior_color": "none",
+        "wheel_type": {
+            "0": "5DOT",
+            "1": "3SP"
+        }
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/82_Corvette_Stingray_Blu.JPG/revision/latest?cb=20090215220030"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "fyc15-custom-53-cadillac-2019",
+    "toy_number": "FYC15",
+    "casting_id": "custom-53-cadillac",
+    "year": 2019,
+    "series_id": "rod-squad",
+    "series_index": 6,
+    "specs": {
+        "color": "Candy Dark Blue",
+        "tampo": "Blue and Cyan Stripes on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L39, L44, L45, L46, L50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Custom%2753Cadillac2019.jpg/revision/latest?cb=20190207070919"
+    }
+}

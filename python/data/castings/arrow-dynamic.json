@@ -1,0 +1,25 @@
+{
+    "casting_id": "arrow-dynamic",
+    "name": "Arrow Dynamic",
+    "description": {
+        "en-us": "Arrow Dynamic Debut series HW Racing: HW Race Team Produced 2013 – Present Designer Kevin Cao Number X1660",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1660-arrow-dynamic.json",
+        "data/releases/2013/x1933-arrow-dynamic.json",
+        "data/releases/2014/bfd34-arrow-dynamic.json",
+        "data/releases/2014/bfg59-arrow-dynamic.json",
+        "data/releases/2016/dhp77-arrow-dynamic.json",
+        "data/releases/2016/dhw69-arrow-dynamic.json",
+        "data/releases/2017/dvd05-arrow-dynamic.json",
+        "data/releases/2017/dvc09-arrow-dynamic.json",
+        "data/releases/2023/hlr50-arrow-dynamic.json",
+        "data/releases/2025/hyx10-arrow-dynamic.json",
+        "data/releases/2025/hyx98-arrow-dynamic.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

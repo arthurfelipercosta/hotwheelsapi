@@ -1,0 +1,16 @@
+{
+    "series_id": "multipack-exclusive",
+    "year": 2015,
+    "name": "Multipack Exclusive",
+    "total_releases": 7,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/x6999-2013-srt-viper.json",
+        "data/releases/2015/x6999-69-mercury-cyclone.json",
+        "data/releases/2015/x6999-73-pontiac-firebird.json",
+        "data/releases/2015/x6999-corvette-grand-sport.json",
+        "data/releases/2015/x6999-corvette-stingray.json",
+        "data/releases/2015/x6999-corvette-stingray.json",
+        "data/releases/2015/x6999-fish-d-chip-d.json"
+    ]
+}

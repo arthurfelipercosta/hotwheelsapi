@@ -1,0 +1,19 @@
+{
+    "casting_id": "batman-robin-batmobile",
+    "name": "Batman & Robin Batmobile",
+    "description": {
+        "en-us": "Batman & Robin Batmobile Debut series Batman Produced 2024 – Present Designer Fraser Campbell Number HRY54",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry54-batman-robin-batmobile.json",
+        "data/releases/2024/htd51-batman-robin-batmobile.json",
+        "data/releases/2024/jbg93-batman-robin-batmobile.json",
+        "data/releases/2025/hyw60-batman-robin-batmobile.json",
+        "data/releases/2025/hyx61-batman-robin-batmobile.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

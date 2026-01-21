@@ -1,0 +1,24 @@
+{
+    "release_id": "x1796-59-chevy-bel-air-2013",
+    "toy_number": "X1796",
+    "casting_id": "59-chevy-bel-air",
+    "year": 2013,
+    "series_id": "hw-showroom-heat-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "White & Green flames & stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E50, E52, F01, F02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/%2759_Chevy_Impala-2013_220.jpg/revision/latest?cb=20130216214639"
+    }
+}

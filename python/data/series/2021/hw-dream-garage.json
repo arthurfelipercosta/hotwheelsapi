@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-dream-garage",
+    "year": 2021,
+    "name": "HW Dream Garage",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2021/gry11-96-porsche-carrera.json",
+        "data/releases/2021/gtb93-96-porsche-carrera.json",
+        "data/releases/2021/gtc97-deora-ii.json"
+    ]
+}

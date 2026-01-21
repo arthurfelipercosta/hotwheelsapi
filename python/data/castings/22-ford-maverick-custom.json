@@ -1,0 +1,16 @@
+{
+    "casting_id": "22-ford-maverick-custom",
+    "name": "'22 Ford Maverick Custom",
+    "description": {
+        "en-us": "'22 Ford Maverick Custom Debut series HW Hot Trucks Produced 2024 – Present Designer Fraser Campbell Number HRY78",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry78-22-ford-maverick-custom.json",
+        "data/releases/2025/hyx00-22-ford-maverick-custom.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Ford"
+}

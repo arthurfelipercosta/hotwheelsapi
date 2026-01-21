@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-art-cars",
+    "year": 2021,
+    "name": "HW Art Cars",
+    "total_releases": 5,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2021/gry33-80-el-camino.json",
+        "data/releases/2021/gry35-la-troca.json",
+        "data/releases/2021/gtb96-80-el-camino.json",
+        "data/releases/2021/gtb97-la-troca.json",
+        "data/releases/2021/gtd27-80-el-camino.json"
+    ]
+}

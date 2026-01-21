@@ -1,0 +1,24 @@
+{
+    "release_id": "bdw55-track-ripper-2025",
+    "toy_number": "BDW55",
+    "casting_id": "track-ripper",
+    "year": 2025,
+    "series_id": "super-rigs",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Red & white stripes on sides & top, white Hot Wheels logo on front & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Chrome Orange rim PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Similar to FJV42 Base code(s): U32A, U34A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/TrackRipperBlue.JPG/revision/latest?cb=20180916025506"
+    }
+}

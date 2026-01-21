@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-drift",
+    "year": 2022,
+    "name": "HW Drift",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2022/hct20-volvo-240-drift-wagon.json"
+    ]
+}

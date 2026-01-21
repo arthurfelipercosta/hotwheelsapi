@@ -1,0 +1,27 @@
+{
+    "release_id": "grx25-94-bugatti-eb110-ss-2021",
+    "toy_number": "GRX25",
+    "casting_id": "94-bugatti-eb110-ss",
+    "year": 2021,
+    "series_id": "hw-exotics",
+    "series_index": 6,
+    "specs": {
+        "color": "French Racing Blue",
+        "tampo": "Bugatti badge on front, detailed taillights, \"EB 110 SS\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP",
+            "1": "Y5",
+            "2": "Malaysia",
+            "3": "Rare variation New Model Base code(s):"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): P18, P20, P21, P29, P34, P36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/BugattiEB110.jpg/revision/latest?cb=20210925093221"
+    }
+}

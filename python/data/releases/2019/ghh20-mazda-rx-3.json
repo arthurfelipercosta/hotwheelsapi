@@ -1,0 +1,24 @@
+{
+    "release_id": "ghh20-mazda-rx-3-2019",
+    "toy_number": "GHH20",
+    "casting_id": "mazda-rx-3",
+    "year": 2019,
+    "series_id": "fast-furious-fast-rewind",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "Licensed graphics from The Fast and the Furious (2001)",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "CBRR8SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M32, M37, M38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Fast-Rewind-RX3-Loose.jpg/revision/latest?cb=20191023142523"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-racing",
+    "year": 2011,
+    "name": "HW Racing",
+    "total_releases": 4,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2011/t9863-83-chevy-silverado.json",
+        "data/releases/2011/t9866-92-ford-mustang.json",
+        "data/releases/2011/v0041-92-ford-mustang.json",
+        "data/releases/2011/v0060-83-chevy-silverado.json"
+    ]
+}

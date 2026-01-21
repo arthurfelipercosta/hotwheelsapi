@@ -1,0 +1,14 @@
+{
+    "series_id": "experimotors",
+    "year": 2017,
+    "name": "Experimotors",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2017/dtx09-el-viento.json",
+        "data/releases/2017/dtx18-gotta-go.json",
+        "data/releases/2017/dtx40-crate-racer.json",
+        "data/releases/2017/dvb27-el-viento.json",
+        "data/releases/2017/dvb31-crate-racer.json"
+    ]
+}

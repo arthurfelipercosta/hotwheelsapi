@@ -1,0 +1,25 @@
+{
+    "release_id": "dtx65-15-mazda-mx-5-miata-2017",
+    "toy_number": "DTX65",
+    "casting_id": "15-mazda-mx-5-miata",
+    "year": 2017,
+    "series_id": "hw-speed-graphics",
+    "series_index": 9,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripes & 'VOLK Racing Wheel' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray PR5",
+            "1": "Gray 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J42, J43, J45, J47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/%2715_Mazda_MX-5_Miata-2017_080.jpg/revision/latest?cb=20161231141127"
+    }
+}

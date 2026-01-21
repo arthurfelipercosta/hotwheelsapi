@@ -1,0 +1,24 @@
+{
+    "release_id": "23540-67-mustang-1999",
+    "toy_number": "23540",
+    "casting_id": "67-mustang",
+    "year": 1999,
+    "series_id": "lexmark-promotional",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "2 gradient racing stripe, \"Lexmark\" on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "GoodYear RR"
+        }
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/67mustang.jpg/revision/latest?cb=20090628154454"
+    }
+}

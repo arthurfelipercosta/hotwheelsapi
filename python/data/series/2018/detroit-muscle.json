@@ -1,0 +1,10 @@
+{
+    "series_id": "detroit-muscle",
+    "year": 2018,
+    "name": "Detroit Muscle",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2018/fyy13-70-dodge-hemi-challenger.json"
+    ]
+}

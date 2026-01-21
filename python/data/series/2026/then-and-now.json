@@ -1,0 +1,14 @@
+{
+    "series_id": "then-and-now",
+    "year": 2026,
+    "name": "Then and Now",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2026/jjh39-austin-mini-cooper-s.json",
+        "data/releases/2026/jjj38-datsun-240z.json",
+        "data/releases/2026/jjj58-corvette-grand-sport.json",
+        "data/releases/2026/jjj59-96-porsche-carrera.json",
+        "data/releases/2026/jjj79-2023-nissan-z.json"
+    ]
+}

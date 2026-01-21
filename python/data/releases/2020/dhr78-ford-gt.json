@@ -1,0 +1,24 @@
+{
+    "release_id": "dhr78-ford-gt-2020",
+    "toy_number": "DHR78",
+    "casting_id": "ford-gt",
+    "year": 2020,
+    "series_id": "mystery-models-series-1",
+    "series_index": 3,
+    "specs": {
+        "color": "Silver",
+        "tampo": "White and Red stripe on hood with #3. GT and #3 on door",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Red Lip PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M41, M45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/IMG_0055.jpg/revision/latest?cb=20200306021715"
+    }
+}

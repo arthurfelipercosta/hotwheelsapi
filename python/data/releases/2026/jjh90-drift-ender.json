@@ -1,0 +1,24 @@
+{
+    "release_id": "jjh90-drift-ender-2026",
+    "toy_number": "JJH90",
+    "casting_id": "drift-ender",
+    "year": 2026,
+    "series_id": "truckin-along",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "Yellow accents, goldenrod diagonals, \"DRIFT PURSUIT\", \"45\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Gray AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U33N, U39N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/DriftDefender.jpg/revision/latest?cb=20251015121900"
+    }
+}

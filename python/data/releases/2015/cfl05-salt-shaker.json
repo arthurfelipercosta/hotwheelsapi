@@ -1,0 +1,25 @@
+{
+    "release_id": "cfl05-salt-shaker-2015",
+    "toy_number": "CFL05",
+    "casting_id": "salt-shaker",
+    "year": 2015,
+    "series_id": "hw-race-super-chromes",
+    "series_index": null,
+    "specs": {
+        "color": "",
+        "tampo": "White \"05\" on the side, Black Flames, \"Hot Wheels\" logo, small \"STOP\" tampo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black SK5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): G34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/2015SuperChromesSaltShaker.jpg/revision/latest?cb=20200422184503"
+    }
+}

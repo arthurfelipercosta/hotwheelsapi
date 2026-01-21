@@ -1,0 +1,24 @@
+{
+    "release_id": "hyx54-nissan-skyline-2000gt-r-lbwk-2025",
+    "toy_number": "HYX54",
+    "casting_id": "nissan-skyline-2000gt-r-lbwk",
+    "year": 2025,
+    "series_id": "hw-j-imports",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake blue",
+        "tampo": "Hot Wheels Logo, \"Liberty Walk\", and gold & white stripes on sides, detailed headlights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Copper MicroFC3"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T50N, U02N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/%27ToonedLBWKKenmeri.jpg/revision/latest?cb=20250120090120"
+    }
+}

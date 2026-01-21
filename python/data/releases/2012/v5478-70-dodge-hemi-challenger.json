@@ -1,0 +1,24 @@
+{
+    "release_id": "v5478-70-dodge-hemi-challenger-2012",
+    "toy_number": "V5478",
+    "casting_id": "70-dodge-hemi-challenger",
+    "year": 2012,
+    "series_id": "hw-racing",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Red, Yellow and White Hot Wheels Race Team deco, \"1\", \"6.4 HEMI\", white hood scoop",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Red rim Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D31, D40, D41, D50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/70_Dodge_Challenger_-_12_HW_Racing.JPG/revision/latest?cb=20120104050034"
+    }
+}

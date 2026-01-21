@@ -1,0 +1,24 @@
+{
+    "release_id": "cfn85-blazer-4-4-2015",
+    "toy_number": "CFN85",
+    "casting_id": "blazer-4-4",
+    "year": 2015,
+    "series_id": "hot-wheels-heritage-redline",
+    "series_index": 14,
+    "specs": {
+        "color": "White",
+        "tampo": "Police tampos on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Red Line CT"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Chevy Blazer 4x4 Base code(s): H49, H50, J04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/ChevyBlazerCFN85.jpg/revision/latest?cb=20161007231727"
+    }
+}

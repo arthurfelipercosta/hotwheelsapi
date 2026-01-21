@@ -19,5 +19,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): R50, S13",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/09/HWWinter2023EVO.jpg/revision/latest?cb=20231130063037"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/HWWinter2023EVO.jpg/revision/latest?cb=20231130063037"
+    }
 }

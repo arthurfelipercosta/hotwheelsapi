@@ -1,0 +1,13 @@
+{
+    "series_id": "batman",
+    "year": 2019,
+    "name": "Batman",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2019/fyb90-tv-series-batmobile.json",
+        "data/releases/2019/fyb91-the-dark-knight-batmobile.json",
+        "data/releases/2019/fyf61-tv-series-batmobile.json",
+        "data/releases/2019/fyf62-the-dark-knight-batmobile.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "j3393-humvee-2006",
+    "toy_number": "J3393",
+    "casting_id": "humvee",
+    "year": 2006,
+    "series_id": "chrome-burnerz",
+    "series_index": 2,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "No tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red Tint",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ORSB"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/HW_Humvee_Chrome_Only.jpg/revision/latest?cb=20100728162146"
+    }
+}

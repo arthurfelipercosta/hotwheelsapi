@@ -1,0 +1,16 @@
+{
+    "casting_id": "bmw-635-csi",
+    "name": "BMW 635 CSi",
+    "description": {
+        "en-us": "BMW 635 CSi Debut series Wild Widebody Produced 2025 – Present Designer Bryan Zhao Number HYW38",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw38-bmw-635-csi.json",
+        "data/releases/2025/jbb84-bmw-635-csi.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

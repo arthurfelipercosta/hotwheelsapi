@@ -18,5 +18,7 @@
     },
     "country": "Indonesia",
     "notes": "Base code(s): U07I, U10I, U15I, U16I",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/JCB02.jpg/revision/latest?cb=20250615102838"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/JCB02.jpg/revision/latest?cb=20250615102838"
+    }
 }

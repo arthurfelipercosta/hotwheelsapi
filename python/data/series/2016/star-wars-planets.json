@@ -1,0 +1,10 @@
+{
+    "series_id": "star-wars-planets",
+    "year": 2016,
+    "name": "Star Wars : Planets",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2016/djl09-the-vanster.json"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "casting_id": "kei-swap",
+    "name": "Kei Swap",
+    "description": {
+        "en-us": "Kei Swap Debut series HW Art Cars Produced 2025 – Present Designer Matt Gabe Number HYW14",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw14-kei-swap.json",
+        "data/releases/2025/hyx95-kei-swap.json",
+        "data/releases/2026/jjj65-kei-swap.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

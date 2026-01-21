@@ -1,0 +1,17 @@
+{
+    "series_id": "mario-kart",
+    "year": 2019,
+    "name": "Mario Kart",
+    "total_releases": 8,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2019/gbg26-standard-kart.json",
+        "data/releases/2019/gbg28-standard-kart.json",
+        "data/releases/2019/gbg32-standard-kart.json",
+        "data/releases/2019/gbg33-standard-kart.json",
+        "data/releases/2019/gbg35-standard-kart.json",
+        "data/releases/2019/gjh55-standard-kart.json",
+        "data/releases/2019/glp37-standard-kart.json",
+        "data/releases/2019/glp38-standard-kart.json"
+    ]
+}

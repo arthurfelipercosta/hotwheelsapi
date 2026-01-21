@@ -1,0 +1,15 @@
+{
+    "series_id": "cool-classics",
+    "year": 2014,
+    "name": "Cool Classics",
+    "total_releases": 6,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2014/bdr27-purple-passion.json",
+        "data/releases/2014/bdr32-1985-honda-cr-x.json",
+        "data/releases/2014/bdr35-47-chevy-fleetline.json",
+        "data/releases/2014/bdr45-ford-gt.json",
+        "data/releases/2014/bdr47-datsun-240z.json",
+        "data/releases/2014/bdr49-76-chevy-chevette.json"
+    ]
+}

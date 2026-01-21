@@ -1,0 +1,28 @@
+{
+    "casting_id": "94-audi-avant-rs2",
+    "name": "'94 Audi Avant RS2",
+    "description": {
+        "en-us": "'94 Audi Avant RS2 Debut series Factory Fresh Produced 2021 – Present Designer Ryu Asada Number GRX27",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx27-94-audi-avant-rs2.json",
+        "data/releases/2021/gtb75-94-audi-avant-rs2.json",
+        "data/releases/2022/hct69-94-audi-avant-rs2.json",
+        "data/releases/2022/hcy22-94-audi-avant-rs2.json",
+        "data/releases/2023/hkc32-94-audi-avant-rs2.json",
+        "data/releases/2024/hry19-94-audi-avant-rs2.json",
+        "data/releases/2024/htc54-94-audi-avant-rs2.json",
+        "data/releases/2024/htf52-94-audi-avant-rs2.json",
+        "data/releases/2024/htf52-94-audi-avant-rs2-v2.json",
+        "data/releases/2024/htd49-94-audi-avant-rs2.json",
+        "data/releases/2025/hyw82-94-audi-avant-rs2.json",
+        "data/releases/2025/hyx60-94-audi-avant-rs2.json",
+        "data/releases/2025/jgl67-94-audi-avant-rs2.json",
+        "data/releases/2025/jgy29-94-audi-avant-rs2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,19 @@
+{
+    "casting_id": "limited-grip",
+    "name": "Limited Grip",
+    "description": {
+        "en-us": "Limited Grip Debut series HW Hot Trucks Produced 2023 – Present Designer Brendon Vetuskey Number HKG56",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg56-limited-grip.json",
+        "data/releases/2023/hkk60-limited-grip.json",
+        "data/releases/2024/htc62-limited-grip.json",
+        "data/releases/2024/htd50-limited-grip.json",
+        "data/releases/2025/jbb44-limited-grip.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

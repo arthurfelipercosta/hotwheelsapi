@@ -1,0 +1,24 @@
+{
+    "release_id": "b2273-8-crate-2003",
+    "toy_number": "B2273",
+    "casting_id": "8-crate",
+    "year": 2003,
+    "series_id": "100-preferred-ford",
+    "series_index": 2,
+    "specs": {
+        "color": "Teal & White",
+        "tampo": "Light Blue pinstripping on hood & trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "RR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Custom 50's Ford Wagon",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/8_Crate_AGENTAIR_1.jpg/revision/latest?cb=20081027045552"
+    }
+}

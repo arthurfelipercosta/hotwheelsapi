@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-racing-track-aces",
+    "year": 2013,
+    "name": "HW Racing: Track Aces",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1755-chevroletor.json",
+        "data/releases/2013/x1938-chevroletor.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "bff11-69-dodge-charger-daytona-2014",
+    "toy_number": "BFF11",
+    "casting_id": "69-dodge-charger-daytona",
+    "year": 2014,
+    "series_id": "hw-workshop-muscle-mania",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "White stripes on sides & top, 'Dodge' & 'Daytona' logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F29, F31, F33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Hot_Wheels_2013_69_Dodge_Charger_Daytona_MC5.jpg/revision/latest?cb=20131101110649"
+    }
+}

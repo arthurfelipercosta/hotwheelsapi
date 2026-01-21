@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd03-nissan-skyline-gt-r-bnr32-2020",
+    "toy_number": "GHD03",
+    "casting_id": "nissan-skyline-gt-r-bnr32",
+    "year": 2020,
+    "series_id": "hw-turbo",
+    "series_index": 5,
+    "specs": {
+        "color": "Gunmetal Grey",
+        "tampo": "'Skyline' on doors, 'JNC' between doors & rear wheels, detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M30, M31, M32, M33, M35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/2020-BNR32.JPG/revision/latest?cb=20191013045917"
+    }
+}

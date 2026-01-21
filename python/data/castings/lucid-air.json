@@ -1,0 +1,19 @@
+{
+    "casting_id": "lucid-air",
+    "name": "Lucid Air",
+    "description": {
+        "en-us": "Lucid Air Debut series HW Green Speed Produced 2022 – Present Designer Lindsey Lee Number HCT24",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct24-lucid-air.json",
+        "data/releases/2022/hcx40-lucid-air.json",
+        "data/releases/2023/hkj29-lucid-air.json",
+        "data/releases/2023/hkk76-lucid-air.json",
+        "data/releases/2026/jjj28-lucid-air.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

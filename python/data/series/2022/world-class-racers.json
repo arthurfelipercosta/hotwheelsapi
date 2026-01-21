@@ -1,0 +1,11 @@
+{
+    "series_id": "world-class-racers",
+    "year": 2022,
+    "name": "World Class Racers",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2022/hdh25-ford-gt.json",
+        "data/releases/2022/hdh26-2019-audi-r8-spyder.json"
+    ]
+}

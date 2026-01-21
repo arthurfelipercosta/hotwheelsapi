@@ -1,0 +1,11 @@
+{
+    "series_id": "happy-halloween",
+    "year": 2016,
+    "name": "Happy Halloween!",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2016/djm39-bone-shaker.json",
+        "data/releases/2016/djm41-deora-ii.json"
+    ]
+}

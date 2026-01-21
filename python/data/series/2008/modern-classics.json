@@ -1,0 +1,16 @@
+{
+    "series_id": "modern-classics",
+    "year": 2008,
+    "name": "Modern Classics",
+    "total_releases": 7,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2008/m0427-datsun-240z.json",
+        "data/releases/2008/m0512-92-ford-mustang.json",
+        "data/releases/2008/m0512-92-ford-mustang.json",
+        "data/releases/2008/m0514-83-chevy-silverado.json",
+        "data/releases/2008/m0514-83-chevy-silverado.json",
+        "data/releases/2008/m0517-80-el-camino.json",
+        "data/releases/2008/mo427-datsun-240z.json"
+    ]
+}

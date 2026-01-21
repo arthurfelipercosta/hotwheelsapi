@@ -1,0 +1,24 @@
+{
+    "release_id": "jbb68-67-austin-mini-van-2025",
+    "toy_number": "JBB68",
+    "casting_id": "67-austin-mini-van",
+    "year": 2025,
+    "series_id": "hw-art-cars",
+    "series_index": 10,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "Union Jack flag theme on sides, roof and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "White AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U22N, U23N, U27N, U28N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/1967AustinVan.jpg/revision/latest?cb=20250715130251"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-hot-trucks",
+    "year": 2016,
+    "name": "HW Hot Trucks",
+    "total_releases": 7,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2016/dhp17-custom-72-chevy-luv.json",
+        "data/releases/2016/dhp19-17-ford-f-150-raptor.json",
+        "data/releases/2016/dhr49-67-chevy-c10.json",
+        "data/releases/2016/dhx45-67-chevy-c10.json",
+        "data/releases/2016/dhx47-custom-72-chevy-luv.json",
+        "data/releases/2016/dhx48-17-ford-f-150-raptor.json",
+        "data/releases/2016/dhx92-67-chevy-c10.json"
+    ]
+}

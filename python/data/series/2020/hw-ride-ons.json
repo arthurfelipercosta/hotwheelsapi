@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-ride-ons",
+    "year": 2020,
+    "name": "HW Ride-Ons",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2020/ghb76-pixel-shaker.json",
+        "data/releases/2020/ghf10-pixel-shaker.json"
+    ]
+}

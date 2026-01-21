@@ -1,0 +1,24 @@
+{
+    "release_id": "hnt06-69-dodge-charger-daytona-2023",
+    "toy_number": "HNT06",
+    "casting_id": "69-dodge-charger-daytona",
+    "year": 2023,
+    "series_id": "fast-furious-series-2",
+    "series_index": 6,
+    "specs": {
+        "color": "Metalflake Dark red",
+        "tampo": "Detailed headlights, taillights, sidemarkers, side exhaust.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S14, S20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/%2769_Dodge_Charger_Daytona.jpg/revision/latest?cb=20230901191019"
+    }
+}

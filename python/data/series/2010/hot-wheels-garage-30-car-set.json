@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-garage-30-car-set",
+    "year": 2010,
+    "name": "Hot Wheels Garage 30-Car Set",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2010/r1788-70-chevelle-ss-wagon.json",
+        "data/releases/2010/r1788-8-crate.json",
+        "data/releases/2010/r1788-fish-d-chip-d.json",
+        "data/releases/2010/r3774-bone-shaker.json"
+    ]
+}

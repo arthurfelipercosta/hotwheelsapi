@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-exotics",
+    "year": 2018,
+    "name": "HW Exotics",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2018/fjx98-17-pagani-huayra-roadster.json",
+        "data/releases/2018/fjy24-17-pagani-huayra-roadster.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "gtd59-2020-koenigsegg-jesko-2021",
+    "toy_number": "GTD59",
+    "casting_id": "2020-koenigsegg-jesko",
+    "year": 2021,
+    "series_id": "red-edition",
+    "series_index": 11,
+    "specs": {
+        "color": "Chilli Red",
+        "tampo": "Gray stripes on roof and on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/RedEdJesko.jpg/revision/latest?cb=20211209102557"
+    }
+}

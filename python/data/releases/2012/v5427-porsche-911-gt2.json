@@ -1,0 +1,24 @@
+{
+    "release_id": "v5427-porsche-911-gt2-2012",
+    "toy_number": "V5427",
+    "casting_id": "porsche-911-gt2",
+    "year": 2012,
+    "series_id": "hw-all-stars",
+    "series_index": 4,
+    "specs": {
+        "color": "Metallic Blue",
+        "tampo": "Porsche badge, tail lights, GT2 on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Black spoiler Base code(s): E07, E13, E14, E16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/2012-HWAS124-Porsche911GT2-Blue.jpg/revision/latest?cb=20120705190739"
+    }
+}

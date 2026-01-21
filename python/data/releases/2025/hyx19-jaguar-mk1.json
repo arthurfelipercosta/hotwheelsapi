@@ -1,0 +1,24 @@
+{
+    "release_id": "hyx19-jaguar-mk1-2025",
+    "toy_number": "HYX19",
+    "casting_id": "jaguar-mk1",
+    "year": 2025,
+    "series_id": "hw-race-day",
+    "series_index": 2,
+    "specs": {
+        "color": "Maroon",
+        "tampo": "Detailed headlights & grille, \"GET 1\" front license plate, white roundels on doors, Goodyear and Hot Wheels logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey rim DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: T41, T42, T45, T46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/RacingJaguar.jpg/revision/latest?cb=20250124121540"
+    }
+}

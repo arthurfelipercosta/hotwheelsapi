@@ -1,0 +1,17 @@
+{
+    "casting_id": "sushi-tuner",
+    "name": "Sushi Tuner",
+    "description": {
+        "en-us": "Sushi Tuner Debut series Fast Foodie Produced 2024 – Present Designer Alton Takeyasu Number HRY88",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry88-sushi-tuner.json",
+        "data/releases/2025/hyy51-sushi-tuner.json",
+        "data/releases/2025/jbc01-sushi-tuner.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

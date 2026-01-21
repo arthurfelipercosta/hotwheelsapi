@@ -1,0 +1,24 @@
+{
+    "release_id": "w3792-83-chevy-silverado-2012",
+    "toy_number": "W3792",
+    "casting_id": "83-chevy-silverado",
+    "year": 2012,
+    "series_id": "the-hot-ones",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Red, Orange & Yellow deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "HO"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): E04, E05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/2012_The_Hot_Ones.jpg/revision/latest?cb=20250223050604"
+    }
+}

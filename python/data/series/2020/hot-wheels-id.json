@@ -1,0 +1,10 @@
+{
+    "series_id": "hot-wheels-id",
+    "year": 2020,
+    "name": "Hot Wheels id",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2020/gjp06-bone-shaker.json"
+    ]
+}

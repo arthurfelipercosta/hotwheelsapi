@@ -1,0 +1,11 @@
+{
+    "series_id": "taxi-rods",
+    "year": 2007,
+    "name": "Taxi Rods",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2007/k7567-55-chevy.json",
+        "data/releases/2007/k7569-64-impala.json"
+    ]
+}

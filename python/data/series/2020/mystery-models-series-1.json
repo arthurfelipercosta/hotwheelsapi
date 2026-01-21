@@ -2,9 +2,13 @@
     "series_id": "mystery-models-series-1",
     "year": 2020,
     "name": "Mystery Models (Series 1)",
-    "total_releases": 1,
-    "max_index": 12,
+    "total_releases": 5,
+    "max_index": 10,
     "releases": [
-        "data/releases/2020/gjl83-futurismo.json"
+        "data/releases/2020/dhr78-ford-gt.json",
+        "data/releases/2020/gjl81-monteracer.json",
+        "data/releases/2020/gjl83-futurismo.json",
+        "data/releases/2020/gjl86-track-ripper.json",
+        "data/releases/2020/gjl91-71-mustang-funny-car.json"
     ]
 }

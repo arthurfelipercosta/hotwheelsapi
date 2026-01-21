@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-hot-rods",
+    "year": 2010,
+    "name": "HW Hot Rods",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2010/r7568-bone-shaker.json",
+        "data/releases/2010/r7568-bone-shaker.json",
+        "data/releases/2010/r7568-bone-shaker.json"
+    ]
+}

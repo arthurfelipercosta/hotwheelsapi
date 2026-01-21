@@ -2,9 +2,13 @@
     "series_id": "hw-race-day",
     "year": 2019,
     "name": "HW Race Day",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 10,
     "releases": [
-        "data/releases/2019/fyd26-srt-viper-gts-r.json"
+        "data/releases/2019/fyc46-69-corvette-racer.json",
+        "data/releases/2019/fyd20-16-cadillac-ats-v-r.json",
+        "data/releases/2019/fyd26-srt-viper-gts-r.json",
+        "data/releases/2019/fyg15-69-corvette-racer.json",
+        "data/releases/2019/fyg59-16-cadillac-ats-v-r.json"
     ]
 }

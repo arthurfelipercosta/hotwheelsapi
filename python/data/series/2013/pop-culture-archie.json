@@ -1,0 +1,11 @@
+{
+    "series_id": "pop-culture-archie",
+    "year": 2013,
+    "name": "Pop Culture: Archie",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x8334-good-humor-truck.json",
+        "data/releases/2013/x8364-la-troca.json"
+    ]
+}

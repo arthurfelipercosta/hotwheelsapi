@@ -1,0 +1,16 @@
+{
+    "series_id": "hot-wheels-garage-mopar",
+    "year": 2011,
+    "name": "Hot Wheels Garage: Mopar",
+    "total_releases": 7,
+    "max_index": 14,
+    "releases": [
+        "data/releases/2011/t8274-70-dodge-hemi-challenger.json",
+        "data/releases/2011/t8281-69-dodge-coronet-superbee.json",
+        "data/releases/2011/t8282-69-dodge-coronet-superbee.json",
+        "data/releases/2011/t8315-70-dodge-power-wagon.json",
+        "data/releases/2011/t8330-70-dodge-power-wagon.json",
+        "data/releases/2011/v5246-71-dodge-challenger.json",
+        "data/releases/2011/v6176-70-dodge-power-wagon.json"
+    ]
+}

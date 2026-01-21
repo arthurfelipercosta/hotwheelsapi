@@ -1,0 +1,12 @@
+{
+    "series_id": "100-years-of-chevy-trucks",
+    "year": 2018,
+    "name": "100 Years of Chevy Trucks",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2018/fkd07-67-chevy-c10.json",
+        "data/releases/2018/fkd09-83-chevy-silverado.json",
+        "data/releases/2018/fkd10-blazer-4-4.json"
+    ]
+}

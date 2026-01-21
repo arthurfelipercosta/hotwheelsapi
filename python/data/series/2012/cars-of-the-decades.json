@@ -1,0 +1,11 @@
+{
+    "series_id": "cars-of-the-decades",
+    "year": 2012,
+    "name": "Cars of the Decades",
+    "total_releases": 2,
+    "max_index": 25,
+    "releases": [
+        "data/releases/2012/w4003-92-ford-mustang.json",
+        "data/releases/2012/w4010-83-chevy-silverado.json"
+    ]
+}

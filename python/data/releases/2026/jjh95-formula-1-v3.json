@@ -1,0 +1,25 @@
+{
+    "release_id": "jjh95-formula-1-2026",
+    "toy_number": "JJH95",
+    "casting_id": "formula-1",
+    "year": 2026,
+    "series_id": "formula-1",
+    "series_index": 1,
+    "specs": {
+        "color": "Anthracite",
+        "tampo": "McLaren livery, Cisco, OKX, Dell Technologies logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Orange Rim",
+            "1": "Black AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U37N, U42N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/McLarenMastercardMCL39.jpg/revision/latest?cb=20251015122047"
+    }
+}

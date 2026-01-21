@@ -1,0 +1,24 @@
+{
+    "release_id": "bdl76-67-mustang-2014",
+    "toy_number": "BDL76",
+    "casting_id": "67-mustang",
+    "year": 2014,
+    "series_id": "mustang-50-years",
+    "series_index": 2,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripes on sides & across top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: F47, F48, G12, G16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/%2767_Ford_mustang_50_years_set_car.JPG/revision/latest?cb=20140513173301"
+    }
+}

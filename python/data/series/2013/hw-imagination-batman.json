@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-imagination-batman",
+    "year": 2013,
+    "name": "HW Imagination: Batman",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1710-tv-series-batmobile.json",
+        "data/releases/2013/x1711-arkham-asylum-batmobile.json"
+    ]
+}

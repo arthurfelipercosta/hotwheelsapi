@@ -1,0 +1,10 @@
+{
+    "series_id": "convertibles",
+    "year": 2021,
+    "name": "Convertibles",
+    "total_releases": 1,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2021/grt19-17-pagani-huayra-roadster.json"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-gassers",
+    "year": 2023,
+    "name": "HW Gassers",
+    "total_releases": 5,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hkh62-65-mercury-comet-cyclone.json",
+        "data/releases/2023/hkh64-62-corvette-gasser.json",
+        "data/releases/2023/hkh65-pass-n-gasser.json",
+        "data/releases/2023/hkl14-65-mercury-comet-cyclone.json",
+        "data/releases/2023/hkl40-62-corvette-gasser.json"
+    ]
+}

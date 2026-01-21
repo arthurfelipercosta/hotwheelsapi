@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh29-ford-mustang-mach-e-1400-2023",
+    "toy_number": "HKH29",
+    "casting_id": "ford-mustang-mach-e-1400",
+    "year": 2023,
+    "series_id": "hw-drag-strip",
+    "series_index": 2,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "Light Blue and Silver stripes on hood, roof, and sides, \"FORD PERFORMANCE\" on hood and sides, \"RTR\" and Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R47, R48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HKH29.jpg/revision/latest?cb=20221128044446"
+    }
+}

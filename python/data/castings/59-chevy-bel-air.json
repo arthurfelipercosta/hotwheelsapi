@@ -1,0 +1,33 @@
+{
+    "casting_id": "59-chevy-bel-air",
+    "name": "'59 Chevy Bel Air",
+    "description": {
+        "en-us": "'59 Chevy Bel Air Debut series Pride Rides Produced 2003 - 2013 2022 – Present (retool) Designer Larry Wood Number 57170",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/57170-59-chevy-bel-air.json",
+        "data/releases/2003/57170-59-chevy-bel-air-v2.json",
+        "data/releases/2003/57170-59-chevy-bel-air-v3.json",
+        "data/releases/2003/c1036-59-chevy-bel-air.json",
+        "data/releases/2004/c2673-59-chevy-bel-air.json",
+        "data/releases/2004/g7756-59-chevy-bel-air.json",
+        "data/releases/2004/c3224-59-chevy-bel-air.json",
+        "data/releases/2005/h9211-59-chevy-bel-air.json",
+        "data/releases/2009/n9013-59-chevy-bel-air.json",
+        "data/releases/2009/n9021-59-chevy-bel-air.json",
+        "data/releases/2009/n9811-59-chevy-bel-air.json",
+        "data/releases/2012/w8329-59-chevy-bel-air.json",
+        "data/releases/2013/x1796-59-chevy-bel-air.json",
+        "data/releases/2013/x2025-59-chevy-bel-air.json",
+        "data/releases/2022/hcv08-59-chevy-bel-air.json",
+        "data/releases/2022/hcy43-59-chevy-bel-air.json",
+        "data/releases/2024/htb02-59-chevy-bel-air.json",
+        "data/releases/2026/jjj15-59-chevy-bel-air.json",
+        "data/releases/2026/jjm35-59-chevy-bel-air.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "jbb20-audi-90-quattro-2025",
+    "toy_number": "JBB20",
+    "casting_id": "audi-90-quattro",
+    "year": 2025,
+    "series_id": "peak-pursuit",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake gray",
+        "tampo": "Black, orange, white, and yellow striping on hood and sides; detailed front fascia and headlights; \"Audi Sport\", \"Audi quattro\" on sides; \"HWGRFX\" on hood; \"25\" on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U12N, U16N, U18N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/61/AudiQuattroGTO.jpg/revision/latest?cb=20250604131320"
+    }
+}

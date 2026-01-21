@@ -1,0 +1,24 @@
+{
+    "release_id": "cfl07-rig-storm-2015",
+    "toy_number": "CFL07",
+    "casting_id": "rig-storm",
+    "year": 2015,
+    "series_id": "hw-race-night-storm",
+    "series_index": null,
+    "specs": {
+        "color": "Clear Black",
+        "tampo": "Yellow & White stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Glow-in-the-Dark",
+        "wheel_type": {
+            "0": "Yellow & Glow-in-the-Dark OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/2015-166-RigStorm-Smoke.JPG/revision/latest?cb=20150515215203"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "jkp19-donut-drifter-2026",
+    "toy_number": "JKP19",
+    "casting_id": "donut-drifter",
+    "year": 2026,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "White / Pink",
+        "tampo": "White icing with pink sprinkles",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Golden tan",
+        "wheel_type": {
+            "0": "Turquoise tire",
+            "1": "White 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): U31, U33A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/JKP19_Donut_Drifter_Co1.jpg/revision/latest?cb=20251110193115"
+    }
+}

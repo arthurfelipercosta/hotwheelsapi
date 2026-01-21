@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-hot-trucks",
+    "year": 2019,
+    "name": "HW Hot Trucks",
+    "total_releases": 8,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2019/fyb55-mercedes-benz-unimog-1300l.json",
+        "data/releases/2019/fyc57-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2019/fyc59-custom-72-chevy-luv.json",
+        "data/releases/2019/fyc60-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2019/fyf08-mercedes-benz-unimog-1300l.json",
+        "data/releases/2019/fyf12-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2019/fyg31-custom-72-chevy-luv.json",
+        "data/releases/2019/fyg47-19-chevy-silverado-trail-boss-lt.json"
+    ]
+}

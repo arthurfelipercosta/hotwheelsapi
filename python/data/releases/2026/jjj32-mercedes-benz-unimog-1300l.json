@@ -1,0 +1,24 @@
+{
+    "release_id": "jjj32-mercedes-benz-unimog-1300l-2026",
+    "toy_number": "JJJ32",
+    "casting_id": "mercedes-benz-unimog-1300l",
+    "year": 2026,
+    "series_id": "truckin-along",
+    "series_index": 4,
+    "specs": {
+        "color": "Purple Metalflake",
+        "tampo": "Grey and orange stripes, 'UNIMOG', '26', 'EXPEDITION SCOUT'",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U41N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Unimog1300.jpg/revision/latest?cb=20251209220115"
+    }
+}

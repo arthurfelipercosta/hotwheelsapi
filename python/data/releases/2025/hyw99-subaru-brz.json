@@ -1,0 +1,24 @@
+{
+    "release_id": "hyw99-subaru-brz-2025",
+    "toy_number": "HYW99",
+    "casting_id": "subaru-brz",
+    "year": 2025,
+    "series_id": "hw-j-imports",
+    "series_index": 3,
+    "specs": {
+        "color": "Bluebonnet",
+        "tampo": "\"Subaru\" \"2\", black, pink, white, and blue stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Dark Gray",
+        "wheel_type": {
+            "0": "White 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base codes(s): T39, T40, T41, T48N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/SubaruBRZDrift.jpg/revision/latest?cb=20241109071854"
+    }
+}

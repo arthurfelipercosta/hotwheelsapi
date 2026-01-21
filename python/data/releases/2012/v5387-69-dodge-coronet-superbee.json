@@ -1,0 +1,25 @@
+{
+    "release_id": "v5387-69-dodge-coronet-superbee-2012",
+    "toy_number": "V5387",
+    "casting_id": "69-dodge-coronet-superbee",
+    "year": 2012,
+    "series_id": "muscle-mania-mopar",
+    "series_index": 4,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black Stripes, Super Bee Deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D22, D28, D30, D36, D37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/2012-69DodgeCornetSuperBee.jpg/revision/latest?cb=20110924174956"
+    }
+}

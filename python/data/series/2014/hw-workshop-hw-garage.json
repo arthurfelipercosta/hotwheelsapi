@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-workshop-hw-garage",
+    "year": 2014,
+    "name": "HW Workshop: HW Garage",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2014/bdd15-screamliner.json",
+        "data/releases/2014/bfd76-2013-srt-viper.json",
+        "data/releases/2014/bfg15-2013-srt-viper.json",
+        "data/releases/2014/bfg16-screamliner.json",
+        "data/releases/2014/bfg17-screamliner.json"
+    ]
+}

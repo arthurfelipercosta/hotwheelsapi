@@ -1,0 +1,18 @@
+{
+    "series_id": "x-raycers",
+    "year": 2019,
+    "name": "X-Raycers",
+    "total_releases": 9,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2019/fyd65-carbonator.json",
+        "data/releases/2019/fyd68-el-viento.json",
+        "data/releases/2019/fyd69-crescendo.json",
+        "data/releases/2019/fyd70-salt-shaker.json",
+        "data/releases/2019/fyf32-carbonator.json",
+        "data/releases/2019/fyf34-crescendo.json",
+        "data/releases/2019/fyg04-69-chevelle.json",
+        "data/releases/2019/fyg23-el-viento.json",
+        "data/releases/2019/fyg42-salt-shaker.json"
+    ]
+}

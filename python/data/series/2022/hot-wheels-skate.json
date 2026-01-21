@@ -1,0 +1,12 @@
+{
+    "series_id": "hot-wheels-skate",
+    "year": 2022,
+    "name": "Hot Wheels Skate",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2022/hgt73-bone-shaker.json",
+        "data/releases/2022/hgt74-rig-storm.json",
+        "data/releases/2022/hgt75-cruise-bruiser.json"
+    ]
+}

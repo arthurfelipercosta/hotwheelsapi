@@ -1,0 +1,11 @@
+{
+    "series_id": "fast-furious",
+    "year": 2016,
+    "name": "Fast & Furious",
+    "total_releases": 2,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2016/cmk18-69-dodge-charger-daytona.json",
+        "data/releases/2016/dvg76-67-mustang.json"
+    ]
+}

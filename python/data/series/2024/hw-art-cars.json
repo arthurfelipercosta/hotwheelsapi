@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-art-cars",
+    "year": 2024,
+    "name": "HW Art Cars",
+    "total_releases": 8,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2024/hry82-mailed-it.json",
+        "data/releases/2024/htb72-67-chevy-c10.json",
+        "data/releases/2024/htb74-67-camaro.json",
+        "data/releases/2024/htb77-king-kuda.json",
+        "data/releases/2024/htd72-67-chevy-c10.json",
+        "data/releases/2024/htd73-king-kuda.json",
+        "data/releases/2024/htd91-mailed-it.json",
+        "data/releases/2024/htf22-purple-passion.json"
+    ]
+}

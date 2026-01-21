@@ -1,0 +1,26 @@
+{
+    "release_id": "hyx96-70-plymouth-superbird-2025",
+    "toy_number": "HYX96",
+    "casting_id": "70-plymouth-superbird",
+    "year": 2025,
+    "series_id": "hw-art-cars",
+    "series_index": 7,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black polka dots on top and hood, black, yellow & blue polka dots on sides, black HW logo, star & comic burst graphics on hood, yellow & white \"O\" flower on top, yellow HW logo, \"VROOM\", \"POP!\", \"ZOOM\" inside yellow & blue comic bursts on sides, \"HW\" with yellow polka dot background on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Front: blue tire",
+            "1": "white 5SP ; Back: yellow tire",
+            "2": "white 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U12N, U16N, U17N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/Artsybird.jpg/revision/latest?cb=20250604130617"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-dream-garage",
+    "year": 2024,
+    "name": "HW Dream Garage",
+    "total_releases": 7,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2024/hry51-mazda-autozam.json",
+        "data/releases/2024/htb49-custom-otto.json",
+        "data/releases/2024/htb52-corvette-stingray.json",
+        "data/releases/2024/htc85-custom-otto.json",
+        "data/releases/2024/htc86-mazda-autozam.json",
+        "data/releases/2024/htd53-corvette-stingray.json",
+        "data/releases/2024/htf67-custom-otto.json"
+    ]
+}

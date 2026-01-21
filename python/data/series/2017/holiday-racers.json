@@ -1,0 +1,11 @@
+{
+    "series_id": "holiday-racers",
+    "year": 2017,
+    "name": "Holiday Racers",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2017/dtx44-rodger-dodger.json",
+        "data/releases/2017/dtx46-carbonator.json"
+    ]
+}

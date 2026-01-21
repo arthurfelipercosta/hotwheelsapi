@@ -1,0 +1,24 @@
+{
+    "release_id": "m6995-70-dodge-hemi-challenger-2008",
+    "toy_number": "M6995",
+    "casting_id": "70-dodge-hemi-challenger",
+    "year": 2008,
+    "series_id": "web-trading-cars",
+    "series_index": 17,
+    "specs": {
+        "color": "Metallic Cayenne",
+        "tampo": "Silver Side Stripe, Gray Grille, Cayenne + Gray Shaker Hood, Challenger in Silver, Silver Gas Cap",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): A31, A33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Challenger_AGENTAIR_6.jpg/revision/latest?cb=20080914012305"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "race-world-earth",
+    "year": 2010,
+    "name": "Race World: Earth",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2010/r7630-nerve-hammer.json",
+        "data/releases/2010/r7633-stockar.json"
+    ]
+}

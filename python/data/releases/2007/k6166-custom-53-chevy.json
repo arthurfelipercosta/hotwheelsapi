@@ -1,0 +1,24 @@
+{
+    "release_id": "k6166-custom-53-chevy-2007",
+    "toy_number": "K6166",
+    "casting_id": "custom-53-chevy",
+    "year": 2007,
+    "series_id": "2007-new-models",
+    "series_index": 34,
+    "specs": {
+        "color": "Red & White",
+        "tampo": "Silver pinstripe on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Chevy53RF.jpg/revision/latest?cb=20081217034553"
+    }
+}

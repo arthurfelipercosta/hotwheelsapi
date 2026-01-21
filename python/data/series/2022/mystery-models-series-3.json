@@ -1,0 +1,11 @@
+{
+    "series_id": "mystery-models-series-3",
+    "year": 2022,
+    "name": "Mystery Models (Series 3)",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2022/hfl06-monteracer.json",
+        "data/releases/2022/hfl08-purple-passion.json"
+    ]
+}

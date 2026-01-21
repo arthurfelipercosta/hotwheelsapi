@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-race-hw-race-team",
+    "year": 2014,
+    "name": "HW Race: HW Race Team",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bdd02-24-seven.json",
+        "data/releases/2014/bfg26-24-seven.json"
+    ]
+}

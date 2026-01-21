@@ -1,0 +1,37 @@
+{
+    "casting_id": "stockar",
+    "name": "Stockar",
+    "description": {
+        "en-us": "Stockar Debut series 2005 First Editions: X‑Raycers Produced 2005 - Present Designer Larry Wood Number G6718",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g6718-stockar.json",
+        "data/releases/2006/n-a-stockar.json",
+        "data/releases/2006/j3491-stockar.json",
+        "data/releases/2007/k7585-stockar.json",
+        "data/releases/2008/l9960-stockar.json",
+        "data/releases/2008/n1709-stockar.json",
+        "data/releases/2009/m2606-stockar.json",
+        "data/releases/2010/r7633-stockar.json",
+        "data/releases/2011/t8642-stockar.json",
+        "data/releases/2011/v8707-stockar.json",
+        "data/releases/2011/w3417-stockar.json",
+        "data/releases/2012/w4244-stockar.json",
+        "data/releases/2013/x1765-stockar.json",
+        "data/releases/2014/bfd45-stockar.json",
+        "data/releases/2015/cdt23-stockar.json",
+        "data/releases/2016/dhp43-stockar.json",
+        "data/releases/2016/dht92-stockar.json",
+        "data/releases/2017/dvf96-stockar.json",
+        "data/releases/2019/fyl12-stockar.json",
+        "data/releases/2021/hcb57-stockar.json",
+        "data/releases/2023/hlk42-stockar.json",
+        "data/releases/2025/hyx33-stockar.json",
+        "data/releases/2025/hyy07-stockar.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "bfd76-2013-srt-viper-2014",
+    "toy_number": "BFD76",
+    "casting_id": "2013-srt-viper",
+    "year": 2014,
+    "series_id": "hw-workshop-hw-garage",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Dark grey and black stripes on roof & hood, SRT logo on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F45, F47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/Hot_Wheels_2014_Viper_SRT_Y5.jpg/revision/latest?cb=20140204063940"
+    }
+}

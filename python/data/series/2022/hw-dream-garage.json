@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-dream-garage",
+    "year": 2022,
+    "name": "HW Dream Garage",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2022/hcv43-bone-shaker.json",
+        "data/releases/2022/hcy32-bone-shaker.json",
+        "data/releases/2022/hcx12-bone-shaker.json"
+    ]
+}

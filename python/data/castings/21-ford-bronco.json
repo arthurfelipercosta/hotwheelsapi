@@ -1,0 +1,24 @@
+{
+    "casting_id": "21-ford-bronco",
+    "name": "'21 Ford Bronco",
+    "description": {
+        "en-us": "'21 Ford Bronco Debut series Then and Now Produced 2021 - Present Designer Dmitriy Shakhmatov Number GRX28",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx28-21-ford-bronco.json",
+        "data/releases/2021/gtb86-21-ford-bronco.json",
+        "data/releases/2021/n-a-21-ford-bronco.json",
+        "data/releases/2022/hct70-21-ford-bronco.json",
+        "data/releases/2022/hcw91-21-ford-bronco.json",
+        "data/releases/2023/hly74-21-ford-bronco.json",
+        "data/releases/2024/hvx02-21-ford-bronco.json",
+        "data/releases/2025/hyw73-21-ford-bronco.json",
+        "data/releases/2025/hyx50-21-ford-bronco.json",
+        "data/releases/2025/hyy32-21-ford-bronco.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Ford"
+}

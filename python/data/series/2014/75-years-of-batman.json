@@ -1,0 +1,12 @@
+{
+    "series_id": "75-years-of-batman",
+    "year": 2014,
+    "name": "75 Years of Batman",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2014/cck71-tv-series-batmobile.json",
+        "data/releases/2014/cck74-arkham-asylum-batmobile.json",
+        "data/releases/2014/cck75-the-brave-and-the-bold-batmobile.json"
+    ]
+}

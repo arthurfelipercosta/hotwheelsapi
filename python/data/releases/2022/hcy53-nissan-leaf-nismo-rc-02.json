@@ -1,0 +1,25 @@
+{
+    "release_id": "hcy53-nissan-leaf-nismo-rc-02-2022",
+    "toy_number": "HCY53",
+    "casting_id": "nissan-leaf-nismo-rc-02",
+    "year": 2022,
+    "series_id": "hw-green-speed",
+    "series_index": 2,
+    "specs": {
+        "color": "Glossy Black",
+        "tampo": "Matte black & silver accents, \"NISSAN INTELLIGENT MOBILITY\" on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/2022_Nissan_Leaf_Black.jpg/revision/latest?cb=20220727100713"
+    }
+}

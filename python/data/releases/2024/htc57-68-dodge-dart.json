@@ -1,0 +1,24 @@
+{
+    "release_id": "htc57-68-dodge-dart-2024",
+    "toy_number": "HTC57",
+    "casting_id": "68-dodge-dart",
+    "year": 2024,
+    "series_id": "muscle-mania",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Red stripes on roof; Red stripes, 'Original RAMCHARGERS', Copper 'Dodge', Black HW Logo & 'GoodYear' on sides; Copper 'Mopar' on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Light Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T02, T03, T04, T05, T06, T08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/HTC57-LOOSE.jpg/revision/latest?cb=20240512233936"
+    }
+}

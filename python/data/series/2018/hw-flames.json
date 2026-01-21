@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-flames",
+    "year": 2018,
+    "name": "HW Flames",
+    "total_releases": 7,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2018/fjw61-55-chevy.json",
+        "data/releases/2018/fjw66-69-dodge-coronet-superbee.json",
+        "data/releases/2018/fjw67-custom-53-chevy.json",
+        "data/releases/2018/fjy58-55-chevy.json",
+        "data/releases/2018/fjy62-69-dodge-coronet-superbee.json",
+        "data/releases/2018/fjy63-custom-53-chevy.json",
+        "data/releases/2018/fkc13-69-dodge-coronet-superbee.json"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "tooned",
+    "year": 2022,
+    "name": "Tooned",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hcv45-skull-shaker.json",
+        "data/releases/2022/hcx87-skull-shaker.json"
+    ]
+}

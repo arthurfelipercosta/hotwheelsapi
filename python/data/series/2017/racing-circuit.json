@@ -1,0 +1,11 @@
+{
+    "series_id": "racing-circuit",
+    "year": 2017,
+    "name": "Racing Circuit",
+    "total_releases": 2,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2017/dwc53-92-ford-mustang.json",
+        "data/releases/2017/dwc59-deora-ii.json"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "series_id": "hw-dirt",
+    "year": 2025,
+    "name": "HW Dirt",
+    "total_releases": 18,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2025/hyw24-ford-model-a-custom-31.json",
+        "data/releases/2025/hyw31-tesla-cyberquad.json",
+        "data/releases/2025/hyx05-humvee.json",
+        "data/releases/2025/hyx25-blazer-4-4.json",
+        "data/releases/2025/hyx26-70-dodge-power-wagon.json",
+        "data/releases/2025/hyx91-tesla-cyberquad.json",
+        "data/releases/2025/hyx92-ford-model-a-custom-31.json",
+        "data/releases/2025/hyy01-75-chevy-blazer-custom.json",
+        "data/releases/2025/hyy19-17-ford-f-150-raptor.json",
+        "data/releases/2025/hyy35-15-land-rover-defender-double-cab.json",
+        "data/releases/2025/hyy71-20-jeep-gladiator.json",
+        "data/releases/2025/hyy97-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2025/jbb05-17-ford-f-150-raptor.json",
+        "data/releases/2025/jbb06-15-land-rover-defender-double-cab.json",
+        "data/releases/2025/jbb19-75-chevy-blazer-custom.json",
+        "data/releases/2025/jbb78-blazer-4-4.json",
+        "data/releases/2025/jbc00-15-land-rover-defender-double-cab.json",
+        "data/releases/2025/jbc40-20-jeep-gladiator.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "fxb25-tv-series-batmobile-2019",
+    "toy_number": "FXB25",
+    "casting_id": "tv-series-batmobile",
+    "year": 2019,
+    "series_id": "hot-wheels-id-batman",
+    "series_index": 2,
+    "specs": {
+        "color": "Spectraflame Black",
+        "tampo": "Red & purple scallops on sides, hood & trunk, Batman symbol on doors, ID logo on quarters",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Light gray",
+        "wheel_type": {
+            "0": "Chrome Red rim",
+            "1": "Black ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Target Exclusive Base code(s): M22, M31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/TV_Series_Batmobile_id.png/revision/latest?cb=20191011223053"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "series_id": "holiday-hot-rods",
+    "year": 2015,
+    "name": "Holiday Hot Rods",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2015/cfv12-67-mustang.json"
+    ]
+}

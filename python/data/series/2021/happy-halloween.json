@@ -1,0 +1,11 @@
+{
+    "series_id": "happy-halloween",
+    "year": 2021,
+    "name": "Happy Halloween",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2021/grr14-33-ford-lo-boy.json",
+        "data/releases/2021/grr17-king-kuda.json"
+    ]
+}

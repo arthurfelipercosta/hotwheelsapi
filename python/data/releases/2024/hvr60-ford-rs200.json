@@ -1,0 +1,24 @@
+{
+    "release_id": "hvr60-ford-rs200-2024",
+    "toy_number": "HVR60",
+    "casting_id": "ford-rs200",
+    "year": 2024,
+    "series_id": "fast-furious",
+    "series_index": 2,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights and taillights, Ford logo on hood & decklid",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "GRR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S44, S45, S46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/1986FordRS200.jpg/revision/latest?cb=20240205100526"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "casting_id": "ford-performance-supervan-4",
+    "name": "Ford Performance Supervan 4",
+    "description": {
+        "en-us": "Ford Performance Supervan 4 Debut series HW Green Speed Produced 2024 – Present Designer Eric Han Number HRY90",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry90-ford-performance-supervan-4.json",
+        "data/releases/2024/htd33-ford-performance-supervan-4.json",
+        "data/releases/2025/jbc20-ford-performance-supervan-4.json",
+        "data/releases/2026/jkx66-ford-performance-supervan-4.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Ford"
+}

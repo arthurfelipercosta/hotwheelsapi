@@ -1,0 +1,13 @@
+{
+    "series_id": "factory-fresh",
+    "year": 2023,
+    "name": "Factory Fresh",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2023/hkj29-lucid-air.json",
+        "data/releases/2023/hkj31-porsche-taycan-turbo-s.json",
+        "data/releases/2023/hkk76-lucid-air.json",
+        "data/releases/2023/hkl30-porsche-taycan-turbo-s.json"
+    ]
+}

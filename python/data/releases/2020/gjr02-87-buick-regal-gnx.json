@@ -1,0 +1,25 @@
+{
+    "release_id": "gjr02-87-buick-regal-gnx-2020",
+    "toy_number": "GJR02",
+    "casting_id": "87-buick-regal-gnx",
+    "year": 2020,
+    "series_id": "car-culture-power-trip",
+    "series_index": 2,
+    "specs": {
+        "color": "White Pearl",
+        "tampo": "Detailed Headlights & Taillights, Grand National emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Gold RR8DOT"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N33, N34, N35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/0073thRJly1gila115pj2j31hc0u04j5.jpg/revision/latest?cb=20200917064549"
+    }
+}

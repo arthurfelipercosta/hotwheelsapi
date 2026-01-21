@@ -1,0 +1,15 @@
+{
+    "series_id": "experimotors",
+    "year": 2019,
+    "name": "Experimotors",
+    "total_releases": 6,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2019/fyb35-slide-kick.json",
+        "data/releases/2019/fyc04-roller-toaster.json",
+        "data/releases/2019/fyc05-skull-shaker.json",
+        "data/releases/2019/fyd86-slide-kick.json",
+        "data/releases/2019/fyf20-skull-shaker.json",
+        "data/releases/2019/fyg43-roller-toaster.json"
+    ]
+}

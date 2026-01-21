@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh16-90-acura-nsx-2015",
+    "toy_number": "CFH16",
+    "casting_id": "90-acura-nsx",
+    "year": 2015,
+    "series_id": "hw-workshop-hw-garage",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Silver Acura emblem on front, Black stripe on wing, detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): H10, H11, H12, H13, H15, H16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/90AcuraNSXRed2015.jpeg/revision/latest?cb=20150515062044"
+    }
+}

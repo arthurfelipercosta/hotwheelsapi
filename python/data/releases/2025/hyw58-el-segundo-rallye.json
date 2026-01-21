@@ -1,0 +1,25 @@
+{
+    "release_id": "hyw58-el-segundo-rallye-2025",
+    "toy_number": "HYW58",
+    "casting_id": "el-segundo-rallye",
+    "year": 2025,
+    "series_id": "hw-track-champs",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake silver",
+        "tampo": "Black diagonals, yellow stripes, white circle, Hot Wheels logo, \" ATN \" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "Brown tire",
+            "1": "White AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): U26N, U27N, U28N, U29N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/ElSegundoRallye.jpg/revision/latest?cb=20250913091110"
+    }
+}

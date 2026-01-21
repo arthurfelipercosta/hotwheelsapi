@@ -1,0 +1,24 @@
+{
+    "release_id": "hyw77-custom-cadillac-fleetwood-2025",
+    "toy_number": "HYW77",
+    "casting_id": "custom-cadillac-fleetwood",
+    "year": 2025,
+    "series_id": "rod-squad",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "White stripes on hood, trunk, and doors; black accents on hood; Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White Lip SK5 & 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T32, T33, T34, T35, T36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/1st_2025_Custom_Cadillac_Fleetwood.jpg/revision/latest?cb=20250121212714"
+    }
+}

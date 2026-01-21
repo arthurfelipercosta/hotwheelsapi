@@ -1,0 +1,20 @@
+{
+    "casting_id": "speed-driver",
+    "name": "Speed Driver",
+    "description": {
+        "en-us": "Speed Driver Debut series Experimotors Produced 2020 - Present Designer Ryu Asada Number GHB62",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb62-speed-driver.json",
+        "data/releases/2020/ghd89-speed-driver.json",
+        "data/releases/2021/grx78-speed-driver.json",
+        "data/releases/2021/gtc25-speed-driver.json",
+        "data/releases/2025/jbb25-speed-driver.json",
+        "data/releases/2025/jbb88-speed-driver.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

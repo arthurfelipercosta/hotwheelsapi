@@ -1,0 +1,21 @@
+{
+    "series_id": "multipack-exclusive",
+    "year": 2024,
+    "name": "Multipack Exclusive",
+    "total_releases": 12,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2024/x6999-16-lamborghini-centenario-roadster.json",
+        "data/releases/2024/x6999-67-austin-mini-van.json",
+        "data/releases/2024/x6999-bone-shaker.json",
+        "data/releases/2024/x6999-custom-18-ford-mustang-gt.json",
+        "data/releases/2024/x6999-custom-18-ford-mustang-gt.json",
+        "data/releases/2024/x6999-honda-civic-custom.json",
+        "data/releases/2024/x6999-hpv78-8pk-pass-n-gasser.json",
+        "data/releases/2024/x6999-hw-formula-solar.json",
+        "data/releases/2024/x6999-k5904-porsche-911-gt2.json",
+        "data/releases/2024/x6999-mclaren-speedtail.json",
+        "data/releases/2024/x6999-super-volt.json",
+        "data/releases/2024/x6999-track-ripper.json"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "series_id": "x-raycers",
+    "year": 2016,
+    "name": "X‑Raycers",
+    "total_releases": 7,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2016/dhn91-blitzspeeder.json",
+        "data/releases/2016/dhp43-stockar.json",
+        "data/releases/2016/dhp44-rig-storm.json",
+        "data/releases/2016/dhp47-bullet-proof.json",
+        "data/releases/2016/dht92-stockar.json",
+        "data/releases/2016/dht95-bullet-proof.json",
+        "data/releases/2016/dhw52-blitzspeeder.json"
+    ]
+}

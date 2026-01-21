@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): G02, G03",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Custom_%2712_Ford_Mustang_HW_City_HW_Goal_2014.jpg/revision/latest?cb=20231107141822"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Custom_%2712_Ford_Mustang_HW_City_HW_Goal_2014.jpg/revision/latest?cb=20231107141822"
+    }
 }

@@ -1,0 +1,10 @@
+{
+    "series_id": "classic-games",
+    "year": 1999,
+    "name": "Classic Games",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/1999/21332-escort-rally.json"
+    ]
+}

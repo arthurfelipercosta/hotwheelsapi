@@ -1,0 +1,17 @@
+{
+    "casting_id": "hw-k-i-t-t-concept",
+    "name": "HW K.I.T.T. Concept",
+    "description": {
+        "en-us": "HW K.I.T.T. Concept Debut series HW Exotics Produced 2022 – Present Designer Charlie Angulo Number HCR98",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hcr98-hw-k-i-t-t-concept.json",
+        "data/releases/2023/hkh07-hw-k-i-t-t-concept.json",
+        "data/releases/2026/jjh98-hw-k-i-t-t-concept.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

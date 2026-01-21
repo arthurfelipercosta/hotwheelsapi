@@ -1,0 +1,24 @@
+{
+    "release_id": "hnw50-20-dodge-charger-hellcat-2023",
+    "toy_number": "HNW50",
+    "casting_id": "20-dodge-charger-hellcat",
+    "year": 2023,
+    "series_id": "fast-furious",
+    "series_index": 5,
+    "specs": {
+        "color": "Gloss Black Clearcoat",
+        "tampo": "Detailed headlights and taillights, black stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR5SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Identical to GRL82 Named Dodge Charger SRT Hellcat Widebody Base code(s): S10, S11, S19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/DodgeChargerSRTHellCatWidebodyFleet.jpg/revision/latest?cb=20211103035052"
+    }
+}

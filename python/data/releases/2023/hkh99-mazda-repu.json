@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh99-mazda-repu-2023",
+    "toy_number": "HKH99",
+    "casting_id": "mazda-repu",
+    "year": 2023,
+    "series_id": "hw-hot-trucks",
+    "series_index": 4,
+    "specs": {
+        "color": "Turquoise",
+        "tampo": "White roof, Black and Red stripes on hood and sides, \"2\", \"MAZDA ROTARY POWER\" on hood and sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): S01, S03, S06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/MazdaREPU.jpg/revision/latest?cb=20230405094840"
+    }
+}

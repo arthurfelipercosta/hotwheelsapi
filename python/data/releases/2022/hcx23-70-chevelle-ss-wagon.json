@@ -1,0 +1,24 @@
+{
+    "release_id": "hcx23-70-chevelle-ss-wagon-2022",
+    "toy_number": "HCX23",
+    "casting_id": "70-chevelle-ss-wagon",
+    "year": 2022,
+    "series_id": "hw-wagons",
+    "series_index": 1,
+    "specs": {
+        "color": "Glossy Red",
+        "tampo": "Black stripes on sides, hood and roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "GRMC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R16, R20, R21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/Chevelle_2022_02.jpg/revision/latest?cb=20220604003248"
+    }
+}

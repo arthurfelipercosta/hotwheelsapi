@@ -1,0 +1,24 @@
+{
+    "release_id": "grr37-custom-56-ford-truck-2021",
+    "toy_number": "GRR37",
+    "casting_id": "custom-56-ford-truck",
+    "year": 2021,
+    "series_id": "orange-blue",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Orange",
+        "tampo": "53 with blue & white stripes on doors, HW logo on rear fenders",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Light Blue Chrome 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N35, N47, N48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/2021_Custom_%2756_Ford_Truck.jpg/revision/latest?cb=20250325022837"
+    }
+}

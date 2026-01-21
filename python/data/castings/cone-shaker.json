@@ -1,0 +1,17 @@
+{
+    "casting_id": "cone-shaker",
+    "name": "Cone Shaker",
+    "description": {
+        "en-us": "Cone Shaker Debut series HW Metro Produced 2025 – Present Designer Bryan Zhao Number HYW35",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw35-cone-shaker.json",
+        "data/releases/2025/jbb62-cone-shaker.json",
+        "data/releases/2026/jjm04-cone-shaker.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

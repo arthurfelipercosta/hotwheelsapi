@@ -1,0 +1,24 @@
+{
+    "casting_id": "slide-kick",
+    "name": "Slide Kick",
+    "description": {
+        "en-us": "Slide Kick Debut series Experimotors Produced 2019 - Present Designer Ryu Asada Number FYB35",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb35-slide-kick.json",
+        "data/releases/2019/fyd86-slide-kick.json",
+        "data/releases/2020/ghb99-slide-kick.json",
+        "data/releases/2020/ghf21-slide-kick.json",
+        "data/releases/2021/gtb31-slide-kick.json",
+        "data/releases/2023/gtn49-slide-kick.json",
+        "data/releases/2024/htv45-slide-kick.json",
+        "data/releases/2025/hyy57-slide-kick.json",
+        "data/releases/2025/hyy02-slide-kick.json",
+        "data/releases/2025/jcb47-slide-kick.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

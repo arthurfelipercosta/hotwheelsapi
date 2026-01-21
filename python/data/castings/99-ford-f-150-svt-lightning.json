@@ -1,0 +1,21 @@
+{
+    "casting_id": "99-ford-f-150-svt-lightning",
+    "name": "'99 Ford F-150 SVT Lightning",
+    "description": {
+        "en-us": "'99 Ford F-150 SVT Lightning Debut series HW Hot Trucks Produced 2020 - Present Designer Ryu Asada Number GHB33",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb33-99-ford-f-150-svt-lightning.json",
+        "data/releases/2021/gry97-99-ford-f-150-svt-lightning.json",
+        "data/releases/2022/hfv87-99-ford-f-150-svt-lightning.json",
+        "data/releases/2023/x6999-99-ford-f-150-svt-lightning.json",
+        "data/releases/2024/htb07-99-ford-f-150-svt-lightning.json",
+        "data/releases/2025/hyx37-99-ford-f-150-svt-lightning.json",
+        "data/releases/2025/jbb53-99-ford-f-150-svt-lightning.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Ford"
+}

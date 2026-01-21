@@ -1,0 +1,11 @@
+{
+    "series_id": "auto-affinity-blvd-bruisers",
+    "year": 2004,
+    "name": "Auto Affinity: Blvd. Bruisers",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2004/g3770-47-chevy-fleetline.json",
+        "data/releases/2004/g7767-47-chevy-fleetline.json"
+    ]
+}

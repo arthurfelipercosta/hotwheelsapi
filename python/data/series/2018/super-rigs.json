@@ -1,0 +1,11 @@
+{
+    "series_id": "super-rigs",
+    "year": 2018,
+    "name": "Super Rigs",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2018/fkw89-pedal-driver.json",
+        "data/releases/2018/fkw90-jcm50-pedal-driver.json"
+    ]
+}

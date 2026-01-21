@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): B17",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/Lancer_FTE_darkred.JPG/revision/latest?cb=20091201223058"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/Lancer_FTE_darkred.JPG/revision/latest?cb=20091201223058"
+    }
 }

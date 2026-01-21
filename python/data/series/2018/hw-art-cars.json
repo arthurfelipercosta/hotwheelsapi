@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-art-cars",
+    "year": 2018,
+    "name": "HW Art Cars",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2018/fjw74-64-impala.json"
+    ]
+}

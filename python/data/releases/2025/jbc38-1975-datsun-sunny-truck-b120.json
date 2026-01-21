@@ -1,0 +1,24 @@
+{
+    "release_id": "jbc38-1975-datsun-sunny-truck-b120-2025",
+    "toy_number": "JBC38",
+    "casting_id": "1975-datsun-sunny-truck-b120",
+    "year": 2025,
+    "series_id": "hw-hot-trucks",
+    "series_index": 6,
+    "specs": {
+        "color": "Spectraflame blue",
+        "tampo": "Golden stripes on sides, \"DATSUN\", \"ホットホィール\" on sides, \"Super TH\" on rear bed",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Gold MiniC4SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Super Treasure Hunt Base code(s): T42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/STH_1975_Datsun_Sunny_Truck_%28B120%29.jpg/revision/latest?cb=20250227141528"
+    }
+}

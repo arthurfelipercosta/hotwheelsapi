@@ -1,0 +1,17 @@
+{
+    "casting_id": "1967-el-camino",
+    "name": "1967 El Camino",
+    "description": {
+        "en-us": "1967 El Camino Debut series Fast & Furious (Series 2) Produced 2023 – Present Designer Sonny Fisher Number HNT10",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hnt10-1967-el-camino.json",
+        "data/releases/2024/hrw41-1967-el-camino.json",
+        "data/releases/2025/hyy83-1967-el-camino.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

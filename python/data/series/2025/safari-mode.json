@@ -1,0 +1,18 @@
+{
+    "series_id": "safari-mode",
+    "year": 2025,
+    "name": "Safari Mode",
+    "total_releases": 9,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2025/hyw36-amaru-gtc.json",
+        "data/releases/2025/hyw44-lil-roar.json",
+        "data/releases/2025/hyw87-porsche-911-rallye.json",
+        "data/releases/2025/hyw93-lamborghini-hurac-n-sterrato.json",
+        "data/releases/2025/hyy89-big-air-bel-air.json",
+        "data/releases/2025/jbb51-big-air-bel-air.json",
+        "data/releases/2025/jbb52-amaru-gtc.json",
+        "data/releases/2025/jbb86-lamborghini-hurac-n-sterrato.json",
+        "data/releases/2025/jbc41-porsche-911-rallye.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hkj05-land-rover-defender-90-2023",
+    "toy_number": "HKJ05",
+    "casting_id": "land-rover-defender-90",
+    "year": 2023,
+    "series_id": "hw-hot-trucks",
+    "series_index": 10,
+    "specs": {
+        "color": "Metalflake Dark Gray",
+        "tampo": "Small \"90\" on hood, \"Land Rover\" logo on doors, stylized stripes with HW logo, and \"Defender 90\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black BAJA5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S23, S24, S25, S26, S27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/LRDefender90B.jpg/revision/latest?cb=20230707054458"
+    }
+}

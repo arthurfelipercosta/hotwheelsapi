@@ -1,0 +1,16 @@
+{
+    "casting_id": "honda-motocompo",
+    "name": "Honda Motocompo",
+    "description": {
+        "en-us": "Honda Motocompo Debut series HW Moto Produced 2025 – Present Designer Fraser Campbell Number HYW43",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw43-honda-motocompo.json",
+        "data/releases/2025/jbc03-honda-motocompo.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Honda"
+}

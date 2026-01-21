@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2019,
+    "name": "HW Screen Time",
+    "total_releases": 2,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2019/fyc91-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2019/fyc96-minecart.json"
+    ]
+}

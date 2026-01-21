@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-daredevils",
+    "year": 2018,
+    "name": "HW Daredevils",
+    "total_releases": 4,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2018/fjx50-70-chevelle-ss-wagon.json",
+        "data/releases/2018/frr80-70-chevelle-ss-wagon.json",
+        "data/releases/2018/frr81-70-chevelle-ss-wagon.json",
+        "data/releases/2018/frr82-70-chevelle-ss-wagon.json"
+    ]
+}

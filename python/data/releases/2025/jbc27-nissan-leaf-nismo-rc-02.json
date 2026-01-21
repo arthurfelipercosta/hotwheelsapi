@@ -1,0 +1,24 @@
+{
+    "release_id": "jbc27-nissan-leaf-nismo-rc-02-2025",
+    "toy_number": "JBC27",
+    "casting_id": "nissan-leaf-nismo-rc-02",
+    "year": 2025,
+    "series_id": "hw-ev",
+    "series_index": 10,
+    "specs": {
+        "color": "Lime green",
+        "tampo": "\"Nissan I ntelligent M obility\" on sides, black striping, Treasure Hunt flame logo on rear fender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/LeafNISMO.jpg/revision/latest?cb=20250416123651"
+    }
+}

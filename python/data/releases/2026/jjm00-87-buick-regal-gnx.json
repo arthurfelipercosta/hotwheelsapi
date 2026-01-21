@@ -1,0 +1,25 @@
+{
+    "release_id": "jjm00-87-buick-regal-gnx-2026",
+    "toy_number": "JJM00",
+    "casting_id": "87-buick-regal-gnx",
+    "year": 2026,
+    "series_id": "nightspeed",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "White bold stripes with pink pulse trim; Number 87 with embedded TH flame marking, and Hot Wheels logo on sides; pink accent on hood bulge",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Pink",
+        "wheel_type": {
+            "0": "White lip",
+            "1": "black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Treasure Hunt Base code(s): U23N, U32N, U33N, U34N, U35N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/BuickRegal.jpg/revision/latest?cb=20251101092453"
+    }
+}

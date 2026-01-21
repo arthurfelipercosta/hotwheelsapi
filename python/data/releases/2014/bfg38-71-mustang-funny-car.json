@@ -1,0 +1,36 @@
+{
+    "release_id": "bfg38-71-mustang-funny-car-2014",
+    "toy_number": "BFG38",
+    "casting_id": "71-mustang-funny-car",
+    "year": 2014,
+    "series_id": "hw-city-mustang-50th",
+    "series_index": null,
+    "specs": {
+        "color": "Light Green",
+        "tampo": "Black, purple, & orange stripes on sides & along top; \"Ford\" outlined in purple, \"Jason Richman\", \"65/15\", Hot Wheels logo, & various sponsor logos on sides, black tampoed front end",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "ZAMAC",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "Black",
+            "2": "purple",
+            "3": "& orange stripes on sides & along top; \"Ford\" outlined in black",
+            "4": "\"Jason Richman\"",
+            "5": "\"65",
+            "6": "15\"",
+            "7": "Hot Wheels logo",
+            "8": "& various sponsor logos on sides",
+            "9": "no black tampo on front grille",
+            "10": "headlights",
+            "11": "Variation with \"Ford\" outlined in black",
+            "12": "with the front end unpainted"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Variation with \"Ford\" being outlined in purple Base code(s): F52, G01, G02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/HW_71_Mustang_FC_green.jpg/revision/latest?cb=20140620093036"
+    }
+}

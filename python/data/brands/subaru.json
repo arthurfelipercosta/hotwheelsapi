@@ -1,0 +1,14 @@
+{
+    "brand_id": "subaru",
+    "name": "Subaru",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/subaru-brz.json",
+        "data/castings/subaru-impreza.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Subaru vehicles.",
+        "pt-br": "Fabricante de veículos Subaru."
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "neon-speeders",
+    "year": 2024,
+    "name": "Neon Speeders",
+    "total_releases": 5,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2024/hrw69-nissan-skyline-2000gt-r.json",
+        "data/releases/2024/hrw70-95-mazda-rx-7-drift.json",
+        "data/releases/2024/hrw77-ford-gt.json",
+        "data/releases/2024/hrw81-corvette-c7-z06.json",
+        "data/releases/2024/hrw82-16-cadillac-ats-v-r.json"
+    ]
+}

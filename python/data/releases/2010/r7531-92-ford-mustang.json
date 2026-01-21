@@ -1,0 +1,27 @@
+{
+    "release_id": "r7531-92-ford-mustang-2010",
+    "toy_number": "R7531",
+    "casting_id": "92-ford-mustang",
+    "year": 2010,
+    "series_id": "hw-performance",
+    "series_index": 7,
+    "specs": {
+        "color": "Metallic Dark Red",
+        "tampo": "White \"Nitto\" tire logos, Black Ford logo on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "113",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): C09, C22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/92Mustang_performance_red.JPG/revision/latest?cb=20100511092445"
+    }
+}

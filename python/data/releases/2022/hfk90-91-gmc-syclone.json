@@ -1,0 +1,24 @@
+{
+    "release_id": "hfk90-91-gmc-syclone-2022",
+    "toy_number": "HFK90",
+    "casting_id": "91-gmc-syclone",
+    "year": 2022,
+    "series_id": "mystery-models-series-2",
+    "series_index": 1,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red, Orange & White stripes, White Syclone, HW logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Blue Rim MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/91_GMC_Syclone_LMAir.jpg/revision/latest?cb=20221218163138"
+    }
+}

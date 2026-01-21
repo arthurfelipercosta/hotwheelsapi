@@ -1,0 +1,11 @@
+{
+    "series_id": "mystery-models-series-1",
+    "year": 2026,
+    "name": "Mystery Models (Series 1)",
+    "total_releases": 2,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2026/jkc25-bone-shaker.json",
+        "data/releases/2026/jkc30-max-steel.json"
+    ]
+}

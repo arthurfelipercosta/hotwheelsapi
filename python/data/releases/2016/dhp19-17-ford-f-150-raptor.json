@@ -1,0 +1,24 @@
+{
+    "release_id": "dhp19-17-ford-f-150-raptor-2016",
+    "toy_number": "DHP19",
+    "casting_id": "17-ford-f-150-raptor",
+    "year": 2016,
+    "series_id": "hw-hot-trucks",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Grey & Black stripes on sides & hood, Ford logo & White 'Raptor' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Dark Grey BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): H45, H48, H47, H50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/IMG_20160214_193400.jpg/revision/latest?cb=20160214194014"
+    }
+}

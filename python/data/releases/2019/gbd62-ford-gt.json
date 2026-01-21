@@ -1,0 +1,24 @@
+{
+    "release_id": "gbd62-ford-gt-2019",
+    "toy_number": "GBD62",
+    "casting_id": "ford-gt",
+    "year": 2019,
+    "series_id": "mystery-models-series-2",
+    "series_index": 7,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Yellow & Black Stripes, Sponsors Logos, and '7'",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Yellow OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M03, M09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/Ford_GT_LM._Mystery_Model_Ser_2._2019.jpg/revision/latest?cb=20190328044445"
+    }
+}

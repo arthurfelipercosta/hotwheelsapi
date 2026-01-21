@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh94-67-chevy-c10-2015",
+    "toy_number": "CFH94",
+    "casting_id": "67-chevy-c10",
+    "year": 2015,
+    "series_id": "hw-workshop-heat-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "flames on the sides and the hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "White & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/%2767_Chevy_C10-2015_203.jpg/revision/latest?cb=20150811091124"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "casting_id": "69-mercury-cyclone",
+    "name": "'69 Mercury Cyclone",
+    "description": {
+        "en-us": "'69 Mercury Cyclone Debut series 2012 New Models Produced 2012 - Present Designer Dave Weise Number V5338",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5338-69-mercury-cyclone.json",
+        "data/releases/2013/y9439-69-mercury-cyclone.json",
+        "data/releases/2014/x6999-69-mercury-cyclone.json",
+        "data/releases/2014/x6999-69-mercury-cyclone-v2.json",
+        "data/releases/2015/x6999-69-mercury-cyclone.json",
+        "data/releases/2015/cfn77-69-mercury-cyclone.json",
+        "data/releases/2016/dhr15-69-mercury-cyclone.json",
+        "data/releases/2016/dhx29-69-mercury-cyclone.json",
+        "data/releases/2017/x6999-69-mercury-cyclone.json",
+        "data/releases/2017/x6999-69-mercury-cyclone-v2.json",
+        "data/releases/2017/x6999-69-mercury-cyclone-v3.json",
+        "data/releases/2022/hdg62-69-mercury-cyclone.json",
+        "data/releases/2025/hyy61-69-mercury-cyclone.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

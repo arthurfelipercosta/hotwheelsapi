@@ -19,5 +19,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): D51, E07, E08",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/65/2012-LANCER_EVO-ORANGE-1.jpg/revision/latest?cb=20120828083528"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/2012-LANCER_EVO-ORANGE-1.jpg/revision/latest?cb=20120828083528"
+    }
 }

@@ -1,0 +1,23 @@
+{
+    "casting_id": "draftnator",
+    "name": "Draftnator",
+    "description": {
+        "en-us": "Draftnator Debut series X-Raycers Produced 2021 – Present Designer Ryu Asada Number GRX53",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx53-draftnator.json",
+        "data/releases/2021/gtb85-draftnator.json",
+        "data/releases/2022/hcy05-draftnator.json",
+        "data/releases/2023/hly69-draftnator.json",
+        "data/releases/2024/htv41-draftnator.json",
+        "data/releases/2024/hvkxx-draftnator.json",
+        "data/releases/2025/hyw70-draftnator.json",
+        "data/releases/2025/hyy31-draftnator.json",
+        "data/releases/2025/hyx67-draftnator.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Mattel"
+}

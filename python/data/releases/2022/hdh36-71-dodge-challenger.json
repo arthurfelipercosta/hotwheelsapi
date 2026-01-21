@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh36-71-dodge-challenger-2022",
+    "toy_number": "HDH36",
+    "casting_id": "71-dodge-challenger",
+    "year": 2022,
+    "series_id": "hw-stars-stripes",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Navy Blue",
+        "tampo": "Stars, red, white and blue stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Gold Chrome MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): P45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/71_Dodge_Challenger.jpg/revision/latest?cb=20220225184927"
+    }
+}

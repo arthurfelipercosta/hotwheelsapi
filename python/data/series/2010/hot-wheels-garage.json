@@ -1,0 +1,15 @@
+{
+    "series_id": "hot-wheels-garage",
+    "year": 2010,
+    "name": "Hot Wheels Garage",
+    "total_releases": 6,
+    "max_index": 35,
+    "releases": [
+        "data/releases/2010/n6937-custom-56-ford-truck.json",
+        "data/releases/2010/n6937-custom-56-ford-truck.json",
+        "data/releases/2010/n6937-custom-56-ford-truck.json",
+        "data/releases/2010/r3774-bone-shaker.json",
+        "data/releases/2010/r3774-bone-shaker.json",
+        "data/releases/2010/r3774-bone-shaker.json"
+    ]
+}

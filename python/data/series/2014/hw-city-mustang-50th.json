@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-city-mustang-50th",
+    "year": 2014,
+    "name": "HW City: Mustang 50th",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bfd83-67-ford-mustang-coupe.json",
+        "data/releases/2014/bfd88-67-mustang.json",
+        "data/releases/2014/bfd89-71-mustang-funny-car.json",
+        "data/releases/2014/bfg38-71-mustang-funny-car.json",
+        "data/releases/2014/bfg84-67-ford-mustang-coupe.json",
+        "data/releases/2014/bfg90-67-mustang.json"
+    ]
+}

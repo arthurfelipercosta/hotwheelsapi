@@ -1,0 +1,20 @@
+{
+    "casting_id": "track-dwagon",
+    "name": "Track Dwagon",
+    "description": {
+        "en-us": "Track Dwagon Debut series HW Track Champs Produced 2024 – Present Designer Dwayne Vance Number HRY74",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry74-track-dwagon.json",
+        "data/releases/2024/htf12-track-dwagon.json",
+        "data/releases/2025/jbb10-track-dwagon.json",
+        "data/releases/2025/hyy34-track-dwagon.json",
+        "data/releases/2025/jbb81-track-dwagon.json",
+        "data/releases/2026/jkx92-track-dwagon.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "super-chromes",
+    "year": 2016,
+    "name": "Super Chromes",
+    "total_releases": 4,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2016/dhn95-monteracer.json",
+        "data/releases/2016/dhp68-x-steam.json",
+        "data/releases/2016/dhw58-x-steam.json",
+        "data/releases/2016/dhw62-monteracer.json"
+    ]
+}

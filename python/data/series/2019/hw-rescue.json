@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-rescue",
+    "year": 2019,
+    "name": "HW Rescue",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2019/fyc81-nissan-skyline-2000gt-r.json",
+        "data/releases/2019/fyc83-5-alarm.json",
+        "data/releases/2019/fyg85-nissan-skyline-2000gt-r.json"
+    ]
+}

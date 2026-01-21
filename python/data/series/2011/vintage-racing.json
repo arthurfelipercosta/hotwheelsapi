@@ -1,0 +1,16 @@
+{
+    "series_id": "vintage-racing",
+    "year": 2011,
+    "name": "Vintage Racing",
+    "total_releases": 7,
+    "max_index": 23,
+    "releases": [
+        "data/releases/2011/t8458-70-dodge-hemi-challenger.json",
+        "data/releases/2011/t8462-70-chevy-camaro-rs.json",
+        "data/releases/2011/t8464-68-dodge-dart.json",
+        "data/releases/2011/t8465-70-dodge-hemi-challenger.json",
+        "data/releases/2011/t8470-70-plymouth-superbird.json",
+        "data/releases/2011/t8539-68-dodge-dart.json",
+        "data/releases/2011/t8540-70-dodge-hemi-challenger.json"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "mystery-models",
+    "year": 2011,
+    "name": "Mystery Models",
+    "total_releases": 4,
+    "max_index": 11,
+    "releases": [
+        "data/releases/2011/x3366-67-shelby-gt500.json",
+        "data/releases/2011/x3366-71-dodge-challenger.json",
+        "data/releases/2011/x3366-nerve-hammer.json",
+        "data/releases/2011/x3366-pass-n-gasser.json"
+    ]
+}

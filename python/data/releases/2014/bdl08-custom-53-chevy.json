@@ -1,0 +1,24 @@
+{
+    "release_id": "bdl08-custom-53-chevy-2014",
+    "toy_number": "BDL08",
+    "casting_id": "custom-53-chevy",
+    "year": 2014,
+    "series_id": "holiday-hot-rods",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake light blue",
+        "tampo": "Black & Gold stripes on sides, roof, & trunk, Gold snowflakes on sides & roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Chrome Gold",
+        "wheel_type": {
+            "0": "Gold OH5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): G39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/C53C2014-01.jpg/revision/latest?cb=20221120211556"
+    }
+}

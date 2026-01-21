@@ -1,0 +1,24 @@
+{
+    "release_id": "gwb38-standard-kart-2021",
+    "toy_number": "GWB38",
+    "casting_id": "standard-kart",
+    "year": 2021,
+    "series_id": "mario-kart",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Shy Guy logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Orange_shy_guy.jpg/revision/latest?cb=20220730225721"
+    }
+}

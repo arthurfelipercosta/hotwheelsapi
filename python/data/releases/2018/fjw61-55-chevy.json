@@ -1,0 +1,24 @@
+{
+    "release_id": "fjw61-55-chevy-2018",
+    "toy_number": "FJW61",
+    "casting_id": "55-chevy",
+    "year": 2018,
+    "series_id": "hw-flames",
+    "series_index": 2,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Silver & Dark Blue flames on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K30, K36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/%2755Chevy2018.JPG/revision/latest?cb=20171229120929"
+    }
+}

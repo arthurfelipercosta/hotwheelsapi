@@ -1,0 +1,16 @@
+{
+    "series_id": "factory-fresh",
+    "year": 2020,
+    "name": "Factory Fresh",
+    "total_releases": 7,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2020/ghb28-2019-audi-r8-spyder.json",
+        "data/releases/2020/ghb38-land-rover-defender-90.json",
+        "data/releases/2020/ghc03-84-audi-sport-quattro.json",
+        "data/releases/2020/ghc89-corvette-c7-z06.json",
+        "data/releases/2020/ghf93-2019-audi-r8-spyder.json",
+        "data/releases/2020/ghg15-84-audi-sport-quattro.json",
+        "data/releases/2020/gln66-corvette-c7-z06.json"
+    ]
+}

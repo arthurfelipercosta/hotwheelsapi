@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-race-track-aces",
+    "year": 2015,
+    "name": "HW Race: Track Aces",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfh80-dmc-delorean.json",
+        "data/releases/2015/cfj38-dmc-delorean.json"
+    ]
+}

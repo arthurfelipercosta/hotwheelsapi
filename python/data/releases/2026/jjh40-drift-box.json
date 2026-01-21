@@ -1,0 +1,24 @@
+{
+    "release_id": "jjh40-drift-box-2026",
+    "toy_number": "JJH40",
+    "casting_id": "drift-box",
+    "year": 2026,
+    "series_id": "hw-euro",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "Spots, \" Dot's HW DRIFT SHOP\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "White AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): U36N, U37N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/DriftBox.jpg/revision/latest?cb=20251015123444"
+    }
+}

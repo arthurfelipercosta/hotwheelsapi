@@ -1,0 +1,24 @@
+{
+    "release_id": "jkx83-70-chevy-camaro-rs-2026",
+    "toy_number": "JKX83",
+    "casting_id": "70-chevy-camaro-rs",
+    "year": 2026,
+    "series_id": "blue-and-gold",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake cerulean",
+        "tampo": "Hot Wheels logo, \"58\", gold stripes on sides, Goodyear logo on fender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold chrome MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U26N, U29N, U32N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/70_Camaro_RS.jpg/revision/latest?cb=20251219231752"
+    }
+}

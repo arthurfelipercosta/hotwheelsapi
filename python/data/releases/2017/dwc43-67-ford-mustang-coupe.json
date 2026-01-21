@@ -1,0 +1,24 @@
+{
+    "release_id": "dwc43-67-ford-mustang-coupe-2017",
+    "toy_number": "DWC43",
+    "casting_id": "67-ford-mustang-coupe",
+    "year": 2017,
+    "series_id": "vintage-american-muscle",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "Blue with white racing stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named 1967 Ford Mustang Coupe Base code(s): J47, J49, K02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/2b.jpg/revision/latest?cb=20170213051822"
+    }
+}

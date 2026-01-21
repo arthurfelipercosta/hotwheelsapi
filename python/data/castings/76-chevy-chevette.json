@@ -1,0 +1,20 @@
+{
+    "casting_id": "76-chevy-chevette",
+    "name": "'76 Chevy Chevette",
+    "description": {
+        "en-us": "'76 Chevy Chevette Debut series Flying Customs Produced 2013 - present Designer Brendon Vetuskey Number X8178",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x8178-76-chevy-chevette.json",
+        "data/releases/2014/bdr49-76-chevy-chevette.json",
+        "data/releases/2023/hkh35-76-chevy-chevette.json",
+        "data/releases/2023/hkl60-76-chevy-chevette.json",
+        "data/releases/2025/hyx43-76-chevy-chevette.json",
+        "data/releases/2026/jjj40-76-chevy-chevette.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

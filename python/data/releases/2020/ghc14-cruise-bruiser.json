@@ -1,0 +1,26 @@
+{
+    "release_id": "ghc14-cruise-bruiser-2020",
+    "toy_number": "GHC14",
+    "casting_id": "cruise-bruiser",
+    "year": 2020,
+    "series_id": "hw-art-cars",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow, Light Blue & Black paint splashes. '20' on sides in white.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black PR5 & Blue tire",
+            "2": "White 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M36, M37, M39, M40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/CruiseBruiser-2020-carded.jpg/revision/latest?cb=20191121014928"
+    }
+}

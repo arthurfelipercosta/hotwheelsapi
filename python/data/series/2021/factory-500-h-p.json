@@ -1,0 +1,11 @@
+{
+    "series_id": "factory-500-h-p",
+    "year": 2021,
+    "name": "Factory 500 H.P.",
+    "total_releases": 2,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2021/grt08-2013-srt-viper.json",
+        "data/releases/2021/grt11-porsche-911-gt3-rs.json"
+    ]
+}

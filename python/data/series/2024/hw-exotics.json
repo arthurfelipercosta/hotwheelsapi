@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-exotics",
+    "year": 2024,
+    "name": "HW Exotics",
+    "total_releases": 9,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2024/hry73-porsche-904-carrera-gts.json",
+        "data/releases/2024/hry83-pagani-utopia.json",
+        "data/releases/2024/hry89-gordon-murray-automotive-t-50s.json",
+        "data/releases/2024/htc21-2020-koenigsegg-jesko.json",
+        "data/releases/2024/htc22-bugatti-bolide.json",
+        "data/releases/2024/htc24-92-dodge-viper-rt-10.json",
+        "data/releases/2024/htd94-porsche-904-carrera-gts.json",
+        "data/releases/2024/htf07-2020-koenigsegg-jesko.json",
+        "data/releases/2024/htf08-bugatti-bolide.json"
+    ]
+}

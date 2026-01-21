@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx38-k-i-t-t-2017",
+    "toy_number": "DTX38",
+    "casting_id": "k-i-t-t",
+    "year": 2017,
+    "series_id": "hw-screen-time",
+    "series_index": 10,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red scanner light on front, 'California KNIGHT' license plate on back",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "Chrome & Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J30, J32, J34, J35, J36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/K.I.T.T._-_17_HW_Screen_Time_600pxOTD.png/revision/latest?cb=20170106062605"
+    }
+}

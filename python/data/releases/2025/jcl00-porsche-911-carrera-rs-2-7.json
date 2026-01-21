@@ -1,0 +1,25 @@
+{
+    "release_id": "jcl00-porsche-911-carrera-rs-2-7-2025",
+    "toy_number": "JCL00",
+    "casting_id": "porsche-911-carrera-rs-2-7",
+    "year": 2025,
+    "series_id": "mystery-models-series-1",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake powder blue",
+        "tampo": "Gold striping, red accent striping, Carrera wordmark on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/Porsche_911_Carrera_RS_%282025%29.jpg/revision/latest?cb=20241227020440"
+    }
+}

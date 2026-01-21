@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-city-speed-team",
+    "year": 2014,
+    "name": "HW City: Speed Team",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bfc53-dmc-delorean.json",
+        "data/releases/2014/bff47-dmc-delorean.json"
+    ]
+}

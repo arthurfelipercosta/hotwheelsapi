@@ -1,0 +1,24 @@
+{
+    "release_id": "gjt72-83-chevy-silverado-2020",
+    "toy_number": "GJT72",
+    "casting_id": "83-chevy-silverado",
+    "year": 2020,
+    "series_id": "hot-wheels-boulevard-5",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "White & silver stripes with Silverado mark on side & Chevrolet on tailgate.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "ORRR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M43, M47, M51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/GJT72_83_Chevy_Silverado_4x4.jpg/revision/latest?cb=20200128050250"
+    }
+}

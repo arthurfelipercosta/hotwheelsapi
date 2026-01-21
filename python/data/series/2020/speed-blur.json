@@ -1,0 +1,11 @@
+{
+    "series_id": "speed-blur",
+    "year": 2020,
+    "name": "Speed Blur",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2020/ghd32-mazda-rx-7.json",
+        "data/releases/2020/ghg28-mazda-rx-7.json"
+    ]
+}

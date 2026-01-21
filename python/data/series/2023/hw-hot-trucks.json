@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-hot-trucks",
+    "year": 2023,
+    "name": "HW Hot Trucks",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2023/hkg56-limited-grip.json",
+        "data/releases/2023/hkh99-mazda-repu.json",
+        "data/releases/2023/hkj05-land-rover-defender-90.json",
+        "data/releases/2023/hkk60-limited-grip.json"
+    ]
+}

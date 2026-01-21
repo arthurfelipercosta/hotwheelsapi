@@ -1,0 +1,25 @@
+{
+    "casting_id": "erikenstein-rod",
+    "name": "Erikenstein Rod",
+    "description": {
+        "en-us": "Erikenstein Rod Debut series HW Hot Trucks Produced 2020 - Present Designer Eric Han Number GHB73",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb73-erikenstein-rod.json",
+        "data/releases/2020/ghf14-erikenstein-rod.json",
+        "data/releases/2021/gry66-erikenstein-rod.json",
+        "data/releases/2021/gtd42-erikenstein-rod.json",
+        "data/releases/2021/gtc59-erikenstein-rod.json",
+        "data/releases/2023/hkh68-erikenstein-rod.json",
+        "data/releases/2023/hkk29-erikenstein-rod.json",
+        "data/releases/2023/hth34-erikenstein-rod.json",
+        "data/releases/2024/htv50-erikenstein-rod.json",
+        "data/releases/2025/jcb45-erikenstein-rod.json",
+        "data/releases/2026/jjj75-erikenstein-rod.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

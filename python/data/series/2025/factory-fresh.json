@@ -2,10 +2,18 @@
     "series_id": "factory-fresh",
     "year": 2025,
     "name": "Factory Fresh",
-    "total_releases": 2,
-    "max_index": 5,
+    "total_releases": 10,
+    "max_index": 3,
     "releases": [
+        "data/releases/2025/hyw13-morgan-super-3.json",
+        "data/releases/2025/hyw23-gordon-murray-automotive-t-33.json",
         "data/releases/2025/hyw34-ferrari-sf90-stradale.json",
-        "data/releases/2025/hyy08-ferrari-sf90-stradale.json"
+        "data/releases/2025/hyw72-87-audi-quattro.json",
+        "data/releases/2025/hyw90-proton-saga.json",
+        "data/releases/2025/hyx48-morgan-super-3.json",
+        "data/releases/2025/hyy08-ferrari-sf90-stradale.json",
+        "data/releases/2025/hyy33-morgan-super-3.json",
+        "data/releases/2025/jbb70-gordon-murray-automotive-t-33.json",
+        "data/releases/2025/jbc35-87-audi-quattro.json"
     ]
 }

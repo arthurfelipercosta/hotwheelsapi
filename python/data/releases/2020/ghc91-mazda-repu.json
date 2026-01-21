@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc91-mazda-repu-2020",
+    "toy_number": "GHC91",
+    "casting_id": "mazda-repu",
+    "year": 2020,
+    "series_id": "hw-speed-graphics",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Gray-Blue",
+        "tampo": "White & Red stripes on sides, Black & White roundel on sides & hood, '52' on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Urban Outlaw Base codes: M40, M42, M43, M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/2020MazdaRepumc.jpg/revision/latest?cb=20240405035153"
+    }
+}

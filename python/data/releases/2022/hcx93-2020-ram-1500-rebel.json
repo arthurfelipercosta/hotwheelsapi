@@ -1,0 +1,24 @@
+{
+    "release_id": "hcx93-2020-ram-1500-rebel-2022",
+    "toy_number": "HCX93",
+    "casting_id": "2020-ram-1500-rebel",
+    "year": 2022,
+    "series_id": "hw-hot-trucks",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "Detailed trim, Black side stripe with \"RAM\" and \"REBEL\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/2020_Ram_1500_Rebel_-_2022_Red_-_Main.jpg/revision/latest?cb=20220428185132"
+    }
+}

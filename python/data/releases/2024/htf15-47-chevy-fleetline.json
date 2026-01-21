@@ -1,0 +1,26 @@
+{
+    "release_id": "htf15-47-chevy-fleetline-2024",
+    "toy_number": "HTF15",
+    "casting_id": "47-chevy-fleetline",
+    "year": 2024,
+    "series_id": "hw-first-response",
+    "series_index": 2,
+    "specs": {
+        "color": "Black",
+        "tampo": "Classic Black and White police livery. HOT WHEELS PATROL badge with TH logo, \"68\" on roof and sides, \"POLICE\" on hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White line",
+            "1": "white wall",
+            "2": "black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Treasure Hunt Base code(s): S32, S33, S35, S36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/ChevroletFleetline.jpg/revision/latest?cb=20231012052604"
+    }
+}

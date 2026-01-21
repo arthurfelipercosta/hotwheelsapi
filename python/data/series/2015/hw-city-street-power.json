@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-city-street-power",
+    "year": 2015,
+    "name": "HW City: Street Power",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfh08-super-volt.json",
+        "data/releases/2015/cfl20-super-volt.json"
+    ]
+}

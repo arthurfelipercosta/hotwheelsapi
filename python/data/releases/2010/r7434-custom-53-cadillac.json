@@ -1,0 +1,28 @@
+{
+    "release_id": "r7434-custom-53-cadillac-2010",
+    "toy_number": "R7434",
+    "casting_id": "custom-53-cadillac",
+    "year": 2010,
+    "series_id": "treasure-hunts",
+    "series_index": 1,
+    "specs": {
+        "color": "Metallic Pink",
+        "tampo": "White and Yellow flames outlined in Purple",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "053",
+            "2": "214",
+            "3": "2010",
+            "4": "International card Base code(s): C12 C14"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C12 C14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/53Caddy_10TH_Reg.JPG/revision/latest?cb=20110317102256"
+    }
+}

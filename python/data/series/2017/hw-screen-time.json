@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2017,
+    "name": "HW Screen Time",
+    "total_releases": 4,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2017/dhn90-68-corvette-gas-monkey-garage.json",
+        "data/releases/2017/dtx32-minecart.json",
+        "data/releases/2017/dtx37-the-simpsons-family-car.json",
+        "data/releases/2017/dtx38-k-i-t-t.json"
+    ]
+}

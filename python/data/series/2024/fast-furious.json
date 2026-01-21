@@ -1,0 +1,13 @@
+{
+    "series_id": "fast-furious",
+    "year": 2024,
+    "name": "Fast & Furious",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2024/hvr60-ford-rs200.json",
+        "data/releases/2024/hvr63-2018-bentley-continental-gt3.json",
+        "data/releases/2024/hyp69-nissan-skyline-gt-r-bnr32.json",
+        "data/releases/2024/hyp74-land-rover-defender-90.json"
+    ]
+}

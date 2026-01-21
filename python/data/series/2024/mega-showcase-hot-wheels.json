@@ -1,0 +1,12 @@
+{
+    "series_id": "mega-showcase-hot-wheels",
+    "year": 2024,
+    "name": "MEGA Showcase Hot Wheels",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2024/hry17-bone-shaker.json",
+        "data/releases/2024/hry19-94-audi-avant-rs2.json",
+        "data/releases/2024/hry20-audi-90-quattro.json"
+    ]
+}

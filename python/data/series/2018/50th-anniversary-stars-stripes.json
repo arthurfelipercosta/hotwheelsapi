@@ -1,0 +1,12 @@
+{
+    "series_id": "50th-anniversary-stars-stripes",
+    "year": 2018,
+    "name": "50th Anniversary Stars & Stripes",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2018/fkv81-custom-56-ford-truck.json",
+        "data/releases/2018/fkv86-69-dodge-coronet-superbee.json",
+        "data/releases/2018/fkv88-67-chevy-c10.json"
+    ]
+}

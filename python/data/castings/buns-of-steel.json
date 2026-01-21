@@ -1,0 +1,24 @@
+{
+    "casting_id": "buns-of-steel",
+    "name": "Buns of Steel",
+    "description": {
+        "en-us": "Buns of Steel Debut series Fast Foodie Produced 2018 - Present Designer Ryu Asada Number FJV59",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv59-buns-of-steel.json",
+        "data/releases/2018/fkb14-buns-of-steel.json",
+        "data/releases/2019/fyc63-buns-of-steel.json",
+        "data/releases/2019/fyf24-buns-of-steel.json",
+        "data/releases/2020/ghd71-buns-of-steel.json",
+        "data/releases/2021/gry07-buns-of-steel.json",
+        "data/releases/2021/gtc22-buns-of-steel.json",
+        "data/releases/2021/hbg17-buns-of-steel.json",
+        "data/releases/2023/hmf90-buns-of-steel.json",
+        "data/releases/2025/hyy88-buns-of-steel.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

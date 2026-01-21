@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-exotics",
+    "year": 2019,
+    "name": "HW Exotics",
+    "total_releases": 2,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2019/fyb38-16-lamborghini-centenario-roadster.json",
+        "data/releases/2019/fyb48-twin-mill-gen-e.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "gjp91-ford-rs200-2020",
+    "toy_number": "GJP91",
+    "casting_id": "ford-rs200",
+    "year": 2020,
+    "series_id": "car-culture-thrill-climbers",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights and taillights, sponsors on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold RR5SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named Ford RS 200 Base code(s): N22, N23, N24, N25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/20200829_175042a.jpg/revision/latest?cb=20200829233042"
+    }
+}

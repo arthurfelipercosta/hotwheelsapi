@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-city-hw-art-cars",
+    "year": 2015,
+    "name": "HW City: HW Art Cars",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfh47-67-austin-mini-van.json",
+        "data/releases/2015/cfj80-67-austin-mini-van.json",
+        "data/releases/2015/cfm07-67-austin-mini-van.json"
+    ]
+}

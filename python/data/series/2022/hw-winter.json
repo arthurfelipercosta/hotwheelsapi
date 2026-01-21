@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-winter",
+    "year": 2022,
+    "name": "HW Winter",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2022/hdh70-carbonator.json"
+    ]
+}

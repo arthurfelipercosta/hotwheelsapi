@@ -1,0 +1,14 @@
+{
+    "series_id": "muscle-mania",
+    "year": 2016,
+    "name": "Muscle Mania",
+    "total_releases": 5,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2016/dhr34-73-pontiac-firebird.json",
+        "data/releases/2016/dhr35-69-dodge-charger-daytona.json",
+        "data/releases/2016/dht83-69-dodge-charger-daytona.json",
+        "data/releases/2016/dhx32-73-pontiac-firebird.json",
+        "data/releases/2016/dhy09-73-pontiac-firebird.json"
+    ]
+}

@@ -2,9 +2,10 @@
     "series_id": "mystery-models-series-1",
     "year": 2024,
     "name": "Mystery Models (Series 1)",
-    "total_releases": 1,
-    "max_index": 9,
+    "total_releases": 2,
+    "max_index": 10,
     "releases": [
+        "data/releases/2024/hvw27-monteracer.json",
         "data/releases/2024/hvw36-formula-flashback.json"
     ]
 }

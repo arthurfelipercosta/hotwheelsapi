@@ -1,0 +1,13 @@
+{
+    "series_id": "experimotors",
+    "year": 2024,
+    "name": "Experimotors",
+    "total_releases": 4,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2024/hry56-mo-stash.json",
+        "data/releases/2024/hry64-porsche-911-carrera-clip.json",
+        "data/releases/2024/htd64-mo-stash.json",
+        "data/releases/2024/htd78-porsche-911-carrera-clip.json"
+    ]
+}

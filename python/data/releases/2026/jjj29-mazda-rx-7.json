@@ -1,0 +1,25 @@
+{
+    "release_id": "jjj29-mazda-rx-7-2026",
+    "toy_number": "JJJ29",
+    "casting_id": "mazda-rx-7",
+    "year": 2026,
+    "series_id": "hw-j-imports",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "Pink, orange, white, and black spring deco; '7' number plates and various logos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black RSW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U40N, U43N, U45N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/1978MazdaRX-7.jpg/revision/latest?cb=20251121095109"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "casting_id": "71-dodge-challenger",
+    "name": "'71 Dodge Challenger",
+    "description": {
+        "en-us": "'71 Dodge Challenger Debut series 2011 New Models Produced 2011 - Present Designer Phil Riehlman Number T9682",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9682-71-dodge-challenger.json",
+        "data/releases/2011/t9682-71-dodge-challenger-v2.json",
+        "data/releases/2011/t9953-71-dodge-challenger.json",
+        "data/releases/2011/t9996-71-dodge-challenger.json",
+        "data/releases/2011/v5246-71-dodge-challenger.json",
+        "data/releases/2011/x3366-71-dodge-challenger.json",
+        "data/releases/2011/v0582-71-dodge-challenger.json",
+        "data/releases/2011/w4523-71-dodge-challenger.json",
+        "data/releases/2012/w5439-71-dodge-challenger.json",
+        "data/releases/2012/v5385-71-dodge-challenger.json",
+        "data/releases/2012/v5374-71-dodge-challenger.json",
+        "data/releases/2012/v5618-71-dodge-challenger.json",
+        "data/releases/2013/x1800-71-dodge-challenger.json",
+        "data/releases/2013/x1962-71-dodge-challenger.json",
+        "data/releases/2014/bff18-71-dodge-challenger.json",
+        "data/releases/2014/bfv64-71-dodge-challenger.json",
+        "data/releases/2015/cfj05-71-dodge-challenger.json",
+        "data/releases/2015/cfj92-71-dodge-challenger.json",
+        "data/releases/2016/dhr19-71-dodge-challenger.json",
+        "data/releases/2016/dhy06-71-dodge-challenger.json",
+        "data/releases/2022/hdh36-71-dodge-challenger.json",
+        "data/releases/2023/hlk12-71-dodge-challenger.json",
+        "data/releases/2025/hyy79-71-dodge-challenger.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Dodge"
+}

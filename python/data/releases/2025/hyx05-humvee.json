@@ -1,0 +1,24 @@
+{
+    "release_id": "hyx05-humvee-2025",
+    "toy_number": "HYX05",
+    "casting_id": "humvee",
+    "year": 2025,
+    "series_id": "hw-dirt",
+    "series_index": 1,
+    "specs": {
+        "color": "Bright red",
+        "tampo": "Door handle details, Hot Wheels 773 and Hella logos and dashed white stripe on sides. \"HUMVEE\" logo on side skirt. Bilstein logo on rear quarter panel. Solid black stripes and dashed white stripes on roof.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Grey GBLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T41, T45N, T46N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/HYX05.jpg/revision/latest?cb=20250922151658"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "50th-anniversary-throwback",
+    "year": 2018,
+    "name": "50th Anniversary Throwback",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2018/frf33-dmc-delorean.json",
+        "data/releases/2018/frf34-83-chevy-silverado.json",
+        "data/releases/2018/frf44-92-ford-mustang.json"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "muscle-mania",
+    "year": 2024,
+    "name": "Muscle Mania",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2024/hry86-aston-martin-db4gt-high-speed-edition.json",
+        "data/releases/2024/htc57-68-dodge-dart.json",
+        "data/releases/2024/htd65-68-dodge-dart.json"
+    ]
+}

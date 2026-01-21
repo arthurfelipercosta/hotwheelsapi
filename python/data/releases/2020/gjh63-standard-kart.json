@@ -1,0 +1,24 @@
+{
+    "release_id": "gjh63-standard-kart-2020",
+    "toy_number": "GJH63",
+    "casting_id": "standard-kart",
+    "year": 2020,
+    "series_id": "mario-kart",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Toad emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Toad_standard_car.jpg/revision/latest?cb=20220729233445"
+    }
+}

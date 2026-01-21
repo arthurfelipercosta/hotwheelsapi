@@ -1,0 +1,25 @@
+{
+    "release_id": "fkv77-70-chevy-camaro-rs-2018",
+    "toy_number": "FKV77",
+    "casting_id": "70-chevy-camaro-rs",
+    "year": 2018,
+    "series_id": "50th-anniversary-camaro",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "White stripes on hood & roof; Black & White stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K35, K41, K47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/%2770_Camaro_RS_50th.jpg/revision/latest?cb=20180610023953"
+    }
+}

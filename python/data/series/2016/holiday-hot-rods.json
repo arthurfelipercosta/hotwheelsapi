@@ -1,0 +1,11 @@
+{
+    "series_id": "holiday-hot-rods",
+    "year": 2016,
+    "name": "Holiday Hot Rods",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2016/djj64-monster-dairy-delivery.json",
+        "data/releases/2016/djj69-purple-passion.json"
+    ]
+}

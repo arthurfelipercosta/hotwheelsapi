@@ -18,5 +18,7 @@
     },
     "country": "Indonesia",
     "notes": "Base code(s): N47, P02",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/2/20/HW_NIGHT_SHIFTER_Sports_5pack_GRAY.jpg/revision/latest?cb=20210202161219"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/HW_NIGHT_SHIFTER_Sports_5pack_GRAY.jpg/revision/latest?cb=20210202161219"
+    }
 }

@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-daredevils",
+    "year": 2016,
+    "name": "HW Daredevils",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2016/dhp22-cruise-bruiser.json",
+        "data/releases/2016/dhw97-cruise-bruiser.json"
+    ]
+}

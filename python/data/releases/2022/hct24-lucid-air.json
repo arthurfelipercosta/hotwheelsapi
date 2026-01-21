@@ -1,0 +1,24 @@
+{
+    "release_id": "hct24-lucid-air-2022",
+    "toy_number": "HCT24",
+    "casting_id": "lucid-air",
+    "year": 2022,
+    "series_id": "hw-green-speed",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Cosmos Silver",
+        "tampo": "Detailed headlights, taillights and trim",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Ivory",
+        "wheel_type": {
+            "0": "RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): R03, R04, R05, R06, R09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/LucidAir.jpg/revision/latest?cb=20220626122429"
+    }
+}

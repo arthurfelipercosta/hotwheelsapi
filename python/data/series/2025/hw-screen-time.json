@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2025,
+    "name": "HW Screen Time",
+    "total_releases": 9,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2025/hyw26-optimus-prime.json",
+        "data/releases/2025/hyw61-monster-high-ghoul-mobile.json",
+        "data/releases/2025/hyw62-snoopy.json",
+        "data/releases/2025/hyx27-k-i-t-t.json",
+        "data/releases/2025/hyx62-monster-high-ghoul-mobile.json",
+        "data/releases/2025/hyy72-nissan-skyline-gt-r-bnr32.json",
+        "data/releases/2025/hyy82-minecart.json",
+        "data/releases/2025/hyy83-1967-el-camino.json",
+        "data/releases/2025/hyy98-disney-steamboat.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb05-98-honda-prelude-2021",
+    "toy_number": "GTB05",
+    "casting_id": "98-honda-prelude",
+    "year": 2021,
+    "series_id": "hw-j-imports",
+    "series_index": 2,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Honda hood logo & detailed front foglights, detailed taillights & Black Hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "White MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N45, N47, N48, N49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/98_Honda_Prelude_2021.jpg/revision/latest?cb=20210107175646"
+    }
+}

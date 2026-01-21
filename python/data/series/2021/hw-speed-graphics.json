@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-speed-graphics",
+    "year": 2021,
+    "name": "HW Speed Graphics",
+    "total_releases": 9,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2021/grx20-20-toyota-gr-supra.json",
+        "data/releases/2021/grx61-lb-works-lamborghini-hurac-n-coup.json",
+        "data/releases/2021/gry40-2016-ford-gt-race.json",
+        "data/releases/2021/gry46-1985-honda-cr-x.json",
+        "data/releases/2021/gry46-1985-honda-cr-x.json",
+        "data/releases/2021/gtb52-2016-ford-gt-race.json",
+        "data/releases/2021/gtb76-20-toyota-gr-supra.json",
+        "data/releases/2021/gtc57-1985-honda-cr-x.json",
+        "data/releases/2021/hcy48-20-toyota-gr-supra.json"
+    ]
+}

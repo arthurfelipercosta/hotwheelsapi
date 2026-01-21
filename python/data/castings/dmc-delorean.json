@@ -1,0 +1,37 @@
+{
+    "casting_id": "dmc-delorean",
+    "name": "DMC DeLorean",
+    "description": {
+        "en-us": "DMC DeLorean Debut series 2010 New Models Produced 2010 - 2014 (original) 2015 - Present (retool) Designer Manson Cheung Number R0931",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0931-dmc-delorean.json",
+        "data/releases/2010/named-81-delorean-dmc-12-base-code-s-c05-c06-c08-c11-c12-c13-dmc-delorean.json",
+        "data/releases/2010/named-81-delorean-dmc-12-base-code-s-c28-c29-c30-c33-c42-dmc-delorean.json",
+        "data/releases/2011/t9848-dmc-delorean.json",
+        "data/releases/2012/w4600-dmc-delorean.json",
+        "data/releases/2013/y9392-dmc-delorean.json",
+        "data/releases/2014/bfc53-dmc-delorean.json",
+        "data/releases/2014/bff47-dmc-delorean.json",
+        "data/releases/2015/cfh80-dmc-delorean.json",
+        "data/releases/2015/cfj38-dmc-delorean.json",
+        "data/releases/2018/fjw11-dmc-delorean.json",
+        "data/releases/2018/frf33-dmc-delorean.json",
+        "data/releases/2018/fwn23-dmc-delorean.json",
+        "data/releases/2021/hcm79-dmc-delorean.json",
+        "data/releases/2021/gtf34-dmc-delorean.json",
+        "data/releases/2023/hkg84-dmc-delorean.json",
+        "data/releases/2023/hkj65-dmc-delorean.json",
+        "data/releases/2023/hkl62-dmc-delorean.json",
+        "data/releases/2023/hrg98-dmc-delorean.json",
+        "data/releases/2024/htf28-dmc-delorean.json",
+        "data/releases/2025/hyw88-dmc-delorean.json",
+        "data/releases/2025/hyx59-dmc-delorean.json",
+        "data/releases/2025/jbm35-dmc-delorean.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

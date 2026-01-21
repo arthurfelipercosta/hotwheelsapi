@@ -1,0 +1,36 @@
+{
+    "casting_id": "rrroadster",
+    "name": "RRRoadster",
+    "description": {
+        "en-us": "RRRoadster Debut series HW Race: Thrill Racers Produced 2014 - Present Designer Fraser Campbell Number BDD04",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd04-rrroadster.json",
+        "data/releases/2014/bfg53-rrroadster.json",
+        "data/releases/2015/cfk76-rrroadster.json",
+        "data/releases/2015/cfk76-rrroadster-v2.json",
+        "data/releases/2015/cfj37-rrroadster.json",
+        "data/releases/2015/cfj37-rrroadster-v2.json",
+        "data/releases/2016/dht22-rrroadster.json",
+        "data/releases/2017/dtx31-rrroadster.json",
+        "data/releases/2017/dvb22-rrroadster.json",
+        "data/releases/2018/fjw22-rrroadster.json",
+        "data/releases/2018/fkb22-rrroadster.json",
+        "data/releases/2019/fyc64-rrroadster.json",
+        "data/releases/2019/fyf26-rrroadster.json",
+        "data/releases/2020/gjv10-rrroadster.json",
+        "data/releases/2020/x6999-rrroadster.json",
+        "data/releases/2021/gtd95-rrroadster.json",
+        "data/releases/2022/hfv85-rrroadster.json",
+        "data/releases/2022/x6999-rrroadster.json",
+        "data/releases/2023/hlr36-rrroadster.json",
+        "data/releases/2024/hry98-rrroadster.json",
+        "data/releases/2025/hyy69-rrroadster.json",
+        "data/releases/2025/jbb97-rrroadster.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

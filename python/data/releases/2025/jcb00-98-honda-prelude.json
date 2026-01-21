@@ -1,0 +1,33 @@
+{
+    "release_id": "jcb00-98-honda-prelude-2025",
+    "toy_number": "JCB00",
+    "casting_id": "98-honda-prelude",
+    "year": 2025,
+    "series_id": "neon-speeders",
+    "series_index": 1,
+    "specs": {
+        "color": "Matte black",
+        "tampo": "Detailed headlights and taillights, neon yellow and orange graphics, GReddy logos, \"8\" on sides, white Honda logo on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow & Orange NS6",
+            "1": "Detailed headlights",
+            "2": "taillights",
+            "3": "neon yellow",
+            "4": "orange graphics",
+            "5": "GReddy logos",
+            "6": "\"8\" on sides",
+            "7": "Base code(s): U10I",
+            "8": "U11I",
+            "9": "U13I"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+    }
+}

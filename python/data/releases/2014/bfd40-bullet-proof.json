@@ -1,0 +1,25 @@
+{
+    "release_id": "bfd40-bullet-proof-2014",
+    "toy_number": "BFD40",
+    "casting_id": "bullet-proof",
+    "year": 2014,
+    "series_id": "hw-race-x-raycers",
+    "series_index": null,
+    "specs": {
+        "color": "Clear Yellow & Blue",
+        "tampo": "Blue, Green & Silver honeycomb pattern on sides, '40' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Orange Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F35, F37, F41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/Bullet_Proof-2014_171.jpg/revision/latest?cb=20131224222856"
+    }
+}

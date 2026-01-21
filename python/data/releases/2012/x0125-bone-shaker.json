@@ -1,0 +1,27 @@
+{
+    "release_id": "x0125-bone-shaker-2012",
+    "toy_number": "X0125",
+    "casting_id": "bone-shaker",
+    "year": 2012,
+    "series_id": "team-hot-wheels-high-speed-wheel",
+    "series_index": null,
+    "specs": {
+        "color": "Satin Black",
+        "tampo": "Yellow & Red Flames; \"Hot Wheels\" logo drivers side; skull passenger side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red HSW",
+            "1": "Blue HSW",
+            "2": "Base code(s): D49",
+            "3": "E20"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Bone_shaker_hsw.png/revision/latest?cb=20120108043009"
+    }
+}

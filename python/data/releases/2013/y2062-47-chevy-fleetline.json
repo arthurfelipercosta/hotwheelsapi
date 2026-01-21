@@ -1,0 +1,24 @@
+{
+    "release_id": "y2062-47-chevy-fleetline-2013",
+    "toy_number": "Y2062",
+    "casting_id": "47-chevy-fleetline",
+    "year": 2013,
+    "series_id": "jukebox",
+    "series_index": 6,
+    "specs": {
+        "color": "Metalflake Dark Red w/ Black fender",
+        "tampo": "Silver trim, Gold, Black & Beige graphics, 'Swing with Hot Wheels Big Band' on sides, pinstripes on hood & roof, dancing couple on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "WSP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F12, F17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/%2747_Chevy_Fleetline.jpg/revision/latest?cb=20131224033020"
+    }
+}

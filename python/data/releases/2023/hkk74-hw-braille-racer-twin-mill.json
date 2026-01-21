@@ -1,0 +1,25 @@
+{
+    "release_id": "hkk74-hw-braille-racer-twin-mill-2023",
+    "toy_number": "HKK74",
+    "casting_id": "hw-braille-racer-twin-mill",
+    "year": 2023,
+    "series_id": "experimotors",
+    "series_index": 4,
+    "specs": {
+        "color": "ZAMAC",
+        "tampo": "Gray racing stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Gray OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "National Federation of the Blind New Model Base code(s): S08, S10, S13, S14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/ZAMACBrailleTwinMill.jpg/revision/latest?cb=20230323054612"
+    }
+}

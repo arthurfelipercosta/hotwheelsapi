@@ -1,0 +1,24 @@
+{
+    "release_id": "bff18-71-dodge-challenger-2014",
+    "toy_number": "BFF18",
+    "casting_id": "71-dodge-challenger",
+    "year": 2014,
+    "series_id": "hw-workshop-hw-performance",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black hood, Black stripes on sides, 'Hotchkis' on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G07, G11, G12, G14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/%2771_Dodge_Challenger-2014_243.jpg/revision/latest?cb=20140517141321"
+    }
+}

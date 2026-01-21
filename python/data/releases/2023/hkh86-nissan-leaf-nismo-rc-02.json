@@ -1,0 +1,25 @@
+{
+    "release_id": "hkh86-nissan-leaf-nismo-rc-02-2023",
+    "toy_number": "HKH86",
+    "casting_id": "nissan-leaf-nismo-rc-02",
+    "year": 2023,
+    "series_id": "hw-modified",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "Detailed headlights and grille, matte black stripe on sides, \"NISSAN\" on front fender, sides, and rear wing, \"nismo\" on front grille, front fender, and rear wing",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/Nissan_Leaf_NISMO_RC_Red.jpg/revision/latest?cb=20250711132143"
+    }
+}

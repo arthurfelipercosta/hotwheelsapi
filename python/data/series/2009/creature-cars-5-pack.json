@@ -1,0 +1,11 @@
+{
+    "series_id": "creature-cars-5-pack",
+    "year": 2009,
+    "name": "Creature Cars 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2009/n4070-8-crate.json",
+        "data/releases/2009/n4070-la-troca.json"
+    ]
+}

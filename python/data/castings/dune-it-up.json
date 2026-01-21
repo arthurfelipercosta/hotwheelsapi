@@ -1,0 +1,28 @@
+{
+    "casting_id": "dune-it-up",
+    "name": "Dune It Up",
+    "description": {
+        "en-us": "Dune It Up Debut series 2009 New Models Produced 2009 - Present Designer Phil Riehlman Number N4023",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4023-dune-it-up.json",
+        "data/releases/2009/n4023-dune-it-up-v2.json",
+        "data/releases/2010/r7497-dune-it-up.json",
+        "data/releases/2011/t8639-dune-it-up.json",
+        "data/releases/2012/x0143-dune-it-up.json",
+        "data/releases/2012/w4250-dune-it-up.json",
+        "data/releases/2013/x1729-dune-it-up.json",
+        "data/releases/2015/cdt24-dune-it-up.json",
+        "data/releases/2017/dty59-dune-it-up.json",
+        "data/releases/2017/dvc24-dune-it-up.json",
+        "data/releases/2020/ghb88-dune-it-up.json",
+        "data/releases/2020/ghf87-dune-it-up.json",
+        "data/releases/2025/hyx35-dune-it-up.json",
+        "data/releases/2025/hyx87-dune-it-up.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

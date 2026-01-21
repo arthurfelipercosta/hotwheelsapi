@@ -1,0 +1,19 @@
+{
+    "casting_id": "monster-high-ghoul-mobile",
+    "name": "Monster High Ghoul Mobile",
+    "description": {
+        "en-us": "Monster High Ghoul Mobile Debut series HW Screen Time Produced 2024 – Present Designer Fraser Campbell Number HRY45",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry45-monster-high-ghoul-mobile.json",
+        "data/releases/2024/htc80-monster-high-ghoul-mobile.json",
+        "data/releases/2025/hyw61-monster-high-ghoul-mobile.json",
+        "data/releases/2025/hyx62-monster-high-ghoul-mobile.json",
+        "data/releases/2026/jjj19-monster-high-ghoul-mobile.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

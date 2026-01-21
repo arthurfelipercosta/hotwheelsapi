@@ -18,5 +18,7 @@
     },
     "country": "Indonesia",
     "notes": "Base code(s): K43, L02, L16",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/9/99/L9938-25_%2708_Lancer_Evolution.jpg/revision/latest?cb=20180206065908"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/L9938-25_%2708_Lancer_Evolution.jpg/revision/latest?cb=20180206065908"
+    }
 }

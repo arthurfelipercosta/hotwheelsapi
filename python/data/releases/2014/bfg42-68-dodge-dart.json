@@ -1,0 +1,25 @@
+{
+    "release_id": "bfg42-68-dodge-dart-2014",
+    "toy_number": "BFG42",
+    "casting_id": "68-dodge-dart",
+    "year": 2014,
+    "series_id": "hw-workshop-heat-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Navy Blue",
+        "tampo": "Orange flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Light Blue)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G22, G24, G30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/Dodge_Dart.jpg/revision/latest?cb=20141231193927"
+    }
+}

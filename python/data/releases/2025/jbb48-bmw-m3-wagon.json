@@ -1,0 +1,24 @@
+{
+    "release_id": "jbb48-bmw-m3-wagon-2025",
+    "toy_number": "JBB48",
+    "casting_id": "bmw-m3-wagon",
+    "year": 2025,
+    "series_id": "hw-wagons",
+    "series_index": 5,
+    "specs": {
+        "color": "Green",
+        "tampo": "Gold accents, white hexagons, \"TEAM HW\", \"91\", Castrol logo, \" FC \", \" ANDRIEU \", \"STANLEY\" on sides, Hot Wheels logo on rear fender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U28N, U31N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/68/M3WagonGreen.jpg/revision/latest?cb=20250924101328"
+    }
+}

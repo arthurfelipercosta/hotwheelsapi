@@ -1,0 +1,29 @@
+{
+    "release_id": "r0916-67-shelby-gt500-2010",
+    "toy_number": "R0916",
+    "casting_id": "67-shelby-gt500",
+    "year": 2010,
+    "series_id": "2010-new-models",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "White stripes across top & on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "001",
+            "2": "214",
+            "3": "2010",
+            "4": "2010 HW Premiere 1",
+            "5": "52"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B20, B31, B32, B33, B34, B35, B37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/67_Shelby_GT500_-_2010_NM.jpg/revision/latest?cb=20090913235854"
+    }
+}

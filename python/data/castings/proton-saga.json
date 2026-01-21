@@ -1,0 +1,17 @@
+{
+    "casting_id": "proton-saga",
+    "name": "Proton Saga",
+    "description": {
+        "en-us": "Proton Saga Debut series Compact Kings Produced 2024 – Present Designer Fraser Campbell Number HRY46",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry46-proton-saga.json",
+        "data/releases/2024/aa050-proton-saga.json",
+        "data/releases/2025/hyw90-proton-saga.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

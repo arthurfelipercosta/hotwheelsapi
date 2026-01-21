@@ -1,0 +1,11 @@
+{
+    "series_id": "american-pickup",
+    "year": 2019,
+    "name": "American Pickup",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2019/gbc10-83-chevy-silverado.json",
+        "data/releases/2019/gbc11-70-dodge-power-wagon.json"
+    ]
+}

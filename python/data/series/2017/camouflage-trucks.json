@@ -1,0 +1,12 @@
+{
+    "series_id": "camouflage-trucks",
+    "year": 2017,
+    "name": "Camouflage Trucks",
+    "total_releases": 3,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2017/dfw43-83-chevy-silverado.json",
+        "data/releases/2017/dwf41-humvee.json",
+        "data/releases/2017/dwf45-blazer-4-4.json"
+    ]
+}

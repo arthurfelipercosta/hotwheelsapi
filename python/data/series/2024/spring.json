@@ -1,0 +1,10 @@
+{
+    "series_id": "spring",
+    "year": 2024,
+    "name": "Spring",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2024/hvx23-subaru-impreza.json"
+    ]
+}

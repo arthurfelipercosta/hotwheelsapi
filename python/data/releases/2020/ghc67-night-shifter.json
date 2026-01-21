@@ -24,5 +24,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s):",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/9/94/012-_Night_Shifter.jpg/revision/latest?cb=20191002001131"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/012-_Night_Shifter.jpg/revision/latest?cb=20191002001131"
+    }
 }

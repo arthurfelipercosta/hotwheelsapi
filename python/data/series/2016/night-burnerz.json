@@ -1,0 +1,13 @@
+{
+    "series_id": "night-burnerz",
+    "year": 2016,
+    "name": "Night Burnerz",
+    "total_releases": 4,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2016/dhp05-15-mazda-mx-5-miata.json",
+        "data/releases/2016/dhr05-1985-honda-cr-x.json",
+        "data/releases/2016/dhx24-1985-honda-cr-x.json",
+        "data/releases/2016/dwh81-69-corvette-racer.json"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "mystery-models",
+    "year": 2012,
+    "name": "Mystery Models",
+    "total_releases": 2,
+    "max_index": 12,
+    "releases": [
+        "data/releases/2012/x7060-92-ford-mustang.json",
+        "data/releases/2012/x7060-fish-d-chip-d.json"
+    ]
+}

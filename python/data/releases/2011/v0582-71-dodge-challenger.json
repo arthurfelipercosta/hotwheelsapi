@@ -1,0 +1,24 @@
+{
+    "release_id": "v0582-71-dodge-challenger-2011",
+    "toy_number": "V0582",
+    "casting_id": "71-dodge-challenger",
+    "year": 2011,
+    "series_id": "color-shifters-glow",
+    "series_index": null,
+    "specs": {
+        "color": "Glow-in-the-Dark",
+        "tampo": "White Flames, Green Lantern symbol on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/2011_Color_Shifters_Glow.png/revision/latest?cb=20250612041001"
+    }
+}

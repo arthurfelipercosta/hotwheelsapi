@@ -1,0 +1,24 @@
+{
+    "release_id": "gdf95-standard-kart-2019",
+    "toy_number": "GDF95",
+    "casting_id": "standard-kart",
+    "year": 2019,
+    "series_id": "san-diego-comic-con",
+    "series_index": null,
+    "specs": {
+        "color": "Gold",
+        "tampo": "Gold Mario emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Gold_Mario_Glider.jpg/revision/latest?cb=20220809205916"
+    }
+}

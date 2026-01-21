@@ -2,9 +2,12 @@
     "series_id": "team-hot-wheels-high-speed-wheel",
     "year": 2012,
     "name": "Team Hot Wheels High-Speed Wheel",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/x0135-custom-12-ford-mustang.json"
+        "data/releases/2012/bbf69-monster-dairy-delivery.json",
+        "data/releases/2012/x0125-bone-shaker.json",
+        "data/releases/2012/x0135-custom-12-ford-mustang.json",
+        "data/releases/2012/x0143-dune-it-up.json"
     ]
 }

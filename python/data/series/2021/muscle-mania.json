@@ -1,0 +1,13 @@
+{
+    "series_id": "muscle-mania",
+    "year": 2021,
+    "name": "Muscle Mania",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2021/gtb43-87-buick-regal-gnx.json",
+        "data/releases/2021/gtb45-67-ford-mustang-coupe.json",
+        "data/releases/2021/gtc15-67-ford-mustang-coupe.json",
+        "data/releases/2021/gtd44-87-buick-regal-gnx.json"
+    ]
+}

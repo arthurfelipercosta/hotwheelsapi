@@ -1,0 +1,25 @@
+{
+    "release_id": "jbb66-datsun-240z-2025",
+    "toy_number": "JBB66",
+    "casting_id": "datsun-240z",
+    "year": 2025,
+    "series_id": "hw-art-cars",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Pink",
+        "tampo": "Cherry blossom branches on hood and sides, white accent striping, Hot Wheels logo on rear quarterpanel, \"T\" on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Blue lip",
+            "1": "black J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U20N, U21N, U22N, U25N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Sakura240Z.jpg/revision/latest?cb=20250619115811"
+    }
+}

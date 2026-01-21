@@ -1,0 +1,13 @@
+{
+    "series_id": "ultra-hots",
+    "year": 2024,
+    "name": "Ultra Hots",
+    "total_releases": 4,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2024/hrx01-triumph-tr6.json",
+        "data/releases/2024/hrx04-mazda-repu.json",
+        "data/releases/2024/hrx08-64-dodge-330.json",
+        "data/releases/2024/hrx13-85-honda-city-turbo-ii.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "jbb33-king-kuda-2025",
+    "toy_number": "JBB33",
+    "casting_id": "king-kuda",
+    "year": 2025,
+    "series_id": "muscle-mania",
+    "series_index": 6,
+    "specs": {
+        "color": "Green",
+        "tampo": "Black racing stripes around the body, with Hot Wheels, Bell, Hurst, Edelbrock and Goodyear logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U16N, U17N, U19N, U20N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/KingKuda.jpg/revision/latest?cb=20250604131646"
+    }
+}

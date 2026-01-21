@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-stars-stripes",
+    "year": 2022,
+    "name": "HW Stars & Stripes",
+    "total_releases": 2,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2022/hdh34-custom-56-ford-truck.json",
+        "data/releases/2022/hdh36-71-dodge-challenger.json"
+    ]
+}

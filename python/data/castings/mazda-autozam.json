@@ -1,0 +1,19 @@
+{
+    "casting_id": "mazda-autozam",
+    "name": "Mazda Autozam",
+    "description": {
+        "en-us": "Mazda Autozam Debut series HW Dream Garage Produced 2024 – Present Designer Craig Meaux and Manson Cheung Number HRY51",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry51-mazda-autozam.json",
+        "data/releases/2024/htc86-mazda-autozam.json",
+        "data/releases/2025/hyw66-mazda-autozam.json",
+        "data/releases/2025/hyy10-mazda-autozam.json",
+        "data/releases/2025/hyx45-mazda-autozam.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mazda"
+}

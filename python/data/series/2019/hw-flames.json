@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-flames",
+    "year": 2019,
+    "name": "HW Flames",
+    "total_releases": 7,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2019/fyc36-69-dodge-charger-daytona.json",
+        "data/releases/2019/fyc38-70-chevelle-ss-wagon.json",
+        "data/releases/2019/fyc43-71-mustang-funny-car.json",
+        "data/releases/2019/fyc44-67-chevy-c10.json",
+        "data/releases/2019/fyf14-70-chevelle-ss-wagon.json",
+        "data/releases/2019/fyg46-71-mustang-funny-car.json",
+        "data/releases/2019/ghg50-69-dodge-charger-daytona.json"
+    ]
+}

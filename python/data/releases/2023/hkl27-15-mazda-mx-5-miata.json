@@ -1,0 +1,25 @@
+{
+    "release_id": "hkl27-15-mazda-mx-5-miata-2023",
+    "toy_number": "HKL27",
+    "casting_id": "15-mazda-mx-5-miata",
+    "year": 2023,
+    "series_id": "hw-modified",
+    "series_index": 5,
+    "specs": {
+        "color": "ZAMAC",
+        "tampo": "White, Red, and Gray stripes on hood and sides. #27 \"Zamac\" and \"MAZDA\" on hood and sides. \"sparco\", \"GReddy\", and HW logo on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red Chrome rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Walmart Exclusive Base code(s): S05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/15_Mazda_MX-5_Miata_Zamac_loose.JPG/revision/latest?cb=20230926123809"
+    }
+}

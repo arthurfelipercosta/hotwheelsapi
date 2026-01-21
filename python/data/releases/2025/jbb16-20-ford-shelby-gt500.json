@@ -1,0 +1,24 @@
+{
+    "release_id": "jbb16-20-ford-shelby-gt500-2025",
+    "toy_number": "JBB16",
+    "casting_id": "20-ford-shelby-gt500",
+    "year": 2025,
+    "series_id": "mustang-60th",
+    "series_index": 2,
+    "specs": {
+        "color": "Code Orange",
+        "tampo": "Black and silver stripes on sides, hood, and roof, \"SHELBY\", Ford logo, and Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "G10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T41, T42, T44, T45, T46, T50N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/20250117_120749.jpg/revision/latest?cb=20250119093624"
+    }
+}

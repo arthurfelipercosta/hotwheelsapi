@@ -1,0 +1,23 @@
+{
+    "casting_id": "16-lamborghini-centenario-roadster",
+    "name": "'16 Lamborghini Centenario Roadster",
+    "description": {
+        "en-us": "'16 Lamborghini Centenario Roadster Debut series HW Exotics Produced 2019 - Present Designer Ryu Asada Number FYB38",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb38-16-lamborghini-centenario-roadster.json",
+        "data/releases/2020/ghc73-16-lamborghini-centenario-roadster.json",
+        "data/releases/2020/gln67-16-lamborghini-centenario-roadster.json",
+        "data/releases/2020/hbf91-16-lamborghini-centenario-roadster.json",
+        "data/releases/2021/x6999-16-lamborghini-centenario-roadster.json",
+        "data/releases/2022/x6999-16-lamborghini-centenario-roadster.json",
+        "data/releases/2024/x6999-16-lamborghini-centenario-roadster.json",
+        "data/releases/2026/jjh80-16-lamborghini-centenario-roadster.json",
+        "data/releases/2026/jjm49-16-lamborghini-centenario-roadster.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Lamborghini"
+}

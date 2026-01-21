@@ -1,0 +1,12 @@
+{
+    "series_id": "muscle-mania",
+    "year": 2018,
+    "name": "Muscle Mania",
+    "total_releases": 3,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2018/fjv42-track-ripper.json",
+        "data/releases/2018/fjx79-70-dodge-hemi-challenger.json",
+        "data/releases/2018/fkb12-track-ripper.json"
+    ]
+}

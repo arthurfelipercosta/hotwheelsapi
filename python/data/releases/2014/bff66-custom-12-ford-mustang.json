@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s):",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/1/16/Custom_%2712_Ford_Mustang_%28BFF66%29.jpg/revision/latest?cb=20170929020241"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/Custom_%2712_Ford_Mustang_%28BFF66%29.jpg/revision/latest?cb=20170929020241"
+    }
 }

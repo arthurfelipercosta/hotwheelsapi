@@ -1,0 +1,25 @@
+{
+    "release_id": "jbl19-porsche-911-carrera-rs-2-7-2025",
+    "toy_number": "JBL19",
+    "casting_id": "porsche-911-carrera-rs-2-7",
+    "year": 2025,
+    "series_id": "hot-wheels-boulevard-121",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "Detailed headlights and trim, \"Carrera\" with red stripe on sides, \"PORSCHE\" with red stripe and \"Carrera RS\" on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome lip",
+            "1": "red RRLW5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): U03A, U05A, U06A, U07A, U10A, U13A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/1973PorscheCarrera.jpg/revision/latest?cb=20250414080718"
+    }
+}

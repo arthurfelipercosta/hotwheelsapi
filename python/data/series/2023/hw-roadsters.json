@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-roadsters",
+    "year": 2023,
+    "name": "HW Roadsters",
+    "total_releases": 4,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hkh37-17-pagani-huayra-roadster.json",
+        "data/releases/2023/hkh39-max-steel.json",
+        "data/releases/2023/hkk08-17-pagani-huayra-roadster.json",
+        "data/releases/2023/hkl23-17-pagani-huayra-roadster.json"
+    ]
+}

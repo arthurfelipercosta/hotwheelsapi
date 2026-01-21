@@ -1,0 +1,16 @@
+{
+    "casting_id": "feline-lucky",
+    "name": "Feline Lucky",
+    "description": {
+        "en-us": "Feline Lucky Debut series HW Celebration Racers Produced 2025 – Present Designer Bryan Zhao Number HYW52",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw52-feline-lucky.json",
+        "data/releases/2026/jjj54-feline-lucky.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

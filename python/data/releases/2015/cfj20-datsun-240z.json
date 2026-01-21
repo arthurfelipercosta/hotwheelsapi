@@ -1,0 +1,25 @@
+{
+    "release_id": "cfj20-datsun-240z-2015",
+    "toy_number": "CFJ20",
+    "casting_id": "datsun-240z",
+    "year": 2015,
+    "series_id": "hw-workshop-then-and-now",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "Blue & Gold stripes on sides & hood, '24' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Copper Lip MC5",
+            "1": "Smoke tint"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G40, G41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/240z_bk_2015.JPG/revision/latest?cb=20150111082957"
+    }
+}

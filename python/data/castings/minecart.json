@@ -1,0 +1,23 @@
+{
+    "casting_id": "minecart",
+    "name": "Minecart",
+    "description": {
+        "en-us": "Minecart Debut series HW Ride-Ons Produced 2016 - Present Designer Bryan Benedict Number DPR89",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dpr89-minecart.json",
+        "data/releases/2016/fbm73-fbm79-minecart.json",
+        "data/releases/2016/dpw28-minecart.json",
+        "data/releases/2017/dtx32-minecart.json",
+        "data/releases/2019/fyc96-minecart.json",
+        "data/releases/2021/grx95-minecart.json",
+        "data/releases/2022/hcv00-minecart.json",
+        "data/releases/2024/htb38-minecart.json",
+        "data/releases/2025/hyy82-minecart.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s):",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/4/48/Lancer_10pack.JPG/revision/latest?cb=20091220124630"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/Lancer_10pack.JPG/revision/latest?cb=20091220124630"
+    }
 }

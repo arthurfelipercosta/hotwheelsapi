@@ -1,0 +1,24 @@
+{
+    "release_id": "hkk02-ford-mustang-mach-e-1400-2023",
+    "toy_number": "HKK02",
+    "casting_id": "ford-mustang-mach-e-1400",
+    "year": 2023,
+    "series_id": "hw-drag-strip",
+    "series_index": 2,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Light Blue and Silver stripes on hood, roof, and sides, \"FORD PERFORMANCE\" on hood and sides, \"RTR\" and Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Dark Gray Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S13, S14, S17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/HKK02-LOOSE.jpg/revision/latest?cb=20230729083351"
+    }
+}

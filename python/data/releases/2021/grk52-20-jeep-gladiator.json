@@ -1,0 +1,24 @@
+{
+    "release_id": "grk52-20-jeep-gladiator-2021",
+    "toy_number": "GRK52",
+    "casting_id": "20-jeep-gladiator",
+    "year": 2021,
+    "series_id": "fast-furious-furious-fleet",
+    "series_index": 4,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Detailed headlights, taillights and reflectors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR8DOT"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Modified casting Base code(s): P31, P34, P37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/F9JeepGladiator.jpg/revision/latest?cb=20211217030727"
+    }
+}

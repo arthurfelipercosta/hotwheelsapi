@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-modified",
+    "year": 2023,
+    "name": "HW Modified",
+    "total_releases": 6,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2023/hkh84-2018-bentley-continental-gt3.json",
+        "data/releases/2023/hkh86-nissan-leaf-nismo-rc-02.json",
+        "data/releases/2023/hkh87-15-mazda-mx-5-miata.json",
+        "data/releases/2023/hkk50-nissan-leaf-nismo-rc-02.json",
+        "data/releases/2023/hkl27-15-mazda-mx-5-miata.json",
+        "data/releases/2023/hkl45-2018-bentley-continental-gt3.json"
+    ]
+}

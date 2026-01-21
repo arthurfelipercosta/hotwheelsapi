@@ -18,5 +18,7 @@
     },
     "country": "Indonesia",
     "notes": "Base code(s): L05, L17",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/4/42/04bullred.jpg/revision/latest?cb=20180408225200"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/04bullred.jpg/revision/latest?cb=20180408225200"
+    }
 }

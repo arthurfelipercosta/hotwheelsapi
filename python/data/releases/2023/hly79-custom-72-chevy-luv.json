@@ -1,0 +1,24 @@
+{
+    "release_id": "hly79-custom-72-chevy-luv-2023",
+    "toy_number": "HLY79",
+    "casting_id": "custom-72-chevy-luv",
+    "year": 2023,
+    "series_id": "hw-exposed-engines-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Purple",
+        "tampo": "White, black and yellow stripe on sides, yellow Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome rim PR5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): S33, S38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/ChevyLuv.jpg/revision/latest?cb=20231123013917"
+    }
+}

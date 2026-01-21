@@ -1,0 +1,14 @@
+{
+    "brand_id": "tesla",
+    "name": "Tesla",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/tesla-cyberquad.json",
+        "data/castings/tesla-model-s-plaid.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Tesla vehicles.",
+        "pt-br": "Fabricante de veículos Tesla."
+    }
+}

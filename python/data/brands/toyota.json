@@ -1,0 +1,15 @@
+{
+    "brand_id": "toyota",
+    "name": "Toyota",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/toyota-gr86-cup.json",
+        "data/castings/20-toyota-gr-supra.json",
+        "data/castings/toyota-prius-custom.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Toyota vehicles.",
+        "pt-br": "Fabricante de veículos Toyota."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "muscle-mania-ford",
+    "year": 2012,
+    "name": "Muscle Mania - Ford",
+    "total_releases": 3,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2012/v5373-67-ford-mustang-coupe.json",
+        "data/releases/2012/v5419-67-ford-mustang-coupe.json",
+        "data/releases/2012/v5606-67-ford-mustang-coupe.json"
+    ]
+}

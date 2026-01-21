@@ -1,0 +1,27 @@
+{
+    "casting_id": "super-volt",
+    "name": "Super Volt",
+    "description": {
+        "en-us": "Super Volt Debut series HW City: Street Power Produced 2015 - Present Designer Ryu Asada Number CFH08",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh08-super-volt.json",
+        "data/releases/2015/cfl20-super-volt.json",
+        "data/releases/2016/dht30-super-volt.json",
+        "data/releases/2016/dhx46-super-volt.json",
+        "data/releases/2017/x6999-super-volt.json",
+        "data/releases/2018/fkx34-super-volt.json",
+        "data/releases/2018/x6999-super-volt.json",
+        "data/releases/2020/x6999-super-volt.json",
+        "data/releases/2021/gtf23-super-volt.json",
+        "data/releases/2022/x6999-super-volt.json",
+        "data/releases/2023/x6999-super-volt.json",
+        "data/releases/2024/x6999-super-volt.json",
+        "data/releases/2025/hyy99-super-volt.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

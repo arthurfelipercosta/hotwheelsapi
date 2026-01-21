@@ -1,0 +1,18 @@
+{
+    "brand_id": "nissan",
+    "name": "Nissan",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/nissan-skyline-2000gt-r-lbwk.json",
+        "data/castings/nissan-skyline-gt-r-bnr32.json",
+        "data/castings/nissan-leaf-nismo-rc-02.json",
+        "data/castings/nissan-skyline-gt-r-bcnr33.json",
+        "data/castings/2023-nissan-z.json",
+        "data/castings/nissan-skyline-2000gt-r.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Nissan vehicles.",
+        "pt-br": "Fabricante de veículos Nissan."
+    }
+}

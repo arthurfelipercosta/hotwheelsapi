@@ -1,0 +1,15 @@
+{
+    "series_id": "muscle-mania",
+    "year": 2019,
+    "name": "Muscle Mania",
+    "total_releases": 6,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2019/fyb67-custom-18-ford-mustang-gt.json",
+        "data/releases/2019/fyb68-rodger-dodger-2-0.json",
+        "data/releases/2019/fyd09-king-kuda.json",
+        "data/releases/2019/fyf87-custom-18-ford-mustang-gt.json",
+        "data/releases/2019/fyf88-rodger-dodger-2-0.json",
+        "data/releases/2019/fyg75-king-kuda.json"
+    ]
+}

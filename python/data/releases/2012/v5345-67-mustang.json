@@ -1,0 +1,25 @@
+{
+    "release_id": "v5345-67-mustang-2012",
+    "toy_number": "V5345",
+    "casting_id": "67-mustang",
+    "year": 2012,
+    "series_id": "treasure-hunts",
+    "series_index": 7,
+    "specs": {
+        "color": "Silver & Black",
+        "tampo": "White & Blue stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Dark Gray",
+        "wheel_type": {
+            "0": "Blue rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/2012_V5345_TH_67_Custom_Mustang.jpg/revision/latest?cb=20130516134159"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-celebration-racers",
+    "year": 2025,
+    "name": "HW Celebration Racers",
+    "total_releases": 10,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2025/hyw52-feline-lucky.json",
+        "data/releases/2025/hyw80-twin-mill-gen-e.json",
+        "data/releases/2025/hyx01-69-corvette-racer.json",
+        "data/releases/2025/hyx20-1974-brazilian-dodge-charger.json",
+        "data/releases/2025/hyx42-mattel-dream-mobile.json",
+        "data/releases/2025/hyy67-hw-formula-solar.json",
+        "data/releases/2025/jbb37-layin-lowrider.json",
+        "data/releases/2025/jbb43-custom-56-ford-truck.json",
+        "data/releases/2025/jbb46-mo-stash.json",
+        "data/releases/2025/jbc26-birthday-burner.json"
+    ]
+}

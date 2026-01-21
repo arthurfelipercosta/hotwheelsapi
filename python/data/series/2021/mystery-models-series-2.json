@@ -2,10 +2,11 @@
     "series_id": "mystery-models-series-2",
     "year": 2021,
     "name": "Mystery Models (Series 2)",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 10,
     "releases": [
         "data/releases/2021/gtf15-futurismo.json",
+        "data/releases/2021/gtf19-electro-silhouette.json",
         "data/releases/2021/gtf20-formula-flashback.json"
     ]
 }

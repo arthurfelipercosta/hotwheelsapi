@@ -1,0 +1,24 @@
+{
+    "release_id": "w5439-71-dodge-challenger-2012",
+    "toy_number": "W5439",
+    "casting_id": "71-dodge-challenger",
+    "year": 2012,
+    "series_id": "light-speeders",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Black pinstripes, silver Light Speeders logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow Tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): E01, E04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/2012lightspeederschallenger.jpg/revision/latest?cb=20211226175723"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "holiday-rods",
+    "year": 2005,
+    "name": "Holiday Rods",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2005/j5408-47-chevy-fleetline.json",
+        "data/releases/2005/j5408-47-chevy-fleetline.json",
+        "data/releases/2005/j5408-47-chevy-fleetline.json",
+        "data/releases/2005/j5408-47-chevy-fleetline.json",
+        "data/releases/2005/j5408-47-chevy-fleetline.json"
+    ]
+}

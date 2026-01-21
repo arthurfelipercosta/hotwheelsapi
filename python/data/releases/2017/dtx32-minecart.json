@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx32-minecart-2017",
+    "toy_number": "DTX32",
+    "casting_id": "minecart",
+    "year": 2017,
+    "series_id": "hw-screen-time",
+    "series_index": 4,
+    "specs": {
+        "color": "Light Grey",
+        "tampo": "Light, Medium and Dark Grey blocks",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Black OH5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Minecart_DTX32.png/revision/latest?cb=20170409203943"
+    }
+}

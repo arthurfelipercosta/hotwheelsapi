@@ -1,0 +1,24 @@
+{
+    "release_id": "bff21-70-chevelle-ss-wagon-2014",
+    "toy_number": "BFF21",
+    "casting_id": "70-chevelle-ss-wagon",
+    "year": 2014,
+    "series_id": "hw-workshop-hw-performance",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Gold stripes, Hurst logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gold",
+        "wheel_type": {
+            "0": "Gold 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F38, F41, F43, F44, F45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/70_Chevelle_SS_Wagon_%28BFF21%29_01.jpg/revision/latest?cb=20170914000950"
+    }
+}

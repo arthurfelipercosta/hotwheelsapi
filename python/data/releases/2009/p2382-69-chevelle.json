@@ -1,0 +1,24 @@
+{
+    "release_id": "p2382-69-chevelle-2009",
+    "toy_number": "P2382",
+    "casting_id": "69-chevelle",
+    "year": 2009,
+    "series_id": "track-stars",
+    "series_index": 8,
+    "specs": {
+        "color": "Clear blue",
+        "tampo": "White Tribal Graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gold",
+        "wheel_type": {
+            "0": "Gold OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/69chevellexracer.jpg/revision/latest?cb=20090916153940"
+    }
+}

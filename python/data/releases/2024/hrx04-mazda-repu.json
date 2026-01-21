@@ -1,0 +1,24 @@
+{
+    "release_id": "hrx04-mazda-repu-2024",
+    "toy_number": "HRX04",
+    "casting_id": "mazda-repu",
+    "year": 2024,
+    "series_id": "ultra-hots",
+    "series_index": 5,
+    "specs": {
+        "color": "Spectraflame aqua",
+        "tampo": "Detailed headlights and taillights, black stripes, \"Hot Wheels\" logo and afterburner flame livery on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "UH"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S44, S48, S49, S50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/UltraHotsRepu2024.jpg/revision/latest?cb=20241206054140"
+    }
+}

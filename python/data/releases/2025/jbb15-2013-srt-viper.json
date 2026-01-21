@@ -1,0 +1,24 @@
+{
+    "release_id": "jbb15-2013-srt-viper-2025",
+    "toy_number": "JBB15",
+    "casting_id": "2013-srt-viper",
+    "year": 2025,
+    "series_id": "then-and-now",
+    "series_index": 6,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights, Dodge badge on nose, blue racing stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U16N, U18N, U19N, U20N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/2013SRTViper.jpg/revision/latest?cb=20250607094156"
+    }
+}

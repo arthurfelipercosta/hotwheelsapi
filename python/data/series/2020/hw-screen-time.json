@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2020,
+    "name": "HW Screen Time",
+    "total_releases": 1,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2020/ghc81-snoopy.json"
+    ]
+}

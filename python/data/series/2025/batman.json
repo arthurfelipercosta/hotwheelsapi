@@ -1,0 +1,20 @@
+{
+    "series_id": "batman",
+    "year": 2025,
+    "name": "Batman",
+    "total_releases": 11,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2025/hyw57-1966-bat-boat.json",
+        "data/releases/2025/hyw60-batman-robin-batmobile.json",
+        "data/releases/2025/hyx04-arkham-asylum-batmobile.json",
+        "data/releases/2025/hyx44-tv-series-batmobile.json",
+        "data/releases/2025/hyx61-batman-robin-batmobile.json",
+        "data/releases/2025/hyx81-arkham-asylum-batmobile.json",
+        "data/releases/2025/hyy05-tv-series-batmobile.json",
+        "data/releases/2025/hyy81-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2025/jby17-classic-tv-series-batmobile.json",
+        "data/releases/2025/jby18-arkham-asylum-batmobile.json",
+        "data/releases/2025/jby23-the-brave-and-the-bold-batmobile.json"
+    ]
+}

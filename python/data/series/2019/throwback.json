@@ -1,0 +1,14 @@
+{
+    "series_id": "throwback",
+    "year": 2019,
+    "name": "Throwback",
+    "total_releases": 5,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2019/gbb87-bone-shaker.json",
+        "data/releases/2019/gbb90-85-honda-city-turbo-ii.json",
+        "data/releases/2019/gbb98-64-impala.json",
+        "data/releases/2019/gbb99-humvee.json",
+        "data/releases/2019/gbc00-73-pontiac-firebird.json"
+    ]
+}

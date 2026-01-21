@@ -1,0 +1,14 @@
+{
+    "series_id": "fire-rods",
+    "year": 2009,
+    "name": "Fire Rods",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2009/n9020-rodger-dodger.json",
+        "data/releases/2009/n9021-59-chevy-bel-air.json",
+        "data/releases/2009/n9034-83-chevy-silverado.json",
+        "data/releases/2009/n9039-humvee.json",
+        "data/releases/2009/n9043-la-troca.json"
+    ]
+}

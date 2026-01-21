@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-green-speed",
+    "year": 2022,
+    "name": "HW Green Speed",
+    "total_releases": 8,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hct06-ford-mustang-mach-e-1400.json",
+        "data/releases/2022/hct24-lucid-air.json",
+        "data/releases/2022/hct78-nissan-leaf-nismo-rc-02.json",
+        "data/releases/2022/hcx38-ford-mustang-mach-e-1400.json",
+        "data/releases/2022/hcx40-lucid-air.json",
+        "data/releases/2022/hcx89-nissan-leaf-nismo-rc-02.json",
+        "data/releases/2022/hcy30-ford-mustang-mach-e-1400.json",
+        "data/releases/2022/hcy53-nissan-leaf-nismo-rc-02.json"
+    ]
+}

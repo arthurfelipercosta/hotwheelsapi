@@ -1,0 +1,24 @@
+{
+    "release_id": "hkk24-fiat-500e-2023",
+    "toy_number": "HKK24",
+    "casting_id": "fiat-500e",
+    "year": 2023,
+    "series_id": "hw-green-speed",
+    "series_index": 8,
+    "specs": {
+        "color": "Red",
+        "tampo": "Detailed headlights, grill and indicators, Yellow pulse graphics on sides, Hot Wheels logo on rear fender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Chrome TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/HKK24-LOOSE.jpg/revision/latest?cb=20230827093632"
+    }
+}

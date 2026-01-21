@@ -1,0 +1,19 @@
+{
+    "casting_id": "toyota-gr86-cup",
+    "name": "Toyota GR86 Cup",
+    "description": {
+        "en-us": "Toyota GR86 Cup Debut series HW J-Imports Produced 2024 – Present Designer Bryan Benedict Number HRY77",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry77-toyota-gr86-cup.json",
+        "data/releases/2025/hyx23-toyota-gr86-cup.json",
+        "data/releases/2025/hyx74-toyota-gr86-cup.json",
+        "data/releases/2026/x6999-toyota-gr86-cup.json",
+        "data/releases/2026/x6999-toyota-gr86-cup-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Toyota"
+}

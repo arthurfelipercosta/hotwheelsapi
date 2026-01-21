@@ -1,0 +1,24 @@
+{
+    "release_id": "hkg97-classic-tv-series-batmobile-2023",
+    "toy_number": "HKG97",
+    "casting_id": "classic-tv-series-batmobile",
+    "year": 2023,
+    "series_id": "batman",
+    "series_index": 1,
+    "specs": {
+        "color": "Dark Red",
+        "tampo": "Red & Yellow pinstriping, Batman logo on sides, detailing on hood, Hot Wheels logo on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R35, R36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/HKG97.jpg/revision/latest?cb=20221017151209"
+    }
+}

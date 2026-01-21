@@ -1,0 +1,11 @@
+{
+    "series_id": "mattel-games",
+    "year": 2021,
+    "name": "Mattel Games",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2021/gry70-rodger-dodger.json",
+        "data/releases/2021/gtd11-rodger-dodger.json"
+    ]
+}

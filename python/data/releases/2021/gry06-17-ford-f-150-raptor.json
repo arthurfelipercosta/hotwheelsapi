@@ -1,0 +1,24 @@
+{
+    "release_id": "gry06-17-ford-f-150-raptor-2021",
+    "toy_number": "GRY06",
+    "casting_id": "17-ford-f-150-raptor",
+    "year": 2021,
+    "series_id": "hw-torque",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "\"RAPTOR\" on sides, black lines",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P05, P06, P08, P09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/17_FORD_RAPTOR_MEXICO.jpg/revision/latest?cb=20210828211443"
+    }
+}

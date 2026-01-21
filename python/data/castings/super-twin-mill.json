@@ -1,0 +1,16 @@
+{
+    "casting_id": "super-twin-mill",
+    "name": "Super Twin Mill",
+    "description": {
+        "en-us": "Super Twin Mill Debut series Hot Wheels Let's Race Produced 2025 – Present Designer Sonny Fisher Number HYW12",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw12-super-twin-mill.json",
+        "data/releases/2025/jbb72-super-twin-mill.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

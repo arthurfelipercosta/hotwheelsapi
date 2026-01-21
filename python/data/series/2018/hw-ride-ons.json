@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-ride-ons",
+    "year": 2018,
+    "name": "HW Ride-Ons",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2018/fjv61-bogzilla.json",
+        "data/releases/2018/fjv83-kick-kart.json",
+        "data/releases/2018/fjv84-bogzilla.json",
+        "data/releases/2018/fjy85-kick-kart.json"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "ford-performance",
+    "year": 2016,
+    "name": "Ford Performance",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2016/djk86-67-ford-mustang-coupe.json",
+        "data/releases/2016/djk87-92-ford-mustang.json"
+    ]
+}

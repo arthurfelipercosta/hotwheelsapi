@@ -1,0 +1,12 @@
+{
+    "series_id": "hot-wheels-id-batman",
+    "year": 2021,
+    "name": "Hot Wheels id: Batman",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2021/hbf93-tv-series-batmobile.json",
+        "data/releases/2021/hbf99-bone-shaker.json",
+        "data/releases/2021/hbg04-arkham-asylum-batmobile.json"
+    ]
+}

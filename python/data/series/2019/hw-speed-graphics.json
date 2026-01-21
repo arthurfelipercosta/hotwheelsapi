@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-speed-graphics",
+    "year": 2019,
+    "name": "HW Speed Graphics",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2019/fyc51-90-honda-civic-ef.json",
+        "data/releases/2019/fyc51-90-honda-civic-ef.json",
+        "data/releases/2019/fyd25-mazda-rx-7.json",
+        "data/releases/2019/fyd81-mazda-rx-7.json",
+        "data/releases/2019/fyg11-90-honda-civic-ef.json"
+    ]
+}

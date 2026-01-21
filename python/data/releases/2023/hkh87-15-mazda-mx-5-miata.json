@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh87-15-mazda-mx-5-miata-2023",
+    "toy_number": "HKH87",
+    "casting_id": "15-mazda-mx-5-miata",
+    "year": 2023,
+    "series_id": "hw-modified",
+    "series_index": 5,
+    "specs": {
+        "color": "Matte Black",
+        "tampo": "White, Red, and Gray stripes on hood and sides. #27 and \"MAZDA\" on hood and sides. \"sparco\", \"GReddy\", and HW logo on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Gold PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R47, R49, R52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/68/HKH87.jpg/revision/latest?cb=20230204160232"
+    }
+}

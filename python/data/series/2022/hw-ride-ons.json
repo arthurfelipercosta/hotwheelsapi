@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-ride-ons",
+    "year": 2022,
+    "name": "HW Ride-Ons",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hcv41-bogzilla.json",
+        "data/releases/2022/hcw58-kick-kart.json",
+        "data/releases/2022/hcw85-bogzilla.json",
+        "data/releases/2022/hcx06-kick-kart.json",
+        "data/releases/2022/hcy01-pixel-shaker.json"
+    ]
+}

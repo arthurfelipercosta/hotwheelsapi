@@ -1,0 +1,19 @@
+{
+    "casting_id": "czinger-21c",
+    "name": "Czinger 21C",
+    "description": {
+        "en-us": "Czinger 21C Debut series HW Green Speed Produced 2024 – Present Designer Charlie Angulo Number HRY49",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry49-czinger-21c.json",
+        "data/releases/2024/htf46-czinger-21c.json",
+        "data/releases/2024/htc92-czinger-21c.json",
+        "data/releases/2025/jbb31-czinger-21c.json",
+        "data/releases/2025/jbb96-czinger-21c.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

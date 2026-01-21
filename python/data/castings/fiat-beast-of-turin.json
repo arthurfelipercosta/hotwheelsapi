@@ -1,0 +1,15 @@
+{
+    "casting_id": "fiat-beast-of-turin",
+    "name": "Fiat Beast of Turin",
+    "description": {
+        "en-us": "Fiat Beast of Turin Debut series Unknown Produced 2026 Designer Unknown Number JJHxx",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2026/jjhxx-fiat-beast-of-turin.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2026,
+    "manufacturer": "Mattel"
+}

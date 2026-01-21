@@ -18,5 +18,7 @@
     },
     "country": "Thailand",
     "notes": "When at room temp, turns pink under cold water Base code(s): C31",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/2008LancerEvoBHN13-Cold.jpg/revision/latest?cb=20161015160506"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/2008LancerEvoBHN13-Cold.jpg/revision/latest?cb=20161015160506"
+    }
 }

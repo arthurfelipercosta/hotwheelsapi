@@ -1,0 +1,25 @@
+{
+    "release_id": "jbb87-crate-racer-2025",
+    "toy_number": "JBB87",
+    "casting_id": "crate-racer",
+    "year": 2025,
+    "series_id": "experimotors",
+    "series_index": 5,
+    "specs": {
+        "color": "Red",
+        "tampo": "White stripes and details on sides, \"CRATERACER\" \"NAFIS\" \"HW TIRES\" \"25\" number plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Orange M5SP",
+            "1": "White 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U19N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/HWCrateRacer.jpg/revision/latest?cb=20250619120228"
+    }
+}

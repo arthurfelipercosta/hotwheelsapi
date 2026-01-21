@@ -1,0 +1,17 @@
+{
+    "casting_id": "porsche-911-rallye",
+    "name": "Porsche 911 Rallye",
+    "description": {
+        "en-us": "Porsche 911 Rallye Debut series HW Turbo Produced 2024 – Present Designer Fraser Campbell Number HRY70",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry70-porsche-911-rallye.json",
+        "data/releases/2025/hyw87-porsche-911-rallye.json",
+        "data/releases/2025/jbc41-porsche-911-rallye.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Porsche"
+}

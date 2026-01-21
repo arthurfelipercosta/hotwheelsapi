@@ -1,0 +1,26 @@
+{
+    "casting_id": "hi-roller",
+    "name": "Hi-Roller",
+    "description": {
+        "en-us": "Hi-Roller Debut series HW Showroom Produced 2016 - Present Designer Fraser Campbell Number DHP09",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp09-hi-roller.json",
+        "data/releases/2016/dhw80-hi-roller.json",
+        "data/releases/2017/dty08-hi-roller.json",
+        "data/releases/2017/fbh96-hi-roller.json",
+        "data/releases/2017/fdt21-hi-roller.json",
+        "data/releases/2018/fjw93-hi-roller.json",
+        "data/releases/2018/fjy71-hi-roller.json",
+        "data/releases/2021/gry14-hi-roller.json",
+        "data/releases/2022/hfv81-hi-roller.json",
+        "data/releases/2024/htv44-hi-roller.json",
+        "data/releases/2025/hyx14-hi-roller.json",
+        "data/releases/2025/hyx70-hi-roller.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

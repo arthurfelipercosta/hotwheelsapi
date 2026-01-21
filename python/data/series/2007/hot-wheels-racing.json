@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-racing",
+    "year": 2007,
+    "name": "Hot Wheels Racing",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2007/k7593-24-seven.json",
+        "data/releases/2007/k7595-datsun-240z.json"
+    ]
+}

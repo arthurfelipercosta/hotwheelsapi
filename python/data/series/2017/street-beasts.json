@@ -1,0 +1,11 @@
+{
+    "series_id": "street-beasts",
+    "year": 2017,
+    "name": "Street Beasts",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2017/dty50-shark-bite.json",
+        "data/releases/2017/dvc18-shark-bite.json"
+    ]
+}

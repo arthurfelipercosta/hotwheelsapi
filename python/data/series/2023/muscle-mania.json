@@ -1,0 +1,11 @@
+{
+    "series_id": "muscle-mania",
+    "year": 2023,
+    "name": "Muscle Mania",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2023/hkj55-70-dodge-hemi-challenger.json",
+        "data/releases/2023/hkl63-70-dodge-hemi-challenger.json"
+    ]
+}

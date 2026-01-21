@@ -18,5 +18,7 @@
     },
     "country": "Indonesia",
     "notes": "Base code(s): T48, T49",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Bull_Whip_-_2025_Baja_Blazers_5-Pack.jpg/revision/latest?cb=20250403051120"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Bull_Whip_-_2025_Baja_Blazers_5-Pack.jpg/revision/latest?cb=20250403051120"
+    }
 }

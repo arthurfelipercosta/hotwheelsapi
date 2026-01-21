@@ -1,0 +1,12 @@
+{
+    "series_id": "checkmate",
+    "year": 2018,
+    "name": "Checkmate",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2018/fjx55-king-kuda.json",
+        "data/releases/2018/fkb09-king-kuda.json",
+        "data/releases/2018/fkb46-king-kuda.json"
+    ]
+}

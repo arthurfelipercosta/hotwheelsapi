@@ -1,0 +1,24 @@
+{
+    "release_id": "b3876-humvee-2004",
+    "toy_number": "B3876",
+    "casting_id": "humvee",
+    "year": 2004,
+    "series_id": "scrapheads",
+    "series_index": 3,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Leopard spotted camouflage, Red markings on lower sides, Red Africa shape over black on rear hatch, warrior mask/shield tampo on roof.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "OR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Short & Tall antenna variants",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/Hummer_Africa_yellow.jpg/revision/latest?cb=20190321215301"
+    }
+}

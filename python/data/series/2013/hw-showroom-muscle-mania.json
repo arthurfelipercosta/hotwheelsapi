@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-showroom-muscle-mania",
+    "year": 2013,
+    "name": "HW Showroom: Muscle Mania",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1851-73-pontiac-firebird.json",
+        "data/releases/2013/x2058-73-pontiac-firebird.json"
+    ]
+}

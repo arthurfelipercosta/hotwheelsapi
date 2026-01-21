@@ -1,0 +1,24 @@
+{
+    "release_id": "hbg03-supercharged-2021",
+    "toy_number": "HBG03",
+    "casting_id": "supercharged",
+    "year": 2021,
+    "series_id": "hot-wheels-id-world-race",
+    "series_index": 4,
+    "specs": {
+        "color": "Spectraflame Black",
+        "tampo": "\"High Voltage Racing\", \"TOP EV DRAGSTER\" & HWid logo on sides, red stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Gold Chrome ID & Gold Chrome AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Playable in Unleashed Base code(s): N50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Supercharged.jpg/revision/latest?cb=20210925145810"
+    }
+}

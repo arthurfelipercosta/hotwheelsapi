@@ -1,0 +1,14 @@
+{
+    "series_id": "rod-squad",
+    "year": 2019,
+    "name": "Rod Squad",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2019/fyb43-deora-iii.json",
+        "data/releases/2019/fyc15-custom-53-cadillac.json",
+        "data/releases/2019/fyc17-custom-56-ford-truck.json",
+        "data/releases/2019/fyd90-deora-iii.json",
+        "data/releases/2019/fyg53-custom-56-ford-truck.json"
+    ]
+}

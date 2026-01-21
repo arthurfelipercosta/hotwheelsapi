@@ -1,0 +1,25 @@
+{
+    "casting_id": "shark-bite",
+    "name": "Shark Bite",
+    "description": {
+        "en-us": "Shark Bite Debut series Street Beasts Produced 2016 - Present Designer Larry Wood Number DHP30",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp30-shark-bite.json",
+        "data/releases/2016/dhx06-shark-bite.json",
+        "data/releases/2017/dty50-shark-bite.json",
+        "data/releases/2017/dvc18-shark-bite.json",
+        "data/releases/2018/fjx37-shark-bite.json",
+        "data/releases/2018/fjy88-shark-bite.json",
+        "data/releases/2021/gtn49-shark-bite.json",
+        "data/releases/2023/hly67-shark-bite.json",
+        "data/releases/2024/htc01-shark-bite.json",
+        "data/releases/2024/htc94-shark-bite.json",
+        "data/releases/2025/jbc31-shark-bite.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

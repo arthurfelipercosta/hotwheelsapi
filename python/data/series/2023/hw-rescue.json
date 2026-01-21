@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-rescue",
+    "year": 2023,
+    "name": "HW Rescue",
+    "total_releases": 2,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2023/hkj21-2018-honda-civic-type-r.json",
+        "data/releases/2023/hkl04-2020-ram-1500-rebel.json"
+    ]
+}

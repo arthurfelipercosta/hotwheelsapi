@@ -1,0 +1,24 @@
+{
+    "release_id": "grt25-67-mustang-2021",
+    "toy_number": "GRT25",
+    "casting_id": "67-mustang",
+    "year": 2021,
+    "series_id": "flying-customs",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Red, Navy, & Blue stripes on sides; Ford logo on sides; Red Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Light Blue)",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "BW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N37, N41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/67_Custom_Mustang.2021_FCs.jpg/revision/latest?cb=20210106170223"
+    }
+}

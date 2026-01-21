@@ -18,5 +18,7 @@
     },
     "country": "Indonesia",
     "notes": "Base code(s): K43, L02",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/CFG99_-_SRT_Viper_GTS-R_%283%29.jpg/revision/latest?cb=20180206072512"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/CFG99_-_SRT_Viper_GTS-R_%283%29.jpg/revision/latest?cb=20180206072512"
+    }
 }

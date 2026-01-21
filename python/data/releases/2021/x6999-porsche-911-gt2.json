@@ -1,0 +1,25 @@
+{
+    "release_id": "x6999-porsche-911-gt2-2021",
+    "toy_number": "X6999",
+    "casting_id": "porsche-911-gt2",
+    "year": 2021,
+    "series_id": "multipack-exclusive",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Black stripes on hood & roof, GT2 on tail, Porsche badge on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome lip",
+            "1": "black J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N43, P29, P43, P44, P46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/911_gt2_white.jpg/revision/latest?cb=20210217054507"
+    }
+}

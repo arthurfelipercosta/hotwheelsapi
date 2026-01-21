@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base codes: M27, M28",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/9/94/2020NightShifterIDfront.jpg/revision/latest?cb=20201029153002"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/2020NightShifterIDfront.jpg/revision/latest?cb=20201029153002"
+    }
 }

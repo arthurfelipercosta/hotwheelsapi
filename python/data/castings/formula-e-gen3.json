@@ -1,0 +1,16 @@
+{
+    "casting_id": "formula-e-gen3",
+    "name": "Formula E Gen3",
+    "description": {
+        "en-us": "Formula E Gen3 Debut series HW Race Day Produced 2024 – Present Designer Fraser Campbell Number HRY66",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry66-formula-e-gen3.json",
+        "data/releases/2025/hyy56-formula-e-gen3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

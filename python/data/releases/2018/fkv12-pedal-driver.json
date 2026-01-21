@@ -1,0 +1,25 @@
+{
+    "release_id": "fkv12-pedal-driver-2018",
+    "toy_number": "FKV12",
+    "casting_id": "pedal-driver",
+    "year": 2018,
+    "series_id": "holiday-hot-rods",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "White, Orange & Gold Stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Golden Rod",
+        "wheel_type": {
+            "0": "Red",
+            "1": "White PR5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): L27, L30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/PEDAL_DRIVER_FKV12.jpg/revision/latest?cb=20181227162737"
+    }
+}

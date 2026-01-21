@@ -1,0 +1,21 @@
+{
+    "series_id": "muscle-mania-mopar",
+    "year": 2012,
+    "name": "Muscle Mania: Mopar",
+    "total_releases": 12,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2012/v5369-69-dodge-coronet-superbee.json",
+        "data/releases/2012/v5374-71-dodge-challenger.json",
+        "data/releases/2012/v5384-68-dodge-dart.json",
+        "data/releases/2012/v5385-71-dodge-challenger.json",
+        "data/releases/2012/v5387-69-dodge-coronet-superbee.json",
+        "data/releases/2012/v5391-70-plymouth-superbird.json",
+        "data/releases/2012/v5564-69-dodge-coronet-superbee.json",
+        "data/releases/2012/v5618-71-dodge-challenger.json",
+        "data/releases/2012/v5627-70-plymouth-superbird.json",
+        "data/releases/2012/v5648-68-dodge-dart.json",
+        "data/releases/2012/v5648-68-dodge-dart.json",
+        "data/releases/2012/v5705-68-dodge-dart.json"
+    ]
+}

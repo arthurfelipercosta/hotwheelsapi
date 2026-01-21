@@ -1,0 +1,24 @@
+{
+    "release_id": "hcy13-71-lamborghini-miura-sv-2022",
+    "toy_number": "HCY13",
+    "casting_id": "71-lamborghini-miura-sv",
+    "year": 2022,
+    "series_id": "hw-exotics",
+    "series_index": 5,
+    "specs": {
+        "color": "Spectraflame Arancio Miura",
+        "tampo": "Detailed headlights, taillights, air intakes and trim, \"P400SV\" license plate, TH logo behind door",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Light Gray",
+        "wheel_type": {
+            "0": "RR10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Super Treasure Hunt Base code(s): R13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Lamborghini_Miura_STH_2022.jpg/revision/latest?cb=20220709153119"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "x1800-71-dodge-challenger-2013",
+    "toy_number": "X1800",
+    "casting_id": "71-dodge-challenger",
+    "year": 2013,
+    "series_id": "hw-showroom-then-and-now",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black Stripe \"DODGE\"and 426 Grey",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/%2771_Dodge_Challenger-2013_222.jpg/revision/latest?cb=20130616123220"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-ride-ons",
+    "year": 2016,
+    "name": "HW Ride-Ons",
+    "total_releases": 3,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2016/dhp92-pedal-driver.json",
+        "data/releases/2016/dhw73-pedal-driver.json",
+        "data/releases/2016/dpr89-minecart.json"
+    ]
+}

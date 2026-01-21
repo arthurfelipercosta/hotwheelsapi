@@ -1,0 +1,11 @@
+{
+    "series_id": "flying-customs",
+    "year": 2020,
+    "name": "Flying Customs",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2020/gjw95-custom-72-chevy-luv.json",
+        "data/releases/2020/gjx09-67-chevy-c10.json"
+    ]
+}

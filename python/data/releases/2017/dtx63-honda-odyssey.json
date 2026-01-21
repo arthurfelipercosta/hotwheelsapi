@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx63-honda-odyssey-2017",
+    "toy_number": "DTX63",
+    "casting_id": "honda-odyssey",
+    "year": 2017,
+    "series_id": "hw-speed-graphics",
+    "series_index": 7,
+    "specs": {
+        "color": "Red",
+        "tampo": "Red & Blue stripes, NGK Spark Plugs logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Lip PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J38, J39, J42, J43, J44, J45, J48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Odyssey-2017HWSG.jpg/revision/latest?cb=20161211170539"
+    }
+}

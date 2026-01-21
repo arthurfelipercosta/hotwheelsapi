@@ -1,0 +1,24 @@
+{
+    "release_id": "x1791-custom-56-ford-truck-2013",
+    "toy_number": "X1791",
+    "casting_id": "custom-56-ford-truck",
+    "year": 2013,
+    "series_id": "hw-showroom-heat-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl Plum",
+        "tampo": "Lt. Green & Olive Green flames",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gold Chrome",
+        "wheel_type": {
+            "0": "Gold 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): E36, E37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Custom_%2756_Ford_F-100-2013_211_Heat_Fleet.jpg/revision/latest?cb=20130831143753"
+    }
+}

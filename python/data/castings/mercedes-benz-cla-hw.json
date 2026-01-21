@@ -1,0 +1,15 @@
+{
+    "casting_id": "mercedes-benz-cla-hw",
+    "name": "Mercedes-Benz CLA HW",
+    "description": {
+        "en-us": "Mercedes-Benz CLA HW Debut series Unknown Produced 2026 Designer Craig Callum Number JJH63",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2026/jjh63-mercedes-benz-cla-hw.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2026,
+    "manufacturer": "Mattel"
+}

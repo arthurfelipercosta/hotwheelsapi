@@ -1,0 +1,13 @@
+{
+    "series_id": "blue-and-pink",
+    "year": 2022,
+    "name": "Blue and Pink",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2022/hdh57-67-austin-mini-van.json",
+        "data/releases/2022/hdh59-pass-n-gasser.json",
+        "data/releases/2022/hdh62-nissan-skyline-2000gt-r.json",
+        "data/releases/2022/hdh65-custom-53-chevy.json"
+    ]
+}

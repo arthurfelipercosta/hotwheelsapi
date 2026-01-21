@@ -1,0 +1,19 @@
+{
+    "casting_id": "dessert-drifter",
+    "name": "Dessert Drifter",
+    "description": {
+        "en-us": "Dessert Drifter Debut series Sweet Rides Produced 2023 – Present Designer Fraser Campbell Number HKG24",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg24-dessert-drifter.json",
+        "data/releases/2023/hkj90-dessert-drifter.json",
+        "data/releases/2024/htb47-dessert-drifter.json",
+        "data/releases/2024/htd87-dessert-drifter.json",
+        "data/releases/2026/jjj25-dessert-drifter.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

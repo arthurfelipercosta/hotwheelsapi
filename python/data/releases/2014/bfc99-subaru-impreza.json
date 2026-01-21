@@ -1,0 +1,24 @@
+{
+    "release_id": "bfc99-subaru-impreza-2014",
+    "toy_number": "BFC99",
+    "casting_id": "subaru-impreza",
+    "year": 2014,
+    "series_id": "hw-off-road-road-rally",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "HW racing development '914'leeway. rally el segundo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Gold Chrome 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): F29, F32, F34, F36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Subaru_Impreza-2014_108.jpg/revision/latest?cb=20131109165938"
+    }
+}

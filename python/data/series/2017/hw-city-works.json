@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-city-works",
+    "year": 2017,
+    "name": "HW City Works",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2017/dtx19-street-wiener.json",
+        "data/releases/2017/dtx27-time-shifter.json",
+        "data/releases/2017/dty73-good-humor-truck.json"
+    ]
+}

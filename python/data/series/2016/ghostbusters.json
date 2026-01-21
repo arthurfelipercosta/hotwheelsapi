@@ -1,0 +1,10 @@
+{
+    "series_id": "ghostbusters",
+    "year": 2016,
+    "name": "Ghostbusters",
+    "total_releases": 1,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2016/dwf02-power-rocket.json"
+    ]
+}

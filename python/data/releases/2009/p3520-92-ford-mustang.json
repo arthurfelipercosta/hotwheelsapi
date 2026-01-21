@@ -1,0 +1,25 @@
+{
+    "release_id": "p3520-92-ford-mustang-2009",
+    "toy_number": "P3520",
+    "casting_id": "92-ford-mustang",
+    "year": 2009,
+    "series_id": "mustang-mania-10-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Black Painted hood, Black \"Mustang 5.0\". black detail tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/92_Mustang_-_Mustang_Mania_Set.jpg/revision/latest?cb=20090916051113"
+    }
+}

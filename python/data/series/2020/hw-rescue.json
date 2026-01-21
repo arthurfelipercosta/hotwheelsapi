@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-rescue",
+    "year": 2020,
+    "name": "HW Rescue",
+    "total_releases": 1,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2020/ghb75-alpha-pursuit.json"
+    ]
+}

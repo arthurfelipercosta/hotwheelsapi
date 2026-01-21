@@ -1,0 +1,24 @@
+{
+    "release_id": "djm83-bmw-2002-2016",
+    "toy_number": "DJM83",
+    "casting_id": "bmw-2002",
+    "year": 2016,
+    "series_id": "bmw",
+    "series_index": 4,
+    "specs": {
+        "color": "Green",
+        "tampo": "Black and Yellow stripes on sides and top, '2' on hood and sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5 Rim Yellow"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): H50, J02, J03, J06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/2016_BMW_2002.jpg/revision/latest?cb=20160409162958"
+    }
+}

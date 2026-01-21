@@ -1,0 +1,15 @@
+{
+    "casting_id": "custom-2020-honda-e",
+    "name": "Custom 2020 Honda e",
+    "description": {
+        "en-us": "Custom 2020 Honda e Debut series HW EV Produced 2026 Designer Fraser Campbell Number JMB11",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2026/jmb11-custom-2020-honda-e.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2026,
+    "manufacturer": "Honda"
+}

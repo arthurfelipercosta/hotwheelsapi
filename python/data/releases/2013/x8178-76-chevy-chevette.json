@@ -1,0 +1,24 @@
+{
+    "release_id": "x8178-76-chevy-chevette-2013",
+    "toy_number": "X8178",
+    "casting_id": "76-chevy-chevette",
+    "year": 2013,
+    "series_id": "flying-customs",
+    "series_index": null,
+    "specs": {
+        "color": "Purple",
+        "tampo": "Yellow & Orange flames & stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Silver",
+        "wheel_type": {
+            "0": "BW"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/%2776ChevyChevette.jpg/revision/latest?cb=20211007025900"
+    }
+}

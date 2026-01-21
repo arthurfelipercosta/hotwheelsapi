@@ -1,0 +1,15 @@
+{
+    "series_id": "rod-squad",
+    "year": 2020,
+    "name": "Rod Squad",
+    "total_releases": 6,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2020/ghd29-8-crate.json",
+        "data/releases/2020/ghd30-custom-cadillac-fleetwood.json",
+        "data/releases/2020/ghf08-big-air-bel-air.json",
+        "data/releases/2020/ghf42-custom-cadillac-fleetwood.json",
+        "data/releases/2020/ghf74-8-crate.json",
+        "data/releases/2020/gtd39-big-air-bel-air.json"
+    ]
+}

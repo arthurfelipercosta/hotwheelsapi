@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc37-19-chevy-silverado-trail-boss-lt-2020",
+    "toy_number": "GHC37",
+    "casting_id": "19-chevy-silverado-trail-boss-lt",
+    "year": 2020,
+    "series_id": "hw-hot-trucks",
+    "series_index": 5,
+    "specs": {
+        "color": "White",
+        "tampo": "Black stripes, HW logo, Red \"BellTech\" logo. Silver \"Silverado\" on doors.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N03, N07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/GHC37-carded.jpg/revision/latest?cb=20200405104741"
+    }
+}

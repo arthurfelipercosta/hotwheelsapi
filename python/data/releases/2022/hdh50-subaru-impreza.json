@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh50-subaru-impreza-2022",
+    "toy_number": "HDH50",
+    "casting_id": "subaru-impreza",
+    "year": 2022,
+    "series_id": "japanese-car-culture-themed-multipack",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Pink stripes, Subaru logo at front, front turn signals and \"Hotwheels\", \"Bilstein\" and \"PIAA\" logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/SubaruBlobeye.jpg/revision/latest?cb=20220318225543"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "auto-affinity-great-8s",
+    "year": 2004,
+    "name": "Auto Affinity: Great 8s",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2004/b5963-33-ford-lo-boy.json",
+        "data/releases/2004/b5963-33-ford-lo-boy.json",
+        "data/releases/2004/g3778-purple-passion.json",
+        "data/releases/2004/g3778-purple-passion.json",
+        "data/releases/2004/g3780-33-ford-lo-boy.json"
+    ]
+}

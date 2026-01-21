@@ -1,0 +1,13 @@
+{
+    "series_id": "red-edition",
+    "year": 2020,
+    "name": "Red Edition",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2020/ghg65-custom-otto.json",
+        "data/releases/2020/ghg66-custom-18-ford-mustang-gt.json",
+        "data/releases/2020/ghg71-bone-shaker.json",
+        "data/releases/2020/ghg72-gotta-go.json"
+    ]
+}

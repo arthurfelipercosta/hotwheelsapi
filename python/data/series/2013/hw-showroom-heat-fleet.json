@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-showroom-heat-fleet",
+    "year": 2013,
+    "name": "HW Showroom: Heat Fleet",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1791-custom-56-ford-truck.json",
+        "data/releases/2013/x1793-69-dodge-coronet-superbee.json",
+        "data/releases/2013/x1796-59-chevy-bel-air.json",
+        "data/releases/2013/x1958-69-dodge-coronet-superbee.json",
+        "data/releases/2013/x2025-59-chevy-bel-air.json",
+        "data/releases/2013/x2057-custom-56-ford-truck.json"
+    ]
+}

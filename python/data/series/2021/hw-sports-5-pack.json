@@ -2,9 +2,10 @@
     "series_id": "hw-sports-5-pack",
     "year": 2021,
     "name": "HW Sports 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2021/gtn37-71-mustang-funny-car.json",
         "data/releases/2021/gtn37-night-shifter.json"
     ]
 }

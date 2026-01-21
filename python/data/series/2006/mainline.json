@@ -1,0 +1,15 @@
+{
+    "series_id": "mainline",
+    "year": 2006,
+    "name": "Mainline",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2006/j3479-68-dodge-dart.json",
+        "data/releases/2006/j3479-68-dodge-dart.json",
+        "data/releases/2006/j3479-68-dodge-dart.json",
+        "data/releases/2006/j8014-47-chevy-fleetline.json",
+        "data/releases/2006/j8037-8-crate.json",
+        "data/releases/2006/j8037-8-crate.json"
+    ]
+}

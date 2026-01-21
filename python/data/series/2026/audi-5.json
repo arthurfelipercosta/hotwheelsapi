@@ -1,0 +1,11 @@
+{
+    "series_id": "audi-5",
+    "year": 2026,
+    "name": "Audi ?/5",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2026/jky15-audi-90-quattro.json",
+        "data/releases/2026/jky19-84-audi-sport-quattro.json"
+    ]
+}

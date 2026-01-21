@@ -1,0 +1,17 @@
+{
+    "series_id": "nightburnerz",
+    "year": 2019,
+    "name": "Nightburnerz",
+    "total_releases": 8,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2019/fyb71-96-porsche-carrera.json",
+        "data/releases/2019/fyb72-2018-honda-civic-type-r.json",
+        "data/releases/2019/fyd12-85-honda-city-turbo-ii.json",
+        "data/releases/2019/fyd72-mazda-repu.json",
+        "data/releases/2019/fyf79-85-honda-city-turbo-ii.json",
+        "data/releases/2019/fyf81-96-porsche-carrera.json",
+        "data/releases/2019/fyf82-2018-honda-civic-type-r.json",
+        "data/releases/2019/fyg13-mazda-repu.json"
+    ]
+}

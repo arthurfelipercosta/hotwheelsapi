@@ -1,0 +1,12 @@
+{
+    "series_id": "holiday-rods",
+    "year": 2007,
+    "name": "Holiday Rods",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2007/l0099-la-troca.json",
+        "data/releases/2007/l0099-la-troca.json",
+        "data/releases/2007/l0099-la-troca.json"
+    ]
+}

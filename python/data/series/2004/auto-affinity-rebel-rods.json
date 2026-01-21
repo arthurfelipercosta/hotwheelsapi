@@ -1,0 +1,11 @@
+{
+    "series_id": "auto-affinity-rebel-rods",
+    "year": 2004,
+    "name": "Auto Affinity: Rebel Rods",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2004/g3776-71-mustang-funny-car.json",
+        "data/releases/2004/g7798-71-mustang-funny-car.json"
+    ]
+}

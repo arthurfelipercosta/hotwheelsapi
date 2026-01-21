@@ -1,0 +1,25 @@
+{
+    "release_id": "gdg61-70-dodge-power-wagon-2018",
+    "toy_number": "GDG61",
+    "casting_id": "70-dodge-power-wagon",
+    "year": 2018,
+    "series_id": "mopar",
+    "series_index": 8,
+    "specs": {
+        "color": "Black",
+        "tampo": "Yellow Stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Yellow Rim",
+            "1": "Black OR6SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): L13, L23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/%2770_Dodge_Power_Wagon_Mopar_Series_2018.jpeg/revision/latest?cb=20180824002928"
+    }
+}

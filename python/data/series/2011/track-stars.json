@@ -1,0 +1,11 @@
+{
+    "series_id": "track-stars",
+    "year": 2011,
+    "name": "Track Stars",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2011/t9755-triumph-tr6.json",
+        "data/releases/2011/t9761-69-chevelle.json"
+    ]
+}

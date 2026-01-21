@@ -1,0 +1,24 @@
+{
+    "release_id": "gdg54-2013-srt-viper-2018",
+    "toy_number": "GDG54",
+    "casting_id": "2013-srt-viper",
+    "year": 2018,
+    "series_id": "mopar",
+    "series_index": 1,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black Stripes on sides & hood, \"Dodge\", Mopar logo, Hot Wheels logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): L10, L23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/Mopar-srtviper.jpg/revision/latest?cb=20181227170524"
+    }
+}

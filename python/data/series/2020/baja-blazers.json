@@ -1,0 +1,13 @@
+{
+    "series_id": "baja-blazers",
+    "year": 2020,
+    "name": "Baja Blazers",
+    "total_releases": 4,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2020/ghb41-20-jeep-gladiator.json",
+        "data/releases/2020/ghb88-dune-it-up.json",
+        "data/releases/2020/ghd86-20-jeep-gladiator.json",
+        "data/releases/2020/ghf87-dune-it-up.json"
+    ]
+}

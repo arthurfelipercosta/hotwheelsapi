@@ -1,0 +1,24 @@
+{
+    "release_id": "fyc26-67-ford-mustang-coupe-2019",
+    "toy_number": "FYC26",
+    "casting_id": "67-ford-mustang-coupe",
+    "year": 2019,
+    "series_id": "hw-art-cars",
+    "series_index": 7,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Purple, Blue & Pink side panels. Green, Blue with Yellow \"Y\" top & trunk.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Pink Rear Green Front PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M16, M17, M18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/%2767_FORD_MUSTANG_COUPE_FYC26_2.jpg/revision/latest?cb=20190903001942"
+    }
+}

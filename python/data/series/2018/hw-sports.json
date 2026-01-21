@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-sports",
+    "year": 2018,
+    "name": "HW Sports",
+    "total_releases": 3,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2018/fjw29-blazer-4-4.json",
+        "data/releases/2018/fjy31-blazer-4-4.json",
+        "data/releases/2018/fjy73-blazer-4-4.json"
+    ]
+}

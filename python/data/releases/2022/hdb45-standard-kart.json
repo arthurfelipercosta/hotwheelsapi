@@ -1,0 +1,39 @@
+{
+    "release_id": "hdb45-standard-kart-2022",
+    "toy_number": "HDB45",
+    "casting_id": "standard-kart",
+    "year": 2022,
+    "series_id": "mario-kart",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Lakitu emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK",
+            "1": "2022",
+            "2": "Mario Kart",
+            "3": "Daisy",
+            "4": "Flower Glider",
+            "5": "Yellow",
+            "6": "Daisy emblem",
+            "7": "Orange",
+            "8": "Metal",
+            "9": "Thailand",
+            "10": "Base code(s):",
+            "11": "Red Yoshi",
+            "12": "Parafoil",
+            "13": "Yoshi emblem",
+            "14": "White",
+            "15": "Metal"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/Lakitu_glider.jpg/revision/latest?cb=20220928123313"
+    }
+}

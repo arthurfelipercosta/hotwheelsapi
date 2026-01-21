@@ -1,0 +1,16 @@
+{
+    "series_id": "retro-racers",
+    "year": 2023,
+    "name": "Retro Racers",
+    "total_releases": 7,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2023/hkg35-audi-90-quattro.json",
+        "data/releases/2023/hkg42-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2023/hkh01-mazda-787b.json",
+        "data/releases/2023/hkj79-mazda-787b.json",
+        "data/releases/2023/hkj81-audi-90-quattro.json",
+        "data/releases/2023/hkj82-porsche-911-carrera-rs-2-7.json",
+        "data/releases/2023/hkl36-mazda-787b.json"
+    ]
+}

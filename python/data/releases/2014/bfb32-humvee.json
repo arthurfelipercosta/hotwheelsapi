@@ -1,0 +1,24 @@
+{
+    "release_id": "bfb32-humvee-2014",
+    "toy_number": "BFB32",
+    "casting_id": "humvee",
+    "year": 2014,
+    "series_id": "attack-pack-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Lime Green & Green",
+        "tampo": "Camouflage, Black & Yellow Striped down bottom, White \"0773\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Orange OR6SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base reads AM General Corp. Base code(s): G48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/HumveeBFB32.jpg/revision/latest?cb=20150611135514"
+    }
+}

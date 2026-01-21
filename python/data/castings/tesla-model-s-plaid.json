@@ -1,0 +1,17 @@
+{
+    "casting_id": "tesla-model-s-plaid",
+    "name": "Tesla Model S Plaid",
+    "description": {
+        "en-us": "Tesla Model S Plaid Debut series Quarter Mile Heroes Produced 2024 – Present Designer Shawn Moghadam Number HRY91",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry91-tesla-model-s-plaid.json",
+        "data/releases/2025/hyw86-tesla-model-s-plaid.json",
+        "data/releases/2025/hyx58-tesla-model-s-plaid.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Tesla"
+}

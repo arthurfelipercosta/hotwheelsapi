@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-green-speed",
+    "year": 2016,
+    "name": "HW Green Speed",
+    "total_releases": 4,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2016/dhp36-hw-formula-solar.json",
+        "data/releases/2016/dht30-super-volt.json",
+        "data/releases/2016/dhx11-hw-formula-solar.json",
+        "data/releases/2016/dhx46-super-volt.json"
+    ]
+}

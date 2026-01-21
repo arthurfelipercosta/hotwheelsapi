@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv29-84-audi-sport-quattro-2022",
+    "toy_number": "HCV29",
+    "casting_id": "84-audi-sport-quattro",
+    "year": 2022,
+    "series_id": "rally-champs",
+    "series_index": 1,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Detailed headlights and front grille, Red, grey and black racing stripes, \"1\" on sides, other sponsors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R13, R14, R15, R16, R17, R18, R21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/AudiUrQuattro.jpg/revision/latest?cb=20220721135147"
+    }
+}

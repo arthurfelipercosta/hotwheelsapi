@@ -1,0 +1,24 @@
+{
+    "release_id": "frf33-dmc-delorean-2018",
+    "toy_number": "FRF33",
+    "casting_id": "dmc-delorean",
+    "year": 2018,
+    "series_id": "50th-anniversary-throwback",
+    "series_index": 4,
+    "specs": {
+        "color": "Light Green",
+        "tampo": "Yellow patterned lines on hood * sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Green",
+        "wheel_type": {
+            "0": "Gold 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L02, L11, L14, L18, L19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/Delorean.JPG/revision/latest?cb=20180729030548"
+    }
+}

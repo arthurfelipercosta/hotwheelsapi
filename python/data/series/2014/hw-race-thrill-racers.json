@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-race-thrill-racers",
+    "year": 2014,
+    "name": "HW Race: Thrill Racers",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bdd04-rrroadster.json",
+        "data/releases/2014/bfd26-madfast.json",
+        "data/releases/2014/bff50-madfast.json",
+        "data/releases/2014/bfg53-rrroadster.json"
+    ]
+}

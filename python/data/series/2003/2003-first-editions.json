@@ -1,0 +1,12 @@
+{
+    "series_id": "2003-first-editions",
+    "year": 2003,
+    "name": "2003 First Editions",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2003/56356-fish-d-chip-d.json",
+        "data/releases/2003/56363-8-crate.json",
+        "data/releases/2003/56365-24-seven.json"
+    ]
+}

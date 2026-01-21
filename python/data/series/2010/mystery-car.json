@@ -1,0 +1,13 @@
+{
+    "series_id": "mystery-car",
+    "year": 2010,
+    "name": "Mystery Car",
+    "total_releases": 4,
+    "max_index": 22,
+    "releases": [
+        "data/releases/2010/r7474-70-dodge-hemi-challenger.json",
+        "data/releases/2010/r7483-lotus-sport-elise.json",
+        "data/releases/2010/r7488-69-dodge-coronet-superbee.json",
+        "data/releases/2010/r7491-purple-passion.json"
+    ]
+}

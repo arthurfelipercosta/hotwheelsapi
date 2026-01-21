@@ -1,0 +1,27 @@
+{
+    "series_id": "hw-ev",
+    "year": 2025,
+    "name": "HW EV",
+    "total_releases": 18,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2025/hyw15-cupra-e-racer.json",
+        "data/releases/2025/hyw22-custom-kia-ev6.json",
+        "data/releases/2025/hyw67-deora-iii.json",
+        "data/releases/2025/hyw85-fiat-500e.json",
+        "data/releases/2025/hyw86-tesla-model-s-plaid.json",
+        "data/releases/2025/hyx06-supercharged.json",
+        "data/releases/2025/hyx30-silverado-ev-rst.json",
+        "data/releases/2025/hyx46-cupra-e-racer.json",
+        "data/releases/2025/hyx47-deora-iii.json",
+        "data/releases/2025/hyx58-tesla-model-s-plaid.json",
+        "data/releases/2025/hyx63-custom-kia-ev6.json",
+        "data/releases/2025/hyx64-supercharged.json",
+        "data/releases/2025/hyy28-silverado-ev-rst.json",
+        "data/releases/2025/hyy86-rodger-dodger-2-0.json",
+        "data/releases/2025/hyy99-super-volt.json",
+        "data/releases/2025/jbb64-silverado-ev-rst.json",
+        "data/releases/2025/jbb65-rodger-dodger-2-0.json",
+        "data/releases/2025/jbc27-nissan-leaf-nismo-rc-02.json"
+    ]
+}

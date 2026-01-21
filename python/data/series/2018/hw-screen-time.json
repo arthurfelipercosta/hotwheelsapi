@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2018,
+    "name": "HW Screen Time",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2018/fjw37-snoopy.json"
+    ]
+}

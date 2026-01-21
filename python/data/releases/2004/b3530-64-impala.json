@@ -1,0 +1,26 @@
+{
+    "release_id": "b3530-64-impala-2004",
+    "toy_number": "B3530",
+    "casting_id": "64-impala",
+    "year": 2004,
+    "series_id": "2004-first-editions",
+    "series_index": 4,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "Dark Blue, Silver & Black tampos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light Blue tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "LW",
+            "1": "Y5",
+            "2": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Chevy Impala 1964",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/64impala.blue.jpg/revision/latest?cb=20090613180809"
+    }
+}

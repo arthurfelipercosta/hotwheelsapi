@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2021,
+    "name": "HW Screen Time",
+    "total_releases": 4,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2021/grx16-x-34-landspeeder.json",
+        "data/releases/2021/grx17-standard-kart.json",
+        "data/releases/2021/grx18-disney-steamboat.json",
+        "data/releases/2021/grx95-minecart.json"
+    ]
+}

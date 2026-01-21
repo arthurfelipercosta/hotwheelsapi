@@ -1,0 +1,11 @@
+{
+    "series_id": "neon-speeders",
+    "year": 2026,
+    "name": "Neon Speeders",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2026/jkx97-70-dodge-hemi-challenger.json",
+        "data/releases/2026/jkx99-1985-honda-cr-x.json"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "16th-annual-hot-wheels-collectors-nationals",
+    "year": 2016,
+    "name": "16th Annual Hot Wheels Collectors Nationals",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2016/dmj07-83-chevy-silverado.json",
+        "data/releases/2016/dmj09-madfast.json"
+    ]
+}

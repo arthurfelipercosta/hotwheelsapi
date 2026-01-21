@@ -1,0 +1,12 @@
+{
+    "series_id": "tooned",
+    "year": 2021,
+    "name": "Tooned",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2021/grx98-mattel-dream-mobile.json",
+        "data/releases/2021/grx99-pixel-shaker.json",
+        "data/releases/2021/gtb89-pixel-shaker.json"
+    ]
+}

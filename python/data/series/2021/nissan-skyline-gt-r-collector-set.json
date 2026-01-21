@@ -1,0 +1,11 @@
+{
+    "series_id": "nissan-skyline-gt-r-collector-set",
+    "year": 2021,
+    "name": "Nissan Skyline GT-R Collector Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2021/grn86-nissan-skyline-gt-r-bcnr33.json",
+        "data/releases/2021/grn86-nissan-skyline-gt-r-bnr32.json"
+    ]
+}

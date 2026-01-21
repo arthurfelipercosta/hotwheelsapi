@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx73-67-chevy-c10-2017",
+    "toy_number": "DTX73",
+    "casting_id": "67-chevy-c10",
+    "year": 2017,
+    "series_id": "hw-hot-trucks",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "'Hoosier Racing Tire', White & Light Blue stripes on sides,",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K02, K04, K05, K09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/%2767_Chevy_C10_DTX73.png/revision/latest?cb=20170303220941"
+    }
+}

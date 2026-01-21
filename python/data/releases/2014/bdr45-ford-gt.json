@@ -1,0 +1,24 @@
+{
+    "release_id": "bdr45-ford-gt-2014",
+    "toy_number": "BDR45",
+    "casting_id": "ford-gt",
+    "year": 2014,
+    "series_id": "cool-classics",
+    "series_index": 24,
+    "specs": {
+        "color": "Spectrafrost Silver",
+        "tampo": "Red & Blue stripes on sides, Red stripes on hood, Blue stripes on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "RSW"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): G47, G49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/HW-2014-Cool_Classics--24-Ford_GT..jpg/revision/latest?cb=20150309044731"
+    }
+}

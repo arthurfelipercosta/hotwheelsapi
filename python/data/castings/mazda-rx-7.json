@@ -1,0 +1,39 @@
+{
+    "casting_id": "mazda-rx-7",
+    "name": "Mazda RX-7",
+    "description": {
+        "en-us": "Mazda RX-7 Debut series 2012 New Models Produced 2012 - Present Designer Jun Imai Number V5319",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5319-mazda-rx-7.json",
+        "data/releases/2012/v5600-mazda-rx-7.json",
+        "data/releases/2012/y2611-mazda-rx-7.json",
+        "data/releases/2013/x1677-mazda-rx-7.json",
+        "data/releases/2014/bfc43-mazda-rx-7.json",
+        "data/releases/2014/bfg39-mazda-rx-7.json",
+        "data/releases/2015/cfh91-mazda-rx-7.json",
+        "data/releases/2015/cfk06-mazda-rx-7.json",
+        "data/releases/2016/x6999-mazda-rx-7.json",
+        "data/releases/2017/dvb01-mazda-rx-7.json",
+        "data/releases/2017/fbj12-mazda-rx-7.json",
+        "data/releases/2018/fkx30-mazda-rx-7.json",
+        "data/releases/2018/x6999-mazda-rx-7.json",
+        "data/releases/2019/fyd25-mazda-rx-7.json",
+        "data/releases/2019/fyd81-mazda-rx-7.json",
+        "data/releases/2020/ghd32-mazda-rx-7.json",
+        "data/releases/2020/ghg28-mazda-rx-7.json",
+        "data/releases/2022/hcv76-mazda-rx-7.json",
+        "data/releases/2022/hcx24-mazda-rx-7.json",
+        "data/releases/2023/hlk49-mazda-rx-7.json",
+        "data/releases/2024/htb62-mazda-rx-7.json",
+        "data/releases/2024/htf61-mazda-rx-7.json",
+        "data/releases/2024/htd54-mazda-rx-7.json",
+        "data/releases/2025/jcb01-mazda-rx-7.json",
+        "data/releases/2026/jjj29-mazda-rx-7.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mazda"
+}

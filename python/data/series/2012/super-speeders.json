@@ -1,0 +1,11 @@
+{
+    "series_id": "super-speeders",
+    "year": 2012,
+    "name": "Super Speeders",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2012/y2611-mazda-rx-7.json",
+        "data/releases/2012/y2611-nerve-hammer.json"
+    ]
+}

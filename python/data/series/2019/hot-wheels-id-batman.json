@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-id-batman",
+    "year": 2019,
+    "name": "Hot Wheels id: Batman",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2019/fxb25-tv-series-batmobile.json",
+        "data/releases/2019/fxb26-the-dark-knight-batmobile.json"
+    ]
+}

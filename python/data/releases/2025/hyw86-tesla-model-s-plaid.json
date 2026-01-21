@@ -1,0 +1,24 @@
+{
+    "release_id": "hyw86-tesla-model-s-plaid-2025",
+    "toy_number": "HYW86",
+    "casting_id": "tesla-model-s-plaid",
+    "year": 2025,
+    "series_id": "hw-ev",
+    "series_index": 1,
+    "specs": {
+        "color": "Ultra Red",
+        "tampo": "Detailed headlights and taillights, badging, \"HW PLAID\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T32, T34, T36, T37, T39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/HWPlaid.jpg/revision/latest?cb=20241029140104"
+    }
+}

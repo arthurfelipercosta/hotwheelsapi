@@ -1,0 +1,19 @@
+{
+    "casting_id": "punk-rod",
+    "name": "Punk Rod",
+    "description": {
+        "en-us": "Punk Rod Debut series Rod Squad Produced 2024 – Present Designer Fraser Campbell Number HRY48",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry48-punk-rod.json",
+        "data/releases/2024/htc98-punk-rod.json",
+        "data/releases/2025/hyx16-punk-rod.json",
+        "data/releases/2025/hyx72-punk-rod.json",
+        "data/releases/2025/hyy16-punk-rod.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

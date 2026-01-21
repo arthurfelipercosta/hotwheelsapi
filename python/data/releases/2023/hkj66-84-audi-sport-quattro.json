@@ -1,0 +1,29 @@
+{
+    "release_id": "hkj66-84-audi-sport-quattro-2023",
+    "toy_number": "HKJ66",
+    "casting_id": "84-audi-sport-quattro",
+    "year": 2023,
+    "series_id": "hw-the-80s",
+    "series_index": 9,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights and front grille, Yellow and Red racing stripes, \"84\" and various sponsor on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black",
+            "1": "White rim AeroDisc",
+            "2": "Black",
+            "3": "Chrome rim AeroDisc",
+            "4": "Base code(s): S27",
+            "5": "S31"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S25, S26, S27, S28, S30, S31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/HKJ66-LOOSE.jpg/revision/latest?cb=20231028000552"
+    }
+}

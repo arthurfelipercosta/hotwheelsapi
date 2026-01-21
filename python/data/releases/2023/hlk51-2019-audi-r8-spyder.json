@@ -1,0 +1,24 @@
+{
+    "release_id": "hlk51-2019-audi-r8-spyder-2023",
+    "toy_number": "HLK51",
+    "casting_id": "2019-audi-r8-spyder",
+    "year": 2023,
+    "series_id": "european-car-culture-themed-multipack",
+    "series_index": null,
+    "specs": {
+        "color": "Santorini Blue",
+        "tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Identical to GRY87 Base code(s): S02, S14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/AudiR8Spyder.jpg/revision/latest?cb=20230404145046"
+    }
+}

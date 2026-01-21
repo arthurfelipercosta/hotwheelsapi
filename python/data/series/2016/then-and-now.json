@@ -1,0 +1,13 @@
+{
+    "series_id": "then-and-now",
+    "year": 2016,
+    "name": "Then and Now",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2016/dhr18-90-acura-nsx.json",
+        "data/releases/2016/dhr19-71-dodge-challenger.json",
+        "data/releases/2016/dht81-90-acura-nsx.json",
+        "data/releases/2016/dhy06-71-dodge-challenger.json"
+    ]
+}

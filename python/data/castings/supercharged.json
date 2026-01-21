@@ -1,0 +1,20 @@
+{
+    "casting_id": "supercharged",
+    "name": "Supercharged",
+    "description": {
+        "en-us": "Supercharged Debut series Hot Wheels id: World Race Produced 2021 – Present Designer Phil Riehlman Number GMK75",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/hbg03-supercharged.json",
+        "data/releases/2022/hcv90-supercharged.json",
+        "data/releases/2024/htb00-supercharged.json",
+        "data/releases/2025/hyx06-supercharged.json",
+        "data/releases/2025/hyx64-supercharged.json",
+        "data/releases/2026/jjj41-supercharged.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Mattel"
+}

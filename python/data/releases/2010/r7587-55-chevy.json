@@ -1,0 +1,26 @@
+{
+    "release_id": "r7587-55-chevy-2010",
+    "toy_number": "R7587",
+    "casting_id": "55-chevy",
+    "year": 2010,
+    "series_id": "hot-auction",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "Silver pin stripes scallops with Silver trim",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Pearl White",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "BF Goodrich 5SP",
+            "2": "Walmart Exclusives Base code(s):"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/55Chevy_hotauction_red.JPG/revision/latest?cb=20100223013733"
+    }
+}

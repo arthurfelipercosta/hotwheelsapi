@@ -1,0 +1,25 @@
+{
+    "casting_id": "rodger-dodger-2-0",
+    "name": "Rodger Dodger 2.0",
+    "description": {
+        "en-us": "Rodger Dodger 2.0 Debut series Muscle Mania Produced 2019 - Present Designer Ryu Asada Number FYB68",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb68-rodger-dodger-2-0.json",
+        "data/releases/2019/fyf88-rodger-dodger-2-0.json",
+        "data/releases/2020/ghc58-rodger-dodger-2-0.json",
+        "data/releases/2020/ghg08-rodger-dodger-2-0.json",
+        "data/releases/2022/hfv94-rodger-dodger-2-0.json",
+        "data/releases/2023/hly66-rodger-dodger-2-0.json",
+        "data/releases/2023/hnb24-rodger-dodger-2-0.json",
+        "data/releases/2025/jcl82-rodger-dodger-2-0.json",
+        "data/releases/2025/hyy86-rodger-dodger-2-0.json",
+        "data/releases/2025/jbb65-rodger-dodger-2-0.json",
+        "data/releases/2026/jkx89-rodger-dodger-2-0.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Dodge"
+}

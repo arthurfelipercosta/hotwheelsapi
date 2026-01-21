@@ -1,0 +1,10 @@
+{
+    "series_id": "mystery-car",
+    "year": 2007,
+    "name": "Mystery Car",
+    "total_releases": 1,
+    "max_index": 22,
+    "releases": [
+        "data/releases/2007/k7645-fish-d-chip-d.json"
+    ]
+}

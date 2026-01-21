@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb04-89-mazda-savanna-rx-7-fc3s-2021",
+    "toy_number": "GTB04",
+    "casting_id": "89-mazda-savanna-rx-7-fc3s",
+    "year": 2021,
+    "series_id": "hw-j-imports",
+    "series_index": 5,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights and taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P05, P06, P09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/MazdaRX-7FC.jpg/revision/latest?cb=20211120125139"
+    }
+}

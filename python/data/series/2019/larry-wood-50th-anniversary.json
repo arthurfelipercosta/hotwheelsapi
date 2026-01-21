@@ -1,0 +1,15 @@
+{
+    "series_id": "larry-wood-50th-anniversary",
+    "year": 2019,
+    "name": "Larry Wood 50th Anniversary",
+    "total_releases": 6,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2019/gbc20-bone-shaker.json",
+        "data/releases/2019/gbc20-rodger-dodger.json",
+        "data/releases/2019/gbc21-custom-53-chevy.json",
+        "data/releases/2019/gbc22-pass-n-gasser.json",
+        "data/releases/2019/gbc23-68-dodge-dart.json",
+        "data/releases/2019/gbc27-purple-passion.json"
+    ]
+}

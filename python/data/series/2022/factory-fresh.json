@@ -1,0 +1,17 @@
+{
+    "series_id": "factory-fresh",
+    "year": 2022,
+    "name": "Factory Fresh",
+    "total_releases": 8,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2022/hct13-2023-nissan-z.json",
+        "data/releases/2022/hct22-porsche-911-gt3.json",
+        "data/releases/2022/hct95-mercedes-benz-500-e.json",
+        "data/releases/2022/hcw31-lotus-sport-elise.json",
+        "data/releases/2022/hcx34-2023-nissan-z.json",
+        "data/releases/2022/hcx44-lotus-sport-elise.json",
+        "data/releases/2022/hcx85-porsche-911-gt3.json",
+        "data/releases/2022/hcy42-mercedes-benz-500-e.json"
+    ]
+}

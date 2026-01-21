@@ -1,0 +1,10 @@
+{
+    "series_id": "flamin-hot-wheels",
+    "year": 2003,
+    "name": "Flamin' Hot Wheels",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2003/57201-escort-rally.json"
+    ]
+}

@@ -19,5 +19,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): U09N, U19N",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/7/72/2025HalloweenNightShifter.jpg/revision/latest?cb=20250924105131"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/2025HalloweenNightShifter.jpg/revision/latest?cb=20250924105131"
+    }
 }

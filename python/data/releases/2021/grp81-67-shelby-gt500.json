@@ -1,0 +1,24 @@
+{
+    "release_id": "grp81-67-shelby-gt500-2021",
+    "toy_number": "GRP81",
+    "casting_id": "67-shelby-gt500",
+    "year": 2021,
+    "series_id": "spring",
+    "series_index": 4,
+    "specs": {
+        "color": "Light Blue Gloss",
+        "tampo": "\"Spring 2021\", Purple & Orange tampo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "Gold 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N40, N42, N44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/Easter_shelby.JPG/revision/latest?cb=20210317025649"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "gln67-16-lamborghini-centenario-roadster-2020",
+    "toy_number": "GLN67",
+    "casting_id": "16-lamborghini-centenario-roadster",
+    "year": 2020,
+    "series_id": "hw-roadsters",
+    "series_index": 2,
+    "specs": {
+        "color": "Rosso Mars",
+        "tampo": "Detailed headlights & taillights, Lamborghini logo on front bumper, Lamborghini wordmark on rear bumper",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5",
+            "1": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N27, N28, N29, N30, N31, N32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/Centenario_R_Red_2020.jpg/revision/latest?cb=20200926135750"
+    }
+}

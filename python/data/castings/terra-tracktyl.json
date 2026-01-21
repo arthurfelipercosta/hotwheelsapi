@@ -1,0 +1,18 @@
+{
+    "casting_id": "terra-tracktyl",
+    "name": "Terra-Tracktyl",
+    "description": {
+        "en-us": "Terra-Tracktyl Debut series HW Track Champs Produced 2024 – Present Designer Craig Callum Number HRY65",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry65-terra-tracktyl.json",
+        "data/releases/2024/htd48-terra-tracktyl.json",
+        "data/releases/2025/jbb23-terra-tracktyl.json",
+        "data/releases/2025/jbb82-terra-tracktyl.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

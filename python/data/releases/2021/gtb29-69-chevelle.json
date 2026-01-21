@@ -1,0 +1,25 @@
+{
+    "release_id": "gtb29-69-chevelle-2021",
+    "toy_number": "GTB29",
+    "casting_id": "69-chevelle",
+    "year": 2021,
+    "series_id": "x-raycers",
+    "series_index": 1,
+    "specs": {
+        "color": "Clear Blue",
+        "tampo": "Gold & White Stripe Graphics on Sides, Hood & Roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Clear Black tires",
+            "1": "Gold Rim PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/2021HW69ChevelleBlueUS-77.jpg/revision/latest?cb=20210225033712"
+    }
+}

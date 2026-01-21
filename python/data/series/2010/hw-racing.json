@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-racing",
+    "year": 2010,
+    "name": "HW Racing",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2010/r7577-madfast.json",
+        "data/releases/2010/r7582-ford-gt.json",
+        "data/releases/2010/r7582-ford-gt.json"
+    ]
+}

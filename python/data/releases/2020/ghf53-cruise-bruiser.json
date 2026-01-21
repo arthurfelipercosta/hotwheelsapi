@@ -1,0 +1,25 @@
+{
+    "release_id": "ghf53-cruise-bruiser-2020",
+    "toy_number": "GHF53",
+    "casting_id": "cruise-bruiser",
+    "year": 2020,
+    "series_id": "hw-art-cars",
+    "series_index": 2,
+    "specs": {
+        "color": "Matte black",
+        "tampo": "Purple, Green & Orange paint splashes. Green stripes on sides, roof & hood. '20' on sides in white.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "COBMC5 & off-white tire",
+            "1": "black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N27, N28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/2020HWCruiseBruiserBlack-66.jpg/revision/latest?cb=20201021182800"
+    }
+}

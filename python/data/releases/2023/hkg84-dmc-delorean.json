@@ -1,0 +1,24 @@
+{
+    "release_id": "hkg84-dmc-delorean-2023",
+    "toy_number": "HKG84",
+    "casting_id": "dmc-delorean",
+    "year": 2023,
+    "series_id": "hw-the-80s",
+    "series_index": 8,
+    "specs": {
+        "color": "Metalflake Pale Blue",
+        "tampo": "Blue, Light Blue, and Black stripes on hood and sides. \"DELOREAN\" on hood, HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R46, R47, R49, R50, R52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/HKG84-LOOSE.jpg/revision/latest?cb=20230219095234"
+    }
+}

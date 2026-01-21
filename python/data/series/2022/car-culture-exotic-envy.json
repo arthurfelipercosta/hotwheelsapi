@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-exotic-envy",
+    "year": 2022,
+    "name": "Car Culture: Exotic Envy",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hcj89-94-bugatti-eb110-ss.json",
+        "data/releases/2022/hcj92-mclaren-speedtail.json"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-city-batman",
+    "year": 2015,
+    "name": "HW City: Batman",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfk21-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2015/cfk22-arkham-asylum-batmobile.json",
+        "data/releases/2015/cfl45-the-brave-and-the-bold-batmobile.json"
+    ]
+}

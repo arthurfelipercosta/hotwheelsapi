@@ -1,0 +1,27 @@
+{
+    "release_id": "r7627-humvee-2010",
+    "toy_number": "R7627",
+    "casting_id": "humvee",
+    "year": 2010,
+    "series_id": "race-world-battle",
+    "series_index": 2,
+    "specs": {
+        "color": "Gray",
+        "tampo": "Olive Green & Dark Gray tampos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear Dark Green",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Green Chrome rim OR5SP",
+            "1": "196",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/Hummer_battle_grey.JPG/revision/latest?cb=20100609102109"
+    }
+}

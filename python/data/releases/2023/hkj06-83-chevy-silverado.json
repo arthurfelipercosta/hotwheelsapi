@@ -1,0 +1,24 @@
+{
+    "release_id": "hkj06-83-chevy-silverado-2023",
+    "toy_number": "HKJ06",
+    "casting_id": "83-chevy-silverado",
+    "year": 2023,
+    "series_id": "hw-slammed",
+    "series_index": 1,
+    "specs": {
+        "color": "Black",
+        "tampo": "Silver, red, brown, & yellow stripes on sides & rear; Hot Wheels logo on sides; \"CHEVROLET\" on tailgate; painted side marker lights & taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark gray",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S12, S13, S14, S15, S16, S18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/2023_HW_Slammed.jpg/revision/latest?cb=20250223082324"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hyw88-dmc-delorean-2025",
+    "toy_number": "HYW88",
+    "casting_id": "dmc-delorean",
+    "year": 2025,
+    "series_id": "hw-art-cars",
+    "series_index": 5,
+    "specs": {
+        "color": "Black",
+        "tampo": "Vibrant White, Pink, and Cyan stripes, arcing electricity, \"T\" on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Hot pink tint",
+        "interior_color": "Powder blue",
+        "wheel_type": {
+            "0": "Pink chrome Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T36, T37, T40, T41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/%2780sDeLorean.jpg/revision/latest?cb=20241113104252"
+    }
+}

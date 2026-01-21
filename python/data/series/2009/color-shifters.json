@@ -2,10 +2,14 @@
     "series_id": "color-shifters",
     "year": 2009,
     "name": "Color Shifters",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
         "data/releases/2009/n4426-2008-lancer-evolution.json",
-        "data/releases/2009/n4436-2008-lancer-evolution.json"
+        "data/releases/2009/n4436-2008-lancer-evolution.json",
+        "data/releases/2009/p2852-24-seven.json",
+        "data/releases/2009/p7765-rd-06.json",
+        "data/releases/2009/p7771-corvette-stingray.json",
+        "data/releases/2009/r9865-the-dark-knight-batmobile.json"
     ]
 }

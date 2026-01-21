@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-rescue",
+    "year": 2022,
+    "name": "HW Rescue",
+    "total_releases": 1,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2022/hcw27-5-alarm.json"
+    ]
+}

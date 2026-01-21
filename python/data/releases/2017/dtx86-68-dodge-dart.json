@@ -1,0 +1,25 @@
+{
+    "release_id": "dtx86-68-dodge-dart-2017",
+    "toy_number": "DTX86",
+    "casting_id": "68-dodge-dart",
+    "year": 2017,
+    "series_id": "hw-flames",
+    "series_index": 8,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Yellow & Red flames, & 'Dodge' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J51, K04, K05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/%2768_Dodge_Dart_DTX86.png/revision/latest?cb=20170303221600"
+    }
+}

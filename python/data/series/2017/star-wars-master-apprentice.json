@@ -2,9 +2,10 @@
     "series_id": "star-wars-master-apprentice",
     "year": 2017,
     "name": "Star Wars : Master/Apprentice",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 8,
     "releases": [
-        "data/releases/2017/dwd86-night-shifter.json"
+        "data/releases/2017/dwd86-night-shifter.json",
+        "data/releases/2017/dwd88-fish-d-chip-d.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "hcp10-tv-series-batmobile-2022",
+    "toy_number": "HCP10",
+    "casting_id": "tv-series-batmobile",
+    "year": 2022,
+    "series_id": "replica-entertainment-batman-classic-tv-series",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Red pinstripes, Red bat logo on doors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR5SPM"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): P49, P50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/Dark_Blue_Batmobile.jpg/revision/latest?cb=20250126193207"
+    }
+}

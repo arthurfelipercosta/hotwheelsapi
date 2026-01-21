@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-showroom-hw-performance",
+    "year": 2013,
+    "name": "HW Showroom: HW Performance",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1814-70-chevelle-ss-wagon.json",
+        "data/releases/2013/x2042-70-chevelle-ss-wagon.json"
+    ]
+}

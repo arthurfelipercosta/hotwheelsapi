@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2023,
+    "name": "HW Screen Time",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2023/hkh07-hw-k-i-t-t-concept.json",
+        "data/releases/2023/hkh10-snoopy.json"
+    ]
+}

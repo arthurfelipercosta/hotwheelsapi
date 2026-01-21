@@ -1,0 +1,25 @@
+{
+    "release_id": "gtc79-2020-ram-1500-rebel-2021",
+    "toy_number": "GTC79",
+    "casting_id": "2020-ram-1500-rebel",
+    "year": 2021,
+    "series_id": "baja-blazers",
+    "series_index": 8,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "Detailed grill, headlights, taillights. \"RAM\" in grill.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Brown tire",
+            "1": "Gray BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P08, P09, P12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/GTC79_2020_Ram_1500_Rebel_Loose.jpg/revision/latest?cb=20210606230542"
+    }
+}

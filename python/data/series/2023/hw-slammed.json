@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-slammed",
+    "year": 2023,
+    "name": "HW Slammed",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2023/hkj06-83-chevy-silverado.json",
+        "data/releases/2023/hkj07-volvo-240-drift-wagon.json",
+        "data/releases/2023/hkj08-layin-lowrider.json",
+        "data/releases/2023/hkl19-volvo-240-drift-wagon.json"
+    ]
+}

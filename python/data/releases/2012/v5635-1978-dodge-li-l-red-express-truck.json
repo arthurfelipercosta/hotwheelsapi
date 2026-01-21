@@ -1,0 +1,24 @@
+{
+    "release_id": "v5635-1978-dodge-li-l-red-express-truck-2012",
+    "toy_number": "V5635",
+    "casting_id": "1978-dodge-li-l-red-express-truck",
+    "year": 2012,
+    "series_id": "2012-new-models",
+    "series_index": 34,
+    "specs": {
+        "color": "Purple",
+        "tampo": "\"Lil Red Express Truck\" logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E12, E15, E20, E22, E23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/Hw_0022_%289%29.JPG/revision/latest?cb=20121116091453"
+    }
+}

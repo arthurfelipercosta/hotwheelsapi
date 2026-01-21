@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-exotics",
+    "year": 2021,
+    "name": "HW Exotics",
+    "total_releases": 4,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2021/grx25-94-bugatti-eb110-ss.json",
+        "data/releases/2021/gry87-2019-audi-r8-spyder.json",
+        "data/releases/2021/gry89-crescendo.json",
+        "data/releases/2021/gtd01-2019-audi-r8-spyder.json"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "casting_id": "porsche-911-carrera-clip",
+    "name": "Porsche 911 Carrera Clip",
+    "description": {
+        "en-us": "Porsche 911 Carrera Clip Debut series Experimotors Produced 2024 – Present Designer Craig Callum Number HRY64",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry64-porsche-911-carrera-clip.json",
+        "data/releases/2024/htd78-porsche-911-carrera-clip.json",
+        "data/releases/2025/jbb12-porsche-911-carrera-clip.json",
+        "data/releases/2025/jbc11-porsche-911-carrera-clip.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Porsche"
+}

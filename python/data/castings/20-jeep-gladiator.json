@@ -1,0 +1,30 @@
+{
+    "casting_id": "20-jeep-gladiator",
+    "name": "'20 Jeep Gladiator",
+    "description": {
+        "en-us": "'20 Jeep Gladiator Debut series Baja Blazers Produced 2020 - Present Designer Ryu Asada Number GHB41",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb41-20-jeep-gladiator.json",
+        "data/releases/2020/ghd86-20-jeep-gladiator.json",
+        "data/releases/2021/gry54-20-jeep-gladiator.json",
+        "data/releases/2021/gtd33-20-jeep-gladiator.json",
+        "data/releases/2021/gtc83-20-jeep-gladiator.json",
+        "data/releases/2021/grj86-20-jeep-gladiator.json",
+        "data/releases/2021/grk52-20-jeep-gladiator.json",
+        "data/releases/2022/hct50-20-jeep-gladiator.json",
+        "data/releases/2022/hcy25-20-jeep-gladiator.json",
+        "data/releases/2022/hcw66-20-jeep-gladiator.json",
+        "data/releases/2023/hnr99-20-jeep-gladiator.json",
+        "data/releases/2024/hrv91-20-jeep-gladiator.json",
+        "data/releases/2025/hyy71-20-jeep-gladiator.json",
+        "data/releases/2025/jbc40-20-jeep-gladiator.json",
+        "data/releases/2026/jjh91-20-jeep-gladiator.json",
+        "data/releases/2026/jjm62-20-jeep-gladiator.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

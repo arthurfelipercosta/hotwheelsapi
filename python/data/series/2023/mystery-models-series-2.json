@@ -1,0 +1,12 @@
+{
+    "series_id": "mystery-models-series-2",
+    "year": 2023,
+    "name": "Mystery Models (Series 2)",
+    "total_releases": 3,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2023/hlr30-bone-shaker.json",
+        "data/releases/2023/hlr35-1974-brazilian-dodge-charger.json",
+        "data/releases/2023/hlr36-rrroadster.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hct67-94-bugatti-eb110-ss-2022",
+    "toy_number": "HCT67",
+    "casting_id": "94-bugatti-eb110-ss",
+    "year": 2022,
+    "series_id": "hw-turbo",
+    "series_index": 5,
+    "specs": {
+        "color": "Giallo Bugatti",
+        "tampo": "Bugatti badge on front, detailed taillights, \"RYU's\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Black 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s) : P41, P42, P43, P44, P52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/SchumiBugatti.jpg/revision/latest?cb=20211122060732"
+    }
+}

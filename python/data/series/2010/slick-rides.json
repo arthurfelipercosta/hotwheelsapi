@@ -1,0 +1,10 @@
+{
+    "series_id": "slick-rides",
+    "year": 2010,
+    "name": "Slick Rides",
+    "total_releases": 1,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2010/r3734-83-chevy-silverado.json"
+    ]
+}

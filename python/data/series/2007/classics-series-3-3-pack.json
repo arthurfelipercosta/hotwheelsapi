@@ -1,0 +1,11 @@
+{
+    "series_id": "classics-series-3-3-pack",
+    "year": 2007,
+    "name": "Classics (Series 3) 3-Pack",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2007/m1809-bone-shaker.json",
+        "data/releases/2007/m1809-king-kuda.json"
+    ]
+}

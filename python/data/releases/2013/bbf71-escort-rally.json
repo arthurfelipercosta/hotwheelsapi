@@ -1,0 +1,24 @@
+{
+    "release_id": "bbf71-escort-rally-2013",
+    "toy_number": "BBF71",
+    "casting_id": "escort-rally",
+    "year": 2013,
+    "series_id": "team-hot-wheels-high-speed-wheel",
+    "series_index": null,
+    "specs": {
+        "color": "Blue & White",
+        "tampo": "Hot Wheels Racing Deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Blue HSW"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Escort_2.JPG/revision/latest?cb=20170922025707"
+    }
+}

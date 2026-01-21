@@ -1,0 +1,10 @@
+{
+    "series_id": "holiday-hot-rods",
+    "year": 2017,
+    "name": "Holiday Hot Rods",
+    "total_releases": 1,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2017/dwc10-carbonator.json"
+    ]
+}

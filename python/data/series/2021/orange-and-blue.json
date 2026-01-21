@@ -1,0 +1,11 @@
+{
+    "series_id": "orange-and-blue",
+    "year": 2021,
+    "name": "Orange and Blue",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2021/grp83-70-dodge-hemi-challenger.json",
+        "data/releases/2021/grr42-custom-cadillac-fleetwood.json"
+    ]
+}

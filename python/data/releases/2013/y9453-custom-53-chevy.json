@@ -1,0 +1,24 @@
+{
+    "release_id": "y9453-custom-53-chevy-2013",
+    "toy_number": "Y9453",
+    "casting_id": "custom-53-chevy",
+    "year": 2013,
+    "series_id": "cool-classics",
+    "series_index": 30,
+    "specs": {
+        "color": "Spectrafrost Gold",
+        "tampo": "Orange & Silver stripes on sides, roof, & trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gold RSW's"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/HW-Cool_Classics--30-Custom_%2753_Chevy.jpg/revision/latest?cb=20140226030659"
+    }
+}

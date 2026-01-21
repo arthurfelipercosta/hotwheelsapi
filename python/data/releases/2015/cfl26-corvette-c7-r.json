@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "New Model Base code(s): H19, H21, H24",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/DSC_5666.jpg/revision/latest?cb=20170731083401"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/DSC_5666.jpg/revision/latest?cb=20170731083401"
+    }
 }

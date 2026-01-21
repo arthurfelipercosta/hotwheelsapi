@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-speed-graphics",
+    "year": 2016,
+    "name": "HW Speed Graphics",
+    "total_releases": 2,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2016/dhr78-ford-gt.json",
+        "data/releases/2016/dhx89-ford-gt.json"
+    ]
+}

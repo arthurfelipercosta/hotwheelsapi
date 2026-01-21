@@ -18,5 +18,7 @@
     },
     "country": "Thailand",
     "notes": "Base code(s): E09",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/67/%2712FordMustang.jpg/revision/latest?cb=20240107132212"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/%2712FordMustang.jpg/revision/latest?cb=20240107132212"
+    }
 }

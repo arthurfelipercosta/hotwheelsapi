@@ -1,0 +1,24 @@
+{
+    "release_id": "jbb05-17-ford-f-150-raptor-2025",
+    "toy_number": "JBB05",
+    "casting_id": "17-ford-f-150-raptor",
+    "year": 2025,
+    "series_id": "hw-dirt",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Detailed headlights, taillights. \"Ford Performance\", \"Raptor\", \"17\", \"F-150\", white and red stripes, \"RIGID\", \"BF GOODRICH\", Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U09N, U10N, U12N, U13N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/2017FordRaptorRace.jpg/revision/latest?cb=20250416123828"
+    }
+}

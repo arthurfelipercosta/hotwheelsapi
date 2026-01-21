@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-off-road-road-rally",
+    "year": 2014,
+    "name": "HW Off‑Road: Road Rally",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bfc99-subaru-impreza.json",
+        "data/releases/2014/bff44-subaru-impreza.json"
+    ]
+}

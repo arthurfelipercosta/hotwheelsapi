@@ -2,10 +2,13 @@
     "series_id": "red-edition",
     "year": 2019,
     "name": "Red Edition",
-    "total_releases": 3,
+    "total_releases": 6,
     "max_index": 5,
     "releases": [
+        "data/releases/2019/fyg65-custom-53-cadillac.json",
         "data/releases/2019/fyg66-srt-viper-gts-r.json",
+        "data/releases/2019/fyg70-hw50-concept.json",
+        "data/releases/2019/fyg71-67-chevy-c10.json",
         "data/releases/2019/gmr66-corvette-c7-r.json",
         "data/releases/2019/gmr66-corvette-c7-r.json"
     ]

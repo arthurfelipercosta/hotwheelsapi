@@ -1,0 +1,24 @@
+{
+    "release_id": "hct65-batmobile-2022",
+    "toy_number": "HCT65",
+    "casting_id": "batmobile",
+    "year": 2022,
+    "series_id": "batman",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Gunmetal Gray",
+        "tampo": "Detailed taillights & brakelamp, silver engine",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark chrome",
+        "wheel_type": {
+            "0": "Black AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R13, R14, R16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/PattinsonBatmobileGunmetal.jpg/revision/latest?cb=20220721135236"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "casting_id": "lb-works-lamborghini-hurac-n-coup",
+    "name": "LB-WORKS Lamborghini Huracán Coupé",
+    "description": {
+        "en-us": "LB-WORKS Lamborghini Huracán Coupé Debut series HW Speed Graphics Produced 2021 – Present Designer Ryu Asada Number GRX61",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx61-lb-works-lamborghini-hurac-n-coup.json",
+        "data/releases/2022/hct97-lb-works-lamborghini-hurac-n-coup.json",
+        "data/releases/2022/hcy55-lb-works-lamborghini-hurac-n-coup.json",
+        "data/releases/2024/hkc84-lb-works-lamborghini-hurac-n-coup.json",
+        "data/releases/2026/jjj53-lb-works-lamborghini-hurac-n-coup.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Lamborghini"
+}

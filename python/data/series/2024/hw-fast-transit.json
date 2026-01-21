@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-fast-transit",
+    "year": 2024,
+    "name": "HW Fast Transit",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2024/htf16-ain-t-fare.json"
+    ]
+}

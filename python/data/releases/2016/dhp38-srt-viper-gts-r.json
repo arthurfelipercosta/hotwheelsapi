@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Need for Speed Base code(s): J13, J15, J16",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/2-2016.jpg/revision/latest?cb=20160604091353"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/2-2016.jpg/revision/latest?cb=20160604091353"
+    }
 }

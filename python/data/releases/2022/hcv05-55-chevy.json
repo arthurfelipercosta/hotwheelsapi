@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv05-55-chevy-2022",
+    "toy_number": "HCV05",
+    "casting_id": "55-chevy",
+    "year": 2022,
+    "series_id": "chevy-bel-air",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Pinstriping, black detailing, \"Bel Air\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P35, P38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/HCV05_2022_020_%2755_Chevy.jpg/revision/latest?cb=20211203193805"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "casting_id": "range-rover-velar",
+    "name": "Range Rover Velar",
+    "description": {
+        "en-us": "Range Rover Velar Debut series Factory Fresh Produced 2019 - Present Designer Dmitriy Shakhmatov Number FYB37",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb37-range-rover-velar.json",
+        "data/releases/2019/fyg50-range-rover-velar.json",
+        "data/releases/2020/ghd01-range-rover-velar.json",
+        "data/releases/2020/ghf40-range-rover-velar.json",
+        "data/releases/2025/hyy63-range-rover-velar.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

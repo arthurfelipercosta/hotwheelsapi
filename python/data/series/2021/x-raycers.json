@@ -1,0 +1,14 @@
+{
+    "series_id": "x-raycers",
+    "year": 2021,
+    "name": "X‑Raycers",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2021/grx53-draftnator.json",
+        "data/releases/2021/gtb29-69-chevelle.json",
+        "data/releases/2021/gtb31-slide-kick.json",
+        "data/releases/2021/gtb85-draftnator.json",
+        "data/releases/2021/gtc46-69-chevelle.json"
+    ]
+}

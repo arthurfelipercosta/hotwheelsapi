@@ -1,0 +1,12 @@
+{
+    "series_id": "despicable-me",
+    "year": 2017,
+    "name": "Despicable Me",
+    "total_releases": 3,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2017/dwf14-monster-dairy-delivery.json",
+        "data/releases/2017/dwf15-deora-ii.json",
+        "data/releases/2017/dwf16-fish-d-chip-d.json"
+    ]
+}

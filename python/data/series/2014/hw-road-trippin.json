@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-road-trippin",
+    "year": 2014,
+    "name": "HW Road Trippin'",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2014/bdk73-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2014/bdk78-83-chevy-silverado.json",
+        "data/releases/2014/bdk94-custom-cadillac-fleetwood.json"
+    ]
+}

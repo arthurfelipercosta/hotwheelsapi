@@ -1,0 +1,24 @@
+{
+    "release_id": "jbb10-track-dwagon-2025",
+    "toy_number": "JBB10",
+    "casting_id": "track-dwagon",
+    "year": 2025,
+    "series_id": "hw-wagons",
+    "series_index": 2,
+    "specs": {
+        "color": "White",
+        "tampo": "Black, lime green, and blue design on sides, \"34\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Front: White FC3 Back: Black FC3"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Hot Wheels Let's Race Base code(s): U09N, U10N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/Track%27dWagon.jpg/revision/latest?cb=20250416123937"
+    }
+}

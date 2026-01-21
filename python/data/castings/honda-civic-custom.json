@@ -1,0 +1,22 @@
+{
+    "casting_id": "honda-civic-custom",
+    "name": "Honda Civic Custom",
+    "description": {
+        "en-us": "Honda Civic Custom Debut series HW J-Imports Produced 2022 – Present Designer Dmitriy Shakhmatov Number HCT11",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct11-honda-civic-custom.json",
+        "data/releases/2022/hcx78-honda-civic-custom.json",
+        "data/releases/2023/hkh33-honda-civic-custom.json",
+        "data/releases/2023/hkl48-honda-civic-custom.json",
+        "data/releases/2024/x6999-honda-civic-custom.json",
+        "data/releases/2025/jbb22-honda-civic-custom.json",
+        "data/releases/2026/jjj81-honda-civic-custom.json",
+        "data/releases/2026/jjm20-honda-civic-custom.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Honda"
+}

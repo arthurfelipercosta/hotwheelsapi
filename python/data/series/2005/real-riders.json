@@ -1,0 +1,12 @@
+{
+    "series_id": "real-riders",
+    "year": 2005,
+    "name": "Real Riders",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2005/g7798-71-mustang-funny-car.json",
+        "data/releases/2005/h9211-59-chevy-bel-air.json",
+        "data/releases/2005/h9213-33-ford-lo-boy.json"
+    ]
+}

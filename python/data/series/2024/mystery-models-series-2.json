@@ -1,0 +1,12 @@
+{
+    "series_id": "mystery-models-series-2",
+    "year": 2024,
+    "name": "Mystery Models (Series 2)",
+    "total_releases": 3,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2024/hvw77-bone-shaker.json",
+        "data/releases/2024/hvw78-fish-d-chip-d.json",
+        "data/releases/2024/hvw81-cruise-bruiser.json"
+    ]
+}

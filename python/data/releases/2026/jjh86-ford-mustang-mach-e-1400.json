@@ -1,0 +1,24 @@
+{
+    "release_id": "jjh86-ford-mustang-mach-e-1400-2026",
+    "toy_number": "JJH86",
+    "casting_id": "ford-mustang-mach-e-1400",
+    "year": 2026,
+    "series_id": "hw-ev",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Red, white and turquoise GTR livery",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Dark Gray E10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U34N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/MustangMach-E1400.jpg/revision/latest?cb=20251015121504"
+    }
+}

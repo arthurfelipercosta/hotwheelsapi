@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-road-trippin",
+    "year": 2015,
+    "name": "HW Road Trippin'",
+    "total_releases": 3,
+    "max_index": 17,
+    "releases": [
+        "data/releases/2015/dfl40-47-chevy-fleetline.json",
+        "data/releases/2015/dfl49-70-chevelle-ss-wagon.json",
+        "data/releases/2015/dfl50-custom-56-ford-truck.json"
+    ]
+}

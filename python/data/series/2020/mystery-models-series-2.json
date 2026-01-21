@@ -2,9 +2,12 @@
     "series_id": "mystery-models-series-2",
     "year": 2020,
     "name": "Mystery Models (Series 2)",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 10,
     "releases": [
+        "data/releases/2020/gjl92-bone-shaker.json",
+        "data/releases/2020/gjm01-2013-srt-viper.json",
+        "data/releases/2020/gjm02-55-chevy.json",
         "data/releases/2020/x6999-carbonic.json"
     ]
 }

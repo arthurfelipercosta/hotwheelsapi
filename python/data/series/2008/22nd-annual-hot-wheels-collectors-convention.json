@@ -1,0 +1,11 @@
+{
+    "series_id": "22nd-annual-hot-wheels-collectors-convention",
+    "year": 2008,
+    "name": "22nd Annual Hot Wheels Collectors Convention",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2008/l8735-custom-otto.json",
+        "data/releases/2008/l8740-purple-passion.json"
+    ]
+}

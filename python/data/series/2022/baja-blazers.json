@@ -1,0 +1,15 @@
+{
+    "series_id": "baja-blazers",
+    "year": 2022,
+    "name": "Baja Blazers",
+    "total_releases": 6,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2022/hct49-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2022/hct50-20-jeep-gladiator.json",
+        "data/releases/2022/hcv03-humvee.json",
+        "data/releases/2022/hcw64-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2022/hcw66-20-jeep-gladiator.json",
+        "data/releases/2022/hcy25-20-jeep-gladiator.json"
+    ]
+}

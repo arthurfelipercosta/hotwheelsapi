@@ -1,0 +1,11 @@
+{
+    "series_id": "mopar",
+    "year": 2023,
+    "name": "Mopar",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2023/hlk09-68-dodge-dart.json",
+        "data/releases/2023/hlk12-71-dodge-challenger.json"
+    ]
+}

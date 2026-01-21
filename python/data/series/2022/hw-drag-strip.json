@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-drag-strip",
+    "year": 2022,
+    "name": "HW Drag Strip",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2022/hct12-62-corvette-gasser.json",
+        "data/releases/2022/hcv90-supercharged.json",
+        "data/releases/2022/hcx95-71-mustang-funny-car.json"
+    ]
+}

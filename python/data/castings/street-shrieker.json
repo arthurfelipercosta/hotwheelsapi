@@ -1,0 +1,16 @@
+{
+    "casting_id": "street-shrieker",
+    "name": "Street Shrieker",
+    "description": {
+        "en-us": "Street Shrieker Debut series Hot Wheels Let's Race Produced 2025 – Present Designer Fraser Campbell Number HYW20",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw20-street-shrieker.json",
+        "data/releases/2025/jbc08-street-shrieker.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

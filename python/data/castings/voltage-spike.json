@@ -1,0 +1,20 @@
+{
+    "casting_id": "voltage-spike",
+    "name": "Voltage Spike",
+    "description": {
+        "en-us": "Voltage Spike Debut series HW Glow Wheels Produced 2016 - Present Designer Mark Jones Number DHN97",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhn97-voltage-spike.json",
+        "data/releases/2016/dhw67-voltage-spike.json",
+        "data/releases/2017/dty09-voltage-spike.json",
+        "data/releases/2017/dvb93-voltage-spike.json",
+        "data/releases/2018/fkt66-voltage-spike.json",
+        "data/releases/2020/ghp63-voltage-spike.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

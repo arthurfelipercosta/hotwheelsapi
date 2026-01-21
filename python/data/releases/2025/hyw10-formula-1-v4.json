@@ -1,0 +1,24 @@
+{
+    "release_id": "hyw10-formula-1-2025",
+    "toy_number": "HYW10",
+    "casting_id": "formula-1",
+    "year": 2025,
+    "series_id": "track-aces",
+    "series_index": 1,
+    "specs": {
+        "color": "Night Sky",
+        "tampo": "Red Bull Racing livery, Red Bull, Oracle, Bybit, ROKT, Castore, Honda logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Also in Formula 1 Grand Prix Circuit New Model Base code(s): T41, T43, T44, T46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/RedBullRacingRB20.jpg/revision/latest?cb=20241125121206"
+    }
+}

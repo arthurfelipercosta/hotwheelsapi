@@ -1,0 +1,11 @@
+{
+    "series_id": "stars-stripes",
+    "year": 2020,
+    "name": "Stars & Stripes",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2020/gjw75-70-chevy-camaro-rs.json",
+        "data/releases/2020/gjw83-blazer-4-4.json"
+    ]
+}

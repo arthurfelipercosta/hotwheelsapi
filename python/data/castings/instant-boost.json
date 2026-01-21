@@ -1,0 +1,16 @@
+{
+    "casting_id": "instant-boost",
+    "name": "Instant Boost",
+    "description": {
+        "en-us": "Instant Boost Debut series HW Starting Grid Produced 2026 – Present Designer Charlie Angulo Number JJH31",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2026/jjh31-instant-boost.json",
+        "data/releases/2026/jjk73-instant-boost.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2026,
+    "manufacturer": "Mattel"
+}

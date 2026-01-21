@@ -1,0 +1,26 @@
+{
+    "release_id": "htf24-bone-shaker-2024",
+    "toy_number": "HTF24",
+    "casting_id": "bone-shaker",
+    "year": 2024,
+    "series_id": "hw-track-champs",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "Red TH logo, Black outer Flames, \"B/S\" '84' and sponsors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Smoked Chrome",
+        "wheel_type": {
+            "0": "Whitewall",
+            "1": "White",
+            "2": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Treasure Hunt Base code(s): T12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/2024_Bone_Shaker.jpg/revision/latest?cb=20250128164950"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "p2372-55-chevy-2009",
+    "toy_number": "P2372",
+    "casting_id": "55-chevy",
+    "year": 2009,
+    "series_id": "trea-ure-hunt",
+    "series_index": 10,
+    "specs": {
+        "color": "Spectraflame Magenta",
+        "tampo": "Silver & Pink outlined flames, Silver trim, \"Bel Air\" & \"TH\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Whitewall RR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): A48, A49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/55_Chevy_-_09_TH_Super.jpg/revision/latest?cb=20090818051929"
+    }
+}

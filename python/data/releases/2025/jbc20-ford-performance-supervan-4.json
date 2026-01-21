@@ -1,0 +1,24 @@
+{
+    "release_id": "jbc20-ford-performance-supervan-4-2025",
+    "toy_number": "JBC20",
+    "casting_id": "ford-performance-supervan-4",
+    "year": 2025,
+    "series_id": "hw-first-response",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow hazard striping, \"HW FIRST RESPONSE\" on sides, heart pulse graphic, light green chevrons, Ford logo on front quarterpanel, Treasure Hunt flame logo on rear quarterpanel, \"Supervan 4\" badging on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Lime green",
+        "wheel_type": {
+            "0": "CBPR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Treasure Hunt Base code(s): T32, T33, T34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/FirstResponseSupervan.jpg/revision/latest?cb=20241111104248"
+    }
+}

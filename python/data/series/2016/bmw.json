@@ -1,0 +1,13 @@
+{
+    "series_id": "bmw",
+    "year": 2016,
+    "name": "BMW",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2016/dhr80-bmw-2002.json",
+        "data/releases/2016/dhx60-bmw-2002.json",
+        "data/releases/2016/dhx90-bmw-2002.json",
+        "data/releases/2016/djm83-bmw-2002.json"
+    ]
+}

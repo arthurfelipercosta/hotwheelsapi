@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-modified",
+    "year": 2025,
+    "name": "HW Modified",
+    "total_releases": 10,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2025/hyw16-66-buick-riviera.json",
+        "data/releases/2025/hyw32-renault-espace-f1.json",
+        "data/releases/2025/hyx00-22-ford-maverick-custom.json",
+        "data/releases/2025/hyx16-punk-rod.json",
+        "data/releases/2025/hyx72-punk-rod.json",
+        "data/releases/2025/hyy16-punk-rod.json",
+        "data/releases/2025/hyy92-ford-gt.json",
+        "data/releases/2025/jbb56-66-buick-riviera.json",
+        "data/releases/2025/jbb75-ford-gt.json",
+        "data/releases/2025/jbb76-renault-espace-f1.json"
+    ]
+}

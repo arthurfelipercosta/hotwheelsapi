@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-speed-team",
+    "year": 2022,
+    "name": "HW Speed Team",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2022/hcy05-draftnator.json"
+    ]
+}

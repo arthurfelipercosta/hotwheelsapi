@@ -1,0 +1,14 @@
+{
+    "series_id": "connect-cars",
+    "year": 2009,
+    "name": "Connect Cars",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2009/n4179-64-impala.json",
+        "data/releases/2009/n4183-custom-56-ford-truck.json",
+        "data/releases/2009/n4194-58-impala.json",
+        "data/releases/2009/n4195-70-plymouth-superbird.json",
+        "data/releases/2009/p2088-68-dodge-dart.json"
+    ]
+}

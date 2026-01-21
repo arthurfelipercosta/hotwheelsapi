@@ -1,0 +1,24 @@
+{
+    "release_id": "w3852-subaru-impreza-2012",
+    "toy_number": "W3852",
+    "casting_id": "subaru-impreza",
+    "year": 2012,
+    "series_id": "light-speeders",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "White Subaru logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): D49, E30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/W3852.jpg/revision/latest?cb=20150610070635"
+    }
+}

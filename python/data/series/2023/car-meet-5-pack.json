@@ -1,0 +1,11 @@
+{
+    "series_id": "car-meet-5-pack",
+    "year": 2023,
+    "name": "Car Meet 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2023/hly78-big-air-bel-air.json",
+        "data/releases/2023/hly78-custom-18-ford-mustang-gt.json"
+    ]
+}

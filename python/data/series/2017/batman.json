@@ -1,0 +1,11 @@
+{
+    "series_id": "batman",
+    "year": 2017,
+    "name": "Batman",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2017/dty49-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2017/dvc91-the-brave-and-the-bold-batmobile.json"
+    ]
+}

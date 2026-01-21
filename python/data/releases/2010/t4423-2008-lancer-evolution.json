@@ -19,5 +19,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s):",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Lancer_Speed_WHite.JPG/revision/latest?cb=20100710111727"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Lancer_Speed_WHite.JPG/revision/latest?cb=20100710111727"
+    }
 }

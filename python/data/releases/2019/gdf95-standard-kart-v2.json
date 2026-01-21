@@ -1,0 +1,24 @@
+{
+    "release_id": "gdf95-standard-kart-2019",
+    "toy_number": "GDF95",
+    "casting_id": "standard-kart",
+    "year": 2019,
+    "series_id": "san-diego-comic-con",
+    "series_index": null,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Metal Mario emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/Metal_Mario.jpg/revision/latest?cb=20201112140350"
+    }
+}

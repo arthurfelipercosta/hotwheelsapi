@@ -18,5 +18,7 @@
     },
     "country": "Malaysia",
     "notes": "Base code(s): H09, H11, H12",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Custom_15_Mustang_%28CFJ17%29_%28loose%29.jpg/revision/latest?cb=20170823004319"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Custom_15_Mustang_%28CFJ17%29_%28loose%29.jpg/revision/latest?cb=20170823004319"
+    }
 }

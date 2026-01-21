@@ -1,0 +1,33 @@
+{
+    "casting_id": "escort-rally",
+    "name": "Escort Rally",
+    "description": {
+        "en-us": "Escort Rally Debut series 1998 First Editions Produced 1998 - 2019 (original) 2017 – Present ( retool ) Designer Phil Riehlman Number 18143",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/1998/18143-escort-rally.json",
+        "data/releases/1998/18838-escort-rally.json",
+        "data/releases/1999/21332-escort-rally.json",
+        "data/releases/2000/25370-escort-rally.json",
+        "data/releases/2001/50057-50054-escort-rally.json",
+        "data/releases/2003/57201-escort-rally.json",
+        "data/releases/2004/b3595-escort-rally.json",
+        "data/releases/2005/g6811-escort-rally.json",
+        "data/releases/2009/l9971-escort-rally.json",
+        "data/releases/2011/v8707-escort-rally.json",
+        "data/releases/2013/bbf71-escort-rally.json",
+        "data/releases/2019/fyx96-escort-rally.json",
+        "data/releases/2017/dvf88-escort-rally.json",
+        "data/releases/2019/fyl12-escort-rally.json",
+        "data/releases/2021/grr10-escort-rally.json",
+        "data/releases/2025/jbb17-escort-rally.json",
+        "data/releases/2025/jbb99-escort-rally.json",
+        "data/releases/2026/jky37-escort-rally.json",
+        "data/releases/2026/jkx90-escort-rally.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 1998,
+    "manufacturer": "Mattel"
+}

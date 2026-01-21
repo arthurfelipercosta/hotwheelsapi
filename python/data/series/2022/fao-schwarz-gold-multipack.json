@@ -1,0 +1,12 @@
+{
+    "series_id": "fao-schwarz-gold-multipack",
+    "year": 2022,
+    "name": "FAO Schwarz Gold Multipack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2022/hnb86-67-camaro.json",
+        "data/releases/2022/hnb86-bone-shaker.json",
+        "data/releases/2022/hnb86-land-rover-defender-90.json"
+    ]
+}

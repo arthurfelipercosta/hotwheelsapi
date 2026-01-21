@@ -1,0 +1,11 @@
+{
+    "series_id": "disney-100-holiday",
+    "year": 2023,
+    "name": "Disney 100 Holiday",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hlk39-67-austin-mini-van.json",
+        "data/releases/2023/hlk42-stockar.json"
+    ]
+}

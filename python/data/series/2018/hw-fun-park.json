@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-fun-park",
+    "year": 2018,
+    "name": "HW Fun Park",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2018/fjx85-chill-mill.json",
+        "data/releases/2018/fkb83-chill-mill.json"
+    ]
+}

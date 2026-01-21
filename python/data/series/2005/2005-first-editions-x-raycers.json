@@ -1,0 +1,11 @@
+{
+    "series_id": "2005-first-editions-x-raycers",
+    "year": 2005,
+    "name": "2005 First Editions: X‑Raycers",
+    "total_releases": 2,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2005/g6713-69-chevelle.json",
+        "data/releases/2005/g6718-stockar.json"
+    ]
+}

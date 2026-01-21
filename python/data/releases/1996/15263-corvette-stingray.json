@@ -1,0 +1,26 @@
+{
+    "release_id": "15263-corvette-stingray-1996",
+    "toy_number": "15263",
+    "casting_id": "corvette-stingray",
+    "year": 1996,
+    "series_id": "fast-food",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "covered with multi-colored peperoni pizza",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black opaque",
+        "interior_color": "none",
+        "wheel_type": {
+            "0": "3SP",
+            "1": "5SP",
+            "2": "7SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Pizza Vette",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Corvette_Stingray_Pza3sp.JPG/revision/latest?cb=20090214163452"
+    }
+}

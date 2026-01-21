@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-modified",
+    "year": 2024,
+    "name": "HW Modified",
+    "total_releases": 8,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2024/hry53-drift-n-break.json",
+        "data/releases/2024/hry61-pontiac-aztek-custom.json",
+        "data/releases/2024/hry67-bmw-m3-wagon.json",
+        "data/releases/2024/htb70-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2024/htd15-drift-n-break.json",
+        "data/releases/2024/htd37-pontiac-aztek-custom.json",
+        "data/releases/2024/htd89-bmw-m3-wagon.json",
+        "data/releases/2024/htf33-89-mercedes-benz-560-sec-amg.json"
+    ]
+}

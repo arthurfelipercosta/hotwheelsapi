@@ -1,0 +1,24 @@
+{
+    "release_id": "dhn97-voltage-spike-2016",
+    "toy_number": "DHN97",
+    "casting_id": "voltage-spike",
+    "year": 2016,
+    "series_id": "hw-glow-wheels",
+    "series_index": 4,
+    "specs": {
+        "color": "Pearl Red",
+        "tampo": "White, Yellow, & Orange stripes on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Glow-in-the-Dark 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): H46, H49 New Model",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/VoltageSpike.jpg/revision/latest?cb=20160829084339"
+    }
+}

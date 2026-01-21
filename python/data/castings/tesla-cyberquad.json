@@ -1,0 +1,16 @@
+{
+    "casting_id": "tesla-cyberquad",
+    "name": "Tesla Cyberquad",
+    "description": {
+        "en-us": "Tesla Cyberquad Debut series HW Dirt Produced 2025 – Present Designer Shawn Moghadam Number HYW31\n\nThe Tesla Cyberquad is a concept all-terrain vehicle intended to be paired with the Tesla Cybertruck , featuring a similar design language and is intended to fit in the back of the Cybertruck. Designed by Franz von Holzhausen, the Cyberquad was first announced with the Cybertruck in 2019 but no further details were made available for the vehicle; the Cyberquad has yet to enter production despite the Cybertruck entering production in 2023.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw31-tesla-cyberquad.json",
+        "data/releases/2025/hyx91-tesla-cyberquad.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Tesla"
+}

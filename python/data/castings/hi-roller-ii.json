@@ -1,0 +1,18 @@
+{
+    "casting_id": "hi-roller-ii",
+    "name": "Hi-Roller II",
+    "description": {
+        "en-us": "Hi-Roller II Debut series HW Rolling Metal Produced 2024 – Present Designer Fraser Campbell Number HRY94",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry94-hi-roller-ii.json",
+        "data/releases/2025/hyx07-hi-roller-ii.json",
+        "data/releases/2025/jbc37-hi-roller-ii.json",
+        "data/releases/2026/jkw00-hi-roller-ii.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

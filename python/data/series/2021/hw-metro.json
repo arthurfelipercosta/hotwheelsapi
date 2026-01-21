@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-metro",
+    "year": 2021,
+    "name": "HW Metro",
+    "total_releases": 4,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2021/grx49-raijin-express.json",
+        "data/releases/2021/grx52-ain-t-fare.json",
+        "data/releases/2021/gtb63-raijin-express.json",
+        "data/releases/2021/gtb64-ain-t-fare.json"
+    ]
+}

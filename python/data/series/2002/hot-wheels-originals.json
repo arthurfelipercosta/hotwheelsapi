@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-originals",
+    "year": 2002,
+    "name": "Hot Wheels Originals",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2002/56025-deora-ii.json",
+        "data/releases/2002/56031-purple-passion.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hkf24-91-gmc-syclone-2023",
+    "toy_number": "HKF24",
+    "casting_id": "91-gmc-syclone",
+    "year": 2023,
+    "series_id": "hot-wheels-boulevard-80",
+    "series_index": null,
+    "specs": {
+        "color": "Celeste",
+        "tampo": "Detailed headlights and taillights, and grill, white cladding, light green Syclone wordmark on doors and tailgate, white strobe stripes on hood and sides, \"SCYO\" rear license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "RRPrf"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S16, S17, S18.",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/GMCSyclone.jpg/revision/latest?cb=20230617131347"
+    }
+}

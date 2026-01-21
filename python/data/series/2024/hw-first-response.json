@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-first-response",
+    "year": 2024,
+    "name": "HW First Response",
+    "total_releases": 8,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2024/hry68-rapid-pulse.json",
+        "data/releases/2024/htb58-humvee.json",
+        "data/releases/2024/htb62-mazda-rx-7.json",
+        "data/releases/2024/htd00-humvee.json",
+        "data/releases/2024/htd54-mazda-rx-7.json",
+        "data/releases/2024/htd71-rapid-pulse.json",
+        "data/releases/2024/htf15-47-chevy-fleetline.json",
+        "data/releases/2024/htf61-mazda-rx-7.json"
+    ]
+}

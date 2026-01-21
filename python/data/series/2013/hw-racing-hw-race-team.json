@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-racing-hw-race-team",
+    "year": 2013,
+    "name": "HW Racing: HW Race Team",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1660-arrow-dynamic.json",
+        "data/releases/2013/x1933-arrow-dynamic.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "casting_id": "roller-toaster",
+    "name": "Roller Toaster",
+    "description": {
+        "en-us": "Roller Toaster Debut series Legends of Speed Produced 2017 - Present Designer Ryu Asada Number DTX14",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx14-roller-toaster.json",
+        "data/releases/2017/dvb17-roller-toaster.json",
+        "data/releases/2018/fjx82-roller-toaster.json",
+        "data/releases/2019/fyc04-roller-toaster.json",
+        "data/releases/2019/fyg43-roller-toaster.json",
+        "data/releases/2019/n-a-roller-toaster.json",
+        "data/releases/2020/ghc08-roller-toaster.json",
+        "data/releases/2020/ghf59-roller-toaster.json",
+        "data/releases/2023/hkh20-roller-toaster.json",
+        "data/releases/2023/hkj93-roller-toaster.json",
+        "data/releases/2026/jjj10-roller-toaster.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

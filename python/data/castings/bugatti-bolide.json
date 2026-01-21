@@ -1,0 +1,20 @@
+{
+    "casting_id": "bugatti-bolide",
+    "name": "Bugatti Bolide",
+    "description": {
+        "en-us": "Bugatti Bolide Debut series HW Exotics Produced 2023 – Present Designer Sonny Fisher Number HKG64",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg64-bugatti-bolide.json",
+        "data/releases/2024/htc22-bugatti-bolide.json",
+        "data/releases/2024/htf08-bugatti-bolide.json",
+        "data/releases/2025/jbk79-bugatti-bolide.json",
+        "data/releases/2025/jbk80-bugatti-bolide.json",
+        "data/releases/2026/jjj20-bugatti-bolide.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Bugatti"
+}

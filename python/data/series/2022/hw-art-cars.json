@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-art-cars",
+    "year": 2022,
+    "name": "HW Art Cars",
+    "total_releases": 7,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2022/hct53-raijin-express.json",
+        "data/releases/2022/hcw34-68-dodge-dart.json",
+        "data/releases/2022/hcw43-electro-silhouette.json",
+        "data/releases/2022/hcw96-68-dodge-dart.json",
+        "data/releases/2022/hcx59-raijin-express.json",
+        "data/releases/2022/hcx98-58-impala.json",
+        "data/releases/2022/hcy52-68-dodge-dart.json"
+    ]
+}

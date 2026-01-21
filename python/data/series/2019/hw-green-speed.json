@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-green-speed",
+    "year": 2019,
+    "name": "HW Green Speed",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2019/fyb52-electro-silhouette.json",
+        "data/releases/2019/fyg51-electro-silhouette.json"
+    ]
+}

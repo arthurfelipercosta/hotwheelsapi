@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-j-imports",
+    "year": 2026,
+    "name": "HW J-Imports",
+    "total_releases": 6,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2026/jjh37-toyota-prius-custom.json",
+        "data/releases/2026/jjj29-mazda-rx-7.json",
+        "data/releases/2026/jjj51-nissan-skyline-2000gt-r.json",
+        "data/releases/2026/jjj52-1985-honda-cr-x.json",
+        "data/releases/2026/jjj72-89-mazda-savanna-rx-7-fc3s.json",
+        "data/releases/2026/jjm48-toyota-prius-custom.json"
+    ]
+}

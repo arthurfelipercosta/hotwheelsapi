@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-speed-graphics",
+    "year": 2017,
+    "name": "HW Speed Graphics",
+    "total_releases": 5,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2017/dtw92-2016-ford-gt-race.json",
+        "data/releases/2017/dtx63-honda-odyssey.json",
+        "data/releases/2017/dtx65-15-mazda-mx-5-miata.json",
+        "data/releases/2017/dvb59-2016-ford-gt-race.json",
+        "data/releases/2017/dvb63-15-mazda-mx-5-miata.json"
+    ]
+}

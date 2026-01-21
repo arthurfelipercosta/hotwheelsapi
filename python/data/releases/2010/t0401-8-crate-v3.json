@@ -1,0 +1,25 @@
+{
+    "release_id": "t0401-8-crate-2010",
+    "toy_number": "T0401",
+    "casting_id": "8-crate",
+    "year": 2010,
+    "series_id": "hot-wheels-garage-phil-s-garage",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Silver & Blue",
+        "tampo": "Silver Headlights, Red Taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black RRPrf"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/8crate_PG_Silver.JPG/revision/latest?cb=20100906083122"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "casting_id": "20-ford-shelby-gt500",
+    "name": "20 Ford Shelby GT500",
+    "description": {
+        "en-us": "20 Ford Shelby GT500 Debut series Muscle Mania Produced 2020 - Present Designer Lindsey Lee Number GHB32",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb32-20-ford-shelby-gt500.json",
+        "data/releases/2020/gtd38-20-ford-shelby-gt500.json",
+        "data/releases/2021/gry02-20-ford-shelby-gt500.json",
+        "data/releases/2021/gtd09-20-ford-shelby-gt500.json",
+        "data/releases/2022/hdg69-20-ford-shelby-gt500.json",
+        "data/releases/2022/n-a-20-ford-shelby-gt500.json",
+        "data/releases/2023/hkf14-20-ford-shelby-gt500.json",
+        "data/releases/2024/hrv66-20-ford-shelby-gt500.json",
+        "data/releases/2024/hrw65-20-ford-shelby-gt500.json",
+        "data/releases/2025/jbb16-20-ford-shelby-gt500.json",
+        "data/releases/2025/hyy41-20-ford-shelby-gt500.json",
+        "data/releases/2026/jjh87-20-ford-shelby-gt500.json",
+        "data/releases/2026/jjm50-20-ford-shelby-gt500.json",
+        "data/releases/2026/jjk68-20-ford-shelby-gt500.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Ford"
+}

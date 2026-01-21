@@ -1,0 +1,24 @@
+{
+    "release_id": "hyx60-94-audi-avant-rs2-2025",
+    "toy_number": "HYX60",
+    "casting_id": "94-audi-avant-rs2",
+    "year": 2025,
+    "series_id": "hw-70s-vs-90s",
+    "series_index": 2,
+    "specs": {
+        "color": "Casablanca White",
+        "tampo": "Detailed headlights, grille, & taillights; Audi logo & Audi Avant RS2 logo on front & rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T50N, U02N, U05N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/1994AudiRS2.jpg/revision/latest?cb=20250120090139"
+    }
+}

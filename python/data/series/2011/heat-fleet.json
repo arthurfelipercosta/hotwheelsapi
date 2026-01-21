@@ -1,0 +1,17 @@
+{
+    "series_id": "heat-fleet",
+    "year": 2011,
+    "name": "Heat Fleet",
+    "total_releases": 8,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2011/t9798-custom-53-chevy.json",
+        "data/releases/2011/t9801-fish-d-chip-d.json",
+        "data/releases/2011/t9804-pass-n-gasser.json",
+        "data/releases/2011/t9804-pass-n-gasser.json",
+        "data/releases/2011/v0005-custom-53-chevy.json",
+        "data/releases/2011/v0017-pass-n-gasser.json",
+        "data/releases/2011/v0052-custom-53-chevy.json",
+        "data/releases/2011/v5217-fish-d-chip-d.json"
+    ]
+}

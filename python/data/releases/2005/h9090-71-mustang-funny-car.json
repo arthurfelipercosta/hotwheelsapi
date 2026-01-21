@@ -1,0 +1,24 @@
+{
+    "release_id": "h9090-71-mustang-funny-car-2005",
+    "toy_number": "H9090",
+    "casting_id": "71-mustang-funny-car",
+    "year": 2005,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Dark Orange",
+        "tampo": "Black, White & Gold graphics, \"Hot Wheels\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "ZAMAC",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Ford Mustang on international releases",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Mustangfunnycar.jpg/revision/latest?cb=20090614060504"
+    }
+}

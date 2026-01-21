@@ -1,0 +1,50 @@
+{
+    "release_id": "grx17-standard-kart-2021",
+    "toy_number": "GRX17",
+    "casting_id": "standard-kart",
+    "year": 2021,
+    "series_id": "hw-screen-time",
+    "series_index": 8,
+    "specs": {
+        "color": "Red & White",
+        "tampo": "Mario emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Yellow MK4S",
+            "1": "008",
+            "2": "250",
+            "3": "2022",
+            "4": "HW Screen Time 1",
+            "5": "10",
+            "6": "HCT55",
+            "7": "Identical to GRX17 Base code(s): P35",
+            "8": "P36",
+            "9": "P38",
+            "10": "029",
+            "11": "250",
+            "12": "2023",
+            "13": "HW Screen Time 2",
+            "14": "10",
+            "15": "Identical to GRX17 Base code(s): R36",
+            "16": "R38",
+            "17": "R40",
+            "18": "030",
+            "19": "250",
+            "20": "2025",
+            "21": "HW Screen Time 3",
+            "22": "10",
+            "23": "HYW83",
+            "24": "Identical to GRX17 Base code(s): T37",
+            "25": "T39",
+            "26": "T40"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/StandardKart.jpg/revision/latest?cb=20210926022809"
+    }
+}

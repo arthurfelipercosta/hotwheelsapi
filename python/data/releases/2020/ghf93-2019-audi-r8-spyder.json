@@ -1,0 +1,24 @@
+{
+    "release_id": "ghf93-2019-audi-r8-spyder-2020",
+    "toy_number": "GHF93",
+    "casting_id": "2019-audi-r8-spyder",
+    "year": 2020,
+    "series_id": "factory-fresh",
+    "series_index": 1,
+    "specs": {
+        "color": "Dynamite Red",
+        "tampo": "Detailed headlights & taillights, Audi & R8 logos, 'HWFF R8' license plates",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): N30, N31, N32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/GHF93-01.JPG/revision/latest?cb=20210225232059"
+    }
+}

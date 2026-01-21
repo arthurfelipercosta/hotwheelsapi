@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-circuit-legends",
+    "year": 2018,
+    "name": "Car Culture: Circuit Legends",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2018/flc25-mazda-787b.json",
+        "data/releases/2018/flc26-2016-ford-gt-race.json"
+    ]
+}

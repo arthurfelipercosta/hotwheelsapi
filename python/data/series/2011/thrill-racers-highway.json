@@ -1,0 +1,11 @@
+{
+    "series_id": "thrill-racers-highway",
+    "year": 2011,
+    "name": "Thrill Racers - Highway",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2011/t9896-lotus-sport-elise.json",
+        "data/releases/2011/t9898-nerve-hammer.json"
+    ]
+}

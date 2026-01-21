@@ -1,0 +1,24 @@
+{
+    "release_id": "n4018-custom-53-cadillac-2009",
+    "toy_number": "N4018",
+    "casting_id": "custom-53-cadillac",
+    "year": 2009,
+    "series_id": "2009-new-models",
+    "series_index": 15,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "Silver trim, 'Cadillac' & HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B11, B14, B16, B21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/09FECustom53CaddyRt.jpg/revision/latest?cb=20090614163723"
+    }
+}

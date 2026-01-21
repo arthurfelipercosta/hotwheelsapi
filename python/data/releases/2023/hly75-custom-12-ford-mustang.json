@@ -18,5 +18,7 @@
     },
     "country": "Indonesia",
     "notes": "Base code(s): S41",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Custom_%2712_Ford_Mustang_HWD5PACK.jpg/revision/latest?cb=20230909171443"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Custom_%2712_Ford_Mustang_HWD5PACK.jpg/revision/latest?cb=20230909171443"
+    }
 }

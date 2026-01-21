@@ -1,0 +1,16 @@
+{
+    "casting_id": "polestar-trx",
+    "name": "Polestar TRX",
+    "description": {
+        "en-us": "Polestar TRX Debut series Peak Pursuit Produced 2025 – Present Designer Shashank Shekhar and Bryan Benedict Number HYW29",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw29-polestar-trx.json",
+        "data/releases/2026/jjj48-polestar-trx.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Mattel"
+}

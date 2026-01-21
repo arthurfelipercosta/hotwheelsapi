@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc30-porsche-911-gt3-rs-2020",
+    "toy_number": "GHC30",
+    "casting_id": "porsche-911-gt3-rs",
+    "year": 2020,
+    "series_id": "hw-exotics",
+    "series_index": 4,
+    "specs": {
+        "color": "Matte Black",
+        "tampo": "Gold tribal designs. 'tfox' logo.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Chrome Rim",
+            "1": "Black J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N05, N06, N07, N08, N10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/GHC30_-_162_-_Porsche_911_GT3_RS.JPG/revision/latest?cb=20200606200922"
+    }
+}

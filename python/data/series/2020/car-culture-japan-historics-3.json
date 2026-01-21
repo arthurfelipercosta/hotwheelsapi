@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-japan-historics-3",
+    "year": 2020,
+    "name": "Car Culture: Japan Historics 3",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2020/gjp81-1975-datsun-sunny-truck-b120.json",
+        "data/releases/2020/gjp83-85-honda-city-turbo-ii.json"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "casting_id": "maserati-shamal",
+    "name": "Maserati Shamal",
+    "description": {
+        "en-us": "Maserati Shamal Debut series HW Metro Produced 2025 – Present Designer Shawn Moghadam Number HYW21",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw21-maserati-shamal.json",
+        "data/releases/2025/hyx76-maserati-shamal.json",
+        "data/releases/2026/jjh92-maserati-shamal.json",
+        "data/releases/2026/jjm57-maserati-shamal.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Maserati"
+}

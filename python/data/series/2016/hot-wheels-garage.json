@@ -1,0 +1,14 @@
+{
+    "series_id": "hot-wheels-garage",
+    "year": 2016,
+    "name": "Hot Wheels Garage",
+    "total_releases": 5,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2016/dlv33-70-chevelle-ss-wagon.json",
+        "data/releases/2016/dlv36-70-chevy-camaro-rs.json",
+        "data/releases/2016/dlv37-purple-passion.json",
+        "data/releases/2016/dlv38-70-dodge-hemi-challenger.json",
+        "data/releases/2016/dlv39-67-mustang.json"
+    ]
+}

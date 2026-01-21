@@ -1,0 +1,24 @@
+{
+    "release_id": "gbc62-screamliner-2019",
+    "toy_number": "GBC62",
+    "casting_id": "screamliner",
+    "year": 2019,
+    "series_id": "holiday-hot-rods",
+    "series_index": 2,
+    "specs": {
+        "color": "Green",
+        "tampo": "White & Red stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "Chrome Gold",
+        "wheel_type": {
+            "0": "Gold AeroDisc"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/95/HW_SCREAMLINER_Hw_winter_19_GREEN.jpg/revision/latest?cb=20191125200418"
+    }
+}

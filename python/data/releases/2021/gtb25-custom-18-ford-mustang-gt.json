@@ -1,0 +1,25 @@
+{
+    "release_id": "gtb25-custom-18-ford-mustang-gt-2021",
+    "toy_number": "GTB25",
+    "casting_id": "custom-18-ford-mustang-gt",
+    "year": 2021,
+    "series_id": "hw-drift",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Anthracite",
+        "tampo": "Formula Drift logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White MC5 & Chrome Red Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N46, N47, N48, N49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/GTB25-01.JPG/revision/latest?cb=20210625070415"
+    }
+}

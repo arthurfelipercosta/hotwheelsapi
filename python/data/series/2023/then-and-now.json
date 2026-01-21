@@ -1,0 +1,12 @@
+{
+    "series_id": "then-and-now",
+    "year": 2023,
+    "name": "Then and Now",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2023/hkj40-corvette-c7-z06.json",
+        "data/releases/2023/hkj45-20-dodge-charger-hellcat.json",
+        "data/releases/2023/hkl32-corvette-c7-z06.json"
+    ]
+}

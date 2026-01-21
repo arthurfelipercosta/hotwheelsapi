@@ -1,0 +1,21 @@
+{
+    "brand_id": "mazda",
+    "name": "Mazda",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/15-mazda-mx-5-miata.json",
+        "data/castings/mazda-autozam.json",
+        "data/castings/mazda-mx-5-miata.json",
+        "data/castings/mazda-repu.json",
+        "data/castings/95-mazda-rx-7-drift.json",
+        "data/castings/mazda-787b.json",
+        "data/castings/mazda-rx-3.json",
+        "data/castings/89-mazda-savanna-rx-7-fc3s.json",
+        "data/castings/mazda-rx-7.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Mazda vehicles.",
+        "pt-br": "Fabricante de veículos Mazda."
+    }
+}

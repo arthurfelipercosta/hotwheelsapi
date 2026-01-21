@@ -1,0 +1,29 @@
+{
+    "release_id": "r0916-67-shelby-gt500-2010",
+    "toy_number": "R0916",
+    "casting_id": "67-shelby-gt500",
+    "year": 2010,
+    "series_id": "2010-new-models",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Dark Green",
+        "tampo": "Gold stripes across top & on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "001",
+            "2": "214",
+            "3": "2010",
+            "4": "2010 HW Premiere 1",
+            "5": "52"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Also released on Target exclusive snowflake card Base code(s): B38, B45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/67shelbyGT500_green.JPG/revision/latest?cb=20091212090733"
+    }
+}

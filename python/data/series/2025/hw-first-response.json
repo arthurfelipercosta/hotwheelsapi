@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-first-response",
+    "year": 2025,
+    "name": "HW First Response",
+    "total_releases": 8,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2025/hyw27-drift-ender.json",
+        "data/releases/2025/hyw71-alpha-pursuit.json",
+        "data/releases/2025/hyw91-2020-ram-1500-rebel.json",
+        "data/releases/2025/hyx49-alpha-pursuit.json",
+        "data/releases/2025/hyy00-drift-ender.json",
+        "data/releases/2025/hyy76-rapid-pulse.json",
+        "data/releases/2025/jbb50-rapid-pulse.json",
+        "data/releases/2025/jbc20-ford-performance-supervan-4.json"
+    ]
+}

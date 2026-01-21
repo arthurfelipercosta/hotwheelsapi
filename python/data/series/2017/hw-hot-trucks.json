@@ -1,0 +1,21 @@
+{
+    "series_id": "hw-hot-trucks",
+    "year": 2017,
+    "name": "HW Hot Trucks",
+    "total_releases": 12,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2017/dtx35-custom-56-ford-truck.json",
+        "data/releases/2017/dtx72-17-ford-f-150-raptor.json",
+        "data/releases/2017/dtx73-67-chevy-c10.json",
+        "data/releases/2017/dtx76-blazer-4-4.json",
+        "data/releases/2017/dtx77-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2017/dvb66-blazer-4-4.json",
+        "data/releases/2017/dvb67-custom-56-ford-truck.json",
+        "data/releases/2017/dvb69-17-ford-f-150-raptor.json",
+        "data/releases/2017/dvb72-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2017/dvc88-67-chevy-c10.json",
+        "data/releases/2017/fbh82-custom-56-ford-truck.json",
+        "data/releases/2017/fdy58-1978-dodge-li-l-red-express-truck.json"
+    ]
+}

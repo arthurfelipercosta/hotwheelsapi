@@ -1,0 +1,24 @@
+{
+    "release_id": "cfk71-humvee-2015",
+    "toy_number": "CFK71",
+    "casting_id": "humvee",
+    "year": 2015,
+    "series_id": "hw-off-road-jungle-rally",
+    "series_index": null,
+    "specs": {
+        "color": "Green",
+        "tampo": "Yellow, Black & White tiger deco on sides, Yellow & Black HW logos on sides & across top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Yellow & Brown OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H22, H26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/HW-2015-105-Humvee-JungleRally.jpg/revision/latest?cb=20150906041249"
+    }
+}

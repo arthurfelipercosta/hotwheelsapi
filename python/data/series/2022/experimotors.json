@@ -1,0 +1,14 @@
+{
+    "series_id": "experimotors",
+    "year": 2022,
+    "name": "Experimotors",
+    "total_releases": 5,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2022/hct38-coupe-clip.json",
+        "data/releases/2022/hct39-layin-lowrider.json",
+        "data/releases/2022/hcx09-coupe-clip.json",
+        "data/releases/2022/hcx29-layin-lowrider.json",
+        "data/releases/2022/hcx96-gotta-go.json"
+    ]
+}

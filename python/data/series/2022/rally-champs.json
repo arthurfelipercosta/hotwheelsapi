@@ -1,0 +1,12 @@
+{
+    "series_id": "rally-champs",
+    "year": 2022,
+    "name": "Rally Champs",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2022/hcv29-84-audi-sport-quattro.json",
+        "data/releases/2022/hcx60-84-audi-sport-quattro.json",
+        "data/releases/2022/hcy39-84-audi-sport-quattro.json"
+    ]
+}

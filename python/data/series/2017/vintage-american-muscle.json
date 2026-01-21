@@ -1,0 +1,10 @@
+{
+    "series_id": "vintage-american-muscle",
+    "year": 2017,
+    "name": "Vintage American Muscle",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2017/dwc43-67-ford-mustang-coupe.json"
+    ]
+}

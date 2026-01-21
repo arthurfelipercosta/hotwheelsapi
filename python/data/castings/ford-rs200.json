@@ -1,0 +1,24 @@
+{
+    "casting_id": "ford-rs200",
+    "name": "Ford RS200",
+    "description": {
+        "en-us": "Ford RS200 Debut series Car Culture: Thrill Climbers Produced 2020 - Present Designer Mark Jones Number GJP91",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/gjp91-ford-rs200.json",
+        "data/releases/2020/hbf88-ford-rs200.json",
+        "data/releases/2021/bf032-ford-rs200.json",
+        "data/releases/2021/gtt28-ford-rs200.json",
+        "data/releases/2023/hkc18-ford-rs200.json",
+        "data/releases/2024/hvr60-ford-rs200.json",
+        "data/releases/2025/jbb49-ford-rs200.json",
+        "data/releases/2025/jbc49-ford-rs200.json",
+        "data/releases/2025/jjm43-ford-rs200.json",
+        "data/releases/2025/jbl29-ford-rs200.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Ford"
+}

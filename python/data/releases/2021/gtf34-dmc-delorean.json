@@ -1,0 +1,24 @@
+{
+    "release_id": "gtf34-dmc-delorean-2021",
+    "toy_number": "GTF34",
+    "casting_id": "dmc-delorean",
+    "year": 2021,
+    "series_id": "mystery-models-series-3",
+    "series_index": 1,
+    "specs": {
+        "color": "Black",
+        "tampo": "Yellow stripes on side & hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Green tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Chrome Green DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/%2781_DeLorean_DMC-12_Mystery_Models.jpg/revision/latest?cb=20241116142645"
+    }
+}

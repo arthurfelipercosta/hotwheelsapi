@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-drift",
+    "year": 2021,
+    "name": "HW Drift",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2021/gtb25-custom-18-ford-mustang-gt.json",
+        "data/releases/2021/gtb27-mazda-rx-3.json",
+        "data/releases/2021/gtc45-custom-18-ford-mustang-gt.json",
+        "data/releases/2021/gtd00-mazda-rx-3.json",
+        "data/releases/2021/gtd46-custom-18-ford-mustang-gt.json"
+    ]
+}

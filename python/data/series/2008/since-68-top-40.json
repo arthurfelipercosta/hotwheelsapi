@@ -1,0 +1,13 @@
+{
+    "series_id": "since-68-top-40",
+    "year": 2008,
+    "name": "Since '68: Top 40",
+    "total_releases": 4,
+    "max_index": 25,
+    "releases": [
+        "data/releases/2008/l2839-purple-passion.json",
+        "data/releases/2008/l2842-bone-shaker.json",
+        "data/releases/2008/m1546-67-mustang.json",
+        "data/releases/2008/n4608-bone-shaker.json"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "fast-furious",
+    "year": 2014,
+    "name": "Fast & Furious",
+    "total_releases": 2,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2014/cdr61-69-dodge-charger-daytona.json",
+        "data/releases/2014/y2134-67-mustang.json"
+    ]
+}

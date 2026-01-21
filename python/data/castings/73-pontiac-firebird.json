@@ -1,0 +1,31 @@
+{
+    "casting_id": "73-pontiac-firebird",
+    "name": "'73 Pontiac Firebird",
+    "description": {
+        "en-us": "'73 Pontiac Firebird Debut series 2012 New Models Produced 2012 - Present Designer Brendon Vetuskey Number V5304",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5304-73-pontiac-firebird.json",
+        "data/releases/2012/v5588-73-pontiac-firebird.json",
+        "data/releases/2013/x1851-73-pontiac-firebird.json",
+        "data/releases/2013/x2058-73-pontiac-firebird.json",
+        "data/releases/2014/bdl65-73-pontiac-firebird.json",
+        "data/releases/2015/x6999-73-pontiac-firebird.json",
+        "data/releases/2016/dhr34-73-pontiac-firebird.json",
+        "data/releases/2016/dhx32-73-pontiac-firebird.json",
+        "data/releases/2016/dhy09-73-pontiac-firebird.json",
+        "data/releases/2017/dvg01-73-pontiac-firebird.json",
+        "data/releases/2017/fjp19-73-pontiac-firebird.json",
+        "data/releases/2019/gbc00-73-pontiac-firebird.json",
+        "data/releases/2020/x6999-73-pontiac-firebird.json",
+        "data/releases/2020/x6999-73-pontiac-firebird-v2.json",
+        "data/releases/2020/x6999-73-pontiac-firebird-v3.json",
+        "data/releases/2021/grt24-73-pontiac-firebird.json",
+        "data/releases/2025/jbb41-73-pontiac-firebird.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

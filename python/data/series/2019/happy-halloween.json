@@ -1,0 +1,10 @@
+{
+    "series_id": "happy-halloween",
+    "year": 2019,
+    "name": "Happy Halloween!",
+    "total_releases": 1,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2019/gbc60-power-rocket.json"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "nissan",
+    "year": 2019,
+    "name": "Nissan",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2019/fyb74-nissan-skyline-gt-r-bnr32.json",
+        "data/releases/2019/fyd17-nissan-skyline-gt-r-bcnr33.json",
+        "data/releases/2019/fyf04-nissan-skyline-gt-r-bnr32.json",
+        "data/releases/2019/fyg26-nissan-skyline-gt-r-bcnr33.json"
+    ]
+}

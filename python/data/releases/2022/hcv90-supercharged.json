@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv90-supercharged-2022",
+    "toy_number": "HCV90",
+    "casting_id": "supercharged",
+    "year": 2022,
+    "series_id": "hw-drag-strip",
+    "series_index": 5,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow & White accents, \"Supercharged\", \"75\", \"HWGRFX\" & various sponsors logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Dark Gray AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): R20, R24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Supercharged_mainline.jpg/revision/latest?cb=20250228034759"
+    }
+}

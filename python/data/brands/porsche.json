@@ -1,0 +1,24 @@
+{
+    "brand_id": "porsche",
+    "name": "Porsche",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/porsche-911-gt3.json",
+        "data/castings/1983-porsche-928s.json",
+        "data/castings/porsche-904-carrera-gts.json",
+        "data/castings/porsche-911-carrera-clip.json",
+        "data/castings/porsche-911-gt3-rs.json",
+        "data/castings/porsche-911-rallye.json",
+        "data/castings/porsche-911-turbo-cabriolet.json",
+        "data/castings/96-porsche-carrera.json",
+        "data/castings/porsche-911-carrera-rs-2-7.json",
+        "data/castings/porsche-911-carrera-t.json",
+        "data/castings/porsche-911-gt2.json",
+        "data/castings/porsche-taycan-turbo-s.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Porsche vehicles.",
+        "pt-br": "Fabricante de veículos Porsche."
+    }
+}

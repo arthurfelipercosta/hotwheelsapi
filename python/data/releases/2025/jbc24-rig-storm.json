@@ -1,0 +1,24 @@
+{
+    "release_id": "jbc24-rig-storm-2025",
+    "toy_number": "JBC24",
+    "casting_id": "rig-storm",
+    "year": 2025,
+    "series_id": "x-raycers",
+    "series_index": 9,
+    "specs": {
+        "color": "Transparent plum",
+        "tampo": "Yellow and green striping, Treasure Hunt flame logo on doors, \"HWGRFX\" on side paneling",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Green tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "GOAD"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Hot Wheels Let's Race Treasure Hunt Updated tooling Base code(s): T49N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/2025_Rig_Storm.jpg/revision/latest?cb=20250409033332"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "series_id": "ehs-s-year-end-challenge",
+    "year": 2024,
+    "name": "EHS&S Year End Challenge",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2024/ehs-alpha-pursuit.json"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-ride-ons",
+    "year": 2024,
+    "name": "HW Ride-Ons",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2024/htf21-draggin-wagon.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "bfg15-2013-srt-viper-2014",
+    "toy_number": "BFG15",
+    "casting_id": "2013-srt-viper",
+    "year": 2014,
+    "series_id": "hw-workshop-hw-garage",
+    "series_index": null,
+    "specs": {
+        "color": "Sky Blue",
+        "tampo": "Reddish-brown & black stripes along top, SRT logo on roof, Hot Wheels logo on trunk, headlights outlined in red",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Red Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G04, G06, G07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/HW-2014-203-2013_SRT_Viper-Garage.JPG/revision/latest?cb=20140412001158"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "series_id": "baja-blazers",
+    "year": 2021,
+    "name": "Baja Blazers",
+    "total_releases": 12,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2021/grx65-70-dodge-power-wagon.json",
+        "data/releases/2021/grx66-land-rover-defender-90.json",
+        "data/releases/2021/grx68-2020-ram-1500-rebel.json",
+        "data/releases/2021/grx69-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2021/grx71-big-air-bel-air.json",
+        "data/releases/2021/gtb58-70-dodge-power-wagon.json",
+        "data/releases/2021/gtc26-land-rover-defender-90.json",
+        "data/releases/2021/gtc65-big-air-bel-air.json",
+        "data/releases/2021/gtc79-2020-ram-1500-rebel.json",
+        "data/releases/2021/gtd20-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2021/gtd26-land-rover-defender-90.json",
+        "data/releases/2021/gtd43-big-air-bel-air.json"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "mattel-brick-shop",
+    "year": 2025,
+    "name": "Mattel Brick Shop",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2025/jgj13-cadillac-project-gtp-hypercar.json",
+        "data/releases/2025/jgk27-90-acura-nsx.json",
+        "data/releases/2025/jgy21-corvette-grand-sport.json",
+        "data/releases/2025/jgy29-94-audi-avant-rs2.json",
+        "data/releases/2025/jhf62-90-honda-civic-ef.json"
+    ]
+}

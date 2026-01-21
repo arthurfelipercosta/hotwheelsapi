@@ -1,0 +1,25 @@
+{
+    "release_id": "jjj78-formula-1-2026",
+    "toy_number": "JJJ78",
+    "casting_id": "formula-1",
+    "year": 2026,
+    "series_id": "formula-1",
+    "series_index": 3,
+    "specs": {
+        "color": "Rosso Corsa",
+        "tampo": "Ferrari livery, HP, UniCredit, Ray-Ban, IBM, CEVA Logistics, Shell logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow Rim",
+            "1": "Black AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/ScuderiaFerrariSF-25.jpg/revision/latest?cb=20260110124837"
+    }
+}

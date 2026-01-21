@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-screen-time",
+    "year": 2022,
+    "name": "HW Screen Time",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hct56-disney-steamboat.json",
+        "data/releases/2022/hcv00-minecart.json"
+    ]
+}

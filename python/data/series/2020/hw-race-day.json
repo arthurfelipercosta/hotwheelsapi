@@ -2,9 +2,13 @@
     "series_id": "hw-race-day",
     "year": 2020,
     "name": "HW Race Day",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 10,
     "releases": [
-        "data/releases/2020/ghc67-night-shifter.json"
+        "data/releases/2020/ghc51-85-honda-city-turbo-ii.json",
+        "data/releases/2020/ghc51-85-honda-city-turbo-ii.json",
+        "data/releases/2020/ghc67-night-shifter.json",
+        "data/releases/2020/ghf22-85-honda-city-turbo-ii.json",
+        "data/releases/2020/ghg37-85-honda-city-turbo-ii.json"
     ]
 }

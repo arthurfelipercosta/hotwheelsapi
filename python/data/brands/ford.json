@@ -4,7 +4,26 @@
     "country": "Unknown",
     "founded_year": null,
     "castings": [
-        "data/castings/custom-12-ford-mustang.json"
+        "data/castings/custom-12-ford-mustang.json",
+        "data/castings/20-ford-shelby-gt500.json",
+        "data/castings/21-ford-bronco.json",
+        "data/castings/22-ford-maverick-custom.json",
+        "data/castings/ford-mustang-gtd.json",
+        "data/castings/ford-performance-supervan-4.json",
+        "data/castings/17-ford-f-150-raptor.json",
+        "data/castings/67-ford-mustang-coupe.json",
+        "data/castings/92-ford-mustang.json",
+        "data/castings/99-ford-f-150-svt-lightning.json",
+        "data/castings/custom-18-ford-mustang-gt.json",
+        "data/castings/custom-56-ford-truck.json",
+        "data/castings/ford-gt.json",
+        "data/castings/ford-model-a-custom-31.json",
+        "data/castings/ford-mustang-dark-horse.json",
+        "data/castings/ford-rs200.json",
+        "data/castings/2016-ford-gt-race.json",
+        "data/castings/33-ford-lo-boy.json",
+        "data/castings/87-ford-sierra-cosworth.json",
+        "data/castings/ford-mustang-mach-e-1400.json"
     ],
     "description": {
         "en-us": "Manufacturer of Ford vehicles.",

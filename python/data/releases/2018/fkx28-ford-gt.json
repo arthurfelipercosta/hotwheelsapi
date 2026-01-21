@@ -1,0 +1,24 @@
+{
+    "release_id": "fkx28-ford-gt-2018",
+    "toy_number": "FKX28",
+    "casting_id": "ford-gt",
+    "year": 2018,
+    "series_id": "mystery-models-series-1",
+    "series_index": 2,
+    "specs": {
+        "color": "Black",
+        "tampo": "Gold and red stripes on top and sides, '2' and 'GT' logos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Gold & Red Lip PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K48, K49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/Ford_gt_lm_mystery_2018_close.jpg/revision/latest?cb=20190512181007"
+    }
+}

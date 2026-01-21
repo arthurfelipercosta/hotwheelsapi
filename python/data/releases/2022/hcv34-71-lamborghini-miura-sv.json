@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv34-71-lamborghini-miura-sv-2022",
+    "toy_number": "HCV34",
+    "casting_id": "71-lamborghini-miura-sv",
+    "year": 2022,
+    "series_id": "hw-exotics",
+    "series_index": 5,
+    "specs": {
+        "color": "Arancio Miura",
+        "tampo": "Detailed headlights, taillights, air intakes and trim, \"bertone\" logo on sides, \"P400SV\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Light Gray",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): R16, R17, R19, R20, R22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/HCV34-LOOSE.jpg/revision/latest?cb=20220815120352"
+    }
+}

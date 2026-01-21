@@ -1,0 +1,17 @@
+{
+    "series_id": "multipack-exclusive",
+    "year": 2018,
+    "name": "Multipack Exclusive",
+    "total_releases": 8,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2018/dhr78-ford-gt.json",
+        "data/releases/2018/x6999-1985-honda-cr-x.json",
+        "data/releases/2018/x6999-67-shelby-gt500.json",
+        "data/releases/2018/x6999-chevroletor.json",
+        "data/releases/2018/x6999-corvette-stingray.json",
+        "data/releases/2018/x6999-mazda-rx-7.json",
+        "data/releases/2018/x6999-salt-shaker.json",
+        "data/releases/2018/x6999-super-volt.json"
+    ]
+}

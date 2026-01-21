@@ -1,0 +1,25 @@
+{
+    "release_id": "hly79-crate-racer-2023",
+    "toy_number": "HLY79",
+    "casting_id": "crate-racer",
+    "year": 2023,
+    "series_id": "hw-exposed-engines-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Maroon",
+        "tampo": "Yellow, red, orange and white stripes on sides, orange Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "White M5SP",
+            "1": "5SP"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): S33, S38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/CrateRacer.jpg/revision/latest?cb=20231123013905"
+    }
+}

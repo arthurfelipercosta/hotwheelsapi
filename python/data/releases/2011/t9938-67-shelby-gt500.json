@@ -1,0 +1,28 @@
+{
+    "release_id": "t9938-67-shelby-gt500-2011",
+    "toy_number": "T9938",
+    "casting_id": "67-shelby-gt500",
+    "year": 2011,
+    "series_id": "muscle-mania",
+    "series_index": 1,
+    "specs": {
+        "color": "Metallic Gold",
+        "tampo": "Black Stripe design, Silver Trim & Emblem details",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black MC5",
+            "2": "Chrome rim",
+            "3": "Black PR5",
+            "4": "Base code(s): D07"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C47, C48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/67_shelby_gt-500_2011_gold.png/revision/latest?cb=20110129025521"
+    }
+}

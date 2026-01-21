@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-dirt",
+    "year": 2024,
+    "name": "HW Dirt",
+    "total_releases": 4,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2024/hry87-lamborghini-hurac-n-sterrato.json",
+        "data/releases/2024/htb24-mercedes-benz-unimog-1300l.json",
+        "data/releases/2024/htf05-mercedes-benz-unimog-1300l.json",
+        "data/releases/2024/htf54-mercedes-benz-unimog-1300l.json"
+    ]
+}

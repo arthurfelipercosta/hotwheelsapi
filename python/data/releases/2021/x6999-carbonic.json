@@ -18,5 +18,7 @@
     },
     "country": "Malaysia or Indonesia",
     "notes": "",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Carbonic2021blue.jpg/revision/latest?cb=20210101000929"
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Carbonic2021blue.jpg/revision/latest?cb=20210101000929"
+    }
 }

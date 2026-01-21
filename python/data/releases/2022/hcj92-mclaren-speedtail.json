@@ -1,0 +1,24 @@
+{
+    "release_id": "hcj92-mclaren-speedtail-2022",
+    "toy_number": "HCJ92",
+    "casting_id": "mclaren-speedtail",
+    "year": 2022,
+    "series_id": "car-culture-exotic-envy",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Frozen Diamond Silver",
+        "tampo": "McLaren badge on nose, \"McLaren\" & \"SPEEDTAIL\" on rear, detailed headlights, taillights & third brake light on window",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Dark Gray RR10SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): R24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/McLarenSpeedtail.jpg/revision/latest?cb=20220815064056"
+    }
+}

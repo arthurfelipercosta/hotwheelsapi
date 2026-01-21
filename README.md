@@ -10,10 +10,10 @@ Uma base de dados abrangente e estruturada de castings, releases, séries e marc
 
 - [Visão Geral](#visão-geral)
 - [Estrutura dos Dados](#-estrutura-dos-dados)
-- [Como Começar](#como-começar)
-- [Adicionando/Editando Dados](#adicionandoditando-dados)
-- [Contribuindo via Git](#contribuindo-via-git)
-- [Exemplos de Dados](#exemplos-de-dados)
+- [Como Começar](#-como-começar)
+- [Adicionando/Editando Dados](#-adicionandoditando-dados)
+- [Contribuindo via Git](#-contribuindo-via-git)
+- [Exemplos de Dados](#-exemplos-de-dados)
 
 ---
 
@@ -315,5 +315,6 @@ Seu trabalho faz diferença! Cada dado adicionado nos aproxima de um banco de da
 ---
 
 **Obrigado por ajudar a construir este vasto banco de dados! 🙏🏎️**
+
 
 

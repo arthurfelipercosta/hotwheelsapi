@@ -2,9 +2,10 @@
     "series_id": "multipack-exclusive",
     "year": 2019,
     "name": "Multipack Exclusive",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2019/x6999-lamborghini-gallardo-lp560-4.json"
+        "data/releases/2019/x6999-carbonic.json",
+        "data/releases/2019/x6999-futurismo.json"
     ]
 }

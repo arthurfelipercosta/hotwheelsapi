@@ -1,0 +1,12 @@
+{
+    "series_id": "legends-of-speed",
+    "year": 2017,
+    "name": "Legends of Speed",
+    "total_releases": 3,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2017/dtx29-formula-flashback.json",
+        "data/releases/2017/dtx30-night-shifter.json",
+        "data/releases/2017/fkb99-formula-flashback.json"
+    ]
+}

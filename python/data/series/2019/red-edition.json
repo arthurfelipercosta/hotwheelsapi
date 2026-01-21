@@ -1,0 +1,12 @@
+{
+    "series_id": "red-edition",
+    "year": 2019,
+    "name": "Red Edition",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2019/fyg66-srt-viper-gts-r.json",
+        "data/releases/2019/gmr66-corvette-c7-r.json",
+        "data/releases/2019/gmr66-corvette-c7-r.json"
+    ]
+}

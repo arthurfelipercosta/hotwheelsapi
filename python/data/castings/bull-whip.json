@@ -1,0 +1,22 @@
+{
+    "casting_id": "bull-whip",
+    "name": "Bull Whip",
+    "description": {
+        "en-us": "Bull Whip Debut series HW Off-Road: Hot Wheels Test Facility Produced 2015 - Present Designer Kevin Cao Number CFG90",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfg90-bull-whip.json",
+        "data/releases/2015/cfj63-bull-whip.json",
+        "data/releases/2016/dhp40-bull-whip.json",
+        "data/releases/2017/dty17-bull-whip.json",
+        "data/releases/2018/fkt54-bull-whip.json",
+        "data/releases/2022/hbg30-bull-whip.json",
+        "data/releases/2023/aa046-bull-whip.json",
+        "data/releases/2025/jbj82-jcp88-bull-whip.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

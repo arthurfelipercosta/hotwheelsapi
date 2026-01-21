@@ -7,14 +7,16 @@
     "series_index": null,
     "specs": {
         "color": "Rosso Mugello",
-        "tampo": "Detailed headlights and badging, Scuderia Ferrari emblems on sides",
-        "base_color": "Black",
+        "tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
+        "base_color": "",
         "base_type": "Plastic",
         "window_color": "Smoke tint",
         "interior_color": "Black",
-        "wheel_type": "PR5"
+        "wheel_type": {
+            "0": "PR5"
+        }
     },
     "country": "Indonesia",
     "notes": "Base code(s): U19I, U20I, U24I, U25I",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/FioranoSF90.jpg"
+    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/FioranoSF90.jpg/revision/latest?cb=20251026230611"
 }

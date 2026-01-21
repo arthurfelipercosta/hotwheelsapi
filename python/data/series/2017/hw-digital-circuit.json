@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-digital-circuit",
+    "year": 2017,
+    "name": "HW Digital Circuit",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2017/dty95-futurismo.json",
+        "data/releases/2017/dvd18-futurismo.json"
+    ]
+}

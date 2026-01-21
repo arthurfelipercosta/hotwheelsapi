@@ -4,7 +4,16 @@
     "country": "Unknown",
     "founded_year": null,
     "castings": [
-        "data/castings/deora-ii.json"
+        "data/castings/2008-lancer-evolution.json",
+        "data/castings/bone-speeder.json",
+        "data/castings/bull-whip.json",
+        "data/castings/carbonic.json",
+        "data/castings/corvette-c7-r.json",
+        "data/castings/formula-flashback.json",
+        "data/castings/futurismo.json",
+        "data/castings/night-shifter.json",
+        "data/castings/srt-viper-gts-r.json",
+        "data/castings/dino-206-gt.json"
     ],
     "description": {
         "en-us": "Manufacturer of Mattel vehicles.",

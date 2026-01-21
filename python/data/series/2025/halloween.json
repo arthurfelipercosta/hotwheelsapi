@@ -1,0 +1,10 @@
+{
+    "series_id": "halloween",
+    "year": 2025,
+    "name": "Halloween",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2025/jcg92-night-shifter.json"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-race-day",
+    "year": 2020,
+    "name": "HW Race Day",
+    "total_releases": 1,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2020/ghc67-night-shifter.json"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "release_id": "x1743-custom-12-ford-mustang-2013",
+    "toy_number": "X1743",
+    "casting_id": "custom-12-ford-mustang",
+    "year": 2013,
+    "series_id": "hw-showroom-then-and-now",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Blue",
+        "tampo": "white stripes on sides & hood, \"Ford Racing\" on front fenders, black spoiler",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): F11, F13, F14, F15",
+    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Custom_%2712_Ford_Mustang-2013_230.jpg/revision/latest?cb=20130601123203"
+}

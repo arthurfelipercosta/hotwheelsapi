@@ -1,0 +1,22 @@
+{
+    "release_id": "dhp39-custom-12-ford-mustang-2016",
+    "toy_number": "DHP39",
+    "casting_id": "custom-12-ford-mustang",
+    "year": 2016,
+    "series_id": "hw-race-team",
+    "series_index": 3,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "Hot Wheels Race Team graphics & '5' on sides, Blue, White, Red & Yellow checkers",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Chrome Red MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J30",
+    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Custom_12_Mustang_-_16_HW_Race_Team_600pxOTD.jpg/revision/latest?cb=20161015070305"
+}

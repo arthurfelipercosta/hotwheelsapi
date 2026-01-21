@@ -1,0 +1,15 @@
+{
+    "casting_id": "ferrari-12cilindri",
+    "name": "Ferrari 12Cilindri",
+    "description": {
+        "en-us": "Ferrari 12Cilindri Debut series Ferrari Produced 2026 – Present Designer Fraser Campbell Number JJH41",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2026/jjh41-ferrari-12cilindri.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2026,
+    "manufacturer": "Ferrari"
+}

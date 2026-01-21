@@ -1,0 +1,13 @@
+{
+    "brand_id": "ford",
+    "name": "Ford",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/custom-12-ford-mustang.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Ford vehicles.",
+        "pt-br": "Fabricante de veículos Ford."
+    }
+}

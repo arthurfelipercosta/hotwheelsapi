@@ -1,0 +1,11 @@
+{
+    "series_id": "multipack-exclusive-advent-calendar",
+    "year": 2021,
+    "name": "Multipack Exclusive & Advent Calendar",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2021/x6999-carbonic.json",
+        "data/releases/2021/x6999-dhn88-formula-flashback.json"
+    ]
+}

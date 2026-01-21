@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-id-speed-demons",
+    "year": 2019,
+    "name": "Hot Wheels id: Speed Demons",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2019/fxb04-corvette-c7-r.json",
+        "data/releases/2019/fxb05-srt-viper-gts-r.json"
+    ]
+}

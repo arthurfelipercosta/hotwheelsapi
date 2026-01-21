@@ -1,0 +1,25 @@
+{
+    "series_id": "hw-race-team",
+    "year": 2016,
+    "name": "HW Race Team",
+    "total_releases": 16,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2016/dhn87-bone-speeder.json",
+        "data/releases/2016/dhn88-formula-flashback.json",
+        "data/releases/2016/dhn89-futurismo.json",
+        "data/releases/2016/dhp03-night-shifter.json",
+        "data/releases/2016/dhp37-corvette-c7-r.json",
+        "data/releases/2016/dhp38-srt-viper-gts-r.json",
+        "data/releases/2016/dhp39-custom-12-ford-mustang.json",
+        "data/releases/2016/dhp40-bull-whip.json",
+        "data/releases/2016/dhp41-carbonic.json",
+        "data/releases/2016/dhp42-2008-lancer-evolution.json",
+        "data/releases/2016/dht77-carbonic.json",
+        "data/releases/2016/dhw77-night-shifter.json",
+        "data/releases/2016/dhw82-bone-speeder.json",
+        "data/releases/2016/dhx96-srt-viper-gts-r.json",
+        "data/releases/2016/dhy07-corvette-c7-r.json",
+        "data/releases/2016/fbj19-2008-lancer-evolution.json"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-workshop-hw-drift-race",
+    "year": 2015,
+    "name": "HW Workshop: HW Drift Race",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfj17-custom-12-ford-mustang.json",
+        "data/releases/2015/cfk10-custom-12-ford-mustang.json",
+        "data/releases/2015/cfl59-custom-12-ford-mustang.json"
+    ]
+}

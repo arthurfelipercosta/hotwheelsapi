@@ -7,14 +7,33 @@
     "series_index": 1,
     "specs": {
         "color": "Blu Tour de France",
-        "tampo": "Detailed headlights and badging",
-        "base_color": "Black",
+        "tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
+        "base_color": "",
         "base_type": "Plastic",
         "window_color": "Smoke tint",
         "interior_color": "Black",
-        "wheel_type": "Gloss Black 10SP"
+        "wheel_type": {
+            "0": "Gloss Black 10SP",
+            "1": "041",
+            "2": "250",
+            "3": "2026",
+            "4": "Ferrari 1",
+            "5": "5",
+            "6": "Nero Daytona",
+            "7": "Detailed headlights",
+            "8": "badging",
+            "9": "Scuderia Ferrari emblem on sides",
+            "10": "Black",
+            "11": "Plastic",
+            "12": "Clear",
+            "13": "Red",
+            "14": "Chrome Red lip",
+            "15": "Black MC5",
+            "16": "Malaysia",
+            "17": "Base code(s):"
+        }
     },
     "country": "Malaysia",
     "notes": "Base code(s): U37N, U41N, U42N",
-    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2024FerrariSF90.jpg"
+    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2024FerrariSF90.jpg/revision/latest?cb=20251015123146"
 }

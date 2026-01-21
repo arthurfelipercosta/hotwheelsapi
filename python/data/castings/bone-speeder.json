@@ -1,0 +1,21 @@
+{
+    "casting_id": "bone-speeder",
+    "name": "Bone Speeder",
+    "description": {
+        "en-us": "Bone Speeder Debut series HW Race Team Produced 2016 - Present Designer Ryu Asada Number DHN87",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhn87-bone-speeder.json",
+        "data/releases/2016/dhw82-bone-speeder.json",
+        "data/releases/2017/dty32-bone-speeder.json",
+        "data/releases/2018/fkt61-bone-speeder.json",
+        "data/releases/2022/hdt05-bone-speeder.json",
+        "data/releases/2022/hdt08-bone-speeder.json",
+        "data/releases/2022/hcw13-bone-speeder.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

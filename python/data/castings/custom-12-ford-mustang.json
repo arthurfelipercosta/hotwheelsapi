@@ -1,0 +1,26 @@
+{
+    "casting_id": "custom-12-ford-mustang",
+    "name": "Custom '12 Ford Mustang",
+    "description": {
+        "en-us": "Custom '12 Ford Mustang Debut series Team Hot Wheels High-Speed Wheel Produced 2012 - Present Designer Jun Imai Number X0135\n\nThe casting represents a customized version of the 2012 Ford Mustang with larger front & rear fenders, air intake on hood & roof, big rear spoiler and other modifications.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/x0135-custom-12-ford-mustang.json",
+        "data/releases/2013/x1743-custom-12-ford-mustang.json",
+        "data/releases/2014/bdl72-custom-12-ford-mustang.json",
+        "data/releases/2014/bfc41-custom-12-ford-mustang.json",
+        "data/releases/2014/bff66-custom-12-ford-mustang.json",
+        "data/releases/2015/cfj17-custom-12-ford-mustang.json",
+        "data/releases/2015/cfl59-custom-12-ford-mustang.json",
+        "data/releases/2015/cfk10-custom-12-ford-mustang.json",
+        "data/releases/2016/dhp39-custom-12-ford-mustang.json",
+        "data/releases/2017/dyl63-custom-12-ford-mustang.json",
+        "data/releases/2020/ghp58-custom-12-ford-mustang.json",
+        "data/releases/2023/hly75-custom-12-ford-mustang.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Ford"
+}

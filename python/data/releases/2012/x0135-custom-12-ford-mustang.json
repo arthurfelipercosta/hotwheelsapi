@@ -1,0 +1,22 @@
+{
+    "release_id": "x0135-custom-12-ford-mustang-2012",
+    "toy_number": "X0135",
+    "casting_id": "custom-12-ford-mustang",
+    "year": 2012,
+    "series_id": "team-hot-wheels-high-speed-wheel",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Red check flag & black flame",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red HSW"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): E09",
+    "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/67/%2712FordMustang.jpg/revision/latest?cb=20240107132212"
+}

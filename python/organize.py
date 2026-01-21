@@ -77,11 +77,13 @@ def organize_batch():
             
             for row in releases_list:
                 toy_number = row.get('Toy #', '').strip()
-                year = row.get('Year', '').strip()
-                if not toy_number or not year: continue
+                raw_year = row.get('Year', '').strip()
+                years = re.findall(r'\b(?:19|20)\d{2}\b', raw_year)
+                if not toy_number or not years: continue
+                year = years[0]
                 
                 # Tratamento de Strings
-                base_info = row.get('Base Color/Type', '')
+                base_info = row.get('Base Color / Type', '')
                 base_parts = base_info.split(' / ') if ' / ' in base_info else base_info.split('/') if '/' in base_info else [base_info, "Plastic"]
                 
                 series_raw = row.get('Series', '')
@@ -109,6 +111,21 @@ def organize_batch():
                 # Registra que este arquivo já foi "tomado" nesta rodada
                 generated_files_registry.add(file_path)
 
+                # --- Wheel Type (sempre normalizado) ---
+                raw_wheel = row.get('Wheel Type', '').strip()
+
+                # separadores possíveis no fandom
+                parts = re.split(r'\s*/\s*|\s*,\s*|\s+and\s+', raw_wheel)
+
+                if len(parts) > 1:
+                    wheel_type = {
+                        str(i): part.strip()
+                        for i, part in enumerate(parts)
+                        if part.strip()
+                    }
+                else:
+                    wheel_type = {"0": raw_wheel} if raw_wheel else {}
+                    
                 # Objeto Release
                 release_data = {
                     "release_id": f"{clean_toy_num}-{casting_id}-{year}",
@@ -124,7 +141,7 @@ def organize_batch():
                         "base_type": base_parts[1].strip() if len(base_parts) > 1 else "Plastic",
                         "window_color": row.get('Window Color', ''),
                         "interior_color": row.get('Interior Color', ''),
-                        "wheel_type": row.get('Wheel Type', '')
+                        "wheel_type": wheel_type
                     },
                     "country": row.get('Country', ''),
                     "notes": row.get('Notes', ''),
@@ -153,11 +170,14 @@ def organize_batch():
             # 5. Processar Series
             series_map = defaultdict(list)
             for row in releases_list:
-                yr, s_raw = row.get('Year', '').strip(), row.get('Series', '').strip()
-                if yr and s_raw:
-                    s_name = re.sub(r'\s*\d+/\d+$', '', s_raw).strip()
-                    s_id = slugify(s_name)
-                    if s_id: series_map[(s_id, yr, s_name)].append(row)
+                raw_yr = row.get('Year', '').strip()
+                s_raw = row.get('Series', '').strip()
+                years = re.findall(r'\b(?:19|20)\d{2}\b', raw_yr)
+                if not years or not s_raw: continue
+                yr = years[0]
+                s_name = re.sub(r'\s*\d+/\d+$', '', s_raw).strip()
+                s_id = slugify(s_name)
+                if s_id: series_map[(s_id, yr, s_name)].append(row)
 
             for (s_id, yr, s_name), rows in series_map.items():
                 series_dir = f"data/series/{yr}"

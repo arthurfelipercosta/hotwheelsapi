@@ -4,6 +4,9 @@
     "country": "Unknown",
     "founded_year": null,
     "castings": [
+        "data/castings/ferrari-12cilindri.json",
+        "data/castings/ferrari-365-gtb4-competizione.json",
+        "data/castings/ferrari-f40-competizione.json",
         "data/castings/ferrari-sf90-stradale.json"
     ],
     "description": {

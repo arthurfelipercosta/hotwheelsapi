@@ -1,0 +1,17 @@
+{
+    "casting_id": "ferrari-365-gtb4-competizione",
+    "name": "Ferrari 365 GTB4 Competizione",
+    "description": {
+        "en-us": "Ferrari 365 GTB4 Competizione Debut series HW Race Day Produced 2025 – Present Designer Rob Matthes Number HYW48",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2025/hyw48-ferrari-365-gtb4-competizione.json",
+        "data/releases/2025/jbc19-ferrari-365-gtb4-competizione.json",
+        "data/releases/2026/jjj30-ferrari-365-gtb4-competizione.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2025,
+    "manufacturer": "Ferrari"
+}

@@ -2,12 +2,10 @@
     "series_id": "multipack-exclusive",
     "year": 2022,
     "name": "Multipack Exclusive",
-    "total_releases": 4,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2022/x6999-lamborghini-gallardo-lp560-4.json",
-        "data/releases/2022/x6999-lamborghini-gallardo-lp560-4.json",
-        "data/releases/2022/x6999-lamborghini-gallardo-lp560-4.json",
-        "data/releases/2022/x6999-mclaren-p1.json"
+        "data/releases/2022/x6999-carbonic.json",
+        "data/releases/2022/x6999-formula-flashback.json"
     ]
 }

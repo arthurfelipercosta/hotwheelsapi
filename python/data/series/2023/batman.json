@@ -1,0 +1,10 @@
+{
+    "series_id": "batman",
+    "year": 2023,
+    "name": "Batman",
+    "total_releases": 1,
+    "max_index": 19,
+    "releases": [
+        "data/releases/2023/hlk72-night-shifter.json"
+    ]
+}

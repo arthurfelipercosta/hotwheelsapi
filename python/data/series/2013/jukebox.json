@@ -1,0 +1,10 @@
+{
+    "series_id": "jukebox",
+    "year": 2013,
+    "name": "Jukebox",
+    "total_releases": 1,
+    "max_index": 30,
+    "releases": [
+        "data/releases/2013/y2066-2008-lancer-evolution.json"
+    ]
+}

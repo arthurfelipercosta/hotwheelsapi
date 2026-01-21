@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-exotics",
+    "year": 2025,
+    "name": "HW Exotics",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2025/hyw59-ferrari-f40-competizione.json",
+        "data/releases/2025/jbb92-ferrari-f40-competizione.json"
+    ]
+}

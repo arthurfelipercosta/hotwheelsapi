@@ -1,0 +1,30 @@
+{
+    "casting_id": "hollowback",
+    "name": "Hollowback",
+    "description": {
+        "en-us": "Hollowback Debut series AcceleRacers: Metal Maniacs Produced 2005 - Present Designer Phil Riehlman Number G8097",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8097-hollowback.json",
+        "data/releases/2006/k3282-hollowback.json",
+        "data/releases/2006/k3282-hollowback-v2.json",
+        "data/releases/2007/k7611-hollowback.json",
+        "data/releases/2009/p2093-hollowback.json",
+        "data/releases/2010/r7465-hollowback.json",
+        "data/releases/2013/x1776-hollowback.json",
+        "data/releases/2014/bfd00-hollowback.json",
+        "data/releases/2015/cdt20-hollowback.json",
+        "data/releases/2016/djd17-hollowback.json",
+        "data/releases/2017/dyl55-hollowback.json",
+        "data/releases/2018/fjx22-hollowback.json",
+        "data/releases/2018/fkb30-hollowback.json",
+        "data/releases/2021/gtn46-hollowback.json",
+        "data/releases/2025/jcb93-hollowback.json",
+        "data/releases/2025/jcg89-hollowback.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

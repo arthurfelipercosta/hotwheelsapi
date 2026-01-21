@@ -1,0 +1,20 @@
+{
+    "casting_id": "boom-car",
+    "name": "Boom Car",
+    "description": {
+        "en-us": "Boom Car Debut series HW Ride-Ons Produced 2017 - present Designer Tyler Charest Number DTX11",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx11-boom-car-v2.json",
+        "data/releases/2017/dvc10-boom-car-v2.json",
+        "data/releases/2018/fjx84-boom-car-v2.json",
+        "data/releases/2020/ghp49-boom-car-v2.json",
+        "data/releases/2024/htc38-boom-car-v2.json",
+        "data/releases/2024/htd95-boom-car-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

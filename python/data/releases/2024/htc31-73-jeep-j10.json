@@ -1,0 +1,35 @@
+{
+    "release_id": "htc31-73-jeep-j10-2024",
+    "toy_number": "HTC31",
+    "casting_id": "73-jeep-j10",
+    "year": 2024,
+    "series_id": "hw-hot-trucks",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Bright Blue",
+        "tampo": "K&N logo on sides and hood; \"Jeep\" & red & orange stripes on sides; black middle section of hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Orange BLOR",
+            "1": "White",
+            "2": "K&N logo on sides",
+            "3": "hood; \"Jeep\" & red & orange stripes on sides; black middle section of hood",
+            "4": "Black",
+            "5": "GBLOR",
+            "6": "HTF00",
+            "7": "Base code(s): T12",
+            "8": "T13",
+            "9": "T14",
+            "10": "T16",
+            "11": "T17"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S43, S44, S45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/2024_%2773_Jeep_J10.jpeg/revision/latest/scale-to-width-down/75?cb=20250119055146"
+    }
+}

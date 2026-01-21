@@ -1,0 +1,25 @@
+{
+    "release_id": "hbg23-west-coast-flyer-2021",
+    "toy_number": "HBG23",
+    "casting_id": "west-coast-flyer",
+    "year": 2021,
+    "series_id": "hot-wheels-id-hw-metro",
+    "series_index": 2,
+    "specs": {
+        "color": "Satin Sky Blue",
+        "tampo": "Flames on side, orange pinstriping, detailed headlamp",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoked chrome",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "White Line",
+            "1": "Chrome Orange ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/WestCoastFlyer.jpg/revision/latest/scale-to-width-down/75?cb=20211026043010"
+    }
+}

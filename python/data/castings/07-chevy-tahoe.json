@@ -1,0 +1,34 @@
+{
+    "casting_id": "07-chevy-tahoe",
+    "name": "'07 Chevy Tahoe",
+    "description": {
+        "en-us": "'07 Chevy Tahoe Debut series Hot Wheels City 5‑Pack Produced 2007 - Present Designer Phil Riehlman Number K6176",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6176-07-chevy-tahoe-v2.json",
+        "data/releases/2009/p2428-07-chevy-tahoe-v3.json",
+        "data/releases/2009/p2428-07-chevy-tahoe-v4.json",
+        "data/releases/2009/p4629-07-chevy-tahoe-v2.json",
+        "data/releases/2010/r0965-07-chevy-tahoe-v2.json",
+        "data/releases/2011/t8633-07-chevy-tahoe-v2.json",
+        "data/releases/2012/w4247-07-chevy-tahoe-v2.json",
+        "data/releases/2013/x1670-07-chevy-tahoe-v2.json",
+        "data/releases/2013/x1868-07-chevy-tahoe-v2.json",
+        "data/releases/2013/x9852-07-chevy-tahoe-v2.json",
+        "data/releases/2014/bdl52-07-chevy-tahoe-v2.json",
+        "data/releases/2014/bfc59-07-chevy-tahoe-v2.json",
+        "data/releases/2014/bfb35-07-chevy-tahoe-v2.json",
+        "data/releases/2015/cdt16-07-chevy-tahoe-v2.json",
+        "data/releases/2017/dvf98-07-chevy-tahoe-v2.json",
+        "data/releases/2018/ftj58-07-chevy-tahoe-v2.json",
+        "data/releases/2019/fyl15-07-chevy-tahoe-v2.json",
+        "data/releases/2022/hdh01-07-chevy-tahoe-v2.json",
+        "data/releases/2024/htb60-07-chevy-tahoe-v2.json",
+        "data/releases/2024/htd28-07-chevy-tahoe-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Chevy"
+}

@@ -1,0 +1,20 @@
+{
+    "casting_id": "19-corvette-zr1-convertible",
+    "name": "'19 Corvette ZR1 Convertible",
+    "description": {
+        "en-us": "'19 Corvette ZR1 Convertible Debut series Factory Fresh Produced 2020 - Present Designer Ryu Asada Number GHB34",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb34-19-corvette-zr1-convertible.json",
+        "data/releases/2020/ghf01-19-corvette-zr1-convertible.json",
+        "data/releases/2021/gry03-19-corvette-zr1-convertible.json",
+        "data/releases/2021/gtd55-19-corvette-zr1-convertible.json",
+        "data/releases/2022/hfv94-19-corvette-zr1-convertible.json",
+        "data/releases/2023/hlh56-19-corvette-zr1-convertible.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

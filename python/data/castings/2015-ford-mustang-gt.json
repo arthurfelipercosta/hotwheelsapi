@@ -1,0 +1,26 @@
+{
+    "casting_id": "2015-ford-mustang-gt",
+    "name": "2015 Ford Mustang GT",
+    "description": {
+        "en-us": "2015 Ford Mustang GT Debut series HW City: Mustang 50th Produced 2014 - 2020 Designer Ryu Asada Number BDD18",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd18-2015-ford-mustang-gt-v2.json",
+        "data/releases/2015/cfj24-2015-ford-mustang-gt-v2.json",
+        "data/releases/2015/cfj48-2015-ford-mustang-gt-v2.json",
+        "data/releases/2015/cgh68-2015-ford-mustang-gt-v2.json",
+        "data/releases/2016/dhr32-2015-ford-mustang-gt-v2.json",
+        "data/releases/2016/dhx36-2015-ford-mustang-gt-v2.json",
+        "data/releases/2016/dhx98-2015-ford-mustang-gt-v2.json",
+        "data/releases/2018/fjw44-2015-ford-mustang-gt-v2.json",
+        "data/releases/2018/fjy37-2015-ford-mustang-gt-v2.json",
+        "data/releases/2018/fjy35-2015-ford-mustang-gt-v2.json",
+        "data/releases/2018/fkc17-2015-ford-mustang-gt-v2.json",
+        "data/releases/2020/gjx06-2015-ford-mustang-gt-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Ford"
+}

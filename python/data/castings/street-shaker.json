@@ -1,0 +1,30 @@
+{
+    "casting_id": "street-shaker",
+    "name": "Street Shaker",
+    "description": {
+        "en-us": "Street Shaker Debut series 2011 New Models Produced 2011 - Present Designer Jun Imai and Dale Earnhardt Jr. Number T9719",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9719-street-shaker.json",
+        "data/releases/2011/v0046-street-shaker.json",
+        "data/releases/2012/x7060-street-shaker.json",
+        "data/releases/2012/v5401-street-shaker.json",
+        "data/releases/2012/54886-street-shaker.json",
+        "data/releases/2014/bfc38-street-shaker.json",
+        "data/releases/2014/bff62-street-shaker.json",
+        "data/releases/2014/ccx55-street-shaker.json",
+        "data/releases/2016/djd27-street-shaker.json",
+        "data/releases/2016/djl43-street-shaker.json",
+        "data/releases/2017/dwd03-street-shaker.json",
+        "data/releases/2017/dvg03-street-shaker.json",
+        "data/releases/2020/ghp65-street-shaker.json",
+        "data/releases/2021/gtn44-street-shaker.json",
+        "data/releases/2022/hcw15-street-shaker.json",
+        "data/releases/2024/hvx14-street-shaker.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

@@ -6,17 +6,17 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2014/bdd09-rig-storm.json",
-        "data/releases/2014/bfg70-rig-storm.json",
-        "data/releases/2015/cfl07-rig-storm.json",
-        "data/releases/2016/dhp44-rig-storm.json",
-        "data/releases/2017/dty19-rig-storm.json",
-        "data/releases/2018/fjw91-rig-storm.json",
-        "data/releases/2018/fjy70-rig-storm.json",
-        "data/releases/2019/fyh08-rig-storm.json",
-        "data/releases/2021/gtn39-rig-storm.json",
-        "data/releases/2022/hgt74-rig-storm.json",
-        "data/releases/2025/jbc24-rig-storm.json"
+        "data/releases/2014/bdd09-rig-storm-v2.json",
+        "data/releases/2014/bfg70-rig-storm-v2.json",
+        "data/releases/2015/cfl07-rig-storm-v2.json",
+        "data/releases/2016/dhp44-rig-storm-v2.json",
+        "data/releases/2017/dty19-rig-storm-v2.json",
+        "data/releases/2018/fjw91-rig-storm-v2.json",
+        "data/releases/2018/fjy70-rig-storm-v2.json",
+        "data/releases/2019/fyh08-rig-storm-v2.json",
+        "data/releases/2021/gtn39-rig-storm-v2.json",
+        "data/releases/2022/hgt74-rig-storm-v2.json",
+        "data/releases/2025/jbc24-rig-storm-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",

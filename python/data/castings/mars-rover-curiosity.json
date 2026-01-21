@@ -1,0 +1,18 @@
+{
+    "casting_id": "mars-rover-curiosity",
+    "name": "Mars Rover Curiosity",
+    "description": {
+        "en-us": "Mars Rover Curiosity Debut series 2012 New Models Produced 2012 - Present Designer Jun Imai Number Y4712",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/y4712-mars-rover-curiosity-v2.json",
+        "data/releases/2014/bfc82-mars-rover-curiosity-v3.json",
+        "data/releases/2014/bfc82-mars-rover-curiosity-v4.json",
+        "data/releases/2021/gry73-mars-rover-curiosity-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

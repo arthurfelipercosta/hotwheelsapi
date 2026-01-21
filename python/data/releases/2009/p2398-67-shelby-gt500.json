@@ -1,0 +1,25 @@
+{
+    "release_id": "p2398-67-shelby-gt500-2009",
+    "toy_number": "P2398",
+    "casting_id": "67-shelby-gt500",
+    "year": 2009,
+    "series_id": "muscle-mania",
+    "series_index": 2,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black Stripes on sides, hood, roof, trunk.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black Rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base Code(s): B26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/HW_67_Shelby_GT-500_Yellow.jpg/revision/latest/scale-to-width-down/75?cb=20090512072804"
+    }
+}

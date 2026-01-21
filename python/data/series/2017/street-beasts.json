@@ -2,10 +2,26 @@
     "series_id": "street-beasts",
     "year": 2017,
     "name": "Street Beasts",
-    "total_releases": 2,
+    "total_releases": 18,
     "max_index": 4,
     "releases": [
+        "data/releases/2017/dtx23-turbo-rooster.json",
+        "data/releases/2017/dtx24-motosaurus.json",
+        "data/releases/2017/dtx25-hotweiler.json",
         "data/releases/2017/dty50-shark-bite.json",
-        "data/releases/2017/dvc18-shark-bite.json"
+        "data/releases/2017/dty51-purrfect-speed.json",
+        "data/releases/2017/dty52-growler.json",
+        "data/releases/2017/dty53-piranha-terror.json",
+        "data/releases/2017/dty54-double-demon.json",
+        "data/releases/2017/dty55-howlin-heat.json",
+        "data/releases/2017/dvc12-howlin-heat.json",
+        "data/releases/2017/dvc15-turbo-rooster.json",
+        "data/releases/2017/dvc16-motosaurus.json",
+        "data/releases/2017/dvc17-hotweiler.json",
+        "data/releases/2017/dvc18-shark-bite.json",
+        "data/releases/2017/dvc19-purrfect-speed.json",
+        "data/releases/2017/dvc20-growler.json",
+        "data/releases/2017/dvc22-dragon-blaster.json",
+        "data/releases/2017/dvd11-dragon-blaster.json"
     ]
 }

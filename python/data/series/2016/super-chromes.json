@@ -2,12 +2,26 @@
     "series_id": "super-chromes",
     "year": 2016,
     "name": "Super Chromes",
-    "total_releases": 4,
+    "total_releases": 18,
     "max_index": 5,
     "releases": [
         "data/releases/2016/dhn95-monteracer.json",
+        "data/releases/2016/dhn96-z-rod.json",
+        "data/releases/2016/dhp64-hot-wheels-high.json",
+        "data/releases/2016/dhp64-teegray.json",
+        "data/releases/2016/dhp66-mig-rig.json",
+        "data/releases/2016/dhp67-nitro-tailgater.json",
         "data/releases/2016/dhp68-x-steam.json",
+        "data/releases/2016/dhp69-two-timer.json",
+        "data/releases/2016/dhp71-hw-poppa-wheelie.json",
+        "data/releases/2016/dhw57-teegray.json",
         "data/releases/2016/dhw58-x-steam.json",
-        "data/releases/2016/dhw62-monteracer.json"
+        "data/releases/2016/dhw59-two-timer.json",
+        "data/releases/2016/dhw60-rev-rod.json",
+        "data/releases/2016/dhw61-hw-poppa-wheelie.json",
+        "data/releases/2016/dhw62-monteracer.json",
+        "data/releases/2016/dhw63-z-rod.json",
+        "data/releases/2016/dhw76-hot-wheels-high.json",
+        "data/releases/2016/dph70-rev-rod.json"
     ]
 }

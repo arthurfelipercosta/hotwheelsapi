@@ -2,14 +2,23 @@
     "series_id": "hw-race-x-raycers",
     "year": 2015,
     "name": "HW Race: X-Raycers",
-    "total_releases": 6,
+    "total_releases": 15,
     "max_index": 0,
     "releases": [
         "data/releases/2015/cfg98-x-steam.json",
         "data/releases/2015/cfj31-nerve-hammer.json",
+        "data/releases/2015/cfj60-vandetta.json",
+        "data/releases/2015/cfk81-hi-tech-missile.json",
+        "data/releases/2015/cfk82-clear-speeder.json",
+        "data/releases/2015/cfk82-clear-speeder.json",
+        "data/releases/2015/cfk83-paradigm-shift.json",
         "data/releases/2015/cfk84-nerve-hammer.json",
         "data/releases/2015/cfk85-69-chevelle.json",
+        "data/releases/2015/cfk86-what-4-2.json",
         "data/releases/2015/cfk87-bullet-proof.json",
-        "data/releases/2015/cfl75-69-chevelle.json"
+        "data/releases/2015/cfk88-vandetta.json",
+        "data/releases/2015/cfk89-scion-xb.json",
+        "data/releases/2015/cfl75-69-chevelle.json",
+        "data/releases/2015/cfm10-clear-speeder.json"
     ]
 }

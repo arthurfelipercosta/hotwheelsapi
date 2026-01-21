@@ -2,9 +2,10 @@
     "series_id": "pop-culture-mars",
     "year": 2013,
     "name": "Pop Culture: Mars",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2013/x8358-bread-box.json",
         "data/releases/2013/x8361-70-chevelle-ss-wagon.json"
     ]
 }

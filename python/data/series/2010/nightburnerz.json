@@ -2,14 +2,20 @@
     "series_id": "nightburnerz",
     "year": 2010,
     "name": "Nightburnerz",
-    "total_releases": 6,
-    "max_index": 7,
+    "total_releases": 12,
+    "max_index": 8,
     "releases": [
+        "data/releases/2010/base-codes-c40-c42-c46-c47-c48-datsun-bluebird-510.json",
+        "data/releases/2010/r7515-70-chevelle-ss.json",
+        "data/releases/2010/r7515-70-chevelle-ss.json",
         "data/releases/2010/r7516-2008-lancer-evolution.json",
         "data/releases/2010/r7516-2008-lancer-evolution.json",
+        "data/releases/2010/r7519-70-plymouth-roadrunner.json",
+        "data/releases/2010/r7519-70-plymouth-roadrunner.json",
         "data/releases/2010/r7520-67-mustang.json",
         "data/releases/2010/r7520-67-mustang.json",
         "data/releases/2010/r7520-67-mustang.json",
-        "data/releases/2010/r7521-24-seven.json"
+        "data/releases/2010/r7521-24-seven.json",
+        "data/releases/2010/r7522-datsun-bluebird-510.json"
     ]
 }

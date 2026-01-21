@@ -1,0 +1,25 @@
+{
+    "release_id": "cfl76-carbide-2015",
+    "toy_number": "CFL76",
+    "casting_id": "carbide",
+    "year": 2015,
+    "series_id": "hw-race-super-chromes",
+    "series_index": null,
+    "specs": {
+        "color": "Gold Chrome",
+        "tampo": "Blue & White flame tampos, '02' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): H17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/CarbideCFL76.jpg/revision/latest/scale-to-width-down/75?cb=20160120024739"
+    }
+}

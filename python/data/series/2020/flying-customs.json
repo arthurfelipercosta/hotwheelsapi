@@ -2,10 +2,21 @@
     "series_id": "flying-customs",
     "year": 2020,
     "name": "Flying Customs",
-    "total_releases": 2,
+    "total_releases": 13,
     "max_index": 0,
     "releases": [
+        "data/releases/2020/gjw94-nissan-skyline-rs-kdr30.json",
         "data/releases/2020/gjw95-custom-72-chevy-luv.json",
+        "data/releases/2020/gjw96-13-copo-camaro.json",
+        "data/releases/2020/gjw98-custom-69-volkswagen-squareback.json",
+        "data/releases/2020/gjw99-audacious.json",
+        "data/releases/2020/gjx00-68-chevy-nova.json",
+        "data/releases/2020/gjx01-datsun-bluebird-510.json",
+        "data/releases/2020/gjx04-blvd-bruiser.json",
+        "data/releases/2020/gjx05-volkswagen-caddy.json",
+        "data/releases/2020/gjx06-2015-ford-mustang-gt.json",
+        "data/releases/2020/gjx07-96-nissan-180sx-type-x.json",
+        "data/releases/2020/gjx08-custom-v-8-vega.json",
         "data/releases/2020/gjx09-67-chevy-c10.json"
     ]
 }

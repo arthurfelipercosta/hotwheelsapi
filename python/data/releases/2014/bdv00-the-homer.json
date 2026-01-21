@@ -1,0 +1,24 @@
+{
+    "release_id": "bdv00-the-homer-2014",
+    "toy_number": "BDV00",
+    "casting_id": "the-homer",
+    "year": 2014,
+    "series_id": "hot-wheels-entertainment-the-simpsons",
+    "series_index": null,
+    "specs": {
+        "color": "Lime Green",
+        "tampo": "Silver mirrors & horn on roof, red tail lights, Lime Green roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "DDRR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G33, G34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/HW-2014-Retro_Entertainment-The_Homer-The_Simpsons..jpg/revision/latest/scale-to-width-down/75?cb=20150205025308"
+    }
+}

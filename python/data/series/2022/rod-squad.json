@@ -2,11 +2,17 @@
     "series_id": "rod-squad",
     "year": 2022,
     "name": "Rod Squad",
-    "total_releases": 3,
-    "max_index": 4,
+    "total_releases": 9,
+    "max_index": 1,
     "releases": [
         "data/releases/2022/hct29-max-steel.json",
+        "data/releases/2022/hcv17-mod-rod.json",
+        "data/releases/2022/hcv75-32-ford.json",
         "data/releases/2022/hcv91-47-chevy-fleetline.json",
-        "data/releases/2022/hcx50-47-chevy-fleetline.json"
+        "data/releases/2022/hcv94-68-el-camino.json",
+        "data/releases/2022/hcw65-mod-rod.json",
+        "data/releases/2022/hcx50-47-chevy-fleetline.json",
+        "data/releases/2022/hcy21-32-ford.json",
+        "data/releases/2022/hcy38-68-el-camino.json"
     ]
 }

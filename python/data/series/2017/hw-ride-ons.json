@@ -2,10 +2,17 @@
     "series_id": "hw-ride-ons",
     "year": 2017,
     "name": "HW Ride-Ons",
-    "total_releases": 2,
+    "total_releases": 9,
     "max_index": 5,
     "releases": [
+        "data/releases/2017/dtx11-boom-car.json",
+        "data/releases/2017/dtx21-aisle-driver.json",
+        "data/releases/2017/dty39-grass-chomper.json",
+        "data/releases/2017/dty40-tanknator.json",
+        "data/releases/2017/dvc10-boom-car.json",
+        "data/releases/2017/dvc11-aisle-driver.json",
         "data/releases/2017/dvc28-pedal-driver.json",
-        "data/releases/2017/dvd09-pedal-driver.json"
+        "data/releases/2017/dvd09-pedal-driver.json",
+        "data/releases/2017/fbj00-grass-chomper.json"
     ]
 }

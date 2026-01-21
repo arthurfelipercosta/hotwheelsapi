@@ -1,0 +1,24 @@
+{
+    "release_id": "htb22-batman-arkham-knight-batmobile-2024",
+    "toy_number": "HTB22",
+    "casting_id": "batman-arkham-knight-batmobile",
+    "year": 2024,
+    "series_id": "batman",
+    "series_index": 4,
+    "specs": {
+        "color": "Black",
+        "tampo": "Yellow stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Chrome",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gray OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T06, T09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/HTB22-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20240512230152"
+    }
+}

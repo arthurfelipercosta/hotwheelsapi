@@ -1,0 +1,24 @@
+{
+    "release_id": "y2121-hypertruck-2013",
+    "toy_number": "Y2121",
+    "casting_id": "hypertruck",
+    "year": 2013,
+    "series_id": "mystery-models",
+    "series_index": 23,
+    "specs": {
+        "color": "Gold",
+        "tampo": "Yellow, White, Brown & Black stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/HW-2013-Mystery_Models_Series_2--23-Hypertruck.jpg/revision/latest/scale-to-width-down/75?cb=20140316033741"
+    }
+}

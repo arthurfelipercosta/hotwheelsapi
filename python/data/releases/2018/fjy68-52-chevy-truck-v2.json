@@ -1,0 +1,25 @@
+{
+    "release_id": "fjy68-52-chevy-truck-2018",
+    "toy_number": "FJY68",
+    "casting_id": "52-chevy-truck",
+    "year": 2018,
+    "series_id": "hw-metro",
+    "series_index": 4,
+    "specs": {
+        "color": "Matte Black",
+        "tampo": "White Pinstripes with Red Undercoat showing through as worn areas. '1968 Hot Wheels Stripes & Letters' on Doors.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Red)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): L22, L24, L26, L27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/%2752_Chevy_2018_HW_Metro.jpg/revision/latest/scale-to-width-down/75?cb=20180920041447"
+    }
+}

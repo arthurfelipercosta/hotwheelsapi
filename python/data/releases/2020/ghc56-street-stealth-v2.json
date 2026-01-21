@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc56-street-stealth-2020",
+    "toy_number": "GHC56",
+    "casting_id": "street-stealth",
+    "year": 2020,
+    "series_id": "hw-race-day",
+    "series_index": 9,
+    "specs": {
+        "color": "Blue",
+        "tampo": "\"Street Stealth\", \"20\",  HW Logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "None",
+        "interior_color": "None",
+        "wheel_type": {
+            "0": "Yellow Rim",
+            "1": "Black MC3"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): M41, M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/078_-_Street_Stealth.jpg/revision/latest/scale-to-width-down/75?cb=20191220212306"
+    }
+}

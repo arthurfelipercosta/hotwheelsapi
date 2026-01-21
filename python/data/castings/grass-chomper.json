@@ -1,0 +1,20 @@
+{
+    "casting_id": "grass-chomper",
+    "name": "Grass Chomper",
+    "description": {
+        "en-us": "Grass Chomper Debut series HW Ride-Ons Produced 2016 - Present Designer Ryu Asada Number DHP25",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp25-grass-chomper-v2.json",
+        "data/releases/2016/dhw75-grass-chomper-v2.json",
+        "data/releases/2017/dty39-grass-chomper-v2.json",
+        "data/releases/2017/fbj00-grass-chomper-v2.json",
+        "data/releases/2020/ghd77-grass-chomper-v2.json",
+        "data/releases/2024/htc37-grass-chomper-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

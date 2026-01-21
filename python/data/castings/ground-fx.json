@@ -1,0 +1,31 @@
+{
+    "casting_id": "ground-fx",
+    "name": "Ground FX",
+    "description": {
+        "en-us": "Ground FX Debut series 2003 First Editions Produced 2003 - 2009 (Original) 2010 - Present (Retool) Designer Mark Jones Number 56368",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56368-ground-fx.json",
+        "data/releases/2004/b3882-ground-fx.json",
+        "data/releases/2004/c4560-ground-fx.json",
+        "data/releases/2005/g6925-ground-fx.json",
+        "data/releases/2006/j8002-ground-fx.json",
+        "data/releases/2006/j8002-ground-fx-v2.json",
+        "data/releases/2007/k7557-ground-fx.json",
+        "data/releases/2008/m8750-ground-fx.json",
+        "data/releases/2009/p2412-ground-fx.json",
+        "data/releases/2009/p2412-ground-fx-v2.json",
+        "data/releases/2010/r7524-ground-fx.json",
+        "data/releases/2013/x9854-ground-fx.json",
+        "data/releases/2014/bfc84-ground-fx.json",
+        "data/releases/2018/fkv07-ground-fx.json",
+        "data/releases/2021/grp51-ground-fx.json",
+        "data/releases/2025/jby81-ground-fx.json",
+        "data/releases/2026/jkx26-ground-fx.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Mattel"
+}

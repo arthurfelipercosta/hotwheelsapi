@@ -1,0 +1,24 @@
+{
+    "release_id": "dty98-81-camaro-2017",
+    "toy_number": "DTY98",
+    "casting_id": "81-camaro",
+    "year": 2017,
+    "series_id": "camaro-fifty",
+    "series_index": 4,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "White & Dark Blue stripes on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K17, K20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/IMG20170618112819.jpg/revision/latest/scale-to-width-down/75?cb=20170618032954"
+    }
+}

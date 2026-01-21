@@ -1,0 +1,24 @@
+{
+    "release_id": "fjy94-12-ford-fiesta-2018",
+    "toy_number": "FJY94",
+    "casting_id": "12-ford-fiesta",
+    "year": 2018,
+    "series_id": "checkmate",
+    "series_index": 9,
+    "specs": {
+        "color": "White",
+        "tampo": "Checker board on sides, \"Pawn\" on doors and roof. Green stripes on sides, HW logo on front windshield",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Green tint",
+        "interior_color": "Lime Green",
+        "wheel_type": {
+            "0": "Black White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L12, L13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/IMG-3027.JPG/revision/latest/scale-to-width-down/75?cb=20180811234631"
+    }
+}

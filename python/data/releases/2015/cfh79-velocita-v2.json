@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh79-velocita-2015",
+    "toy_number": "CFH79",
+    "casting_id": "velocita",
+    "year": 2015,
+    "series_id": "hw-race-track-aces",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black & White stripes on top, detailed headlights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H13, H52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/VelocitaCFH79.jpg/revision/latest/scale-to-width-down/75?cb=20150707042513"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "gjv19-hiway-hauler-2-2020",
+    "toy_number": "GJV19",
+    "casting_id": "hiway-hauler-2",
+    "year": 2020,
+    "series_id": "pixar",
+    "series_index": 5,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Red, yellow, and white checkerboard and stripes, “ LIGHTNING McQUEEN ” and “95”",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Chrome",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Gold Chrome 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N08, N17, N19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/Cars_movie_hiwy_hauler2.JPG/revision/latest/scale-to-width-down/75?cb=20210407024344"
+    }
+}

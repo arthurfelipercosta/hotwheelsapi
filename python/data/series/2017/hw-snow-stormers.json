@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-snow-stormers",
+    "year": 2017,
+    "name": "HW Snow Stormers",
+    "total_releases": 10,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2017/dty27-terrain-storm.json",
+        "data/releases/2017/dty28-mini-cooper.json",
+        "data/releases/2017/dty29-snow-ride.json",
+        "data/releases/2017/dty30-mountain-mauler.json",
+        "data/releases/2017/dvb91-so-plowed.json",
+        "data/releases/2017/dvc04-terrain-storm.json",
+        "data/releases/2017/dvc05-mini-cooper.json",
+        "data/releases/2017/dvc06-mountain-mauler.json",
+        "data/releases/2017/dvd07-so-plowed.json",
+        "data/releases/2017/fbh98-terrain-storm.json"
+    ]
+}

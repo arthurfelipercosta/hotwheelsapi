@@ -1,0 +1,24 @@
+{
+    "release_id": "htv50-70-mustang-mach-1-2024",
+    "toy_number": "HTV50",
+    "casting_id": "70-mustang-mach-1",
+    "year": 2024,
+    "series_id": "retro-racers-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black & Red stripes on sides, Ford logo, '5', 'MACh 1' 'Vetuskey motor co,' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White 5SP"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): T08, T17, T42, U32I",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/HTV50-mach.jpg/revision/latest/scale-to-width-down/75?cb=20240707112058"
+    }
+}

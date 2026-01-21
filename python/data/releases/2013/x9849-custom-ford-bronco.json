@@ -1,0 +1,24 @@
+{
+    "release_id": "x9849-custom-ford-bronco-2013",
+    "toy_number": "X9849",
+    "casting_id": "custom-ford-bronco",
+    "year": 2013,
+    "series_id": "stunt-circuit-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Matte Black",
+        "tampo": "Yellow, Red, Black, & White tampos, ' Team Hot Wheels ', flames, & HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow & Black OR6SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): F10, F11, F12, F28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Fordbronco.jpg/revision/latest/scale-to-width-down/75?cb=20181008073314"
+    }
+}

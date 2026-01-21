@@ -1,0 +1,25 @@
+{
+    "release_id": "gbc61-rockster-2019",
+    "toy_number": "GBC61",
+    "casting_id": "rockster",
+    "year": 2019,
+    "series_id": "holiday-hot-rods",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "White stripes on sides, \"HW Winter 19\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gold rim",
+            "1": "Green OR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Rockster2019winter.jpg/revision/latest/scale-to-width-down/75?cb=20200217040237"
+    }
+}

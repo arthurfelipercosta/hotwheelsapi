@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-off-road-hw-moto",
+    "year": 2015,
+    "name": "HW Off-Road: HW Moto",
+    "total_releases": 8,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfh09-street-stealth.json",
+        "data/releases/2015/cfk36-hw450f.json",
+        "data/releases/2015/cfk37-harley-davidson-fat-boy.json",
+        "data/releases/2015/cfk39-sand-stinger.json",
+        "data/releases/2015/cfk40-tred-shredder.json",
+        "data/releases/2015/cfl23-street-stealth.json",
+        "data/releases/2015/cfl60-hw450f.json",
+        "data/releases/2015/cfl62-sand-stinger.json"
+    ]
+}

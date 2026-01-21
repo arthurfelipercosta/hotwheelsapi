@@ -2,9 +2,10 @@
     "series_id": "since-68-originals-4-car-tin-set",
     "year": 2008,
     "name": "Since '68: Originals 4-Car Tin Set",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2008/l8370-purple-passion.json"
+        "data/releases/2008/l8370-purple-passion.json",
+        "data/releases/2008/l8370-twin-mill.json"
     ]
 }

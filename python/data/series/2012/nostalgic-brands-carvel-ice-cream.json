@@ -2,9 +2,10 @@
     "series_id": "nostalgic-brands-carvel-ice-cream",
     "year": 2012,
     "name": "Nostalgic Brands: Carvel Ice Cream",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/w6660-good-humor-truck.json"
+        "data/releases/2012/w6660-good-humor-truck.json",
+        "data/releases/2012/w6665-power-panel.json"
     ]
 }

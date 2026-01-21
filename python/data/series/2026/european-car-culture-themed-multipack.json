@@ -2,9 +2,13 @@
     "series_id": "european-car-culture-themed-multipack",
     "year": 2026,
     "name": "European Car Culture Themed Multipack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2026/jlb25-porsche-911-gt3.json"
+        "data/releases/2026/jlb25-16-mercedes-amg-gt3.json",
+        "data/releases/2026/jlb25-92-bmw-m3.json",
+        "data/releases/2026/jlb25-aston-martin-one-77.json",
+        "data/releases/2026/jlb25-porsche-911-gt3.json",
+        "data/releases/2026/jlb25-vw-golf.json"
     ]
 }

@@ -1,0 +1,19 @@
+{
+    "casting_id": "2015-ford-mustang-gt-convertible",
+    "name": "2015 Ford Mustang GT Convertible",
+    "description": {
+        "en-us": "2015 Ford Mustang GT Convertible Debut series Factory Fresh Produced 2017 - Present Designer Eric Han Number DTW81",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtw81-2015-ford-mustang-gt-convertible.json",
+        "data/releases/2017/dvb42-2015-ford-mustang-gt-convertible.json",
+        "data/releases/2018/fjx74-2015-ford-mustang-gt-convertible.json",
+        "data/releases/2018/fkb04-2015-ford-mustang-gt-convertible.json",
+        "data/releases/2022/hfv92-2015-ford-mustang-gt-convertible.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Ford"
+}

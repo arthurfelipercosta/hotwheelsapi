@@ -1,0 +1,26 @@
+{
+    "release_id": "hcx65-head-gasket-2022",
+    "toy_number": "HCX65",
+    "casting_id": "head-gasket",
+    "year": 2022,
+    "series_id": "hw-art-cars",
+    "series_index": 7,
+    "specs": {
+        "color": "Black",
+        "tampo": "Blue & lime paint splatter, \"N\" on helmet",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Front",
+            "1": "Blue Rear",
+            "2": "Lime OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/HCX65.jpg/revision/latest/scale-to-width-down/75?cb=20220924152940"
+    }
+}

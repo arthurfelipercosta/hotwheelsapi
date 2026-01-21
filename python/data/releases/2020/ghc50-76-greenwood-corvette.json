@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc50-76-greenwood-corvette-2020",
+    "toy_number": "GHC50",
+    "casting_id": "76-greenwood-corvette",
+    "year": 2020,
+    "series_id": "hw-race-day",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Gold",
+        "tampo": "Black, Red & Yellow Stripes, '76' on hood & sides. 'Chevrolet', 'HW' logo & 'Michelin' on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black (White seat)",
+        "wheel_type": {
+            "0": "Chrome Gold rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/GHC50-1.JPG/revision/latest/scale-to-width-down/75?cb=20191014131140"
+    }
+}

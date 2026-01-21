@@ -1,0 +1,14 @@
+{
+    "series_id": "thrill-racers-prehistoric",
+    "year": 2012,
+    "name": "Thrill Racers: Prehistoric",
+    "total_releases": 5,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2012/v5520-1971-buick-riviera.json",
+        "data/releases/2012/v5522-jeep-scrambler.json",
+        "data/releases/2012/v5523-fast-fortress.json",
+        "data/releases/2012/v5524-t-rextroyer.json",
+        "data/releases/2012/v5579-1971-buick-riviera.json"
+    ]
+}

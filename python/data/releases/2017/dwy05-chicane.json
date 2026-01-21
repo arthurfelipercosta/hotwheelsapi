@@ -1,0 +1,24 @@
+{
+    "release_id": "dwy05-chicane-2017",
+    "toy_number": "DWY05",
+    "casting_id": "chicane",
+    "year": 2017,
+    "series_id": "peanuts",
+    "series_index": 4,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black & Blue, patterns, White roundel w/ Black 68, Brown & Black Franklin graphic on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Chrome Blue & Black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): K22, K24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/be/DWF05C.jpg/revision/latest/scale-to-width-down/75?cb=20171204231930"
+    }
+}

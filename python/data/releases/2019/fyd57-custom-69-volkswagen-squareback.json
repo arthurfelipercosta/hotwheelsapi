@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd57-custom-69-volkswagen-squareback-2019",
+    "toy_number": "FYD57",
+    "casting_id": "custom-69-volkswagen-squareback",
+    "year": 2019,
+    "series_id": "volkswagen",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "White & Grey stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L44, L47, L48, L49, L51, M01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/2019_Hot_Wheels_VW_Squareback.jpg/revision/latest/scale-to-width-down/75?cb=20190127120345"
+    }
+}

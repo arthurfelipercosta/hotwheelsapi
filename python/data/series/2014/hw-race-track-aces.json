@@ -2,10 +2,25 @@
     "series_id": "hw-race-track-aces",
     "year": 2014,
     "name": "HW Race: Track Aces",
-    "total_releases": 2,
+    "total_releases": 17,
     "max_index": 0,
     "releases": [
+        "data/releases/2014/bdd06-let-s-go.json",
+        "data/releases/2014/bdd07-bmw-e36-m3-race.json",
+        "data/releases/2014/bdd08-68-mercury-cougar.json",
+        "data/releases/2014/bfd33-13-ford-mustang-gt.json",
         "data/releases/2014/bfd34-arrow-dynamic.json",
-        "data/releases/2014/bfg59-arrow-dynamic.json"
+        "data/releases/2014/bfd35-super-blitzen.json",
+        "data/releases/2014/bfd36-24-ours.json",
+        "data/releases/2014/bfd37-bump-around.json",
+        "data/releases/2014/bfd38-altered-ego.json",
+        "data/releases/2014/bfd39-maximum-leeway.json",
+        "data/releases/2014/bfg55-24-ours.json",
+        "data/releases/2014/bfg59-arrow-dynamic.json",
+        "data/releases/2014/bfg60-super-blitzen.json",
+        "data/releases/2014/bfg61-let-s-go.json",
+        "data/releases/2014/bfg62-bump-around.json",
+        "data/releases/2014/bfg64-bmw-e36-m3-race.json",
+        "data/releases/2014/bfg65-68-mercury-cougar.json"
     ]
 }

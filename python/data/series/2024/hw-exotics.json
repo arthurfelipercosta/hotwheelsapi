@@ -2,17 +2,23 @@
     "series_id": "hw-exotics",
     "year": 2024,
     "name": "HW Exotics",
-    "total_releases": 9,
-    "max_index": 1,
+    "total_releases": 15,
+    "max_index": 3,
     "releases": [
         "data/releases/2024/hry73-porsche-904-carrera-gts.json",
         "data/releases/2024/hry83-pagani-utopia.json",
         "data/releases/2024/hry89-gordon-murray-automotive-t-50s.json",
         "data/releases/2024/htc21-2020-koenigsegg-jesko.json",
         "data/releases/2024/htc22-bugatti-bolide.json",
+        "data/releases/2024/htc23-lamborghini-sesto-elemento.json",
         "data/releases/2024/htc24-92-dodge-viper-rt-10.json",
+        "data/releases/2024/htc25-lamborghini-hurac-n-lp-620-2-super-trofeo.json",
+        "data/releases/2024/htc26-17-ford-gt.json",
+        "data/releases/2024/htc27-dodge-viper-srt10-acr.json",
         "data/releases/2024/htd94-porsche-904-carrera-gts.json",
         "data/releases/2024/htf07-2020-koenigsegg-jesko.json",
-        "data/releases/2024/htf08-bugatti-bolide.json"
+        "data/releases/2024/htf08-bugatti-bolide.json",
+        "data/releases/2024/htf43-lamborghini-hurac-n-lp-620-2-super-trofeo.json",
+        "data/releases/2024/htf55-lamborghini-sesto-elemento.json"
     ]
 }

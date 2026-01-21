@@ -1,0 +1,11 @@
+{
+    "series_id": "chicago-cubs",
+    "year": 1999,
+    "name": "Chicago Cubs",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1999/23524-67-camaro.json",
+        "data/releases/1999/23524-70-mustang-mach-1.json"
+    ]
+}

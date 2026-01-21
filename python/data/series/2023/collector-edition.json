@@ -1,0 +1,13 @@
+{
+    "series_id": "collector-edition",
+    "year": 2023,
+    "name": "Collector Edition",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2023/hkl65-custom-67-pontiac-firebird.json",
+        "data/releases/2023/hkl68-ford-bronco-r.json",
+        "data/releases/2023/hkl69-porsche-993-gt2.json",
+        "data/releases/2023/hkl70-mini-cooper.json"
+    ]
+}

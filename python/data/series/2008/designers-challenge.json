@@ -2,12 +2,20 @@
     "series_id": "designers-challenge",
     "year": 2008,
     "name": "Designers Challenge",
-    "total_releases": 4,
+    "total_releases": 12,
     "max_index": 0,
     "releases": [
         "data/releases/2008/m3306-chevroletor.json",
         "data/releases/2008/m3306-chevroletor.json",
+        "data/releases/2008/m3314-honda-racer.json",
+        "data/releases/2008/m3314-honda-racer.json",
+        "data/releases/2008/m3315-hw40.json",
+        "data/releases/2008/m3315-hw40.json",
         "data/releases/2008/m3318-chevroletor.json",
-        "data/releases/2008/m3318-chevroletor.json"
+        "data/releases/2008/m3318-chevroletor.json",
+        "data/releases/2008/m3322-honda-racer.json",
+        "data/releases/2008/m3322-honda-racer.json",
+        "data/releases/2008/m3323-hw40.json",
+        "data/releases/2008/m3323-hw40.json"
     ]
 }

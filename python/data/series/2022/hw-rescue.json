@@ -2,9 +2,22 @@
     "series_id": "hw-rescue",
     "year": 2022,
     "name": "HW Rescue",
-    "total_releases": 1,
+    "total_releases": 14,
     "max_index": 8,
     "releases": [
-        "data/releases/2022/hcw27-5-alarm.json"
+        "data/releases/2022/hct43-drone-duty.json",
+        "data/releases/2022/hct84-lethal-diesel.json",
+        "data/releases/2022/hct87-water-bomber.json",
+        "data/releases/2022/hcv50-hyper-rocker.json",
+        "data/releases/2022/hcw24-15-dodge-charger-srt.json",
+        "data/releases/2022/hcw25-ford-mustang-gt-concept.json",
+        "data/releases/2022/hcw26-rescue-duty.json",
+        "data/releases/2022/hcw27-5-alarm.json",
+        "data/releases/2022/hcw35-rapid-response.json",
+        "data/releases/2022/hcw54-snow-stormer.json",
+        "data/releases/2022/hcx17-lethal-diesel.json",
+        "data/releases/2022/hcx26-hyper-rocker.json",
+        "data/releases/2022/hcx47-snow-stormer.json",
+        "data/releases/2022/hcx79-rapid-response.json"
     ]
 }

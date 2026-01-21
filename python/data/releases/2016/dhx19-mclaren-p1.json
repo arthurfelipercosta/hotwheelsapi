@@ -1,0 +1,24 @@
+{
+    "release_id": "dhx19-mclaren-p1-2016",
+    "toy_number": "DHX19",
+    "casting_id": "mclaren-p1",
+    "year": 2016,
+    "series_id": "hw-exotics",
+    "series_index": 1,
+    "specs": {
+        "color": "Volcano Yellow",
+        "tampo": "Detailed head- & taillights, McLaren badge on nose",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J20, J22, J25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/A0C2FF78-E52E-4DEB-B4E2-ECC099EC573C.jpeg/revision/latest/scale-to-width-down/75?cb=20190220181450"
+    }
+}

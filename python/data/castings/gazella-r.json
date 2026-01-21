@@ -1,0 +1,25 @@
+{
+    "casting_id": "gazella-r",
+    "name": "Gazella R",
+    "description": {
+        "en-us": "Gazella R Debut series HW Exotics Produced 2017 - Present Designer Ryu Asada Number FJV99",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/fjv99-gazella-r.json",
+        "data/releases/2019/x6999-gazella-r.json",
+        "data/releases/2019/gbc48-gazella-r.json",
+        "data/releases/2020/ghp65-gazella-r.json",
+        "data/releases/2021/gyh60-gazella-r.json",
+        "data/releases/2022/x6999-gazella-r.json",
+        "data/releases/2023/hlr54-gazella-r.json",
+        "data/releases/2024/hvw34-gazella-r.json",
+        "data/releases/2024/htv43-gazella-r.json",
+        "data/releases/2025/x6999-hpv78-gazella-r.json",
+        "data/releases/2025/jcb47-gazella-r.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "v0048-twinduction-2011",
+    "toy_number": "V0048",
+    "casting_id": "twinduction",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 38,
+    "specs": {
+        "color": "Green",
+        "tampo": "Green & Yellow flames, detailed headlights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D27, D30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Twinductionverde.jpg/revision/latest/scale-to-width-down/75?cb=20120124192856"
+    }
+}

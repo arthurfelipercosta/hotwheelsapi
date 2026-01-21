@@ -1,0 +1,14 @@
+{
+    "series_id": "red-line",
+    "year": 2006,
+    "name": "Red Line",
+    "total_releases": 5,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2006/j3422-custom-69-chevy.json",
+        "data/releases/2006/j3422-custom-69-chevy.json",
+        "data/releases/2006/j3423-ford-gt-40.json",
+        "data/releases/2006/j3424-68-chevy-nova.json",
+        "data/releases/2006/j3424-68-chevy-nova.json"
+    ]
+}

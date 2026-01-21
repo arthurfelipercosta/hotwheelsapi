@@ -1,0 +1,25 @@
+{
+    "casting_id": "aristo-rat",
+    "name": "Aristo Rat",
+    "description": {
+        "en-us": "Aristo Rat Debut series Legends of Speed Produced 2017 - Present Designer Dmitriy Shakhmatov Number DTX10",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx10-aristo-rat-v2.json",
+        "data/releases/2017/dvb16-aristo-rat-v2.json",
+        "data/releases/2017/fnx22-aristo-rat-v2.json",
+        "data/releases/2018/fjx44-aristo-rat-v2.json",
+        "data/releases/2018/fkc07-aristo-rat-v2.json",
+        "data/releases/2019/ghn97-aristo-rat-v2.json",
+        "data/releases/2020/ghp65-aristo-rat-v2.json",
+        "data/releases/2022/hmy54-aristo-rat-v2.json",
+        "data/releases/2022/hcw50-aristo-rat-v2.json",
+        "data/releases/2023/hly78-aristo-rat-v2.json",
+        "data/releases/2025/hmw17-aristo-rat-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv16-toyota-supra-2022",
+    "toy_number": "HCV16",
+    "casting_id": "toyota-supra",
+    "year": 2022,
+    "series_id": "then-and-now",
+    "series_index": 5,
+    "specs": {
+        "color": "Renaissance Red",
+        "tampo": "Detailed headlights, black graphics, GReddy logos on front fender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R20, R21, R24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Toyota_Supra_Front.png/revision/latest/scale-to-width-down/75?cb=20221003182239"
+    }
+}

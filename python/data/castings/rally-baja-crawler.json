@@ -1,0 +1,21 @@
+{
+    "casting_id": "rally-baja-crawler",
+    "name": "Rally Baja Crawler",
+    "description": {
+        "en-us": "Rally Baja Crawler Debut series Fast & Furious Spy Racers Produced 2020 – 2021 Designer Lindsey Lee Number GNN32",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/gnn32-rally-baja-crawler.json",
+        "data/releases/2020/gnn38-rally-baja-crawler.json",
+        "data/releases/2021/gnn32-rally-baja-crawler.json",
+        "data/releases/2021/gnn38-rally-baja-crawler.json",
+        "data/releases/2021/grx38-rally-baja-crawler.json",
+        "data/releases/2021/gtc72-rally-baja-crawler.json",
+        "data/releases/2022/hct57-rally-baja-crawler.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

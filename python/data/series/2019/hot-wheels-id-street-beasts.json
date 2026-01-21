@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-id-street-beasts",
+    "year": 2019,
+    "name": "Hot Wheels id: Street Beasts",
+    "total_releases": 4,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2019/fxb08-howlin-heat.json",
+        "data/releases/2019/fxb09-motosaurus.json",
+        "data/releases/2019/fxb10-scorpedo.json",
+        "data/releases/2019/fxb12-arachnorod.json"
+    ]
+}

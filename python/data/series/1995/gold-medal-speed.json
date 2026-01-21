@@ -1,0 +1,13 @@
+{
+    "series_id": "gold-medal-speed",
+    "year": 1995,
+    "name": "Gold Medal Speed",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1995/13579-jaguar-xj220.json",
+        "data/releases/1995/13579-jaguar-xj220.json",
+        "data/releases/1995/13585-dodge-viper-rt-10.json",
+        "data/releases/1995/13585-dodge-viper-rt-10.json"
+    ]
+}

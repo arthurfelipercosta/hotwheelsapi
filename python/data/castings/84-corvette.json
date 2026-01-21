@@ -1,0 +1,17 @@
+{
+    "casting_id": "84-corvette",
+    "name": "'84 Corvette",
+    "description": {
+        "en-us": "'84 Corvette Debut series HW Stars & Stripes Produced 2022 – Present Designer Lindsey Lee Number GTN35",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hdh29-84-corvette.json",
+        "data/releases/2023/hkg83-84-corvette.json",
+        "data/releases/2026/jhw93-84-corvette.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

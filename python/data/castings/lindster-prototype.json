@@ -1,0 +1,22 @@
+{
+    "casting_id": "lindster-prototype",
+    "name": "Lindster Prototype",
+    "description": {
+        "en-us": "Lindster Prototype Debut series X-Raycers Produced 2020 - Present Designer Lindsey Lee Number GHB78",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb78-lindster-prototype.json",
+        "data/releases/2020/ghf00-lindster-prototype.json",
+        "data/releases/2021/gry16-lindster-prototype.json",
+        "data/releases/2022/x6999-lindster-prototype.json",
+        "data/releases/2023/hly64-lindster-prototype.json",
+        "data/releases/2024/x6999-lindster-prototype.json",
+        "data/releases/2025/x6999-lindster-prototype.json",
+        "data/releases/2025/jbj83-lindster-prototype.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

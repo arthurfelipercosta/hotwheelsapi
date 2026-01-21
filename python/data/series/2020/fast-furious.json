@@ -1,0 +1,13 @@
+{
+    "series_id": "fast-furious",
+    "year": 2020,
+    "name": "Fast & Furious",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2020/gjv57-15-mercedes-amg-gt.json",
+        "data/releases/2020/gjv58-nissan-370z.json",
+        "data/releases/2020/gjv59-mclaren-720s.json",
+        "data/releases/2020/gjv61-69-ford-torino-talladega.json"
+    ]
+}

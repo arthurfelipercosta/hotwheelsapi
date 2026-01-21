@@ -1,0 +1,24 @@
+{
+    "release_id": "ghb49-formula-e-gen-2-car-2020",
+    "toy_number": "GHB49",
+    "casting_id": "formula-e-gen-2-car",
+    "year": 2020,
+    "series_id": "hw-race-day",
+    "series_index": 1,
+    "specs": {
+        "color": "Black",
+        "tampo": "Formula E Livery",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Grey OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base codes: M45, M46, M47, M49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/FormulaEGen2Carmc.jpg/revision/latest/scale-to-width-down/75?cb=20200215232735"
+    }
+}

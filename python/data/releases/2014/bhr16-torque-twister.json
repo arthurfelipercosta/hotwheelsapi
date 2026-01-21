@@ -1,0 +1,24 @@
+{
+    "release_id": "bhr16-torque-twister-2014",
+    "toy_number": "BHR16",
+    "casting_id": "torque-twister",
+    "year": 2014,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "Cold: Orange Warm: White",
+        "tampo": "Orange & Black Stripes, Red Hot Wheels symbol, White \"Shark Patrol\", Circled crossed out shark",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Yellow rim OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F40, L21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/Torque_Twister_Color_Shifter_Cold_Orange.jpg/revision/latest/scale-to-width-down/75?cb=20190227235117"
+    }
+}

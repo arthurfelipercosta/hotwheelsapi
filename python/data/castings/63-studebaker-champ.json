@@ -1,0 +1,30 @@
+{
+    "casting_id": "63-studebaker-champ",
+    "name": "'63 Studebaker Champ",
+    "description": {
+        "en-us": "'63 Studebaker Champ Debut series 2011 New Models Produced 2011 - Present Designer Phil Riehlman Number T9699",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9699-63-studebaker-champ-v2.json",
+        "data/releases/2011/v0014-63-studebaker-champ-v2.json",
+        "data/releases/2011/v5557-63-studebaker-champ-v3.json",
+        "data/releases/2011/v5557-63-studebaker-champ-v4.json",
+        "data/releases/2012/w6643-63-studebaker-champ-v2.json",
+        "data/releases/2012/w4646-63-studebaker-champ-v2.json",
+        "data/releases/2013/x8316-63-studebaker-champ-v2.json",
+        "data/releases/2015/cfj00-63-studebaker-champ-v2.json",
+        "data/releases/2016/djx42-63-studebaker-champ-v2.json",
+        "data/releases/2019/gbc12-63-studebaker-champ-v2.json",
+        "data/releases/2020/grl38-63-studebaker-champ-v2.json",
+        "data/releases/2022/hct51-63-studebaker-champ-v2.json",
+        "data/releases/2022/hcy14-63-studebaker-champ-v2.json",
+        "data/releases/2023/x6999-63-studebaker-champ-v2.json",
+        "data/releases/2024/htc35-63-studebaker-champ-v2.json",
+        "data/releases/2024/htd76-63-studebaker-champ-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

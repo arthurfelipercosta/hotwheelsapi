@@ -1,0 +1,24 @@
+{
+    "release_id": "jky12-65-pontiac-bonneville-2026",
+    "toy_number": "JKY12",
+    "casting_id": "65-pontiac-bonneville",
+    "year": 2026,
+    "series_id": "pontiac-100th-anniversary",
+    "series_index": 3,
+    "specs": {
+        "color": "Satin Ube Purple",
+        "tampo": "Detailed headlights, taillights and trim, \"BONNEVILLE\" on rear side panels",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light blue tint",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Steelie"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): U32I, U33I, U35I, U37I",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/1965Bonneville.jpg/revision/latest/scale-to-width-down/75?cb=20260103100748"
+    }
+}

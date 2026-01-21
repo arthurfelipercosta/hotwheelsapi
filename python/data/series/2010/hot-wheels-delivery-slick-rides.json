@@ -2,11 +2,20 @@
     "series_id": "hot-wheels-delivery-slick-rides",
     "year": 2010,
     "name": "Hot Wheels Delivery: Slick Rides",
-    "total_releases": 3,
-    "max_index": 18,
+    "total_releases": 12,
+    "max_index": 29,
     "releases": [
+        "data/releases/2010/r3727-super-van.json",
+        "data/releases/2010/r3727-super-van.json",
+        "data/releases/2010/r3732-custom-62-chevy.json",
+        "data/releases/2010/r3732-custom-62-chevy.json",
+        "data/releases/2010/r3736-cool-one.json",
+        "data/releases/2010/r3736-cool-one.json",
         "data/releases/2010/r3748-8-crate.json",
         "data/releases/2010/r3748-8-crate.json",
-        "data/releases/2010/r3750-good-humor-truck.json"
+        "data/releases/2010/r3750-good-humor-truck.json",
+        "data/releases/2010/r3752-custom-77-dodge-van.json",
+        "data/releases/2010/r3752-custom-77-dodge-van.json",
+        "data/releases/2010/r3753-custom-69-chevy.json"
     ]
 }

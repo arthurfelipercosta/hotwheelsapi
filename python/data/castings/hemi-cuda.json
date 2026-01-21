@@ -1,0 +1,41 @@
+{
+    "casting_id": "hemi-cuda",
+    "name": "Hemi Cuda",
+    "description": {
+        "en-us": "Hemi Cuda Debut series Classics (Series 2) Produced 2006 - Present Designer Phil Riehlman Number J2755\\n\\nThe Hemi Cuda is a Hot Wheels casting based on the production car of the same name, debuting in the Hot Wheels Classics Series. This casting has also been called Plymouth Hemi Cuda and ' 68 Plymouth Hemi Cuda . The Chassis of this casting clearly reads Hemi Cuda and that is why that name is used for the title of this page.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2006/j2755-hemi-cuda.json",
+        "data/releases/2006/j2755-hemi-cuda-v2.json",
+        "data/releases/2006/j2755-hemi-cuda-v3.json",
+        "data/releases/2006/j2755-hemi-cuda-v4.json",
+        "data/releases/2007/54886-hemi-cuda.json",
+        "data/releases/2007/54886-hemi-cuda-v2.json",
+        "data/releases/2007/54886-hemi-cuda-v3.json",
+        "data/releases/2008/m6892-hemi-cuda.json",
+        "data/releases/2009/n8964-hemi-cuda.json",
+        "data/releases/2009/n8964-hemi-cuda-v2.json",
+        "data/releases/2009/n8982-hemi-cuda.json",
+        "data/releases/2010/r7489-hemi-cuda.json",
+        "data/releases/2010/r3763-hemi-cuda.json",
+        "data/releases/2010/r3763-hemi-cuda-v2.json",
+        "data/releases/2010/r3763-hemi-cuda-v3.json",
+        "data/releases/2010/r1788-hemi-cuda.json",
+        "data/releases/2011/t8311-hemi-cuda.json",
+        "data/releases/2012/v5390-hemi-cuda.json",
+        "data/releases/2012/v5701-hemi-cuda.json",
+        "data/releases/2012/v5658-hemi-cuda.json",
+        "data/releases/2013/y9447-hemi-cuda.json",
+        "data/releases/2015/cfh99-hemi-cuda.json",
+        "data/releases/2015/cfl55-hemi-cuda.json",
+        "data/releases/2018/ftx88-hemi-cuda.json",
+        "data/releases/2020/gjw82-hemi-cuda.json",
+        "data/releases/2020/gjr05-hemi-cuda.json",
+        "data/releases/2021/gtn48-hemi-cuda.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2006,
+    "manufacturer": "Mattel"
+}

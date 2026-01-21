@@ -1,0 +1,24 @@
+{
+    "release_id": "t8640-ford-f-150-2011",
+    "toy_number": "T8640",
+    "casting_id": "ford-f-150",
+    "year": 2011,
+    "series_id": "graffiti-rides-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "White & Red tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red Rim OR6SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/FordF150Graffiti.jpg/revision/latest/scale-to-width-down/75?cb=20110921005105"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "casting_id": "shelby-cobra-daytona-coupe",
+    "name": "Shelby Cobra Daytona Coupe",
+    "description": {
+        "en-us": "Shelby Cobra Daytona Coupe Debut series 2007 New Models Produced 2007 - Present Designer Larry Wood Number K6138\\n\\nThe Shelby Daytona Coupe is an American sport prototype coupe produced by Shelby American from 1964 to 1965. Designed by Carroll Shelby and Peter Brock, the Daytona was related to the Cobra , sharing a similar chassis and drivetrain and it essentially being an advanced evolution of the Cobra. Designed to beat Ferrari at the top echelon of endurance racing, the Daytona Coupe was powered by a 289 ci (4.7L) Ford small block V8. With the Daytona, Shelby won the 1965 International Championship for GT Manufacturers, the first American constructor to do so; Ford would later reassign Shelby to head the highly successful GT40 program. Six chassis were built.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6138-shelby-cobra-daytona-coupe.json",
+        "data/releases/2007/k6138-shelby-cobra-daytona-coupe-v2.json",
+        "data/releases/2007/k6138-shelby-cobra-daytona-coupe-v3.json",
+        "data/releases/2007/k6138-shelby-cobra-daytona-coupe-v4.json",
+        "data/releases/2008/m3661-shelby-cobra-daytona-coupe.json",
+        "data/releases/2008/m1864-shelby-cobra-daytona-coupe.json",
+        "data/releases/2008/m1864-shelby-cobra-daytona-coupe-v2.json",
+        "data/releases/2008/m1864-shelby-cobra-daytona-coupe-v3.json",
+        "data/releases/2009/p2504-shelby-cobra-daytona-coupe.json",
+        "data/releases/2010/r7438-shelby-cobra-daytona-coupe.json",
+        "data/releases/2010/r7450-shelby-cobra-daytona-coupe.json",
+        "data/releases/2012/w4254-shelby-cobra-daytona-coupe.json",
+        "data/releases/2013/y9436-shelby-cobra-daytona-coupe.json",
+        "data/releases/2014/k5904-shelby-cobra-daytona-coupe.json",
+        "data/releases/2016/x6999-shelby-cobra-daytona-coupe.json",
+        "data/releases/2017/x6999-shelby-cobra-daytona-coupe.json",
+        "data/releases/2018/flc28-shelby-cobra-daytona-coupe.json",
+        "data/releases/2019/gbc26-shelby-cobra-daytona-coupe.json",
+        "data/releases/2019/gbb71-shelby-cobra-daytona-coupe.json",
+        "data/releases/2024/htc77-shelby-cobra-daytona-coupe.json",
+        "data/releases/2024/htf89-shelby-cobra-daytona-coupe.json",
+        "data/releases/2024/htf10-shelby-cobra-daytona-coupe.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Shelby"
+}

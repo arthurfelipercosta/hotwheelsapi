@@ -2,10 +2,14 @@
     "series_id": "ford-performance",
     "year": 2016,
     "name": "Ford Performance",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 3,
     "releases": [
+        "data/releases/2016/djk85-65-mustang-2-2-fastback.json",
         "data/releases/2016/djk86-67-ford-mustang-coupe.json",
-        "data/releases/2016/djk87-92-ford-mustang.json"
+        "data/releases/2016/djk87-92-ford-mustang.json",
+        "data/releases/2016/djk88-99-ford-mustang.json",
+        "data/releases/2016/djk89-mustang-funny-car.json",
+        "data/releases/2016/djk92-71-mustang-mach-i.json"
     ]
 }

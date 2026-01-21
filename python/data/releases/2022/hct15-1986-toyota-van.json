@@ -1,0 +1,35 @@
+{
+    "release_id": "hct15-1986-toyota-van-2022",
+    "toy_number": "HCT15",
+    "casting_id": "1986-toyota-van",
+    "year": 2022,
+    "series_id": "hw-j-imports",
+    "series_index": 7,
+    "specs": {
+        "color": "Metalflake Dark Red",
+        "tampo": "Black, orange & yellow side stripes, detailed taillights & rear \"TOYOTA\" trim, Hot Wheels license plate on tailgate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Metalflake Gray",
+        "wheel_type": {
+            "0": "AeroDisc",
+            "1": "Metalflake Silver",
+            "2": "Blue & white side stripes",
+            "3": "detailed taillights & rear \"TOYOTA\" trim",
+            "4": "Hot Wheels license plate on tailgate",
+            "5": "Black",
+            "6": "Plastic",
+            "7": "HCX37",
+            "8": "New Model Base codes: R26",
+            "9": "R29",
+            "10": "R30",
+            "11": "R31"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/ToyotaVan.jpg/revision/latest/scale-to-width-down/75?cb=20220409072344"
+    }
+}

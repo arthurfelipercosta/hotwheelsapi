@@ -1,0 +1,25 @@
+{
+    "release_id": "t9838-acura-nsx-2011",
+    "toy_number": "T9838",
+    "casting_id": "acura-nsx",
+    "year": 2011,
+    "series_id": "hw-performance",
+    "series_index": 1,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black & Orange \"AEM\" Deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): C29, C37, C33, C43, C47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/AcuraNSX_Perf_Yellow.JPG/revision/latest/scale-to-width-down/75?cb=20100920093826"
+    }
+}

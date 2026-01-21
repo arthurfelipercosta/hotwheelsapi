@@ -2,11 +2,27 @@
     "series_id": "mainline",
     "year": 1999,
     "name": "Mainline",
-    "total_releases": 3,
+    "total_releases": 19,
     "max_index": 0,
     "releases": [
+        "data/releases/1999/22379-classic-cobra.json",
+        "data/releases/1999/22389-40-ford.json",
+        "data/releases/1999/22399-70-plymouth-barracuda.json",
+        "data/releases/1999/22405-dodge-viper-rt-10.json",
+        "data/releases/1999/23720-rodzilla.json",
+        "data/releases/1999/23816-dodge-viper-rt-10.json",
+        "data/releases/1999/23821-67-camaro.json",
+        "data/releases/1999/24065-65-mustang-convertible.json",
+        "data/releases/1999/24066-rigor-motor.json",
         "data/releases/1999/24070-corvette-stingray.json",
+        "data/releases/1999/24075-rescue-ranger.json",
+        "data/releases/1999/24077-70-plymouth-barracuda.json",
+        "data/releases/1999/24083-40-ford.json",
+        "data/releases/1999/24084-32-ford.json",
+        "data/releases/1999/24091-57-chevy.json",
         "data/releases/1999/24094-humvee.json",
-        "data/releases/1999/24105-power-rocket.json"
+        "data/releases/1999/24096-jaguar-xj220.json",
+        "data/releases/1999/24105-power-rocket.json",
+        "data/releases/1999/24119-70-mustang-mach-1.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc24-mod-rod-2020",
+    "toy_number": "GHC24",
+    "casting_id": "mod-rod",
+    "year": 2020,
+    "series_id": "hw-dream-garage",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "Black & Gold Stripes on side \"Mod Rod\" on pillar.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Charcoal Chrome",
+        "wheel_type": {
+            "0": "Gold rim",
+            "1": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M43, M46, M48, M49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/2020ModRodRedall5sp.jpg/revision/latest/scale-to-width-down/75?cb=20200209005900"
+    }
+}

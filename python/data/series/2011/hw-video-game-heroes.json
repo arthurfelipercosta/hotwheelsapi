@@ -2,9 +2,25 @@
     "series_id": "hw-video-game-heroes",
     "year": 2011,
     "name": "HW Video Game Heroes",
-    "total_releases": 1,
+    "total_releases": 17,
     "max_index": 1,
     "releases": [
-        "data/releases/2011/t9766-bone-shaker.json"
+        "data/releases/2011/t9766-bone-shaker.json",
+        "data/releases/2011/t9768-surf-crate.json",
+        "data/releases/2011/t9769-sting-rod-ii.json",
+        "data/releases/2011/t9770-jet-threat-4-0.json",
+        "data/releases/2011/t9771-fast-fish.json",
+        "data/releases/2011/t9772-armored-truck.json",
+        "data/releases/2011/t9773-circle-tracker.json",
+        "data/releases/2011/t9775-surfin-school-bus.json",
+        "data/releases/2011/t9776-hw40.json",
+        "data/releases/2011/t9777-fast-gassin.json",
+        "data/releases/2011/t9779-split-decision.json",
+        "data/releases/2011/t9781-night-burner.json",
+        "data/releases/2011/t9783-scorcher.json",
+        "data/releases/2011/t9784-amazoom.json",
+        "data/releases/2011/t9785-yur-so-fast.json",
+        "data/releases/2011/t9786-bad-mudder-2.json",
+        "data/releases/2011/t9787-street-cleaver.json"
     ]
 }

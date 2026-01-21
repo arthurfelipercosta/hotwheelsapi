@@ -2,11 +2,19 @@
     "series_id": "porsche",
     "year": 2020,
     "name": "Porsche",
-    "total_releases": 3,
+    "total_releases": 11,
     "max_index": 2,
     "releases": [
+        "data/releases/2020/ghb54-89-porsche-944-turbo.json",
         "data/releases/2020/ghd19-96-porsche-carrera.json",
+        "data/releases/2020/ghd20-porsche-panamera-turbo-s-e-hybrid-sport-turismo.json",
+        "data/releases/2020/ghd21-porsche-917-lh.json",
+        "data/releases/2020/ghd22-porsche-918-spyder.json",
+        "data/releases/2020/ghf07-89-porsche-944-turbo.json",
         "data/releases/2020/ghf18-96-porsche-carrera.json",
+        "data/releases/2020/ghf19-porsche-panamera-turbo-s-e-hybrid-sport-turismo.json",
+        "data/releases/2020/ghg26-porsche-918-spyder.json",
+        "data/releases/2020/ghg39-porsche-917-lh.json",
         "data/releases/2020/ghg59-96-porsche-carrera.json"
     ]
 }

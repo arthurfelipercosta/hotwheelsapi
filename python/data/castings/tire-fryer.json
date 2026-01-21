@@ -1,0 +1,24 @@
+{
+    "casting_id": "tire-fryer",
+    "name": "Tire Fryer",
+    "description": {
+        "en-us": "Tire Fryer Debut series 2003 First Editions Produced 2003 - 2013 Designer Phil Riehlman Number 56373",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56373-tire-fryer.json",
+        "data/releases/2004/b3769-tire-fryer.json",
+        "data/releases/2004/c2636-tire-fryer.json",
+        "data/releases/2007/l3016-tire-fryer.json",
+        "data/releases/2008/54886-tire-fryer.json",
+        "data/releases/2008/54886-tire-fryer-v2.json",
+        "data/releases/2008/54886-tire-fryer-v3.json",
+        "data/releases/2010/r1075-tire-fryer.json",
+        "data/releases/2011/v0106-tire-fryer.json",
+        "data/releases/2013/bgj63-tire-fryer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Mattel"
+}

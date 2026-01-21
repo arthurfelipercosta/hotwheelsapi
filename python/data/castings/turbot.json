@@ -1,0 +1,19 @@
+{
+    "casting_id": "turbot",
+    "name": "Turbot",
+    "description": {
+        "en-us": "Turbot Debut series Street Beasts Produced 2016 - 2018 Designer Tyler Charest Number DHP31",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp31-turbot.json",
+        "data/releases/2016/dhx07-turbot.json",
+        "data/releases/2017/dtx39-turbot.json",
+        "data/releases/2017/dvb30-turbot.json",
+        "data/releases/2018/fjx28-turbot.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

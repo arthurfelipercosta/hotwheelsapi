@@ -1,0 +1,39 @@
+{
+    "casting_id": "datsun-620",
+    "name": "Datsun 620",
+    "description": {
+        "en-us": "Datsun 620 Debut series HW Off-Road: HW Hot Trucks Produced 2014 - Present Designer Jun Imai Number BDC74",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc74-datsun-620-v2.json",
+        "data/releases/2014/bfv62-datsun-620-v2.json",
+        "data/releases/2014/bff52-datsun-620-v2.json",
+        "data/releases/2015/cfk72-datsun-620-v2.json",
+        "data/releases/2015/cfk03-datsun-620-v2.json",
+        "data/releases/2016/djk97-datsun-620-v2.json",
+        "data/releases/2016/x6999-datsun-620-v4.json",
+        "data/releases/2016/x6999-datsun-620-v5.json",
+        "data/releases/2016/x6999-datsun-620-v6.json",
+        "data/releases/2016/djf92-datsun-620-v2.json",
+        "data/releases/2017/dtx75-datsun-620-v2.json",
+        "data/releases/2017/fjv58-datsun-620-v2.json",
+        "data/releases/2018/fjw57-datsun-620-v2.json",
+        "data/releases/2018/fkb40-datsun-620-v2.json",
+        "data/releases/2018/fkb78-datsun-620-v2.json",
+        "data/releases/2019/fyl18-datsun-620-v2.json",
+        "data/releases/2020/ghc41-datsun-620-v2.json",
+        "data/releases/2021/grp25-datsun-620-v2.json",
+        "data/releases/2022/hfv93-datsun-620-v2.json",
+        "data/releases/2023/hly73-datsun-620-v2.json",
+        "data/releases/2023/hkc99-datsun-620-v2.json",
+        "data/releases/2024/hrt52-datsun-620-v2.json",
+        "data/releases/2024/x6999-datsun-620-v2.json",
+        "data/releases/2025/x6999-datsun-620-v2.json",
+        "data/releases/2026/jkf12-datsun-620-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Datsun"
+}

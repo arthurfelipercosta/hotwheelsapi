@@ -1,0 +1,38 @@
+{
+    "casting_id": "66-ford-427-fairlane",
+    "name": "'66 Ford 427 Fairlane",
+    "description": {
+        "en-us": "'66 Ford 427 Fairlane Debut series 2009 New Models Produced 2009 - Present Designer Phil Riehlman Number N4034",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4034-66-ford-427-fairlane.json",
+        "data/releases/2009/n4034-66-ford-427-fairlane-v2.json",
+        "data/releases/2010/r7507-66-ford-427-fairlane.json",
+        "data/releases/2010/r7507-66-ford-427-fairlane-v2.json",
+        "data/releases/2010/r7507-66-ford-427-fairlane-v3.json",
+        "data/releases/2011/t8259-66-ford-427-fairlane.json",
+        "data/releases/2011/t8304-66-ford-427-fairlane.json",
+        "data/releases/2012/v5415-66-ford-427-fairlane.json",
+        "data/releases/2012/v5376-66-ford-427-fairlane.json",
+        "data/releases/2012/v5650-66-ford-427-fairlane.json",
+        "data/releases/2013/x6999-66-ford-427-fairlane.json",
+        "data/releases/2013/x6999-66-ford-427-fairlane-v2.json",
+        "data/releases/2013/x6999-66-ford-427-fairlane-v3.json",
+        "data/releases/2014/bdk73-66-ford-427-fairlane.json",
+        "data/releases/2016/dhr10-66-ford-427-fairlane.json",
+        "data/releases/2016/dhx30-66-ford-427-fairlane.json",
+        "data/releases/2016/dhy08-66-ford-427-fairlane.json",
+        "data/releases/2017/dwc51-66-ford-427-fairlane.json",
+        "data/releases/2019/fyl19-66-ford-427-fairlane.json",
+        "data/releases/2020/gjw66-66-ford-427-fairlane.json",
+        "data/releases/2021/grr07-66-ford-427-fairlane.json",
+        "data/releases/2022/hdg61-66-ford-427-fairlane.json",
+        "data/releases/2023/hrr21-66-ford-427-fairlane.json",
+        "data/releases/2025/jby36-66-ford-427-fairlane.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Ford"
+}

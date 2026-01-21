@@ -1,0 +1,25 @@
+{
+    "release_id": "dhp06-custom-01-acura-integra-gsr-2016",
+    "toy_number": "DHP06",
+    "casting_id": "custom-01-acura-integra-gsr",
+    "year": 2016,
+    "series_id": "night-burnerz",
+    "series_index": 9,
+    "specs": {
+        "color": "Dark Yellow",
+        "tampo": "Detailed head- & taillights, Acura logo on rear, HW logo on license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome & Black OH5",
+            "1": "Chrome OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): H48, H49, H50, H51, H52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/IMG_20160214_193507.jpg/revision/latest/scale-to-width-down/75?cb=20160214193811"
+    }
+}

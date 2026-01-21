@@ -2,14 +2,19 @@
     "series_id": "batman",
     "year": 2026,
     "name": "Batman",
-    "total_releases": 6,
+    "total_releases": 11,
     "max_index": 2,
     "releases": [
         "data/releases/2026/jjh83-batmobile.json",
         "data/releases/2026/jjj21-the-dark-knight-batmobile.json",
         "data/releases/2026/jjj67-1966-bat-boat.json",
         "data/releases/2026/jkw00-hi-roller-ii.json",
+        "data/releases/2026/jkw91-count-muscula.json",
+        "data/releases/2026/jkw92-boom-box.json",
         "data/releases/2026/jkw93-the-dark-knight-batmobile.json",
-        "data/releases/2026/jkw96-the-brave-and-the-bold-batmobile.json"
+        "data/releases/2026/jkw94-batcopter.json",
+        "data/releases/2026/jkw95-speedbox.json",
+        "data/releases/2026/jkw96-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2026/jkx03-prototype-h-24.json"
     ]
 }

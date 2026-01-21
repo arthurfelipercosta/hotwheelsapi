@@ -1,0 +1,25 @@
+{
+    "release_id": "g6803-combat-medic-2005",
+    "toy_number": "G6803",
+    "casting_id": "combat-medic",
+    "year": 2005,
+    "series_id": "asphalt-jungle",
+    "series_index": 1,
+    "specs": {
+        "color": "Purple",
+        "tampo": "\"Big Pig Dogs\" tampos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named Combat Ambulance",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/Big_Pig_Dogs_Combat_Ambulance_-_6455cf.jpg/revision/latest/scale-to-width-down/75?cb=20081116175244"
+    }
+}

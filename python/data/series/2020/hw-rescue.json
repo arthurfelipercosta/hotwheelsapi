@@ -2,9 +2,20 @@
     "series_id": "hw-rescue",
     "year": 2020,
     "name": "HW Rescue",
-    "total_releases": 1,
+    "total_releases": 12,
     "max_index": 1,
     "releases": [
-        "data/releases/2020/ghb75-alpha-pursuit.json"
+        "data/releases/2020/ghb75-alpha-pursuit.json",
+        "data/releases/2020/ghc53-custom-11-camaro.json",
+        "data/releases/2020/ghc60-2-tuff.json",
+        "data/releases/2020/ghc61-92-bmw-m3.json",
+        "data/releases/2020/ghc62-dodge-charger-drift-car.json",
+        "data/releases/2020/ghc63-mad-propz.json",
+        "data/releases/2020/ghc64-nissan-300zx-twin-turbo.json",
+        "data/releases/2020/ghc65-hot-wheels-ford-transit-connect.json",
+        "data/releases/2020/ghc66-sky-boat.json",
+        "data/releases/2020/ghd76-chevy-silverado.json",
+        "data/releases/2020/ghd76-chevy-silverado.json",
+        "data/releases/2020/ghg45-92-bmw-m3.json"
     ]
 }

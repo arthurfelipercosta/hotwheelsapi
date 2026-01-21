@@ -1,0 +1,26 @@
+{
+    "casting_id": "corvette-c6-convertible",
+    "name": "Corvette C6 Convertible",
+    "description": {
+        "en-us": "Corvette C6 Convertible Debut series 2009 New Models Produced 2009 - Present Designer Phil Riehlman Number N4006\\n\\nThe Chevrolet Corvette is a sports car manufactured by the Chevrolet division of General Motors. The sixth generation, internally designated the C6 and designed by Tom Peters, was introduced in 2004 for the 2005 model year. This was the first Corvette generation since 1962 to have exposed headlights and featured revised suspension geometry, a 6.0L V8 and more refinement within the car. The convertible version of the Corvette, which this casting depicts, was introduced late in the 2005 model year. Production ended in 2013, to be replaced by the C7 .",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4006-corvette-c6-convertible.json",
+        "data/releases/2009/r5222-corvette-c6-convertible.json",
+        "data/releases/2010/r7558-corvette-c6-convertible.json",
+        "data/releases/2010/r7558-corvette-c6-convertible-v2.json",
+        "data/releases/2011/t8632-corvette-c6-convertible.json",
+        "data/releases/2013/bbd02-corvette-c6-convertible.json",
+        "data/releases/2014/bdl66-corvette-c6-convertible.json",
+        "data/releases/2015/cfv05-corvette-c6-convertible.json",
+        "data/releases/2019/gbc01-corvette-c6-convertible.json",
+        "data/releases/2021/grt17-corvette-c6-convertible.json",
+        "data/releases/2024/htc14-corvette-c6-convertible.json",
+        "data/releases/2024/htd20-corvette-c6-convertible.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

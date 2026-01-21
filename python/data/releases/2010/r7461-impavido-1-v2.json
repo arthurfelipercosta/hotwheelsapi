@@ -1,0 +1,27 @@
+{
+    "release_id": "r7461-impavido-1-2010",
+    "toy_number": "R7461",
+    "casting_id": "impavido-1",
+    "year": 2010,
+    "series_id": "track-stars",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "White stripes on front & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gold Chrome PR5",
+            "1": "068",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C09, C18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/Impavido1_trackstar_red.JPG/revision/latest/scale-to-width-down/75?cb=20100508111249"
+    }
+}

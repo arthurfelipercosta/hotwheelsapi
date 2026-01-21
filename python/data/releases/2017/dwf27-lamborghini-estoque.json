@@ -1,0 +1,24 @@
+{
+    "release_id": "dwf27-lamborghini-estoque-2017",
+    "toy_number": "DWF27",
+    "casting_id": "lamborghini-estoque",
+    "year": 2017,
+    "series_id": "lamborghini",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights w/ Lamborghini emblem, Silver stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold 10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): J52, K08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/Lamborghini_Estoque_3-8.jpg/revision/latest/scale-to-width-down/75?cb=20170418064815"
+    }
+}

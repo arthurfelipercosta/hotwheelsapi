@@ -1,0 +1,26 @@
+{
+    "release_id": "h9057-maelstrom-2005",
+    "toy_number": "H9057",
+    "casting_id": "maelstrom",
+    "year": 2005,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red Flames",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "PR5",
+            "2": "Malaysia"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/33/149_5SP_Maelstrom.jpg/revision/latest/scale-to-width-down/75?cb=20200211195822"
+    }
+}

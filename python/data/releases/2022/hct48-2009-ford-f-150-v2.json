@@ -1,0 +1,24 @@
+{
+    "release_id": "hct48-2009-ford-f-150-2022",
+    "toy_number": "HCT48",
+    "casting_id": "2009-ford-f-150",
+    "year": 2022,
+    "series_id": "hw-metro",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "\"Goodyear\" emblem on sides, yellow stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P44, P47, P49, P50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/2009_ford_f150_2022.jpg/revision/latest/scale-to-width-down/75?cb=20220501171123"
+    }
+}

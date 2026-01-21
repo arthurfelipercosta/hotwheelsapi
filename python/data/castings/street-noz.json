@@ -1,0 +1,20 @@
+{
+    "casting_id": "street-noz",
+    "name": "Street Noz",
+    "description": {
+        "en-us": "Street Noz Debut series Team Hot Wheels High-Speed Wheel Produced 2012 - 2015 Designer Unknown Number X0127",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/x0127-street-noz.json",
+        "data/releases/2013/x1738-street-noz.json",
+        "data/releases/2013/y0279-street-noz.json",
+        "data/releases/2014/bfd16-street-noz.json",
+        "data/releases/2014/bfg23-street-noz.json",
+        "data/releases/2015/cgc11-street-noz.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

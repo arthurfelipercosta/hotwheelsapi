@@ -1,0 +1,15 @@
+{
+    "series_id": "mystery-car",
+    "year": 2008,
+    "name": "Mystery Car",
+    "total_releases": 6,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2008/m6943-69-corvette.json",
+        "data/releases/2008/m6945-66-chevy-nova.json",
+        "data/releases/2008/m6946-cloak-and-dagger.json",
+        "data/releases/2008/m6955-lancia-stratos.json",
+        "data/releases/2008/m6961-corvette-c6r.json",
+        "data/releases/2008/m6963-ford-mustang-gt-concept.json"
+    ]
+}

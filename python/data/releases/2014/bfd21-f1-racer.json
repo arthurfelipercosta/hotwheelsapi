@@ -1,0 +1,24 @@
+{
+    "release_id": "bfd21-f1-racer-2014",
+    "toy_number": "BFD21",
+    "casting_id": "f1-racer",
+    "year": 2014,
+    "series_id": "hw-race-hw-race-team",
+    "series_index": null,
+    "specs": {
+        "color": "Metalic Blue",
+        "tampo": "Hot Wheels Racing Tampos \"8\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "White OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G02, G03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/F1_Racer-2014_146.jpg/revision/latest/scale-to-width-down/75?cb=20140615122523"
+    }
+}

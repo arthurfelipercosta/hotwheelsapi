@@ -1,0 +1,18 @@
+{
+    "series_id": "mystery-models",
+    "year": 2016,
+    "name": "Mystery Models",
+    "total_releases": 9,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2016/dtn28-ford-shelby-gr-1-concept.json",
+        "data/releases/2016/dtn29-12-camaro-zl1-concept.json",
+        "data/releases/2016/dtn31-la-fasta.json",
+        "data/releases/2016/dtn33-formul8r.json",
+        "data/releases/2016/dtn34-t-rextroyer.json",
+        "data/releases/2016/dtn35-mr11.json",
+        "data/releases/2016/dtn36-bye-focal-ii.json",
+        "data/releases/2016/dtn37-mad-splash.json",
+        "data/releases/2016/dtn38-velocita.json"
+    ]
+}

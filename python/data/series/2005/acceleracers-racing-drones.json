@@ -2,9 +2,13 @@
     "series_id": "acceleracers-racing-drones",
     "year": 2005,
     "name": "AcceleRacers: Racing Drones",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 6,
     "releases": [
-        "data/releases/2005/g8112-rd-06.json"
+        "data/releases/2005/g8108-rd-02.json",
+        "data/releases/2005/g8109-rd-03.json",
+        "data/releases/2005/g8111-rd-05.json",
+        "data/releases/2005/g8112-rd-06.json",
+        "data/releases/2005/g8114-rd-08.json"
     ]
 }

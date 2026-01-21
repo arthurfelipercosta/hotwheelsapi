@@ -1,0 +1,17 @@
+{
+    "casting_id": "side-ripper",
+    "name": "Side Ripper",
+    "description": {
+        "en-us": "Side Ripper Debut series HW Showroom Produced 2016 - 2017 Designer Dmitriy Shakhmatov Number DHP10",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp10-side-ripper.json",
+        "data/releases/2016/dhw81-side-ripper.json",
+        "data/releases/2017/dty67-side-ripper.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

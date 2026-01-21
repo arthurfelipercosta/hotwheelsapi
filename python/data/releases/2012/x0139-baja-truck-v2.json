@@ -1,0 +1,24 @@
+{
+    "release_id": "x0139-baja-truck-2012",
+    "toy_number": "X0139",
+    "casting_id": "baja-truck",
+    "year": 2012,
+    "series_id": "team-hot-wheels-high-speed-wheel",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Gray & Black pattern, Yellow & Red flames, \"Hot Wheels\", skull",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow HSW"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): E03, E21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/BajaTruck.jpg/revision/latest/scale-to-width-down/75?cb=20240223002853"
+    }
+}

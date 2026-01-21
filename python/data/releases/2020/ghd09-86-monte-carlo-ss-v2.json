@@ -1,0 +1,25 @@
+{
+    "release_id": "ghd09-86-monte-carlo-ss-2020",
+    "toy_number": "GHD09",
+    "casting_id": "86-monte-carlo-ss",
+    "year": 2020,
+    "series_id": "muscle-mania",
+    "series_index": 6,
+    "specs": {
+        "color": "Green",
+        "tampo": "Black, Gold & Green Pinstriping on sides & bonnet.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Gold Chrome rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N08, N09, N20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/GHD09-01.JPG/revision/latest/scale-to-width-down/75?cb=20200531065000"
+    }
+}

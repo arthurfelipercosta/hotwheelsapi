@@ -2,15 +2,23 @@
     "series_id": "modern-classics",
     "year": 2008,
     "name": "Modern Classics",
-    "total_releases": 7,
+    "total_releases": 15,
     "max_index": 2,
     "releases": [
         "data/releases/2008/m0427-datsun-240z.json",
         "data/releases/2008/m0512-92-ford-mustang.json",
         "data/releases/2008/m0512-92-ford-mustang.json",
+        "data/releases/2008/m0513-77-pontiac-firebird-t-a.json",
         "data/releases/2008/m0514-83-chevy-silverado.json",
         "data/releases/2008/m0514-83-chevy-silverado.json",
+        "data/releases/2008/m0516-07-ford-mustang.json",
         "data/releases/2008/m0517-80-el-camino.json",
+        "data/releases/2008/m0519-67-shelby-gt500.json",
+        "data/releases/2008/m0519-67-shelby-gt500.json",
+        "data/releases/2008/m1705-dodge-challenger-concept.json",
+        "data/releases/2008/m1705-dodge-challenger-concept.json",
+        "data/releases/2008/m1706-chevy-camaro-concept.json",
+        "data/releases/2008/m1706-chevy-camaro-concept.json",
         "data/releases/2008/mo427-datsun-240z.json"
     ]
 }

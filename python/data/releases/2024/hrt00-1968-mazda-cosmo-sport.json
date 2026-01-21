@@ -1,0 +1,24 @@
+{
+    "release_id": "hrt00-1968-mazda-cosmo-sport-2024",
+    "toy_number": "HRT00",
+    "casting_id": "1968-mazda-cosmo-sport",
+    "year": 2024,
+    "series_id": "hot-wheels-j-imports",
+    "series_index": 1,
+    "specs": {
+        "color": "Orange",
+        "tampo": "White stripe along hood & rear; \"Cosmo\" on front; detailed headlights, taillights, & trim",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "C5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S45, T01, T04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/MazdaCosmo.jpg/revision/latest/scale-to-width-down/75?cb=20240425142402"
+    }
+}

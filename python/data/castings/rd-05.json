@@ -1,0 +1,33 @@
+{
+    "casting_id": "rd-05",
+    "name": "RD-05",
+    "description": {
+        "en-us": "RD-05 Debut series AcceleRacers: Racing Drones Produced 2005 - 2012 (Original) 2013 - Present (1st retool) Designer Jun Imai and Nathan Proch Number G8111",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8111-rd-05.json",
+        "data/releases/2005/k0437-rd-05.json",
+        "data/releases/2006/k3285-rd-05.json",
+        "data/releases/2006/k3285-rd-05-v2.json",
+        "data/releases/2007/m3082-rd-05.json",
+        "data/releases/2007/m7626-rd-05.json",
+        "data/releases/2008/n2092-rd-05.json",
+        "data/releases/2009/n4079-rd-05.json",
+        "data/releases/2009/r1071-rd-05.json",
+        "data/releases/2010/r0963-rd-05.json",
+        "data/releases/2011/t9923-rd-05.json",
+        "data/releases/2011/r1071-rd-05.json",
+        "data/releases/2012/w3854-rd-05.json",
+        "data/releases/2012/w4250-rd-05.json",
+        "data/releases/2013/x1707-rd-05.json",
+        "data/releases/2014/bdw35-rd-05.json",
+        "data/releases/2014/cbr22-rd-05.json",
+        "data/releases/2016/dgn46-rd-05.json",
+        "data/releases/2021/gtd97-rd-05.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

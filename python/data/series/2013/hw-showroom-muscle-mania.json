@@ -2,10 +2,27 @@
     "series_id": "hw-showroom-muscle-mania",
     "year": 2013,
     "name": "HW Showroom: Muscle Mania",
-    "total_releases": 2,
+    "total_releases": 19,
     "max_index": 0,
     "releases": [
+        "data/releases/2013/x1626-68-plymouth-barracuda-formula-s.json",
+        "data/releases/2013/x1847-66-chevy-nova.json",
+        "data/releases/2013/x1848-69-ford-mustang.json",
+        "data/releases/2013/x1849-71-el-camino.json",
+        "data/releases/2013/x1850-71-hemi-cuda.json",
         "data/releases/2013/x1851-73-pontiac-firebird.json",
+        "data/releases/2013/x1852-69-ford-torino-talladega.json",
+        "data/releases/2013/x1853-65-mustang-2-2-fastback.json",
+        "data/releases/2013/x1853-65-mustang-2-2-fastback.json",
+        "data/releases/2013/x1855-70-monte-carlo.json",
+        "data/releases/2013/x1996-66-chevy-nova.json",
+        "data/releases/2013/x1997-71-el-camino.json",
+        "data/releases/2013/x1998-65-mustang-2-2-fastback.json",
+        "data/releases/2013/x2004-68-plymouth-barracuda-formula-s.json",
+        "data/releases/2013/x2021-71-el-camino.json",
+        "data/releases/2013/x2043-71-hemi-cuda.json",
+        "data/releases/2013/x2046-66-chevy-nova.json",
+        "data/releases/2013/x2052-70-monte-carlo.json",
         "data/releases/2013/x2058-73-pontiac-firebird.json"
     ]
 }

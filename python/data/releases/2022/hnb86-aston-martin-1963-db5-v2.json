@@ -1,0 +1,24 @@
+{
+    "release_id": "hnb86-aston-martin-1963-db5-2022",
+    "toy_number": "HNB86",
+    "casting_id": "aston-martin-1963-db5",
+    "year": 2022,
+    "series_id": "fao-schwarz-gold-multipack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake gold",
+        "tampo": "Aston Martin badge on nose & trunk. \"DB5\" badge on trunk. Headlights & taillights.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Chrome LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): R23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Aston_Martin_1963_DB5_FAO_Schwarz_Gold_Multipack.png/revision/latest/scale-to-width-down/75?cb=20221118182514"
+    }
+}

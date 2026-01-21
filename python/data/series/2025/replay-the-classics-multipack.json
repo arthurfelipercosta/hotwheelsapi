@@ -1,0 +1,15 @@
+{
+    "series_id": "replay-the-classics-multipack",
+    "year": 2025,
+    "name": "Replay the Classics Multipack",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2025/jhf01-55-chevy-bel-air-gasser.json",
+        "data/releases/2025/jhf01-67-camaro.json",
+        "data/releases/2025/jhf01-hot-bird.json",
+        "data/releases/2025/jhf01-mercedes-benz-300-sl.json",
+        "data/releases/2025/jhf01-porsche-935.json",
+        "data/releases/2025/jhf01-toyota-2000gt.json"
+    ]
+}

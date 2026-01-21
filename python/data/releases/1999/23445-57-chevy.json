@@ -1,0 +1,24 @@
+{
+    "release_id": "23445-57-chevy-1999",
+    "toy_number": "23445",
+    "casting_id": "57-chevy",
+    "year": 1999,
+    "series_id": "cop-rods",
+    "series_index": null,
+    "specs": {
+        "color": "Black & White",
+        "tampo": "Blue & Red stripes, Cop Tampos.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome RR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/57chevy.cop.jpg/revision/latest/scale-to-width-down/75?cb=20090707095831"
+    }
+}

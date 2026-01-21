@@ -1,0 +1,18 @@
+{
+    "casting_id": "bot-wheels",
+    "name": "Bot Wheels",
+    "description": {
+        "en-us": "Bot Wheels Debut series HW Robots Produced 2018 – Present Designer Alvin Chan Number FJW01",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjw01-bot-wheels-v2.json",
+        "data/releases/2019/fyc08-bot-wheels-v2.json",
+        "data/releases/2021/gry75-bot-wheels-v2.json",
+        "data/releases/2021/gtc02-bot-wheels-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

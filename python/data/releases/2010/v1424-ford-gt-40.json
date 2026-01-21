@@ -1,0 +1,25 @@
+{
+    "release_id": "v1424-ford-gt-40-2010",
+    "toy_number": "V1424",
+    "casting_id": "ford-gt-40",
+    "year": 2010,
+    "series_id": "4th-of-july",
+    "series_index": null,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Blue & Red stripes, stars and '4'",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Red Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/GT40_July4.JPG/revision/latest/scale-to-width-down/75?cb=20100620232229"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "x1881-65-pontiac-bonneville-2013",
+    "toy_number": "X1881",
+    "casting_id": "65-pontiac-bonneville",
+    "year": 2013,
+    "series_id": "hw-city-graffiti-rides",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "Green, Orange, White & Black Graffiti Graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White wheel",
+            "1": "Gold LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F10, F12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/%2765_Pontiac_Bonneville-2013_35_Graffiti_Rides_Green.jpg/revision/latest/scale-to-width-down/75?cb=20130513191824"
+    }
+}

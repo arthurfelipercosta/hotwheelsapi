@@ -1,0 +1,31 @@
+{
+    "release_id": "hct68-car-de-asada-2022",
+    "toy_number": "HCT68",
+    "casting_id": "car-de-asada",
+    "year": 2022,
+    "series_id": "fast-foodie",
+    "series_index": 1,
+    "specs": {
+        "color": "Brown",
+        "tampo": "Carne asada seasonings & ingredients",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Lime",
+        "wheel_type": {
+            "0": "Yellow 5SP",
+            "1": "Green iridescence",
+            "2": "Red satin",
+            "3": "Plastic",
+            "4": "Light Green & Yellow 5SP",
+            "5": "HCW72",
+            "6": "Base code(s): R04",
+            "7": "R06"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P35, P36, P37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Twenty_Twenty-Two_Taco_Tuesday_Taco_Car.jpg/revision/latest/scale-to-width-down/75?cb=20211124010249"
+    }
+}

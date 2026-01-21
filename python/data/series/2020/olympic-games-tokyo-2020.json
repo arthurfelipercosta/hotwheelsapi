@@ -1,0 +1,23 @@
+{
+    "series_id": "olympic-games-tokyo-2020",
+    "year": 2020,
+    "name": "Olympic Games Tokyo 2020",
+    "total_releases": 14,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2020/ghb72-surf-s-up.json",
+        "data/releases/2020/ghc92-10-toyota-tundra.json",
+        "data/releases/2020/ghc93-fast-felion.json",
+        "data/releases/2020/ghc94-mountain-mauler.json",
+        "data/releases/2020/ghc95-hi-beam.json",
+        "data/releases/2020/ghc96-skate-grom.json",
+        "data/releases/2020/ghc97-sky-dome.json",
+        "data/releases/2020/ghc98-toyota-2000gt.json",
+        "data/releases/2020/ghc99-velocita.json",
+        "data/releases/2020/ghd79-dune-daddy.json",
+        "data/releases/2020/ghf54-hi-beam.json",
+        "data/releases/2020/ghf55-toyota-2000gt.json",
+        "data/releases/2020/ghf56-velocita.json",
+        "data/releases/2020/ghg03-10-toyota-tundra.json"
+    ]
+}

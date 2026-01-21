@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh46-super-van-2023",
+    "toy_number": "HKH46",
+    "casting_id": "super-van",
+    "year": 2023,
+    "series_id": "hw-art-cars",
+    "series_index": 2,
+    "specs": {
+        "color": "White",
+        "tampo": "Black Letter grid puzzle-styled tampos on the sides and roof, featuring the words \"MATTEL\", \"HOT WHEELS CARS\", \"ART CARS\", \"SINCE 1968\", and the highlighted letter \"N\", along with the Hot Wheels logo and side marker lights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R33, R34, R35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/HW-2023-016-1-HKH46-70s_Van.png/revision/latest/scale-to-width-down/75?cb=20221116105418"
+    }
+}

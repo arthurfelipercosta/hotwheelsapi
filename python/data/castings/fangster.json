@@ -1,0 +1,31 @@
+{
+    "casting_id": "fangster",
+    "name": "Fangster",
+    "description": {
+        "en-us": "Fangster Debut series Speed Demons Produced 1986 - 1996 2010 - present Designer Larry Wood Number 2059",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/1986/2059-fangster.json",
+        "data/releases/1987/2059-fangster.json",
+        "data/releases/1988/2059-fangster.json",
+        "data/releases/1996/16047-fangster.json",
+        "data/releases/2010/r7614-fangster.json",
+        "data/releases/2011/v8296-fangster.json",
+        "data/releases/2012/54886-fangster.json",
+        "data/releases/2014/bfc67-fangster.json",
+        "data/releases/2016/dht35-fangster.json",
+        "data/releases/2016/dhx14-fangster.json",
+        "data/releases/2017/dvg03-fangster.json",
+        "data/releases/2019/fyc01-fangster.json",
+        "data/releases/2021/gtn46-fangster.json",
+        "data/releases/2022/hfk96-fangster.json",
+        "data/releases/2023/hlr62-fangster.json",
+        "data/releases/2024/htv39-fangster.json",
+        "data/releases/2025/jcl09-fangster.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 1986,
+    "manufacturer": "Mattel"
+}

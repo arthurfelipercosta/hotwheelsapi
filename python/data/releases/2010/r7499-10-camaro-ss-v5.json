@@ -1,0 +1,40 @@
+{
+    "release_id": "r7499-10-camaro-ss-2010",
+    "toy_number": "R7499",
+    "casting_id": "10-camaro-ss",
+    "year": 2010,
+    "series_id": "hw-garage",
+    "series_index": 6,
+    "specs": {
+        "color": "Metalflake Gray",
+        "tampo": "Red Tampos, Indianapolis 500 Centennial Era logo, Chevy logo, Camaro logo, taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OH5",
+            "1": "082",
+            "2": "214",
+            "3": "2010",
+            "4": "International card With or without HW Logo on rear license plate. Base codes: C05",
+            "5": "C12",
+            "6": "C16",
+            "7": "074",
+            "8": "240",
+            "9": "Red Tampos",
+            "10": "Indianapolis 500 Centennial Era logo",
+            "11": "Chevy logo",
+            "12": "Camaro logo",
+            "13": "taillights",
+            "14": "No HW logo on license plate",
+            "15": "Orange tint",
+            "16": "Base codes: C10"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "With or without HW Logo on rear licence plate. Base codes: C05, C12, C16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/IMG_5345.jpg/revision/latest/scale-to-width-down/75?cb=20100411164029"
+    }
+}

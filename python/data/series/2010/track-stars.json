@@ -1,0 +1,19 @@
+{
+    "series_id": "track-stars",
+    "year": 2010,
+    "name": "Track Stars",
+    "total_releases": 10,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2010/r7459-acura-nsx.json",
+        "data/releases/2010/r7460-prototype-h-24.json",
+        "data/releases/2010/r7460-prototype-h-24.json",
+        "data/releases/2010/r7460-prototype-h-24.json",
+        "data/releases/2010/r7460-prototype-h-24.json",
+        "data/releases/2010/r7461-impavido-1.json",
+        "data/releases/2010/r7464-power-pistons.json",
+        "data/releases/2010/r7465-hollowback.json",
+        "data/releases/2010/r7469-dieselboy.json",
+        "data/releases/2010/t5136-twin-mill-iii.json"
+    ]
+}

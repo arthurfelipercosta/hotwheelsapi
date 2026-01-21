@@ -2,9 +2,10 @@
     "series_id": "hot-wheels-id-factory-fresh",
     "year": 2021,
     "name": "Hot Wheels id: Factory Fresh",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 4,
     "releases": [
+        "data/releases/2021/hbf94-16-mercedes-amg-gt3.json",
         "data/releases/2021/hbf95-2018-honda-civic-type-r.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "t8273-custom-69-volkswagen-squareback-2011",
+    "toy_number": "T8273",
+    "casting_id": "custom-69-volkswagen-squareback",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-volkswagen",
+    "series_index": 3,
+    "specs": {
+        "color": "Magenta with Blue Pearl",
+        "tampo": "Red reverse flame panels outlined in Lavender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Redline RRLW5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D02, D28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/69VWVarient_Garage_Purple.JPG/revision/latest/scale-to-width-down/75?cb=20110501234559"
+    }
+}

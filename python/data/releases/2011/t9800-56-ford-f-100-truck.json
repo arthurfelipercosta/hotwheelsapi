@@ -1,0 +1,24 @@
+{
+    "release_id": "t9800-56-ford-f-100-truck-2011",
+    "toy_number": "T9800",
+    "casting_id": "56-ford-f-100-truck",
+    "year": 2011,
+    "series_id": "heat-fleet",
+    "series_index": 3,
+    "specs": {
+        "color": "Metallic Copper",
+        "tampo": "White flames outlined in Light & Dark Olive Green",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Olive Green tint",
+        "interior_color": "Gold Chrome",
+        "wheel_type": {
+            "0": "Gold Chrome 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named '56 Ford F-100 No Tilt Front End Base code(s): C44, C45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/56FordTruck_Heat_Copper.JPG/revision/latest/scale-to-width-down/75?cb=20101105202942"
+    }
+}

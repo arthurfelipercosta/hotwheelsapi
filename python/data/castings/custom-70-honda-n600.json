@@ -1,0 +1,20 @@
+{
+    "casting_id": "custom-70-honda-n600",
+    "name": "Custom '70 Honda N600",
+    "description": {
+        "en-us": "Custom '70 Honda N600 Debut series HW J-Imports Produced 2021 – Present Designer Ryu Asada Number GRX33",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx33-custom-70-honda-n600.json",
+        "data/releases/2021/gtb82-custom-70-honda-n600.json",
+        "data/releases/2022/hct75-custom-70-honda-n600.json",
+        "data/releases/2022/hjp32-custom-70-honda-n600.json",
+        "data/releases/2024/hvw99-custom-70-honda-n600.json",
+        "data/releases/2025/jby92-custom-70-honda-n600.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Honda"
+}

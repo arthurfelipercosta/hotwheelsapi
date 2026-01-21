@@ -1,0 +1,24 @@
+{
+    "release_id": "t8638-chevy-silverado-2011",
+    "toy_number": "T8638",
+    "casting_id": "chevy-silverado",
+    "year": 2011,
+    "series_id": "chevy-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Black & Grey stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red & Black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/ChevySilverado_Chevy5.JPG/revision/latest/scale-to-width-down/75?cb=20110615095503"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "casting_id": "12-mini-countryman-rally",
+    "name": "'12 Mini Countryman Rally",
+    "description": {
+        "en-us": "'12 Mini Countryman Rally Debut series HW Stunt: Road Rally Produced 2013 only Designer Kevin Cao Number X1639",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1639-12-mini-countryman-rally.json",
+        "data/releases/2013/x1904-12-mini-countryman-rally.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mini"
+}

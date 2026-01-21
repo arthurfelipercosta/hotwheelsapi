@@ -1,0 +1,24 @@
+{
+    "release_id": "v4426-67-camaro-2011",
+    "toy_number": "V4426",
+    "casting_id": "67-camaro",
+    "year": 2011,
+    "series_id": "cars-of-the-decades",
+    "series_index": 21,
+    "specs": {
+        "color": "Purple",
+        "tampo": "Yellow & brown pattern on sides with a number of small tampos. \"67\" on yellow stripe outlined in orange on hood, roof, & trunk. \"67\" on side door.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Error or variation has OH5 wheels on front. Base code(s): C47, C48, D30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/67_chevy_camaro_2011_purple.png/revision/latest/scale-to-width-down/75?cb=20110204020430"
+    }
+}

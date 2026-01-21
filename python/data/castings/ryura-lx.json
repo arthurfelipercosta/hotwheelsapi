@@ -1,0 +1,25 @@
+{
+    "casting_id": "ryura-lx",
+    "name": "Ryura LX",
+    "description": {
+        "en-us": "Ryura LX Debut series HW City - HW City Works Produced 2014 - Present Designer Ryu Asada Number BDD20",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd20-ryura-lx.json",
+        "data/releases/2014/bff73-ryura-lx.json",
+        "data/releases/2015/cfj12-ryura-lx.json",
+        "data/releases/2015/cfm18-ryura-lx.json",
+        "data/releases/2015/cmj33-ryura-lx.json",
+        "data/releases/2016/djk72-ryura-lx.json",
+        "data/releases/2016/dwy56-ryura-lx.json",
+        "data/releases/2018/fkt50-ryura-lx.json",
+        "data/releases/2020/gjv78-ryura-lx.json",
+        "data/releases/2022/hdh02-ryura-lx.json",
+        "data/releases/2023/hkl72-ryura-lx.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

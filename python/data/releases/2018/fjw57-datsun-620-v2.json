@@ -1,0 +1,27 @@
+{
+    "release_id": "fjw57-datsun-620-2018",
+    "toy_number": "FJW57",
+    "casting_id": "datsun-620",
+    "year": 2018,
+    "series_id": "hw-hot-trucks",
+    "series_index": 4,
+    "specs": {
+        "color": "Light Green",
+        "tampo": "Black stripe & '73' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black DD8",
+            "1": "Light Blue",
+            "2": "Silver",
+            "3": "Gray DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: K30, K32, K33, K36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/2018-620.png/revision/latest/scale-to-width-down/75?cb=20200530105856"
+    }
+}

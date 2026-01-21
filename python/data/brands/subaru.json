@@ -4,8 +4,11 @@
     "country": "Unknown",
     "founded_year": null,
     "castings": [
+        "data/castings/98-subaru-impreza-22b-sti-version.json",
+        "data/castings/subaru-brat.json",
         "data/castings/subaru-brz.json",
-        "data/castings/subaru-impreza.json"
+        "data/castings/subaru-impreza.json",
+        "data/castings/subaru-wrx-sti.json"
     ],
     "description": {
         "en-us": "Manufacturer of Subaru vehicles.",

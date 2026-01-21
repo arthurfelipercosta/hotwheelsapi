@@ -1,16 +1,27 @@
 {
     "series_id": "x-raycers",
     "year": 2016,
-    "name": "X‑Raycers",
-    "total_releases": 7,
-    "max_index": 1,
+    "name": "X-Raycers",
+    "total_releases": 18,
+    "max_index": 5,
     "releases": [
         "data/releases/2016/dhn91-blitzspeeder.json",
         "data/releases/2016/dhp43-stockar.json",
         "data/releases/2016/dhp44-rig-storm.json",
+        "data/releases/2016/dhp45-clear-speeder.json",
+        "data/releases/2016/dhp46-speed-slayer.json",
         "data/releases/2016/dhp47-bullet-proof.json",
+        "data/releases/2016/dhp48-vandetta.json",
+        "data/releases/2016/dhp49-cloak-and-dagger.json",
+        "data/releases/2016/dhp50-pharodox.json",
+        "data/releases/2016/dhp51-aero-pod.json",
         "data/releases/2016/dht92-stockar.json",
+        "data/releases/2016/dht93-clear-speeder.json",
+        "data/releases/2016/dht94-speed-slayer.json",
         "data/releases/2016/dht95-bullet-proof.json",
+        "data/releases/2016/dhw49-cloak-and-dagger.json",
+        "data/releases/2016/dhw50-pharodox.json",
+        "data/releases/2016/dhw51-aero-pod.json",
         "data/releases/2016/dhw52-blitzspeeder.json"
     ]
 }

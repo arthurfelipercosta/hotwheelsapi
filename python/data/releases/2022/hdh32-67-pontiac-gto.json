@@ -1,0 +1,25 @@
+{
+    "release_id": "hdh32-67-pontiac-gto-2022",
+    "toy_number": "HDH32",
+    "casting_id": "67-pontiac-gto",
+    "year": 2022,
+    "series_id": "hw-stars-stripes",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Grey",
+        "tampo": "American flag, \"76\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Chrome rim",
+            "1": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): P45, P48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/67_Pontiac_GTO_Stars_%26_Stripes.jpg/revision/latest/scale-to-width-down/75?cb=20220225200545"
+    }
+}

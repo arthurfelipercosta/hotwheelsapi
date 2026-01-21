@@ -1,0 +1,26 @@
+{
+    "casting_id": "15-dodge-challenger-srt",
+    "name": "'15 Dodge Challenger SRT",
+    "description": {
+        "en-us": "'15 Dodge Challenger SRT Debut series HW Workshop: Muscle Mania Produced 2015 - Present Designer Brendon Vetuskey Number CFH12",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh12-15-dodge-challenger-srt-v3.json",
+        "data/releases/2016/dhr24-15-dodge-challenger-srt-v3.json",
+        "data/releases/2016/dhy10-15-dodge-challenger-srt-v3.json",
+        "data/releases/2017/dty90-15-dodge-challenger-srt-v3.json",
+        "data/releases/2018/fjx76-15-dodge-challenger-srt-v3.json",
+        "data/releases/2018/fkb06-15-dodge-challenger-srt-v3.json",
+        "data/releases/2018/frf39-15-dodge-challenger-srt-v3.json",
+        "data/releases/2018/fkc21-15-dodge-challenger-srt-v3.json",
+        "data/releases/2019/gbb96-15-dodge-challenger-srt-v3.json",
+        "data/releases/2022/hcw30-15-dodge-challenger-srt-v3.json",
+        "data/releases/2023/hlk01-15-dodge-challenger-srt-v3.json",
+        "data/releases/2024/hrw80-15-dodge-challenger-srt-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Dodge"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "grj61-lotus-esprit-s1-2021",
+    "toy_number": "GRJ61",
+    "casting_id": "lotus-esprit-s1",
+    "year": 2021,
+    "series_id": "car-culture-british-horsepower",
+    "series_index": 4,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripe, \"Esprit\" on C-Pillar and hood, Front+rear lights, \"SERIES 1\" on license plate, spaced \"LOTUS\" on trunk, window highlights.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Light Grey RREx"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N43, N44, N46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/LotusEspritS1CCLoose.JPG/revision/latest/scale-to-width-down/75?cb=20210218171249"
+    }
+}

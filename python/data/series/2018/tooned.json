@@ -1,0 +1,16 @@
+{
+    "series_id": "tooned",
+    "year": 2018,
+    "name": "Tooned",
+    "total_releases": 7,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2018/fjv70-lamborghini-countach.json",
+        "data/releases/2018/fjw50-lamborghini-countach.json",
+        "data/releases/2018/fjw51-chrysler-300c.json",
+        "data/releases/2018/fjx32-corvette-c6.json",
+        "data/releases/2018/fjy44-lamborghini-countach.json",
+        "data/releases/2018/fjy45-chrysler-300c.json",
+        "data/releases/2018/fjy46-corvette-c6.json"
+    ]
+}

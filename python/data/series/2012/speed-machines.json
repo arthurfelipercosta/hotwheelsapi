@@ -2,9 +2,10 @@
     "series_id": "speed-machines",
     "year": 2012,
     "name": "Speed Machines",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/w2316-porsche-911-gt2.json"
+        "data/releases/2012/w2316-porsche-911-gt2.json",
+        "data/releases/2012/w2320-scirocco-gt-24.json"
     ]
 }

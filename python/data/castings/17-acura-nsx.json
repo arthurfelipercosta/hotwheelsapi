@@ -1,0 +1,36 @@
+{
+    "casting_id": "17-acura-nsx",
+    "name": "'17 Acura NSX",
+    "description": {
+        "en-us": "'17 Acura NSX Debut series Then and Now Produced 2016 - Present Designer Ryu Asada Number DHN99",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhn99-17-acura-nsx-v2.json",
+        "data/releases/2016/dhx21-17-acura-nsx-v2.json",
+        "data/releases/2017/dtx56-17-acura-nsx-v2.json",
+        "data/releases/2017/dvc86-17-acura-nsx-v2.json",
+        "data/releases/2019/fyc34-17-acura-nsx-v2.json",
+        "data/releases/2019/fyg35-17-acura-nsx-v2.json",
+        "data/releases/2020/x6999-17-acura-nsx-v2.json",
+        "data/releases/2020/gmk78-17-acura-nsx-v2.json",
+        "data/releases/2020/gjr75-17-acura-nsx-v2.json",
+        "data/releases/2020/gjv68-17-acura-nsx-v2.json",
+        "data/releases/2021/gry59-17-acura-nsx-v2.json",
+        "data/releases/2021/gtc58-17-acura-nsx-v2.json",
+        "data/releases/2022/hdg71-17-acura-nsx-v2.json",
+        "data/releases/2022/x6999-17-acura-nsx-v2.json",
+        "data/releases/2022/hnv34-17-acura-nsx-v2.json",
+        "data/releases/2022/hcp30-17-acura-nsx-v2.json",
+        "data/releases/2023/x6999-17-acura-nsx-v2.json",
+        "data/releases/2023/hnt19-17-acura-nsx-v2.json",
+        "data/releases/2024/htv49-17-acura-nsx-v2.json",
+        "data/releases/2024/hwd03-17-acura-nsx-v2.json",
+        "data/releases/2025/x6999-17-acura-nsx-v2.json",
+        "data/releases/2025/jcb80-17-acura-nsx-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Acura"
+}

@@ -1,0 +1,26 @@
+{
+    "release_id": "cfg92-aero-pod-2015",
+    "toy_number": "CFG92",
+    "casting_id": "aero-pod",
+    "year": 2015,
+    "series_id": "hw-off-road-jungle-rally",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl Lime Green",
+        "tampo": "Yellow, Black, White & Gold 'Jungle Rally' deco on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Gold & Black OR6SP",
+            "1": "Chrome Gold & Black BLOR",
+            "2": "New Model Base code(s):"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): H17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/AeroPodCFG92.jpg/revision/latest?cb=20151113042616"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "28022-ford-f-150-2000",
+    "toy_number": "28022",
+    "casting_id": "ford-f-150",
+    "year": 2000,
+    "series_id": "editor-s-choice",
+    "series_index": 11,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue & Pink graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PC5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Target Exclusive",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/Ford_F-150_ECL.JPG/revision/latest/scale-to-width-down/75?cb=20100623055021"
+    }
+}

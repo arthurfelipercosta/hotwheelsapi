@@ -1,0 +1,24 @@
+{
+    "release_id": "hct19-aston-martin-vantage-gte-2022",
+    "toy_number": "HCT19",
+    "casting_id": "aston-martin-vantage-gte",
+    "year": 2022,
+    "series_id": "hw-exotics",
+    "series_index": 9,
+    "specs": {
+        "color": "Lime Essence",
+        "tampo": "Detailed headlights, Black, Gray and Orange accents, Black NACA ducts",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): R25, R26, R27, R29, R30, R31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/AMRVantageGTE.jpg/revision/latest/scale-to-width-down/75?cb=20220804100819"
+    }
+}

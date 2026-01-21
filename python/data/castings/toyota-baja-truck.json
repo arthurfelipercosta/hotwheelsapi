@@ -1,0 +1,41 @@
+{
+    "casting_id": "toyota-baja-truck",
+    "name": "Toyota Baja Truck",
+    "description": {
+        "en-us": "Toyota Baja Truck Debut series Xtreme Trucks 2-Car Set Produced 2000 - Present Designer Phil Riehlman Number 23787",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2000/23787-toyota-baja-truck-v2.json",
+        "data/releases/2001/29689-toyota-baja-truck-v3.json",
+        "data/releases/2001/29689-toyota-baja-truck-v4.json",
+        "data/releases/2004/g3767-toyota-baja-truck-v3.json",
+        "data/releases/2004/g3767-toyota-baja-truck-v4.json",
+        "data/releases/2008/m6937-toyota-baja-truck-v3.json",
+        "data/releases/2008/m6937-toyota-baja-truck-v4.json",
+        "data/releases/2009/n4074-toyota-baja-truck-v2.json",
+        "data/releases/2010/r7618-toyota-baja-truck-v2.json",
+        "data/releases/2011/t8642-toyota-baja-truck-v2.json",
+        "data/releases/2012/x0121-toyota-baja-truck-v2.json",
+        "data/releases/2012/v5526-toyota-baja-truck-v2.json",
+        "data/releases/2013/x9854-toyota-baja-truck-v2.json",
+        "data/releases/2014/bdl06-toyota-baja-truck-v2.json",
+        "data/releases/2015/cfk67-toyota-baja-truck-v2.json",
+        "data/releases/2015/cfj36-toyota-baja-truck-v2.json",
+        "data/releases/2016/dhr55-toyota-baja-truck-v2.json",
+        "data/releases/2016/dhx49-toyota-baja-truck-v2.json",
+        "data/releases/2017/dtx61-toyota-baja-truck-v2.json",
+        "data/releases/2017/dvc87-toyota-baja-truck-v2.json",
+        "data/releases/2021/grx70-toyota-baja-truck-v2.json",
+        "data/releases/2021/gtc49-toyota-baja-truck-v2.json",
+        "data/releases/2021/gtd49-toyota-baja-truck-v2.json",
+        "data/releases/2022/hdh72-toyota-baja-truck-v2.json",
+        "data/releases/2023/hlk23-toyota-baja-truck-v2.json",
+        "data/releases/2024/hrv39-toyota-baja-truck-v2.json",
+        "data/releases/2025/jcb75-toyota-baja-truck-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2000,
+    "manufacturer": "Toyota"
+}

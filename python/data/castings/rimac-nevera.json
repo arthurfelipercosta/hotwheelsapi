@@ -1,0 +1,16 @@
+{
+    "casting_id": "rimac-nevera",
+    "name": "Rimac Nevera",
+    "description": {
+        "en-us": "Rimac Nevera Debut series HW Green Speed Produced 2023 – Present Designer Manson Cheung Number HKG36",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg36-rimac-nevera.json",
+        "data/releases/2023/hkk21-rimac-nevera.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Rimac"
+}

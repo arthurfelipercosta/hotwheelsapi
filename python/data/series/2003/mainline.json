@@ -1,0 +1,15 @@
+{
+    "series_id": "mainline",
+    "year": 2003,
+    "name": "Mainline",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2003/57095-arachnorod.json",
+        "data/releases/2003/57099-custom-69-chevy.json",
+        "data/releases/2003/57106-sharkruiser.json",
+        "data/releases/2003/57109-lancia-stratos.json",
+        "data/releases/2003/57111-blast-lane.json",
+        "data/releases/2003/57181-65-pontiac-bonneville.json"
+    ]
+}

@@ -2,11 +2,13 @@
     "series_id": "x-raycers-5-pack",
     "year": 2023,
     "name": "X-Raycers 5-Pack",
-    "total_releases": 3,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/2023/gtn49-hw-formula-solar.json",
         "data/releases/2023/gtn49-slide-kick.json",
+        "data/releases/2023/hly63-beat-all.json",
+        "data/releases/2023/hly64-lindster-prototype.json",
         "data/releases/2023/hly64-power-rocket.json"
     ]
 }

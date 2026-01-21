@@ -1,0 +1,26 @@
+{
+    "release_id": "fyc69-blastous-moto-2019",
+    "toy_number": "FYC69",
+    "casting_id": "blastous-moto",
+    "year": 2019,
+    "series_id": "hw-moto",
+    "series_index": 4,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Black & Yellow flames, HW logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Blue rim",
+            "1": "Black OH5 & Blue rim",
+            "2": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/Blastous_Moto-2019_-010-HW_Moto.jpg/revision/latest/scale-to-width-down/75?cb=20180922002640"
+    }
+}

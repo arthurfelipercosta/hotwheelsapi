@@ -2,11 +2,26 @@
     "series_id": "hw-rescue",
     "year": 2019,
     "name": "HW Rescue",
-    "total_releases": 3,
+    "total_releases": 18,
     "max_index": 4,
     "releases": [
+        "data/releases/2019/fyc78-fast-master.json",
+        "data/releases/2019/fyc79-lamborghini-countach-pace-car.json",
+        "data/releases/2019/fyc80-71-porsche-911.json",
+        "data/releases/2019/fyc80-71-porsche-911.json",
         "data/releases/2019/fyc81-nissan-skyline-2000gt-r.json",
+        "data/releases/2019/fyc82-rescue-ranger.json",
         "data/releases/2019/fyc83-5-alarm.json",
-        "data/releases/2019/fyg85-nissan-skyline-2000gt-r.json"
+        "data/releases/2019/fyc84-10-camaro-ss.json",
+        "data/releases/2019/fyc85-hw-pursuit.json",
+        "data/releases/2019/fyc86-porsche-panamera.json",
+        "data/releases/2019/fyd76-fast-master.json",
+        "data/releases/2019/fyf99-armored-truck.json",
+        "data/releases/2019/fyg20-porsche-panamera.json",
+        "data/releases/2019/fyg84-lamborghini-countach-pace-car.json",
+        "data/releases/2019/fyg85-nissan-skyline-2000gt-r.json",
+        "data/releases/2019/fyg86-rescue-ranger.json",
+        "data/releases/2019/fyg87-10-camaro-ss.json",
+        "data/releases/2019/fyg88-hw-pursuit.json"
     ]
 }

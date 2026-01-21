@@ -1,0 +1,18 @@
+{
+    "series_id": "track-stars",
+    "year": 2021,
+    "name": "Track Stars",
+    "total_releases": 9,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2021/grx45-lethal-diesel.json",
+        "data/releases/2021/grx46-cosmic-coupe.json",
+        "data/releases/2021/gry81-fig-rig.json",
+        "data/releases/2021/gry82-retro-active.json",
+        "data/releases/2021/gry83-grand-cross.json",
+        "data/releases/2021/gtb43-retro-active.json",
+        "data/releases/2021/gtb80-lethal-diesel.json",
+        "data/releases/2021/gtc44-cosmic-coupe.json",
+        "data/releases/2021/gtc60-grand-cross.json"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "series_id": "muscle-mania",
+    "year": 2017,
+    "name": "Muscle Mania",
+    "total_releases": 18,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2017/dtw82-custom-67-pontiac-firebird.json",
+        "data/releases/2017/dty85-ford-shelby-gt350r.json",
+        "data/releases/2017/dty86-69-chevelle-ss-396.json",
+        "data/releases/2017/dty87-68-el-camino.json",
+        "data/releases/2017/dty88-67-pontiac-firebird-400.json",
+        "data/releases/2017/dty89-69-dodge-charger-500.json",
+        "data/releases/2017/dty90-15-dodge-challenger-srt.json",
+        "data/releases/2017/dty91-67-pontiac-gto.json",
+        "data/releases/2017/dty92-ccm-country-club-muscle.json",
+        "data/releases/2017/dty93-d-muscle.json",
+        "data/releases/2017/dvc39-ford-shelby-gt350r.json",
+        "data/releases/2017/dvc40-68-el-camino.json",
+        "data/releases/2017/dvc41-69-dodge-charger-500.json",
+        "data/releases/2017/dvc43-67-pontiac-gto.json",
+        "data/releases/2017/dvc95-69-chevelle-ss-396.json",
+        "data/releases/2017/fbj06-ford-shelby-gt350r.json",
+        "data/releases/2017/fbj07-67-pontiac-gto.json",
+        "data/releases/2017/fbj08-d-muscle.json"
+    ]
+}

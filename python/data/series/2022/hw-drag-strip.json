@@ -2,11 +2,21 @@
     "series_id": "hw-drag-strip",
     "year": 2022,
     "name": "HW Drag Strip",
-    "total_releases": 3,
+    "total_releases": 13,
     "max_index": 5,
     "releases": [
         "data/releases/2022/hct12-62-corvette-gasser.json",
+        "data/releases/2022/hct25-1988-ford-t-bird.json",
+        "data/releases/2022/hct44-hot-wired.json",
+        "data/releases/2022/hct74-06-pontiac-gto.json",
+        "data/releases/2022/hcv31-18-dodge-challenger-srt-demon.json",
         "data/releases/2022/hcv90-supercharged.json",
-        "data/releases/2022/hcx95-71-mustang-funny-car.json"
+        "data/releases/2022/hcv92-40-ford.json",
+        "data/releases/2022/hcw45-altered-ego.json",
+        "data/releases/2022/hcw50-aristo-rat.json",
+        "data/releases/2022/hcx61-40-ford.json",
+        "data/releases/2022/hcx70-06-pontiac-gto.json",
+        "data/releases/2022/hcx95-71-mustang-funny-car.json",
+        "data/releases/2022/hcy37-06-pontiac-gto.json"
     ]
 }

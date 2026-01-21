@@ -1,0 +1,22 @@
+{
+    "casting_id": "67-jeepster-commando",
+    "name": "'67 Jeepster Commando",
+    "description": {
+        "en-us": "'67 Jeepster Commando Debut series HW Hot Trucks Produced 2019 - Present Designer Dmitriy Shakhmatov Number FYB53",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb53-67-jeepster-commando-v2.json",
+        "data/releases/2019/fyf06-67-jeepster-commando-v2.json",
+        "data/releases/2020/ghb84-67-jeepster-commando-v2.json",
+        "data/releases/2020/ghg14-67-jeepster-commando-v2.json",
+        "data/releases/2021/gtn45-67-jeepster-commando-v2.json",
+        "data/releases/2022/hdh08-67-jeepster-commando-v2.json",
+        "data/releases/2023/hkj02-67-jeepster-commando-v2.json",
+        "data/releases/2023/hkl55-67-jeepster-commando-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Jeep"
+}

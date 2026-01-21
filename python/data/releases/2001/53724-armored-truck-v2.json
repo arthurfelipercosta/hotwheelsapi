@@ -1,0 +1,25 @@
+{
+    "release_id": "53724-armored-truck-2001",
+    "toy_number": "53724",
+    "casting_id": "armored-truck",
+    "year": 2001,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Flat Black",
+        "tampo": "Always Safe Armoured Transport on sides.On cab doors: Driver carries only Hotwheels cars. numbers: 8 5 18 1 12 4 1 on lower side sills",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Large front 5SP",
+            "1": "Small front 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Armored Car",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Armored_Truck_-_6991cf.jpg/revision/latest/scale-to-width-down/75?cb=20090106024223"
+    }
+}

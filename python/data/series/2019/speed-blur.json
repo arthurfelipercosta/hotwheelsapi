@@ -2,13 +2,23 @@
     "series_id": "speed-blur",
     "year": 2019,
     "name": "Speed Blur",
-    "total_releases": 5,
+    "total_releases": 15,
     "max_index": 6,
     "releases": [
+        "data/releases/2019/fyb77-muscle-bound.json",
         "data/releases/2019/fyc53-92-ford-mustang.json",
         "data/releases/2019/fyd34-hw50-concept.json",
+        "data/releases/2019/fyd35-rise-n-climb.json",
+        "data/releases/2019/fyd36-track-manga.json",
+        "data/releases/2019/fyd37-2018-ford-mustang-gt.json",
+        "data/releases/2019/fyd38-exotique.json",
         "data/releases/2019/fyd39-track-ripper.json",
+        "data/releases/2019/fyd40-17-nissan-gt-r-r35.json",
+        "data/releases/2019/fyd41-64-chevy-chevelle-ss.json",
+        "data/releases/2019/fyf37-exotique.json",
+        "data/releases/2019/fyf39-muscle-bound.json",
         "data/releases/2019/fyg17-92-ford-mustang.json",
-        "data/releases/2019/fyg24-track-ripper.json"
+        "data/releases/2019/fyg24-track-ripper.json",
+        "data/releases/2019/fyg30-2018-ford-mustang-gt.json"
     ]
 }

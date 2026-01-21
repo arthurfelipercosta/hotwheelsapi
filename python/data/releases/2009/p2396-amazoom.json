@@ -1,0 +1,24 @@
+{
+    "release_id": "p2396-amazoom-2009",
+    "toy_number": "P2396",
+    "casting_id": "amazoom",
+    "year": 2009,
+    "series_id": "hot-wheels-racing",
+    "series_index": 10,
+    "specs": {
+        "color": "Neon Yellow",
+        "tampo": "Hot Wheels Racing",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Dark Smoke",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Amazoom09.jpg/revision/latest/scale-to-width-down/75?cb=20090916155409"
+    }
+}

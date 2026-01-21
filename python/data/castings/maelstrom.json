@@ -1,0 +1,43 @@
+{
+    "casting_id": "maelstrom",
+    "name": "Maelstrom",
+    "description": {
+        "en-us": "Maelstrom Debut series 2001 First Editions Produced 2001 - 2017 Designer Fraser Campbell Number 28754",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2001/28754-maelstrom.json",
+        "data/releases/2001/53762-maelstrom.json",
+        "data/releases/2002/69554-maelstrom.json",
+        "data/releases/2002/89090-maelstrom.json",
+        "data/releases/2002/89043-maelstrom.json",
+        "data/releases/2002/47378-maelstrom.json",
+        "data/releases/2002/54436-maelstrom.json",
+        "data/releases/2002/56026-maelstrom.json",
+        "data/releases/2002/54435-maelstrom.json",
+        "data/releases/2003/57042-maelstrom.json",
+        "data/releases/2004/c4560-maelstrom.json",
+        "data/releases/2004/b3589-maelstrom.json",
+        "data/releases/2005/h9057-maelstrom.json",
+        "data/releases/2005/h6996-maelstrom.json",
+        "data/releases/2005/h7047-maelstrom.json",
+        "data/releases/2006/j3294-maelstrom.json",
+        "data/releases/2007/j2560-maelstrom.json",
+        "data/releases/2008/m6996-maelstrom.json",
+        "data/releases/2008/m6996-maelstrom-v2.json",
+        "data/releases/2008/h6291-maelstrom.json",
+        "data/releases/2008/m1018-maelstrom.json",
+        "data/releases/2008/n8256-maelstrom.json",
+        "data/releases/2012/54886-maelstrom.json",
+        "data/releases/2012/54886-maelstrom-v2.json",
+        "data/releases/2013/y2124-maelstrom.json",
+        "data/releases/2014/bdw30-maelstrom.json",
+        "data/releases/2015/cdt20-maelstrom.json",
+        "data/releases/2016/dlh90-maelstrom.json",
+        "data/releases/2017/dwc04-maelstrom.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2001,
+    "manufacturer": "Mattel"
+}

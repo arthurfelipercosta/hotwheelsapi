@@ -1,0 +1,23 @@
+{
+    "casting_id": "dune-a-soar",
+    "name": "Dune-A-Soar",
+    "description": {
+        "en-us": "Dune-A-Soar Debut series Legends of Speed Produced 2018 - Present Designer Mark Jones Number FJV82",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv82-dune-a-soar.json",
+        "data/releases/2018/fjy14-dune-a-soar.json",
+        "data/releases/2019/fyd31-dune-a-soar.json",
+        "data/releases/2019/fyg77-dune-a-soar.json",
+        "data/releases/2020/ghp65-dune-a-soar.json",
+        "data/releases/2021/gtf02-dune-a-soar.json",
+        "data/releases/2023/hlr42-dune-a-soar.json",
+        "data/releases/2024/hvw82-hvw43-dune-a-soar.json",
+        "data/releases/2024/htv53-dune-a-soar.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

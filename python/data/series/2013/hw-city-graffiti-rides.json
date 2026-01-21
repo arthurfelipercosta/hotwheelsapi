@@ -1,0 +1,22 @@
+{
+    "series_id": "hw-city-graffiti-rides",
+    "year": 2013,
+    "name": "HW City: Graffiti Rides",
+    "total_releases": 13,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1683-surfin-school-bus.json",
+        "data/releases/2013/x1684-custom-77-dodge-van.json",
+        "data/releases/2013/x1685-chrysler-300c-hemi.json",
+        "data/releases/2013/x1686-olds-442-w-30.json",
+        "data/releases/2013/x1687-65-pontiac-bonneville.json",
+        "data/releases/2013/x1688-64-lincoln-continental.json",
+        "data/releases/2013/x1689-rockster.json",
+        "data/releases/2013/x1690-2009-ford-f-150.json",
+        "data/releases/2013/x1691-power-panel.json",
+        "data/releases/2013/x1880-olds-442-w-30.json",
+        "data/releases/2013/x1881-65-pontiac-bonneville.json",
+        "data/releases/2013/x1882-2009-ford-f-150.json",
+        "data/releases/2013/x1883-surfin-school-bus.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "r8482-aston-martin-v8-vantage-2010",
+    "toy_number": "R8482",
+    "casting_id": "aston-martin-v8-vantage",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Green",
+        "tampo": "Light and trim details, \"8\" racing numbers",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/AstonMartinVantage_speed_green.JPG/revision/latest/scale-to-width-down/75?cb=20100616003319"
+    }
+}

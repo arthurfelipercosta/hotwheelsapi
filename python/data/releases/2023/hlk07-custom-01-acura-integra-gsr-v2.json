@@ -1,0 +1,24 @@
+{
+    "release_id": "hlk07-custom-01-acura-integra-gsr-2023",
+    "toy_number": "HLK07",
+    "casting_id": "custom-01-acura-integra-gsr",
+    "year": 2023,
+    "series_id": "55th-anniversary-black-and-yellow",
+    "series_index": 5,
+    "specs": {
+        "color": "Matte black",
+        "tampo": "Hot Wheels logo, \"55th\", red and yellow stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome Gold PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S08, S23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/55th_Anniversary_Black_%26_Yellow_2023_Mix_2_Custom_%2701_Acura_Integra_GSR_Black_Malaysia_HLK07.jpg/revision/latest/scale-to-width-down/75?cb=20230526121900"
+    }
+}

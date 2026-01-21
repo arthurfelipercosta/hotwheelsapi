@@ -1,0 +1,14 @@
+{
+    "series_id": "thrill-racers-cave",
+    "year": 2011,
+    "name": "Thrill Racers - Cave",
+    "total_releases": 5,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2011/t9912-scorpedo.json",
+        "data/releases/2011/t9913-vampyra.json",
+        "data/releases/2011/t9914-arachnorod.json",
+        "data/releases/2011/t9915-eevil-weevil.json",
+        "data/releases/2011/t9916-skull-crusher.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hlk21-custom-ford-bronco-2023",
+    "toy_number": "HLK21",
+    "casting_id": "custom-ford-bronco",
+    "year": 2023,
+    "series_id": "mud-runners",
+    "series_index": 2,
+    "specs": {
+        "color": "Lavender",
+        "tampo": "Goldenrod accents, \"23\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "\"Muddy\" OR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): S19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/20230722_212440.jpg/revision/latest/scale-to-width-down/75?cb=20230723042803"
+    }
+}

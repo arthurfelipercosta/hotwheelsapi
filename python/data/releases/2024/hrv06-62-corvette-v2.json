@@ -1,0 +1,24 @@
+{
+    "release_id": "hrv06-62-corvette-2024",
+    "toy_number": "HRV06",
+    "casting_id": "62-corvette",
+    "year": 2024,
+    "series_id": "vintage-racing-club",
+    "series_index": 1,
+    "specs": {
+        "color": "Light gray",
+        "tampo": "Gumball \"6\" on sides & hood; Corvette logo on sides & trunk; blue trim on sides; blue stripe along top; detailed headlights & taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim BS5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T05, T06, T09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/20240407114343.jpg/revision/latest/scale-to-width-down/75?cb=20240407034456"
+    }
+}

@@ -2,10 +2,13 @@
     "series_id": "hw-hot-rods-5-pack",
     "year": 2026,
     "name": "HW Hot Rods 5-Pack",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
+        "data/releases/2026/jkg11-52-hudson-hornet.json",
+        "data/releases/2026/jkg11-57-chevy.json",
         "data/releases/2026/jkg11-hirohata-merc.json",
-        "data/releases/2026/jkg11-max-steel.json"
+        "data/releases/2026/jkg11-max-steel.json",
+        "data/releases/2026/jkg11-muscle-and-blown.json"
     ]
 }

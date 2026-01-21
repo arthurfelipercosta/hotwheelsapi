@@ -1,0 +1,24 @@
+{
+    "release_id": "50030-40-ford-2001",
+    "toy_number": "50030",
+    "casting_id": "40-ford",
+    "year": 2001,
+    "series_id": "harley-davidson-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Black & White",
+        "tampo": "Black Top & Door with Harley Davidson Logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Thailand or China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HarleyDavidson40FordCHINA.png/revision/latest/scale-to-width-down/75?cb=20180814021335"
+    }
+}

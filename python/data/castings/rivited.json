@@ -1,0 +1,38 @@
+{
+    "casting_id": "rivited",
+    "name": "Rivited",
+    "description": {
+        "en-us": "Rivited Debut series AcceleRacers: Metal Maniacs Produced 2005 - Present Designer Larry Wood Number G8099",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8099-rivited.json",
+        "data/releases/2006/j7247-rivited.json",
+        "data/releases/2007/7605-rivited.json",
+        "data/releases/2008/m2605-rivited.json",
+        "data/releases/2009/p2117-rivited.json",
+        "data/releases/2010/r0971-rivited.json",
+        "data/releases/2011/v0634-rivited.json",
+        "data/releases/2011/t8630-rivited.json",
+        "data/releases/2011/w9052-rivited.json",
+        "data/releases/2012/w3853-rivited.json",
+        "data/releases/2012/w4253-rivited.json",
+        "data/releases/2013/x1775-rivited.json",
+        "data/releases/2015/dfl48-rivited.json",
+        "data/releases/2015/x6999-rivited.json",
+        "data/releases/2016/djk76-rivited.json",
+        "data/releases/2016/djd23-rivited.json",
+        "data/releases/2017/dwd73-rivited.json",
+        "data/releases/2018/x6999-rivited.json",
+        "data/releases/2018/fkx47-rivited.json",
+        "data/releases/2018/fkd50-rivited.json",
+        "data/releases/2020/gjm58-rivited.json",
+        "data/releases/2022/hfk83-rivited.json",
+        "data/releases/2023/hly66-rivited.json",
+        "data/releases/2024/hvk49-rivited.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

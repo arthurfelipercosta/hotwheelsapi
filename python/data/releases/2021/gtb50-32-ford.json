@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb50-32-ford-2021",
+    "toy_number": "GTB50",
+    "casting_id": "32-ford",
+    "year": 2021,
+    "series_id": "mattel-games",
+    "series_index": 1,
+    "specs": {
+        "color": "Blue",
+        "tampo": "DOS on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "RSW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N48, N52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Dos_32_ford.jpg/revision/latest/scale-to-width-down/75?cb=20210328014956"
+    }
+}

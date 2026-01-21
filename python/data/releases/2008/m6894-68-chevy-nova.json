@@ -1,0 +1,30 @@
+{
+    "release_id": "m6894-68-chevy-nova-2008",
+    "toy_number": "M6894",
+    "casting_id": "68-chevy-nova",
+    "year": 2008,
+    "series_id": "team-muscle-mania",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow, White & Silver tampos on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black OH5",
+            "2": "136",
+            "3": "172",
+            "4": "Muscle Mania 4",
+            "5": "4",
+            "6": "International Card Name"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Chevy Nova Can be found without base code Base code(s): A36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/2008_%2768_Nova.jpg/revision/latest/scale-to-width-down/75?cb=20251018003821"
+    }
+}

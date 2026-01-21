@@ -1,0 +1,35 @@
+{
+    "release_id": "3923-classic-cobra-1985",
+    "toy_number": "3923",
+    "casting_id": "classic-cobra",
+    "year": 1985,
+    "series_id": "real-riders",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "White stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Goodyear White RR",
+            "1": "1985",
+            "2": "Mexican Release",
+            "3": "Blue",
+            "4": "Yellow stripes",
+            "5": "ZAMAC",
+            "6": "Clear",
+            "7": "Black",
+            "8": "Goodyear Gray RR",
+            "9": "Mexico",
+            "10": "BW",
+            "11": "White stripes"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Classic_Cobra_BluRR.JPG/revision/latest/scale-to-width-down/75?cb=20090915232136"
+    }
+}

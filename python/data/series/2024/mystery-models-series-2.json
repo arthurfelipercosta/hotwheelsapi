@@ -2,11 +2,18 @@
     "series_id": "mystery-models-series-2",
     "year": 2024,
     "name": "Mystery Models (Series 2)",
-    "total_releases": 3,
-    "max_index": 8,
+    "total_releases": 10,
+    "max_index": 9,
     "releases": [
+        "data/releases/2024/hvw76-project-speeder.json",
         "data/releases/2024/hvw77-bone-shaker.json",
         "data/releases/2024/hvw78-fish-d-chip-d.json",
-        "data/releases/2024/hvw81-cruise-bruiser.json"
+        "data/releases/2024/hvw79-maximum-leeway.json",
+        "data/releases/2024/hvw80-hot-bird.json",
+        "data/releases/2024/hvw81-cruise-bruiser.json",
+        "data/releases/2024/hvw82-hvw43-dune-a-soar.json",
+        "data/releases/2024/hvw83-68-plymouth-barracuda-formula-s.json",
+        "data/releases/2024/hvw84-69-ford-mustang-boss-302.json",
+        "data/releases/2024/hvw85-lethal-diesel.json"
     ]
 }

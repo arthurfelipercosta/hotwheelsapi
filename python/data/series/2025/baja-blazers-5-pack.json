@@ -2,9 +2,13 @@
     "series_id": "baja-blazers-5-pack",
     "year": 2025,
     "name": "Baja Blazers 5-Pack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2025/jbj82-jcp88-bull-whip.json"
+        "data/releases/2025/jbj82-jcp88-17-jeep-wrangler.json",
+        "data/releases/2025/jbj82-jcp88-87-dodge-d100.json",
+        "data/releases/2025/jbj82-jcp88-bull-whip.json",
+        "data/releases/2025/jbj82-jcp88-ford-bronco-r.json",
+        "data/releases/2025/jbj82-jcp88-mountain-mauler.json"
     ]
 }

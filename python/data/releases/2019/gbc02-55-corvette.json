@@ -1,0 +1,24 @@
+{
+    "release_id": "gbc02-55-corvette-2019",
+    "toy_number": "GBC02",
+    "casting_id": "55-corvette",
+    "year": 2019,
+    "series_id": "throwback",
+    "series_index": 1,
+    "specs": {
+        "color": "Metallic Light Blue",
+        "tampo": "Red & Yellow flames with silver outline on sides and top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "BW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M21, M27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/55_Corvette_Blue_19.jpg/revision/latest/scale-to-width-down/75?cb=20191025083809"
+    }
+}

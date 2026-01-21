@@ -2,9 +2,15 @@
     "series_id": "fast-furious",
     "year": 2023,
     "name": "Fast & Furious",
-    "total_releases": 1,
+    "total_releases": 7,
     "max_index": 5,
     "releases": [
-        "data/releases/2023/hnw50-20-dodge-charger-hellcat.json"
+        "data/releases/2023/hkd21-nissan-skyline-gt-r-bnr34.json",
+        "data/releases/2023/hkd22-95-mazda-rx-7.json",
+        "data/releases/2023/hkd25-toyota-supra.json",
+        "data/releases/2023/hmg52-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2023/hnw50-20-dodge-charger-hellcat.json",
+        "data/releases/2023/hnw51-ford-shelby-gt350r.json",
+        "data/releases/2023/hnw55-71-plymouth-gtx.json"
     ]
 }

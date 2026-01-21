@@ -1,0 +1,24 @@
+{
+    "release_id": "djk88-99-ford-mustang-2016",
+    "toy_number": "DJK88",
+    "casting_id": "99-ford-mustang",
+    "year": 2016,
+    "series_id": "ford-performance",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black stripes * Yellow 99 on top & sides, White MUSTANG on doors, sponsors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "White & Black PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): J13, J15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/%E2%80%9899_Mustang_DJK88_50%25.jpg/revision/latest/scale-to-width-down/75?cb=20170709014807"
+    }
+}

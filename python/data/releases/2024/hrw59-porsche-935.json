@@ -1,0 +1,24 @@
+{
+    "release_id": "hrw59-porsche-935-2024",
+    "toy_number": "HRW59",
+    "casting_id": "porsche-935",
+    "year": 2024,
+    "series_id": "porsche",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Detailed headlights and taillights, stylistic German flag, \"24\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "GDS5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S40, S41, S42, S46, S47, S48, S49, S50, S51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/2024-Porsche_HRW59_935_open-4.jpg/revision/latest/scale-to-width-down/75?cb=20240625120843"
+    }
+}

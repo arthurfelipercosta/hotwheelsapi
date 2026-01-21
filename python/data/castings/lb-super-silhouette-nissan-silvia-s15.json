@@ -1,0 +1,20 @@
+{
+    "casting_id": "lb-super-silhouette-nissan-silvia-s15",
+    "name": "LB Super Silhouette Nissan Silvia (S15)",
+    "description": {
+        "en-us": "LB Super Silhouette Nissan Silvia (S15) Debut series HW Turbo Produced 2022 – Present Designer Ryu Asada Number HCT23",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct23-lb-super-silhouette-nissan-silvia-s15.json",
+        "data/releases/2022/hcx15-lb-super-silhouette-nissan-silvia-s15.json",
+        "data/releases/2023/hkh85-lb-super-silhouette-nissan-silvia-s15.json",
+        "data/releases/2023/hkl52-lb-super-silhouette-nissan-silvia-s15.json",
+        "data/releases/2023/hkk47-lb-super-silhouette-nissan-silvia-s15.json",
+        "data/releases/2024/hrt64-lb-super-silhouette-nissan-silvia-s15.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Nissan"
+}

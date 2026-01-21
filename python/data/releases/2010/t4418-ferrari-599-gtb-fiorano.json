@@ -1,0 +1,25 @@
+{
+    "release_id": "t4418-ferrari-599-gtb-fiorano-2010",
+    "toy_number": "T4418",
+    "casting_id": "ferrari-599-gtb-fiorano",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Black",
+        "tampo": "Light and trim details. Italy licence plate on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Gray CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named 599 GTB Fiorano Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/Ferrari_599_GTB_Fiorano_06.JPG/revision/latest/scale-to-width-down/75?cb=20140526001143"
+    }
+}

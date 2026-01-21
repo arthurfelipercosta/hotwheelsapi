@@ -2,9 +2,13 @@
     "series_id": "easter-eggsclusives",
     "year": 2012,
     "name": "Easter Eggsclusives",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/w4014-deora-ii.json"
+        "data/releases/2012/w4014-deora-ii.json",
+        "data/releases/2012/w4017-70-plymouth-barracuda.json",
+        "data/releases/2012/w4018-64-corvette-sting-ray.json",
+        "data/releases/2012/w4020-volkswagen-sp2.json",
+        "data/releases/2012/w4021-70-pontiac-firebird.json"
     ]
 }

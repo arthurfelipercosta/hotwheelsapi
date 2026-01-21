@@ -2,9 +2,10 @@
     "series_id": "retro-entertainment-american-graffiti",
     "year": 2013,
     "name": "Retro Entertainment: American Graffiti",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2013/x8907-32-ford.json",
         "data/releases/2013/x8930-58-impala.json"
     ]
 }

@@ -1,0 +1,33 @@
+{
+    "casting_id": "porsche-993-gt2",
+    "name": "Porsche 993 GT2",
+    "description": {
+        "en-us": "Porsche 993 GT2 Debut series Hot Wheels Boulevard Produced 2013 - Present Designer Jun Imai Number X8240",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x8240-porsche-993-gt2-v2.json",
+        "data/releases/2014/bfc48-porsche-993-gt2-v2.json",
+        "data/releases/2014/bff84-porsche-993-gt2-v2.json",
+        "data/releases/2015/cgb69-porsche-993-gt2-v2.json",
+        "data/releases/2016/dht11-porsche-993-gt2-v2.json",
+        "data/releases/2016/dht82-porsche-993-gt2-v2.json",
+        "data/releases/2016/djx40-porsche-993-gt2-v2.json",
+        "data/releases/2016/djf86-porsche-993-gt2-v2.json",
+        "data/releases/2017/dtx58-porsche-993-gt2-v2.json",
+        "data/releases/2017/fbh85-porsche-993-gt2-v2.json",
+        "data/releases/2018/flc17-porsche-993-gt2-v2.json",
+        "data/releases/2019/gbb70-porsche-993-gt2-v2.json",
+        "data/releases/2021/gry84-porsche-993-gt2-v2.json",
+        "data/releases/2021/gtc03-porsche-993-gt2-v2.json",
+        "data/releases/2022/hfk86-porsche-993-gt2-v2.json",
+        "data/releases/2023/hkl69-porsche-993-gt2-v2.json",
+        "data/releases/2023/hlk06-porsche-993-gt2-v2.json",
+        "data/releases/2024/hrr82-porsche-993-gt2-v2.json",
+        "data/releases/2025/jby99-porsche-993-gt2-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Porsche"
+}

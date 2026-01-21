@@ -1,0 +1,25 @@
+{
+    "release_id": "cfm38-lamborghini-gallardo-lp-570-4-superleggera-2015",
+    "toy_number": "CFM38",
+    "casting_id": "lamborghini-gallardo-lp-570-4-superleggera",
+    "year": 2015,
+    "series_id": "color-shifters",
+    "series_index": 32,
+    "specs": {
+        "color": "Warm: White Cold: Salmon Pink",
+        "tampo": "Black & White stripes, HW Logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): H33, H46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/LamboWarmCFM38.jpg/revision/latest/scale-to-width-down/75?cb=20151027223543"
+    }
+}

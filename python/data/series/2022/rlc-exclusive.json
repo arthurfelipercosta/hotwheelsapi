@@ -1,0 +1,11 @@
+{
+    "series_id": "rlc-exclusive",
+    "year": 2022,
+    "name": "RLC Exclusive",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2022/hgw15-honda-s2000.json",
+        "data/releases/2022/hgw17-datsun-bluebird-510.json"
+    ]
+}

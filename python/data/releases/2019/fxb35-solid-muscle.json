@@ -1,0 +1,25 @@
+{
+    "release_id": "fxb35-solid-muscle-2019",
+    "toy_number": "FXB35",
+    "casting_id": "solid-muscle",
+    "year": 2019,
+    "series_id": "hot-wheels-id-nightburnerz",
+    "series_index": 2,
+    "specs": {
+        "color": "Spectraflame Purple",
+        "tampo": "Blue stripes with yellow lightning bolts and stars",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "White Rim",
+            "1": "Black ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M31, M32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/08/SolidMuscle2019IDPurpleMC.jpg/revision/latest/scale-to-width-down/75?cb=20220220031547"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-imagination-future-fleet",
+    "year": 2013,
+    "name": "HW Imagination: Future Fleet",
+    "total_releases": 10,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1630-u-s-s-enterprise-ncc-1701.json",
+        "data/releases/2013/x1659-max-steel-motorcycle.json",
+        "data/releases/2013/x1706-retro-active.json",
+        "data/releases/2013/x1707-rd-05.json",
+        "data/releases/2013/x1708-semi-psycho.json",
+        "data/releases/2013/x1892-retro-active.json",
+        "data/releases/2013/x1893-retro-active.json",
+        "data/releases/2013/x1894-semi-psycho.json",
+        "data/releases/2013/x1939-max-steel-motorcycle.json",
+        "data/releases/2013/x1965-u-s-s-enterprise-ncc-1701.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "gtn41-armored-truck-2021",
+    "toy_number": "GTN41",
+    "casting_id": "armored-truck",
+    "year": 2021,
+    "series_id": "hw-city-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Gold, Orange, Cyan, and White graphics, Gold HW logo on sides, gold \"HW CITY BANK\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black",
+            "1": "orange outline DD8"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Playable in Unleashed Base code(s): P08, P32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Armored_Truck_%282021_City_5-pack%29.jpg/revision/latest/scale-to-width-down/75?cb=20210624190827"
+    }
+}

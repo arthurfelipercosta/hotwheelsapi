@@ -1,0 +1,24 @@
+{
+    "release_id": "fjy07-17-ford-gt-2018",
+    "toy_number": "FJY07",
+    "casting_id": "17-ford-gt",
+    "year": 2018,
+    "series_id": "hw-exotics",
+    "series_index": 8,
+    "specs": {
+        "color": "Liquid Red",
+        "tampo": "Detailed headlights, White stripes on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L10, L11, L12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/17FordGT_%281%29.JPG/revision/latest/scale-to-width-down/75?cb=20180624032119"
+    }
+}

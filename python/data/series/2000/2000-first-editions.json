@@ -2,9 +2,24 @@
     "series_id": "2000-first-editions",
     "year": 2000,
     "name": "2000 First Editions",
-    "total_releases": 1,
+    "total_releases": 16,
     "max_index": 5,
     "releases": [
-        "data/releases/2000/24369-deora-ii.json"
+        "data/releases/2000/24366-64-lincoln-continental.json",
+        "data/releases/2000/24369-deora-ii.json",
+        "data/releases/2000/24371-68-el-camino.json",
+        "data/releases/2000/24371-68-el-camino.json",
+        "data/releases/2000/24378-surf-crate.json",
+        "data/releases/2000/24378-surf-crate.json",
+        "data/releases/2000/24378-surf-crate.json",
+        "data/releases/2000/24386-mini-cooper.json",
+        "data/releases/2000/24387-roll-cage.json",
+        "data/releases/2000/24387-roll-cage.json",
+        "data/releases/2000/24390-muscle-tone.json",
+        "data/releases/2000/24390-muscle-tone.json",
+        "data/releases/2000/24390-muscle-tone.json",
+        "data/releases/2000/24398-arachnorod.json",
+        "data/releases/2000/24400-so-fine.json",
+        "data/releases/2000/27497-blast-lane.json"
     ]
 }

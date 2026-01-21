@@ -1,0 +1,11 @@
+{
+    "series_id": "lamborghini-car-culture-2-pack",
+    "year": 2022,
+    "name": "Lamborghini Car Culture 2-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2022/hff32-lamborghini-aventador-lp-700-4.json",
+        "data/releases/2022/hff32-lamborghini-hurac-n-lp-610-4.json"
+    ]
+}

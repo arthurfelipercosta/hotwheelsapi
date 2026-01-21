@@ -2,9 +2,10 @@
     "series_id": "flamin-hot-wheels",
     "year": 2003,
     "name": "Flamin' Hot Wheels",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 5,
     "releases": [
+        "data/releases/2003/57199-pony-up.json",
         "data/releases/2003/57201-escort-rally.json"
     ]
 }

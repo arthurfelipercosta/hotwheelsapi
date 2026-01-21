@@ -1,0 +1,22 @@
+{
+    "casting_id": "60s-fiat-500d-modificado",
+    "name": "'60s Fiat 500D Modificado",
+    "description": {
+        "en-us": "'60s Fiat 500D Modificado Debut series Car Culture: Air-Cooled Produced 2017 - Present Designer Mark Jones Number DWH71",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dwh71-60s-fiat-500d-modificado.json",
+        "data/releases/2019/fyn57-60s-fiat-500d-modificado.json",
+        "data/releases/2024/htc20-60s-fiat-500d-modificado.json",
+        "data/releases/2024/hrt65-60s-fiat-500d-modificado.json",
+        "data/releases/2025/jcb85-60s-fiat-500d-modificado.json",
+        "data/releases/2025/jby88-60s-fiat-500d-modificado.json",
+        "data/releases/2026/jkx44-60s-fiat-500d-modificado.json",
+        "data/releases/2026/jkx70-60s-fiat-500d-modificado.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Fiat"
+}

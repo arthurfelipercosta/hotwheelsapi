@@ -2,10 +2,12 @@
     "series_id": "race-aces",
     "year": 2008,
     "name": "Race Aces",
-    "total_releases": 2,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
         "data/releases/2008/n5428-subaru-impreza.json",
-        "data/releases/2008/n5428-subaru-impreza.json"
+        "data/releases/2008/n5428-subaru-impreza.json",
+        "data/releases/2008/n5432-chrysler-300c-hemi.json",
+        "data/releases/2008/n5432-chrysler-300c-hemi.json"
     ]
 }

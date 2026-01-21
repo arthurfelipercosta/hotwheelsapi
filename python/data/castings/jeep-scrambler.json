@@ -1,0 +1,37 @@
+{
+    "casting_id": "jeep-scrambler",
+    "name": "Jeep Scrambler",
+    "description": {
+        "en-us": "Jeep Scrambler Debut series Real Riders Produced 1983 - 1997 (Original) 2009 - Present (Retool) Designer Larry Wood Number 4370\\n\\nThe \"Jeep Scrambler\" was at the time of the original Casting's release, the Long-wheelbase version of the conventional Jeep CJ-7 series (called 'CJ8' inside Chrysler). Produced from 1981 until 1986, the Scrambler embodied much of the style of 1980s American trucks- high ground clearance, large wheels and roll bars. The casting enjoyed a 14-year original run as a Hot Wheels casting, before being revived in 2009. Was also in the Leo Hot Wheels used castings.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/1983/4370-jeep-scrambler-v2.json",
+        "data/releases/1984/4370-jeep-scrambler-v3.json",
+        "data/releases/1984/4370-jeep-scrambler-v4.json",
+        "data/releases/1985/9547-jeep-scrambler-v2.json",
+        "data/releases/1986/2541-jeep-scrambler-v2.json",
+        "data/releases/1987/2541-jeep-scrambler-v2.json",
+        "data/releases/1988/2541-jeep-scrambler-v2.json",
+        "data/releases/1997/16808-jeep-scrambler-v2.json",
+        "data/releases/2009/p2443-jeep-scrambler-v5.json",
+        "data/releases/2009/p2443-jeep-scrambler-v6.json",
+        "data/releases/2009/p2443-jeep-scrambler-v7.json",
+        "data/releases/2009/p2443-jeep-scrambler-v8.json",
+        "data/releases/2010/v1417-jeep-scrambler-v2.json",
+        "data/releases/2011/v0102-jeep-scrambler-v2.json",
+        "data/releases/2011/w1545-jeep-scrambler-v2.json",
+        "data/releases/2012/v5522-jeep-scrambler-v2.json",
+        "data/releases/2013/x1722-jeep-scrambler-v2.json",
+        "data/releases/2013/x1905-jeep-scrambler-v2.json",
+        "data/releases/2014/bfd64-jeep-scrambler-v2.json",
+        "data/releases/2014/bff79-jeep-scrambler-v2.json",
+        "data/releases/2017/dvf68-jeep-scrambler-v2.json",
+        "data/releases/2019/fyy71-jeep-scrambler-v2.json",
+        "data/releases/2023/hkg78-jeep-scrambler-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 1983,
+    "manufacturer": "Jeep"
+}

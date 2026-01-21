@@ -1,0 +1,12 @@
+{
+    "series_id": "clover-cars",
+    "year": 2008,
+    "name": "Clover Cars",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2008/n1122-carbide.json",
+        "data/releases/2008/n1123-sling-shot.json",
+        "data/releases/2008/n1125-phaeton.json"
+    ]
+}

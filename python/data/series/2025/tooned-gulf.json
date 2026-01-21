@@ -1,0 +1,14 @@
+{
+    "series_id": "tooned-gulf",
+    "year": 2025,
+    "name": "Tooned Gulf",
+    "total_releases": 5,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2025/jcb61-manga-tuner.json",
+        "data/releases/2025/jcb62-tooned-volkswagen-golf-mk1.json",
+        "data/releases/2025/jcb63-70-dodge-charger.json",
+        "data/releases/2025/jcb64-toon-d-83-chevy-silverado.json",
+        "data/releases/2025/jcb65-94-toyota-supra.json"
+    ]
+}

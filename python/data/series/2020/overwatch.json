@@ -1,0 +1,13 @@
+{
+    "series_id": "overwatch",
+    "year": 2020,
+    "name": "Overwatch",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2020/gjv13-baja-hauler.json",
+        "data/releases/2020/gjv15-power-panel.json",
+        "data/releases/2020/gjv16-ms-t-suzuka.json",
+        "data/releases/2020/gjv17-solid-muscle.json"
+    ]
+}

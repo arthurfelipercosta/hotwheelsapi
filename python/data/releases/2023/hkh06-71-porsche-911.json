@@ -1,0 +1,25 @@
+{
+    "release_id": "hkh06-71-porsche-911-2023",
+    "toy_number": "HKH06",
+    "casting_id": "71-porsche-911",
+    "year": 2023,
+    "series_id": "retro-racers",
+    "series_index": 9,
+    "specs": {
+        "color": "White",
+        "tampo": "Red hood and trunk. #277, \"MW\", Porsche logo on hood and sides. \"MOMO\" on hood. Porsche striping, \"fifteen52\", \"UA\", \"R8\", \"GB\" on sides. Urban Outlaw on roof and sides. \"PORSCHE\" on trunk.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome lip",
+            "1": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Urban Outlaw Base code(s): R49, R50, R52, S01, S02, S04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/%2771Porsche911.jpg/revision/latest/scale-to-width-down/75?cb=20230213144505"
+    }
+}

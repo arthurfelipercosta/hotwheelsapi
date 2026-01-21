@@ -1,0 +1,25 @@
+{
+    "release_id": "hcv73-loco-motorin-2022",
+    "toy_number": "HCV73",
+    "casting_id": "loco-motorin",
+    "year": 2022,
+    "series_id": "hw-metro",
+    "series_index": 5,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "Red & Yellow decals on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/LocoMotorin_Silver2022.jpg/revision/latest/scale-to-width-down/75?cb=20230205042541"
+    }
+}

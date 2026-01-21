@@ -1,0 +1,24 @@
+{
+    "release_id": "dvb62-ford-focus-rs-2017",
+    "toy_number": "DVB62",
+    "casting_id": "ford-focus-rs",
+    "year": 2017,
+    "series_id": "hw-speed-graphics",
+    "series_index": 8,
+    "specs": {
+        "color": "Black",
+        "tampo": "Detailed headlights, 'KONI', Ford logo & HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome Red & Black J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K03, K04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/Ford_Focus_RS_DVB62.png/revision/latest/scale-to-width-down/75?cb=20170324221945"
+    }
+}

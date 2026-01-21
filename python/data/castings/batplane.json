@@ -1,0 +1,22 @@
+{
+    "casting_id": "batplane",
+    "name": "Batplane",
+    "description": {
+        "en-us": "Batplane Debut series Batman Produced 2020 - Present Designer Manson Cheung Number GHB43",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb43-batplane.json",
+        "data/releases/2020/ghd94-batplane.json",
+        "data/releases/2021/grx88-batplane.json",
+        "data/releases/2021/gtb57-batplane.json",
+        "data/releases/2022/hdk70-batplane.json",
+        "data/releases/2023/hlk62-batplane.json",
+        "data/releases/2025/jby13-batplane.json",
+        "data/releases/2026/jkg08-batplane.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

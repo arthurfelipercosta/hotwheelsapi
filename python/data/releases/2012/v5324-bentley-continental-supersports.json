@@ -1,0 +1,24 @@
+{
+    "release_id": "v5324-bentley-continental-supersports-2012",
+    "toy_number": "V5324",
+    "casting_id": "bentley-continental-supersports",
+    "year": 2012,
+    "series_id": "2012-new-models",
+    "series_index": 36,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights, front grille, Bentley emblem & taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Dark Red",
+        "wheel_type": {
+            "0": "J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E20, E22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/Bentley_Continental_-_12NM.JPG/revision/latest/scale-to-width-down/75?cb=20120630000032"
+    }
+}

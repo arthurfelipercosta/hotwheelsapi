@@ -1,0 +1,24 @@
+{
+    "release_id": "hnb86-volkswagen-t2-pickup-2022",
+    "toy_number": "HNB86",
+    "casting_id": "volkswagen-t2-pickup",
+    "year": 2022,
+    "series_id": "fao-schwarz-gold-multipack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake gold",
+        "tampo": "Goldenrod stripes on side & roof. \"VW\" logo on doors. Hot Wheels logo on sides. \"Volkswagen\" on rear window. Taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gold Chrome",
+        "wheel_type": {
+            "0": "Gold Chrome 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R23, R32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/2022_T2_Pickup_FAO_Schwarz_Gold_Multipack.jpg/revision/latest/scale-to-width-down/75?cb=20220913124344"
+    }
+}

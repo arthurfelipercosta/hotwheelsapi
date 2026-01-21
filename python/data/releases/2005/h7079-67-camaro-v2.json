@@ -1,0 +1,26 @@
+{
+    "release_id": "h7079-67-camaro-2005",
+    "toy_number": "H7079",
+    "casting_id": "67-camaro",
+    "year": 2005,
+    "series_id": "classics-series-1",
+    "series_index": 14,
+    "specs": {
+        "color": "Spectraflame Red",
+        "tampo": "White & Silver Design on sides & hood, \"Camaro\" on hood & sides, \"396\" on sides, Silver rocker panels",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Redline 7SP",
+            "1": "Redline 5SP",
+            "2": "Chrome Grill"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Black Grill",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/Classics_I_red.jpg/revision/latest/scale-to-width-down/75?cb=20090525174519"
+    }
+}

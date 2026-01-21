@@ -2,10 +2,18 @@
     "series_id": "orange-and-blue",
     "year": 2021,
     "name": "Orange and Blue",
-    "total_releases": 2,
-    "max_index": 5,
+    "total_releases": 10,
+    "max_index": 1,
     "releases": [
         "data/releases/2021/grp83-70-dodge-hemi-challenger.json",
-        "data/releases/2021/grr42-custom-cadillac-fleetwood.json"
+        "data/releases/2021/grr09-69-ford-torino-talladega.json",
+        "data/releases/2021/grr18-18-camaro-ss.json",
+        "data/releases/2021/grr36-64-chevy-chevelle-ss.json",
+        "data/releases/2021/grr38-custom-62-chevy.json",
+        "data/releases/2021/grr39-71-porsche-911.json",
+        "data/releases/2021/grr40-project-speeder.json",
+        "data/releases/2021/grr41-twin-mill-iii.json",
+        "data/releases/2021/grr42-custom-cadillac-fleetwood.json",
+        "data/releases/2021/gyh60-gazella-r.json"
     ]
 }

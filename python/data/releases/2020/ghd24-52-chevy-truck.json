@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd24-52-chevy-truck-2020",
+    "toy_number": "GHD24",
+    "casting_id": "52-chevy-truck",
+    "year": 2020,
+    "series_id": "rod-squad",
+    "series_index": 3,
+    "specs": {
+        "color": "Matte Blue",
+        "tampo": "\"Mighty Max Garage\" & Hot Wheels logo on side doors. 'Rust' randomly on body",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "None",
+        "wheel_type": {
+            "0": "White & Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): N11, N12, N20, N21, N22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/2020_Rod_Squad_-_03.10_-_%2752_Chevy_Truck_02.jpg/revision/latest/scale-to-width-down/72?cb=20200820170945"
+    }
+}

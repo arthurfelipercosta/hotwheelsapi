@@ -1,0 +1,24 @@
+{
+    "release_id": "grk61-volkswagen-baja-bug-2021",
+    "toy_number": "GRK61",
+    "casting_id": "volkswagen-baja-bug",
+    "year": 2021,
+    "series_id": "car-culture-team-transport-31",
+    "series_index": null,
+    "specs": {
+        "color": "Glossy orange",
+        "tampo": "Detailed headlights and taillights, Hoonigan logos and sponsors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray RR8DOT"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P04, P17, P20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/TT31_Baja_Bug.jpg/revision/latest/scale-to-width-down/75?cb=20210425203813"
+    }
+}

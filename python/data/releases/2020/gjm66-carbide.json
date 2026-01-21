@@ -1,0 +1,25 @@
+{
+    "release_id": "gjm66-carbide-2020",
+    "toy_number": "GJM66",
+    "casting_id": "carbide",
+    "year": 2020,
+    "series_id": "mystery-models-series-3",
+    "series_index": 9,
+    "specs": {
+        "color": "Light blue",
+        "tampo": "Orange HW logo, white splash/dirt pattern",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "White tire",
+            "1": "Gold OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/AA8B0AD0-8B7E-4F9E-8326-79249E58663B.jpeg/revision/latest/scale-to-width-down/76?cb=20200908135610"
+    }
+}

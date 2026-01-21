@@ -1,0 +1,24 @@
+{
+    "release_id": "jcl22-aston-martin-valhalla-concept-2025",
+    "toy_number": "JCL22",
+    "casting_id": "aston-martin-valhalla-concept",
+    "year": 2025,
+    "series_id": "mystery-models-series-3",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake dark green pearl",
+        "tampo": "Detailed headlights, black roof and spoiler, Aston Martin badge, lime green stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U27N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/61/2025_Valhalla_Concept.jpg/revision/latest/scale-to-width-down/75?cb=20251219124102"
+    }
+}

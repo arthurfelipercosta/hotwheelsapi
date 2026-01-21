@@ -1,0 +1,14 @@
+{
+    "series_id": "speed-machines",
+    "year": 2011,
+    "name": "Speed Machines",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2011/t4439-2008-tesla-roadster.json",
+        "data/releases/2011/t4441-scirocco-gt-24.json",
+        "data/releases/2011/w2309-lamborghini-revent-n-roadster.json",
+        "data/releases/2011/w2317-citro-n-c4-rally.json",
+        "data/releases/2011/w2319-ferrari-599xx.json"
+    ]
+}

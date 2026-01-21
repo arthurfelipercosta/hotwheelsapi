@@ -1,0 +1,28 @@
+{
+    "release_id": "h7069-56-ford-f-100-truck-2005",
+    "toy_number": "H7069",
+    "casting_id": "56-ford-f-100-truck",
+    "year": 2005,
+    "series_id": "classics-series-1",
+    "series_index": 4,
+    "specs": {
+        "color": "Spectraflame Green",
+        "tampo": "Yellow, Orange & Black on sides, Yellow stripe on fenders, \"Matty's Speed Shop\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Redline 5SP",
+            "1": "Yellow",
+            "2": "Orange & Black on sides",
+            "3": "Black stripe on fenders",
+            "4": "\"Matty's Speed Shop\""
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/2005classics56fordpanel-green.jpg/revision/latest/scale-to-width-down/75?cb=20090609032205"
+    }
+}

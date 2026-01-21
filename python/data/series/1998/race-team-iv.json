@@ -1,0 +1,13 @@
+{
+    "series_id": "race-team-iv",
+    "year": 1998,
+    "name": "Race Team IV",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/1998/18791-67-camaro.json",
+        "data/releases/1998/18791-67-camaro.json",
+        "data/releases/1998/18793-classic-cobra.json",
+        "data/releases/1998/18793-classic-cobra.json"
+    ]
+}

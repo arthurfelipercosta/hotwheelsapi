@@ -1,0 +1,14 @@
+{
+    "series_id": "x-raycers-5-pack",
+    "year": 2018,
+    "name": "X‑Raycers 5‑Pack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2018/fkt65-hi-tech-missile.json",
+        "data/releases/2018/fkt65-pharodox.json",
+        "data/releases/2018/fkt65-phastasm.json",
+        "data/releases/2018/fkt65-two-timer.json",
+        "data/releases/2018/fkt65-what-4-2.json"
+    ]
+}

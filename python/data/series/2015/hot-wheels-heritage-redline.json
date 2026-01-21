@@ -2,14 +2,22 @@
     "series_id": "hot-wheels-heritage-redline",
     "year": 2015,
     "name": "Hot Wheels Heritage: Redline",
-    "total_releases": 7,
+    "total_releases": 15,
     "max_index": 11,
     "releases": [
+        "data/releases/2015/cfn57-70-camaro.json",
+        "data/releases/2015/cfn65-64-chevy-nova-wagon.json",
+        "data/releases/2015/cfn67-nissan-skyline-h-t-2000gt-x.json",
+        "data/releases/2015/cfn68-49-ford-f1.json",
         "data/releases/2015/cfn69-70-chevelle-ss-wagon.json",
+        "data/releases/2015/cfn70-55-chevy-bel-air-gasser.json",
         "data/releases/2015/cfn73-custom-56-ford-truck.json",
+        "data/releases/2015/cfn74-84-mustang-svo.json",
         "data/releases/2015/cfn77-69-mercury-cyclone.json",
         "data/releases/2015/cfn84-bone-shaker.json",
         "data/releases/2015/cfn85-blazer-4-4.json",
+        "data/releases/2015/cfn86-mig-rig.json",
+        "data/releases/2015/cfn88-corvette-c6r.json",
         "data/releases/2015/cfn97-nissan-skyline-2000gt-r.json",
         "data/releases/2015/cfp10-68-dodge-dart.json"
     ]

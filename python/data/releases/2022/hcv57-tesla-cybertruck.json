@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv57-tesla-cybertruck-2022",
+    "toy_number": "HCV57",
+    "casting_id": "tesla-cybertruck",
+    "year": 2022,
+    "series_id": "hw-hot-trucks",
+    "series_index": 3,
+    "specs": {
+        "color": "Zinc-plated ZAMAC",
+        "tampo": "Detailed front & rear light strips, detailed rear tonneau cover",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P37, P38, P40, P42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/HCV57_049_Tesla_Cybertruck.jpg/revision/latest/scale-to-width-down/75?cb=20211209141201"
+    }
+}

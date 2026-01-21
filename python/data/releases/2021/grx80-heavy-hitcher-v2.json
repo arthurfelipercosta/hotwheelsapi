@@ -1,0 +1,25 @@
+{
+    "release_id": "grx80-heavy-hitcher-2021",
+    "toy_number": "GRX80",
+    "casting_id": "heavy-hitcher",
+    "year": 2021,
+    "series_id": "hw-metro",
+    "series_index": 3,
+    "specs": {
+        "color": "Red",
+        "tampo": "\"HEAVY HITCHER\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black tint",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome Orange Rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/HW_HEAVY_HITCHER_RED.jpg/revision/latest/scale-to-width-down/75?cb=20210129120528"
+    }
+}

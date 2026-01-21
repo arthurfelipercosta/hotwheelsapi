@@ -1,0 +1,24 @@
+{
+    "release_id": "jcb70-volkswagen-baja-bug-2025",
+    "toy_number": "JCB70",
+    "casting_id": "volkswagen-baja-bug",
+    "year": 2025,
+    "series_id": "surf-s-up",
+    "series_index": 5,
+    "specs": {
+        "color": "Tan",
+        "tampo": "Detailed headlights, \"baja bug\", Volkswagen logo, & multicolor accent striping on sides, various decals on rear window",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "CORST"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T50N, U04N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Surf%27s_Up_Bug.jpg/revision/latest/scale-to-width-down/75?cb=20250430011036"
+    }
+}

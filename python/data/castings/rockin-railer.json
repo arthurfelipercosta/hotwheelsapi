@@ -1,0 +1,19 @@
+{
+    "casting_id": "rockin-railer",
+    "name": "Rockin' Railer",
+    "description": {
+        "en-us": "Rockin' Railer Debut series HW Drag Strip Produced 2023 – Present Designer Fraser Campbell Number HKG53",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg53-rockin-railer.json",
+        "data/releases/2023/hkk05-rockin-railer.json",
+        "data/releases/2024/htc75-rockin-railer.json",
+        "data/releases/2024/htd26-rockin-railer.json",
+        "data/releases/2025/jcl87-rockin-railer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,31 @@
+{
+    "casting_id": "battle-spec",
+    "name": "Battle Spec",
+    "description": {
+        "en-us": "Battle Spec Debut series AcceleRacers: Teku Produced 2005 - 2016 Designer Eric Tscherne Number G8088",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8088-battle-spec.json",
+        "data/releases/2006/j7241-battle-spec.json",
+        "data/releases/2007/k7638-battle-spec.json",
+        "data/releases/2008/m7010-battle-spec.json",
+        "data/releases/2008/m7010-battle-spec-v2.json",
+        "data/releases/2009/p2099-battle-spec.json",
+        "data/releases/2010/r0963-battle-spec.json",
+        "data/releases/2010/r1128-battle-spec.json",
+        "data/releases/2011/t8637-battle-spec.json",
+        "data/releases/2011/v0594-battle-spec.json",
+        "data/releases/2012/w3851-battle-spec.json",
+        "data/releases/2014/bdp48-battle-spec.json",
+        "data/releases/2015/cfk98-battle-spec.json",
+        "data/releases/2015/cmj87-battle-spec.json",
+        "data/releases/2016/cmj87-battle-spec.json",
+        "data/releases/2016/dnf20-battle-spec.json",
+        "data/releases/2016/dwd97-battle-spec.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

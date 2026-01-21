@@ -1,0 +1,25 @@
+{
+    "release_id": "r8479-mclaren-f1-gtr-2010",
+    "toy_number": "R8479",
+    "casting_id": "mclaren-f1-gtr",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Silver & Metallic Orange",
+        "tampo": "Light and trim details",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Gray CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/McLaren_F1_GTR_02.JPG/revision/latest/scale-to-width-down/75?cb=20140528165404"
+    }
+}

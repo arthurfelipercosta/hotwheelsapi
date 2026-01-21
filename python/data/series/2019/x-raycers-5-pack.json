@@ -1,13 +1,14 @@
 {
     "series_id": "x-raycers-5-pack",
     "year": 2019,
-    "name": "X‑Raycers 5-Pack",
-    "total_releases": 4,
+    "name": "X‑Raycers 5‑Pack",
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/2019/fyl12-stockar.json",
         "data/releases/2019/fyl20-blitzspeeder.json",
         "data/releases/2019/fyl20-carbonator.json",
+        "data/releases/2019/fyl20-drift-rod.json",
         "data/releases/2019/fyl20-monteracer.json"
     ]
 }

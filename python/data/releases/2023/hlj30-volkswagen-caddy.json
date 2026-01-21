@@ -1,0 +1,24 @@
+{
+    "release_id": "hlj30-volkswagen-caddy-2023",
+    "toy_number": "HLJ30",
+    "casting_id": "volkswagen-caddy",
+    "year": 2023,
+    "series_id": "spring",
+    "series_index": 1,
+    "specs": {
+        "color": "Matte Baby Blue",
+        "tampo": "Pink, purple, yellow, white stripe design, bunny logo, HW logo, \"Spring\", \"23\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Purple",
+        "wheel_type": {
+            "0": "White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R28, R30, R31, R32, R33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Spring2023VWCaddy.jpg/revision/latest/scale-to-width-down/75?cb=20230209035809"
+    }
+}

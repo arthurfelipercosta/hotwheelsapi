@@ -1,0 +1,24 @@
+{
+    "release_id": "hkj53-custom-ford-maverick-2023",
+    "toy_number": "HKJ53",
+    "casting_id": "custom-ford-maverick",
+    "year": 2023,
+    "series_id": "muscle-mania",
+    "series_index": 2,
+    "specs": {
+        "color": "Turquoise",
+        "tampo": "Orange, Yellow, and Black stripes on hood, trunk, and sides. \"Holley\", \"Firestone\", \"B&M\", and HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R38, R39, R41, R44, R45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/HKJ53-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20231112191327"
+    }
+}

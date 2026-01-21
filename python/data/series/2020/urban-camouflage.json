@@ -1,0 +1,14 @@
+{
+    "series_id": "urban-camouflage",
+    "year": 2020,
+    "name": "Urban Camouflage",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2020/gjv52-nissan-skyline-h-t-2000gt-x.json",
+        "data/releases/2020/gjv53-16-honda-civic-type-r.json",
+        "data/releases/2020/gjv55-10-ford-shelby-gt500-super-snake.json",
+        "data/releases/2020/gjv56-18-camaro-ss.json",
+        "data/releases/2020/gmr81-68-el-camino.json"
+    ]
+}

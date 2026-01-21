@@ -1,0 +1,11 @@
+{
+    "series_id": "batman-5-pack",
+    "year": 2015,
+    "name": "Batman 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cdt28-batcopter.json",
+        "data/releases/2015/cdt28-so-fine.json"
+    ]
+}

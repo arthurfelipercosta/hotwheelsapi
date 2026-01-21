@@ -1,0 +1,19 @@
+{
+    "casting_id": "nissan-r390-gt1",
+    "name": "Nissan R390 GT1",
+    "description": {
+        "en-us": "Nissan R390 GT1 Debut series Factory Fresh Produced 2021 – Present Designer Ryu Asada Number GRX35",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx35-nissan-r390-gt1.json",
+        "data/releases/2021/gtb74-nissan-r390-gt1.json",
+        "data/releases/2022/hct77-nissan-r390-gt1.json",
+        "data/releases/2022/hcy27-nissan-r390-gt1.json",
+        "data/releases/2024/hrr74-nissan-r390-gt1.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Nissan"
+}

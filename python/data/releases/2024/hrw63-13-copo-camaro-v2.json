@@ -1,0 +1,24 @@
+{
+    "release_id": "hrw63-13-copo-camaro-2024",
+    "toy_number": "HRW63",
+    "casting_id": "13-copo-camaro",
+    "year": 2024,
+    "series_id": "stars-stripes",
+    "series_index": 2,
+    "specs": {
+        "color": "Dark blue",
+        "tampo": "Detailed headlights and taillights, American flag graphics on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red rim BMM5 & White rim BMM5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T06, T08, T20, T28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/HRW63.jpg/revision/latest/scale-to-width-down/75?cb=20250123045924"
+    }
+}

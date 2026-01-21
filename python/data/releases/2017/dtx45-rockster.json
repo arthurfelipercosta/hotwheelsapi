@@ -1,0 +1,28 @@
+{
+    "release_id": "dtx45-rockster-2017",
+    "toy_number": "DTX45",
+    "casting_id": "rockster",
+    "year": 2017,
+    "series_id": "holiday-racers",
+    "series_index": 4,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue, Pink & Green stripes & 'Easter' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Orange)",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Yellow BLOR",
+            "1": "Yellow OR6SP",
+            "2": "Base code(s): K02",
+            "3": "K04",
+            "4": "K05"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/2017_Easter_Rockster_BLOR.jpg/revision/latest/scale-to-width-down/75?cb=20201209072128"
+    }
+}

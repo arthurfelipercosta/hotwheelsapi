@@ -1,0 +1,17 @@
+{
+    "casting_id": "west-coast-flyer",
+    "name": "West Coast Flyer",
+    "description": {
+        "en-us": "West Coast Flyer Debut series Hot Wheels id: HW Metro Produced 2021 – Present Designer Phil Riehlman Number GML10",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/hbg23-west-coast-flyer.json",
+        "data/releases/2024/htb44-west-coast-flyer.json",
+        "data/releases/2024/htd11-west-coast-flyer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Mattel"
+}

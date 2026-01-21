@@ -1,0 +1,29 @@
+{
+    "release_id": "t9783-scorcher-2011",
+    "toy_number": "T9783",
+    "casting_id": "scorcher",
+    "year": 2011,
+    "series_id": "hw-video-game-heroes",
+    "series_index": 18,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "Black, White, Red & Orange tampos on sides & hood, '43' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark Grey",
+        "wheel_type": {
+            "0": "Red Lip J5",
+            "1": "2011",
+            "2": "Circuit Champions 20",
+            "3": "20",
+            "4": "Only in Europe",
+            "5": "same as above Base code(s):"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D11, D16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Scorcher_Game.JPG/revision/latest/scale-to-width-down/75?cb=20110418054453"
+    }
+}

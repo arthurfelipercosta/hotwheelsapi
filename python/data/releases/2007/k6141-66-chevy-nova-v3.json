@@ -1,0 +1,26 @@
+{
+    "release_id": "k6141-66-chevy-nova-2007",
+    "toy_number": "K6141",
+    "casting_id": "66-chevy-nova",
+    "year": 2007,
+    "series_id": "2007-new-models",
+    "series_index": 9,
+    "specs": {
+        "color": "Matte Black",
+        "tampo": "Two Maroon stripes from hood to trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Maroon",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "Black",
+            "2": "Plastic"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Nova_ll_AGENTAIR_4.jpg/revision/latest/scale-to-width-down/75?cb=20081020202520"
+    }
+}

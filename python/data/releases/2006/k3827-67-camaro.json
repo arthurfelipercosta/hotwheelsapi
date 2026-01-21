@@ -1,0 +1,25 @@
+{
+    "release_id": "k3827-67-camaro-2006",
+    "toy_number": "K3827",
+    "casting_id": "67-camaro",
+    "year": 2006,
+    "series_id": "20th-annual-collectors-convention",
+    "series_index": 1,
+    "specs": {
+        "color": "Satin Blue",
+        "tampo": "20th convention logo on white roof; white stripes on hood & trunk; white stripe & \"Camaro\" on sides; painted taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White & Blue",
+        "wheel_type": {
+            "0": "BFGoodrich Radial T",
+            "1": "A DDRR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "3,000 produced",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/20th_ACC.jpg/revision/latest/scale-to-width-down/75?cb=20090525200735"
+    }
+}

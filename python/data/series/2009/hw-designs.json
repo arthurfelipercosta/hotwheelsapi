@@ -2,11 +2,17 @@
     "series_id": "hw-designs",
     "year": 2009,
     "name": "HW Designs",
-    "total_releases": 3,
+    "total_releases": 9,
     "max_index": 4,
     "releases": [
+        "data/releases/2009/p2418-hw40.json",
         "data/releases/2009/p2420-deora-ii.json",
         "data/releases/2009/p2420-deora-ii.json",
-        "data/releases/2009/p2420-deora-ii.json"
+        "data/releases/2009/p2420-deora-ii.json",
+        "data/releases/2009/p2421-16-angels.json",
+        "data/releases/2009/p2422-fast-fortress.json",
+        "data/releases/2009/p2422-fast-fortress.json",
+        "data/releases/2009/p2424-pony-up.json",
+        "data/releases/2009/p2424-pony-up.json"
     ]
 }

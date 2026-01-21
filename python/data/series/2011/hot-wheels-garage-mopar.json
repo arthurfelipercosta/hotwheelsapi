@@ -2,14 +2,21 @@
     "series_id": "hot-wheels-garage-mopar",
     "year": 2011,
     "name": "Hot Wheels Garage: Mopar",
-    "total_releases": 7,
-    "max_index": 14,
+    "total_releases": 14,
+    "max_index": 2,
     "releases": [
+        "data/releases/2011/t8256-69-dodge-charger.json",
         "data/releases/2011/t8274-70-dodge-hemi-challenger.json",
         "data/releases/2011/t8281-69-dodge-coronet-superbee.json",
         "data/releases/2011/t8282-69-dodge-coronet-superbee.json",
+        "data/releases/2011/t8290-57-plymouth-fury.json",
+        "data/releases/2011/t8297-08-dodge-challenger-srt8.json",
+        "data/releases/2011/t8311-hemi-cuda.json",
         "data/releases/2011/t8315-70-dodge-power-wagon.json",
+        "data/releases/2011/t8322-70-plymouth-roadrunner.json",
+        "data/releases/2011/t8326-71-dodge-demon.json",
         "data/releases/2011/t8330-70-dodge-power-wagon.json",
+        "data/releases/2011/t8345-71-dodge-demon.json",
         "data/releases/2011/v5246-71-dodge-challenger.json",
         "data/releases/2011/v6176-70-dodge-power-wagon.json"
     ]

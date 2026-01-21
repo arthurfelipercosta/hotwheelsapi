@@ -1,0 +1,25 @@
+{
+    "release_id": "gtc02-bot-wheels-2021",
+    "toy_number": "GTC02",
+    "casting_id": "bot-wheels",
+    "year": 2021,
+    "series_id": "hw-space",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue and Orange Stripes, \"LUNAR LOADER\" and HW Logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "N/A",
+        "interior_color": "N/A",
+        "wheel_type": {
+            "0": "Light Brown w",
+            "1": "Grey Rimmed OR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P21, P29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/BOT_WHEELS_GTC02.jpg/revision/latest/scale-to-width-down/75?cb=20211109125850"
+    }
+}

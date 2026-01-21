@@ -1,0 +1,21 @@
+{
+    "casting_id": "dune-daddy",
+    "name": "Dune Daddy",
+    "description": {
+        "en-us": "Dune Daddy Debut series HW 50th Race Team Produced 2018 - Present Designer Tyler Charest Number FJW03",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjw03-dune-daddy-v2.json",
+        "data/releases/2019/fyb96-dune-daddy-v2.json",
+        "data/releases/2019/fyf50-dune-daddy-v2.json",
+        "data/releases/2020/ghd79-dune-daddy-v2.json",
+        "data/releases/2021/gtn46-dune-daddy-v2.json",
+        "data/releases/2022/hbg24-dune-daddy-v2.json",
+        "data/releases/2024/htb28-dune-daddy-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

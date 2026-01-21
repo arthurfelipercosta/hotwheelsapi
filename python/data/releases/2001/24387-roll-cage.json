@@ -1,0 +1,24 @@
+{
+    "release_id": "24387-roll-cage-2001",
+    "toy_number": "24387",
+    "casting_id": "roll-cage",
+    "year": 2001,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Blue, White, & Yellow \"Hot Wheels\" logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "ORSB"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Playable in Velocity X (GBA)",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Roll_Cage_Red.JPG/revision/latest/scale-to-width-down/75?cb=20090405043552"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "gjv64-2016-bmw-m2-2020",
+    "toy_number": "GJV64",
+    "casting_id": "2016-bmw-m2",
+    "year": 2020,
+    "series_id": "hw-police",
+    "series_index": 3,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Yellow squares, POLICE, HW logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "British Police car Base code(s): N04, N05, N07, N09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/GJV64-01.jpg/revision/latest/scale-to-width-down/75?cb=20200603095714"
+    }
+}

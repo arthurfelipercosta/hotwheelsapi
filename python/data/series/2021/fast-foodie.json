@@ -2,13 +2,16 @@
     "series_id": "fast-foodie",
     "year": 2021,
     "name": "Fast Foodie",
-    "total_releases": 5,
-    "max_index": 2,
+    "total_releases": 8,
+    "max_index": 3,
     "releases": [
+        "data/releases/2021/grx26-car-de-asada.json",
         "data/releases/2021/gry07-buns-of-steel.json",
         "data/releases/2021/gry08-donut-drifter.json",
+        "data/releases/2021/gry09-aisle-driver.json",
         "data/releases/2021/gtb92-donut-drifter.json",
         "data/releases/2021/gtc22-buns-of-steel.json",
+        "data/releases/2021/gtc52-aisle-driver.json",
         "data/releases/2021/gtc84-street-wiener.json"
     ]
 }

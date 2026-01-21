@@ -1,0 +1,24 @@
+{
+    "release_id": "r3747-custom-69-volkswagen-squareback-2010",
+    "toy_number": "R3747",
+    "casting_id": "custom-69-volkswagen-squareback",
+    "year": 2010,
+    "series_id": "slick-rides",
+    "series_index": 32,
+    "specs": {
+        "color": "Pearl White & Metalflake Dark Blue",
+        "tampo": "Blue stripes on roof, \"Koni\" decoration",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "RRSteelie"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): C26, C27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/69VWVarient_Delivery_White.JPG/revision/latest/scale-to-width-down/75?cb=20101006205227"
+    }
+}

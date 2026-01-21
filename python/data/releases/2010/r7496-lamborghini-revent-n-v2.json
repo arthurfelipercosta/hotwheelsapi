@@ -1,0 +1,27 @@
+{
+    "release_id": "r7496-lamborghini-revent-n-2010",
+    "toy_number": "R7496",
+    "casting_id": "lamborghini-revent-n",
+    "year": 2010,
+    "series_id": "hw-garage",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Orange",
+        "tampo": "Detailed headlights & Lamborghini emblem on hood, Black 'Lamborghini' on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5",
+            "1": "079",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C34, C37, C40, C46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Lamborghini_reventon_orange_2011.png/revision/latest/scale-to-width-down/75?cb=20101105012813"
+    }
+}

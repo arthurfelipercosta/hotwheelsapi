@@ -1,0 +1,16 @@
+{
+    "casting_id": "volkswagen-id-buzz",
+    "name": "Volkswagen ID. Buzz",
+    "description": {
+        "en-us": "Volkswagen ID. Buzz Debut series HW Green Speed Produced 2023 – Present Designer Lindsey Lee Number HKG51",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg51-volkswagen-id-buzz.json",
+        "data/releases/2024/htb94-volkswagen-id-buzz.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Volkswagen"
+}

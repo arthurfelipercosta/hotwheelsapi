@@ -1,0 +1,24 @@
+{
+    "release_id": "fyy52-nissan-370z-2019",
+    "toy_number": "FYY52",
+    "casting_id": "nissan-370z",
+    "year": 2019,
+    "series_id": "fast-furious",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Detailed headlights, carbon fiber details on hood, Nissan Z emblem on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim 10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): L37, M11, M12, M13, M21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/370Z_Silver_F%26F_19.jpg/revision/latest/scale-to-width-down/75?cb=20190702084300"
+    }
+}

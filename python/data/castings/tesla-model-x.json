@@ -1,0 +1,18 @@
+{
+    "casting_id": "tesla-model-x",
+    "name": "Tesla Model X",
+    "description": {
+        "en-us": "Tesla Model X Debut series Factory Fresh Produced 2017 - 2018 Designer Ryu Asada Number DTX01",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx01-tesla-model-x.json",
+        "data/releases/2017/dvb58-tesla-model-x.json",
+        "data/releases/2018/fjw84-tesla-model-x.json",
+        "data/releases/2018/fkc06-tesla-model-x.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Tesla"
+}

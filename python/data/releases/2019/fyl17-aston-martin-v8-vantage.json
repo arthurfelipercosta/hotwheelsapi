@@ -1,0 +1,24 @@
+{
+    "release_id": "fyl17-aston-martin-v8-vantage-2019",
+    "toy_number": "FYL17",
+    "casting_id": "aston-martin-v8-vantage",
+    "year": 2019,
+    "series_id": "hw-exotics-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Black and yellow stripes on hood and roof, detailed headlights, Aston Martin logo on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow Lip PR5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): N22, L47, L50, L51, M06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/19/82FAA6B6-A3ED-43BA-B8D8-C38677D8532E.jpeg/revision/latest/scale-to-width-down/75?cb=20190424131315"
+    }
+}

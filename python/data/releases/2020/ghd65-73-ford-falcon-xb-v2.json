@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd65-73-ford-falcon-xb-2020",
+    "toy_number": "GHD65",
+    "casting_id": "73-ford-falcon-xb",
+    "year": 2020,
+    "series_id": "hw-flames",
+    "series_index": 7,
+    "specs": {
+        "color": "Metalflake Dark Green",
+        "tampo": "Black Hood, Yellow Flames all over",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N23, N24, N25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Ford_Falcon_HW_Flames_2020.jpg/revision/latest/scale-to-width-down/75?cb=20200923233032"
+    }
+}

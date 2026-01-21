@@ -1,0 +1,24 @@
+{
+    "release_id": "hkj97-fast-bed-hauler-2023",
+    "toy_number": "HKJ97",
+    "casting_id": "fast-bed-hauler",
+    "year": 2023,
+    "series_id": "hw-haulers",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Dark Maroon",
+        "tampo": "Ivory stripe on cab with Hot Wheels logo and Hot Wheels Speed Shop in Ivory",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Gold Chrome",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Gold DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S20, S21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/HKJ97-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230909155542"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "t9922-roll-cage-2011",
+    "toy_number": "T9922",
+    "casting_id": "roll-cage",
+    "year": 2011,
+    "series_id": "thrill-racers-jungle",
+    "series_index": 5,
+    "specs": {
+        "color": "Green",
+        "tampo": "Black & White Tampos, \"8\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Green Rim",
+            "1": "Brown OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D17, D23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/2011RollCage.jpg/revision/latest/scale-to-width-down/75?cb=20110720233747"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "holiday-cars",
+    "year": 1996,
+    "name": "Holiday Cars",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/1996/16248-classic-nomad.json",
+        "data/releases/1996/16250-classic-nomad.json"
+    ]
+}

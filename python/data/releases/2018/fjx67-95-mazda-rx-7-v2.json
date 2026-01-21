@@ -1,0 +1,24 @@
+{
+    "release_id": "fjx67-95-mazda-rx-7-2018",
+    "toy_number": "FJX67",
+    "casting_id": "95-mazda-rx-7",
+    "year": 2018,
+    "series_id": "nightburnerz",
+    "series_index": 4,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black hood, Japanese katakana \"ホットホイール\" meaning Hot Wheels on sides, Mazda logo on front",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Grey 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K29, K30, K31, K34, K37, K38, K39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/95MazdaRX7Yellow.JPG/revision/latest/scale-to-width-down/75?cb=20171111231621"
+    }
+}

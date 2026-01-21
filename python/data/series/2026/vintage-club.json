@@ -1,0 +1,12 @@
+{
+    "series_id": "vintage-club",
+    "year": 2026,
+    "name": "Vintage Club",
+    "total_releases": 3,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2026/jky31-65-mustang-2-2-fastback.json",
+        "data/releases/2026/jky33-mod-rod.json",
+        "data/releases/2026/jky34-71-porsche-911.json"
+    ]
+}

@@ -2,10 +2,20 @@
     "series_id": "hw-rescue",
     "year": 2023,
     "name": "HW Rescue",
-    "total_releases": 2,
-    "max_index": 7,
+    "total_releases": 12,
+    "max_index": 4,
     "releases": [
+        "data/releases/2023/hkg67-surf-duty.json",
+        "data/releases/2023/hkj18-lightnin-bug.json",
+        "data/releases/2023/hkj19-10-camaro-ss.json",
+        "data/releases/2023/hkj20-rescue-duty.json",
         "data/releases/2023/hkj21-2018-honda-civic-type-r.json",
+        "data/releases/2023/hkj22-h-2-go.json",
+        "data/releases/2023/hkj23-killer-copter.json",
+        "data/releases/2023/hkj24-heavy-hitcher.json",
+        "data/releases/2023/hkj25-mad-manga.json",
+        "data/releases/2023/hkk69-lightnin-bug.json",
+        "data/releases/2023/hkk70-rescue-duty.json",
         "data/releases/2023/hkl04-2020-ram-1500-rebel.json"
     ]
 }

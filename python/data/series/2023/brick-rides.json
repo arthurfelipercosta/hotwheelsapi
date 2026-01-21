@@ -1,0 +1,19 @@
+{
+    "series_id": "brick-rides",
+    "year": 2023,
+    "name": "Brick Rides",
+    "total_releases": 10,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2023/hkg31-brickin-delivery.json",
+        "data/releases/2023/hkg37-brick-and-motor.json",
+        "data/releases/2023/hkh15-bricking-trails.json",
+        "data/releases/2023/hkh16-custom-small-block.json",
+        "data/releases/2023/hkh17-bricking-speed.json",
+        "data/releases/2023/hkj85-bricking-trails.json",
+        "data/releases/2023/hkj86-custom-small-block.json",
+        "data/releases/2023/hkj87-brickin-delivery.json",
+        "data/releases/2023/hkj88-brick-and-motor.json",
+        "data/releases/2023/hkj89-bricking-speed.json"
+    ]
+}

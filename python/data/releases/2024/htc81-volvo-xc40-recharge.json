@@ -1,0 +1,24 @@
+{
+    "release_id": "htc81-volvo-xc40-recharge-2024",
+    "toy_number": "HTC81",
+    "casting_id": "volvo-xc40-recharge",
+    "year": 2024,
+    "series_id": "hw-green-speed",
+    "series_index": 2,
+    "specs": {
+        "color": "Crystal White",
+        "tampo": "Detailed taillights, Red stripes, \"VOLVO XC40\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S47, S50, T01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/VolvoXC40.jpg/revision/latest/scale-to-width-down/75?cb=20240219052214"
+    }
+}

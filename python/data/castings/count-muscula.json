@@ -1,0 +1,20 @@
+{
+    "casting_id": "count-muscula",
+    "name": "Count Muscula",
+    "description": {
+        "en-us": "Count Muscula Debut series HW Dream Garage Produced 2022 – Present Designer Sonny Fisher Number HCT31",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct31-count-muscula.json",
+        "data/releases/2022/hcx01-count-muscula.json",
+        "data/releases/2023/hkj51-count-muscula.json",
+        "data/releases/2023/hkk89-count-muscula.json",
+        "data/releases/2025/jck97-count-muscula.json",
+        "data/releases/2026/jkw91-count-muscula.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

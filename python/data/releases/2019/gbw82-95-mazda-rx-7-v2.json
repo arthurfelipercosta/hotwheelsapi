@@ -1,0 +1,24 @@
+{
+    "release_id": "gbw82-95-mazda-rx-7-2019",
+    "toy_number": "GBW82",
+    "casting_id": "95-mazda-rx-7",
+    "year": 2019,
+    "series_id": "fast-furious-original-fast",
+    "series_index": 3,
+    "specs": {
+        "color": "Red",
+        "tampo": "Licensed graphics from The Fast & the Furious (2001)",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "RRMC"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M01, M02, M38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/95_Mazda_RX-7_-_19_FastFurious-OriginalFast_1200pxOTD.png/revision/latest/scale-to-width-down/75?cb=20190306083239"
+    }
+}

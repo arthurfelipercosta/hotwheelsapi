@@ -1,0 +1,26 @@
+{
+    "casting_id": "porsche-917-lh",
+    "name": "Porsche 917 LH",
+    "description": {
+        "en-us": "Porsche 917 LH Debut series Legends of Speed Produced 2018 - Present Designer Dmitriy Shakhmatov Number FJV93",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv93-porsche-917-lh-v2.json",
+        "data/releases/2018/fjy12-porsche-917-lh-v2.json",
+        "data/releases/2019/fyd21-porsche-917-lh-v2.json",
+        "data/releases/2019/fyg32-porsche-917-lh-v2.json",
+        "data/releases/2020/ghd21-porsche-917-lh-v2.json",
+        "data/releases/2020/ghg39-porsche-917-lh-v2.json",
+        "data/releases/2022/hcr36-porsche-917-lh-v2.json",
+        "data/releases/2024/hrt54-porsche-917-lh-v2.json",
+        "data/releases/2024/htv50-porsche-917-lh-v2.json",
+        "data/releases/2025/jby75-porsche-917-lh-v2.json",
+        "data/releases/2026/jkx43-porsche-917-lh-v2.json",
+        "data/releases/2026/x6999-porsche-917-lh-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Porsche"
+}

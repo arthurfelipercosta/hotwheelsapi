@@ -1,0 +1,26 @@
+{
+    "release_id": "dvg03-time-tracker-2017",
+    "toy_number": "DVG03",
+    "casting_id": "time-tracker",
+    "year": 2017,
+    "series_id": "track-stars-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black & Red stripes, Black & White \"Track Stars\", \"33\", HW logo & sponsors' logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Magenta)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Magenta 5SP",
+            "1": "Tinted (Dark Blue)",
+            "2": "Flat Pink 5SP"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): L19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Time-Tracker-Track-Stars-2017.jpg/revision/latest/scale-to-width-down/75?cb=20181130212500"
+    }
+}

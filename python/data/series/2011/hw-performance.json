@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-performance",
+    "year": 2011,
+    "name": "HW Performance",
+    "total_releases": 4,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2011/t9838-acura-nsx.json",
+        "data/releases/2011/t9843-sandblaster.json",
+        "data/releases/2011/t9951-acura-nsx.json",
+        "data/releases/2011/v0058-acura-nsx.json"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "casting_id": "sandblaster",
+    "name": "Sandblaster",
+    "description": {
+        "en-us": "Sandblaster Debut series 2010 New Models Produced 2010 - Present Designer Jun Imai Number R0945",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0945-sandblaster-v6.json",
+        "data/releases/2010/r0945-sandblaster-v7.json",
+        "data/releases/2010/r0945-sandblaster-v8.json",
+        "data/releases/2010/r0945-sandblaster-v9.json",
+        "data/releases/2010/r0945-sandblaster-v10.json",
+        "data/releases/2011/t9843-sandblaster-v2.json",
+        "data/releases/2012/v5531-sandblaster-v2.json",
+        "data/releases/2012/w8320-sandblaster-v2.json",
+        "data/releases/2013/y2095-sandblaster-v2.json",
+        "data/releases/2014/bfd61-sandblaster-v2.json",
+        "data/releases/2014/bff27-sandblaster-v2.json",
+        "data/releases/2014/bfv59-sandblaster-v2.json",
+        "data/releases/2015/cdt24-sandblaster-v2.json",
+        "data/releases/2017/dvf88-sandblaster-v2.json",
+        "data/releases/2018/fkt63-sandblaster-v2.json",
+        "data/releases/2018/gdg67-sandblaster-v2.json",
+        "data/releases/2019/fyl18-sandblaster-v2.json",
+        "data/releases/2020/ghc42-sandblaster-v2.json",
+        "data/releases/2020/ghg67-sandblaster-v3.json",
+        "data/releases/2020/ghg67-sandblaster-v4.json",
+        "data/releases/2022/hdg77-sandblaster-v2.json",
+        "data/releases/2023/hlk38-sandblaster-v2.json",
+        "data/releases/2024/htv40-sandblaster-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

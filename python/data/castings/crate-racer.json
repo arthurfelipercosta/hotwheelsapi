@@ -6,15 +6,15 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2016/dhp24-crate-racer.json",
-        "data/releases/2016/dhx00-crate-racer.json",
-        "data/releases/2017/dtx40-crate-racer.json",
-        "data/releases/2017/dvb31-crate-racer.json",
-        "data/releases/2018/fjw17-crate-racer.json",
-        "data/releases/2018/fkb21-crate-racer.json",
-        "data/releases/2023/hly79-crate-racer.json",
-        "data/releases/2025/jbb02-crate-racer.json",
-        "data/releases/2025/jbb87-crate-racer.json"
+        "data/releases/2016/dhp24-crate-racer-v2.json",
+        "data/releases/2016/dhx00-crate-racer-v2.json",
+        "data/releases/2017/dtx40-crate-racer-v2.json",
+        "data/releases/2017/dvb31-crate-racer-v2.json",
+        "data/releases/2018/fjw17-crate-racer-v2.json",
+        "data/releases/2018/fkb21-crate-racer-v2.json",
+        "data/releases/2023/hly79-crate-racer-v2.json",
+        "data/releases/2025/jbb02-crate-racer-v2.json",
+        "data/releases/2025/jbb87-crate-racer-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",

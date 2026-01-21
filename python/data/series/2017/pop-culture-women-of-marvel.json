@@ -1,0 +1,12 @@
+{
+    "series_id": "pop-culture-women-of-marvel",
+    "year": 2017,
+    "name": "Pop Culture: Women of Marvel",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2017/dwh27-bread-box.json",
+        "data/releases/2017/dwh29-4b10-combat-medic.json",
+        "data/releases/2017/dwh30-custom-77-dodge-van.json"
+    ]
+}

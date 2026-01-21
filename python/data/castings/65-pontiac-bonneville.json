@@ -1,0 +1,41 @@
+{
+    "casting_id": "65-pontiac-bonneville",
+    "name": "'65 Pontiac Bonneville",
+    "description": {
+        "en-us": "'65 Pontiac Bonneville Debut series 2003 First Editions Produced 2003 - Present Designer Mark Jones Number 56353",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56353-65-pontiac-bonneville.json",
+        "data/releases/2003/56353-65-pontiac-bonneville-v2.json",
+        "data/releases/2003/57181-65-pontiac-bonneville.json",
+        "data/releases/2004/b3570-65-pontiac-bonneville.json",
+        "data/releases/2004/c2663-65-pontiac-bonneville.json",
+        "data/releases/2005/g6826-65-pontiac-bonneville.json",
+        "data/releases/2006/j2768-65-pontiac-bonneville.json",
+        "data/releases/2006/j2768-65-pontiac-bonneville-v2.json",
+        "data/releases/2006/j2768-65-pontiac-bonneville-v3.json",
+        "data/releases/2006/j2768-65-pontiac-bonneville-v4.json",
+        "data/releases/2006/j2768-65-pontiac-bonneville-v5.json",
+        "data/releases/2006/j2768-65-pontiac-bonneville-v6.json",
+        "data/releases/2007/k7632-65-pontiac-bonneville.json",
+        "data/releases/2007/k7632-65-pontiac-bonneville-v2.json",
+        "data/releases/2008/n1138-65-pontiac-bonneville.json",
+        "data/releases/2008/j7099-65-pontiac-bonneville.json",
+        "data/releases/2008/l5065-65-pontiac-bonneville.json",
+        "data/releases/2009/n6936-65-pontiac-bonneville.json",
+        "data/releases/2009/n6936-65-pontiac-bonneville-v2.json",
+        "data/releases/2009/n6936-65-pontiac-bonneville-v3.json",
+        "data/releases/2009/n6936-65-pontiac-bonneville-v4.json",
+        "data/releases/2009/n9856-65-pontiac-bonneville.json",
+        "data/releases/2009/p3512-65-pontiac-bonneville.json",
+        "data/releases/2013/x1687-65-pontiac-bonneville.json",
+        "data/releases/2013/x1881-65-pontiac-bonneville.json",
+        "data/releases/2017/dwc46-65-pontiac-bonneville.json",
+        "data/releases/2026/jky12-65-pontiac-bonneville.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Pontiac"
+}

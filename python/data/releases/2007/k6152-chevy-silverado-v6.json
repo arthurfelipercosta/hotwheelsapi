@@ -1,0 +1,24 @@
+{
+    "release_id": "k6152-chevy-silverado-2007",
+    "toy_number": "K6152",
+    "casting_id": "chevy-silverado",
+    "year": 2007,
+    "series_id": "2007-new-models",
+    "series_index": 20,
+    "specs": {
+        "color": "Metalflake Dark Red",
+        "tampo": "Silver 'Silverado' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Red_FE_Chevy_Silverado.jpg/revision/latest/scale-to-width-down/75?cb=20080506015825"
+    }
+}

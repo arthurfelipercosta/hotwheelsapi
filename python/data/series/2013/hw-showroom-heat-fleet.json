@@ -2,14 +2,25 @@
     "series_id": "hw-showroom-heat-fleet",
     "year": 2013,
     "name": "HW Showroom: Heat Fleet",
-    "total_releases": 6,
+    "total_releases": 17,
     "max_index": 0,
     "releases": [
+        "data/releases/2013/bff57-custom-64-galaxie-500.json",
+        "data/releases/2013/x1789-69-chevelle-ss-396.json",
+        "data/releases/2013/x1790-71-plymouth-road-runner.json",
         "data/releases/2013/x1791-custom-56-ford-truck.json",
+        "data/releases/2013/x1792-86-monte-carlo-ss.json",
         "data/releases/2013/x1793-69-dodge-coronet-superbee.json",
+        "data/releases/2013/x1794-custom-64-galaxie-500.json",
+        "data/releases/2013/x1795-classic-nomad.json",
         "data/releases/2013/x1796-59-chevy-bel-air.json",
+        "data/releases/2013/x1797-71-dodge-demon.json",
+        "data/releases/2013/x1798-70-plymouth-barracuda.json",
         "data/releases/2013/x1958-69-dodge-coronet-superbee.json",
+        "data/releases/2013/x1959-69-chevelle-ss-396.json",
+        "data/releases/2013/x2012-71-dodge-demon.json",
         "data/releases/2013/x2025-59-chevy-bel-air.json",
+        "data/releases/2013/x2041-classic-nomad.json",
         "data/releases/2013/x2057-custom-56-ford-truck.json"
     ]
 }

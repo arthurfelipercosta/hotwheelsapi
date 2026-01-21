@@ -1,0 +1,10 @@
+{
+    "series_id": "tom-jerry",
+    "year": 2015,
+    "name": "Tom & Jerry",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2015/cmj32-hw-pursuit.json"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "acceleracers-metal-maniacs",
+    "year": 2005,
+    "name": "AcceleRacers: Metal Maniacs",
+    "total_releases": 5,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2005/g8097-hollowback.json",
+        "data/releases/2005/g8099-rivited.json",
+        "data/releases/2005/g8101-rat-ified.json",
+        "data/releases/2005/g8104-piledriver.json",
+        "data/releases/2005/g8105-jack-hammer.json"
+    ]
+}

@@ -2,9 +2,12 @@
     "series_id": "service-merchandise-classic-american-car-collection",
     "year": 1995,
     "name": "Service Merchandise Classic American Car Collection",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
+        "data/releases/1995/14021-3-window-34.json",
+        "data/releases/1995/14021-67-camaro.json",
+        "data/releases/1995/14021-olds-442-w-30.json",
         "data/releases/1995/14021-purple-passion.json"
     ]
 }

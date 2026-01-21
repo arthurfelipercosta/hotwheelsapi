@@ -1,0 +1,11 @@
+{
+    "series_id": "mystery-cars",
+    "year": 2007,
+    "name": "Mystery Cars",
+    "total_releases": 2,
+    "max_index": 13,
+    "releases": [
+        "data/releases/2007/k7624-f-racer.json",
+        "data/releases/2007/k7624-f-racer.json"
+    ]
+}

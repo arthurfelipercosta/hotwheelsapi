@@ -2,12 +2,28 @@
     "series_id": "ultra-hots",
     "year": 2006,
     "name": "Ultra Hots",
-    "total_releases": 4,
+    "total_releases": 20,
     "max_index": 0,
     "releases": [
+        "data/releases/2006/j2827-65-pontiac-gto.json",
+        "data/releases/2006/j2827-65-pontiac-gto.json",
         "data/releases/2006/j2829-70-chevy-camaro-rs.json",
+        "data/releases/2006/j2831-65-mustang-convertible.json",
+        "data/releases/2006/j2833-classic-cobra.json",
+        "data/releases/2006/j2833-classic-cobra.json",
+        "data/releases/2006/j2834-56-ford-f-100-truck.json",
+        "data/releases/2006/j2835-69-dodge-charger.json",
+        "data/releases/2006/j2835-69-dodge-charger.json",
+        "data/releases/2006/j2835-69-dodge-charger.json",
+        "data/releases/2006/j2835-69-dodge-charger.json",
+        "data/releases/2006/j2836-67-camaro.json",
         "data/releases/2006/j2838-67-mustang.json",
+        "data/releases/2006/j2847-56-ford-f-100-truck.json",
         "data/releases/2006/j2848-70-chevy-camaro-rs.json",
-        "data/releases/2006/j2850-67-mustang.json"
+        "data/releases/2006/j2850-67-mustang.json",
+        "data/releases/2006/j2851-classic-cobra.json",
+        "data/releases/2006/j7159-69-dodge-charger.json",
+        "data/releases/2006/l0497-69-dodge-charger.json",
+        "data/releases/2006/l0499-65-pontiac-gto.json"
     ]
 }

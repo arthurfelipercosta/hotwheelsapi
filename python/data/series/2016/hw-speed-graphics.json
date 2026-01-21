@@ -2,10 +2,26 @@
     "series_id": "hw-speed-graphics",
     "year": 2016,
     "name": "HW Speed Graphics",
-    "total_releases": 2,
+    "total_releases": 18,
     "max_index": 7,
     "releases": [
+        "data/releases/2016/dhp27-nissan-fairlady-z.json",
+        "data/releases/2016/dhp97-70-ford-escort-rs1600.json",
+        "data/releases/2016/dhr27-69-ford-torino-talladega.json",
+        "data/releases/2016/dhr72-96-nissan-180sx-type-x.json",
+        "data/releases/2016/dhr73-toyota-supra.json",
+        "data/releases/2016/dhr74-dodge-challenger-drift-car.json",
+        "data/releases/2016/dhr75-13-copo-camaro.json",
+        "data/releases/2016/dhr76-14-corvette-stingray.json",
+        "data/releases/2016/dhr77-porsche-934-turbo-rsr.json",
         "data/releases/2016/dhr78-ford-gt.json",
+        "data/releases/2016/dhr79-69-ford-torino-talladega.json",
+        "data/releases/2016/dht85-14-corvette-stingray.json",
+        "data/releases/2016/dhx56-dodge-challenger-drift-car.json",
+        "data/releases/2016/dhx57-13-copo-camaro.json",
+        "data/releases/2016/dhx58-porsche-934-turbo-rsr.json",
+        "data/releases/2016/dhx59-70-ford-escort-rs1600.json",
+        "data/releases/2016/dhx76-96-nissan-180sx-type-x.json",
         "data/releases/2016/dhx89-ford-gt.json"
     ]
 }

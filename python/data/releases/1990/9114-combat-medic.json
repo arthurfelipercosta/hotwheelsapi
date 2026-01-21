@@ -1,0 +1,29 @@
+{
+    "release_id": "9114-combat-medic-1990",
+    "toy_number": "9114",
+    "casting_id": "combat-medic",
+    "year": 1990,
+    "series_id": "the-simpsons",
+    "series_index": null,
+    "specs": {
+        "color": "Enamel Yellow",
+        "tampo": "Black, Red and Magenta",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "BW",
+            "1": "WBW",
+            "2": "YBW",
+            "3": "Black",
+            "4": "Red",
+            "5": "Light Magenta"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Homer's Nuclear Waste Van",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/06/1990_Homer%27s_van_BW_dk_magenta.jpg/revision/latest/scale-to-width-down/75?cb=20130209193436"
+    }
+}

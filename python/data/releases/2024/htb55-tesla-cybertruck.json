@@ -1,0 +1,24 @@
+{
+    "release_id": "htb55-tesla-cybertruck-2024",
+    "toy_number": "HTB55",
+    "casting_id": "tesla-cybertruck",
+    "year": 2024,
+    "series_id": "hw-rolling-metal",
+    "series_index": 4,
+    "specs": {
+        "color": "Zinc-plated ZAMAC",
+        "tampo": "Detailed front & rear light strips, detailed rear tonneau cover",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T29, T30, T31, T32, T33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/95/HTB55.jpg/revision/latest/scale-to-width-down/75?cb=20241217133003"
+    }
+}

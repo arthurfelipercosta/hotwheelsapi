@@ -1,0 +1,23 @@
+{
+    "casting_id": "rally-cat",
+    "name": "Rally Cat",
+    "description": {
+        "en-us": "Rally Cat Debut series HW Digital Circuit Produced 2017 - Present Designer Dmitriy Shakhmatov Number DTX15",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx15-rally-cat.json",
+        "data/releases/2017/dvd14-rally-cat.json",
+        "data/releases/2018/fjx54-rally-cat.json",
+        "data/releases/2018/frr92-rally-cat.json",
+        "data/releases/2018/frr93-rally-cat.json",
+        "data/releases/2018/frr94-rally-cat.json",
+        "data/releases/2022/hfv83-rally-cat.json",
+        "data/releases/2023/hlh79-rally-cat.json",
+        "data/releases/2025/jcl96-rally-cat.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

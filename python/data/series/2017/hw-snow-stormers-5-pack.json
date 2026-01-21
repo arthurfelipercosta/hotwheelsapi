@@ -2,9 +2,13 @@
     "series_id": "hw-snow-stormers-5-pack",
     "year": 2017,
     "name": "HW Snow Stormers 5-Pack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2017/dvf88-escort-rally.json"
+        "data/releases/2017/dvf68-jeep-scrambler.json",
+        "data/releases/2017/dvf68-team-hot-wheels-corkscrew-buggy.json",
+        "data/releases/2017/dvf88-escort-rally.json",
+        "data/releases/2017/dvf88-sandblaster.json",
+        "data/releases/2017/dvf88-snow-stormer.json"
     ]
 }

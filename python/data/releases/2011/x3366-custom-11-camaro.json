@@ -1,0 +1,24 @@
+{
+    "release_id": "x3366-custom-11-camaro-2011",
+    "toy_number": "X3366",
+    "casting_id": "custom-11-camaro",
+    "year": 2011,
+    "series_id": "mystery-models",
+    "series_index": 1,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "White & Blue",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White Lip PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D31, D32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/MM_11_Custom_Camaro.jpg/revision/latest/scale-to-width-down/75?cb=20111117182614"
+    }
+}

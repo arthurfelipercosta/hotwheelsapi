@@ -2,10 +2,19 @@
     "series_id": "hw-workshop-speed-team",
     "year": 2015,
     "name": "HW Workshop: Speed Team",
-    "total_releases": 2,
+    "total_releases": 11,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfh39-70-chevy-chevelle-ss.json",
+        "data/releases/2015/cfh41-69-ford-mustang-boss-302.json",
+        "data/releases/2015/cfh45-bentley-continental-supersports.json",
         "data/releases/2015/cfh91-mazda-rx-7.json",
-        "data/releases/2015/cfk06-mazda-rx-7.json"
+        "data/releases/2015/cfj40-69-ford-mustang-boss-302.json",
+        "data/releases/2015/cfj55-12-acura-nsx-concept.json",
+        "data/releases/2015/cfj75-70-chevy-chevelle-ss.json",
+        "data/releases/2015/cfk06-mazda-rx-7.json",
+        "data/releases/2015/cfk93-12-acura-nsx-concept.json",
+        "data/releases/2015/cfl68-bentley-continental-supersports.json",
+        "data/releases/2015/dhy04-70-chevy-chevelle-ss.json"
     ]
 }

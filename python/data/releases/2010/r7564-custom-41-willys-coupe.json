@@ -1,0 +1,27 @@
+{
+    "release_id": "r7564-custom-41-willys-coupe-2010",
+    "toy_number": "R7564",
+    "casting_id": "custom-41-willys-coupe",
+    "year": 2010,
+    "series_id": "hw-hot-rods",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Dark Red",
+        "tampo": "White, Silver & Black tampos, 'Hot Wheels Speed Shop' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "137",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C10, C12, C14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/41willys_HotRods_red.JPG/revision/latest/scale-to-width-down/75?cb=20100509102935"
+    }
+}

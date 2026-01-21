@@ -1,0 +1,32 @@
+{
+    "casting_id": "custom-41-willys-coupe",
+    "name": "Custom '41 Willys Coupe",
+    "description": {
+        "en-us": "Custom '41 Willys Coupe Debut series 2009 New Models Produced 2009 - Present Designer Larry Wood Number N4028",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4028-custom-41-willys-coupe.json",
+        "data/releases/2009/n4028-custom-41-willys-coupe-v2.json",
+        "data/releases/2009/r4221-custom-41-willys-coupe.json",
+        "data/releases/2009/r4221-custom-41-willys-coupe-v2.json",
+        "data/releases/2010/r7564-custom-41-willys-coupe.json",
+        "data/releases/2010/r7564-custom-41-willys-coupe-v2.json",
+        "data/releases/2011/t9859-custom-41-willys-coupe.json",
+        "data/releases/2011/t9941-custom-41-willys-coupe.json",
+        "data/releases/2011/v0031-custom-41-willys-coupe.json",
+        "data/releases/2011/v0031-custom-41-willys-coupe-v2.json",
+        "data/releases/2012/v5339-custom-41-willys-coupe.json",
+        "data/releases/2012/w4624-custom-41-willys-coupe.json",
+        "data/releases/2013/y2053-custom-41-willys-coupe.json",
+        "data/releases/2016/dhr11-custom-41-willys-coupe.json",
+        "data/releases/2018/fkx52-custom-41-willys-coupe.json",
+        "data/releases/2019/x6999-custom-41-willys-coupe.json",
+        "data/releases/2021/gtn48-custom-41-willys-coupe.json",
+        "data/releases/2025/jby83-custom-41-willys-coupe.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

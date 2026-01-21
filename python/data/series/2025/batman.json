@@ -2,8 +2,8 @@
     "series_id": "batman",
     "year": 2025,
     "name": "Batman",
-    "total_releases": 11,
-    "max_index": 3,
+    "total_releases": 25,
+    "max_index": 11,
     "releases": [
         "data/releases/2025/hyw57-1966-bat-boat.json",
         "data/releases/2025/hyw60-batman-robin-batmobile.json",
@@ -13,8 +13,22 @@
         "data/releases/2025/hyx81-arkham-asylum-batmobile.json",
         "data/releases/2025/hyy05-tv-series-batmobile.json",
         "data/releases/2025/hyy81-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2025/jby07-batman-v-superman-batmobile.json",
+        "data/releases/2025/jby08-justice-league-batmobile.json",
+        "data/releases/2025/jby09-driftsta.json",
+        "data/releases/2025/jby10-flight-03.json",
+        "data/releases/2025/jby11-fast-felion.json",
+        "data/releases/2025/jby13-batplane.json",
+        "data/releases/2025/jby14-muscle-tone.json",
+        "data/releases/2025/jby16-rescue-ranger.json",
         "data/releases/2025/jby17-classic-tv-series-batmobile.json",
         "data/releases/2025/jby18-arkham-asylum-batmobile.json",
-        "data/releases/2025/jby23-the-brave-and-the-bold-batmobile.json"
+        "data/releases/2025/jby19-grand-cross.json",
+        "data/releases/2025/jby20-track-manga.json",
+        "data/releases/2025/jby21-velocita.json",
+        "data/releases/2025/jby22-batman-forever-batmobile.json",
+        "data/releases/2025/jby23-the-brave-and-the-bold-batmobile.json",
+        "data/releases/2025/jby24-speed-trap.json",
+        "data/releases/2025/jby26-fast-fish.json"
     ]
 }

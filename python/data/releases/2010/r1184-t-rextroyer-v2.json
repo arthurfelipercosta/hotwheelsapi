@@ -1,0 +1,27 @@
+{
+    "release_id": "r1184-t-rextroyer-2010",
+    "toy_number": "R1184",
+    "casting_id": "t-rextroyer",
+    "year": 2010,
+    "series_id": "color-shifters-creatures",
+    "series_index": null,
+    "specs": {
+        "color": "Cold: Red Warm: Orange Hot: Yellow",
+        "tampo": "HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "Cold: Brown Warm: Purple Hot: Blue",
+            "2": "R7801",
+            "3": "Base code(s): C30"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): B52, C02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/T-Rextroyer_2.jpg/revision/latest/scale-to-width-down/75?cb=20100915234207"
+    }
+}

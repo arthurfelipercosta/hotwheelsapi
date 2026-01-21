@@ -1,0 +1,25 @@
+{
+    "release_id": "hlk15-toyota-2000gt-2023",
+    "toy_number": "HLK15",
+    "casting_id": "toyota-2000gt",
+    "year": 2023,
+    "series_id": "japanese-classics",
+    "series_index": 4,
+    "specs": {
+        "color": "Cream yellow",
+        "tampo": "Detailed taillights, Goodyear logo on front fender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Light Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/HLK15.jpg/revision/latest/scale-to-width-down/75?cb=20241030202652"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "t8628-dodge-charger-stock-car-2011",
+    "toy_number": "T8628",
+    "casting_id": "dodge-charger-stock-car",
+    "year": 2011,
+    "series_id": "stock-car-race-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Orange, Blue and White \"Houlst Wheels\" racing deco. \"82\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/DodgeChargerStocker_Stock5.JPG/revision/latest/scale-to-width-down/75?cb=20110405110634"
+    }
+}

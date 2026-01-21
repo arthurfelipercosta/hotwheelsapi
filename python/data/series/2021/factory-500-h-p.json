@@ -2,10 +2,17 @@
     "series_id": "factory-500-h-p",
     "year": 2021,
     "name": "Factory 500 H.P.",
-    "total_releases": 2,
+    "total_releases": 9,
     "max_index": 10,
     "releases": [
+        "data/releases/2021/grt02-09-cadillac-cts-v.json",
+        "data/releases/2021/grt03-ford-shelby-gt350r.json",
+        "data/releases/2021/grt04-10-ford-shelby-gt500-super-snake.json",
+        "data/releases/2021/grt05-12-camaro-zl1-concept.json",
+        "data/releases/2021/grt07-bentley-continental-supersports.json",
         "data/releases/2021/grt08-2013-srt-viper.json",
+        "data/releases/2021/grt09-lamborghini-hurac-n-lp-610-4.json",
+        "data/releases/2021/grt10-mclaren-720s.json",
         "data/releases/2021/grt11-porsche-911-gt3-rs.json"
     ]
 }

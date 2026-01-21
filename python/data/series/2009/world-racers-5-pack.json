@@ -2,9 +2,11 @@
     "series_id": "world-racers-5-pack",
     "year": 2009,
     "name": "World Racers 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2009/n4074-lotus-sport-elise.json"
+        "data/releases/2009/n4074-ford-gt-40.json",
+        "data/releases/2009/n4074-lotus-sport-elise.json",
+        "data/releases/2009/n4074-toyota-baja-truck.json"
     ]
 }

@@ -2,10 +2,12 @@
     "series_id": "planet-hot-wheels-energy",
     "year": 2002,
     "name": "Planet Hot Wheels Energy",
-    "total_releases": 2,
+    "total_releases": 4,
     "max_index": 4,
     "releases": [
         "data/releases/2002/56251-deora-ii.json",
-        "data/releases/2002/56251-deora-ii.json"
+        "data/releases/2002/56251-deora-ii.json",
+        "data/releases/2002/56253-ms-t-suzuka.json",
+        "data/releases/2002/56253-ms-t-suzuka.json"
     ]
 }

@@ -1,0 +1,16 @@
+{
+    "series_id": "since-68-top-40-set",
+    "year": 2008,
+    "name": "Since '68: Top 40 Set",
+    "total_releases": 7,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2008/n4608-3-window-34.json",
+        "data/releases/2008/n4608-56-ford-f-100-truck.json",
+        "data/releases/2008/n4608-70-mustang-mach-1.json",
+        "data/releases/2008/n4608-blast-lane.json",
+        "data/releases/2008/n4608-classic-cobra.json",
+        "data/releases/2008/n4608-classic-nomad.json",
+        "data/releases/2008/n4951-67-pontiac-gto.json"
+    ]
+}

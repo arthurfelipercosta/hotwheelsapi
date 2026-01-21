@@ -1,0 +1,27 @@
+{
+    "release_id": "r7626-invader-2010",
+    "toy_number": "R7626",
+    "casting_id": "invader",
+    "year": 2010,
+    "series_id": "race-world-battle",
+    "series_index": 1,
+    "specs": {
+        "color": "Dark Gray",
+        "tampo": "Silver, Dark Red patterns Silver \"Hot Wheels\" flame logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Red chrome 5SP",
+            "1": "195",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated Tooling Card Variation here. Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/Invader_battle_grey.JPG/revision/latest/scale-to-width-down/75?cb=20100410205412"
+    }
+}

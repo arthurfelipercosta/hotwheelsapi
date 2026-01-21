@@ -1,0 +1,25 @@
+{
+    "release_id": "g6792-sling-shot-2005",
+    "toy_number": "G6792",
+    "casting_id": "sling-shot",
+    "year": 2005,
+    "series_id": "track-aces",
+    "series_index": 9,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Flame graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/05_5SP_Tack_Aces_Sling_Shot.jpg/revision/latest/scale-to-width-down/75?cb=20080326033235"
+    }
+}

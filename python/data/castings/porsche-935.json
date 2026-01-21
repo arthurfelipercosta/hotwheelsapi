@@ -1,0 +1,27 @@
+{
+    "casting_id": "porsche-935",
+    "name": "Porsche 935",
+    "description": {
+        "en-us": "Porsche 935 Debut series HW Turbo Produced 2022 – Present Designer Ryu Asada Number HCT16",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct16-porsche-935.json",
+        "data/releases/2022/hcw73-porsche-935.json",
+        "data/releases/2022/hcy66-porsche-935.json",
+        "data/releases/2023/hkh96-porsche-935.json",
+        "data/releases/2023/hkl17-porsche-935.json",
+        "data/releases/2023/hkc59-porsche-935.json",
+        "data/releases/2023/hkc63-porsche-935.json",
+        "data/releases/2023/hkf36-porsche-935.json",
+        "data/releases/2024/hrw59-porsche-935.json",
+        "data/releases/2024/hrx56-porsche-935.json",
+        "data/releases/2025/jcb37-porsche-935.json",
+        "data/releases/2026/jhw51-porsche-935.json",
+        "data/releases/2026/jnf49-porsche-935.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Porsche"
+}

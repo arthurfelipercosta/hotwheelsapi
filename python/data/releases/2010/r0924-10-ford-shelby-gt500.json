@@ -1,0 +1,29 @@
+{
+    "release_id": "r0924-10-ford-shelby-gt500-2010",
+    "toy_number": "R0924",
+    "casting_id": "10-ford-shelby-gt500",
+    "year": 2010,
+    "series_id": "2010-new-models",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "White stripes across top and on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5",
+            "1": "009",
+            "2": "214",
+            "3": "2010",
+            "4": "2010 HW Premiere 9",
+            "5": "52"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/10_Shelby_GT500_-_10NM_Blue.jpg/revision/latest/scale-to-width-down/75?cb=20091020223212"
+    }
+}

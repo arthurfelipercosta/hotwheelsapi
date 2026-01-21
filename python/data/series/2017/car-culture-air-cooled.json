@@ -1,0 +1,14 @@
+{
+    "series_id": "car-culture-air-cooled",
+    "year": 2017,
+    "name": "Car Culture: Air-Cooled",
+    "total_releases": 5,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2017/dwh71-60s-fiat-500d-modificado.json",
+        "data/releases/2017/dwh72-porsche-356-outlaw.json",
+        "data/releases/2017/dwh73-custom-volkswagen-beetle.json",
+        "data/releases/2017/dwh74-volkswagen-sp2.json",
+        "data/releases/2017/dwh75-custom-69-volkswagen-squareback.json"
+    ]
+}

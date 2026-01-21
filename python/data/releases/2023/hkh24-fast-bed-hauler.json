@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh24-fast-bed-hauler-2023",
+    "toy_number": "HKH24",
+    "casting_id": "fast-bed-hauler",
+    "year": 2023,
+    "series_id": "hw-haulers",
+    "series_index": 2,
+    "specs": {
+        "color": "Matte Blue",
+        "tampo": "White stripe on cab with Hot Wheels logo and Hot Wheels Speed Shop in yellow",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Chrome",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R32, R36, R37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/HW-2023-011-1-HKH24-Fast-Bed_Hauler.png/revision/latest/scale-to-width-down/75?cb=20221116105036"
+    }
+}

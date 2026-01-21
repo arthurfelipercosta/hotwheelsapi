@@ -1,0 +1,27 @@
+{
+    "casting_id": "quicksand",
+    "name": "Quicksand",
+    "description": {
+        "en-us": "Quicksand Debut series 2012 New Models Produced 2012 - Present Designer Jun Imai Number V5307",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5307-quicksand.json",
+        "data/releases/2012/v5624-quicksand.json",
+        "data/releases/2013/x1728-quicksand.json",
+        "data/releases/2013/x1908-quicksand.json",
+        "data/releases/2013/bcc55-quicksand.json",
+        "data/releases/2014/bfd03-quicksand.json",
+        "data/releases/2014/bdw53-quicksand.json",
+        "data/releases/2014/bdw56-quicksand.json",
+        "data/releases/2015/cfk58-quicksand.json",
+        "data/releases/2015/cfl92-quicksand.json",
+        "data/releases/2017/dwd80-quicksand.json",
+        "data/releases/2023/hnb33-quicksand.json",
+        "data/releases/2025/jcr62-quicksand.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

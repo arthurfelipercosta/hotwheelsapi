@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx02-volkswagen-t2-pickup-2017",
+    "toy_number": "DTX02",
+    "casting_id": "volkswagen-t2-pickup",
+    "year": 2017,
+    "series_id": "hw-art-cars",
+    "series_index": 1,
+    "specs": {
+        "color": "Beige",
+        "tampo": "Red, Black & White shapes & 'Hot Wheels' on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): K04, K06, K07, K08, K09, K10, K11, K12, L15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2017NM29_%28Large%29.JPG/revision/latest/scale-to-width-down/75?cb=20190929015656"
+    }
+}

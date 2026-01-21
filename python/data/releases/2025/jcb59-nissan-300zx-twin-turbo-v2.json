@@ -1,0 +1,24 @@
+{
+    "release_id": "jcb59-nissan-300zx-twin-turbo-2025",
+    "toy_number": "JCB59",
+    "casting_id": "nissan-300zx-twin-turbo",
+    "year": 2025,
+    "series_id": "90s-street-scene",
+    "series_index": 3,
+    "specs": {
+        "color": "Green",
+        "tampo": "Detailed taillights, black hood, Nitto logo on doors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "S5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T30, T34, T41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/1994Nissan300ZX.jpg/revision/latest/scale-to-width-down/75?cb=20241118123131"
+    }
+}

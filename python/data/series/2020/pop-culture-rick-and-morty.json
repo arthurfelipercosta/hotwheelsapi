@@ -1,0 +1,10 @@
+{
+    "series_id": "pop-culture-rick-and-morty",
+    "year": 2020,
+    "name": "Pop Culture: Rick and Morty",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2020/gjr32-super-van.json"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "series_id": "1999-first-editions",
+    "year": 1999,
+    "name": "1999 First Editions",
+    "total_releases": 6,
+    "max_index": 16,
+    "releases": [
+        "data/releases/1999/21056-99-ford-mustang.json",
+        "data/releases/1999/21062-70-chevelle-ss.json",
+        "data/releases/1999/21062-70-chevelle-ss.json",
+        "data/releases/1999/21063-phaeton.json",
+        "data/releases/1999/21068-ford-gt-40.json",
+        "data/releases/1999/21074-56-ford-f-100-truck.json"
+    ]
+}

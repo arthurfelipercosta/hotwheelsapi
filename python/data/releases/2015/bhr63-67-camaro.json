@@ -1,0 +1,25 @@
+{
+    "release_id": "bhr63-67-camaro-2015",
+    "toy_number": "BHR63",
+    "casting_id": "67-camaro",
+    "year": 2015,
+    "series_id": "color-shifters",
+    "series_index": 43,
+    "specs": {
+        "color": "Black & Red",
+        "tampo": "Red checkered flag pattern & \"67\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Red chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Thailand / China",
+    "notes": "Base code(s): H33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/15cs4348camaro800.jpg/revision/latest/scale-to-width-down/75?cb=20151114221034"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hrt74-nissan-skyline-gt-r-bnr32-2024",
+    "toy_number": "HRT74",
+    "casting_id": "nissan-skyline-gt-r-bnr32",
+    "year": 2024,
+    "series_id": "hot-wheels-boulevard-99",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights, taillights and badging, chibi Godzilla graphics, Godzilla scratch graphics, \"SKYLINE SYNDICATE\" on sides, \"PANDA32\" license plate in interior",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold RR10SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T16, T17, T18, T19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/NissanSkylineBNR32.jpg/revision/latest?cb=20240528123546"
+    }
+}

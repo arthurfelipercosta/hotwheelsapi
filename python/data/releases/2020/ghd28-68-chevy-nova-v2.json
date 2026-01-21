@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd28-68-chevy-nova-2020",
+    "toy_number": "GHD28",
+    "casting_id": "68-chevy-nova",
+    "year": 2020,
+    "series_id": "rod-squad",
+    "series_index": 6,
+    "specs": {
+        "color": "Green",
+        "tampo": "Rippled camouflage effect all over body. 'Flying Tigers Shark Teeth' decal on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red Rim DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M37, M39, M40, M41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/47_1968_Nova.png/revision/latest/scale-to-width-down/75?cb=20210704124808"
+    }
+}

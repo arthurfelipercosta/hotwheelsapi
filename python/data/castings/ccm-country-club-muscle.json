@@ -1,0 +1,26 @@
+{
+    "casting_id": "ccm-country-club-muscle",
+    "name": "CCM Country Club Muscle",
+    "description": {
+        "en-us": "CCM Country Club Muscle Debut series 2007 New Models Produced 2007 - 2017 Designer Rob Matthes Number K6151",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6151-ccm-country-club-muscle.json",
+        "data/releases/2008/m7008-ccm-country-club-muscle.json",
+        "data/releases/2009/p2806-ccm-country-club-muscle.json",
+        "data/releases/2009/p3507-ccm-country-club-muscle.json",
+        "data/releases/2011/w2107-ccm-country-club-muscle.json",
+        "data/releases/2011/v2353-ccm-country-club-muscle.json",
+        "data/releases/2012/x6999-ccm-country-club-muscle.json",
+        "data/releases/2014/bdl15-ccm-country-club-muscle.json",
+        "data/releases/2014/bgj87-ccm-country-club-muscle.json",
+        "data/releases/2015/n-a-ccm-country-club-muscle.json",
+        "data/releases/2017/w5084-ccm-country-club-muscle.json",
+        "data/releases/2017/dty92-ccm-country-club-muscle.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,27 @@
+{
+    "release_id": "r7505-70-plymouth-aar-cuda-2010",
+    "toy_number": "R7505",
+    "casting_id": "70-plymouth-aar-cuda",
+    "year": 2010,
+    "series_id": "muscle-mania",
+    "series_index": 2,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Flat Black Hood & Roof, Black Stripe on side, \"AAR\" logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5",
+            "1": "088",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Released on 2011 card Base code(s): C35, C42, C43, C48, D01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/70_plymouth_aar_cuda_yellow.png/revision/latest/scale-to-width-down/75?cb=20101104033513"
+    }
+}

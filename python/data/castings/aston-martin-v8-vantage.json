@@ -1,0 +1,29 @@
+{
+    "casting_id": "aston-martin-v8-vantage",
+    "name": "Aston Martin V8 Vantage",
+    "description": {
+        "en-us": "Aston Martin V8 Vantage Debut series 2005 First Editions: Realistix Produced 2005 - Present Designer Mark Jones Number G6722",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g6722-aston-martin-v8-vantage.json",
+        "data/releases/2007/m6916-aston-martin-v8-vantage.json",
+        "data/releases/2007/k7643-aston-martin-v8-vantage.json",
+        "data/releases/2008/m6916-aston-martin-v8-vantage.json",
+        "data/releases/2008/m6916-aston-martin-v8-vantage-v2.json",
+        "data/releases/2008/m6916-aston-martin-v8-vantage-v3.json",
+        "data/releases/2008/m6916-aston-martin-v8-vantage-v4.json",
+        "data/releases/2009/n4075-aston-martin-v8-vantage.json",
+        "data/releases/2010/r8482-aston-martin-v8-vantage.json",
+        "data/releases/2010/r7493-aston-martin-v8-vantage.json",
+        "data/releases/2014/bfb36-aston-martin-v8-vantage.json",
+        "data/releases/2016/dhp81-aston-martin-v8-vantage.json",
+        "data/releases/2019/fyl17-aston-martin-v8-vantage.json",
+        "data/releases/2020/ghp50-aston-martin-v8-vantage.json",
+        "data/releases/2021/gtn33-aston-martin-v8-vantage.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Aston Martin"
+}

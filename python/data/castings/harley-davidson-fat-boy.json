@@ -1,0 +1,20 @@
+{
+    "casting_id": "harley-davidson-fat-boy",
+    "name": "Harley-Davidson Fat Boy",
+    "description": {
+        "en-us": "Harley-Davidson Fat Boy Debut series 2012 New Models Produced 2012 - 2015 Designer Kevin Cao Number V5318\\n\\nThe Harley-Davidson Fat Boy has come out in the following 1/64 scale versions:",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5318-harley-davidson-fat-boy.json",
+        "data/releases/2012/v5616-harley-davidson-fat-boy.json",
+        "data/releases/2013/y0290-harley-davidson-fat-boy.json",
+        "data/releases/2014/bfd80-harley-davidson-fat-boy.json",
+        "data/releases/2014/bff32-harley-davidson-fat-boy.json",
+        "data/releases/2015/cfk37-harley-davidson-fat-boy.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

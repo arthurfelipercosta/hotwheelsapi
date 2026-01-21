@@ -1,0 +1,13 @@
+{
+    "series_id": "race-world-volcano",
+    "year": 2010,
+    "name": "Race World: Volcano",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2010/r7639-hot-bird.json",
+        "data/releases/2010/r7639-hot-bird.json",
+        "data/releases/2010/r7640-64-lincoln-continental.json",
+        "data/releases/2010/r7641-twin-mill.json"
+    ]
+}

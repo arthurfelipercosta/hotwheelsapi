@@ -1,0 +1,26 @@
+{
+    "casting_id": "49-drag-merc",
+    "name": "'49 Drag Merc",
+    "description": {
+        "en-us": "'49 Drag Merc Debut series 2010 New Models Produced 2010 – Present Designer Phil Riehlman Number R0950",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0950-49-drag-merc-v3.json",
+        "data/releases/2010/r0950-49-drag-merc-v4.json",
+        "data/releases/2011/t9829-49-drag-merc-v2.json",
+        "data/releases/2011/v0007-49-drag-merc-v2.json",
+        "data/releases/2011/v5209-49-drag-merc-v2.json",
+        "data/releases/2012/v5446-49-drag-merc-v2.json",
+        "data/releases/2012/w4442-49-drag-merc-v2.json",
+        "data/releases/2012/w4623-49-drag-merc-v2.json",
+        "data/releases/2013/x1858-49-drag-merc-v2.json",
+        "data/releases/2013/x2035-49-drag-merc-v2.json",
+        "data/releases/2014/bdk68-49-drag-merc-v2.json",
+        "data/releases/2024/htb54-49-drag-merc-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

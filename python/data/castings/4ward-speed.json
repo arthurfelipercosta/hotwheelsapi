@@ -1,0 +1,21 @@
+{
+    "casting_id": "4ward-speed",
+    "name": "4ward Speed",
+    "description": {
+        "en-us": "4ward Speed Debut series Team Hot Wheels High-Speed Wheel Produced 2012 - Present Designer Paul DeLorean Number X0131",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/x0131-4ward-speed.json",
+        "data/releases/2013/x1752-4ward-speed.json",
+        "data/releases/2014/bdw32-4ward-speed.json",
+        "data/releases/2015/cfh63-4ward-speed.json",
+        "data/releases/2015/cfj56-4ward-speed.json",
+        "data/releases/2016/dhr44-4ward-speed.json",
+        "data/releases/2025/jcl86-4ward-speed.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

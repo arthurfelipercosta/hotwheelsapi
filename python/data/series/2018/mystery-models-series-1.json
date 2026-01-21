@@ -2,12 +2,17 @@
     "series_id": "mystery-models-series-1",
     "year": 2018,
     "name": "Mystery Models (Series 1)",
-    "total_releases": 5,
+    "total_releases": 10,
     "max_index": 11,
     "releases": [
+        "data/releases/2018/fkx24-lancia-stratos.json",
+        "data/releases/2018/fkx25-f1-racer.json",
         "data/releases/2018/fkx26-corvette-grand-sport.json",
+        "data/releases/2018/fkx27-chicane.json",
         "data/releases/2018/fkx28-ford-gt.json",
+        "data/releases/2018/fkx29-13-copo-camaro.json",
         "data/releases/2018/fkx30-mazda-rx-7.json",
+        "data/releases/2018/fkx31-carbide.json",
         "data/releases/2018/fkx33-pass-n-gasser.json",
         "data/releases/2018/fkx34-super-volt.json"
     ]

@@ -1,0 +1,35 @@
+{
+    "release_id": "28016-67-pontiac-gto-2000",
+    "toy_number": "28016",
+    "casting_id": "67-pontiac-gto",
+    "year": 2000,
+    "series_id": "editor-s-choice",
+    "series_index": 5,
+    "specs": {
+        "color": "Metallic Blue",
+        "tampo": "White stripe",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "RR",
+            "1": "2000",
+            "2": "Hot Rod Magazine Test Car",
+            "3": "Gold Metallic",
+            "4": "Black roof",
+            "5": "Red 'Winner' on rear trunk",
+            "6": "'Hot Rod Magazine Test Car' on sides",
+            "7": "Black",
+            "8": "Plastic",
+            "9": "Clear",
+            "10": "RL5SP",
+            "11": "China"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/67_Pontiac_GTO_ECR.JPG/revision/latest/scale-to-width-down/75?cb=20100623051939"
+    }
+}

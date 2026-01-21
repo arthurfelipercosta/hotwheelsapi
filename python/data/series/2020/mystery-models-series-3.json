@@ -2,10 +2,18 @@
     "series_id": "mystery-models-series-3",
     "year": 2020,
     "name": "Mystery Models (Series 3)",
-    "total_releases": 2,
+    "total_releases": 10,
     "max_index": 1,
     "releases": [
+        "data/releases/2020/gjm60-dune-crusher.json",
+        "data/releases/2020/gjm61-rd-03.json",
+        "data/releases/2020/gjm63-formul8r.json",
+        "data/releases/2020/gjm64-rd-02.json",
+        "data/releases/2020/gjm65-flight-03.json",
+        "data/releases/2020/gjm66-carbide.json",
+        "data/releases/2020/gjm67-fast-master.json",
         "data/releases/2020/gjm68-datsun-240z.json",
-        "data/releases/2020/gjm69-corvette-c7-r.json"
+        "data/releases/2020/gjm69-corvette-c7-r.json",
+        "data/releases/2020/gjm70-vw-golf.json"
     ]
 }

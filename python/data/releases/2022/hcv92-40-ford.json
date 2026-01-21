@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv92-40-ford-2022",
+    "toy_number": "HCV92",
+    "casting_id": "40-ford",
+    "year": 2022,
+    "series_id": "hw-drag-strip",
+    "series_index": 1,
+    "specs": {
+        "color": "Sky blue",
+        "tampo": "Black and red accents, Comp Cams and Edelbrock logos on doors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Cherry",
+        "wheel_type": {
+            "0": "Chrome Gold 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): R14, R16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/HCV92.jpg/revision/latest/scale-to-width-down/75?cb=20220422143919"
+    }
+}

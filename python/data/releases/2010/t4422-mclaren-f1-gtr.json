@@ -1,0 +1,24 @@
+{
+    "release_id": "t4422-mclaren-f1-gtr-2010",
+    "toy_number": "T4422",
+    "casting_id": "mclaren-f1-gtr",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Blue Orange",
+        "tampo": "White McLaren on the sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray CM6"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/McLaren_F1_GTR_01.JPG/revision/latest/scale-to-width-down/75?cb=20140528165400"
+    }
+}

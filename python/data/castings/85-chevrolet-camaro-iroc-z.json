@@ -1,0 +1,37 @@
+{
+    "casting_id": "85-chevrolet-camaro-iroc-z",
+    "name": "'85 Chevrolet Camaro IROC-Z",
+    "description": {
+        "en-us": "'85 Chevrolet Camaro IROC-Z Debut series 2012 New Models Produced 2012 - Present Designer Brendon Vetuskey Number V5310",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5310-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2012/v5602-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2012/v5602-85-chevrolet-camaro-iroc-z-v2.json",
+        "data/releases/2012/y4539-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2013/x8928-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2013/x6999-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2013/x6999-85-chevrolet-camaro-iroc-z-v2.json",
+        "data/releases/2013/y2093-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2014/x6999-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2014/x6999-85-chevrolet-camaro-iroc-z-v2.json",
+        "data/releases/2016/x6999-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2016/dnf32-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2017/dwc88-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2018/fkv75-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2018/x6999-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2018/frf35-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2018/fwn23-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2020/gjv62-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2021/gtb40-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2021/gtc16-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2022/hdg59-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2023/hnl04-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2025/x6999-85-chevrolet-camaro-iroc-z.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Chevrolet"
+}

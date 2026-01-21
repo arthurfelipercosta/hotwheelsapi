@@ -2,9 +2,12 @@
     "series_id": "camouflage",
     "year": 2015,
     "name": "Camouflage",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 6,
     "releases": [
+        "data/releases/2015/dfl83-67-shelby-gt500.json",
+        "data/releases/2015/dfl84-12-camaro-zl1-concept.json",
+        "data/releases/2015/dfl85-68-chevy-nova.json",
         "data/releases/2015/dfl87-rodger-dodger.json"
     ]
 }

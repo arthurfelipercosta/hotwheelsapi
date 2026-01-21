@@ -1,0 +1,32 @@
+{
+    "casting_id": "hi-tech-missile",
+    "name": "Hi-Tech Missile",
+    "description": {
+        "en-us": "Hi-Tech Missile Debut series HW Race: X‑Raycers Produced 2014 - Present Designer Ryu Asada Number BDD10",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd10-hi-tech-missile-v2.json",
+        "data/releases/2014/bfg74-hi-tech-missile-v2.json",
+        "data/releases/2015/cfk81-hi-tech-missile-v2.json",
+        "data/releases/2016/drb32-hi-tech-missile-v2.json",
+        "data/releases/2016/djd26-hi-tech-missile-v2.json",
+        "data/releases/2016/dkf83-hi-tech-missile-v2.json",
+        "data/releases/2016/dkf86-hi-tech-missile-v2.json",
+        "data/releases/2017/fdt20-hi-tech-missile-v2.json",
+        "data/releases/2017/dty21-hi-tech-missile-v2.json",
+        "data/releases/2018/fkt65-hi-tech-missile-v2.json",
+        "data/releases/2020/ghd54-hi-tech-missile-v2.json",
+        "data/releases/2020/ghf30-hi-tech-missile-v2.json",
+        "data/releases/2021/gtn44-hi-tech-missile-v2.json",
+        "data/releases/2022/hfv87-hi-tech-missile-v2.json",
+        "data/releases/2023/hly69-hi-tech-missile-v2.json",
+        "data/releases/2024/dkf83-hi-tech-missile-v2.json",
+        "data/releases/2025/jbj74-jcp91-hi-tech-missile-v2.json",
+        "data/releases/2025/hpc05-hi-tech-missile-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

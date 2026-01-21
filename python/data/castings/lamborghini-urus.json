@@ -1,0 +1,21 @@
+{
+    "casting_id": "lamborghini-urus",
+    "name": "Lamborghini Urus",
+    "description": {
+        "en-us": "Lamborghini Urus Debut series HW City: Street Power Produced 2015 - Present Designer Ron Way Number CFG93",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfg93-lamborghini-urus.json",
+        "data/releases/2015/cfj72-lamborghini-urus.json",
+        "data/releases/2016/dhr48-lamborghini-urus.json",
+        "data/releases/2016/dhx44-lamborghini-urus.json",
+        "data/releases/2017/dwf29-lamborghini-urus.json",
+        "data/releases/2017/x6999-lamborghini-urus.json",
+        "data/releases/2022/hck16-lamborghini-urus.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Lamborghini"
+}

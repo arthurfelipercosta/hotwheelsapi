@@ -1,0 +1,24 @@
+{
+    "release_id": "hrw67-70-toyota-celica-2024",
+    "toy_number": "HRW67",
+    "casting_id": "70-toyota-celica",
+    "year": 2024,
+    "series_id": "neon-speeders",
+    "series_index": 1,
+    "specs": {
+        "color": "Neon Green",
+        "tampo": "Detailed headlights and taillights, psychedelic paint swirl, AEM logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "HCNS6"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S41, S44, S45, S48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/1970ToyotaCelica.jpg/revision/latest/scale-to-width-down/75?cb=20240212124120"
+    }
+}

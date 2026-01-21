@@ -1,0 +1,21 @@
+{
+    "casting_id": "dawgzilla",
+    "name": "Dawgzilla",
+    "description": {
+        "en-us": "Dawgzilla Debut series HW Hot Trucks Produced 2016 - Present Designer Ryu Asada Number DHP18",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp18-dawgzilla.json",
+        "data/releases/2016/dhw89-dawgzilla.json",
+        "data/releases/2017/dty57-dawgzilla.json",
+        "data/releases/2018/fkt54-dawgzilla.json",
+        "data/releases/2019/fyl25-dawgzilla.json",
+        "data/releases/2020/dhp18-dawgzilla.json",
+        "data/releases/2025/jdw07-dawgzilla.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

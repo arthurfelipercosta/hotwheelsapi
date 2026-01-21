@@ -1,0 +1,24 @@
+{
+    "release_id": "v5407-70-pontiac-gto-judge-2012",
+    "toy_number": "V5407",
+    "casting_id": "70-pontiac-gto-judge",
+    "year": 2012,
+    "series_id": "muscle-mania-gm",
+    "series_index": 4,
+    "specs": {
+        "color": "Metallic Dark Blue",
+        "tampo": "Orange & silver stripes, \"The Judge\", \"427\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D51, E02, E06, E07, E11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/2012-70PontiacGTOJodge-Blue.jpg/revision/latest/scale-to-width-down/75?cb=20120312025447"
+    }
+}

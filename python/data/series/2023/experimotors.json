@@ -2,16 +2,18 @@
     "series_id": "experimotors",
     "year": 2023,
     "name": "Experimotors",
-    "total_releases": 8,
-    "max_index": 3,
+    "total_releases": 10,
+    "max_index": 2,
     "releases": [
         "data/releases/2023/hkg26-draggin-wagon.json",
         "data/releases/2023/hkg33-hw-braille-racer-twin-mill.json",
         "data/releases/2023/hkj26-coupe-clip.json",
         "data/releases/2023/hkj27-gotta-go.json",
+        "data/releases/2023/hkj28-clip-rod.json",
         "data/releases/2023/hkk71-draggin-wagon.json",
         "data/releases/2023/hkk72-coupe-clip.json",
         "data/releases/2023/hkk73-gotta-go.json",
-        "data/releases/2023/hkk74-hw-braille-racer-twin-mill.json"
+        "data/releases/2023/hkk74-hw-braille-racer-twin-mill.json",
+        "data/releases/2023/hkk75-clip-rod.json"
     ]
 }

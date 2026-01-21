@@ -1,0 +1,20 @@
+{
+    "casting_id": "86-ford-thunderbird-pro-stock",
+    "name": "'86 Ford Thunderbird Pro Stock",
+    "description": {
+        "en-us": "'86 Ford Thunderbird Pro Stock Debut series The Hot Ones Produced 2012 - Present Designer Mike Nuttall Number W3779",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/w3779-86-ford-thunderbird-pro-stock.json",
+        "data/releases/2013/x8199-86-ford-thunderbird-pro-stock.json",
+        "data/releases/2023/hkh32-86-ford-thunderbird-pro-stock.json",
+        "data/releases/2023/hkk03-86-ford-thunderbird-pro-stock.json",
+        "data/releases/2024/hrx14-86-ford-thunderbird-pro-stock.json",
+        "data/releases/2024/hrt72-86-ford-thunderbird-pro-stock.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Ford"
+}

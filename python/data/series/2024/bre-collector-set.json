@@ -1,0 +1,11 @@
+{
+    "series_id": "bre-collector-set",
+    "year": 2024,
+    "name": "BRE Collector Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2024/hrt52-71-datsun-bluebird-510-wagon.json",
+        "data/releases/2024/hrt52-datsun-620.json"
+    ]
+}

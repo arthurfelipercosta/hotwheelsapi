@@ -1,0 +1,24 @@
+{
+    "release_id": "dht01-10-camaro-ss-2016",
+    "toy_number": "DHT01",
+    "casting_id": "10-camaro-ss",
+    "year": 2016,
+    "series_id": "hw-rescue",
+    "series_index": 1,
+    "specs": {
+        "color": "Black",
+        "tampo": "White & Blue stripes on sides & hood, 'HWPD' on sides & back, police logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Chrome Red & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J09, J16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/%2710_Camaro_SS_package_front.png/revision/latest/scale-to-width-down/75?cb=20160503170944"
+    }
+}

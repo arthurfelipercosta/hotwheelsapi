@@ -1,0 +1,26 @@
+{
+    "release_id": "htd56-57-chevy-2024",
+    "toy_number": "HTD56",
+    "casting_id": "57-chevy",
+    "year": 2024,
+    "series_id": "hw-art-cars",
+    "series_index": 6,
+    "specs": {
+        "color": "Metalflake Light Green",
+        "tampo": "Black Letter grid puzzle-styled tampos around the body, featuring the words \"CHEVY BEL AIR\", \"HOT WHEELS\", \"CARS\", numbers \"57\", \"68\", \"24\", with the highlighted letter \"T\", and the Hot Wheels logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Teal",
+        "wheel_type": {
+            "0": "Whitewall",
+            "1": "White",
+            "2": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T19, T20, T22, T25, T21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/HTD56.jpg/revision/latest/scale-to-width-down/75?cb=20250222214417"
+    }
+}

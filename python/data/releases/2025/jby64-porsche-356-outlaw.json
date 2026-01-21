@@ -1,0 +1,24 @@
+{
+    "release_id": "jby64-porsche-356-outlaw-2025",
+    "toy_number": "JBY64",
+    "casting_id": "porsche-356-outlaw",
+    "year": 2025,
+    "series_id": "ultra-hots",
+    "series_index": 5,
+    "specs": {
+        "color": "Spectraflame green",
+        "tampo": "Detailed headlights and taillights, afterburner flame tampos, white accent striping, Porsche wordmark on doors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "UH"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T33, T35, T36, T37, T39, T42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/45/JBY64.jpg/revision/latest/scale-to-width-down/75?cb=20241226095918"
+    }
+}

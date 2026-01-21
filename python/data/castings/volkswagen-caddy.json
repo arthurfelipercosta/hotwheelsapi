@@ -1,0 +1,31 @@
+{
+    "casting_id": "volkswagen-caddy",
+    "name": "Volkswagen Caddy",
+    "description": {
+        "en-us": "Volkswagen Caddy Debut series HW Off-Road: HW Hot Trucks Produced 2015 - Present Designer Felix Holst Number CFV19",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfv19-volkswagen-caddy.json",
+        "data/releases/2015/cfv19-volkswagen-caddy-v2.json",
+        "data/releases/2015/cfl63-volkswagen-caddy.json",
+        "data/releases/2016/dhr28-volkswagen-caddy.json",
+        "data/releases/2017/dvg00-volkswagen-caddy.json",
+        "data/releases/2018/fkt63-volkswagen-caddy.json",
+        "data/releases/2018/flc21-volkswagen-caddy.json",
+        "data/releases/2019/fyd59-volkswagen-caddy.json",
+        "data/releases/2019/fyg73-volkswagen-caddy.json",
+        "data/releases/2019/gbd65-volkswagen-caddy.json",
+        "data/releases/2020/gjx05-volkswagen-caddy.json",
+        "data/releases/2022/hdh44-volkswagen-caddy.json",
+        "data/releases/2023/hlj30-volkswagen-caddy.json",
+        "data/releases/2023/hkf13-volkswagen-caddy.json",
+        "data/releases/2024/hrx57-volkswagen-caddy.json",
+        "data/releases/2025/jcb69-volkswagen-caddy.json",
+        "data/releases/2026/jkx48-volkswagen-caddy.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Volkswagen"
+}

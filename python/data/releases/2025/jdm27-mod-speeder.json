@@ -1,0 +1,24 @@
+{
+    "release_id": "jdm27-mod-speeder-2025",
+    "toy_number": "JDM27",
+    "casting_id": "mod-speeder",
+    "year": 2025,
+    "series_id": "purple-and-gold",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Plum",
+        "tampo": "Hot Wheels logo, \"57\", \"HWGRFX\", and gold & purple stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gold chrome",
+        "wheel_type": {
+            "0": "Chrome Gold TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U05N, U17N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/Purple_and_Gold_Mod_Speeder.jpg/revision/latest/scale-to-width-down/75?cb=20250810020403"
+    }
+}

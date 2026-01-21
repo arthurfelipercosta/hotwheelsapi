@@ -1,0 +1,25 @@
+{
+    "release_id": "p2464-70-mustang-mach-1-2009",
+    "toy_number": "P2464",
+    "casting_id": "70-mustang-mach-1",
+    "year": 2009,
+    "series_id": "rebel-rides",
+    "series_index": 8,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "Silver outlined Black Flames, Cobra logo and logo on sides. Silver and Black stripe on hood, detailed hood pins.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/Mach1_purple.JPG/revision/latest/scale-to-width-down/75?cb=20091201221601"
+    }
+}

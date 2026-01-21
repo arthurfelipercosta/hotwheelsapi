@@ -1,0 +1,25 @@
+{
+    "release_id": "cfm38-lamborghini-gallardo-lp-570-4-superleggera-2017",
+    "toy_number": "CFM38",
+    "casting_id": "lamborghini-gallardo-lp-570-4-superleggera",
+    "year": 2017,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "Warm: White Cold: Salmon Pink",
+        "tampo": "Black & White stripes, HW Logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named Lamborghini Gallardo LP 570-4 Base code(s): L05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/LamboWarmCFM38.jpg/revision/latest/scale-to-width-down/75?cb=20151027223543"
+    }
+}

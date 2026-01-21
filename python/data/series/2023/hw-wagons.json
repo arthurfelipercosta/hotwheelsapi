@@ -2,10 +2,15 @@
     "series_id": "hw-wagons",
     "year": 2023,
     "name": "HW Wagons",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 1,
     "releases": [
         "data/releases/2023/hkh69-17-audi-rs6-avant.json",
+        "data/releases/2023/hkh70-64-chevy-nova-wagon.json",
+        "data/releases/2023/hkh71-jack-hammer.json",
+        "data/releases/2023/hkh72-71-datsun-bluebird-510-wagon.json",
+        "data/releases/2023/hkh73-classic-nomad.json",
+        "data/releases/2023/hkl15-71-datsun-bluebird-510-wagon.json",
         "data/releases/2023/hkl41-17-audi-rs6-avant.json"
     ]
 }

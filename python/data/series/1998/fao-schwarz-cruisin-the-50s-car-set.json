@@ -2,9 +2,11 @@
     "series_id": "fao-schwarz-cruisin-the-50s-car-set",
     "year": 1998,
     "name": "FAO Schwarz Cruisin' the '50s Car Set",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
+        "data/releases/1998/19758-57-chevy.json",
+        "data/releases/1998/19758-classic-nomad.json",
         "data/releases/1998/19758-purple-passion.json"
     ]
 }

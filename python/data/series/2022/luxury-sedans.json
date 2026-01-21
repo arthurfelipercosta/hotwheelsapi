@@ -1,0 +1,14 @@
+{
+    "series_id": "luxury-sedans",
+    "year": 2022,
+    "name": "Luxury Sedans",
+    "total_releases": 5,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2022/hdh12-porsche-panamera-turbo-s-e-hybrid-sport-turismo.json",
+        "data/releases/2022/hdh13-lamborghini-estoque.json",
+        "data/releases/2022/hdh14-tesla-model-3.json",
+        "data/releases/2022/hdh15-jaguar-xe-sv-project-8.json",
+        "data/releases/2022/hdh16-09-cadillac-cts-v.json"
+    ]
+}

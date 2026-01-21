@@ -2,11 +2,25 @@
     "series_id": "checkmate",
     "year": 2018,
     "name": "Checkmate",
-    "total_releases": 3,
+    "total_releases": 17,
     "max_index": 1,
     "releases": [
         "data/releases/2018/fjx55-king-kuda.json",
+        "data/releases/2018/fjx56-velocita.json",
+        "data/releases/2018/fjx57-07-ford-mustang.json",
+        "data/releases/2018/fjx58-cloak-and-dagger.json",
+        "data/releases/2018/fjx59-fandango.json",
+        "data/releases/2018/fjx60-fast-4wd.json",
+        "data/releases/2018/fjx61-audacious.json",
+        "data/releases/2018/fjx63-12-ford-fiesta.json",
+        "data/releases/2018/fjy30-fandango.json",
+        "data/releases/2018/fjy72-cloak-and-dagger.json",
+        "data/releases/2018/fjy92-07-ford-mustang.json",
+        "data/releases/2018/fjy93-fast-4wd.json",
+        "data/releases/2018/fjy94-12-ford-fiesta.json",
         "data/releases/2018/fkb09-king-kuda.json",
-        "data/releases/2018/fkb46-king-kuda.json"
+        "data/releases/2018/fkb13-velocita.json",
+        "data/releases/2018/fkb46-king-kuda.json",
+        "data/releases/2018/fkb54-audacious.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "v5577-dodge-challenger-drift-car-2012",
+    "toy_number": "V5577",
+    "casting_id": "dodge-challenger-drift-car",
+    "year": 2012,
+    "series_id": "hw-code-cars",
+    "series_index": 4,
+    "specs": {
+        "color": "White",
+        "tampo": "Mopar Racing Graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue",
+        "interior_color": "Dark Grey",
+        "wheel_type": {
+            "0": "Blue Chrome PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D48, E05, E08, E16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Dodge_challenger_drift_car_2012_white.png/revision/latest/scale-to-width-down/75?cb=20120303173016"
+    }
+}

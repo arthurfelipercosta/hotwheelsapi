@@ -2,9 +2,11 @@
     "series_id": "corvette-5-pack",
     "year": 2012,
     "name": "Corvette 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
+        "data/releases/2012/w4245-69-copo-corvette.json",
+        "data/releases/2012/w4245-corvette-c6r.json",
         "data/releases/2012/w4245-corvette-grand-sport.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "hcw52-volkswagen-baja-bug-2022",
+    "toy_number": "HCW52",
+    "casting_id": "volkswagen-baja-bug",
+    "year": 2022,
+    "series_id": "mud-studs",
+    "series_index": 5,
+    "specs": {
+        "color": "Aqua",
+        "tampo": "Yellow, orange and white accents, Hot Wheels, Eibach and Hella logos on sides, mud splatter",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "White & \"Muddy\" OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Modified Casting Base code(s): R07, R09, R10, R11, R12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/BajaBug.jpg/revision/latest/scale-to-width-down/75?cb=20221112035123"
+    }
+}

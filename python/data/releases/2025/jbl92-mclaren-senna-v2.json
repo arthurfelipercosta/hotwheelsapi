@@ -1,0 +1,24 @@
+{
+    "release_id": "jbl92-mclaren-senna-2025",
+    "toy_number": "JBL92",
+    "casting_id": "mclaren-senna",
+    "year": 2025,
+    "series_id": "fast-furious",
+    "series_index": 5,
+    "specs": {
+        "color": "Mira Orange",
+        "tampo": "Detailed headlights, taillights and trim",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T38, T39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/2019McLarenSenna.jpg/revision/latest/scale-to-width-down/75?cb=20241223075641"
+    }
+}

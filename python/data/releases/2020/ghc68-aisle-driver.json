@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc68-aisle-driver-2020",
+    "toy_number": "GHC68",
+    "casting_id": "aisle-driver",
+    "year": 2020,
+    "series_id": "hw-ride-ons",
+    "series_index": 2,
+    "specs": {
+        "color": "Silver",
+        "tampo": "\"Supermarket Circuit,\" Hot Wheels logo, \"10\" racing number, and Black, Yellow, and Blue flames",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Yellow & Black OH5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M45, M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/2020_Aisle_Driver_.JPG/revision/latest/scale-to-width-down/75?cb=20200620035604"
+    }
+}

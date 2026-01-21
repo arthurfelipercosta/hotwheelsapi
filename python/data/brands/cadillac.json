@@ -1,0 +1,21 @@
+{
+    "brand_id": "cadillac",
+    "name": "Cadillac",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/07-cadillac-escalade.json",
+        "data/castings/09-cadillac-cts-v.json",
+        "data/castings/16-cadillac-ats-v-r.json",
+        "data/castings/cadillac-elmiraj.json",
+        "data/castings/cadillac-project-gtp-hypercar.json",
+        "data/castings/cadillac-seville.json",
+        "data/castings/cadillac-sixteen.json",
+        "data/castings/custom-53-cadillac.json",
+        "data/castings/custom-cadillac-fleetwood.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Cadillac vehicles.",
+        "pt-br": "Fabricante de veículos Cadillac."
+    }
+}

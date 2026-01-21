@@ -1,0 +1,24 @@
+{
+    "release_id": "hkd22-95-mazda-rx-7-2023",
+    "toy_number": "HKD22",
+    "casting_id": "95-mazda-rx-7",
+    "year": 2023,
+    "series_id": "fast-furious",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights and taillights, \"HKS Power\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Dark Gray RR5SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named Mazda RX-7 FD Base code(s): R44, R47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Mazda_RX-7_FD_Fast_%26_Furious_Premium_Series_2023.jpg/revision/latest/scale-to-width-down/75?cb=20230203060948"
+    }
+}

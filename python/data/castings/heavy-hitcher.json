@@ -1,0 +1,25 @@
+{
+    "casting_id": "heavy-hitcher",
+    "name": "Heavy Hitcher",
+    "description": {
+        "en-us": "Heavy Hitcher Debut series HW Metro Produced 2019 - Present Designer Ryu Asada Number FYB59",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb59-heavy-hitcher-v2.json",
+        "data/releases/2019/fyf25-heavy-hitcher-v2.json",
+        "data/releases/2020/ghb98-heavy-hitcher-v2.json",
+        "data/releases/2020/ghf66-heavy-hitcher-v2.json",
+        "data/releases/2021/grx80-heavy-hitcher-v2.json",
+        "data/releases/2021/gtc28-heavy-hitcher-v2.json",
+        "data/releases/2022/hfv86-heavy-hitcher-v2.json",
+        "data/releases/2023/hkj24-heavy-hitcher-v2.json",
+        "data/releases/2024/htb16-heavy-hitcher-v2.json",
+        "data/releases/2024/htd68-heavy-hitcher-v2.json",
+        "data/releases/2026/jkg09-heavy-hitcher-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

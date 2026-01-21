@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-sports-5-pack",
+    "year": 2022,
+    "name": "HW Sports 5‑Pack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2022/hfv78-quad-rod.json",
+        "data/releases/2022/hfv78-rockster.json",
+        "data/releases/2022/hfv78-skate-grom.json",
+        "data/releases/2022/hfv78-subaru-brat.json",
+        "data/releases/2022/hfv78-tour-de-fast.json"
+    ]
+}

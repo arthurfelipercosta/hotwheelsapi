@@ -1,0 +1,24 @@
+{
+    "release_id": "bfd04-meyers-manx-2014",
+    "toy_number": "BFD04",
+    "casting_id": "meyers-manx",
+    "year": 2014,
+    "series_id": "hw-off-road-off-track",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "White, Black & Orange stripes, Grey checkerboard pattern on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F34, F35, F36, F37, F38, F39, F40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/Meyers_Manx-2014_114.jpg/revision/latest/scale-to-width-down/75?cb=20131110154644"
+    }
+}

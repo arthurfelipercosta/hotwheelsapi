@@ -1,0 +1,22 @@
+{
+    "casting_id": "mclaren-f1",
+    "name": "McLaren F1",
+    "description": {
+        "en-us": "McLaren F1 Debut series HW Exotics Produced 2021 – Present Designer Ryu Asada Number GRX57",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx57-mclaren-f1.json",
+        "data/releases/2022/hct93-mclaren-f1.json",
+        "data/releases/2022/hck08-mclaren-f1.json",
+        "data/releases/2023/hrx22-mclaren-f1.json",
+        "data/releases/2024/hkc77-mclaren-f1.json",
+        "data/releases/2024/htb11-mclaren-f1.json",
+        "data/releases/2024/hwf36-mclaren-f1.json",
+        "data/releases/2025/jbm07-mclaren-f1.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "McLaren"
+}

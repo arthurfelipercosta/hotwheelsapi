@@ -2,9 +2,11 @@
     "series_id": "x-games-5-pack",
     "year": 2014,
     "name": "X-Games 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2014/bfb38-2008-lancer-evolution.json"
+        "data/releases/2014/bfb38-2008-lancer-evolution.json",
+        "data/releases/2014/bfb38-da-kar.json",
+        "data/releases/2014/bfb38-tred-shredder.json"
     ]
 }

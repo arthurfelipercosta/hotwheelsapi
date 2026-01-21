@@ -1,0 +1,14 @@
+{
+    "series_id": "mainline",
+    "year": 1988,
+    "name": "Mainline",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1988/2535-classic-cobra.json",
+        "data/releases/1988/2541-jeep-scrambler.json",
+        "data/releases/1988/3259-jeep-cj-7.json",
+        "data/releases/1988/3954-jeep-cj-7.json",
+        "data/releases/1988/4001-fire-eater.json"
+    ]
+}

@@ -2,10 +2,19 @@
     "series_id": "55th-anniversary-black-and-yellow",
     "year": 2023,
     "name": "55th Anniversary Black and Yellow",
-    "total_releases": 2,
+    "total_releases": 11,
     "max_index": 3,
     "releases": [
+        "data/releases/2023/hlj96-96-nissan-180sx-type-x.json",
+        "data/releases/2023/hlj97-92-bmw-m3.json",
+        "data/releases/2023/hlj99-range-rover-classic.json",
+        "data/releases/2023/hlk00-66-chevy-nova.json",
+        "data/releases/2023/hlk01-15-dodge-challenger-srt.json",
         "data/releases/2023/hlk02-67-chevy-c10.json",
-        "data/releases/2023/hlk05-mercedes-benz-unimog-1300l.json"
+        "data/releases/2023/hlk04-twin-mill.json",
+        "data/releases/2023/hlk05-mercedes-benz-unimog-1300l.json",
+        "data/releases/2023/hlk06-porsche-993-gt2.json",
+        "data/releases/2023/hlk07-custom-01-acura-integra-gsr.json",
+        "data/releases/2023/hlk08-67-camaro.json"
     ]
 }

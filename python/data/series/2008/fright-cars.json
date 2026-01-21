@@ -1,0 +1,15 @@
+{
+    "series_id": "fright-cars",
+    "year": 2008,
+    "name": "Fright Cars",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2008/n1168-phastasm.json",
+        "data/releases/2008/n1170-eevil-weevil.json",
+        "data/releases/2008/n1171-cockney-cab-ii.json",
+        "data/releases/2008/n1172-fast-fortress.json",
+        "data/releases/2008/n1173-64-lincoln-continental.json",
+        "data/releases/2008/n1175-pharodox.json"
+    ]
+}

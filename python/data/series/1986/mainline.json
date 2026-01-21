@@ -2,9 +2,11 @@
     "series_id": "mainline",
     "year": 1986,
     "name": "Mainline",
-    "total_releases": 2,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
+        "data/releases/1986/2535-classic-cobra.json",
+        "data/releases/1986/2539-jeep-cj-7.json",
         "data/releases/1986/5904-good-humor-truck.json",
         "data/releases/1986/5904-good-humor-truck.json"
     ]

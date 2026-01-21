@@ -2,11 +2,23 @@
     "series_id": "nightburnerz",
     "year": 2017,
     "name": "Nightburnerz",
-    "total_releases": 3,
-    "max_index": 6,
+    "total_releases": 15,
+    "max_index": 4,
     "releases": [
+        "data/releases/2017/dtw99-17-nissan-gt-r-r35.json",
+        "data/releases/2017/dtw99-17-nissan-gt-r-r35.json",
+        "data/releases/2017/dtx62-porsche-356-outlaw.json",
+        "data/releases/2017/dty76-17-ford-gt.json",
+        "data/releases/2017/dty77-nissan-fairlady-z.json",
         "data/releases/2017/dty78-90-acura-nsx.json",
         "data/releases/2017/dty80-porsche-911-gt3-rs.json",
-        "data/releases/2017/dvc36-90-acura-nsx.json"
+        "data/releases/2017/dty81-70-chevy-chevelle-ss.json",
+        "data/releases/2017/dty83-nissan-skyline-h-t-2000gt-x.json",
+        "data/releases/2017/dty84-porsche-934-turbo-rsr.json",
+        "data/releases/2017/dvc35-17-ford-gt.json",
+        "data/releases/2017/dvc36-90-acura-nsx.json",
+        "data/releases/2017/dvc37-70-chevy-chevelle-ss.json",
+        "data/releases/2017/dvc50-17-nissan-gt-r-r35.json",
+        "data/releases/2017/dvc94-nissan-fairlady-z.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "fyf86-custom-ford-maverick-2019",
+    "toy_number": "FYF86",
+    "casting_id": "custom-ford-maverick",
+    "year": 2019,
+    "series_id": "muscle-mania",
+    "series_index": 1,
+    "specs": {
+        "color": "Gloss Silver",
+        "tampo": "Dark Blue, Blue & Orange stripes, White \"GReddy\" logos on sides and front, \"94\" race number",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): M16, M17, M18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/Custom_Ford_Maverick._2019_Muscle_Mania._MTFK_Gray._Greddy.jpg/revision/latest/scale-to-width-down/75?cb=20190713192031"
+    }
+}

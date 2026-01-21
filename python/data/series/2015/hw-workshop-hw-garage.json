@@ -2,12 +2,28 @@
     "series_id": "hw-workshop-hw-garage",
     "year": 2015,
     "name": "HW Workshop: HW Garage",
-    "total_releases": 4,
+    "total_releases": 20,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfg74-lotus-esprit-s1.json",
+        "data/releases/2015/cfh03-tesla-model-s.json",
         "data/releases/2015/cfh16-90-acura-nsx.json",
+        "data/releases/2015/cfh18-70-ford-escort-rs1600.json",
+        "data/releases/2015/cfh19-lamborghini-hurac-n-lp-610-4.json",
+        "data/releases/2015/cfh20-mclaren-p1.json",
+        "data/releases/2015/cfh28-fast-bed-hauler.json",
         "data/releases/2015/cfh38-8-crate.json",
+        "data/releases/2015/cfh62-porsche-934-turbo-rsr.json",
+        "data/releases/2015/cfj03-14-corvette-stingray-convertible.json",
         "data/releases/2015/cfj43-8-crate.json",
-        "data/releases/2015/cfl28-90-acura-nsx.json"
+        "data/releases/2015/cfj67-porsche-934-turbo-rsr.json",
+        "data/releases/2015/cfj74-lotus-esprit-s1.json",
+        "data/releases/2015/cfj91-fast-bed-hauler.json",
+        "data/releases/2015/cfl28-90-acura-nsx.json",
+        "data/releases/2015/cfl29-mclaren-p1.json",
+        "data/releases/2015/cfl30-70-ford-escort-rs1600.json",
+        "data/releases/2015/cfl36-tesla-model-s.json",
+        "data/releases/2015/cfl39-lamborghini-hurac-n-lp-610-4.json",
+        "data/releases/2015/cfl79-14-corvette-stingray-convertible.json"
     ]
 }

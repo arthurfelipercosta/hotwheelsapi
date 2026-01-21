@@ -1,0 +1,24 @@
+{
+    "release_id": "ftx88-hemi-cuda-2018",
+    "toy_number": "FTX88",
+    "casting_id": "hemi-cuda",
+    "year": 2018,
+    "series_id": "50th-anniversary-originals",
+    "series_index": 5,
+    "specs": {
+        "color": "Spectraflame Green",
+        "tampo": "50th Anniversary Logo on door, black stripe on top & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Light Green",
+        "wheel_type": {
+            "0": "RL"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K46,K48, L02, L03, L09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/2018_68_Hemi_Barracuda_50th.jpg/revision/latest/scale-to-width-down/75?cb=20190304193928"
+    }
+}

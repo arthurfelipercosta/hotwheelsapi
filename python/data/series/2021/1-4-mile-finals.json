@@ -1,0 +1,13 @@
+{
+    "series_id": "1-4-mile-finals",
+    "year": 2021,
+    "name": "1/4 Mile Finals",
+    "total_releases": 4,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2021/grp28-mclaren-senna.json",
+        "data/releases/2021/grp29-18-dodge-challenger-srt-demon.json",
+        "data/releases/2021/grp30-porsche-918-spyder.json",
+        "data/releases/2021/grp31-lamborghini-aventador-lp-700-4.json"
+    ]
+}

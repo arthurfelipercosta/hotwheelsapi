@@ -1,0 +1,11 @@
+{
+    "series_id": "sega-games",
+    "year": 2003,
+    "name": "Sega Games",
+    "total_releases": 2,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2003/57247-fandango.json",
+        "data/releases/2003/57248-phaeton.json"
+    ]
+}

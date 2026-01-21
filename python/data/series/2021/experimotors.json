@@ -2,15 +2,26 @@
     "series_id": "experimotors",
     "year": 2021,
     "name": "Experimotors",
-    "total_releases": 7,
-    "max_index": 8,
+    "total_releases": 18,
+    "max_index": 2,
     "releases": [
+        "data/releases/2021/grx42-see-me-rollin.json",
+        "data/releases/2021/grx43-custom-small-block.json",
+        "data/releases/2021/grx72-tanknator.json",
         "data/releases/2021/grx73-carbonator.json",
+        "data/releases/2021/grx74-the-haulinator.json",
         "data/releases/2021/grx75-hw-formula-solar.json",
+        "data/releases/2021/grx76-clip-rod.json",
+        "data/releases/2021/grx77-loopster.json",
         "data/releases/2021/grx78-speed-driver.json",
+        "data/releases/2021/gtb61-see-me-rollin.json",
+        "data/releases/2021/gtb62-custom-small-block.json",
         "data/releases/2021/gtc18-carbonator.json",
+        "data/releases/2021/gtc23-tanknator.json",
+        "data/releases/2021/gtc24-clip-rod.json",
         "data/releases/2021/gtc25-speed-driver.json",
         "data/releases/2021/gtc27-hw-formula-solar.json",
+        "data/releases/2021/gtc80-loopster.json",
         "data/releases/2021/gtc87-skull-shaker.json"
     ]
 }

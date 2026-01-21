@@ -2,13 +2,25 @@
     "series_id": "experimotors",
     "year": 2017,
     "name": "Experimotors",
-    "total_releases": 5,
+    "total_releases": 17,
     "max_index": 2,
     "releases": [
+        "data/releases/2017/dtw97-70-dodge-charger.json",
+        "data/releases/2017/dtx07-sky-dome.json",
         "data/releases/2017/dtx09-el-viento.json",
         "data/releases/2017/dtx18-gotta-go.json",
+        "data/releases/2017/dtx20-emoticar.json",
+        "data/releases/2017/dtx22-the-embosser.json",
+        "data/releases/2017/dtx39-turbot.json",
         "data/releases/2017/dtx40-crate-racer.json",
+        "data/releases/2017/dtx41-fast-cash.json",
+        "data/releases/2017/dvb26-sky-dome.json",
         "data/releases/2017/dvb27-el-viento.json",
-        "data/releases/2017/dvb31-crate-racer.json"
+        "data/releases/2017/dvb28-emoticar.json",
+        "data/releases/2017/dvb29-the-embosser.json",
+        "data/releases/2017/dvb30-turbot.json",
+        "data/releases/2017/dvb31-crate-racer.json",
+        "data/releases/2017/dvc01-tooligan.json",
+        "data/releases/2017/dvd00-tooligan.json"
     ]
 }

@@ -2,9 +2,14 @@
     "series_id": "mystery-models",
     "year": 2015,
     "name": "Mystery Models",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 9,
     "releases": [
+        "data/releases/2015/cjx55-sling-shot.json",
+        "data/releases/2015/cjx89-pony-up.json",
+        "data/releases/2015/cjx92-40-somethin.json",
+        "data/releases/2015/cjx98-ford-shelby-cobra-concept.json",
+        "data/releases/2015/cjx99-torque-twister.json",
         "data/releases/2015/y8127-deora-ii.json"
     ]
 }

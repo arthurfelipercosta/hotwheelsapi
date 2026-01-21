@@ -1,0 +1,12 @@
+{
+    "series_id": "car-culture-british-horsepower",
+    "year": 2021,
+    "name": "Car Culture: British Horsepower",
+    "total_releases": 3,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2021/grj59-mini-cooper.json",
+        "data/releases/2021/grj61-lotus-esprit-s1.json",
+        "data/releases/2021/grj62-mclaren-f1-gtr.json"
+    ]
+}

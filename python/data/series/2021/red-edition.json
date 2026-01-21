@@ -2,13 +2,19 @@
     "series_id": "red-edition",
     "year": 2021,
     "name": "Red Edition",
-    "total_releases": 6,
-    "max_index": 2,
+    "total_releases": 12,
+    "max_index": 12,
     "releases": [
+        "data/releases/2021/gtd49-toyota-baja-truck.json",
         "data/releases/2021/gtd50-triumph-tr6.json",
+        "data/releases/2021/gtd51-32-ford.json",
+        "data/releases/2021/gtd52-kool-kombi.json",
+        "data/releases/2021/gtd53-corvette-c8-r.json",
         "data/releases/2021/gtd54-70-dodge-power-wagon.json",
+        "data/releases/2021/gtd55-19-corvette-zr1-convertible.json",
         "data/releases/2021/gtd56-19-chevy-silverado-trail-boss-lt.json",
         "data/releases/2021/gtd57-carbonator.json",
+        "data/releases/2021/gtd58-toyota-land-cruiser.json",
         "data/releases/2021/gtd59-2020-koenigsegg-jesko.json",
         "data/releases/2021/gtd60-donut-drifter.json"
     ]

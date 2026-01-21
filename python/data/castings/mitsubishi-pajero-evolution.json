@@ -1,0 +1,20 @@
+{
+    "casting_id": "mitsubishi-pajero-evolution",
+    "name": "Mitsubishi Pajero Evolution",
+    "description": {
+        "en-us": "Mitsubishi Pajero Evolution Debut series Mud Studs Produced 2023 – Present Designer Dmitriy Shakhmatov Number HKG47",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg47-mitsubishi-pajero-evolution.json",
+        "data/releases/2023/hkk36-mitsubishi-pajero-evolution.json",
+        "data/releases/2024/htc45-mitsubishi-pajero-evolution.json",
+        "data/releases/2024/htf38-mitsubishi-pajero-evolution.json",
+        "data/releases/2024/hrv89-mitsubishi-pajero-evolution.json",
+        "data/releases/2025/jbl26-mitsubishi-pajero-evolution.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mitsubishi"
+}

@@ -1,0 +1,20 @@
+{
+    "casting_id": "batman-forever-batmobile",
+    "name": "Batman Forever Batmobile",
+    "description": {
+        "en-us": "Batman Forever Batmobile Debut series Batman Produced 2023 – Present Designer Ronald Wong Number HKG38",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg38-batman-forever-batmobile.json",
+        "data/releases/2023/hkj73-batman-forever-batmobile.json",
+        "data/releases/2024/htf19-batman-forever-batmobile.json",
+        "data/releases/2024/jbx17-batman-forever-batmobile.json",
+        "data/releases/2024/hvj39-batman-forever-batmobile.json",
+        "data/releases/2025/jby22-batman-forever-batmobile.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

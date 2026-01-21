@@ -1,0 +1,24 @@
+{
+    "release_id": "x6999-nissan-skyline-rs-kdr30-2022",
+    "toy_number": "X6999",
+    "casting_id": "nissan-skyline-rs-kdr30",
+    "year": 2022,
+    "series_id": "multipack-exclusive",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "\"RS TURBO\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R04, R05, R10, R39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/Hotwheels_skyline_r30.jpeg/revision/latest/scale-to-width-down/75?cb=20220615085845"
+    }
+}

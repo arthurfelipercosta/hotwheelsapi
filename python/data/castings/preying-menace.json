@@ -1,0 +1,32 @@
+{
+    "casting_id": "preying-menace",
+    "name": "Preying Menace",
+    "description": {
+        "en-us": "Preying Menace Debut series 2006 First Editions Produced 2006 - Present Designer Rob Matthes Number J3259",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2006/j3259-preying-menace-v4.json",
+        "data/releases/2006/j3259-preying-menace-v5.json",
+        "data/releases/2006/j3259-preying-menace-v6.json",
+        "data/releases/2007/k7582-preying-menace-v2.json",
+        "data/releases/2008/l9965-preying-menace-v2.json",
+        "data/releases/2011/v2369-preying-menace-v2.json",
+        "data/releases/2012/w4667-preying-menace-v3.json",
+        "data/releases/2012/w4667-preying-menace-v4.json",
+        "data/releases/2013/x9860-preying-menace-v2.json",
+        "data/releases/2015/cfh53-preying-menace-v2.json",
+        "data/releases/2015/cfm05-preying-menace-v2.json",
+        "data/releases/2018/fkt51-preying-menace-v2.json",
+        "data/releases/2021/gry50-preying-menace-v2.json",
+        "data/releases/2021/gtc35-preying-menace-v2.json",
+        "data/releases/2022/x6999-preying-menace-v2.json",
+        "data/releases/2023/hlr38-preying-menace-v2.json",
+        "data/releases/2024/x6999-preying-menace-v2.json",
+        "data/releases/2025/x6999-preying-menace-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2006,
+    "manufacturer": "Mattel"
+}

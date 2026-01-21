@@ -1,0 +1,12 @@
+{
+    "series_id": "fast-four-scavenger-hunts",
+    "year": 2015,
+    "name": "Fast Four: Scavenger Hunts",
+    "total_releases": 3,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2015/cfk11-power-pipes.json",
+        "data/releases/2015/cfk12-11-dodge-charger-r-t.json",
+        "data/releases/2015/cfk13-growler.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hkf16-98-subaru-impreza-22b-sti-version-2023",
+    "toy_number": "HKF16",
+    "casting_id": "98-subaru-impreza-22b-sti-version",
+    "year": 2023,
+    "series_id": "hot-wheels-boulevard-69",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake yellow",
+        "tampo": "Detailed headlights and taillights, badges and trim",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray RR5SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): R51, S01, S02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Subaru22B.jpg/revision/latest/scale-to-width-down/75?cb=20230213150713"
+    }
+}

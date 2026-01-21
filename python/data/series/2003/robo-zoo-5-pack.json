@@ -2,9 +2,11 @@
     "series_id": "robo-zoo-5-pack",
     "year": 2003,
     "name": "Robo Zoo 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
+        "data/releases/2003/57036-40-ford.json",
+        "data/releases/2003/57036-57-chevy.json",
         "data/releases/2003/57036-purple-passion.json"
     ]
 }

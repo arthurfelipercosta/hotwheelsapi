@@ -1,0 +1,24 @@
+{
+    "release_id": "gtn33-16-bugatti-chiron-2021",
+    "toy_number": "GTN33",
+    "casting_id": "16-bugatti-chiron",
+    "year": 2021,
+    "series_id": "hw-exotics-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Agile Blue",
+        "tampo": "Silver trim on sides & front, Detailed Grille & Bugatti badge",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White Y5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): N30, N31, N36, N49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Bugatti_Chiron_2020_5-pack.jpg/revision/latest/scale-to-width-down/75?cb=20201124111929"
+    }
+}

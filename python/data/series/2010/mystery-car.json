@@ -2,12 +2,23 @@
     "series_id": "mystery-car",
     "year": 2010,
     "name": "Mystery Car",
-    "total_releases": 4,
+    "total_releases": 15,
     "max_index": 22,
     "releases": [
+        "data/releases/2010/r7471-fast-felion.json",
         "data/releases/2010/r7474-70-dodge-hemi-challenger.json",
+        "data/releases/2010/r7474-rigor-motor.json",
+        "data/releases/2010/r7476-nissan-skyline-gt-r-r32.json",
+        "data/releases/2010/r7477-formul8r.json",
+        "data/releases/2010/r7482-16-angels.json",
         "data/releases/2010/r7483-lotus-sport-elise.json",
+        "data/releases/2010/r7484-zotic.json",
+        "data/releases/2010/r7486-surf-crate.json",
+        "data/releases/2010/r7487-nissan-350z.json",
         "data/releases/2010/r7488-69-dodge-coronet-superbee.json",
-        "data/releases/2010/r7491-purple-passion.json"
+        "data/releases/2010/r7489-hemi-cuda.json",
+        "data/releases/2010/r7490-honda-civic-si.json",
+        "data/releases/2010/r7491-purple-passion.json",
+        "data/releases/2010/r7493-aston-martin-v8-vantage.json"
     ]
 }

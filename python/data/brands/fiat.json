@@ -1,0 +1,16 @@
+{
+    "brand_id": "fiat",
+    "name": "Fiat",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/60s-fiat-500d-modificado.json",
+        "data/castings/fiat-500.json",
+        "data/castings/fiat-500e.json",
+        "data/castings/fiat-beast-of-turin.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Fiat vehicles.",
+        "pt-br": "Fabricante de veículos Fiat."
+    }
+}

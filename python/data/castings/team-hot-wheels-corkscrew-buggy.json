@@ -1,0 +1,29 @@
+{
+    "casting_id": "team-hot-wheels-corkscrew-buggy",
+    "name": "Team Hot Wheels Corkscrew Buggy",
+    "description": {
+        "en-us": "Team Hot Wheels Corkscrew Buggy Debut series HW Stunt: Road Rally Produced 2013 - Present Designer Alton Takeyasu Number X1621",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1621-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2013/x1976-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2013/y5268-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2013/bbf64-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2014/bfd01-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2014/bfg28-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2015/cfk52-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2015/cfm36-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2016/x6999-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2016/djd21-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2017/dvf68-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2019/fyl13-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2019/gbf13-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2020/gbf16-team-hot-wheels-corkscrew-buggy-v2.json",
+        "data/releases/2021/x6999-team-hot-wheels-corkscrew-buggy-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

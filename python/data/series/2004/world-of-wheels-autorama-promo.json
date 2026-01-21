@@ -1,0 +1,12 @@
+{
+    "series_id": "world-of-wheels-autorama-promo",
+    "year": 2004,
+    "name": "World of Wheels / AutoRama Promo",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2004/b8544-twin-mill.json",
+        "data/releases/2004/c0094-twin-mill.json",
+        "data/releases/2004/c0095-twin-mill.json"
+    ]
+}

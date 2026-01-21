@@ -2,10 +2,26 @@
     "series_id": "hw-city-hw-city-works",
     "year": 2015,
     "name": "HW City: HW City Works",
-    "total_releases": 2,
+    "total_releases": 18,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfg75-backdrafter.json",
         "data/releases/2015/cfh14-chill-mill.json",
-        "data/releases/2015/cfl32-chill-mill.json"
+        "data/releases/2015/cfh21-turbine-time.json",
+        "data/releases/2015/cfh27-speed-dozer.json",
+        "data/releases/2015/cfh29-cool-one.json",
+        "data/releases/2015/cfh30-so-plowed.json",
+        "data/releases/2015/cfh31-fast-gassin.json",
+        "data/releases/2015/cfh32-cockney-cab-ii.json",
+        "data/releases/2015/cfh33-mig-rig.json",
+        "data/releases/2015/cfh34-street-cleaver.json",
+        "data/releases/2015/cfj51-cockney-cab-ii.json",
+        "data/releases/2015/cfj57-backdrafter.json",
+        "data/releases/2015/cfj76-speed-dozer.json",
+        "data/releases/2015/cfl32-chill-mill.json",
+        "data/releases/2015/cfl37-mig-rig.json",
+        "data/releases/2015/cfl43-turbine-time.json",
+        "data/releases/2015/cfl70-cool-one.json",
+        "data/releases/2015/cfl81-so-plowed.json"
     ]
 }

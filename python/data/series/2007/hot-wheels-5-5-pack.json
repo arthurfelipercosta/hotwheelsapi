@@ -2,9 +2,11 @@
     "series_id": "hot-wheels-5-5-pack",
     "year": 2007,
     "name": "Hot Wheels 5 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2007/k7371-la-troca.json"
+        "data/releases/2007/k7371-la-troca.json",
+        "data/releases/2007/l6997-32-ford.json",
+        "data/releases/2007/l6997-phaeton.json"
     ]
 }

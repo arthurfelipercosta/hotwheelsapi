@@ -1,0 +1,25 @@
+{
+    "release_id": "fjx24-fig-rig-2018",
+    "toy_number": "FJX24",
+    "casting_id": "fig-rig",
+    "year": 2018,
+    "series_id": "hw-ride-ons",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "Orange, Yellow & white digital pattern hood, hop & sides. HW in blue on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "White Lip",
+            "1": "Orange Lip PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K46, K48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/FigRig-FXJ24.jpg/revision/latest/scale-to-width-down/75?cb=20180414052328"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dwd96-bread-box-2016",
+    "toy_number": "DWD96",
+    "casting_id": "bread-box",
+    "year": 2016,
+    "series_id": "ghostbusters",
+    "series_index": 2,
+    "specs": {
+        "color": "White",
+        "tampo": "Slimer & Ghostbusters logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Green tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome Red 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): J34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/Bread_Box_-_16_Ghostbusters_600pxOTD.png/revision/latest/scale-to-width-down/75?cb=20161230074843"
+    }
+}

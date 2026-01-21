@@ -1,0 +1,24 @@
+{
+    "release_id": "hnt01-95-mazda-rx-7-2023",
+    "toy_number": "HNT01",
+    "casting_id": "95-mazda-rx-7",
+    "year": 2023,
+    "series_id": "fast-furious-series-2",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "Licensed graphics from The Fast & the Furious (2001)",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/Mazda_RX-7_FD_1995_%281c1%29_FF_-_HotWheels.jpg/revision/latest/scale-to-width-down/75?cb=20231102100112"
+    }
+}

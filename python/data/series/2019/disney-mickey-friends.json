@@ -2,9 +2,16 @@
     "series_id": "disney-mickey-friends",
     "year": 2019,
     "name": "Disney Mickey & Friends",
-    "total_releases": 1,
+    "total_releases": 8,
     "max_index": 7,
     "releases": [
-        "data/releases/2019/gbb45-fish-d-chip-d.json"
+        "data/releases/2019/gbb40-quick-n-sik.json",
+        "data/releases/2019/gbb41-fandango.json",
+        "data/releases/2019/gbb42-vandetta.json",
+        "data/releases/2019/gbb43-fast-felion.json",
+        "data/releases/2019/gbb44-16-angels.json",
+        "data/releases/2019/gbb45-fish-d-chip-d.json",
+        "data/releases/2019/gdm56-horseplay.json",
+        "data/releases/2019/gdm57-scoopa-di-fuego.json"
     ]
 }

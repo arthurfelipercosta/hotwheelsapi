@@ -1,0 +1,16 @@
+{
+    "casting_id": "u-s-s-vengeance",
+    "name": "U.S.S. Vengeance",
+    "description": {
+        "en-us": "U.S.S. Vengeance Debut series HW City - Planet Heroes Produced 2014 - 2019 Designer Fraser Campbell Number BDC88",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc88-u-s-s-vengeance.json",
+        "data/releases/2019/fyc94-u-s-s-vengeance.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

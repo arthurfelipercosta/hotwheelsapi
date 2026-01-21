@@ -1,0 +1,11 @@
+{
+    "series_id": "mustang-mania-set",
+    "year": 2009,
+    "name": "Mustang Mania Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2009/p3520-70-mustang-mach-1.json",
+        "data/releases/2009/p5663-70-mustang-mach-1.json"
+    ]
+}

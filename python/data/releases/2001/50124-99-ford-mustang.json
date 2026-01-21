@@ -1,0 +1,24 @@
+{
+    "release_id": "50124-99-ford-mustang-2001",
+    "toy_number": "50124",
+    "casting_id": "99-ford-mustang",
+    "year": 2001,
+    "series_id": "company-cars",
+    "series_index": 2,
+    "specs": {
+        "color": "White",
+        "tampo": "Red & Blue stripes on hood. 'Mustang GT' & Logo w/ HW Logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted Smoked",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "3SP"
+        }
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Mustang_99_2001.jpg/revision/latest/scale-to-width-down/75?cb=20140913183707"
+    }
+}

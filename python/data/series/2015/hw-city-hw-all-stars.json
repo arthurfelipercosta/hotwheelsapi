@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-city-hw-all-stars",
+    "year": 2015,
+    "name": "HW City: HW All Stars",
+    "total_releases": 8,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfg85-tee-d-off-2.json",
+        "data/releases/2015/cfj49-mr11.json",
+        "data/releases/2015/cfj77-torque-twister.json",
+        "data/releases/2015/cfk24-mr11.json",
+        "data/releases/2015/cfk25-torque-twister.json",
+        "data/releases/2015/cfk26-fast-felion.json",
+        "data/releases/2015/cfk27-muscle-tone.json",
+        "data/releases/2015/cfl85-muscle-tone.json"
+    ]
+}

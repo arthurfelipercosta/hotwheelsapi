@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx59-custom-01-acura-integra-gsr-2017",
+    "toy_number": "DTX59",
+    "casting_id": "custom-01-acura-integra-gsr",
+    "year": 2017,
+    "series_id": "hw-speed-graphics",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "Tein logo, Green splotches on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J33, J34, J35, J36, J39, J41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/Custom_%2701_Acura_Integra_GSR_2017.png/revision/latest/scale-to-width-down/75?cb=20170115221627"
+    }
+}

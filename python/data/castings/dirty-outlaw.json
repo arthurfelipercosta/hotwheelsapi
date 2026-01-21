@@ -1,0 +1,21 @@
+{
+    "casting_id": "dirty-outlaw",
+    "name": "Dirty Outlaw",
+    "description": {
+        "en-us": "Dirty Outlaw Debut series 2011 New Models Produced 2011 - Present Designer Dave Sheltman Number T9714",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9714-dirty-outlaw.json",
+        "data/releases/2012/v5536-dirty-outlaw.json",
+        "data/releases/2013/x1758-dirty-outlaw.json",
+        "data/releases/2015/cdt25-dirty-outlaw.json",
+        "data/releases/2019/fyl11-dirty-outlaw.json",
+        "data/releases/2020/ghp59-dirty-outlaw.json",
+        "data/releases/2022/hfv87-dirty-outlaw.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

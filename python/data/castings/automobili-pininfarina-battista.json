@@ -1,0 +1,22 @@
+{
+    "casting_id": "automobili-pininfarina-battista",
+    "name": "Automobili Pininfarina Battista",
+    "description": {
+        "en-us": "Automobili Pininfarina Battista Debut series Hot Wheels id: Moving Forward Produced 2022 – Present Designer Phil Riehlman Number GWJ21",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hbg35-automobili-pininfarina-battista.json",
+        "data/releases/2022/hcv89-automobili-pininfarina-battista.json",
+        "data/releases/2022/hcy65-automobili-pininfarina-battista.json",
+        "data/releases/2022/hcx53-automobili-pininfarina-battista.json",
+        "data/releases/2023/hkh57-automobili-pininfarina-battista.json",
+        "data/releases/2023/hkk22-automobili-pininfarina-battista.json",
+        "data/releases/2023/hkl31-automobili-pininfarina-battista.json",
+        "data/releases/2025/jbk77-automobili-pininfarina-battista.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

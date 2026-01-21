@@ -6,17 +6,17 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2015/cfh14-chill-mill.json",
-        "data/releases/2015/cfl32-chill-mill.json",
-        "data/releases/2016/dhr71-chill-mill.json",
-        "data/releases/2016/dhw56-chill-mill.json",
-        "data/releases/2017/dwc02-chill-mill.json",
-        "data/releases/2018/fjx85-chill-mill.json",
-        "data/releases/2018/fkb83-chill-mill.json",
-        "data/releases/2020/ghc07-chill-mill.json",
-        "data/releases/2020/ghf69-chill-mill.json",
-        "data/releases/2022/hfv85-chill-mill.json",
-        "data/releases/2025/jbc28-chill-mill.json"
+        "data/releases/2015/cfh14-chill-mill-v3.json",
+        "data/releases/2015/cfl32-chill-mill-v3.json",
+        "data/releases/2016/dhr71-chill-mill-v3.json",
+        "data/releases/2016/dhw56-chill-mill-v3.json",
+        "data/releases/2017/dwc02-chill-mill-v3.json",
+        "data/releases/2018/fjx85-chill-mill-v3.json",
+        "data/releases/2018/fkb83-chill-mill-v3.json",
+        "data/releases/2020/ghc07-chill-mill-v3.json",
+        "data/releases/2020/ghf69-chill-mill-v3.json",
+        "data/releases/2022/hfv85-chill-mill-v3.json",
+        "data/releases/2025/jbc28-chill-mill-v3.json"
     ],
     "specs": {},
     "designer": "Unknown",

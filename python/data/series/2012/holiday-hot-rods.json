@@ -2,9 +2,12 @@
     "series_id": "holiday-hot-rods",
     "year": 2012,
     "name": "Holiday Hot Rods",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 6,
     "releases": [
-        "data/releases/2012/w4027-71-mustang-funny-car.json"
+        "data/releases/2012/w4022-bread-box.json",
+        "data/releases/2012/w4026-classic-nomad.json",
+        "data/releases/2012/w4027-71-mustang-funny-car.json",
+        "data/releases/2012/w4053-dragtor.json"
     ]
 }

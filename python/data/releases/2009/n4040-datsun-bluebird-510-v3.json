@@ -1,0 +1,31 @@
+{
+    "release_id": "n4040-datsun-bluebird-510-2009",
+    "toy_number": "N4040",
+    "casting_id": "datsun-bluebird-510",
+    "year": 2009,
+    "series_id": "2009-new-models",
+    "series_index": 37,
+    "specs": {
+        "color": "Metalflake Light Copper",
+        "tampo": "Silver & Yellow Stripes, '102' on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black OH5",
+            "2": "White & Yellow Stripes",
+            "3": "'102' on side",
+            "4": "Base code(s): B20",
+            "5": "B22",
+            "6": "Chrome rim",
+            "7": "Black CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: B22, B30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/Datsun_Bluebird_510_-_09NM_Brown.jpg/revision/latest/scale-to-width-down/75?cb=20090813004745"
+    }
+}

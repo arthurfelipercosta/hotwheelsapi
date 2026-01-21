@@ -2,11 +2,19 @@
     "series_id": "hw-workshop-hw-drift-race",
     "year": 2015,
     "name": "HW Workshop: HW Drift Race",
-    "total_releases": 3,
+    "total_releases": 11,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfh23-driftsta.json",
+        "data/releases/2015/cfj13-dodge-viper-srt10-acr.json",
+        "data/releases/2015/cfj14-scion-fr-s.json",
+        "data/releases/2015/cfj16-toyota-ae-86-corolla.json",
+        "data/releases/2015/cfj16-toyota-ae-86-corolla.json",
         "data/releases/2015/cfj17-custom-12-ford-mustang.json",
+        "data/releases/2015/cfj45-toyota-ae-86-corolla.json",
+        "data/releases/2015/cfj94-dodge-viper-srt10-acr.json",
         "data/releases/2015/cfk10-custom-12-ford-mustang.json",
+        "data/releases/2015/cfl38-driftsta.json",
         "data/releases/2015/cfl59-custom-12-ford-mustang.json"
     ]
 }

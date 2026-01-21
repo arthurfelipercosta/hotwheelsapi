@@ -1,0 +1,41 @@
+{
+    "casting_id": "49-merc",
+    "name": "'49 Merc",
+    "description": {
+        "en-us": "'49 Merc Debut series Auto Affinity: Kool & Kustom Produced 2004 - Present Designer Larry Wood Number C2654",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2004/c2654-49-merc.json",
+        "data/releases/2004/g7790-49-merc.json",
+        "data/releases/2004/c2654-49-merc-v2.json",
+        "data/releases/2004/g7187-g7189-49-merc.json",
+        "data/releases/2004/g5508-49-merc.json",
+        "data/releases/2004/h6498-49-merc.json",
+        "data/releases/2005/h9267-49-merc.json",
+        "data/releases/2005/j5409-49-merc.json",
+        "data/releases/2005/j5409-49-merc-v2.json",
+        "data/releases/2005/j5409-49-merc-v3.json",
+        "data/releases/2005/j5409-49-merc-v4.json",
+        "data/releases/2006/j2778-49-merc.json",
+        "data/releases/2006/j2778-49-merc-v2.json",
+        "data/releases/2006/j2778-49-merc-v3.json",
+        "data/releases/2006/j2778-49-merc-v4.json",
+        "data/releases/2006/j2778-49-merc-v5.json",
+        "data/releases/2006/j2778-49-merc-v6.json",
+        "data/releases/2006/j2778-49-merc-v7.json",
+        "data/releases/2009/p2359-49-merc.json",
+        "data/releases/2009/p2371-49-merc.json",
+        "data/releases/2012/w3994-49-merc.json",
+        "data/releases/2012/y4537-49-merc.json",
+        "data/releases/2013/y2079-49-merc.json",
+        "data/releases/2020/ghd68-49-merc.json",
+        "data/releases/2021/grt20-49-merc.json",
+        "data/releases/2022/hdg84-49-merc.json",
+        "data/releases/2023/hly68-49-merc.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2004,
+    "manufacturer": "Mattel"
+}

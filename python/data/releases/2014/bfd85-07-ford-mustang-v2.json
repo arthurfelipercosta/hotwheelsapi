@@ -1,0 +1,24 @@
+{
+    "release_id": "bfd85-07-ford-mustang-2014",
+    "toy_number": "BFD85",
+    "casting_id": "07-ford-mustang",
+    "year": 2014,
+    "series_id": "hw-city-mustang-50th",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Dark Red",
+        "tampo": "Gold and Tan stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F46, F48, F49, F50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/140215_0019.jpg/revision/latest/scale-to-width-down/75?cb=20140216062053"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "casting_id": "06-pontiac-gto",
+    "name": "'06 Pontiac GTO",
+    "description": {
+        "en-us": "'06 Pontiac GTO Debut series Factory Fresh Produced 2021 - Present Designer Brendon Vetuskey Number GRX32",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx32-06-pontiac-gto.json",
+        "data/releases/2021/gtb72-06-pontiac-gto.json",
+        "data/releases/2022/hct74-06-pontiac-gto.json",
+        "data/releases/2022/hcy37-06-pontiac-gto.json",
+        "data/releases/2022/hcx70-06-pontiac-gto.json",
+        "data/releases/2026/jky10-06-pontiac-gto.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Pontiac"
+}

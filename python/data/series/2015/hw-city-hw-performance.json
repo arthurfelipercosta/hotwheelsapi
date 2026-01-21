@@ -2,10 +2,29 @@
     "series_id": "hw-city-hw-performance",
     "year": 2015,
     "name": "HW City: HW Performance",
-    "total_releases": 2,
+    "total_releases": 21,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfh10-d-muscle.json",
+        "data/releases/2015/cfh22-69-dodge-charger-500.json",
+        "data/releases/2015/cfh25-great-gatspeed.json",
+        "data/releases/2015/cfh35-10-ford-shelby-gt500.json",
+        "data/releases/2015/cfh36-09-corvette-zr1.json",
+        "data/releases/2015/cfh40-honda-s2000.json",
+        "data/releases/2015/cfh44-1971-buick-riviera.json",
+        "data/releases/2015/cfh46-custom-77-dodge-van.json",
         "data/releases/2015/cfh48-83-chevy-silverado.json",
-        "data/releases/2015/cfj96-83-chevy-silverado.json"
+        "data/releases/2015/cfh49-71-el-camino.json",
+        "data/releases/2015/cfj33-custom-77-dodge-van.json",
+        "data/releases/2015/cfj71-69-dodge-charger-500.json",
+        "data/releases/2015/cfj78-10-ford-shelby-gt500.json",
+        "data/releases/2015/cfj79-71-el-camino.json",
+        "data/releases/2015/cfj96-83-chevy-silverado.json",
+        "data/releases/2015/cfj99-honda-s2000.json",
+        "data/releases/2015/cfl21-d-muscle.json",
+        "data/releases/2015/cfl22-71-el-camino.json",
+        "data/releases/2015/cfl49-1971-buick-riviera.json",
+        "data/releases/2015/cfl80-09-corvette-zr1.json",
+        "data/releases/2015/dhy03-1971-buick-riviera.json"
     ]
 }

@@ -1,0 +1,13 @@
+{
+    "series_id": "gold-medal-speed",
+    "year": 1994,
+    "name": "Gold Medal Speed",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1994/13579-jaguar-xj220.json",
+        "data/releases/1994/13579-jaguar-xj220.json",
+        "data/releases/1994/13579-jaguar-xj220.json",
+        "data/releases/1994/13586-57-chevy.json"
+    ]
+}

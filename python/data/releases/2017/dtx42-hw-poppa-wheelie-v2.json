@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx42-hw-poppa-wheelie-2017",
+    "toy_number": "DTX42",
+    "casting_id": "hw-poppa-wheelie",
+    "year": 2017,
+    "series_id": "holiday-racers",
+    "series_index": 1,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black flames on sides & hood, 'Halloween treat' on sides, '2016' on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Dark Blue)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Light Orange 5SP & Light Orange SK5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J30, J35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/HW_Poppa_Wheelie_2017.png/revision/latest/scale-to-width-down/75?cb=20170116185821"
+    }
+}

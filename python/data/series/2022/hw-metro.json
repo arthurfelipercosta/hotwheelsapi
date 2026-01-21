@@ -2,11 +2,26 @@
     "series_id": "hw-metro",
     "year": 2022,
     "name": "HW Metro",
-    "total_releases": 3,
+    "total_releases": 18,
     "max_index": 7,
     "releases": [
+        "data/releases/2022/hct32-mighty-k.json",
+        "data/releases/2022/hct48-2009-ford-f-150.json",
+        "data/releases/2022/hct63-dodge-van.json",
+        "data/releases/2022/hct63-dodge-van.json",
         "data/releases/2022/hct79-barbie-dream-camper.json",
         "data/releases/2022/hct89-ain-t-fare.json",
-        "data/releases/2022/hcx00-ain-t-fare.json"
+        "data/releases/2022/hcv02-street-cleaver.json",
+        "data/releases/2022/hcv73-loco-motorin.json",
+        "data/releases/2022/hcv93-56-ford-f-100-truck.json",
+        "data/releases/2022/hcw55-cockney-cab-ii.json",
+        "data/releases/2022/hcw57-fast-gassin.json",
+        "data/releases/2022/hcw70-mighty-k.json",
+        "data/releases/2022/hcw94-fast-gassin.json",
+        "data/releases/2022/hcx00-ain-t-fare.json",
+        "data/releases/2022/hcx10-cockney-cab-ii.json",
+        "data/releases/2022/hcx83-loco-motorin.json",
+        "data/releases/2022/hcy16-dodge-van.json",
+        "data/releases/2022/hjp28-dodge-van.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd51-aero-pod-2020",
+    "toy_number": "GHD51",
+    "casting_id": "aero-pod",
+    "year": 2020,
+    "series_id": "x-raycers",
+    "series_index": 2,
+    "specs": {
+        "color": "Purple",
+        "tampo": "AEROPOD, skull, & rally deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Lime green",
+        "wheel_type": {
+            "0": "Yellow hub. Transparent purple PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/07197346-1E50-4899-8A57-CB8D0D6AF78F.jpeg/revision/latest/scale-to-width-down/75?cb=20191104225839"
+    }
+}

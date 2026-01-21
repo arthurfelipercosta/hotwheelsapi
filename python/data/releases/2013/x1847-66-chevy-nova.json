@@ -1,0 +1,25 @@
+{
+    "release_id": "x1847-66-chevy-nova-2013",
+    "toy_number": "X1847",
+    "casting_id": "66-chevy-nova",
+    "year": 2013,
+    "series_id": "hw-showroom-muscle-mania",
+    "series_index": null,
+    "specs": {
+        "color": "Lime Green",
+        "tampo": "Black stripes, Orange outline stripes, Silver trim, \"502\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/%2766_Chevy_Nova-2013_231_Muscle_Mania.jpg/revision/latest/scale-to-width-down/75?cb=20121207101524"
+    }
+}

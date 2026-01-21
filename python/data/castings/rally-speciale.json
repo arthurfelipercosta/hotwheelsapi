@@ -1,0 +1,20 @@
+{
+    "casting_id": "rally-speciale",
+    "name": "Rally Speciale",
+    "description": {
+        "en-us": "Rally Speciale Debut series HW Track Champs Produced 2023 – Present Designer Sonny Fisher Number HKG29",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg29-rally-speciale.json",
+        "data/releases/2023/hkk37-rally-speciale.json",
+        "data/releases/2024/htb25-rally-speciale.json",
+        "data/releases/2024/htf06-rally-speciale.json",
+        "data/releases/2024/hyy25-rally-speciale.json",
+        "data/releases/2025/jdm31-rally-speciale.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

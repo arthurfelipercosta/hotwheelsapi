@@ -1,0 +1,27 @@
+{
+    "casting_id": "64-nova-wagon-gasser",
+    "name": "'64 Nova Wagon Gasser",
+    "description": {
+        "en-us": "'64 Nova Wagon Gasser Debut series HW Race Day Produced 2019 - Present Designer Brendon Vetuskey Number FYB75",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb75-64-nova-wagon-gasser-v2.json",
+        "data/releases/2019/fyd77-64-nova-wagon-gasser-v2.json",
+        "data/releases/2020/ghd05-64-nova-wagon-gasser-v2.json",
+        "data/releases/2020/ghg63-64-nova-wagon-gasser-v2.json",
+        "data/releases/2020/ghf17-64-nova-wagon-gasser-v2.json",
+        "data/releases/2021/gry24-64-nova-wagon-gasser-v2.json",
+        "data/releases/2021/gtd06-64-nova-wagon-gasser-v2.json",
+        "data/releases/2022/hfv90-64-nova-wagon-gasser-v2.json",
+        "data/releases/2022/hck21-64-nova-wagon-gasser-v2.json",
+        "data/releases/2023/hkh63-64-nova-wagon-gasser-v2.json",
+        "data/releases/2023/hkl29-64-nova-wagon-gasser-v2.json",
+        "data/releases/2025/jbj84-jcp90-64-nova-wagon-gasser-v2.json",
+        "data/releases/2026/jkx96-64-nova-wagon-gasser-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

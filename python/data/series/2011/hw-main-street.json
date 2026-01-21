@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-main-street",
+    "year": 2011,
+    "name": "HW Main Street",
+    "total_releases": 9,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2011/t9869-ford-mustang-gt-concept.json",
+        "data/releases/2011/t9873-69-dodge-charger.json",
+        "data/releases/2011/t9873-69-dodge-charger.json",
+        "data/releases/2011/t9874-68-el-camino.json",
+        "data/releases/2011/t9876-70-mustang-mach-1.json",
+        "data/releases/2011/t9877-dodge-charger-drift-car.json",
+        "data/releases/2011/v5205-ford-mustang-gt-concept.json",
+        "data/releases/2011/v5213-70-mustang-mach-1.json",
+        "data/releases/2011/v9459-68-el-camino.json"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "casting_id": "bmw-i8-roadster",
+    "name": "BMW i8 Roadster",
+    "description": {
+        "en-us": "BMW i8 Roadster Debut series Hot Wheels id: Moving Forward Produced 2019 – Present Designer Phil Riehlman Number FXB49",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fxb49-bmw-i8-roadster.json",
+        "data/releases/2023/hkh44-bmw-i8-roadster.json",
+        "data/releases/2023/hkk13-bmw-i8-roadster.json",
+        "data/releases/2025/jcb76-bmw-i8-roadster.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "BMW"
+}

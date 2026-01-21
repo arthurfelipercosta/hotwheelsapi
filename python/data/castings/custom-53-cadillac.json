@@ -6,20 +6,20 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2009/n4018-custom-53-cadillac.json",
-        "data/releases/2009/n4018-custom-53-cadillac-v2.json",
-        "data/releases/2009/n4018-custom-53-cadillac-v3.json",
-        "data/releases/2009/r4219-custom-53-cadillac.json",
-        "data/releases/2009/r4219-custom-53-cadillac-v2.json",
-        "data/releases/2010/r7434-custom-53-cadillac.json",
-        "data/releases/2010/r7446-custom-53-cadillac.json",
-        "data/releases/2012/k5904-custom-53-cadillac.json",
-        "data/releases/2019/fyc15-custom-53-cadillac.json",
-        "data/releases/2019/fyg65-custom-53-cadillac.json",
-        "data/releases/2025/hyy78-custom-53-cadillac.json"
+        "data/releases/2009/n4018-custom-53-cadillac-v4.json",
+        "data/releases/2009/n4018-custom-53-cadillac-v5.json",
+        "data/releases/2009/n4018-custom-53-cadillac-v6.json",
+        "data/releases/2009/r4219-custom-53-cadillac-v3.json",
+        "data/releases/2009/r4219-custom-53-cadillac-v4.json",
+        "data/releases/2010/r7434-custom-53-cadillac-v2.json",
+        "data/releases/2010/r7446-custom-53-cadillac-v2.json",
+        "data/releases/2012/k5904-custom-53-cadillac-v2.json",
+        "data/releases/2019/fyc15-custom-53-cadillac-v2.json",
+        "data/releases/2019/fyg65-custom-53-cadillac-v2.json",
+        "data/releases/2025/hyy78-custom-53-cadillac-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",
     "debut_year": 2009,
-    "manufacturer": "Mattel"
+    "manufacturer": "Cadillac"
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "hdg86-boom-box-2022",
+    "toy_number": "HDG86",
+    "casting_id": "boom-box",
+    "year": 2022,
+    "series_id": "disney-classics",
+    "series_index": 5,
+    "specs": {
+        "color": "Royal Blue",
+        "tampo": "Aladdin Tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/HDG86_Carded.jpg/revision/latest/scale-to-width-down/75?cb=20220430020249"
+    }
+}

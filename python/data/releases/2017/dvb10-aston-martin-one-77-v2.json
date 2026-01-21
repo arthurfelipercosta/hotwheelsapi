@@ -1,0 +1,24 @@
+{
+    "release_id": "dvb10-aston-martin-one-77-2017",
+    "toy_number": "DVB10",
+    "casting_id": "aston-martin-one-77",
+    "year": 2017,
+    "series_id": "hw-exotics",
+    "series_index": 7,
+    "specs": {
+        "color": "Pearl Red",
+        "tampo": "Silver pin stripes on roof & hood, detailed headlights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K06, K10, K11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Aston_Martin_One-77_DVB10.png/revision/latest/scale-to-width-down/75?cb=20170420202049"
+    }
+}

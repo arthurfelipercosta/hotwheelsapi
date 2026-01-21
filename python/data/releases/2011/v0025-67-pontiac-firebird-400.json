@@ -1,0 +1,25 @@
+{
+    "release_id": "v0025-67-pontiac-firebird-400-2011",
+    "toy_number": "V0025",
+    "casting_id": "67-pontiac-firebird-400",
+    "year": 2011,
+    "series_id": "street-beasts",
+    "series_index": 6,
+    "specs": {
+        "color": "Metallic Dark Green",
+        "tampo": "Black and Red stripe",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D21, D28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/08/67_Pontiac_Firebird_400_%28V0025%29_%28OH5%29_1.jpg/revision/latest/scale-to-width-down/75?cb=20170919003150"
+    }
+}

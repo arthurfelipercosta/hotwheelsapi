@@ -1,0 +1,24 @@
+{
+    "release_id": "hck02-tesla-roadster-2022",
+    "toy_number": "HCK02",
+    "casting_id": "tesla-roadster",
+    "year": 2022,
+    "series_id": "car-culture-american-scene",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Detailed headlights and taillights, black accents",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RRA"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P45, P46, P47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/%2722TeslaRoadster.jpg/revision/latest/scale-to-width-down/75?cb=20211231074052"
+    }
+}

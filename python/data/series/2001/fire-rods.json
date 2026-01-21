@@ -1,0 +1,11 @@
+{
+    "series_id": "fire-rods",
+    "year": 2001,
+    "name": "Fire Rods",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2001/28635-65-chevy-impala.json",
+        "data/releases/2001/28644-56-ford-f-100-truck.json"
+    ]
+}

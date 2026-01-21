@@ -1,0 +1,30 @@
+{
+    "casting_id": "69-dodge-charger-500",
+    "name": "'69 Dodge Charger 500",
+    "description": {
+        "en-us": "'69 Dodge Charger 500 Debut series HW City: HW Performance Produced 2015 - Present Designer Phil Riehlman Number CFH22",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh22-69-dodge-charger-500-v2.json",
+        "data/releases/2015/cfj71-69-dodge-charger-500-v2.json",
+        "data/releases/2016/dhr04-69-dodge-charger-500-v2.json",
+        "data/releases/2016/dhx91-69-dodge-charger-500-v2.json",
+        "data/releases/2016/dhx23-69-dodge-charger-500-v2.json",
+        "data/releases/2017/dty89-69-dodge-charger-500-v2.json",
+        "data/releases/2017/dvc41-69-dodge-charger-500-v2.json",
+        "data/releases/2018/fjx78-69-dodge-charger-500-v2.json",
+        "data/releases/2018/fkb08-69-dodge-charger-500-v2.json",
+        "data/releases/2019/fyc18-69-dodge-charger-500-v2.json",
+        "data/releases/2019/fyd94-69-dodge-charger-500-v2.json",
+        "data/releases/2020/ghd62-69-dodge-charger-500-v2.json",
+        "data/releases/2020/ghg09-69-dodge-charger-500-v2.json",
+        "data/releases/2021/gtn48-69-dodge-charger-500-v2.json",
+        "data/releases/2022/hcv71-69-dodge-charger-500-v2.json",
+        "data/releases/2023/hkj46-69-dodge-charger-500-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Dodge"
+}

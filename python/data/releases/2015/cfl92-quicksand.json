@@ -1,0 +1,24 @@
+{
+    "release_id": "cfl92-quicksand-2015",
+    "toy_number": "CFL92",
+    "casting_id": "quicksand",
+    "year": 2015,
+    "series_id": "hw-off-road-stunt-circuit",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Green, Yellow, White& Black stripes, black #1 in a White circle on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "OR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): H24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/CFL92.jpg/revision/latest/scale-to-width-down/75?cb=20190813111406"
+    }
+}

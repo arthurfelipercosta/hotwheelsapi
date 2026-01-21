@@ -6,16 +6,16 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2014/bdc91-snoopy.json",
-        "data/releases/2015/cfk19-snoopy.json",
-        "data/releases/2016/dht12-snoopy.json",
-        "data/releases/2017/dwj89-snoopy.json",
-        "data/releases/2018/fjw37-snoopy.json",
-        "data/releases/2020/ghc81-snoopy.json",
-        "data/releases/2023/hkh10-snoopy.json",
-        "data/releases/2024/hvj42-snoopy.json",
-        "data/releases/2025/hyw62-snoopy.json",
-        "data/releases/2025/jbl84-snoopy.json"
+        "data/releases/2014/bdc91-snoopy-v3.json",
+        "data/releases/2015/cfk19-snoopy-v3.json",
+        "data/releases/2016/dht12-snoopy-v3.json",
+        "data/releases/2017/dwj89-snoopy-v3.json",
+        "data/releases/2018/fjw37-snoopy-v3.json",
+        "data/releases/2020/ghc81-snoopy-v3.json",
+        "data/releases/2023/hkh10-snoopy-v3.json",
+        "data/releases/2024/hvj42-snoopy-v3.json",
+        "data/releases/2025/hyw62-snoopy-v3.json",
+        "data/releases/2025/jbl84-snoopy-v3.json"
     ],
     "specs": {},
     "designer": "Unknown",

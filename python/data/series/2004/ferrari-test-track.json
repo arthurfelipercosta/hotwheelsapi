@@ -1,0 +1,11 @@
+{
+    "series_id": "ferrari-test-track",
+    "year": 2004,
+    "name": "Ferrari Test Track",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2004/c4317-enzo-ferrari.json",
+        "data/releases/2004/c4317-enzo-ferrari.json"
+    ]
+}

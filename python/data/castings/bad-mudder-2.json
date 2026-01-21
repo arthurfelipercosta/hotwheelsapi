@@ -1,0 +1,33 @@
+{
+    "casting_id": "bad-mudder-2",
+    "name": "Bad Mudder 2",
+    "description": {
+        "en-us": "Bad Mudder 2 Debut series 2008 New Models Produced 2008 - 2017 Designer Jun Imai Number L9935",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2008/l9935-bad-mudder-2.json",
+        "data/releases/2008/l9935-bad-mudder-2-v2.json",
+        "data/releases/2008/l9935-bad-mudder-2-v3.json",
+        "data/releases/2008/l9935-bad-mudder-2-v4.json",
+        "data/releases/2008/l9935-bad-mudder-2-v5.json",
+        "data/releases/2008/l9935-bad-mudder-2-v6.json",
+        "data/releases/2009/p2463-bad-mudder-2.json",
+        "data/releases/2009/p2463-bad-mudder-2-v2.json",
+        "data/releases/2010/r7619-bad-mudder-2.json",
+        "data/releases/2010/r7619-bad-mudder-2-v2.json",
+        "data/releases/2010/r7619-bad-mudder-2-v3.json",
+        "data/releases/2011/t9786-bad-mudder-2.json",
+        "data/releases/2012/w4250-bad-mudder-2.json",
+        "data/releases/2013/x9850-bad-mudder-2.json",
+        "data/releases/2014/bfb31-bad-mudder-2.json",
+        "data/releases/2015/cfk43-bad-mudder-2.json",
+        "data/releases/2016/dhr51-bad-mudder-2.json",
+        "data/releases/2016/dht84-bad-mudder-2.json",
+        "data/releases/2017/frc74-bad-mudder-2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2008,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,32 @@
+{
+    "casting_id": "circle-trucker",
+    "name": "Circle Trucker",
+    "description": {
+        "en-us": "Circle Trucker Debut series 2011 New Models Produced 2011 - Present Designer Jun Imai Number T9716",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9716-circle-trucker-v2.json",
+        "data/releases/2011/t9991-circle-trucker-v2.json",
+        "data/releases/2011/t9954-circle-trucker-v2.json",
+        "data/releases/2012/v5356-circle-trucker-v2.json",
+        "data/releases/2013/x1753-circle-trucker-v2.json",
+        "data/releases/2014/bfd29-circle-trucker-v2.json",
+        "data/releases/2015/cfk78-circle-trucker-v2.json",
+        "data/releases/2016/djd17-circle-trucker-v2.json",
+        "data/releases/2016/djk56-circle-trucker-v2.json",
+        "data/releases/2016/djl44-circle-trucker-v2.json",
+        "data/releases/2017/dvg03-circle-trucker-v2.json",
+        "data/releases/2019/gbd58-circle-trucker-v2.json",
+        "data/releases/2019/gbb34-circle-trucker-v2.json",
+        "data/releases/2020/ghd82-circle-trucker-v2.json",
+        "data/releases/2022/hfk80-circle-trucker-v2.json",
+        "data/releases/2023/hly67-circle-trucker-v2.json",
+        "data/releases/2024/x6999-circle-trucker-v2.json",
+        "data/releases/2025/x6999-circle-trucker-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

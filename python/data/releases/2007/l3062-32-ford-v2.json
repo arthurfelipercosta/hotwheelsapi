@@ -1,0 +1,24 @@
+{
+    "release_id": "l3062-32-ford-2007",
+    "toy_number": "L3062",
+    "casting_id": "32-ford",
+    "year": 2007,
+    "series_id": "street-show",
+    "series_index": 18,
+    "specs": {
+        "color": "White",
+        "tampo": "Silver & Red tampos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "SS5SP"
+        }
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/32_ford_street_show_white.jpg/revision/latest/scale-to-width-down/75?cb=20210411015306"
+    }
+}

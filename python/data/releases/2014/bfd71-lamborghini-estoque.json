@@ -1,0 +1,24 @@
+{
+    "release_id": "bfd71-lamborghini-estoque-2014",
+    "toy_number": "BFD71",
+    "casting_id": "lamborghini-estoque",
+    "year": 2014,
+    "series_id": "hw-workshop-hw-all-stars",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Burgundy",
+        "tampo": "Detailed headlights w/ Lamborghini emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F13, F39, F41, F43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/Lamborghini_Estoque-2014_197.jpg/revision/latest/scale-to-width-down/75?cb=20131123160436"
+    }
+}

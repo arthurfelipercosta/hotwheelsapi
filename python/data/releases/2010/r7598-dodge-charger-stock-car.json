@@ -1,0 +1,28 @@
+{
+    "release_id": "r7598-dodge-charger-stock-car-2010",
+    "toy_number": "R7598",
+    "casting_id": "dodge-charger-stock-car",
+    "year": 2010,
+    "series_id": "race-world-speedway",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "Blue, Orange, Dark Blue, Black and Light Blue tampos, \"68\" on both sides and roof, \"Hot Wheels\" on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black PR5",
+            "2": "167",
+            "3": "214",
+            "4": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B51, C01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Dodge_Charger_Stock_Car_Red2.JPG/revision/latest/scale-to-width-down/75?cb=20110616033058"
+    }
+}

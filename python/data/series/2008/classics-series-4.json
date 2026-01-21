@@ -2,12 +2,20 @@
     "series_id": "classics-series-4",
     "year": 2008,
     "name": "Classics (Series 4)",
-    "total_releases": 4,
+    "total_releases": 12,
     "max_index": 10,
     "releases": [
+        "data/releases/2008/m1861-65-mustang-convertible.json",
+        "data/releases/2008/m1861-65-mustang-convertible.json",
+        "data/releases/2008/m1861-65-mustang-convertible.json",
+        "data/releases/2008/m1864-shelby-cobra-daytona-coupe.json",
+        "data/releases/2008/m1864-shelby-cobra-daytona-coupe.json",
+        "data/releases/2008/m1864-shelby-cobra-daytona-coupe.json",
         "data/releases/2008/m1867-64-impala.json",
         "data/releases/2008/m1867-64-impala.json",
         "data/releases/2008/m1867-64-impala.json",
-        "data/releases/2008/m1867-64-impala.json"
+        "data/releases/2008/m1867-64-impala.json",
+        "data/releases/2008/m3658-65-mustang-convertible.json",
+        "data/releases/2008/m3661-shelby-cobra-daytona-coupe.json"
     ]
 }

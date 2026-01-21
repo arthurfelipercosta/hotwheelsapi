@@ -1,0 +1,25 @@
+{
+    "release_id": "bfg48-f1-racer-2014",
+    "toy_number": "BFG48",
+    "casting_id": "f1-racer",
+    "year": 2014,
+    "series_id": "hw-race-hw-race-team",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "Hot Wheels Racing Tampos \"8\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Chrome Blue rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G18, G19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/F1_Racer-2014_146_Black.jpg/revision/latest/scale-to-width-down/75?cb=20141019122539"
+    }
+}

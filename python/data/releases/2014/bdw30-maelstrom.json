@@ -1,0 +1,24 @@
+{
+    "release_id": "bdw30-maelstrom-2014",
+    "toy_number": "BDW30",
+    "casting_id": "maelstrom",
+    "year": 2014,
+    "series_id": "high-speed-racing-wheels",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Maroon",
+        "tampo": "Black, Blue, Red, & White stripes & tampos on top and sides, \"51\" on hood and sides, White skull on rear wheels",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Dark Blue",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red & Blue HSRW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/HSRWMaelstrom.jpg/revision/latest/scale-to-width-down/75?cb=20250214112924"
+    }
+}

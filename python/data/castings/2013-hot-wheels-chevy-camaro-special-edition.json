@@ -1,0 +1,29 @@
+{
+    "casting_id": "2013-hot-wheels-chevy-camaro-special-edition",
+    "name": "2013 Hot Wheels Chevy Camaro Special Edition",
+    "description": {
+        "en-us": "2013 Hot Wheels Chevy Camaro Special Edition Debut series HW Showroom: HW Garage Produced 2013 - Present Designer Felix Holst Number X1622",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1622-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2013/x2000-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2013/bck25-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2014/bfd75-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2014/bff30-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2014/bfg81-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2015/cfj09-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2015/cfj70-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2017/dwc90-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2017/dty97-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2017/dvc46-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2020/ghd73-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2022/hfv82-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2022/dap01-2013-hot-wheels-chevy-camaro-special-edition-v3.json",
+        "data/releases/2023/hlk50-2013-hot-wheels-chevy-camaro-special-edition-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Chevy"
+}

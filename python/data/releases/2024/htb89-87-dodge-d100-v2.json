@@ -1,0 +1,25 @@
+{
+    "release_id": "htb89-87-dodge-d100-2024",
+    "toy_number": "HTB89",
+    "casting_id": "87-dodge-d100",
+    "year": 2024,
+    "series_id": "hw-reverse-rake",
+    "series_index": 1,
+    "specs": {
+        "color": "Teal",
+        "tampo": "White, orange and pink stripes on sides & hood, \"100\" & Mopar logo on sides & hood, Dodge, HELLA, BFGoodrich & Hot Wheels logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Black tires",
+            "1": "Gold BAJA5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S36, S42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/D100_Turquoise.jpg/revision/latest/scale-to-width-down/75?cb=20231231214654"
+    }
+}

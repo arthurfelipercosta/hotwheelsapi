@@ -1,0 +1,25 @@
+{
+    "release_id": "ghf55-toyota-2000gt-2020",
+    "toy_number": "GHF55",
+    "casting_id": "toyota-2000gt",
+    "year": 2020,
+    "series_id": "olympic-games-tokyo-2020",
+    "series_index": 8,
+    "specs": {
+        "color": "White",
+        "tampo": "Red & Dark Magenta stripes on hood and sides; \"Tokyo 2020\", \"Karate\" and karate illustration on both sides; Olympic rings, Tokyo 2020 Olympic Games logo & \"Tokyo 2020\" on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Maroon",
+        "wheel_type": {
+            "0": "Gold Chrome Rim",
+            "1": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N28, N29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/GHF55-01.JPG/revision/latest/scale-to-width-down/75?cb=20201201004840"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "casting_id": "bazoomka",
+    "name": "Bazoomka",
+    "description": {
+        "en-us": "Bazoomka Debut series HW Fun Park Produced 2018 - 2019 Designer Dmitriy Shakhmatov Number FJV74",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv74-bazoomka.json",
+        "data/releases/2018/fkb17-bazoomka.json",
+        "data/releases/2019/fyg00-bazoomka.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

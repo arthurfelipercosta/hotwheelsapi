@@ -2,10 +2,15 @@
     "series_id": "heat-fleet",
     "year": 2012,
     "name": "Heat Fleet",
-    "total_releases": 2,
-    "max_index": 8,
+    "total_releases": 7,
+    "max_index": 2,
     "releases": [
+        "data/releases/2012/v5456-twin-mill-iii.json",
+        "data/releases/2012/v5457-dodge-challenger-concept.json",
+        "data/releases/2012/v5458-custom-62-chevy.json",
+        "data/releases/2012/v5461-nissan-350z.json",
         "data/releases/2012/v5462-2008-lancer-evolution.json",
-        "data/releases/2012/v5633-2008-lancer-evolution.json"
+        "data/releases/2012/v5633-2008-lancer-evolution.json",
+        "data/releases/2012/w4455-dodge-challenger-concept.json"
     ]
 }

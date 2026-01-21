@@ -2,9 +2,11 @@
     "series_id": "x-raycers-5-pack",
     "year": 2006,
     "name": "X‑Raycers 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2006/j3304-69-chevelle.json"
+        "data/releases/2006/j3304-69-chevelle.json",
+        "data/releases/2006/j3304-paradigm-shift.json",
+        "data/releases/2006/j3304-vandetta.json"
     ]
 }

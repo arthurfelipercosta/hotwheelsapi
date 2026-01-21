@@ -2,10 +2,12 @@
     "series_id": "forza-horizon",
     "year": 2021,
     "name": "Forza Horizon",
-    "total_releases": 2,
-    "max_index": 1,
+    "total_releases": 4,
+    "max_index": 4,
     "releases": [
         "data/releases/2021/gdg44-srt-viper-gts-r.json",
+        "data/releases/2021/grp35-19-mercedes-benz-a-class.json",
+        "data/releases/2021/grp36-renault-sport-r-s-01.json",
         "data/releases/2021/grp37-corvette-c7-r.json"
     ]
 }

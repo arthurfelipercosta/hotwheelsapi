@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx84-32-ford-2017",
+    "toy_number": "DTX84",
+    "casting_id": "32-ford",
+    "year": 2017,
+    "series_id": "hw-flames",
+    "series_index": 6,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow & Orange flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): J51, J53, K02, K05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/%2732_Ford_DTX84.png/revision/latest/scale-to-width-down/75?cb=20170303221830"
+    }
+}

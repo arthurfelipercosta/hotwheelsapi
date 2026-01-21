@@ -1,0 +1,23 @@
+{
+    "casting_id": "snow-ride",
+    "name": "Snow Ride",
+    "description": {
+        "en-us": "Snow Ride Debut series 2010 New Models Produced 2010 – 2017 Designer Abe Lugo Number R0926",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0926-snow-ride.json",
+        "data/releases/2010/r0926-snow-ride-v2.json",
+        "data/releases/2011/t9900-snow-ride.json",
+        "data/releases/2011/v0102-snow-ride.json",
+        "data/releases/2012/v5538-snow-ride.json",
+        "data/releases/2013/x1734-snow-ride.json",
+        "data/releases/2013/x1924-snow-ride.json",
+        "data/releases/2014/bfb31-snow-ride.json",
+        "data/releases/2017/dty29-snow-ride.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

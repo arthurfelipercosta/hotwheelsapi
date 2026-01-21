@@ -1,0 +1,12 @@
+{
+    "series_id": "stunt-circuit-5-pack",
+    "year": 2016,
+    "name": "Stunt Circuit 5-Pack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2016/djd25-iridium.json",
+        "data/releases/2016/djd25-jack-hammer.json",
+        "data/releases/2016/djd25-rogue-hog.json"
+    ]
+}

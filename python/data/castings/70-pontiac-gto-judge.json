@@ -1,0 +1,24 @@
+{
+    "casting_id": "70-pontiac-gto-judge",
+    "name": "'70 Pontiac GTO Judge",
+    "description": {
+        "en-us": "'70 Pontiac GTO Judge Debut series 2011 New Models Produced 2011 - Present Designer Jun Imai Number T9681",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9681-70-pontiac-gto-judge.json",
+        "data/releases/2011/t9947-70-pontiac-gto-judge.json",
+        "data/releases/2011/v0013-70-pontiac-gto-judge.json",
+        "data/releases/2012/v5407-70-pontiac-gto-judge.json",
+        "data/releases/2012/v5605-70-pontiac-gto-judge.json",
+        "data/releases/2012/w4581-70-pontiac-gto-judge.json",
+        "data/releases/2013/x1812-70-pontiac-gto-judge.json",
+        "data/releases/2014/bdp46-70-pontiac-gto-judge.json",
+        "data/releases/2020/gjw67-70-pontiac-gto-judge.json",
+        "data/releases/2026/jky13-70-pontiac-gto-judge.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Pontiac"
+}

@@ -1,0 +1,25 @@
+{
+    "series_id": "hw-city-street-beasts",
+    "year": 2015,
+    "name": "HW City: Street Beasts",
+    "total_releases": 16,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfg78-steer-clear.json",
+        "data/releases/2015/cfh53-preying-menace.json",
+        "data/releases/2015/cfh54-scorpedo.json",
+        "data/releases/2015/cfh55-eevil-weevil.json",
+        "data/releases/2015/cfh56-tomb-up.json",
+        "data/releases/2015/cfh57-knight-draggin.json",
+        "data/releases/2015/cfh58-ratical-racer.json",
+        "data/releases/2015/cfh59-super-stinger.json",
+        "data/releases/2015/cfh60-piranha-terror.json",
+        "data/releases/2015/cfh61-sharkruiser.json",
+        "data/releases/2015/cfj68-tomb-up.json",
+        "data/releases/2015/cfl50-sharkruiser.json",
+        "data/releases/2015/cfl72-knight-draggin.json",
+        "data/releases/2015/cfl83-scorpedo.json",
+        "data/releases/2015/cfm05-preying-menace.json",
+        "data/releases/2015/cfm19-eevil-weevil.json"
+    ]
+}

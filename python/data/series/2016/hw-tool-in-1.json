@@ -2,9 +2,13 @@
     "series_id": "hw-tool-in-1",
     "year": 2016,
     "name": "HW Tool‑In‑1",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 2,
     "releases": [
-        "data/releases/2016/dhp62-carbonator.json"
+        "data/releases/2016/dhp52-night-burner.json",
+        "data/releases/2016/dhp61-tooligan.json",
+        "data/releases/2016/dhp62-carbonator.json",
+        "data/releases/2016/dhr69-tee-d-off-2.json",
+        "data/releases/2016/dht20-fast-cash.json"
     ]
 }

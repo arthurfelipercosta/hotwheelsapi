@@ -1,0 +1,25 @@
+{
+    "release_id": "v0015-68-chevy-nova-2011",
+    "toy_number": "V0015",
+    "casting_id": "68-chevy-nova",
+    "year": 2011,
+    "series_id": "street-beasts",
+    "series_index": 2,
+    "specs": {
+        "color": "Metallic Light Blue",
+        "tampo": "White Stripes, \"SS\" and \"350\" on sides, \"350\" on hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D24, D27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/2011_Street_Beasts_03.jpg/revision/latest/scale-to-width-down/75?cb=20230907025757"
+    }
+}

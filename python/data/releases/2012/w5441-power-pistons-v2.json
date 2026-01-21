@@ -1,0 +1,24 @@
+{
+    "release_id": "w5441-power-pistons-2012",
+    "toy_number": "W5441",
+    "casting_id": "power-pistons",
+    "year": 2012,
+    "series_id": "light-speeders",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Green Light Speeders logo on rear sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D39, D42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Power_Pistons_-_2012_Light_Speeders_1a.JPG/revision/latest/scale-to-width-down/75?cb=20200824172618"
+    }
+}

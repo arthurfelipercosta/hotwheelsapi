@@ -1,0 +1,14 @@
+{
+    "brand_id": "kia",
+    "name": "Kia",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/2019-kia-stinger-gt.json",
+        "data/castings/custom-kia-ev6.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Kia vehicles.",
+        "pt-br": "Fabricante de veículos Kia."
+    }
+}

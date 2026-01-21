@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-city-planet-heroes",
+    "year": 2014,
+    "name": "HW City: Planet Heroes",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bdc88-u-s-s-vengeance.json",
+        "data/releases/2014/bfc82-mars-rover-curiosity.json",
+        "data/releases/2014/bfc82-mars-rover-curiosity.json",
+        "data/releases/2014/bfc83-spector.json",
+        "data/releases/2014/bfc84-ground-fx.json"
+    ]
+}

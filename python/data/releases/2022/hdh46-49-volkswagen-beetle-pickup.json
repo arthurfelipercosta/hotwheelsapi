@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh46-49-volkswagen-beetle-pickup-2022",
+    "toy_number": "HDH46",
+    "casting_id": "49-volkswagen-beetle-pickup",
+    "year": 2022,
+    "series_id": "volkswagen",
+    "series_index": 7,
+    "specs": {
+        "color": "Navy blue",
+        "tampo": "Detailed headlights, Volkswagen logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black DD8 Rim White"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R10, R11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Hot_Wheels_2022_Volkswagen_set_49_Pickup_loose.jpg/revision/latest/scale-to-width-down/75?cb=20220801220104"
+    }
+}

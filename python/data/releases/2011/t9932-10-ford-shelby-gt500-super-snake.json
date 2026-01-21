@@ -1,0 +1,24 @@
+{
+    "release_id": "t9932-10-ford-shelby-gt500-super-snake-2011",
+    "toy_number": "T9932",
+    "casting_id": "10-ford-shelby-gt500-super-snake",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Dark Red",
+        "tampo": "Black stripes, Cobra Badges",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C47, C48, C50, C51, D02, D03, D04, D05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/10_ford_shelby_gt-500_super_snake_2011_red.png/revision/latest/scale-to-width-down/75?cb=20110128020204"
+    }
+}

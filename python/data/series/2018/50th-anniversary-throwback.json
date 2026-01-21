@@ -2,11 +2,25 @@
     "series_id": "50th-anniversary-throwback",
     "year": 2018,
     "name": "50th Anniversary Throwback",
-    "total_releases": 3,
-    "max_index": 4,
+    "total_releases": 17,
+    "max_index": 3,
     "releases": [
+        "data/releases/2018/frf31-70-dodge-charger-r-t.json",
+        "data/releases/2018/frf32-72-ford-ranchero.json",
         "data/releases/2018/frf33-dmc-delorean.json",
         "data/releases/2018/frf34-83-chevy-silverado.json",
-        "data/releases/2018/frf44-92-ford-mustang.json"
+        "data/releases/2018/frf35-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2018/frf36-dodge-viper-rt-10.json",
+        "data/releases/2018/frf39-15-dodge-challenger-srt.json",
+        "data/releases/2018/frf40-camaro-convertible-concept.json",
+        "data/releases/2018/frf41-76-greenwood-corvette.json",
+        "data/releases/2018/frf42-71-mustang-mach-i.json",
+        "data/releases/2018/frf43-custom-77-dodge-van.json",
+        "data/releases/2018/frf44-92-ford-mustang.json",
+        "data/releases/2018/frf46-ford-f-150.json",
+        "data/releases/2018/frf47-86-monte-carlo-ss.json",
+        "data/releases/2018/frf49-dodge-viper-srt10-acr.json",
+        "data/releases/2018/frf50-2005-ford-mustang-gt.json",
+        "data/releases/2018/fwn23-71-mustang-mach-i.json"
     ]
 }

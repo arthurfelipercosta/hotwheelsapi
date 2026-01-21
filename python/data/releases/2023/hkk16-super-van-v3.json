@@ -1,0 +1,24 @@
+{
+    "release_id": "hkk16-super-van-2023",
+    "toy_number": "HKK16",
+    "casting_id": "super-van",
+    "year": 2023,
+    "series_id": "hw-art-cars",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Navy Blue",
+        "tampo": "White Letter grid puzzle-styled tampos on the sides and roof, featuring the words \"MATTEL\", \"HOT WHEELS CARS\", \"ART CARS\", \"SINCE 1968\" and the highlighted letter \"N\", along with the Hot Wheels logo and side marker lights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Clear",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R49, R51, S02, S03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/70_VAN_%28BLUE_VARIANT%29.png/revision/latest/scale-to-width-down/75?cb=20230323024423"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "nico-rosberg",
+    "year": 2019,
+    "name": "Nico Rosberg",
+    "total_releases": 3,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2019/ggc35-f-racer.json",
+        "data/releases/2019/ggc36-f1-racer.json",
+        "data/releases/2019/ggc37-winning-formula.json"
+    ]
+}

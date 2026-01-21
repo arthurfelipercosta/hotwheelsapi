@@ -2,10 +2,14 @@
     "series_id": "hot-wheels-heritage-real-riders",
     "year": 2015,
     "name": "Hot Wheels Heritage: Real Riders",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 3,
     "releases": [
+        "data/releases/2015/cfn54-chevy-silverado-off-road.json",
+        "data/releases/2015/cfn58-altered-ego.json",
         "data/releases/2015/cfn64-bmw-2002.json",
+        "data/releases/2015/cfn80-aston-martin-1963-db5.json",
+        "data/releases/2015/cfn92-datsun-bluebird-510.json",
         "data/releases/2015/cfn94-datsun-240z.json"
     ]
 }

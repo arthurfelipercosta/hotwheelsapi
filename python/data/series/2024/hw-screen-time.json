@@ -2,12 +2,18 @@
     "series_id": "hw-screen-time",
     "year": 2024,
     "name": "HW Screen Time",
-    "total_releases": 5,
+    "total_releases": 11,
     "max_index": 1,
     "releases": [
         "data/releases/2024/hry45-monster-high-ghoul-mobile.json",
         "data/releases/2024/hry50-hw-ultimate-t-rex-transporter.json",
+        "data/releases/2024/htb32-u-s-s-enterprise-ncc-1701.json",
+        "data/releases/2024/htb33-back-to-the-future-time-machine-hover-mode.json",
+        "data/releases/2024/htb34-ice-charger.json",
+        "data/releases/2024/htb36-aston-martin-1963-db5.json",
+        "data/releases/2024/htb37-1956-corvette.json",
         "data/releases/2024/htb38-minecart.json",
+        "data/releases/2024/htb39-grumobile.json",
         "data/releases/2024/htc80-monster-high-ghoul-mobile.json",
         "data/releases/2024/htc84-hw-ultimate-t-rex-transporter.json"
     ]

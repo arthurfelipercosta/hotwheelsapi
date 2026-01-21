@@ -1,0 +1,12 @@
+{
+    "series_id": "hot-haulers-5-pack",
+    "year": 2010,
+    "name": "Hot Haulers 5-Pack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2010/r0970-07-cadillac-escalade.json",
+        "data/releases/2010/r0970-bedlam.json",
+        "data/releases/2010/r0970-surfin-school-bus.json"
+    ]
+}

@@ -6,13 +6,13 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2019/fyb48-twin-mill-gen-e.json",
-        "data/releases/2020/ghc25-twin-mill-gen-e.json",
-        "data/releases/2020/ghf28-twin-mill-gen-e.json",
-        "data/releases/2021/gtf00-twin-mill-gen-e.json",
-        "data/releases/2022/hfv84-twin-mill-gen-e.json",
-        "data/releases/2023/hkl71-twin-mill-gen-e.json",
-        "data/releases/2025/hyw80-twin-mill-gen-e.json"
+        "data/releases/2019/fyb48-twin-mill-gen-e-v2.json",
+        "data/releases/2020/ghc25-twin-mill-gen-e-v2.json",
+        "data/releases/2020/ghf28-twin-mill-gen-e-v2.json",
+        "data/releases/2021/gtf00-twin-mill-gen-e-v2.json",
+        "data/releases/2022/hfv84-twin-mill-gen-e-v2.json",
+        "data/releases/2023/hkl71-twin-mill-gen-e-v2.json",
+        "data/releases/2025/hyw80-twin-mill-gen-e-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",

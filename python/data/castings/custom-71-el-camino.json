@@ -1,0 +1,25 @@
+{
+    "casting_id": "custom-71-el-camino",
+    "name": "Custom '71 El Camino",
+    "description": {
+        "en-us": "Custom '71 El Camino Debut series 2012 New Models Produced 2012 - Present Designer Fraser Campbell and Alton Takeyasu Number V5337",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5337-custom-71-el-camino-v2.json",
+        "data/releases/2013/bbf68-custom-71-el-camino-v2.json",
+        "data/releases/2013/n-a-custom-71-el-camino-v2.json",
+        "data/releases/2014/bfd05-custom-71-el-camino-v2.json",
+        "data/releases/2019/ghn94-custom-71-el-camino-v2.json",
+        "data/releases/2020/ghc28-custom-71-el-camino-v2.json",
+        "data/releases/2020/ghf70-custom-71-el-camino-v2.json",
+        "data/releases/2020/ghg46-custom-71-el-camino-v2.json",
+        "data/releases/2022/hfv82-custom-71-el-camino-v2.json",
+        "data/releases/2023/hlk50-custom-71-el-camino-v2.json",
+        "data/releases/2025/jby78-custom-71-el-camino-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "50034-40-ford-2001",
+    "toy_number": "50034",
+    "casting_id": "40-ford",
+    "year": 2001,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Black & White",
+        "tampo": "Black Top & Door with Harley Davidson Logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Thailand or China",
+    "notes": "Tampo & Interior differences, see Gallery",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/40sFordTruck_Harley5.JPG/revision/latest/scale-to-width-down/75?cb=20100602083657"
+    }
+}

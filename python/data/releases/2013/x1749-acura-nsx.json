@@ -1,0 +1,25 @@
+{
+    "release_id": "x1749-acura-nsx-2013",
+    "toy_number": "X1749",
+    "casting_id": "acura-nsx",
+    "year": 2013,
+    "series_id": "hw-racing-thrill-racers",
+    "series_index": null,
+    "specs": {
+        "color": "Dark Red",
+        "tampo": "Yellow, White & Black tampos, \"5\" w/racing deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base Code(s): E42, E44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/2013_Acura_NSX.jpg/revision/latest/scale-to-width-down/75?cb=20121222153459"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "fjx63-12-ford-fiesta-2018",
+    "toy_number": "FJX63",
+    "casting_id": "12-ford-fiesta",
+    "year": 2018,
+    "series_id": "checkmate",
+    "series_index": 9,
+    "specs": {
+        "color": "Black",
+        "tampo": "Checker board on sides, \"Pawn\" on doors and roof. Green stripes on sides, HW logo on front windshield",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Green tint",
+        "interior_color": "Lime Green",
+        "wheel_type": {
+            "0": "Black Chrome OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K46, K48, K49, K50, K52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/IMG_20200506_113405.jpg/revision/latest/scale-to-width-down/75?cb=20200506103801"
+    }
+}

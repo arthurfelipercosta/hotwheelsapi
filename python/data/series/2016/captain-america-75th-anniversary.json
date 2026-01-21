@@ -1,0 +1,13 @@
+{
+    "series_id": "captain-america-75th-anniversary",
+    "year": 2016,
+    "name": "Captain America 75th Anniversary",
+    "total_releases": 4,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2016/djk76-rivited.json",
+        "data/releases/2016/djk78-57-plymouth-fury.json",
+        "data/releases/2016/djk81-rd-08.json",
+        "data/releases/2016/djk83-70-mustang-mach-1.json"
+    ]
+}

@@ -2,10 +2,11 @@
     "series_id": "pepsi-nex",
     "year": 2007,
     "name": "Pepsi NEX",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
         "data/releases/2007/pepsi-bone-shaker.json",
+        "data/releases/2007/pepsi-mad-propz.json",
         "data/releases/2007/pepsi-purple-passion.json"
     ]
 }

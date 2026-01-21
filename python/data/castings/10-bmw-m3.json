@@ -1,0 +1,22 @@
+{
+    "casting_id": "10-bmw-m3",
+    "name": "'10 BMW M3",
+    "description": {
+        "en-us": "'10 BMW M3 Debut series 2011 New Models Produced 2011 – Present Designer Unknown Number T9696",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9696-10-bmw-m3.json",
+        "data/releases/2011/t9980-10-bmw-m3.json",
+        "data/releases/2012/w5448-10-bmw-m3.json",
+        "data/releases/2013/x1666-10-bmw-m3.json",
+        "data/releases/2013/x1871-10-bmw-m3.json",
+        "data/releases/2016/djm87-10-bmw-m3.json",
+        "data/releases/2018/fkt59-10-bmw-m3.json",
+        "data/releases/2026/x6999-10-bmw-m3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "BMW"
+}

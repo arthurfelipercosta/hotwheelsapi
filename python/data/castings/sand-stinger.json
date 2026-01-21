@@ -1,0 +1,31 @@
+{
+    "casting_id": "sand-stinger",
+    "name": "Sand Stinger",
+    "description": {
+        "en-us": "Sand Stinger Debut series 2003 First Editions Produced 2003 - 2021 Designer Phil Riehlman Number 56382",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56382-sand-stinger.json",
+        "data/releases/2004/b3799-sand-stinger.json",
+        "data/releases/2005/h9074-sand-stinger.json",
+        "data/releases/2007/k7631-sand-stinger.json",
+        "data/releases/2008/m6969-sand-stinger.json",
+        "data/releases/2008/m6909-sand-stinger.json",
+        "data/releases/2008/m6909-sand-stinger-v2.json",
+        "data/releases/2009/n4073-sand-stinger.json",
+        "data/releases/2010/r7620-sand-stinger.json",
+        "data/releases/2011/t8639-sand-stinger.json",
+        "data/releases/2012/x0136-sand-stinger.json",
+        "data/releases/2012/w4253-sand-stinger.json",
+        "data/releases/2013/x1736-sand-stinger.json",
+        "data/releases/2015/cfk39-sand-stinger.json",
+        "data/releases/2015/cfl62-sand-stinger.json",
+        "data/releases/2017/dxb44-sand-stinger.json",
+        "data/releases/2017/dxb45-sand-stinger.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Mattel"
+}

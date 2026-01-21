@@ -1,0 +1,12 @@
+{
+    "series_id": "demolition-derby-5-pack",
+    "year": 2010,
+    "name": "Demolition Derby 5-Pack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2010/r0971-cat-wheel-loader.json",
+        "data/releases/2010/r0971-jack-hammer.json",
+        "data/releases/2010/r0971-rivited.json"
+    ]
+}

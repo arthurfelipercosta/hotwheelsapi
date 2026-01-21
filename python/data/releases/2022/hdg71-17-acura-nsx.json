@@ -1,0 +1,24 @@
+{
+    "release_id": "hdg71-17-acura-nsx-2022",
+    "toy_number": "HDG71",
+    "casting_id": "17-acura-nsx",
+    "year": 2022,
+    "series_id": "racing-circuit",
+    "series_index": 3,
+    "specs": {
+        "color": "Deep Blue",
+        "tampo": "Detailed headlights and tail lamps, \"17\" on sides and hood, HWGRFx, Castrol, Yokohama and NSX logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P43, P45, P46, P48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/17AcuraNSX_RacingCircuit.jpg/revision/latest/scale-to-width-down/75?cb=20221210130700"
+    }
+}

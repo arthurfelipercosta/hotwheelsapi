@@ -1,0 +1,31 @@
+{
+    "casting_id": "double-demon",
+    "name": "Double Demon",
+    "description": {
+        "en-us": "Double Demon Debut series Speed Demons Produced 1986 - 1996 2010 - present Designer Larry Wood Number 2057",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/1986/2057-double-demon.json",
+        "data/releases/1986/2063-double-demon.json",
+        "data/releases/1987/2057-double-demon.json",
+        "data/releases/1993/2850-double-demon.json",
+        "data/releases/1995/2850-double-demon.json",
+        "data/releases/1996/16046-double-demon.json",
+        "data/releases/2010/r7615-double-demon.json",
+        "data/releases/2011/v8296-double-demon.json",
+        "data/releases/2012/54886-double-demon.json",
+        "data/releases/2013/x6999-double-demon.json",
+        "data/releases/2014/bfc85-double-demon.json",
+        "data/releases/2015/cdt14-double-demon.json",
+        "data/releases/2016/dht34-double-demon.json",
+        "data/releases/2017/dty54-double-demon.json",
+        "data/releases/2018/fjx15-double-demon.json",
+        "data/releases/2019/fyl25-double-demon.json",
+        "data/releases/2024/htv55-double-demon.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 1986,
+    "manufacturer": "Mattel"
+}

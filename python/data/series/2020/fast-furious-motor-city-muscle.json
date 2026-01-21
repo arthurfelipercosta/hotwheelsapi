@@ -2,9 +2,11 @@
     "series_id": "fast-furious-motor-city-muscle",
     "year": 2020,
     "name": "Fast & Furious : Motor City Muscle",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 3,
     "releases": [
-        "data/releases/2020/gjr71-87-buick-regal-gnx.json"
+        "data/releases/2020/gjr70-72-ford-gran-torino-sport.json",
+        "data/releases/2020/gjr71-87-buick-regal-gnx.json",
+        "data/releases/2020/gjr72-66-chevy-nova.json"
     ]
 }

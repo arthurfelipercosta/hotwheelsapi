@@ -1,0 +1,24 @@
+{
+    "release_id": "hrv09-custom-ford-maverick-2024",
+    "toy_number": "HRV09",
+    "casting_id": "custom-ford-maverick",
+    "year": 2024,
+    "series_id": "vintage-racing-club",
+    "series_index": 4,
+    "specs": {
+        "color": "Black",
+        "tampo": "\"11\" on sides & hood; red stripes, Hot Wheels logo, & various sponsor logos on sides; red racing stripes along top; detailed headlights & taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BP4"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T04, T05, T06, T09, T10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/20240407114337.jpg/revision/latest/scale-to-width-down/75?cb=20240407034509"
+    }
+}

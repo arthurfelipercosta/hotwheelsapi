@@ -2,9 +2,18 @@
     "series_id": "lowriders",
     "year": 2006,
     "name": "Lowriders",
-    "total_releases": 1,
+    "total_releases": 10,
     "max_index": 0,
     "releases": [
-        "data/releases/2006/k4761-la-troca.json"
+        "data/releases/2006/k4757-65-chevy-impala.json",
+        "data/releases/2006/k4760-64-buick-riviera.json",
+        "data/releases/2006/k4761-la-troca.json",
+        "data/releases/2006/k4762-64-lincoln-continental.json",
+        "data/releases/2006/k4769-1971-buick-riviera.json",
+        "data/releases/2006/l5864-1971-buick-riviera.json",
+        "data/releases/2006/l5865-64-lincoln-continental.json",
+        "data/releases/2006/l5871-65-chevy-impala.json",
+        "data/releases/2006/l5872-65-chevy-impala.json",
+        "data/releases/2006/l5873-64-buick-riviera.json"
     ]
 }

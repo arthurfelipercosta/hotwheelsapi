@@ -2,10 +2,25 @@
     "series_id": "hw-city-hw-goal",
     "year": 2014,
     "name": "HW City: HW Goal",
-    "total_releases": 2,
+    "total_releases": 17,
     "max_index": 0,
     "releases": [
+        "data/releases/2014/bdc75-avant-garde.json",
+        "data/releases/2014/bfc35-hyundai-genesis-coupe.json",
+        "data/releases/2014/bfc36-yur-so-fast.json",
+        "data/releases/2014/bfc37-torque-twister.json",
+        "data/releases/2014/bfc38-street-shaker.json",
+        "data/releases/2014/bfc39-scoopa-di-fuego.json",
+        "data/releases/2014/bfc40-fast-fish.json",
         "data/releases/2014/bfc41-custom-12-ford-mustang.json",
-        "data/releases/2014/bff66-custom-12-ford-mustang.json"
+        "data/releases/2014/bfc42-audacious.json",
+        "data/releases/2014/bff60-yur-so-fast.json",
+        "data/releases/2014/bff61-torque-twister.json",
+        "data/releases/2014/bff62-street-shaker.json",
+        "data/releases/2014/bff63-mr11.json",
+        "data/releases/2014/bff64-scoopa-di-fuego.json",
+        "data/releases/2014/bff65-fast-fish.json",
+        "data/releases/2014/bff66-custom-12-ford-mustang.json",
+        "data/releases/2014/bff67-audacious.json"
     ]
 }

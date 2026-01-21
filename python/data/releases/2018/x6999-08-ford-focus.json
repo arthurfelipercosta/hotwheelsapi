@@ -1,0 +1,25 @@
+{
+    "release_id": "x6999-08-ford-focus-2018",
+    "toy_number": "X6999",
+    "casting_id": "08-ford-focus",
+    "year": 2018,
+    "series_id": "multipack-exclusive",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Hot Wheels logo with Black, White & Red Tempos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K38, K39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/08%27_Ford_focus_%283765%29_HW_L1160754.JPG/revision/latest/scale-to-width-down/75?cb=20180331153541"
+    }
+}

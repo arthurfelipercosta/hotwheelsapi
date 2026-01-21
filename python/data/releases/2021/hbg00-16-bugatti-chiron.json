@@ -1,0 +1,25 @@
+{
+    "release_id": "hbg00-16-bugatti-chiron-2021",
+    "toy_number": "HBG00",
+    "casting_id": "16-bugatti-chiron",
+    "year": 2021,
+    "series_id": "hot-wheels-id-hw-turbo",
+    "series_index": 3,
+    "specs": {
+        "color": "Spectraflame Blue Royal",
+        "tampo": "Silver trim on sides & front, Detailed Grille & Bugatti badge",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Rim",
+            "1": "Chrome ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/Chironid.jpg/revision/latest/scale-to-width-down/75?cb=20210926125050"
+    }
+}

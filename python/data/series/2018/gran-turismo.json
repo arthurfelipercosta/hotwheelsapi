@@ -2,10 +2,15 @@
     "series_id": "gran-turismo",
     "year": 2018,
     "name": "Gran Turismo",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 7,
     "releases": [
+        "data/releases/2018/fkf27-nissan-skyline-gt-r-bnr34.json",
+        "data/releases/2018/fkf28-renault-sport-r-s-01.json",
         "data/releases/2018/fkf29-2008-lancer-evolution.json",
-        "data/releases/2018/fkf33-ford-gt.json"
+        "data/releases/2018/fkf30-14-corvette-stingray.json",
+        "data/releases/2018/fkf32-bmw-m4.json",
+        "data/releases/2018/fkf33-ford-gt.json",
+        "data/releases/2018/fkf34-mclaren-f1-gtr.json"
     ]
 }

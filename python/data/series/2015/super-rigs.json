@@ -1,0 +1,12 @@
+{
+    "series_id": "super-rigs",
+    "year": 2015,
+    "name": "Super Rigs",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cgc18-dragtor.json",
+        "data/releases/2015/cgc24-cgc27-split-decision.json",
+        "data/releases/2015/cgc25-cgc28-mad-propz.json"
+    ]
+}

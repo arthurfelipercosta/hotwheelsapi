@@ -1,0 +1,27 @@
+{
+    "release_id": "dtx64-ford-focus-rs-2017",
+    "toy_number": "DTX64",
+    "casting_id": "ford-focus-rs",
+    "year": 2017,
+    "series_id": "hw-speed-graphics",
+    "series_index": 8,
+    "specs": {
+        "color": "White",
+        "tampo": "Red & Black stripes on sides, 'KONI' on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Dark Grey",
+        "wheel_type": {
+            "0": "Chrome Red & Black J5",
+            "1": "Chrome Red & Black PR5",
+            "2": "Rare CRPR5 Wheel Variation Base code(s):",
+            "3": "Chrome Red & Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J42, J43, J47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/Ford_Focus_RS_2017.png/revision/latest/scale-to-width-down/75?cb=20170114094302"
+    }
+}

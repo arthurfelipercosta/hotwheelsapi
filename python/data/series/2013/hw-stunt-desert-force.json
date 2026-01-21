@@ -2,9 +2,17 @@
     "series_id": "hw-stunt-desert-force",
     "year": 2013,
     "name": "HW Stunt - Desert Force",
-    "total_releases": 1,
+    "total_releases": 9,
     "max_index": 0,
     "releases": [
-        "data/releases/2013/x1729-dune-it-up.json"
+        "data/releases/2013/x1658-baja-bone-shaker.json",
+        "data/releases/2013/x1727-baja-truck.json",
+        "data/releases/2013/x1728-quicksand.json",
+        "data/releases/2013/x1729-dune-it-up.json",
+        "data/releases/2013/x1730-da-kar.json",
+        "data/releases/2013/x1908-quicksand.json",
+        "data/releases/2013/x1920-da-kar.json",
+        "data/releases/2013/x1921-baja-bone-shaker.json",
+        "data/releases/2013/x1923-baja-bone-shaker.json"
     ]
 }

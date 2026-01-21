@@ -1,0 +1,19 @@
+{
+    "casting_id": "lotus-evija",
+    "name": "Lotus Evija",
+    "description": {
+        "en-us": "Lotus Evija Debut series HW Exotics Produced 2022 – Present Designer Fraser Campbell Number HCT07",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct07-lotus-evija.json",
+        "data/releases/2023/hkh56-lotus-evija.json",
+        "data/releases/2023/hkl13-lotus-evija.json",
+        "data/releases/2024/x6999-lotus-evija.json",
+        "data/releases/2025/jbj89-lotus-evija.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Lotus"
+}

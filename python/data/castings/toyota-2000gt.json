@@ -1,0 +1,29 @@
+{
+    "casting_id": "toyota-2000gt",
+    "name": "Toyota 2000GT",
+    "description": {
+        "en-us": "Toyota 2000GT Debut series HW Showroom: HW All Stars Produced 2013 - Present Designer Jun Imai Number W8305",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1844-toyota-2000gt-v2.json",
+        "data/releases/2013/x2020-toyota-2000gt-v2.json",
+        "data/releases/2014/bfd66-toyota-2000gt-v2.json",
+        "data/releases/2014/bff53-toyota-2000gt-v2.json",
+        "data/releases/2015/blr30-toyota-2000gt-v2.json",
+        "data/releases/2015/dfl51-toyota-2000gt-v2.json",
+        "data/releases/2016/djf79-toyota-2000gt-v2.json",
+        "data/releases/2020/ghc98-toyota-2000gt-v2.json",
+        "data/releases/2020/ghf55-toyota-2000gt-v2.json",
+        "data/releases/2021/grj98-toyota-2000gt-v2.json",
+        "data/releases/2023/hlk15-toyota-2000gt-v2.json",
+        "data/releases/2024/hrv07-toyota-2000gt-v2.json",
+        "data/releases/2025/jbl03-toyota-2000gt-v2.json",
+        "data/releases/2025/jhf01-toyota-2000gt-v2.json",
+        "data/releases/2026/jlb26-toyota-2000gt-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Toyota"
+}

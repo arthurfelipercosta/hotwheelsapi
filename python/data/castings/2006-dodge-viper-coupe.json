@@ -1,0 +1,41 @@
+{
+    "casting_id": "2006-dodge-viper-coupe",
+    "name": "2006 Dodge Viper Coupe",
+    "description": {
+        "en-us": "2006 Dodge Viper Coupe Debut series 2006 First Editions Produced 2006 - Present Designer Phil Riehlman Number J3253",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2006/j3253-2006-dodge-viper-coupe.json",
+        "data/releases/2006/j3253-2006-dodge-viper-coupe-v2.json",
+        "data/releases/2006/j3253-2006-dodge-viper-coupe-v3.json",
+        "data/releases/2006/k5366-2006-dodge-viper-coupe.json",
+        "data/releases/2007/l0758-2006-dodge-viper-coupe.json",
+        "data/releases/2007/l0758-2006-dodge-viper-coupe-v2.json",
+        "data/releases/2007/l0758-2006-dodge-viper-coupe-v3.json",
+        "data/releases/2007/l0758-2006-dodge-viper-coupe-v4.json",
+        "data/releases/2007/l0758-2006-dodge-viper-coupe-v5.json",
+        "data/releases/2007/k6169-2006-dodge-viper-coupe.json",
+        "data/releases/2008/n1272-2006-dodge-viper-coupe.json",
+        "data/releases/2008/m6974-2006-dodge-viper-coupe.json",
+        "data/releases/2008/m6974s-2006-dodge-viper-coupe.json",
+        "data/releases/2008/n4434-2006-dodge-viper-coupe.json",
+        "data/releases/2009/p2467-2006-dodge-viper-coupe.json",
+        "data/releases/2009/p2467-2006-dodge-viper-coupe-v2.json",
+        "data/releases/2009/n4420-2006-dodge-viper-coupe.json",
+        "data/releases/2010/r8509-2006-dodge-viper-coupe.json",
+        "data/releases/2010/t4440-2006-dodge-viper-coupe.json",
+        "data/releases/2010/v1421-2006-dodge-viper-coupe.json",
+        "data/releases/2010/r1130-2006-dodge-viper-coupe.json",
+        "data/releases/2011/w1471-2006-dodge-viper-coupe.json",
+        "data/releases/2012/v5537-2006-dodge-viper-coupe.json",
+        "data/releases/2014/bdl20-2006-dodge-viper-coupe.json",
+        "data/releases/2014/bhr37-2006-dodge-viper-coupe.json",
+        "data/releases/2016/djl17-2006-dodge-viper-coupe.json",
+        "data/releases/2021/bhr37-2006-dodge-viper-coupe.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2006,
+    "manufacturer": "Dodge"
+}

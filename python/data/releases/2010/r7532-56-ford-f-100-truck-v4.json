@@ -1,0 +1,27 @@
+{
+    "release_id": "r7532-56-ford-f-100-truck-2010",
+    "toy_number": "R7532",
+    "casting_id": "56-ford-f-100-truck",
+    "year": 2010,
+    "series_id": "hw-performance",
+    "series_index": 9,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black & white flames on sides with Old \"Champion Spark Plugs\" logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "115",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Has Tilt Front End Base code(s): B50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/%2756_Ford_Champion_-_4628ef.jpg/revision/latest/scale-to-width-down/75?cb=20100329101508"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "release_id": "hrw24-aero-pod-2024",
+    "toy_number": "HRW24",
+    "casting_id": "aero-pod",
+    "year": 2024,
+    "series_id": "batman",
+    "series_index": 10,
+    "specs": {
+        "color": "Aqua blue",
+        "tampo": "\"KING SHARK\" on sides & rear, King Shark character with black & light yellow graphics on sides, light yellow accents on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Solid black ORST",
+            "1": "Batman 10-Pack",
+            "2": "HVX26",
+            "3": "Base code(s):"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Batman_Aeropod_King_Shark_1.jpg/revision/latest?cb=20240411230626"
+    }
+}

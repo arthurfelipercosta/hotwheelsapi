@@ -1,0 +1,12 @@
+{
+    "series_id": "warner-bros-100th-anniversary",
+    "year": 2023,
+    "name": "Warner Bros. 100th Anniversary",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hlk29-custom-77-dodge-van.json",
+        "data/releases/2023/hlk32-fandango.json",
+        "data/releases/2023/hlk33-the-mystery-machine.json"
+    ]
+}

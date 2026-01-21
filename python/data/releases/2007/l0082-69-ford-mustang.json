@@ -1,0 +1,24 @@
+{
+    "release_id": "l0082-69-ford-mustang-2007",
+    "toy_number": "L0082",
+    "casting_id": "69-ford-mustang",
+    "year": 2007,
+    "series_id": "ultra-hots",
+    "series_index": 22,
+    "specs": {
+        "color": "Metalflake Olive Green",
+        "tampo": "Black Stripe on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Opening hood",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/69_mustang_AGENTAIR_6.jpg/revision/latest/scale-to-width-down/75?cb=20081020052221"
+    }
+}

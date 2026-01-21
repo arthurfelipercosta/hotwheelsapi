@@ -1,0 +1,18 @@
+{
+    "series_id": "american-steel",
+    "year": 2020,
+    "name": "American Steel",
+    "total_releases": 9,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2020/gjw65-custom-64-galaxie-500.json",
+        "data/releases/2020/gjw66-66-ford-427-fairlane.json",
+        "data/releases/2020/gjw67-70-pontiac-gto-judge.json",
+        "data/releases/2020/gjw68-69-shelby-gt500.json",
+        "data/releases/2020/gjw70-72-ford-gran-torino-sport.json",
+        "data/releases/2020/gjw71-69-mercury-cougar-eliminator.json",
+        "data/releases/2020/gjw72-custom-67-pontiac-firebird.json",
+        "data/releases/2020/gjw73-70-camaro.json",
+        "data/releases/2020/gjw76-70-buick-gsx.json"
+    ]
+}

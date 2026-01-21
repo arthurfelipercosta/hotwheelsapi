@@ -1,0 +1,24 @@
+{
+    "release_id": "55076-56-ford-f-100-truck-2002",
+    "toy_number": "55076",
+    "casting_id": "56-ford-f-100-truck",
+    "year": 2002,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Flat Black",
+        "tampo": "Silver & Red pinstripes on hood & roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "China",
+    "notes": "Front end flips forward",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/2002-191a.jpg/revision/latest/scale-to-width-down/75?cb=20090609025840"
+    }
+}

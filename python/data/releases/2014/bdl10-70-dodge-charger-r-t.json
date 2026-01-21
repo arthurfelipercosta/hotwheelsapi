@@ -1,0 +1,24 @@
+{
+    "release_id": "bdl10-70-dodge-charger-r-t-2014",
+    "toy_number": "BDL10",
+    "casting_id": "70-dodge-charger-r-t",
+    "year": 2014,
+    "series_id": "holiday-hot-rods",
+    "series_index": 4,
+    "specs": {
+        "color": "White",
+        "tampo": "Red & Gold flames on sides & hood, Red stripes on roof & trun",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome Red & Black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): G38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/HW-2014-4th_of_July--01-Nissan_350Z-1.jpg/revision/latest/scale-to-width-down/75?cb=20170417213134"
+    }
+}

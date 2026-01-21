@@ -1,0 +1,18 @@
+{
+    "brand_id": "datsun",
+    "name": "Datsun",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/1975-datsun-sunny-truck-b120.json",
+        "data/castings/71-datsun-bluebird-510-wagon.json",
+        "data/castings/custom-datsun-240z.json",
+        "data/castings/datsun-240z.json",
+        "data/castings/datsun-620.json",
+        "data/castings/datsun-bluebird-510.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Datsun vehicles.",
+        "pt-br": "Fabricante de veículos Datsun."
+    }
+}

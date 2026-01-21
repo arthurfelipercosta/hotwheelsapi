@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb36-custom-ford-bronco-2021",
+    "toy_number": "GTB36",
+    "casting_id": "custom-ford-bronco",
+    "year": 2021,
+    "series_id": "then-and-now",
+    "series_index": 6,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Black, Grey 7 White stripes on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): P02, P03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/2020_bronco_custom.jpg/revision/latest/scale-to-width-down/75?cb=20210423004945"
+    }
+}

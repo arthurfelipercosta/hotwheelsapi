@@ -1,0 +1,34 @@
+{
+    "casting_id": "ford-mustang-gt-concept",
+    "name": "Ford Mustang GT Concept",
+    "description": {
+        "en-us": "Ford Mustang GT Concept Debut series 2004 First Editions Produced 2004 - Present Designer Dave Weise Number C2709",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2004/c2709-ford-mustang-gt-concept-v3.json",
+        "data/releases/2004/c2709-ford-mustang-gt-concept-v4.json",
+        "data/releases/2005/g6916-ford-mustang-gt-concept-v2.json",
+        "data/releases/2007/k6179-ford-mustang-gt-concept-v2.json",
+        "data/releases/2008/m6963-ford-mustang-gt-concept-v2.json",
+        "data/releases/2009/n4072-ford-mustang-gt-concept-v2.json",
+        "data/releases/2010/r0965-ford-mustang-gt-concept-v2.json",
+        "data/releases/2011/t9869-ford-mustang-gt-concept-v2.json",
+        "data/releases/2011/v5205-ford-mustang-gt-concept-v2.json",
+        "data/releases/2012/x7060-ford-mustang-gt-concept-v2.json",
+        "data/releases/2012/w4636-ford-mustang-gt-concept-v2.json",
+        "data/releases/2013/x1671-ford-mustang-gt-concept-v2.json",
+        "data/releases/2014/bfb24-ford-mustang-gt-concept-v2.json",
+        "data/releases/2015/cfh69-ford-mustang-gt-concept-v2.json",
+        "data/releases/2015/cfl44-ford-mustang-gt-concept-v2.json",
+        "data/releases/2018/fkt58-ford-mustang-gt-concept-v2.json",
+        "data/releases/2020/gjl87-ford-mustang-gt-concept-v2.json",
+        "data/releases/2022/hcw25-ford-mustang-gt-concept-v2.json",
+        "data/releases/2024/hrv60-ford-mustang-gt-concept-v2.json",
+        "data/releases/2026/jkg09-ford-mustang-gt-concept-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2004,
+    "manufacturer": "Ford"
+}

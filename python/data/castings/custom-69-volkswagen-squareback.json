@@ -1,0 +1,34 @@
+{
+    "casting_id": "custom-69-volkswagen-squareback",
+    "name": "Custom '69 Volkswagen Squareback",
+    "description": {
+        "en-us": "Custom '69 Volkswagen Squareback Debut series Slick Rides Produced 2010 - Present Designer Phil Riehlman Number R3747",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r3747-custom-69-volkswagen-squareback.json",
+        "data/releases/2010/r3747-custom-69-volkswagen-squareback-v2.json",
+        "data/releases/2011/t8273-custom-69-volkswagen-squareback.json",
+        "data/releases/2011/t8340-custom-69-volkswagen-squareback.json",
+        "data/releases/2012/w6647-custom-69-volkswagen-squareback.json",
+        "data/releases/2013/x8336-custom-69-volkswagen-squareback.json",
+        "data/releases/2014/bdr69-custom-69-volkswagen-squareback.json",
+        "data/releases/2016/dhr85-custom-69-volkswagen-squareback.json",
+        "data/releases/2016/dhy05-custom-69-volkswagen-squareback.json",
+        "data/releases/2016/dhx65-custom-69-volkswagen-squareback.json",
+        "data/releases/2017/dwh75-custom-69-volkswagen-squareback.json",
+        "data/releases/2018/fkt56-custom-69-volkswagen-squareback.json",
+        "data/releases/2018/flf39-custom-69-volkswagen-squareback.json",
+        "data/releases/2018/fkv18-custom-69-volkswagen-squareback.json",
+        "data/releases/2019/fyd57-custom-69-volkswagen-squareback.json",
+        "data/releases/2019/fyg36-custom-69-volkswagen-squareback.json",
+        "data/releases/2020/gjw98-custom-69-volkswagen-squareback.json",
+        "data/releases/2022/hdh41-custom-69-volkswagen-squareback.json",
+        "data/releases/2023/hlh92-custom-69-volkswagen-squareback.json",
+        "data/releases/2024/hvx24-custom-69-volkswagen-squareback.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Volkswagen"
+}

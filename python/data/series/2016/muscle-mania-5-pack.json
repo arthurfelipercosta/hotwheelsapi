@@ -2,9 +2,12 @@
     "series_id": "muscle-mania-5-pack",
     "year": 2016,
     "name": "Muscle Mania 5-Pack",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2016/djd16-64-impala.json"
+        "data/releases/2016/djd16-64-impala.json",
+        "data/releases/2016/djd16-67-pontiac-firebird-400.json",
+        "data/releases/2016/djd16-69-ford-mustang.json",
+        "data/releases/2016/djd16-classic-nomad.json"
     ]
 }

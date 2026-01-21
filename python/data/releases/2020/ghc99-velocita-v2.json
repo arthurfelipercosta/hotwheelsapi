@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc99-velocita-2020",
+    "toy_number": "GHC99",
+    "casting_id": "velocita",
+    "year": 2020,
+    "series_id": "olympic-games-tokyo-2020",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Midnight Blue",
+        "tampo": "Light Blue stripes, TOKYO 2020, SWIMMING & logos on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Swimming Base code(s): N08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Hot-Wheels-Velocita-Olympic-Games-Tokyo-2020-9-10-A.jpg/revision/latest/scale-to-width-down/75?cb=20200830134243"
+    }
+}

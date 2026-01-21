@@ -1,0 +1,23 @@
+{
+    "casting_id": "lethal-diesel",
+    "name": "Lethal Diesel",
+    "description": {
+        "en-us": "Lethal Diesel Debut series Track Stars Produced 2021 – Present Designer Ryu Asada Number GRX45",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx45-lethal-diesel.json",
+        "data/releases/2021/gtb80-lethal-diesel.json",
+        "data/releases/2022/hct84-lethal-diesel.json",
+        "data/releases/2022/hcx17-lethal-diesel.json",
+        "data/releases/2023/hly79-lethal-diesel.json",
+        "data/releases/2024/hvw85-lethal-diesel.json",
+        "data/releases/2025/jcg85-lethal-diesel.json",
+        "data/releases/2025/hmw27-lethal-diesel.json",
+        "data/releases/2026/jkg06-lethal-diesel.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Mattel"
+}

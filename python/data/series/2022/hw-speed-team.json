@@ -2,9 +2,17 @@
     "series_id": "hw-speed-team",
     "year": 2022,
     "name": "HW Speed Team",
-    "total_releases": 1,
+    "total_releases": 9,
     "max_index": 5,
     "releases": [
+        "data/releases/2022/hct41-roadster-bite.json",
+        "data/releases/2022/hct42-mach-it-go.json",
+        "data/releases/2022/hcv61-fast-fish.json",
+        "data/releases/2022/hcw46-la-fasta.json",
+        "data/releases/2022/hcw81-roadster-bite.json",
+        "data/releases/2022/hcw90-mach-it-go.json",
+        "data/releases/2022/hcx67-fast-fish.json",
+        "data/releases/2022/hcx76-la-fasta.json",
         "data/releases/2022/hcy05-draftnator.json"
     ]
 }

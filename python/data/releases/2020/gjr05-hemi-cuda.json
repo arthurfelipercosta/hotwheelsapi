@@ -1,0 +1,24 @@
+{
+    "release_id": "gjr05-hemi-cuda-2020",
+    "toy_number": "GJR05",
+    "casting_id": "hemi-cuda",
+    "year": 2020,
+    "series_id": "car-culture-power-trip",
+    "series_index": 1,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red, White & Blue Stripes, \"MOPAR\", Sponsors Logos, Front/Rear lights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N33, N35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/0073thRJly1gila103340j31hc0u01gs.jpg/revision/latest/scale-to-width-down/75?cb=20200917064537"
+    }
+}

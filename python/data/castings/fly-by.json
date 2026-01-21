@@ -1,0 +1,20 @@
+{
+    "casting_id": "fly-by",
+    "name": "Fly-By",
+    "description": {
+        "en-us": "Fly-By Debut series HW Off-Road: Hot Wheels Test Facility Produced 2014 - Present Designer Kevin Cao Number BDC99",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc99-fly-by-v2.json",
+        "data/releases/2014/bfg35-fly-by-v2.json",
+        "data/releases/2015/cfh82-fly-by-v2.json",
+        "data/releases/2016/dhr41-fly-by-v2.json",
+        "data/releases/2017/dty60-fly-by-v2.json",
+        "data/releases/2022/hcw40-fly-by-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

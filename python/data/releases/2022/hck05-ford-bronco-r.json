@@ -1,0 +1,24 @@
+{
+    "release_id": "hck05-ford-bronco-r-2022",
+    "toy_number": "HCK05",
+    "casting_id": "ford-bronco-r",
+    "year": 2022,
+    "series_id": "car-culture-american-scene",
+    "series_index": 3,
+    "specs": {
+        "color": "Aqua",
+        "tampo": "Detailed grill and taillights, \"BRNC R\" licence plate on the spare tire holder; \"Ford Performance\", \"Borla\", \"BF Goodrich\" and \"Ford\" logos on both sides; \"Bronco 20\" number plate on sides and hood, detailed roof vents.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "White RR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P45, P46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/BroncoR_AmericanScene_2022_Loose.JPG/revision/latest/scale-to-width-down/75?cb=20220217075232"
+    }
+}

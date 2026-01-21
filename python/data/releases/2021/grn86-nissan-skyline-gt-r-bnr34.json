@@ -1,0 +1,24 @@
+{
+    "release_id": "grn86-nissan-skyline-gt-r-bnr34-2021",
+    "toy_number": "GRN86",
+    "casting_id": "nissan-skyline-gt-r-bnr34",
+    "year": 2021,
+    "series_id": "nissan-skyline-gt-r-collector-set",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Nissan & GT-R logos, detailed headlights & taillights, \"BNR34\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR10SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N52, P08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/GRN86R34-01.JPG/revision/latest/scale-to-width-down/75?cb=20220129025329"
+    }
+}

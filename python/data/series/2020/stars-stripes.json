@@ -2,10 +2,15 @@
     "series_id": "stars-stripes",
     "year": 2020,
     "name": "Stars & Stripes",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 5,
     "releases": [
+        "data/releases/2020/gjw74-68-mercury-cougar.json",
         "data/releases/2020/gjw75-70-chevy-camaro-rs.json",
+        "data/releases/2020/gjw78-71-hemi-cuda.json",
+        "data/releases/2020/gjw79-68-el-camino.json",
+        "data/releases/2020/gjw80-68-plymouth-barracuda-formula-s.json",
+        "data/releases/2020/gjw82-hemi-cuda.json",
         "data/releases/2020/gjw83-blazer-4-4.json"
     ]
 }

@@ -1,0 +1,18 @@
+{
+    "casting_id": "grease-rod",
+    "name": "Grease Rod",
+    "description": {
+        "en-us": "Grease Rod Debut series HW City: Tooned Produced 2015 - 2019 Designer Alton Takeyasu Number CFH26",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh26-grease-rod.json",
+        "data/releases/2016/dht13-grease-rod.json",
+        "data/releases/2017/x6999-grease-rod.json",
+        "data/releases/2019/x6999-grease-rod.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

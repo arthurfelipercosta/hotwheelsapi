@@ -1,0 +1,32 @@
+{
+    "casting_id": "hw40",
+    "name": "HW40",
+    "description": {
+        "en-us": "HW40 Debut series Designers Challenge Produced 2008 - Present Designer Jun Imai Number M3315",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2008/m3315-hw40.json",
+        "data/releases/2008/m3323-hw40.json",
+        "data/releases/2008/m3323-hw40-v2.json",
+        "data/releases/2008/m3315-hw40-v2.json",
+        "data/releases/2008/n7522-hw40.json",
+        "data/releases/2009/p2042-hw40.json",
+        "data/releases/2009/p2418-hw40.json",
+        "data/releases/2011/t9776-hw40.json",
+        "data/releases/2011/x3366-hw40.json",
+        "data/releases/2012/x5948-hw40.json",
+        "data/releases/2013/x9854-hw40.json",
+        "data/releases/2014/bfd30-hw40.json",
+        "data/releases/2016/drb89-hw40.json",
+        "data/releases/2018/fkt53-hw40.json",
+        "data/releases/2020/gjv79-hw40.json",
+        "data/releases/2021/gtn36-hw40.json",
+        "data/releases/2023/hnb26-hw40.json",
+        "data/releases/2024/hxc47-hw40.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2008,
+    "manufacturer": "Mattel"
+}

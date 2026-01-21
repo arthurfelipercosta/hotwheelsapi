@@ -1,0 +1,24 @@
+{
+    "release_id": "hkd25-toyota-supra-2023",
+    "toy_number": "HKD25",
+    "casting_id": "toyota-supra",
+    "year": 2023,
+    "series_id": "fast-furious",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Detailed headlights and taillights, stripe design on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S34, S36, S37, S38, S40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/R34Supra.jpg/revision/latest/scale-to-width-down/75?cb=20231216082257"
+    }
+}

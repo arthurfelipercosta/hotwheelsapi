@@ -2,7 +2,7 @@
     "series_id": "hw-art-cars",
     "year": 2020,
     "name": "HW Art Cars",
-    "total_releases": 14,
+    "total_releases": 17,
     "max_index": 8,
     "releases": [
         "data/releases/2020/ghc13-92-ford-mustang.json",
@@ -10,14 +10,17 @@
         "data/releases/2020/ghc15-bone-shaker.json",
         "data/releases/2020/ghc16-fish-d-chip-d.json",
         "data/releases/2020/ghc17-humvee.json",
+        "data/releases/2020/ghc18-la-fasta.json",
         "data/releases/2020/ghc19-good-humor-truck.json",
         "data/releases/2020/ghc20-rodger-dodger.json",
+        "data/releases/2020/ghc21-super-van.json",
         "data/releases/2020/ghd72-custom-56-ford-truck.json",
         "data/releases/2020/ghd92-rodger-dodger.json",
         "data/releases/2020/ghf53-cruise-bruiser.json",
         "data/releases/2020/ghf95-92-ford-mustang.json",
         "data/releases/2020/ghf96-good-humor-truck.json",
         "data/releases/2020/ghg44-92-ford-mustang.json",
-        "data/releases/2020/ghg60-rodger-dodger.json"
+        "data/releases/2020/ghg60-rodger-dodger.json",
+        "data/releases/2020/gln65-la-fasta.json"
     ]
 }

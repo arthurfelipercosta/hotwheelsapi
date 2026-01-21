@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc53-custom-11-camaro-2020",
+    "toy_number": "GHC53",
+    "casting_id": "custom-11-camaro",
+    "year": 2020,
+    "series_id": "hw-rescue",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "White & Yellow stripes. 'HWFD' & 'FIRE'.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "White Lip OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): N24, N27, N29, N32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/GHC53_Short_Card.jpg/revision/latest/scale-to-width-down/75?cb=20201013093856"
+    }
+}

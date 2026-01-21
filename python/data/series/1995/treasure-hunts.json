@@ -1,0 +1,12 @@
+{
+    "series_id": "treasure-hunts",
+    "year": 1995,
+    "name": "Treasure Hunts",
+    "total_releases": 3,
+    "max_index": 11,
+    "releases": [
+        "data/releases/1995/13351-67-camaro.json",
+        "data/releases/1995/13359-classic-nomad.json",
+        "data/releases/1995/13360-classic-cobra.json"
+    ]
+}

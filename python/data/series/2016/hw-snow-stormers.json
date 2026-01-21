@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-snow-stormers",
+    "year": 2016,
+    "name": "HW Snow Stormers",
+    "total_releases": 10,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2016/dhr57-so-plowed.json",
+        "data/releases/2016/dhr58-12-ford-fiesta.json",
+        "data/releases/2016/dhr60-ice-shredder.json",
+        "data/releases/2016/dhr61-snow-stormer.json",
+        "data/releases/2016/dhr61-snow-stormer.json",
+        "data/releases/2016/dhw92-so-plowed.json",
+        "data/releases/2016/dhw94-ice-shredder.json",
+        "data/releases/2016/dhw95-snow-stormer.json",
+        "data/releases/2016/dhx33-12-ford-fiesta.json",
+        "data/releases/2016/dhx80-12-ford-fiesta.json"
+    ]
+}

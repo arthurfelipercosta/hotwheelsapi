@@ -1,0 +1,37 @@
+{
+    "casting_id": "70-plymouth-aar-cuda",
+    "name": "'70 Plymouth AAR Cuda",
+    "description": {
+        "en-us": "'70 Plymouth AAR Cuda Debut series 2009 New Models Produced 2009 - Present Designer Phil Riehlman Number N4032",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4032-70-plymouth-aar-cuda.json",
+        "data/releases/2009/n4032-70-plymouth-aar-cuda-v2.json",
+        "data/releases/2009/n4032-70-plymouth-aar-cuda-v3.json",
+        "data/releases/2010/r7505-70-plymouth-aar-cuda.json",
+        "data/releases/2010/r7505-70-plymouth-aar-cuda-v2.json",
+        "data/releases/2010/r7505-70-plymouth-aar-cuda-v3.json",
+        "data/releases/2011/t9790-70-plymouth-aar-cuda.json",
+        "data/releases/2011/v5216-70-plymouth-aar-cuda.json",
+        "data/releases/2011/t8454-70-plymouth-aar-cuda.json",
+        "data/releases/2012/w4595-70-plymouth-aar-cuda.json",
+        "data/releases/2012/v5393-70-plymouth-aar-cuda.json",
+        "data/releases/2012/v5719-70-plymouth-aar-cuda.json",
+        "data/releases/2013/x1813-70-plymouth-aar-cuda.json",
+        "data/releases/2013/x1970-70-plymouth-aar-cuda.json",
+        "data/releases/2015/cfh89-70-plymouth-aar-cuda.json",
+        "data/releases/2015/cfm17-70-plymouth-aar-cuda.json",
+        "data/releases/2016/dhr36-70-plymouth-aar-cuda.json",
+        "data/releases/2016/dhx88-70-plymouth-aar-cuda.json",
+        "data/releases/2018/fkt57-70-plymouth-aar-cuda.json",
+        "data/releases/2018/n-a-70-plymouth-aar-cuda.json",
+        "data/releases/2020/gjr82-70-plymouth-aar-cuda.json",
+        "data/releases/2024/hrv38-70-plymouth-aar-cuda.json",
+        "data/releases/2024/hyp68-70-plymouth-aar-cuda.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Plymouth"
+}

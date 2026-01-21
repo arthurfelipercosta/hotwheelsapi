@@ -2,9 +2,14 @@
     "series_id": "toy-story",
     "year": 2019,
     "name": "Toy Story",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 2,
     "releases": [
-        "data/releases/2019/gbb28-nerve-hammer.json"
+        "data/releases/2019/gbb25-power-panel.json",
+        "data/releases/2019/gbb26-velocita.json",
+        "data/releases/2019/gbb27-bully-goat.json",
+        "data/releases/2019/gbb28-nerve-hammer.json",
+        "data/releases/2019/gbb29-blvd-bruiser.json",
+        "data/releases/2019/gbb30-pony-up.json"
     ]
 }

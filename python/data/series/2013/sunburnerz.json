@@ -1,0 +1,11 @@
+{
+    "series_id": "sunburnerz",
+    "year": 2013,
+    "name": "Sunburnerz",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2013/y2148-65-chevy-impala.json",
+        "data/releases/2013/y2149-67-chevelle-ss-396.json"
+    ]
+}

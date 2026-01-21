@@ -1,0 +1,28 @@
+{
+    "release_id": "r7525-08-dodge-challenger-srt8-2010",
+    "toy_number": "R7525",
+    "casting_id": "08-dodge-challenger-srt8",
+    "year": 2010,
+    "series_id": "hw-performance",
+    "series_index": 2,
+    "specs": {
+        "color": "Metallic White",
+        "tampo": "Black, Orange & Red \"K&N\" deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black OH5",
+            "2": "108",
+            "3": "214",
+            "4": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C01, C09, C10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/08challenger_performance_white.JPG/revision/latest/scale-to-width-down/75?cb=20100222233119"
+    }
+}

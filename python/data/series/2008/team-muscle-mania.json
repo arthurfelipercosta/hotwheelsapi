@@ -1,0 +1,12 @@
+{
+    "series_id": "team-muscle-mania",
+    "year": 2008,
+    "name": "Team: Muscle Mania",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2008/m6892-hemi-cuda.json",
+        "data/releases/2008/m6893-69-dodge-charger.json",
+        "data/releases/2008/m6894-68-chevy-nova.json"
+    ]
+}

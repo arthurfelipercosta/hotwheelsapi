@@ -2,9 +2,11 @@
     "series_id": "decide-your-ride-5-pack",
     "year": 2013,
     "name": "Decide Your Ride 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2013/y2590-bone-shaker.json"
+        "data/releases/2013/y2590-bone-shaker.json",
+        "data/releases/2013/y2590-custom-11-camaro.json",
+        "data/releases/2013/y2590-fast-gassin.json"
     ]
 }

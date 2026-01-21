@@ -1,0 +1,22 @@
+{
+    "casting_id": "custom-15-ford-mustang",
+    "name": "Custom '15 Ford Mustang",
+    "description": {
+        "en-us": "Custom '15 Ford Mustang Debut series HW Race: World Race Produced 2015 - 2020 Designer Ryu Asada Number CFH00",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh00-custom-15-ford-mustang.json",
+        "data/releases/2016/dhr25-custom-15-ford-mustang.json",
+        "data/releases/2016/dvf67-custom-15-ford-mustang.json",
+        "data/releases/2018/fjx95-custom-15-ford-mustang.json",
+        "data/releases/2018/fjy69-custom-15-ford-mustang.json",
+        "data/releases/2018/fkb96-custom-15-ford-mustang.json",
+        "data/releases/2019/fxb37-custom-15-ford-mustang.json",
+        "data/releases/2020/gjv23-custom-15-ford-mustang.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Ford"
+}

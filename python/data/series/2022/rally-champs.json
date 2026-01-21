@@ -2,11 +2,16 @@
     "series_id": "rally-champs",
     "year": 2022,
     "name": "Rally Champs",
-    "total_releases": 3,
+    "total_releases": 8,
     "max_index": 1,
     "releases": [
+        "data/releases/2022/hct88-lancia-delta-integrale.json",
+        "data/releases/2022/hct91-sand-burner.json",
         "data/releases/2022/hcv29-84-audi-sport-quattro.json",
+        "data/releases/2022/hcv30-70-ford-escort-rs1600.json",
         "data/releases/2022/hcx60-84-audi-sport-quattro.json",
+        "data/releases/2022/hcx64-sand-burner.json",
+        "data/releases/2022/hcy04-98-subaru-impreza-22b-sti-version.json",
         "data/releases/2022/hcy39-84-audi-sport-quattro.json"
     ]
 }

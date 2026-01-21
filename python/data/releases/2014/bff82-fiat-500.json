@@ -1,0 +1,26 @@
+{
+    "release_id": "bff82-fiat-500-2014",
+    "toy_number": "BFF82",
+    "casting_id": "fiat-500",
+    "year": 2014,
+    "series_id": "hw-city-night-burnerz",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Detailed headlights, FIAT emblem on front & rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark Red",
+        "wheel_type": {
+            "0": "Y5",
+            "1": "10SP",
+            "2": "LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): G21, G22, G23, G24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Fiat_500_white_2014.JPG/revision/latest/scale-to-width-down/75?cb=20141201224112"
+    }
+}

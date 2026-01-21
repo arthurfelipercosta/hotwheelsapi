@@ -1,0 +1,29 @@
+{
+    "release_id": "r0936-09-corvette-stingray-concept-2010",
+    "toy_number": "R0936",
+    "casting_id": "09-corvette-stingray-concept",
+    "year": 2010,
+    "series_id": "2010-new-models",
+    "series_index": 19,
+    "specs": {
+        "color": "Metalflake Grey",
+        "tampo": "Red, Silver and Black emblems and headlights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OH5",
+            "1": "021",
+            "2": "214",
+            "3": "2010",
+            "4": "2010 HW Premiere 21",
+            "5": "52"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B38,C21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Stingray.jpg/revision/latest/scale-to-width-down/75?cb=20091107161518"
+    }
+}

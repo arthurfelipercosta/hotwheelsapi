@@ -1,0 +1,25 @@
+{
+    "release_id": "p2877-chevy-camaro-concept-2009",
+    "toy_number": "P2877",
+    "casting_id": "chevy-camaro-concept",
+    "year": 2009,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "Cold: Red Hot: Yellow",
+        "tampo": "Yellow stripes on hood, red stripes & Rescue 15 on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): B26, B35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/Hot_wheels_camaro_concept_CS_red.jpg/revision/latest/scale-to-width-down/75?cb=20140522190939"
+    }
+}

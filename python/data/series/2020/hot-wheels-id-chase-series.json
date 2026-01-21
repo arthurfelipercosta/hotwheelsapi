@@ -2,9 +2,10 @@
     "series_id": "hot-wheels-id-chase-series",
     "year": 2020,
     "name": "Hot Wheels id: Chase Series",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 6,
     "releases": [
+        "data/releases/2020/gjp02-time-attaxi.json",
         "data/releases/2020/gjp03-tv-series-batmobile.json",
         "data/releases/2020/gjp04-night-shifter.json"
     ]

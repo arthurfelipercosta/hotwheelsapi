@@ -2,12 +2,16 @@
     "series_id": "larry-s-garage-21-car-collection",
     "year": 2009,
     "name": "Larry's Garage 21-Car Collection",
-    "total_releases": 4,
+    "total_releases": 8,
     "max_index": 0,
     "releases": [
+        "data/releases/2009/n9855-3-window-34.json",
         "data/releases/2009/n9855-33-ford-lo-boy.json",
+        "data/releases/2009/n9855-67-pontiac-gto.json",
+        "data/releases/2009/n9855-69-ford-mustang.json",
         "data/releases/2009/n9855-bone-shaker.json",
         "data/releases/2009/n9855-purple-passion.json",
+        "data/releases/2009/n9855-so-fine.json",
         "data/releases/2009/r2232-pass-n-gasser.json"
     ]
 }

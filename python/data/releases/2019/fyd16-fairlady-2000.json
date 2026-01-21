@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd16-fairlady-2000-2019",
+    "toy_number": "FYD16",
+    "casting_id": "fairlady-2000",
+    "year": 2019,
+    "series_id": "nightburnerz",
+    "series_index": 10,
+    "specs": {
+        "color": "Metallic Yellow",
+        "tampo": "Black stripes on hood, roof, deck lid and sides, black & white Number '2' on doors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M02, L51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Fairlady_2000_Yellow_19.jpg/revision/latest/scale-to-width-down/75?cb=20190315084506"
+    }
+}

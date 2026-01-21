@@ -1,0 +1,23 @@
+{
+    "casting_id": "63-chevy-ii",
+    "name": "'63 Chevy II",
+    "description": {
+        "en-us": "'63 Chevy II Debut series Muscle Mania Produced 2016 - present Designer Ryu Asada Number DHP13",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp13-63-chevy-ii.json",
+        "data/releases/2016/dhx39-63-chevy-ii.json",
+        "data/releases/2016/dmk41-63-chevy-ii.json",
+        "data/releases/2017/dtx85-63-chevy-ii.json",
+        "data/releases/2017/dvc89-63-chevy-ii.json",
+        "data/releases/2017/fjp15-63-chevy-ii.json",
+        "data/releases/2018/fjw68-63-chevy-ii.json",
+        "data/releases/2018/fkc11-63-chevy-ii.json",
+        "data/releases/2019/ghn99-63-chevy-ii.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Chevy"
+}

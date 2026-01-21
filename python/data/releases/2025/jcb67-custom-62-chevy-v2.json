@@ -1,0 +1,24 @@
+{
+    "release_id": "jcb67-custom-62-chevy-2025",
+    "toy_number": "JCB67",
+    "casting_id": "custom-62-chevy",
+    "year": 2025,
+    "series_id": "surf-s-up",
+    "series_index": 1,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Detailed headlights and taillights, Hot Wheels logo and white & silver accent striping on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "MM5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T50N, U01N, U04N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/Silver_Series_2025_Surf%27s_Up_Custom_%2762_Chevy_Pickup_Yellow_Malaysia_JCB67.jpg/revision/latest/scale-to-width-down/75?cb=20250319232222"
+    }
+}

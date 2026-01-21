@@ -1,0 +1,20 @@
+{
+    "casting_id": "batman-live-batmobile",
+    "name": "Batman Live Batmobile",
+    "description": {
+        "en-us": "Batman Live Batmobile Debut series HW Imagination: Batman Produced 2013 - 2019 Designer Manson Cheung Number X1628",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1628-batman-live-batmobile.json",
+        "data/releases/2014/cck68-batman-live-batmobile.json",
+        "data/releases/2015/cfk23-batman-live-batmobile.json",
+        "data/releases/2015/cfl46-batman-live-batmobile.json",
+        "data/releases/2017/dvf92-batman-live-batmobile.json",
+        "data/releases/2019/fyx91-batman-live-batmobile.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

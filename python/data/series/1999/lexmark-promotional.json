@@ -2,10 +2,13 @@
     "series_id": "lexmark-promotional",
     "year": 1999,
     "name": "Lexmark Promotional",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/1999/22078-purple-passion.json",
+        "data/releases/1999/23537-70-chevelle-ss.json",
+        "data/releases/1999/23539-3-window-34.json",
+        "data/releases/1999/23539-3-window-34.json",
         "data/releases/1999/23540-67-mustang.json"
     ]
 }

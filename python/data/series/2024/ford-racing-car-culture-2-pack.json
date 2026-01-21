@@ -2,9 +2,10 @@
     "series_id": "ford-racing-car-culture-2-pack",
     "year": 2024,
     "name": "Ford Racing Car Culture 2-Pack",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2024/hrr77-17-ford-f-150-raptor.json"
+        "data/releases/2024/hrr77-17-ford-f-150-raptor.json",
+        "data/releases/2024/hrr77-ford-bronco-r.json"
     ]
 }

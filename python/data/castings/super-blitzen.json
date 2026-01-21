@@ -1,0 +1,33 @@
+{
+    "casting_id": "super-blitzen",
+    "name": "Super Blitzen",
+    "description": {
+        "en-us": "Super Blitzen Debut series 2011 New Models Produced 2011 - Present Designer Ryu Asada Number T9687\\n\\nSuper Blitzen is a depiction of a futuristic German race car or touring car.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9687-super-blitzen.json",
+        "data/releases/2011/t9970-super-blitzen.json",
+        "data/releases/2012/y8827-super-blitzen.json",
+        "data/releases/2012/y8828-super-blitzen.json",
+        "data/releases/2013/x1744-super-blitzen.json",
+        "data/releases/2013/x1928-super-blitzen.json",
+        "data/releases/2013/y0189-super-blitzen.json",
+        "data/releases/2013/y0183-super-blitzen.json",
+        "data/releases/2014/bfd35-super-blitzen.json",
+        "data/releases/2014/bfg60-super-blitzen.json",
+        "data/releases/2015/cfk92-super-blitzen.json",
+        "data/releases/2015/cfm16-super-blitzen.json",
+        "data/releases/2016/djd27-super-blitzen.json",
+        "data/releases/2016/x6999-super-blitzen.json",
+        "data/releases/2017/dwc07-super-blitzen.json",
+        "data/releases/2019/gfp20-super-blitzen.json",
+        "data/releases/2019/fxb20-super-blitzen.json",
+        "data/releases/2019/fyl22-super-blitzen.json",
+        "data/releases/2021/gtf17-super-blitzen.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "bdl74-71-mustang-mach-i-2014",
+    "toy_number": "BDL74",
+    "casting_id": "71-mustang-mach-i",
+    "year": 2014,
+    "series_id": "mustang-50-years",
+    "series_index": 3,
+    "specs": {
+        "color": "Red",
+        "tampo": "Gold & Yellow stripes on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F47, F48, G04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/%2771_Mustang_mach_I_red_50_years_set_car.JPG/revision/latest/scale-to-width-down/75?cb=20140513172848"
+    }
+}

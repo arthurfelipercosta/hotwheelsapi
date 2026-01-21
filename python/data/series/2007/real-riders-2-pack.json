@@ -2,9 +2,11 @@
     "series_id": "real-riders-2-pack",
     "year": 2007,
     "name": "Real Riders 2-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2007/j3698-70-dodge-hemi-challenger.json"
+        "data/releases/2007/j3698-70-dodge-hemi-challenger.json",
+        "data/releases/2007/j3698-dodge-challenger-concept.json",
+        "data/releases/2007/k9988-chevy-camaro-concept.json"
     ]
 }

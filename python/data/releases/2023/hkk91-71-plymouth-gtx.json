@@ -1,0 +1,24 @@
+{
+    "release_id": "hkk91-71-plymouth-gtx-2023",
+    "toy_number": "HKK91",
+    "casting_id": "71-plymouth-gtx",
+    "year": 2023,
+    "series_id": "muscle-mania",
+    "series_index": 7,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Black and Light Blue stripes on side, Detailed door handle and indicator lamps. HW logo, GTX emblem on sides, Black accent, Light Blue stripes, \"440\" on hood, \"Plymouth\" on tailgate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S25, S26, S28, S30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/HKK91-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20231028022244"
+    }
+}

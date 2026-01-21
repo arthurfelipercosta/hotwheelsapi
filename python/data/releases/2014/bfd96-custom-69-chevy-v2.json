@@ -1,0 +1,25 @@
+{
+    "release_id": "bfd96-custom-69-chevy-2014",
+    "toy_number": "BFD96",
+    "casting_id": "custom-69-chevy",
+    "year": 2014,
+    "series_id": "hw-workshop-heat-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Orange",
+        "tampo": "Flames on sides, hood & roof.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow Tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Codes: G04, G08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/%2769_Chevy-2014_217.jpg/revision/latest/scale-to-width-down/75?cb=20140405131155"
+    }
+}

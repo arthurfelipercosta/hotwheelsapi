@@ -1,0 +1,24 @@
+{
+    "release_id": "gbc45-power-pistons-2019",
+    "toy_number": "GBC45",
+    "casting_id": "power-pistons",
+    "year": 2019,
+    "series_id": "spring",
+    "series_index": 3,
+    "specs": {
+        "color": "Purple",
+        "tampo": "Blue & Purple graphics w/ Yellow \"Spring '19 Circuit\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Blue & White AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/Power_Pistons_-_2019_Easter_-_Wal-Mart_Exclusive_1a.JPG/revision/latest/scale-to-width-down/75?cb=20200824173508"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "gml08-twin-mill-2020",
+    "toy_number": "GML08",
+    "casting_id": "twin-mill",
+    "year": 2020,
+    "series_id": "hot-wheels-id-hw-metro",
+    "series_index": 1,
+    "specs": {
+        "color": "Spectraflame Black",
+        "tampo": "\"HW Metro Police\" along hood & sides with red & blue stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black Tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/HW_GML08_Twin_Mill.jpg/revision/latest/scale-to-width-down/75?cb=20201012032621"
+    }
+}

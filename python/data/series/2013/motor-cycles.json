@@ -1,0 +1,16 @@
+{
+    "series_id": "motor-cycles",
+    "year": 2013,
+    "name": "Motor Cycles",
+    "total_releases": 7,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x2075-canyon-carver.json",
+        "data/releases/2013/x2082-batpod.json",
+        "data/releases/2013/y0279-street-noz.json",
+        "data/releases/2013/y0285-ducati-1098r.json",
+        "data/releases/2013/y0286-hw450f.json",
+        "data/releases/2013/y0290-harley-davidson-fat-boy.json",
+        "data/releases/2013/y0291-blastous-moto.json"
+    ]
+}

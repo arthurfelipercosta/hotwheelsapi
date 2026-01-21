@@ -1,0 +1,13 @@
+{
+    "series_id": "heat-fleet-5-pack",
+    "year": 2012,
+    "name": "Heat Fleet 5-Pack",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2012/w4242-07-ford-mustang.json",
+        "data/releases/2012/w4242-2009-ford-f-150.json",
+        "data/releases/2012/w4242-ms-t-suzuka.json",
+        "data/releases/2012/w4242-power-panel.json"
+    ]
+}

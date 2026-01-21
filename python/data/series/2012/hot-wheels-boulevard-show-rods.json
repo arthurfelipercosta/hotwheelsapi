@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-boulevard-show-rods",
+    "year": 2012,
+    "name": "Hot Wheels Boulevard: Show Rods",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2012/w4583-fangula.json",
+        "data/releases/2012/w4635-rigor-motor.json",
+        "data/releases/2012/w4642-hot-tub.json",
+        "data/releases/2012/w4650-twin-mill.json"
+    ]
+}

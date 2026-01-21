@@ -1,0 +1,11 @@
+{
+    "series_id": "cruisin-america-hot-rods",
+    "year": 2002,
+    "name": "Cruisin' America: Hot Rods",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2002/56499-32-ford.json",
+        "data/releases/2002/56501-phaeton.json"
+    ]
+}

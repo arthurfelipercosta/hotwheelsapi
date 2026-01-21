@@ -2,12 +2,17 @@
     "series_id": "hw-ride-ons",
     "year": 2019,
     "name": "HW Ride-Ons",
-    "total_releases": 4,
+    "total_releases": 9,
     "max_index": 1,
     "releases": [
+        "data/releases/2019/fyb63-diaper-dragger.json",
+        "data/releases/2019/fyb64-wheelie-chair.json",
         "data/releases/2019/fyc87-bogzilla.json",
         "data/releases/2019/fyc88-kick-kart.json",
         "data/releases/2019/fyf54-kick-kart.json",
-        "data/releases/2019/fyf68-bogzilla.json"
+        "data/releases/2019/fyf55-diaper-dragger.json",
+        "data/releases/2019/fyf56-wheelie-chair.json",
+        "data/releases/2019/fyf68-bogzilla.json",
+        "data/releases/2019/fyg00-bazoomka.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "t9712-70-dodge-charger-r-t-2011",
+    "toy_number": "T9712",
+    "casting_id": "70-dodge-charger-r-t",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 42,
+    "specs": {
+        "color": "Orange Metalflake",
+        "tampo": "White stripes on hood, \"R/T\" on sides, White stripe over rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D25, D26, D27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/70_Dodge_Charger_2011_NM_Orange.jpg/revision/latest/scale-to-width-down/75?cb=20111224232428"
+    }
+}

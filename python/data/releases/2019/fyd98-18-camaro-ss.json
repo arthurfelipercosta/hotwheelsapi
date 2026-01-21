@@ -1,0 +1,25 @@
+{
+    "release_id": "fyd98-18-camaro-ss-2019",
+    "toy_number": "FYD98",
+    "casting_id": "18-camaro-ss",
+    "year": 2019,
+    "series_id": "hw-speed-graphics",
+    "series_index": 3,
+    "specs": {
+        "color": "Lime Green",
+        "tampo": "Black & Red stripes on hood and trunk, 'Brembo' logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M03, M05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/2018CamaroSSFYD98.jpg/revision/latest/scale-to-width-down/75?cb=20190325202244"
+    }
+}

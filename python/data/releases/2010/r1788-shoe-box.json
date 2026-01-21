@@ -1,0 +1,25 @@
+{
+    "release_id": "r1788-shoe-box-2010",
+    "toy_number": "R1788",
+    "casting_id": "shoe-box",
+    "year": 2010,
+    "series_id": "hot-wheels-garage-30-car-set",
+    "series_index": null,
+    "specs": {
+        "color": "Gray",
+        "tampo": "Silver outlined Red flames, Red roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Silver",
+        "wheel_type": {
+            "0": "White Line",
+            "1": "Red DDRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/ShoeBox_GarageSet.JPG/revision/latest/scale-to-width-down/75?cb=20100612102404"
+    }
+}

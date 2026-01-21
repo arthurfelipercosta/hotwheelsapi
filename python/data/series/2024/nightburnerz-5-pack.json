@@ -2,9 +2,12 @@
     "series_id": "nightburnerz-5-pack",
     "year": 2024,
     "name": "Nightburnerz 5-Pack",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2024/htv43-67-shelby-gt500.json"
+        "data/releases/2024/htv43-18-copo-camaro-ss.json",
+        "data/releases/2024/htv43-67-shelby-gt500.json",
+        "data/releases/2024/htv43-gazella-r.json",
+        "data/releases/2024/htv43-nissan-300zx-twin-turbo.json"
     ]
 }

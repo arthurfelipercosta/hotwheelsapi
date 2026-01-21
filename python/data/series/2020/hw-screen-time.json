@@ -2,9 +2,19 @@
     "series_id": "hw-screen-time",
     "year": 2020,
     "name": "HW Screen Time",
-    "total_releases": 1,
+    "total_releases": 11,
     "max_index": 9,
     "releases": [
-        "data/releases/2020/ghc81-snoopy.json"
+        "data/releases/2020/ghb44-astana-hotto.json",
+        "data/releases/2020/ghb46-ion-motors-thresher.json",
+        "data/releases/2020/ghb47-party-wagon.json",
+        "data/releases/2020/ghc76-the-flintstones-flintmobile.json",
+        "data/releases/2020/ghc77-65-mustang-convertible.json",
+        "data/releases/2020/ghc78-70-chevelle-ss.json",
+        "data/releases/2020/ghc79-unsc-warthog.json",
+        "data/releases/2020/ghc80-octane.json",
+        "data/releases/2020/ghc81-snoopy.json",
+        "data/releases/2020/ghd78-the-beatles-yellow-submarine.json",
+        "data/releases/2020/ghf97-octane.json"
     ]
 }

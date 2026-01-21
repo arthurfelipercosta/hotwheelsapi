@@ -1,0 +1,26 @@
+{
+    "release_id": "13872-67-camaro-1996",
+    "toy_number": "13872",
+    "casting_id": "67-camaro",
+    "year": 1996,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripes on hood & trunk, yellow Hot Wheels logo on rear window",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "5DOT",
+            "2": "3SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Found with or without country on base",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/448camaro.jpg/revision/latest/scale-to-width-down/75?cb=20090525041318"
+    }
+}

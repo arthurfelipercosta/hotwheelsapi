@@ -1,0 +1,24 @@
+{
+    "release_id": "hct96-porsche-935-2022",
+    "toy_number": "HCT96",
+    "casting_id": "porsche-935",
+    "year": 2022,
+    "series_id": "retro-racers",
+    "series_index": 8,
+    "specs": {
+        "color": "Deep Blue",
+        "tampo": "Yellow & red accents, \"35\", Bilstein & Goodyear logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R04, R05, R06, R07, R08, R09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/HCT96-01.JPG/revision/latest?cb=20220525071117"
+    }
+}

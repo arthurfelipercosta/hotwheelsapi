@@ -1,0 +1,17 @@
+{
+    "series_id": "mystery-car",
+    "year": 2009,
+    "name": "Mystery Car",
+    "total_releases": 8,
+    "max_index": 20,
+    "releases": [
+        "data/releases/2009/p2490-ford-shelby-cobra-concept.json",
+        "data/releases/2009/p2491-fast-fish.json",
+        "data/releases/2009/p2496-nitro-doorslammer.json",
+        "data/releases/2009/p2497-chevy-camaro-concept.json",
+        "data/releases/2009/p2502-prototype-h-24.json",
+        "data/releases/2009/p2503-rogue-hog.json",
+        "data/releases/2009/p2506-08-ford-focus.json",
+        "data/releases/2009/p2509-custom-64-galaxie-500.json"
+    ]
+}

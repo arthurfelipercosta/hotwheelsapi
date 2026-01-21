@@ -1,0 +1,29 @@
+{
+    "casting_id": "custom-datsun-240z",
+    "name": "Custom Datsun 240Z",
+    "description": {
+        "en-us": "Custom Datsun 240Z Debut series Factory Fresh Produced 2017 - Present Designer Jun Imai Number DTW89",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtw89-custom-datsun-240z.json",
+        "data/releases/2017/dtw89-custom-datsun-240z-v2.json",
+        "data/releases/2017/dvb43-custom-datsun-240z.json",
+        "data/releases/2017/dwh88-custom-datsun-240z.json",
+        "data/releases/2018/fjx64-custom-datsun-240z.json",
+        "data/releases/2018/fjy95-custom-datsun-240z.json",
+        "data/releases/2018/fkb89-custom-datsun-240z.json",
+        "data/releases/2019/gbb86-custom-datsun-240z.json",
+        "data/releases/2023/hlk49-custom-datsun-240z.json",
+        "data/releases/2024/hrv10-custom-datsun-240z.json",
+        "data/releases/2024/hrt53-custom-datsun-240z.json",
+        "data/releases/2025/jbm05-custom-datsun-240z.json",
+        "data/releases/2025/x6999-custom-datsun-240z.json",
+        "data/releases/2025/x6999-custom-datsun-240z-v2.json",
+        "data/releases/2025/x6999-custom-datsun-240z-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Datsun"
+}

@@ -1,0 +1,16 @@
+{
+    "casting_id": "rink-racer",
+    "name": "Rink Racer",
+    "description": {
+        "en-us": "Rink Racer Debut series HW Ride-Ons Produced 2024 – Present Designer Bryan Benedict and Bryan Zhao Number HRY79",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2024/hry79-rink-racer.json",
+        "data/releases/2024/htf11-rink-racer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2024,
+    "manufacturer": "Mattel"
+}

@@ -2,9 +2,11 @@
     "series_id": "hw-city-works-5-pack",
     "year": 2012,
     "name": "HW City Works 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/w4252-5-alarm.json"
+        "data/releases/2012/w4252-5-alarm.json",
+        "data/releases/2012/w4252-boom-box.json",
+        "data/releases/2012/w4252-custom-77-dodge-van.json"
     ]
 }

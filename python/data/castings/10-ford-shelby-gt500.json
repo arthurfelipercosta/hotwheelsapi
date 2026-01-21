@@ -1,0 +1,21 @@
+{
+    "casting_id": "10-ford-shelby-gt500",
+    "name": "'10 Ford Shelby GT500",
+    "description": {
+        "en-us": "'10 Ford Shelby GT500 Debut series 2010 New Models Produced 2010 – 2015 Designer Phil Riehlman Number R0924",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0924-10-ford-shelby-gt500.json",
+        "data/releases/2010/r0924-10-ford-shelby-gt500-v2.json",
+        "data/releases/2010/r0924-10-ford-shelby-gt500-v3.json",
+        "data/releases/2011/t8329-10-ford-shelby-gt500.json",
+        "data/releases/2012/w4254-10-ford-shelby-gt500.json",
+        "data/releases/2015/cfh35-10-ford-shelby-gt500.json",
+        "data/releases/2015/cfj78-10-ford-shelby-gt500.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Ford"
+}

@@ -2,9 +2,20 @@
     "series_id": "hw-mild-to-wild",
     "year": 2016,
     "name": "HW Mild to Wild",
-    "total_releases": 1,
+    "total_releases": 12,
     "max_index": 2,
     "releases": [
-        "data/releases/2016/dhp82-bone-shaker.json"
+        "data/releases/2016/dhp81-aston-martin-v8-vantage.json",
+        "data/releases/2016/dhp82-bone-shaker.json",
+        "data/releases/2016/dhp84-10-camaro-ss.json",
+        "data/releases/2016/dhp85-2010-ford-mustang-gt.json",
+        "data/releases/2016/dhp86-aston-martin-vantage-gt3.json",
+        "data/releases/2016/dhp87-baja-bone-shaker.json",
+        "data/releases/2016/dhp88-76-greenwood-corvette.json",
+        "data/releases/2016/dhp89-10-pro-stock-camaro.json",
+        "data/releases/2016/dhp90-13-ford-mustang-gt.json",
+        "data/releases/2016/dht78-10-pro-stock-camaro.json",
+        "data/releases/2016/dhx54-76-greenwood-corvette.json",
+        "data/releases/2016/dhx84-76-greenwood-corvette.json"
     ]
 }

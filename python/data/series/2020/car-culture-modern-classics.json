@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-modern-classics",
+    "year": 2020,
+    "name": "Car Culture: Modern Classics",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2020/gjp96-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2020/gjr00-honda-civic-eg.json"
+    ]
+}

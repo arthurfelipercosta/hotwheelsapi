@@ -1,0 +1,25 @@
+{
+    "release_id": "v5544-fangula-2012",
+    "toy_number": "V5544",
+    "casting_id": "fangula",
+    "year": 2012,
+    "series_id": "hw-code-cars",
+    "series_index": 15,
+    "specs": {
+        "color": "Metalflake Midnight Blue",
+        "tampo": "Orange, White & Gold tampos, silver spider web on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Orange)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "J5 (Back)",
+            "1": "SK5 (Front)"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E06, E13, E14, E23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/Fangula_.240_2012_HW_Code_Cars.jpg/revision/latest/scale-to-width-down/75?cb=20120613071534"
+    }
+}

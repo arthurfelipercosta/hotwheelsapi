@@ -2,11 +2,13 @@
     "series_id": "car-culture-power-trip",
     "year": 2020,
     "name": "Car Culture: Power Trip",
-    "total_releases": 3,
+    "total_releases": 5,
     "max_index": 3,
     "releases": [
         "data/releases/2020/gjr01-91-gmc-syclone.json",
         "data/releases/2020/gjr02-87-buick-regal-gnx.json",
-        "data/releases/2020/gjr03-custom-72-chevy-luv.json"
+        "data/releases/2020/gjr03-custom-72-chevy-luv.json",
+        "data/releases/2020/gjr04-18-dodge-challenger-srt-demon.json",
+        "data/releases/2020/gjr05-hemi-cuda.json"
     ]
 }

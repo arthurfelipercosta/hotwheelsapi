@@ -1,0 +1,21 @@
+{
+    "casting_id": "tarmac-attack",
+    "name": "Tarmac Attack",
+    "description": {
+        "en-us": "Tarmac Attack Debut series HW Racing: Track Aces Produced 2013 - 2017 Designer Todd Gibbs Number X1645",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1645-tarmac-attack.json",
+        "data/releases/2013/x1948-tarmac-attack.json",
+        "data/releases/2013/x1948-tarmac-attack-v2.json",
+        "data/releases/2013/x1948-tarmac-attack-v3.json",
+        "data/releases/2015/cft91-tarmac-attack.json",
+        "data/releases/2017/dtx52-tarmac-attack.json",
+        "data/releases/2017/dvb39-tarmac-attack.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dvc04-terrain-storm-2017",
+    "toy_number": "DVC04",
+    "casting_id": "terrain-storm",
+    "year": 2017,
+    "series_id": "hw-snow-stormers",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Pearl Blue & Black stripes on sides & hood, HW logo on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White & Pale Blue BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Terrain_Storm_DVC04.png/revision/latest/scale-to-width-down/75?cb=20170324220715"
+    }
+}

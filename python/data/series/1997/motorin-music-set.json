@@ -1,0 +1,11 @@
+{
+    "series_id": "motorin-music-set",
+    "year": 1997,
+    "name": "Motorin' Music Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1997/17279-67-pontiac-gto.json",
+        "data/releases/1997/17279-classic-cobra.json"
+    ]
+}

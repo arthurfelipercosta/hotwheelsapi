@@ -1,0 +1,32 @@
+{
+    "casting_id": "scorpedo",
+    "name": "Scorpedo",
+    "description": {
+        "en-us": "Scorpedo Debut series Color Shifters Creatures Produced 2010 - Present Designer Rob Matthes Number R1191",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r1191-scorpedo.json",
+        "data/releases/2010/r7808-scorpedo.json",
+        "data/releases/2011/t9912-scorpedo.json",
+        "data/releases/2012/w4248-scorpedo.json",
+        "data/releases/2013/x1703-scorpedo.json",
+        "data/releases/2013/x1888-scorpedo.json",
+        "data/releases/2014/bfb37-scorpedo.json",
+        "data/releases/2015/cfh54-scorpedo.json",
+        "data/releases/2015/cfl83-scorpedo.json",
+        "data/releases/2016/dhr97-scorpedo.json",
+        "data/releases/2016/dhx05-scorpedo.json",
+        "data/releases/2017/dvf93-scorpedo.json",
+        "data/releases/2018/fjx35-scorpedo.json",
+        "data/releases/2019/fly10-scorpedo.json",
+        "data/releases/2019/fxb10-scorpedo.json",
+        "data/releases/2021/gww05-scorpedo.json",
+        "data/releases/2023/gkc20-scorpedo.json",
+        "data/releases/2023/hly77-scorpedo.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

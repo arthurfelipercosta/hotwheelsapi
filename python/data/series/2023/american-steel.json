@@ -2,9 +2,14 @@
     "series_id": "american-steel",
     "year": 2023,
     "name": "American Steel",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 4,
     "releases": [
-        "data/releases/2023/hrr22-67-ford-mustang-coupe.json"
+        "data/releases/2023/hrr21-66-ford-427-fairlane.json",
+        "data/releases/2023/hrr22-67-ford-mustang-coupe.json",
+        "data/releases/2023/hrr23-custom-67-pontiac-firebird.json",
+        "data/releases/2023/hrr24-68-mercury-cougar.json",
+        "data/releases/2023/hrr25-69-dodge-charger.json",
+        "data/releases/2023/hrr27-70-buick-gsx.json"
     ]
 }

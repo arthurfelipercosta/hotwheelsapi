@@ -1,0 +1,29 @@
+{
+    "release_id": "bfc44-toyota-supra-2014",
+    "toy_number": "BFC44",
+    "casting_id": "toyota-supra",
+    "year": 2014,
+    "series_id": "hw-city-night-burnerz",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Green Falken Racing livery",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5",
+            "1": "Silver Metallic",
+            "2": "Blue Falken Racing livery",
+            "3": "CFK01",
+            "4": "Kmart Exclusive Base code(s): G29",
+            "5": "G33"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F49, F50, F52, G03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/14hwts.jpg/revision/latest/scale-to-width-down/75?cb=20131223220654"
+    }
+}

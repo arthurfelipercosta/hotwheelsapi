@@ -2,9 +2,11 @@
     "series_id": "chevy-5-pack",
     "year": 2011,
     "name": "Chevy 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2011/t8638-55-chevy.json"
+        "data/releases/2011/5pack-t8638-69-camaro-convertible.json",
+        "data/releases/2011/t8638-55-chevy.json",
+        "data/releases/2011/t8638-chevy-silverado.json"
     ]
 }

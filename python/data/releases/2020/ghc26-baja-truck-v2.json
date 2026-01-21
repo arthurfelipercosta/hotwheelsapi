@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc26-baja-truck-2020",
+    "toy_number": "GHC26",
+    "casting_id": "baja-truck",
+    "year": 2020,
+    "series_id": "speed-blur",
+    "series_index": 1,
+    "specs": {
+        "color": "Matte Blue",
+        "tampo": "Hot Wheels logo over the roof & bonnet & on the sides. LWC Racing & HWGRFX on the sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/110_-_Baja_Truck.jpg/revision/latest/scale-to-width-down/75?cb=20200126221631"
+    }
+}

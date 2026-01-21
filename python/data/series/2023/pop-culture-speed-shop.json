@@ -2,9 +2,10 @@
     "series_id": "pop-culture-speed-shop",
     "year": 2023,
     "name": "Pop Culture: Speed Shop",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 4,
     "releases": [
+        "data/releases/2023/hkd03-kool-kombi.json",
         "data/releases/2023/hkd06-65-mercury-comet-cyclone.json"
     ]
 }

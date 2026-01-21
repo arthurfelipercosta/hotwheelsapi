@@ -1,0 +1,28 @@
+{
+    "casting_id": "batman-v-superman-batmobile",
+    "name": "Batman v Superman Batmobile",
+    "description": {
+        "en-us": "Batman v Superman Batmobile Debut series San Diego Comic-Con Exclusive Produced 2015 - Present Designer Manson Cheung Number DJX31",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/djx31-batman-v-superman-batmobile.json",
+        "data/releases/2016/dhp34-batman-v-superman-batmobile.json",
+        "data/releases/2016/djf57-batman-v-superman-batmobile.json",
+        "data/releases/2016/djd23-batman-v-superman-batmobile.json",
+        "data/releases/2016/djh61-batman-v-superman-batmobile.json",
+        "data/releases/2017/dty45-batman-v-superman-batmobile.json",
+        "data/releases/2017/dvc14-batman-v-superman-batmobile.json",
+        "data/releases/2017/dwj91-batman-v-superman-batmobile.json",
+        "data/releases/2019/fyx89-batman-v-superman-batmobile.json",
+        "data/releases/2022/hdk79-batman-v-superman-batmobile.json",
+        "data/releases/2023/hlk48-batman-v-superman-batmobile.json",
+        "data/releases/2024/htb21-batman-v-superman-batmobile.json",
+        "data/releases/2024/htc83-batman-v-superman-batmobile.json",
+        "data/releases/2025/jby07-batman-v-superman-batmobile.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

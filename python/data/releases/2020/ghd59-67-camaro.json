@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd59-67-camaro-2020",
+    "toy_number": "GHD59",
+    "casting_id": "67-camaro",
+    "year": 2020,
+    "series_id": "hw-flames",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Copper",
+        "tampo": "Orange & yellow flames on sides, flowing from hood stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Bronze MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N22, N24, N25, N26, N27, N28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/67_Camaro_2020_HW_Flames.jpg/revision/latest/scale-to-width-down/75?cb=20200923233032"
+    }
+}

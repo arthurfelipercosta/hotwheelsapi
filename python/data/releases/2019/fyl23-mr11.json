@@ -1,0 +1,24 @@
+{
+    "release_id": "fyl23-mr11-2019",
+    "toy_number": "FYL23",
+    "casting_id": "mr11",
+    "year": 2019,
+    "series_id": "rocket-league-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Teal",
+        "tampo": "Orange & White stripes & Rocket League logo on hood, soccer ball deco on fenders",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Orange TRAP5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): L34, L51, M04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/MR11RocketLeague2019.jpg/revision/latest/scale-to-width-down/75?cb=20250206063203"
+    }
+}

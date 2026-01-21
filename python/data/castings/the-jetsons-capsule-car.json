@@ -1,0 +1,20 @@
+{
+    "casting_id": "the-jetsons-capsule-car",
+    "name": "The Jetsons Capsule Car",
+    "description": {
+        "en-us": "The Jetsons Capsule Car Debut series HW City: Tooned II Produced 2014 - Present Designer Manson Cheung Number BDC93",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc93-the-jetsons-capsule-car-v2.json",
+        "data/releases/2015/cfh76-the-jetsons-capsule-car-v2.json",
+        "data/releases/2017/dtx36-the-jetsons-capsule-car-v2.json",
+        "data/releases/2014/bdt78-the-jetsons-capsule-car-v2.json",
+        "data/releases/2017/frf24-the-jetsons-capsule-car-v2.json",
+        "data/releases/2023/hkc26-the-jetsons-capsule-car-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

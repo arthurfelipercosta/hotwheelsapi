@@ -1,0 +1,24 @@
+{
+    "release_id": "cfl14-speedbox-2015",
+    "toy_number": "CFL14",
+    "casting_id": "speedbox",
+    "year": 2015,
+    "series_id": "hw-race-night-storm",
+    "series_index": null,
+    "specs": {
+        "color": "Burnt Orange w/ Yellow Fenders",
+        "tampo": "Orange & White stripes, HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear Orange",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Chrome Orange & Glow-in-the-Dark 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G45, G46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/SpeedboxOrange15.jpg/revision/latest/scale-to-width-down/75?cb=20150611020603"
+    }
+}

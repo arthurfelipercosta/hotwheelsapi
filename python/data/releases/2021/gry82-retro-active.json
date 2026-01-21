@@ -1,0 +1,25 @@
+{
+    "release_id": "gry82-retro-active-2021",
+    "toy_number": "GRY82",
+    "casting_id": "retro-active",
+    "year": 2021,
+    "series_id": "track-stars",
+    "series_index": 1,
+    "specs": {
+        "color": "Blue",
+        "tampo": "\"Track\" track loop logo, orange and black stripes \"1\" \"Retro-Active\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Orange tire",
+            "1": "Black AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New loop logo on base Base Code(s): N33, N35, N36, N37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/RETRO-ACTIVE_Track_Stars_2021_blue.png/revision/latest/scale-to-width-down/75?cb=20211219161208"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "smashville-5-pack",
+    "year": 2004,
+    "name": "Smashville 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2004/b3613-70-chevelle-ss.json",
+        "data/releases/2004/b3617-classic-nomad.json"
+    ]
+}

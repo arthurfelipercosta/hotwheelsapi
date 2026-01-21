@@ -1,0 +1,21 @@
+{
+    "casting_id": "20-toyota-tacoma",
+    "name": "'20 Toyota Tacoma",
+    "description": {
+        "en-us": "'20 Toyota Tacoma Debut series HW Hot Trucks Produced 2022 – Present Designer Ryu Asada Number HCT18",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct18-20-toyota-tacoma.json",
+        "data/releases/2022/hcx56-20-toyota-tacoma.json",
+        "data/releases/2023/hkg75-20-toyota-tacoma.json",
+        "data/releases/2024/htb27-20-toyota-tacoma.json",
+        "data/releases/2024/htf83-20-toyota-tacoma.json",
+        "data/releases/2024/htv53-20-toyota-tacoma.json",
+        "data/releases/2025/jcb72-20-toyota-tacoma.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Toyota"
+}

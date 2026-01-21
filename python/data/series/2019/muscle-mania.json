@@ -2,14 +2,29 @@
     "series_id": "muscle-mania",
     "year": 2019,
     "name": "Muscle Mania",
-    "total_releases": 6,
+    "total_releases": 21,
     "max_index": 4,
     "releases": [
         "data/releases/2019/fyb67-custom-18-ford-mustang-gt.json",
         "data/releases/2019/fyb68-rodger-dodger-2-0.json",
+        "data/releases/2019/fyb69-18-copo-camaro-ss.json",
+        "data/releases/2019/fyd05-custom-ford-maverick.json",
+        "data/releases/2019/fyd06-68-copo-camaro.json",
+        "data/releases/2019/fyd07-67-chevelle-ss-396.json",
+        "data/releases/2019/fyd08-65-mustang-2-2-fastback.json",
         "data/releases/2019/fyd09-king-kuda.json",
+        "data/releases/2019/fyd10-11-dodge-charger-r-t.json",
+        "data/releases/2019/fyd73-18-dodge-challenger-srt-demon.json",
+        "data/releases/2019/fyf86-custom-ford-maverick.json",
         "data/releases/2019/fyf87-custom-18-ford-mustang-gt.json",
         "data/releases/2019/fyf88-rodger-dodger-2-0.json",
-        "data/releases/2019/fyg75-king-kuda.json"
+        "data/releases/2019/fyf89-18-copo-camaro-ss.json",
+        "data/releases/2019/fyg12-18-dodge-challenger-srt-demon.json",
+        "data/releases/2019/fyg25-65-mustang-2-2-fastback.json",
+        "data/releases/2019/fyg39-67-chevelle-ss-396.json",
+        "data/releases/2019/fyg74-65-mustang-2-2-fastback.json",
+        "data/releases/2019/fyg75-king-kuda.json",
+        "data/releases/2019/fyg76-11-dodge-charger-r-t.json",
+        "data/releases/2019/fyh01-68-copo-camaro.json"
     ]
 }

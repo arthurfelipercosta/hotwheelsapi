@@ -1,0 +1,31 @@
+{
+    "casting_id": "da-kar",
+    "name": "Da'Kar",
+    "description": {
+        "en-us": "Da'Kar Debut series 2003 First Editions Produced 2003 - Present Designer Mark Jones Number 56388",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56388-da-kar.json",
+        "data/releases/2005/h9072-da-kar.json",
+        "data/releases/2006/j3298-da-kar.json",
+        "data/releases/2008/n1712-da-kar.json",
+        "data/releases/2008/l9962-da-kar.json",
+        "data/releases/2010/r0964-da-kar.json",
+        "data/releases/2011/t9919-da-kar.json",
+        "data/releases/2012/v5512-da-kar.json",
+        "data/releases/2013/x1730-da-kar.json",
+        "data/releases/2013/x1920-da-kar.json",
+        "data/releases/2014/bfb38-da-kar.json",
+        "data/releases/2015/cdt24-da-kar.json",
+        "data/releases/2016/djd31-da-kar.json",
+        "data/releases/2018/gdg93-da-kar.json",
+        "data/releases/2021/grt99-da-kar.json",
+        "data/releases/2021/grv02-da-kar.json",
+        "data/releases/2024/hxc40-da-kar.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Mattel"
+}

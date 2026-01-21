@@ -2,10 +2,15 @@
     "series_id": "satin-and-chrome",
     "year": 2019,
     "name": "Satin and Chrome",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 0,
     "releases": [
+        "data/releases/2019/ghn94-custom-71-el-camino.json",
+        "data/releases/2019/ghn95-71-datsun-bluebird-510-wagon.json",
+        "data/releases/2019/ghn96-custom-67-pontiac-firebird.json",
+        "data/releases/2019/ghn97-aristo-rat.json",
         "data/releases/2019/ghn98-gotta-go.json",
+        "data/releases/2019/ghn99-63-chevy-ii.json",
         "data/releases/2019/ghp00-70-plymouth-superbird.json"
     ]
 }

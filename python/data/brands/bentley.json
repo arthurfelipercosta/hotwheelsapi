@@ -1,0 +1,14 @@
+{
+    "brand_id": "bentley",
+    "name": "Bentley",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/2018-bentley-continental-gt3.json",
+        "data/castings/bentley-continental-supersports.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Bentley vehicles.",
+        "pt-br": "Fabricante de veículos Bentley."
+    }
+}

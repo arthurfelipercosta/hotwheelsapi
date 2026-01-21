@@ -1,0 +1,10 @@
+{
+    "series_id": "convertibles-series",
+    "year": 2021,
+    "name": "Convertibles Series",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2021/grt12-64-lincoln-continental.json"
+    ]
+}

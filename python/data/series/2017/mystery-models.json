@@ -2,10 +2,12 @@
     "series_id": "mystery-models",
     "year": 2017,
     "name": "Mystery Models",
-    "total_releases": 3,
+    "total_releases": 5,
     "max_index": 3,
     "releases": [
         "data/releases/2017/dvy82-the-dark-knight-batmobile.json",
+        "data/releases/2017/dvy84-13-copo-camaro.json",
+        "data/releases/2017/dyl56-audacious.json",
         "data/releases/2017/dyl62-arkham-asylum-batmobile.json",
         "data/releases/2017/dyl63-custom-12-ford-mustang.json"
     ]

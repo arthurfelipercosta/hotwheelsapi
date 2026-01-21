@@ -1,0 +1,22 @@
+{
+    "casting_id": "17-jeep-wrangler",
+    "name": "'17 Jeep Wrangler",
+    "description": {
+        "en-us": "'17 Jeep Wrangler Debut series HW Hot Trucks Produced 2018 - Present Designer Phil Riehlman Number FJV47",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv47-17-jeep-wrangler-v2.json",
+        "data/releases/2018/fjy56-17-jeep-wrangler-v2.json",
+        "data/releases/2019/fyb94-17-jeep-wrangler-v2.json",
+        "data/releases/2019/fyf48-17-jeep-wrangler-v2.json",
+        "data/releases/2020/ghp51-17-jeep-wrangler-v2.json",
+        "data/releases/2022/hcy03-17-jeep-wrangler-v2.json",
+        "data/releases/2023/hlj32-17-jeep-wrangler-v2.json",
+        "data/releases/2025/jbj82-jcp88-17-jeep-wrangler-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Jeep"
+}

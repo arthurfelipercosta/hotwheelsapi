@@ -2,15 +2,22 @@
     "series_id": "hw-exotics",
     "year": 2020,
     "name": "HW Exotics",
-    "total_releases": 7,
-    "max_index": 4,
+    "total_releases": 14,
+    "max_index": 5,
     "releases": [
+        "data/releases/2020/ghb36-17-lamborghini-urus.json",
         "data/releases/2020/ghb39-2020-koenigsegg-jesko.json",
         "data/releases/2020/ghb53-mclaren-speedtail.json",
         "data/releases/2020/ghc30-porsche-911-gt3-rs.json",
         "data/releases/2020/ghc31-electro-silhouette.json",
         "data/releases/2020/ghc32-90-acura-nsx.json",
+        "data/releases/2020/ghc33-aston-martin-one-77.json",
+        "data/releases/2020/ghc34-jaguar-xj220.json",
+        "data/releases/2020/ghc35-lamborghini-sesto-elemento.json",
+        "data/releases/2020/ghc36-mclaren-p1.json",
         "data/releases/2020/ghf45-electro-silhouette.json",
+        "data/releases/2020/ghf48-mclaren-p1.json",
+        "data/releases/2020/ghg17-lamborghini-sesto-elemento.json",
         "data/releases/2020/ghg58-90-acura-nsx.json"
     ]
 }

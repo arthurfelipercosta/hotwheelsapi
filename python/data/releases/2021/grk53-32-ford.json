@@ -1,0 +1,24 @@
+{
+    "release_id": "grk53-32-ford-2021",
+    "toy_number": "GRK53",
+    "casting_id": "32-ford",
+    "year": 2021,
+    "series_id": "car-culture-team-transport-32",
+    "series_index": null,
+    "specs": {
+        "color": "Matte orange",
+        "tampo": "\"32\", \"El Segundo SPECIAL\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "RRLD"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/TT32_32_Ford.jpg/revision/latest/scale-to-width-down/75?cb=20210425204243"
+    }
+}

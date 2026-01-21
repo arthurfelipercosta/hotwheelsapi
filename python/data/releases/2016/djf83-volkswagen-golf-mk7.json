@@ -1,0 +1,24 @@
+{
+    "release_id": "djf83-volkswagen-golf-mk7-2016",
+    "toy_number": "DJF83",
+    "casting_id": "volkswagen-golf-mk7",
+    "year": 2016,
+    "series_id": "car-culture-euro-style",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Light Blue stripes on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Gold MCRR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J12, J15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/Volkswagen_Golf_MK7.JPG/revision/latest/scale-to-width-down/75?cb=20160818060611"
+    }
+}

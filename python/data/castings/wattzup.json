@@ -6,14 +6,14 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2014/bdc85-wattzup.json",
-        "data/releases/2014/bfg10-wattzup.json",
-        "data/releases/2015/cdt14-wattzup.json",
-        "data/releases/2016/dhp76-wattzup.json",
-        "data/releases/2016/dhw68-wattzup.json",
-        "data/releases/2018/fkt66-wattzup.json",
-        "data/releases/2020/gph64-wattzup.json",
-        "data/releases/2026/jjj06-wattzup.json"
+        "data/releases/2014/bdc85-wattzup-v2.json",
+        "data/releases/2014/bfg10-wattzup-v2.json",
+        "data/releases/2015/cdt14-wattzup-v2.json",
+        "data/releases/2016/dhp76-wattzup-v2.json",
+        "data/releases/2016/dhw68-wattzup-v2.json",
+        "data/releases/2018/fkt66-wattzup-v2.json",
+        "data/releases/2020/gph64-wattzup-v2.json",
+        "data/releases/2026/jjj06-wattzup-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",

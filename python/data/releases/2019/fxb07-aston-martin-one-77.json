@@ -1,0 +1,25 @@
+{
+    "release_id": "fxb07-aston-martin-one-77-2019",
+    "toy_number": "FXB07",
+    "casting_id": "aston-martin-one-77",
+    "year": 2019,
+    "series_id": "hot-wheels-id-speed-demons",
+    "series_index": 5,
+    "specs": {
+        "color": "Spectraflame Orange",
+        "tampo": "Black and yellow stripe on hood, roof and doors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow Rim",
+            "1": "Black ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M09, M18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/177-1.jpg/revision/latest/scale-to-width-down/75?cb=20190630013256"
+    }
+}

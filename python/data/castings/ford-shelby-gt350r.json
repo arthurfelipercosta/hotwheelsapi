@@ -1,0 +1,26 @@
+{
+    "casting_id": "ford-shelby-gt350r",
+    "name": "Ford Shelby GT350R",
+    "description": {
+        "en-us": "Ford Shelby GT350R Debut series Night Burnerz Produced 2016 - Present Designer Dave Root Number DHP04",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp04-ford-shelby-gt350r-v2.json",
+        "data/releases/2016/dhx25-ford-shelby-gt350r-v2.json",
+        "data/releases/2017/dty85-ford-shelby-gt350r-v2.json",
+        "data/releases/2017/fbj06-ford-shelby-gt350r-v2.json",
+        "data/releases/2017/dvc39-ford-shelby-gt350r-v2.json",
+        "data/releases/2020/gjv70-ford-shelby-gt350r-v2.json",
+        "data/releases/2021/grt03-ford-shelby-gt350r-v2.json",
+        "data/releases/2021/grk56-ford-shelby-gt350r-v2.json",
+        "data/releases/2022/hcw36-ford-shelby-gt350r-v2.json",
+        "data/releases/2023/hnw51-ford-shelby-gt350r-v2.json",
+        "data/releases/2023/hkc17-ford-shelby-gt350r-v2.json",
+        "data/releases/2026/jkc24-ford-shelby-gt350r-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Ford"
+}

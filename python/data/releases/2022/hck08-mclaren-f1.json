@@ -1,0 +1,24 @@
+{
+    "release_id": "hck08-mclaren-f1-2022",
+    "toy_number": "HCK08",
+    "casting_id": "mclaren-f1",
+    "year": 2022,
+    "series_id": "car-culture-jay-leno-s-garage",
+    "series_index": 2,
+    "specs": {
+        "color": "Jet Black",
+        "tampo": "Detailed headlights and taillights, red stripe down side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray RR5SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "New Die-Cast Chassis Base code(s): R31, R32, R34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/%2794McLarenF1.jpg/revision/latest/scale-to-width-down/75?cb=20220908150324"
+    }
+}

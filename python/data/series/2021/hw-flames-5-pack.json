@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-flames-5-pack",
+    "year": 2021,
+    "name": "HW Flames 5-Pack",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2021/gtn48-69-dodge-charger-500.json",
+        "data/releases/2021/gtn48-73-ford-falcon-xb.json",
+        "data/releases/2021/gtn48-custom-41-willys-coupe.json",
+        "data/releases/2021/gtn48-hemi-cuda.json"
+    ]
+}

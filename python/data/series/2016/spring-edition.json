@@ -1,0 +1,11 @@
+{
+    "series_id": "spring-edition",
+    "year": 2016,
+    "name": "Spring Edition",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2016/dmy62-fast-4wd.json",
+        "data/releases/2016/dmy63-anthracite.json"
+    ]
+}

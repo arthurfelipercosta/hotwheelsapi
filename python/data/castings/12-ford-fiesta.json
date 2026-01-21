@@ -1,0 +1,36 @@
+{
+    "casting_id": "12-ford-fiesta",
+    "name": "'12 Ford Fiesta",
+    "description": {
+        "en-us": "'12 Ford Fiesta Debut series 2011 New Models Produced 2011 - Present Designer Mark Jones Number T9710",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9710-12-ford-fiesta.json",
+        "data/releases/2011/v0036-12-ford-fiesta.json",
+        "data/releases/2012/x0137-12-ford-fiesta.json",
+        "data/releases/2012/w4253-12-ford-fiesta.json",
+        "data/releases/2013/x8294-12-ford-fiesta.json",
+        "data/releases/2013/x1732-12-ford-fiesta.json",
+        "data/releases/2014/bfc97-12-ford-fiesta.json",
+        "data/releases/2015/cfk33-12-ford-fiesta.json",
+        "data/releases/2015/cfl64-12-ford-fiesta.json",
+        "data/releases/2016/dhr58-12-ford-fiesta.json",
+        "data/releases/2016/dhx80-12-ford-fiesta.json",
+        "data/releases/2016/dhx33-12-ford-fiesta.json",
+        "data/releases/2017/dty61-12-ford-fiesta.json",
+        "data/releases/2017/dvc25-12-ford-fiesta.json",
+        "data/releases/2017/dvc25-12-ford-fiesta-v2.json",
+        "data/releases/2018/fjx63-12-ford-fiesta.json",
+        "data/releases/2018/fjy94-12-ford-fiesta.json",
+        "data/releases/2019/x6999-12-ford-fiesta.json",
+        "data/releases/2019/gbd57-12-ford-fiesta.json",
+        "data/releases/2021/gtn45-12-ford-fiesta.json",
+        "data/releases/2021/hbg12-12-ford-fiesta.json",
+        "data/releases/2026/jkx58-12-ford-fiesta.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Ford"
+}

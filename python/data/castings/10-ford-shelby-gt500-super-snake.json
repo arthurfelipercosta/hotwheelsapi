@@ -1,0 +1,35 @@
+{
+    "casting_id": "10-ford-shelby-gt500-super-snake",
+    "name": "'10 Ford Shelby GT500 Super Snake",
+    "description": {
+        "en-us": "'10 Ford Shelby GT500 Super Snake Debut series 2011 New Models Produced 2011 - Present Designer Phil Riehlman Number T9673",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9673-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2011/t9932-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2011/t9994-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2012/v5394-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2012/x6999-10-ford-shelby-gt500-super-snake-v3.json",
+        "data/releases/2012/v5574-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2012/x6999-10-ford-shelby-gt500-super-snake-v4.json",
+        "data/releases/2012/w5449-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2013/x1783-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2013/x2010-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2013/x1954-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2014/bdr51-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2015/cdt30-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2015/cfv13-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2017/dwc60-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2019/fyc74-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2019/fyf69-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2020/gjv55-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2021/grt04-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2022/hdh53-10-ford-shelby-gt500-super-snake-v2.json",
+        "data/releases/2026/jlb26-10-ford-shelby-gt500-super-snake-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Ford"
+}

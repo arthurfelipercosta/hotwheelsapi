@@ -1,0 +1,24 @@
+{
+    "release_id": "n4028-custom-41-willys-coupe-2009",
+    "toy_number": "N4028",
+    "casting_id": "custom-41-willys-coupe",
+    "year": 2009,
+    "series_id": "2009-new-models",
+    "series_index": 25,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "HW logo on rear license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B02, B04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/Willys41CusCoupeBlueNM09_RF_Thomas.jpg/revision/latest/scale-to-width-down/75?cb=20090325065642"
+    }
+}

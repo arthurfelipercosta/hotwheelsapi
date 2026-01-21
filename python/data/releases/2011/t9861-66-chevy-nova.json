@@ -1,0 +1,33 @@
+{
+    "release_id": "t9861-66-chevy-nova-2011",
+    "toy_number": "T9861",
+    "casting_id": "66-chevy-nova",
+    "year": 2011,
+    "series_id": "hw-racing",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "White, Red & Yellow Hot Wheels Race Team Deco, \"1\", Sharp hook HW logo on hood and sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light Blue tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black PR5",
+            "2": "White",
+            "3": "Red & Yellow Hot Wheels Race Team Deco",
+            "4": "\"1\"",
+            "5": "Swoop hook HW logo on hood",
+            "6": "sides",
+            "7": "Base code(s): C31",
+            "8": "C41",
+            "9": "C42"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C29, C30, C33, C42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/66ChevyNova_Racing1.JPG/revision/latest/scale-to-width-down/75?cb=20100920093825"
+    }
+}

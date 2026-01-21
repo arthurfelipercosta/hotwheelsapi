@@ -1,0 +1,24 @@
+{
+    "release_id": "grp49-32-ford-2021",
+    "toy_number": "GRP49",
+    "casting_id": "32-ford",
+    "year": 2021,
+    "series_id": "the-muppets",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Red & Blue Gonzo on side, Disney Muppets on trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/1623521581-21786-3.jpg/revision/latest/scale-to-width-down/75?cb=20220513192326"
+    }
+}

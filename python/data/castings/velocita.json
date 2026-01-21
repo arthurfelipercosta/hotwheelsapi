@@ -1,0 +1,30 @@
+{
+    "casting_id": "velocita",
+    "name": "Velocita",
+    "description": {
+        "en-us": "Velocita Debut series HW Race: HW Race Team Produced 2014 - Present Designer Paul DeLorean Number BDD03",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd03-velocita-v2.json",
+        "data/releases/2015/cfh79-velocita-v2.json",
+        "data/releases/2016/dtn38-velocita-v2.json",
+        "data/releases/2016/dht21-velocita-v2.json",
+        "data/releases/2017/dvb11-velocita-v2.json",
+        "data/releases/2017/dvc98-velocita-v2.json",
+        "data/releases/2017/dwl00-velocita-v2.json",
+        "data/releases/2018/fjx56-velocita-v2.json",
+        "data/releases/2018/fkb13-velocita-v2.json",
+        "data/releases/2019/gbb26-velocita-v2.json",
+        "data/releases/2020/ghc99-velocita-v2.json",
+        "data/releases/2020/ghf56-velocita-v2.json",
+        "data/releases/2021/gtn43-velocita-v2.json",
+        "data/releases/2022/hcw41-velocita-v2.json",
+        "data/releases/2025/jby21-velocita-v2.json",
+        "data/releases/2025/hmw21-velocita-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "bfd64-jeep-scrambler-2014",
+    "toy_number": "BFD64",
+    "casting_id": "jeep-scrambler",
+    "year": 2014,
+    "series_id": "hw-off-road-hw-hot-trucks",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black & Aqua stripes on sides & hood, (Scrambler) on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Gold & Black OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G10, G14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/JEEP_SCRAMBLER.jpg/revision/latest/scale-to-width-down/75?cb=20140613135222"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "hkk92-84-pontiac-firebird-2023",
+    "toy_number": "HKK92",
+    "casting_id": "84-pontiac-firebird",
+    "year": 2023,
+    "series_id": "muscle-mania",
+    "series_index": 8,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue accents, \"TRANS AM\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S28, S30, S31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/68/HKK92-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20240324171716"
+    }
+}

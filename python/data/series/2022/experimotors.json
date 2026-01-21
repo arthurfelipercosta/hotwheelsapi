@@ -2,13 +2,26 @@
     "series_id": "experimotors",
     "year": 2022,
     "name": "Experimotors",
-    "total_releases": 5,
-    "max_index": 7,
+    "total_releases": 18,
+    "max_index": 6,
     "releases": [
+        "data/releases/2022/hct36-bricking-trails.json",
+        "data/releases/2022/hct37-bricking-speed.json",
         "data/releases/2022/hct38-coupe-clip.json",
         "data/releases/2022/hct39-layin-lowrider.json",
+        "data/releases/2022/hct81-see-me-rollin.json",
+        "data/releases/2022/hct82-custom-small-block.json",
+        "data/releases/2022/hcv46-bubble-matic.json",
+        "data/releases/2022/hcv47-airuption.json",
+        "data/releases/2022/hcv67-tooligan.json",
+        "data/releases/2022/hcw69-bubble-matic.json",
+        "data/releases/2022/hcw86-bricking-trails.json",
+        "data/releases/2022/hcw93-see-me-rollin.json",
         "data/releases/2022/hcx09-coupe-clip.json",
         "data/releases/2022/hcx29-layin-lowrider.json",
+        "data/releases/2022/hcx30-bricking-speed.json",
+        "data/releases/2022/hcx69-custom-small-block.json",
+        "data/releases/2022/hcx90-tooligan.json",
         "data/releases/2022/hcx96-gotta-go.json"
     ]
 }

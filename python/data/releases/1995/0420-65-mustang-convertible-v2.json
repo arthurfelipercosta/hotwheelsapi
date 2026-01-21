@@ -1,0 +1,36 @@
+{
+    "release_id": "0420-65-mustang-convertible-1995",
+    "toy_number": "0420",
+    "casting_id": "65-mustang-convertible",
+    "year": 1995,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow \"Mustang\" & stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "7SP",
+            "1": "162",
+            "2": "1995",
+            "3": "Mainline",
+            "4": "Red",
+            "5": "Yellow \"Mustang\" & stripes on sides",
+            "6": "Unpainted",
+            "7": "Metal",
+            "8": "Clear",
+            "9": "Beige",
+            "10": "WW",
+            "11": "Malaysia",
+            "12": "same as 1991 mainline"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/7SP162.jpg/revision/latest/scale-to-width-down/75?cb=20090311000655"
+    }
+}

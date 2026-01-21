@@ -1,0 +1,25 @@
+{
+    "release_id": "r8508-2008-tesla-roadster-2010",
+    "toy_number": "R8508",
+    "casting_id": "2008-tesla-roadster",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Trim Details",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/TeslaRoadster_speed1.JPG/revision/latest/scale-to-width-down/75?cb=20100403231652"
+    }
+}

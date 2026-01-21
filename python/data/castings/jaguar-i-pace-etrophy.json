@@ -1,0 +1,18 @@
+{
+    "casting_id": "jaguar-i-pace-etrophy",
+    "name": "Jaguar I-Pace eTrophy",
+    "description": {
+        "en-us": "Jaguar I-Pace eTrophy Debut series Hot Wheels id: Moving Forward Produced 2019 – Present Designer Phil Riehlman Number FXB31",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fxb31-jaguar-i-pace-etrophy.json",
+        "data/releases/2023/hkh60-jaguar-i-pace-etrophy.json",
+        "data/releases/2023/hkk25-jaguar-i-pace-etrophy.json",
+        "data/releases/2023/hkl33-jaguar-i-pace-etrophy.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Jaguar"
+}

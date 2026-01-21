@@ -1,0 +1,41 @@
+{
+    "casting_id": "bully-goat",
+    "name": "Bully Goat",
+    "description": {
+        "en-us": "Bully Goat Debut series 2005 First Editions: Realistix Produced 2005 - Present Designer Dwayne Vance Number G7928",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g7928-bully-goat-v6.json",
+        "data/releases/2005/g7928-bully-goat-v7.json",
+        "data/releases/2005/g7928-bully-goat-v8.json",
+        "data/releases/2005/g7928-bully-goat-v9.json",
+        "data/releases/2005/g7928-bully-goat-v10.json",
+        "data/releases/2006/k5702-bully-goat-v2.json",
+        "data/releases/2007/k4326-bully-goat-v2.json",
+        "data/releases/2008/l9964-bully-goat-v2.json",
+        "data/releases/2012/x1112-bully-goat-v2.json",
+        "data/releases/2012/w5450-bully-goat-v2.json",
+        "data/releases/2013/x9847-bully-goat-v2.json",
+        "data/releases/2014/bfb31-bully-goat-v3.json",
+        "data/releases/2014/bfb31-bully-goat-v4.json",
+        "data/releases/2014/bhr29-bully-goat-v2.json",
+        "data/releases/2015/cfk59-bully-goat-v2.json",
+        "data/releases/2016/djk67-bully-goat-v2.json",
+        "data/releases/2018/fkd61-bully-goat-v2.json",
+        "data/releases/2018/fkt50-bully-goat-v2.json",
+        "data/releases/2019/fyy61-bully-goat-v2.json",
+        "data/releases/2019/gbb27-bully-goat-v2.json",
+        "data/releases/2022/hcw56-bully-goat-v2.json",
+        "data/releases/2022/hcx03-bully-goat-v2.json",
+        "data/releases/2022/bhr15-bully-goat-v2.json",
+        "data/releases/2023/hnb23-bully-goat-v2.json",
+        "data/releases/2023/hlk40-bully-goat-v2.json",
+        "data/releases/2024/hxc46-bully-goat-v2.json",
+        "data/releases/2025/jcb83-bully-goat-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

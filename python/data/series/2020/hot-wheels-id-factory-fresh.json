@@ -2,9 +2,10 @@
     "series_id": "hot-wheels-id-factory-fresh",
     "year": 2020,
     "name": "Hot Wheels id: Factory Fresh",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 1,
     "releases": [
-        "data/releases/2020/gml20-71-lamborghini-miura-sv.json"
+        "data/releases/2020/gml20-71-lamborghini-miura-sv.json",
+        "data/releases/2020/gml22-69-copo-camaro.json"
     ]
 }

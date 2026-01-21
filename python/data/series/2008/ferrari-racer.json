@@ -1,0 +1,12 @@
+{
+    "series_id": "ferrari-racer",
+    "year": 2008,
+    "name": "Ferrari Racer",
+    "total_releases": 3,
+    "max_index": 23,
+    "releases": [
+        "data/releases/2008/m9835-ferrari-599-gtb-fiorano.json",
+        "data/releases/2008/m9840-ferrari-599-gtb-fiorano.json",
+        "data/releases/2008/m9852-ferrari-599-gtb-fiorano.json"
+    ]
+}

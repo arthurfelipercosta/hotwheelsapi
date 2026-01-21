@@ -1,0 +1,24 @@
+{
+    "casting_id": "two-timer",
+    "name": "Two Timer",
+    "description": {
+        "en-us": "Two Timer Debut series HW Race - Night Storm Produced 2014 - present Designer Kevin Cao Number BDD11",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd11-two-timer.json",
+        "data/releases/2014/bff75-two-timer.json",
+        "data/releases/2015/cfl16-two-timer.json",
+        "data/releases/2015/cfl97-two-timer.json",
+        "data/releases/2016/dhp69-two-timer.json",
+        "data/releases/2016/dhw59-two-timer.json",
+        "data/releases/2017/dvf94-two-timer.json",
+        "data/releases/2018/fkt65-two-timer.json",
+        "data/releases/2020/ghp56-two-timer.json",
+        "data/releases/2025/jcl89-two-timer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

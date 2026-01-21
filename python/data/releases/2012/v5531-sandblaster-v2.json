@@ -1,0 +1,24 @@
+{
+    "release_id": "v5531-sandblaster-2012",
+    "toy_number": "V5531",
+    "casting_id": "sandblaster",
+    "year": 2012,
+    "series_id": "hw-code-cars",
+    "series_index": 2,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black, Silver & Green graphics, \"2\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Green rim OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D48, E02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Sand_Blaster.227_2012_HW_Code_Cars.jpg/revision/latest/scale-to-width-down/75?cb=20120630092949"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "casting_id": "lamborghini-veneno",
+    "name": "Lamborghini Veneno",
+    "description": {
+        "en-us": "Lamborghini Veneno Debut series HW City: Speed Team Produced 2014 - Present Designer Kevin Cao Number BDC79",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc79-lamborghini-veneno.json",
+        "data/releases/2014/bff90-lamborghini-veneno.json",
+        "data/releases/2015/cfh84-lamborghini-veneno.json",
+        "data/releases/2015/cfj86-lamborghini-veneno.json",
+        "data/releases/2016/djf58-lamborghini-veneno.json",
+        "data/releases/2017/dvb09-lamborghini-veneno.json",
+        "data/releases/2017/fbj13-lamborghini-veneno.json",
+        "data/releases/2018/x6999-lamborghini-veneno.json",
+        "data/releases/2019/gbb64-lamborghini-veneno.json",
+        "data/releases/2020/ghp62-lamborghini-veneno.json",
+        "data/releases/2021/gtn33-lamborghini-veneno.json",
+        "data/releases/2023/hkc41-lamborghini-veneno.json",
+        "data/releases/2023/hxv27-lamborghini-veneno.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Lamborghini"
+}

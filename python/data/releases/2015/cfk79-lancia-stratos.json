@@ -1,0 +1,24 @@
+{
+    "release_id": "cfk79-lancia-stratos-2015",
+    "toy_number": "CFK79",
+    "casting_id": "lancia-stratos",
+    "year": 2015,
+    "series_id": "hw-race-hw-race-team",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Orange & Black stripes on sides, roof & hood, HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Orange MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): H28, H29, H32, H33, H37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Lancia_Stratos_-_15_HW_Race_Team_600pxDM.jpg/revision/latest/scale-to-width-down/75?cb=20151106032016"
+    }
+}

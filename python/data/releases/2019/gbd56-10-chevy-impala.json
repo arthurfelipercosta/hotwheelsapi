@@ -1,0 +1,25 @@
+{
+    "release_id": "gbd56-10-chevy-impala-2019",
+    "toy_number": "GBD56",
+    "casting_id": "10-chevy-impala",
+    "year": 2019,
+    "series_id": "mystery-models-series-2",
+    "series_index": 9,
+    "specs": {
+        "color": "Orange",
+        "tampo": "White Stripes with Blue & Orange Outline, Sponsors Logos, 'Hot Wheels' and '9'",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Gray)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Yellow Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/%2710_Impala._Mystery_Model_Ser_2._2019.jpg/revision/latest/scale-to-width-down/75?cb=20190328044443"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "release_id": "dvb14-fairlady-2000-2017",
+    "toy_number": "DVB14",
+    "casting_id": "fairlady-2000",
+    "year": 2017,
+    "series_id": "legends-of-speed",
+    "series_index": 1,
+    "specs": {
+        "color": "Pale Green",
+        "tampo": "black \"Yokohama\" on hood, Black stripes on hood, roof, deck lid and sides, White circle on hood and doors sponsor logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "DD8",
+            "1": "Chrome Lip",
+            "2": "black PR5",
+            "3": "New Model Base code(s): J50"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): J48, J49; J51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/Fairlady_2000_DVB14.png/revision/latest/scale-to-width-down/75?cb=20170221215246"
+    }
+}

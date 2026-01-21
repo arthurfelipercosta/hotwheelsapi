@@ -1,0 +1,25 @@
+{
+    "release_id": "bdd06-let-s-go-2014",
+    "toy_number": "BDD06",
+    "casting_id": "let-s-go",
+    "year": 2014,
+    "series_id": "hw-race-track-aces",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Orange & Blue stripes on sides & hood, White '2' on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "BPR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): G10, G11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/HW-2014-165-Let%27s_Go-TrackAces.jpg/revision/latest/scale-to-width-down/75?cb=20140529022331"
+    }
+}

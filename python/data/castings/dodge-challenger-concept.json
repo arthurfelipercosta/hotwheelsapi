@@ -1,0 +1,31 @@
+{
+    "casting_id": "dodge-challenger-concept",
+    "name": "Dodge Challenger Concept",
+    "description": {
+        "en-us": "Dodge Challenger Concept Debut series 2007 New Models Produced 2007 - 2016 Designer Phil Riehlman Number K6133",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6133-dodge-challenger-concept.json",
+        "data/releases/2007/k6133-dodge-challenger-concept-v2.json",
+        "data/releases/2007/k6133-dodge-challenger-concept-v3.json",
+        "data/releases/2007/k6133-dodge-challenger-concept-v4.json",
+        "data/releases/2007/j3698-dodge-challenger-concept.json",
+        "data/releases/2008/m1705-dodge-challenger-concept.json",
+        "data/releases/2008/m1705-dodge-challenger-concept-v2.json",
+        "data/releases/2008/l9964-dodge-challenger-concept.json",
+        "data/releases/2009/p2448-dodge-challenger-concept.json",
+        "data/releases/2009/p2448-dodge-challenger-concept-v2.json",
+        "data/releases/2010/r9603-dodge-challenger-concept.json",
+        "data/releases/2011/t8632-dodge-challenger-concept.json",
+        "data/releases/2012/v5457-dodge-challenger-concept.json",
+        "data/releases/2012/w4455-dodge-challenger-concept.json",
+        "data/releases/2015/cfj11-dodge-challenger-concept.json",
+        "data/releases/2015/cfj93-dodge-challenger-concept.json",
+        "data/releases/2016/x6999-dodge-challenger-concept.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Dodge"
+}

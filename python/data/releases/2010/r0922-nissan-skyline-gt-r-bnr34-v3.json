@@ -1,0 +1,29 @@
+{
+    "release_id": "r0922-nissan-skyline-gt-r-bnr34-2010",
+    "toy_number": "R0922",
+    "casting_id": "nissan-skyline-gt-r-bnr34",
+    "year": 2010,
+    "series_id": "2010-hw-premiere",
+    "series_index": 7,
+    "specs": {
+        "color": "Metalflake Grey",
+        "tampo": "Nissan logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP",
+            "1": "007",
+            "2": "240",
+            "3": "2010",
+            "4": "2010 New Models 7",
+            "5": "44"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C16, C20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/NissanGTRR34_Gray.JPG/revision/latest/scale-to-width-down/75?cb=20100706103924"
+    }
+}

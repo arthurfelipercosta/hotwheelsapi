@@ -1,0 +1,12 @@
+{
+    "series_id": "mainline",
+    "year": 1994,
+    "name": "Mainline",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1994/11378-enforcer.json",
+        "data/releases/1994/13586-57-chevy.json",
+        "data/releases/1994/9638-57-chevy.json"
+    ]
+}

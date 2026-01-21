@@ -2,9 +2,27 @@
     "series_id": "color-reveal",
     "year": 2021,
     "name": "Color Reveal",
-    "total_releases": 1,
+    "total_releases": 19,
     "max_index": 0,
     "releases": [
-        "data/releases/2021/gyp17-cdv46-power-rocket.json"
+        "data/releases/2021/gyp14-mig-rig.json",
+        "data/releases/2021/gyp15-rennen-rig.json",
+        "data/releases/2021/gyp16-gyp24-growler.json",
+        "data/releases/2021/gyp16-teegray.json",
+        "data/releases/2021/gyp17-cdv46-power-rocket.json",
+        "data/releases/2021/gyp17-speedbox.json",
+        "data/releases/2021/gyp18-nitro-tailgater.json",
+        "data/releases/2021/gyp18-rd-08.json",
+        "data/releases/2021/gyp20-dragon-blaster.json",
+        "data/releases/2021/gyp20-drift-rod.json",
+        "data/releases/2021/gyp21-chicane.json",
+        "data/releases/2021/gyp21-cockney-cab-ii.json",
+        "data/releases/2021/gyp22-covelight.json",
+        "data/releases/2021/gyp22-loop-coupe.json",
+        "data/releases/2021/gyp23-armored-truck.json",
+        "data/releases/2021/gyp23-vampyra.json",
+        "data/releases/2021/gyp24-hypertruck.json",
+        "data/releases/2021/gyp25-bedlam.json",
+        "data/releases/2021/gyp25-electrack.json"
     ]
 }

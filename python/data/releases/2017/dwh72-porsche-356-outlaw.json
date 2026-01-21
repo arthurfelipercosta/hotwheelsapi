@@ -1,0 +1,24 @@
+{
+    "release_id": "dwh72-porsche-356-outlaw-2017",
+    "toy_number": "DWH72",
+    "casting_id": "porsche-356-outlaw",
+    "year": 2017,
+    "series_id": "car-culture-air-cooled",
+    "series_index": 3,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "White circle w/ '356' on sides & front, sponsor logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "RRSteelie"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named Porsche 356A Outlaw Base code(s): J48, J52, K03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/Porsche_356A_-_17_Air-Cooled_600pxOTD.png/revision/latest/scale-to-width-down/75?cb=20170201074724"
+    }
+}

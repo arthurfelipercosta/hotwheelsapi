@@ -2,9 +2,12 @@
     "series_id": "detroit-muscle",
     "year": 2018,
     "name": "Detroit Muscle",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 5,
     "releases": [
+        "data/releases/2018/fyy08-67-camaro.json",
+        "data/releases/2018/fyy09-68-chevy-nova.json",
+        "data/releases/2018/fyy10-69-ford-mustang-boss-302.json",
         "data/releases/2018/fyy13-70-dodge-hemi-challenger.json"
     ]
 }

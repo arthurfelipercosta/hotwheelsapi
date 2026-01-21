@@ -1,0 +1,24 @@
+{
+    "release_id": "n4005-circle-tracker-2009",
+    "toy_number": "N4005",
+    "casting_id": "circle-tracker",
+    "year": 2009,
+    "series_id": "2009-new-models",
+    "series_index": 2,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Detailed headlight and grille, \"33\" on top, back and sides, \"hot wheels\" and flame logo on sides and hood, hotwheels logo at back, various sponsors on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Red Lip OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): A32, A34, A31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/CircleTracker_Orange.JPG/revision/latest/scale-to-width-down/75?cb=20110411084133"
+    }
+}

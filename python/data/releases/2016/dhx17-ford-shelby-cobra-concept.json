@@ -1,0 +1,24 @@
+{
+    "release_id": "dhx17-ford-shelby-cobra-concept-2016",
+    "toy_number": "DHX17",
+    "casting_id": "ford-shelby-cobra-concept",
+    "year": 2016,
+    "series_id": "hw-digital-circuit",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "White stripes w/ Black HW logo, Silver headlights & gas cap",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): J17, J19, J22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/HW_Ford-Shelby-Cobra-Concept_Red_2016_RF_DSCF9326.jpg/revision/latest/scale-to-width-down/75?cb=20160927182913"
+    }
+}

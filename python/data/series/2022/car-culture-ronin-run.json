@@ -1,0 +1,12 @@
+{
+    "series_id": "car-culture-ronin-run",
+    "year": 2022,
+    "name": "Car Culture: Ronin Run",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2022/hck12-nissan-300zx-twin-turbo.json",
+        "data/releases/2022/hck13-95-mazda-rx-7.json",
+        "data/releases/2022/hck14-98-subaru-impreza-22b-sti-version.json"
+    ]
+}

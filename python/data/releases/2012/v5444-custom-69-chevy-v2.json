@@ -1,0 +1,25 @@
+{
+    "release_id": "v5444-custom-69-chevy-2012",
+    "toy_number": "V5444",
+    "casting_id": "custom-69-chevy",
+    "year": 2012,
+    "series_id": "hw-city-works",
+    "series_index": 10,
+    "specs": {
+        "color": "Satin Green",
+        "tampo": "\"Hot Wheels Electric\", \"68\", Black & Yellow tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow Tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): D52, E02, E08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Custom_%C2%B469_Chevy_Pickup_-_HW_City_Works_-12_-_V5444.jpg/revision/latest/scale-to-width-down/75?cb=20120519021956"
+    }
+}

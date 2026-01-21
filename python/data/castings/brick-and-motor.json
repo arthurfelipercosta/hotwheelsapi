@@ -1,0 +1,18 @@
+{
+    "casting_id": "brick-and-motor",
+    "name": "Brick and Motor",
+    "description": {
+        "en-us": "Brick and Motor Debut series Brick Rides Produced 2023 – Present Designer Kevin Cao Number HKG37",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg37-brick-and-motor.json",
+        "data/releases/2023/hkj88-brick-and-motor.json",
+        "data/releases/2024/htc55-brick-and-motor.json",
+        "data/releases/2024/htc97-brick-and-motor.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

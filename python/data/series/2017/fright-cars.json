@@ -1,0 +1,18 @@
+{
+    "series_id": "fright-cars",
+    "year": 2017,
+    "name": "Fright Cars",
+    "total_releases": 9,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2017/dtx67-rigor-motor.json",
+        "data/releases/2017/dtx68-tomb-up.json",
+        "data/releases/2017/dtx69-street-creeper.json",
+        "data/releases/2017/dtx70-skull-crusher.json",
+        "data/releases/2017/dvb25-skull-crusher.json",
+        "data/releases/2017/dvb65-rigor-motor.json",
+        "data/releases/2017/dvc34-fangula.json",
+        "data/releases/2017/dvd02-fangula.json",
+        "data/releases/2017/fbh88-street-creeper.json"
+    ]
+}

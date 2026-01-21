@@ -1,0 +1,11 @@
+{
+    "series_id": "megaforce",
+    "year": 1982,
+    "name": "Megaforce",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1982/5268-enforcer.json",
+        "data/releases/1982/5269-enforcer.json"
+    ]
+}

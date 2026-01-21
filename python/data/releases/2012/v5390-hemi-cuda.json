@@ -1,0 +1,25 @@
+{
+    "release_id": "v5390-hemi-cuda-2012",
+    "toy_number": "V5390",
+    "casting_id": "hemi-cuda",
+    "year": 2012,
+    "series_id": "muscle-mania-mopar",
+    "series_index": 7,
+    "specs": {
+        "color": "Metallic Green",
+        "tampo": "Black & Gold stripes with white \"HEMI\", White \"Plymouth\" logo Black \"Plymouth\" on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Name on card says ' 68 Hemi Barracuda Base code(s): D46, D51, D52, F09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2012-68HemiBarracuda.jpg/revision/latest/scale-to-width-down/75?cb=20120125023236"
+    }
+}

@@ -2,10 +2,16 @@
     "series_id": "hw-off-road-road-rally",
     "year": 2014,
     "name": "HW Off‑Road: Road Rally",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 0,
     "releases": [
+        "data/releases/2014/bdc97-fast-4wd.json",
+        "data/releases/2014/bfc97-12-ford-fiesta.json",
+        "data/releases/2014/bfc98-dodge-challenger-drift-car.json",
         "data/releases/2014/bfc99-subaru-impreza.json",
-        "data/releases/2014/bff44-subaru-impreza.json"
+        "data/releases/2014/bfd00-hollowback.json",
+        "data/releases/2014/bff44-subaru-impreza.json",
+        "data/releases/2014/bfg27-fast-4wd.json",
+        "data/releases/2014/cfk04-dodge-challenger-drift-car.json"
     ]
 }

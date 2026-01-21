@@ -1,0 +1,26 @@
+{
+    "series_id": "hw-workshop-hw-all-stars",
+    "year": 2014,
+    "name": "HW Workshop: HW All Stars",
+    "total_releases": 17,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bdd14-aston-martin-1963-db5.json",
+        "data/releases/2014/bfd66-toyota-2000gt.json",
+        "data/releases/2014/bfd68-mini-cooper.json",
+        "data/releases/2014/bfd69-92-bmw-m3.json",
+        "data/releases/2014/bfd70-lamborghini-aventador-j.json",
+        "data/releases/2014/bfd71-lamborghini-estoque.json",
+        "data/releases/2014/bfd72-pagani-huayra.json",
+        "data/releases/2014/bfd73-chevrolet-ss.json",
+        "data/releases/2014/bff29-chevrolet-ss.json",
+        "data/releases/2014/bff53-toyota-2000gt.json",
+        "data/releases/2014/bff81-mini-cooper.json",
+        "data/releases/2014/bff85-lamborghini-estoque.json",
+        "data/releases/2014/bff97-pagani-huayra.json",
+        "data/releases/2014/bff99-aston-martin-1963-db5.json",
+        "data/releases/2014/bfg77-chevrolet-ss.json",
+        "data/releases/2014/bfg87-lamborghini-aventador-j.json",
+        "data/releases/2014/bfv60-92-bmw-m3.json"
+    ]
+}

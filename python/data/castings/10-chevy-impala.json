@@ -1,0 +1,25 @@
+{
+    "casting_id": "10-chevy-impala",
+    "name": "'10 Chevy Impala",
+    "description": {
+        "en-us": "'10 Chevy Impala Debut series 2011 New Models Produced 2011 - 2020 Designer Jun Imai Number T9707",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9707-10-chevy-impala.json",
+        "data/releases/2011/t9707-10-chevy-impala-v2.json",
+        "data/releases/2012/v5397-10-chevy-impala.json",
+        "data/releases/2012/v5397-10-chevy-impala-v2.json",
+        "data/releases/2012/x6999-10-chevy-impala.json",
+        "data/releases/2012/v5587-10-chevy-impala.json",
+        "data/releases/2012/x6999-10-chevy-impala-v2.json",
+        "data/releases/2018/x6999-10-chevy-impala.json",
+        "data/releases/2019/gbd56-10-chevy-impala.json",
+        "data/releases/2020/ghc57-10-chevy-impala.json",
+        "data/releases/2020/ghf86-10-chevy-impala.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Chevy"
+}

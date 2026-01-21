@@ -1,0 +1,22 @@
+{
+    "series_id": "hw-special-features",
+    "year": 2009,
+    "name": "HW Special Features",
+    "total_releases": 13,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2009/p2407-dodge-ram-1500.json",
+        "data/releases/2009/p2407-dodge-ram-1500.json",
+        "data/releases/2009/p2407-dodge-ram-1500.json",
+        "data/releases/2009/p2408-spector.json",
+        "data/releases/2009/p2409-jet-threat-4-0.json",
+        "data/releases/2009/p2409-jet-threat-4-0.json",
+        "data/releases/2009/p2410-split-decision.json",
+        "data/releases/2009/p2411-cloak-and-dagger.json",
+        "data/releases/2009/p2411-cloak-and-dagger.json",
+        "data/releases/2009/p2412-ground-fx.json",
+        "data/releases/2009/p2412-ground-fx.json",
+        "data/releases/2009/p2413-night-burner.json",
+        "data/releases/2009/p2413-night-burner.json"
+    ]
+}

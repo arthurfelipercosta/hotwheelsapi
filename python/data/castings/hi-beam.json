@@ -1,0 +1,25 @@
+{
+    "casting_id": "hi-beam",
+    "name": "Hi Beam",
+    "description": {
+        "en-us": "Hi Beam Debut series HW Glow Wheels Produced 2018 - Present Designer Alvin Chan Number FJV67",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv67-hi-beam-v2.json",
+        "data/releases/2018/fjy25-hi-beam-v2.json",
+        "data/releases/2019/fyb97-hi-beam-v2.json",
+        "data/releases/2019/fyf51-hi-beam-v2.json",
+        "data/releases/2020/ghc95-hi-beam-v2.json",
+        "data/releases/2020/ghf54-hi-beam-v2.json",
+        "data/releases/2021/gtn41-hi-beam-v2.json",
+        "data/releases/2022/hfv85-hi-beam-v2.json",
+        "data/releases/2023/hng59-hi-beam-v2.json",
+        "data/releases/2023/hlr46-hi-beam-v2.json",
+        "data/releases/2025/jbj83-hi-beam-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

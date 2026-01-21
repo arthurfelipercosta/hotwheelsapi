@@ -1,0 +1,25 @@
+{
+    "release_id": "hcv15-custom-ford-bronco-2022",
+    "toy_number": "HCV15",
+    "casting_id": "custom-ford-bronco",
+    "year": 2022,
+    "series_id": "baja-blazers",
+    "series_index": 8,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black & White stripes/racing number, various sponsor logos, \"BAJA BLAZERS\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Brown Tire",
+            "1": "Black BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): P44, P48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Custom_ford_bronco_2022.jpg/revision/latest/scale-to-width-down/75?cb=20220501172527"
+    }
+}

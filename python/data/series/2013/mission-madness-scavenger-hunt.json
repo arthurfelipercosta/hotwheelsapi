@@ -1,0 +1,15 @@
+{
+    "series_id": "mission-madness-scavenger-hunt",
+    "year": 2013,
+    "name": "Mission Madness - Scavenger Hunt",
+    "total_releases": 6,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2013/bgj63-tire-fryer.json",
+        "data/releases/2013/bgj64-40-somethin.json",
+        "data/releases/2013/bgj65-pony-up.json",
+        "data/releases/2013/bgj66-scorcher.json",
+        "data/releases/2013/bgj67-vulture-roadster.json",
+        "data/releases/2013/bgj68-2008-tesla-roadster.json"
+    ]
+}

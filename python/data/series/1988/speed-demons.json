@@ -1,0 +1,14 @@
+{
+    "series_id": "speed-demons",
+    "year": 1988,
+    "name": "Speed Demons",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1988/2059-fangster.json",
+        "data/releases/1988/2062-eevil-weevil.json",
+        "data/releases/1988/4389-rodzilla.json",
+        "data/releases/1988/4389-rodzilla.json",
+        "data/releases/1988/5028-ratmobile.json"
+    ]
+}

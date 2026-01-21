@@ -1,0 +1,24 @@
+{
+    "release_id": "hrx15-custom-volkswagen-beetle-2024",
+    "toy_number": "HRX15",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2024,
+    "series_id": "ultra-hots",
+    "series_index": 8,
+    "specs": {
+        "color": "Spectraflame hot pink",
+        "tampo": "Detailed headlights, afterburner flame tampos on hood & sides, silver stripe & Volkswagen logo on hood, Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "UH"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T07, T11, T12, T18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/20240421232003.jpg/revision/latest/scale-to-width-down/75?cb=20240421152307"
+    }
+}

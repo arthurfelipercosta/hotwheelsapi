@@ -2,13 +2,19 @@
     "series_id": "hw-drift",
     "year": 2021,
     "name": "HW Drift",
-    "total_releases": 5,
+    "total_releases": 11,
     "max_index": 4,
     "releases": [
+        "data/releases/2021/grx21-dodge-van.json",
+        "data/releases/2021/gtb24-astana-hotto.json",
         "data/releases/2021/gtb25-custom-18-ford-mustang-gt.json",
+        "data/releases/2021/gtb26-toyota-ae86-sprinter-trueno.json",
         "data/releases/2021/gtb27-mazda-rx-3.json",
+        "data/releases/2021/gtb84-dodge-van.json",
+        "data/releases/2021/gtc14-toyota-ae86-sprinter-trueno.json",
         "data/releases/2021/gtc45-custom-18-ford-mustang-gt.json",
         "data/releases/2021/gtd00-mazda-rx-3.json",
+        "data/releases/2021/gtd14-toyota-ae86-sprinter-trueno.json",
         "data/releases/2021/gtd46-custom-18-ford-mustang-gt.json"
     ]
 }

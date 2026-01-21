@@ -1,0 +1,11 @@
+{
+    "series_id": "chevrolet-5-pack",
+    "year": 1995,
+    "name": "Chevrolet 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1995/12403-67-camaro.json",
+        "data/releases/1995/9638-57-chevy.json"
+    ]
+}

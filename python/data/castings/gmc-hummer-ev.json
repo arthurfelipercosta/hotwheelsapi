@@ -1,0 +1,21 @@
+{
+    "casting_id": "gmc-hummer-ev",
+    "name": "GMC Hummer EV",
+    "description": {
+        "en-us": "GMC Hummer EV Debut series HW Green Speed Produced 2022 – Present Designer Lindsey Lee Number HCT03",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct03-gmc-hummer-ev.json",
+        "data/releases/2022/hcx41-gmc-hummer-ev.json",
+        "data/releases/2023/hkj00-gmc-hummer-ev.json",
+        "data/releases/2023/hkl61-gmc-hummer-ev.json",
+        "data/releases/2023/hkk58-gmc-hummer-ev.json",
+        "data/releases/2024/htb83-gmc-hummer-ev.json",
+        "data/releases/2024/htd16-gmc-hummer-ev.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "GMC"
+}

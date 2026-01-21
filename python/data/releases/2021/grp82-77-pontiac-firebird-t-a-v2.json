@@ -1,0 +1,24 @@
+{
+    "release_id": "grp82-77-pontiac-firebird-t-a-2021",
+    "toy_number": "GRP82",
+    "casting_id": "77-pontiac-firebird-t-a",
+    "year": 2021,
+    "series_id": "spring",
+    "series_index": 5,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Green Flames on sides & hood, \"21\", \"Spring 2021\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Lime tint",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Gold PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N40, N41, N44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/77_Firebird_TA._Spring_2021.Open.jpg/revision/latest/scale-to-width-down/75?cb=20210314164527"
+    }
+}

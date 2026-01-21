@@ -1,0 +1,24 @@
+{
+    "release_id": "dwc88-85-chevrolet-camaro-iroc-z-2017",
+    "toy_number": "DWC88",
+    "casting_id": "85-chevrolet-camaro-iroc-z",
+    "year": 2017,
+    "series_id": "camaro-fifty",
+    "series_index": 4,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Black & Red stripes on hood and sides. IROC-Z on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named '85 Camaro IROC-Z Base code(s): J30, J37, J38, J41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/IROC.jpg/revision/latest/scale-to-width-down/75?cb=20170207050131"
+    }
+}

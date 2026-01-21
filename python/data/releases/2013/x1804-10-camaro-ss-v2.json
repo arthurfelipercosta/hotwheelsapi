@@ -1,0 +1,25 @@
+{
+    "release_id": "x1804-10-camaro-ss-2013",
+    "toy_number": "X1804",
+    "casting_id": "10-camaro-ss",
+    "year": 2013,
+    "series_id": "hw-showroom-then-and-now",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red & Orange stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: E41, E42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/%2710_Camaro_SS-2013_226_Then_and_Now.jpg/revision/latest/scale-to-width-down/75?cb=20121210190757"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "p2461-custom-ford-bronco-2009",
+    "toy_number": "P2461",
+    "casting_id": "custom-ford-bronco",
+    "year": 2009,
+    "series_id": "rebel-rides",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Black & Gray tribal design on hood, w/skull & Dark Red \"Hot Wheels\" logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold OR5SP",
+            "1": "Reverse color tampo from above version Base Code(s):"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): B38, B46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/Custombronco_rebel_blue.JPG/revision/latest/scale-to-width-down/75?cb=20091015091726"
+    }
+}

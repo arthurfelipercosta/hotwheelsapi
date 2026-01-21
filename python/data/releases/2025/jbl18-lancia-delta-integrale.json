@@ -1,0 +1,24 @@
+{
+    "release_id": "jbl18-lancia-delta-integrale-2025",
+    "toy_number": "JBL18",
+    "casting_id": "lancia-delta-integrale",
+    "year": 2025,
+    "series_id": "hot-wheels-boulevard-117",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Detailed headlights, taillights and trim, \"SPEZIATA\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "GRR10SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T45, T46, T47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/LanciaDelta.jpg/revision/latest/scale-to-width-down/75?cb=20250119123821"
+    }
+}

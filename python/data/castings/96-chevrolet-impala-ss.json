@@ -1,0 +1,18 @@
+{
+    "casting_id": "96-chevrolet-impala-ss",
+    "name": "'96 Chevrolet Impala SS",
+    "description": {
+        "en-us": "'96 Chevrolet Impala SS Debut series Nightburnerz Produced 2020 - Present Designer Brendon Vetuskey Number GHB74",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb74-96-chevrolet-impala-ss.json",
+        "data/releases/2021/gtb12-96-chevrolet-impala-ss.json",
+        "data/releases/2022/hfv86-96-chevrolet-impala-ss.json",
+        "data/releases/2023/hkf20-96-chevrolet-impala-ss.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Chevrolet"
+}

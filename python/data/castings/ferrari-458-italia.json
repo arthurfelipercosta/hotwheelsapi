@@ -1,0 +1,25 @@
+{
+    "casting_id": "ferrari-458-italia",
+    "name": "Ferrari 458 Italia",
+    "description": {
+        "en-us": "Ferrari 458 Italia Debut series 2010 New Models Produced 2010 - 2014 Designer John Violette Number R0954",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0954-ferrari-458-italia-v3.json",
+        "data/releases/2010/r0954-ferrari-458-italia-v4.json",
+        "data/releases/2011/t9853-ferrari-458-italia-v2.json",
+        "data/releases/2011/v0008-ferrari-458-italia-v2.json",
+        "data/releases/2012/v5433-ferrari-458-italia-v2.json",
+        "data/releases/2012/v5567-ferrari-458-italia-v2.json",
+        "data/releases/2012/x0117-ferrari-458-italia-v2.json",
+        "data/releases/2013/bbf70-ferrari-458-italia-v2.json",
+        "data/releases/2013/x1723-ferrari-458-italia-v2.json",
+        "data/releases/2014/bfc55-ferrari-458-italia-v2.json",
+        "data/releases/2014/bff72-ferrari-458-italia-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Ferrari"
+}

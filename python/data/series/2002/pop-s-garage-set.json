@@ -1,0 +1,11 @@
+{
+    "series_id": "pop-s-garage-set",
+    "year": 2002,
+    "name": "Pop's Garage Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2002/56149-71-plymouth-gtx.json",
+        "data/releases/2002/56149-honda-civic-si.json"
+    ]
+}

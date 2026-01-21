@@ -1,0 +1,24 @@
+{
+    "release_id": "b2272-ford-gt-40-2003",
+    "toy_number": "B2272",
+    "casting_id": "ford-gt-40",
+    "year": 2003,
+    "series_id": "100-preferred-ford-2",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Black hood, White stripe with 'Ford' on side and '91'",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "RRPrf"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "15,000 Produced",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/GT40_preferred_white.JPG/revision/latest/scale-to-width-down/75?cb=20091105114028"
+    }
+}

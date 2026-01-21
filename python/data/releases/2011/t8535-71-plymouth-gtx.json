@@ -1,0 +1,24 @@
+{
+    "release_id": "t8535-71-plymouth-gtx-2011",
+    "toy_number": "T8535",
+    "casting_id": "71-plymouth-gtx",
+    "year": 2011,
+    "series_id": "vintage-racing",
+    "series_index": 24,
+    "specs": {
+        "color": "Petty Racing Blue",
+        "tampo": "Richard Petty",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Blue GYRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/71_Plymouth_GTX-01-01.JPG/revision/latest/scale-to-width-down/75?cb=20130525185845"
+    }
+}

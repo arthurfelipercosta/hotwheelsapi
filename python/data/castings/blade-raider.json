@@ -1,0 +1,26 @@
+{
+    "casting_id": "blade-raider",
+    "name": "Blade Raider",
+    "description": {
+        "en-us": "Blade Raider Debut series HW Games Produced 2016 - Present Designer Ryu Asada Number DHN94",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhn94-blade-raider-v2.json",
+        "data/releases/2017/dvd13-blade-raider-v2.json",
+        "data/releases/2017/dvd16-blade-raider-v2.json",
+        "data/releases/2017/dvb96-blade-raider-v2.json",
+        "data/releases/2021/gry99-blade-raider-v2.json",
+        "data/releases/2021/gtc64-blade-raider-v2.json",
+        "data/releases/2022/hcw38-blade-raider-v2.json",
+        "data/releases/2022/hcw92-blade-raider-v2.json",
+        "data/releases/2023/hnb24-hnb34-blade-raider-v2.json",
+        "data/releases/2024/htv40-blade-raider-v2.json",
+        "data/releases/2025/jcl85-blade-raider-v2.json",
+        "data/releases/2025/jdj60-blade-raider-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

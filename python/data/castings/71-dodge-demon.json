@@ -1,0 +1,37 @@
+{
+    "casting_id": "71-dodge-demon",
+    "name": "'71 Dodge Demon",
+    "description": {
+        "en-us": "'71 Dodge Demon Debut series 2009 New Models Produced 2009 - Present Designer Phil Riehlman Number N4016\\n\\nThe Dodge Dart Demon is a performance-oriented version of the Dodge Dart introduced in 1971 by the Chrysler Corporation (now Stellantis North America). For all intents and purposes the car was essentially a rebadged version of the Plymouth Duster and was available with four engine options, those being two Slant-6s and two V8s. The car was originally planned to be named the Beaver but this was changed after it was found that the word had a crude meaning in some circles. 79,959 were produced for 1971.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4016-71-dodge-demon.json",
+        "data/releases/2009/n4016-71-dodge-demon-v2.json",
+        "data/releases/2009/n4016-71-dodge-demon-v3.json",
+        "data/releases/2010/r0968-71-dodge-demon.json",
+        "data/releases/2011/t9791-71-dodge-demon.json",
+        "data/releases/2011/v0004-71-dodge-demon.json",
+        "data/releases/2011/v5206-71-dodge-demon.json",
+        "data/releases/2011/t8326-71-dodge-demon.json",
+        "data/releases/2011/t8345-71-dodge-demon.json",
+        "data/releases/2012/v5481-71-dodge-demon.json",
+        "data/releases/2012/v5481-71-dodge-demon-v2.json",
+        "data/releases/2012/v5662-71-dodge-demon.json",
+        "data/releases/2013/x1797-71-dodge-demon.json",
+        "data/releases/2013/x2012-71-dodge-demon.json",
+        "data/releases/2014/bfd95-71-dodge-demon.json",
+        "data/releases/2014/bfg49-71-dodge-demon.json",
+        "data/releases/2015/x6999-71-dodge-demon.json",
+        "data/releases/2018/frn29-71-dodge-demon.json",
+        "data/releases/2019/x6999-71-dodge-demon.json",
+        "data/releases/2019/x6999-71-dodge-demon-v2.json",
+        "data/releases/2019/x6999-71-dodge-demon-v3.json",
+        "data/releases/2021/grt28-71-dodge-demon.json",
+        "data/releases/2023/hlh91-71-dodge-demon.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Dodge"
+}

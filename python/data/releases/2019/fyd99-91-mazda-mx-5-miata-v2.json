@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd99-91-mazda-mx-5-miata-2019",
+    "toy_number": "FYD99",
+    "casting_id": "91-mazda-mx-5-miata",
+    "year": 2019,
+    "series_id": "hw-speed-graphics",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "'Mazdaspeed' & California License Plate 'HTWHLS' on front, 'Ryu', white roundel, HW & Mazda logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): M26, M27, M29, M31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/FYD99-Miata.JPG/revision/latest/scale-to-width-down/75?cb=20190918030828"
+    }
+}

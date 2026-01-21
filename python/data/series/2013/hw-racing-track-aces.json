@@ -2,10 +2,24 @@
     "series_id": "hw-racing-track-aces",
     "year": 2013,
     "name": "HW Racing: Track Aces",
-    "total_releases": 2,
+    "total_releases": 16,
     "max_index": 0,
     "releases": [
+        "data/releases/2013/x1645-tarmac-attack.json",
+        "data/releases/2013/x1656-maximum-leeway.json",
+        "data/releases/2013/x1753-circle-trucker.json",
+        "data/releases/2013/x1754-circle-tracker.json",
         "data/releases/2013/x1755-chevroletor.json",
-        "data/releases/2013/x1938-chevroletor.json"
+        "data/releases/2013/x1756-bad-to-the-blade.json",
+        "data/releases/2013/x1757-indy-500-oval.json",
+        "data/releases/2013/x1758-dirty-outlaw.json",
+        "data/releases/2013/x1759-fast-fish.json",
+        "data/releases/2013/x1760-f1-racer.json",
+        "data/releases/2013/x1938-chevroletor.json",
+        "data/releases/2013/x1940-maximum-leeway.json",
+        "data/releases/2013/x1942-f1-racer.json",
+        "data/releases/2013/x1948-tarmac-attack.json",
+        "data/releases/2013/x1948-tarmac-attack.json",
+        "data/releases/2013/x1948-tarmac-attack.json"
     ]
 }

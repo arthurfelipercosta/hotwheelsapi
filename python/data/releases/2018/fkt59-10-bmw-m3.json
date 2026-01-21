@@ -1,0 +1,25 @@
+{
+    "release_id": "fkt59-10-bmw-m3-2018",
+    "toy_number": "FKT59",
+    "casting_id": "10-bmw-m3",
+    "year": 2018,
+    "series_id": "car-meet-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Red, dark blue & light blue stripes on hood and sides, BMW logo on hood, \"M Series\" & gray Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark Blue",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base codes: L09, L13, L20, L31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/BMW.M3.jpg/revision/latest/scale-to-width-down/75?cb=20180502235858"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "jkx03-prototype-h-24-2026",
+    "toy_number": "JKX03",
+    "casting_id": "prototype-h-24",
+    "year": 2026,
+    "series_id": "batman",
+    "series_index": 8,
+    "specs": {
+        "color": "Light blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "5HD",
+            "1": "OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+    }
+}

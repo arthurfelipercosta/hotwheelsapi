@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd10-10-pro-stock-camaro-2020",
+    "toy_number": "GHD10",
+    "casting_id": "10-pro-stock-camaro",
+    "year": 2020,
+    "series_id": "hw-race-team",
+    "series_index": 3,
+    "specs": {
+        "color": "Blue",
+        "tampo": "'Laughlin' & Hot Wheels logo. Black bonnet stripe.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N32, N33, N34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/GHD10_Short_Card.jpg/revision/latest/scale-to-width-down/75?cb=20201026104958"
+    }
+}

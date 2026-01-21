@@ -1,0 +1,20 @@
+{
+    "casting_id": "aston-martin-db10",
+    "name": "Aston Martin DB10",
+    "description": {
+        "en-us": "Aston Martin DB10 Debut series HW Showroom Produced 2016 - Present Designer Fraser Campbell Number DLK05",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dlk05-aston-martin-db10.json",
+        "data/releases/2016/djf54-aston-martin-db10.json",
+        "data/releases/2017/dvb08-aston-martin-db10.json",
+        "data/releases/2019/fyp63-aston-martin-db10.json",
+        "data/releases/2023/hlk51-aston-martin-db10.json",
+        "data/releases/2025/jbl04-aston-martin-db10.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Aston Martin"
+}

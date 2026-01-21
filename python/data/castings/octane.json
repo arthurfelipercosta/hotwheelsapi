@@ -1,0 +1,18 @@
+{
+    "casting_id": "octane",
+    "name": "Octane",
+    "description": {
+        "en-us": "Octane Debut series HW Game Over Produced 2019 - 2020 Designer Dmitriy Shakhmatov Number FYB44",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb44-octane-v2.json",
+        "data/releases/2019/fyf57-octane-v2.json",
+        "data/releases/2020/ghc80-octane-v2.json",
+        "data/releases/2020/ghf97-octane-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

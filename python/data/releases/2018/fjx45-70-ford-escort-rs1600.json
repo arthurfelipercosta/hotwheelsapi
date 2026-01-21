@@ -1,0 +1,24 @@
+{
+    "release_id": "fjx45-70-ford-escort-rs1600-2018",
+    "toy_number": "FJX45",
+    "casting_id": "70-ford-escort-rs1600",
+    "year": 2018,
+    "series_id": "hw-50th-race-team",
+    "series_index": 2,
+    "specs": {
+        "color": "Matte Blue",
+        "tampo": "Orange, White Stripes, Hot Wheels logo, 50th Anniversary Emblem, & #10 on both sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "50L"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L22, L23, L24, L25, L26, L27, L28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/70-ford-escort-rs1600-18-hw50thraceteam-common-1200pxotd.png/revision/latest/scale-to-width-down/75?cb=20180910162357"
+    }
+}

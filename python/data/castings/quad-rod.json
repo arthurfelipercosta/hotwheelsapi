@@ -1,0 +1,21 @@
+{
+    "casting_id": "quad-rod",
+    "name": "Quad Rod",
+    "description": {
+        "en-us": "Quad Rod Debut series HW Moto Produced 2017 - Present Designer Tyler Charest Number DTX28",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx28-quad-rod-v2.json",
+        "data/releases/2017/dvc00-quad-rod-v2.json",
+        "data/releases/2018/fjx08-quad-rod-v2.json",
+        "data/releases/2021/grx64-quad-rod-v2.json",
+        "data/releases/2021/gtc50-quad-rod-v2.json",
+        "data/releases/2022/hfv78-quad-rod-v2.json",
+        "data/releases/2023/hnb21-quad-rod-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

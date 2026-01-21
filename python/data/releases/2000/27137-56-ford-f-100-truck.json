@@ -1,0 +1,24 @@
+{
+    "release_id": "27137-56-ford-f-100-truck-2000",
+    "toy_number": "27137",
+    "casting_id": "56-ford-f-100-truck",
+    "year": 2000,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Gold & Magenta graphics on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Gold Chrome",
+        "wheel_type": {
+            "0": "Gold 5SP"
+        }
+    },
+    "country": "China",
+    "notes": "Front end flips forward",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/27/PB180291.JPG/revision/latest/scale-to-width-down/75?cb=20090113074047"
+    }
+}

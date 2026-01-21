@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd63-65-ford-galaxie-2020",
+    "toy_number": "GHD63",
+    "casting_id": "65-ford-galaxie",
+    "year": 2020,
+    "series_id": "hw-flames",
+    "series_index": 10,
+    "specs": {
+        "color": "Black",
+        "tampo": "Green Flames, '20' & sponsor logos.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Green 5SP"
+        }
+    },
+    "country": "Malysia",
+    "notes": "New in Mainline Base code(s): N21, N23, N24, N26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/GHD63_-_65_Ford_Galaxie-1.jpg/revision/latest/scale-to-width-down/75?cb=20201028162044"
+    }
+}

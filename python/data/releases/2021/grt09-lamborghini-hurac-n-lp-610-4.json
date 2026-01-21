@@ -1,0 +1,24 @@
+{
+    "release_id": "grt09-lamborghini-hurac-n-lp-610-4-2021",
+    "toy_number": "GRT09",
+    "casting_id": "lamborghini-hurac-n-lp-610-4",
+    "year": 2021,
+    "series_id": "factory-500-h-p",
+    "series_index": 8,
+    "specs": {
+        "color": "Nero Serapis",
+        "tampo": "Yellow stripes on hood & sides, detailed headlights & Lamborghini emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Black Y5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N38, N39, P06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Huracan_Black_500hp.jpg/revision/latest/scale-to-width-down/75?cb=20201218083024"
+    }
+}

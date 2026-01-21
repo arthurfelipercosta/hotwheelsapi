@@ -1,0 +1,24 @@
+{
+    "release_id": "t8334-custom-69-chevy-2011",
+    "toy_number": "T8334",
+    "casting_id": "custom-69-chevy",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-gm",
+    "series_index": 19,
+    "specs": {
+        "color": "Purple",
+        "tampo": "Matte Black Roof, Purple Stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Whitewall Purple LW5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/Custom69chevy2011Garage.jpg/revision/latest/scale-to-width-down/75?cb=20120428231757"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dvb12-15-jaguar-f-type-project-7-2017",
+    "toy_number": "DVB12",
+    "casting_id": "15-jaguar-f-type-project-7",
+    "year": 2017,
+    "series_id": "hw-exotics",
+    "series_index": 9,
+    "specs": {
+        "color": "Black",
+        "tampo": "White stripe across front, White solid circle on sides and trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Dark Grey Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J46, J48, J49, J50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/15JaguarFTypeP7DVB12.jpg/revision/latest/scale-to-width-down/75?cb=20170216000812"
+    }
+}

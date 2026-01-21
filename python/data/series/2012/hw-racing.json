@@ -2,13 +2,26 @@
     "series_id": "hw-racing",
     "year": 2012,
     "name": "HW Racing",
-    "total_releases": 5,
+    "total_releases": 18,
     "max_index": 10,
     "releases": [
+        "data/releases/2012/v5475-68-chevy-nova.json",
+        "data/releases/2012/v5476-70-chevelle-ss.json",
+        "data/releases/2012/v5477-67-pontiac-gto.json",
         "data/releases/2012/v5478-70-dodge-hemi-challenger.json",
+        "data/releases/2012/v5479-08-dodge-challenger-srt8.json",
+        "data/releases/2012/v5480-custom-volkswagen-beetle.json",
+        "data/releases/2012/v5481-71-dodge-demon.json",
+        "data/releases/2012/v5481-71-dodge-demon.json",
         "data/releases/2012/v5484-bone-shaker.json",
+        "data/releases/2012/v5576-68-chevy-nova.json",
+        "data/releases/2012/v5615-67-pontiac-gto.json",
         "data/releases/2012/v5621-70-dodge-hemi-challenger.json",
+        "data/releases/2012/v5644-70-chevelle-ss.json",
+        "data/releases/2012/v5645-custom-volkswagen-beetle.json",
+        "data/releases/2012/v5662-71-dodge-demon.json",
         "data/releases/2012/v5700-70-dodge-hemi-challenger.json",
-        "data/releases/2012/v5707-bone-shaker.json"
+        "data/releases/2012/v5707-bone-shaker.json",
+        "data/releases/2012/x2030-custom-volkswagen-beetle.json"
     ]
 }

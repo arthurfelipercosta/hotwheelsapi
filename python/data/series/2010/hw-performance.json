@@ -2,15 +2,30 @@
     "series_id": "hw-performance",
     "year": 2010,
     "name": "HW Performance",
-    "total_releases": 7,
+    "total_releases": 22,
     "max_index": 6,
     "releases": [
+        "data/releases/2010/r7524-ground-fx.json",
+        "data/releases/2010/r7525-08-dodge-challenger-srt8.json",
+        "data/releases/2010/r7525-08-dodge-challenger-srt8.json",
+        "data/releases/2010/r7525-08-dodge-challenger-srt8.json",
+        "data/releases/2010/r7526-camaro-convertible-concept.json",
+        "data/releases/2010/r7526-camaro-convertible-concept.json",
+        "data/releases/2010/r7526-camaro-convertible-concept.json",
+        "data/releases/2010/r7526-camaro-convertible-concept.json",
         "data/releases/2010/r7529-pass-n-gasser.json",
         "data/releases/2010/r7529-pass-n-gasser.json",
         "data/releases/2010/r7529-pass-n-gasser.json",
         "data/releases/2010/r7529-pass-n-gasser.json",
         "data/releases/2010/r7529-pass-n-gasser.json",
         "data/releases/2010/r7531-92-ford-mustang.json",
-        "data/releases/2010/r7531-92-ford-mustang.json"
+        "data/releases/2010/r7531-92-ford-mustang.json",
+        "data/releases/2010/r7532-56-ford-f-100-truck.json",
+        "data/releases/2010/r7532-56-ford-f-100-truck.json",
+        "data/releases/2010/r7532-56-ford-f-100-truck.json",
+        "data/releases/2010/r7533-dodge-ram-1500.json",
+        "data/releases/2010/r7533-dodge-ram-1500.json",
+        "data/releases/2010/r7533-dodge-ram-1500.json",
+        "data/releases/2010/r7533-dodge-ram-1500.json"
     ]
 }

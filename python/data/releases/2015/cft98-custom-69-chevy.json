@@ -1,0 +1,24 @@
+{
+    "release_id": "cft98-custom-69-chevy-2015",
+    "toy_number": "CFT98",
+    "casting_id": "custom-69-chevy",
+    "year": 2015,
+    "series_id": "happy-easter",
+    "series_index": 6,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "Yellow Stripes, White Flames, 'Farm Fresh Eggs'",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Yellow 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code: G41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/CustomChevyTruckEsater.jpg/revision/latest/scale-to-width-down/75?cb=20200208055904"
+    }
+}

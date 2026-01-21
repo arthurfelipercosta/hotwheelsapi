@@ -2,10 +2,12 @@
     "series_id": "classics-series-3-3-pack",
     "year": 2007,
     "name": "Classics (Series 3) 3-Pack",
-    "total_releases": 2,
-    "max_index": 2,
+    "total_releases": 4,
+    "max_index": 1,
     "releases": [
         "data/releases/2007/m1809-bone-shaker.json",
-        "data/releases/2007/m1809-king-kuda.json"
+        "data/releases/2007/m1809-king-kuda.json",
+        "data/releases/2007/m1810-52-chevy-truck.json",
+        "data/releases/2007/m1811-bad-bagger.json"
     ]
 }

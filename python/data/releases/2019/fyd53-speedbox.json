@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd53-speedbox-2019",
+    "toy_number": "FYD53",
+    "casting_id": "speedbox",
+    "year": 2019,
+    "series_id": "super-chromes",
+    "series_index": 3,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "Blue stripe, \"Superchromes\" and 6 white stars on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Red)",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome Wall Chrome & Blue 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L31, L34, L35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/HW_FYD53_2019.jpg/revision/latest/scale-to-width-down/75?cb=20181022183122"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "gtb43-retro-active-2021",
+    "toy_number": "GTB43",
+    "casting_id": "retro-active",
+    "year": 2021,
+    "series_id": "track-stars",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "\"Track\" track loop logo, orange and black stripes \"1\" \"Retro-Active\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Orange tire",
+            "1": "Black AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): N48, N50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/RETRO-ACTIVE_2021.png/revision/latest/scale-to-width-down/75?cb=20210611095313"
+    }
+}

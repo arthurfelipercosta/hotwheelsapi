@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx01-tesla-model-x-2017",
+    "toy_number": "DTX01",
+    "casting_id": "tesla-model-x",
+    "year": 2017,
+    "series_id": "factory-fresh",
+    "series_index": 9,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Detailed head- & taillights, Tesla logo on front & trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): J45, J47, J48, J50, J52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Tesla_Model_X_DTX01.png/revision/latest/scale-to-width-down/75?cb=20170412160359"
+    }
+}

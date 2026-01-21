@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-garage",
+    "year": 2011,
+    "name": "Hot Wheels Garage",
+    "total_releases": 2,
+    "max_index": 11,
+    "releases": [
+        "data/releases/2011/t8299-70-plymouth-barracuda.json",
+        "data/releases/2011/t8309-68-chevy-nova.json"
+    ]
+}

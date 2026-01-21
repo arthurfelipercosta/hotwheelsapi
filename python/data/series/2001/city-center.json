@@ -1,0 +1,11 @@
+{
+    "series_id": "city-center",
+    "year": 2001,
+    "name": "City Center",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2001/89475-3-window-34.json",
+        "data/releases/2001/89475-dodge-viper-rt-10.json"
+    ]
+}

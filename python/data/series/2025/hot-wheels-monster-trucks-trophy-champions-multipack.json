@@ -2,9 +2,14 @@
     "series_id": "hot-wheels-monster-trucks-trophy-champions-multipack",
     "year": 2025,
     "name": "Hot Wheels Monster Trucks: Trophy Champions Multipack",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
-        "data/releases/2025/jdw07-ghd11-custom-otto.json"
+        "data/releases/2025/jdw07-baja-truck.json",
+        "data/releases/2025/jdw07-dawgzilla.json",
+        "data/releases/2025/jdw07-fyc22-baja-hauler.json",
+        "data/releases/2025/jdw07-ghd11-custom-otto.json",
+        "data/releases/2025/jdw07-twinduction.json",
+        "data/releases/2025/jdw07-x1649-loop-coupe.json"
     ]
 }

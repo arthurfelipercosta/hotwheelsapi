@@ -1,0 +1,24 @@
+{
+    "release_id": "w2311-mclaren-f1-gtr-2013",
+    "toy_number": "W2311",
+    "casting_id": "mclaren-f1-gtr",
+    "year": 2013,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Dark Orange",
+        "tampo": "White McLaren on the sides, Orange stripes on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Chrome Orange & Black OH5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F32, F13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/McLaren_F1_GTR_package_front.png/revision/latest/scale-to-width-down/75?cb=20160117214955"
+    }
+}

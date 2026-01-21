@@ -1,0 +1,24 @@
+{
+    "release_id": "hdg82-hiway-hauler-2-2022",
+    "toy_number": "HDG82",
+    "casting_id": "hiway-hauler-2",
+    "year": 2022,
+    "series_id": "lightyear",
+    "series_index": 2,
+    "specs": {
+        "color": "Purple metallic",
+        "tampo": "Zurg graphics on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Anthracite",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Purple 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R07, R12, R13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/Lightyear_Series_%282022%29_HDG82_Higway_Hauler_2.jpg/revision/latest/scale-to-width-down/75?cb=20220609190559"
+    }
+}

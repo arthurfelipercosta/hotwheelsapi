@@ -1,0 +1,20 @@
+{
+    "series_id": "baja-blazers",
+    "year": 2023,
+    "name": "Baja Blazers",
+    "total_releases": 11,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hkg46-porsche-928s-safari.json",
+        "data/releases/2023/hkg61-73-jeep-j10.json",
+        "data/releases/2023/hkg65-land-rover-series-ii.json",
+        "data/releases/2023/hkg72-57-jeep-fc.json",
+        "data/releases/2023/hkg73-87-dodge-d100.json",
+        "data/releases/2023/hkg74-dune-crusher.json",
+        "data/releases/2023/hkg75-20-toyota-tacoma.json",
+        "data/releases/2023/hkg77-sand-burner.json",
+        "data/releases/2023/hkg78-jeep-scrambler.json",
+        "data/releases/2023/hkj58-dune-crusher.json",
+        "data/releases/2023/hkk93-volkswagen-baja-bug.json"
+    ]
+}

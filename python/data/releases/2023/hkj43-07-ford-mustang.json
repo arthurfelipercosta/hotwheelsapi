@@ -1,0 +1,24 @@
+{
+    "release_id": "hkj43-07-ford-mustang-2023",
+    "toy_number": "HKJ43",
+    "casting_id": "07-ford-mustang",
+    "year": 2023,
+    "series_id": "then-and-now",
+    "series_index": 5,
+    "specs": {
+        "color": "Falken Racing Blue",
+        "tampo": "Turquoise FALKEN livery, various sponsors logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S15, S17, S19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/HKJ43.jpg/revision/latest/scale-to-width-down/75?cb=20230603053313"
+    }
+}

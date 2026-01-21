@@ -2,10 +2,13 @@
     "series_id": "hw-exposed-engines-5-pack",
     "year": 2023,
     "name": "HW Exposed Engines 5-Pack",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/2023/hly79-crate-racer.json",
-        "data/releases/2023/hly79-custom-72-chevy-luv.json"
+        "data/releases/2023/hly79-custom-42-jeep-cj-2a.json",
+        "data/releases/2023/hly79-custom-72-chevy-luv.json",
+        "data/releases/2023/hly79-lethal-diesel.json",
+        "data/releases/2023/hly79-twin-mill-iii.json"
     ]
 }

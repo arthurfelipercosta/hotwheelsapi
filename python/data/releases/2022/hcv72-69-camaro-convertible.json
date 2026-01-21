@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv72-69-camaro-convertible-2022",
+    "toy_number": "HCV72",
+    "casting_id": "69-camaro-convertible",
+    "year": 2022,
+    "series_id": "muscle-mania",
+    "series_index": 5,
+    "specs": {
+        "color": "Black",
+        "tampo": "White band striping on hood & sides, \"Camaro SS\" and HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R21, R24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/HCV72.jpg/revision/latest/scale-to-width-down/75?cb=20220612150646"
+    }
+}

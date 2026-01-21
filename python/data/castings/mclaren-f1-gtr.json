@@ -1,0 +1,33 @@
+{
+    "casting_id": "mclaren-f1-gtr",
+    "name": "McLaren F1 GTR",
+    "description": {
+        "en-us": "McLaren F1 GTR Debut series Speed Machines Produced 2010 - Present Designer Fraser Campbell Number R8479",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r8479-mclaren-f1-gtr-v2.json",
+        "data/releases/2010/t4410-mclaren-f1-gtr-v2.json",
+        "data/releases/2010/w2311-mclaren-f1-gtr-v2.json",
+        "data/releases/2010/t4422-mclaren-f1-gtr-v2.json",
+        "data/releases/2011/w1760-mclaren-f1-gtr-v2.json",
+        "data/releases/2013/t4422-mclaren-f1-gtr-v2.json",
+        "data/releases/2013/w2311-mclaren-f1-gtr-v2.json",
+        "data/releases/2017/dvb04-mclaren-f1-gtr-v2.json",
+        "data/releases/2018/fkf34-mclaren-f1-gtr-v2.json",
+        "data/releases/2018/fkt62-mclaren-f1-gtr-v2.json",
+        "data/releases/2019/fyn55-mclaren-f1-gtr-v2.json",
+        "data/releases/2020/ghp50-mclaren-f1-gtr-v2.json",
+        "data/releases/2021/grj62-mclaren-f1-gtr-v2.json",
+        "data/releases/2022/hcw37-mclaren-f1-gtr-v2.json",
+        "data/releases/2022/hcy51-mclaren-f1-gtr-v2.json",
+        "data/releases/2022/hcx86-mclaren-f1-gtr-v2.json",
+        "data/releases/2022/hbg27-mclaren-f1-gtr-v2.json",
+        "data/releases/2022/hpm58-mclaren-f1-gtr-v2.json",
+        "data/releases/2024/hrw76-mclaren-f1-gtr-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "McLaren"
+}

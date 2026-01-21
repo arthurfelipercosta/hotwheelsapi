@@ -1,0 +1,24 @@
+{
+    "release_id": "x1951-chicane-2013",
+    "toy_number": "X1951",
+    "casting_id": "chicane",
+    "year": 2013,
+    "series_id": "hw-racing-super-chromes",
+    "series_index": null,
+    "specs": {
+        "color": "Gold Chrome",
+        "tampo": "#35, \"Chicane,\" race flag decos, Blue & Black stripes.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Blue-Rimmed OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F25, F27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Chicane-2013_149_Gold.jpg/revision/latest/scale-to-width-down/75?cb=20130914154200"
+    }
+}

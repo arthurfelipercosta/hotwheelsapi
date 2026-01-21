@@ -1,0 +1,24 @@
+{
+    "release_id": "jcb62-tooned-volkswagen-golf-mk1-2025",
+    "toy_number": "JCB62",
+    "casting_id": "tooned-volkswagen-golf-mk1",
+    "year": 2025,
+    "series_id": "tooned-gulf",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake dark blue",
+        "tampo": "Detailed headlights and taillights, Gulf livery on sides & top, \"TOONED\" on rear license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Orange & black C5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T42, T43, T48, T48N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/20250331221020.jpg/revision/latest/scale-to-width-down/75?cb=20250401031118"
+    }
+}

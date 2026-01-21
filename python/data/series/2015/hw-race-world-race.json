@@ -2,12 +2,26 @@
     "series_id": "hw-race-world-race",
     "year": 2015,
     "name": "HW Race: World Race",
-    "total_releases": 4,
+    "total_releases": 18,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfg77-nitro-tailgater.json",
         "data/releases/2015/cfg99-srt-viper-gts-r.json",
+        "data/releases/2015/cfh00-custom-15-ford-mustang.json",
         "data/releases/2015/cfh01-corvette-c7-r.json",
+        "data/releases/2015/cfh15-aston-martin-vantage-gt3.json",
+        "data/releases/2015/cfj47-mastretta-mxr.json",
+        "data/releases/2015/cfj61-bmw-e36-m3-race.json",
         "data/releases/2015/cfj64-srt-viper-gts-r.json",
-        "data/releases/2015/cfl26-corvette-c7-r.json"
+        "data/releases/2015/cfk59-bully-goat.json",
+        "data/releases/2015/cfk90-bmw-e36-m3-race.json",
+        "data/releases/2015/cfk92-super-blitzen.json",
+        "data/releases/2015/cfk94-mastretta-mxr.json",
+        "data/releases/2015/cfk95-fig-rig.json",
+        "data/releases/2015/cfl26-corvette-c7-r.json",
+        "data/releases/2015/cfl35-aston-martin-vantage-gt3.json",
+        "data/releases/2015/cfl53-fig-rig.json",
+        "data/releases/2015/cfm12-nitro-tailgater.json",
+        "data/releases/2015/cfm16-super-blitzen.json"
     ]
 }

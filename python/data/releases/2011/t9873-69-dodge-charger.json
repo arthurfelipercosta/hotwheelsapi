@@ -1,0 +1,25 @@
+{
+    "release_id": "t9873-69-dodge-charger-2011",
+    "toy_number": "T9873",
+    "casting_id": "69-dodge-charger",
+    "year": 2011,
+    "series_id": "hw-main-street",
+    "series_index": 6,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Blue & Yellow Stripes with \"OCALA POLICE 742\" on roof, \"POLICE OCALA, FLORIDA\" with shield on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Chrome-Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D23, D37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/69_dodge_charger_2011_white.png/revision/latest/scale-to-width-down/75?cb=20110928003737"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dnf19-volkswagen-sp2-2016",
+    "toy_number": "DNF19",
+    "casting_id": "volkswagen-sp2",
+    "year": 2016,
+    "series_id": "retro-style",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue and Black Rally-Inspired graphics. #432, \"VW\" logo on roof, sponsor logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: H49, J03, J04, J12, J50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Volkswagen_SP2_-_16_Retro_Style_600pxDM.jpg/revision/latest/scale-to-width-down/75?cb=20170202065901"
+    }
+}

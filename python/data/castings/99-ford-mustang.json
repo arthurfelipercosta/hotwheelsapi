@@ -1,0 +1,38 @@
+{
+    "casting_id": "99-ford-mustang",
+    "name": "'99 Ford Mustang",
+    "description": {
+        "en-us": "'99 Ford Mustang Debut series 1999 First Editions Produced 1999 - 2018 Designer Mark Jones Number 21056\\n\\nThe ' 99 Mustang has come out in the following 1/64 scale versions:",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/1999/21056-99-ford-mustang.json",
+        "data/releases/1999/22318-99-ford-mustang.json",
+        "data/releases/1999/22318-99-ford-mustang-v2.json",
+        "data/releases/1999/23310-99-ford-mustang.json",
+        "data/releases/2000/26598-99-ford-mustang.json",
+        "data/releases/2000/26598-99-ford-mustang-v2.json",
+        "data/releases/2000/26598-99-ford-mustang-v3.json",
+        "data/releases/2000/26598-99-ford-mustang-v4.json",
+        "data/releases/2000/26037-99-ford-mustang.json",
+        "data/releases/2000/27065-99-ford-mustang.json",
+        "data/releases/2001/50124-99-ford-mustang.json",
+        "data/releases/2001/29978-99-ford-mustang.json",
+        "data/releases/2003/57018-99-ford-mustang.json",
+        "data/releases/2008/n1110-99-ford-mustang.json",
+        "data/releases/2009/p5669-99-ford-mustang.json",
+        "data/releases/2009/p3520-99-ford-mustang.json",
+        "data/releases/2009/p3547-99-ford-mustang.json",
+        "data/releases/2012/54886-99-ford-mustang.json",
+        "data/releases/2014/bfd86-99-ford-mustang.json",
+        "data/releases/2014/bfg31-99-ford-mustang.json",
+        "data/releases/2016/djk88-99-ford-mustang.json",
+        "data/releases/2018/fkt59-99-ford-mustang.json",
+        "data/releases/2018/frf37-99-ford-mustang.json",
+        "data/releases/2018/fwn23-99-ford-mustang.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 1999,
+    "manufacturer": "Ford"
+}

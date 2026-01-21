@@ -1,0 +1,24 @@
+{
+    "release_id": "dhx50-custom-ford-bronco-2016",
+    "toy_number": "DHX50",
+    "casting_id": "custom-ford-bronco",
+    "year": 2016,
+    "series_id": "hw-daredevils",
+    "series_index": 8,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "Yellow & Orange flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome & Black OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): H43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/2016_Custom_Ford_Bronco.jpg/revision/latest/scale-to-width-down/75?cb=20190220205121"
+    }
+}

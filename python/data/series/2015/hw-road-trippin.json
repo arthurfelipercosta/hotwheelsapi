@@ -2,11 +2,20 @@
     "series_id": "hw-road-trippin",
     "year": 2015,
     "name": "HW Road Trippin'",
-    "total_releases": 3,
-    "max_index": 17,
+    "total_releases": 12,
+    "max_index": 16,
     "releases": [
         "data/releases/2015/dfl40-47-chevy-fleetline.json",
+        "data/releases/2015/dfl41-hiway-hauler-2.json",
+        "data/releases/2015/dfl42-nissan-skyline-gt-r-bnr34.json",
+        "data/releases/2015/dfl44-classic-nomad.json",
+        "data/releases/2015/dfl46-nissan-skyline-h-t-2000gt-x.json",
+        "data/releases/2015/dfl48-rivited.json",
         "data/releases/2015/dfl49-70-chevelle-ss-wagon.json",
-        "data/releases/2015/dfl50-custom-56-ford-truck.json"
+        "data/releases/2015/dfl50-custom-56-ford-truck.json",
+        "data/releases/2015/dfl51-toyota-2000gt.json",
+        "data/releases/2015/dfl52-scirocco-gt-24.json",
+        "data/releases/2015/dfl59-custom-64-galaxie-500.json",
+        "data/releases/2015/dfl60-69-dodge-charger.json"
     ]
 }

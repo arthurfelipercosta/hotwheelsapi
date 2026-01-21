@@ -1,0 +1,25 @@
+{
+    "casting_id": "16-mercedes-amg-gt3",
+    "name": "'16 Mercedes-AMG GT3",
+    "description": {
+        "en-us": "'16 Mercedes-AMG GT3 Debut series Legends of Speed Produced 2018 - Present Designer Dmitriy Shakhmatov Number FJV46",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv46-16-mercedes-amg-gt3.json",
+        "data/releases/2018/fjv46-16-mercedes-amg-gt3-v2.json",
+        "data/releases/2018/fjy10-16-mercedes-amg-gt3.json",
+        "data/releases/2019/fyd19-16-mercedes-amg-gt3.json",
+        "data/releases/2019/fyd75-16-mercedes-amg-gt3.json",
+        "data/releases/2019/fyn62-16-mercedes-amg-gt3.json",
+        "data/releases/2021/hbf94-16-mercedes-amg-gt3.json",
+        "data/releases/2021/grn85-16-mercedes-amg-gt3.json",
+        "data/releases/2022/hcr30-16-mercedes-amg-gt3.json",
+        "data/releases/2024/hrw79-16-mercedes-amg-gt3.json",
+        "data/releases/2026/jlb25-16-mercedes-amg-gt3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mercedes"
+}

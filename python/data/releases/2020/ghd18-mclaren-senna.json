@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd18-mclaren-senna-2020",
+    "toy_number": "GHD18",
+    "casting_id": "mclaren-senna",
+    "year": 2020,
+    "series_id": "nightburnerz",
+    "series_index": 9,
+    "specs": {
+        "color": "Silica White",
+        "tampo": "Detailed taillights, McLaren badge on front & rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "B10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): N23, N26, N27, N28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/McLaren_Senna_White_2020.jpg/revision/latest/scale-to-width-down/75?cb=20200926134557"
+    }
+}

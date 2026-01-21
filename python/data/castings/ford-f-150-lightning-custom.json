@@ -1,0 +1,17 @@
+{
+    "casting_id": "ford-f-150-lightning-custom",
+    "name": "Ford F-150 Lightning Custom",
+    "description": {
+        "en-us": "Ford F-150 Lightning Custom Debut series HW Hot Trucks Produced 2023 – Present Designer Sonny Fisher Number HKG66",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg66-ford-f-150-lightning-custom.json",
+        "data/releases/2024/htb82-ford-f-150-lightning-custom.json",
+        "data/releases/2024/htd01-ford-f-150-lightning-custom.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Ford"
+}

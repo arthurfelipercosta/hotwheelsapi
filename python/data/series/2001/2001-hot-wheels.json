@@ -1,0 +1,11 @@
+{
+    "series_id": "2001-hot-wheels",
+    "year": 2001,
+    "name": "2001 Hot Wheels",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2001/50069-68-el-camino.json",
+        "data/releases/2001/50636-power-pipes.json"
+    ]
+}

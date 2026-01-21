@@ -1,0 +1,17 @@
+{
+    "casting_id": "mad-mike-drift-attack",
+    "name": "Mad Mike Drift Attack",
+    "description": {
+        "en-us": "Mad Mike Drift Attack Debut series HW Exotics Produced 2023 – Present Designer Dmitriy Shakhmatov Number HKG58",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg58-mad-mike-drift-attack.json",
+        "data/releases/2024/htb66-mad-mike-drift-attack.json",
+        "data/releases/2024/htc91-mad-mike-drift-attack.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

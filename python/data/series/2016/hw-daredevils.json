@@ -2,10 +2,26 @@
     "series_id": "hw-daredevils",
     "year": 2016,
     "name": "HW Daredevils",
-    "total_releases": 2,
+    "total_releases": 18,
     "max_index": 5,
     "releases": [
+        "data/releases/2016/dhp20-terrain-storm.json",
+        "data/releases/2016/dhp21-tanknator.json",
         "data/releases/2016/dhp22-cruise-bruiser.json",
-        "data/releases/2016/dhw97-cruise-bruiser.json"
+        "data/releases/2016/dhr54-dune-crusher.json",
+        "data/releases/2016/dhr55-toyota-baja-truck.json",
+        "data/releases/2016/dhr56-custom-ford-bronco.json",
+        "data/releases/2016/dhr62-olds-442-w-30.json",
+        "data/releases/2016/dhr63-skate-brigade.json",
+        "data/releases/2016/dhr64-mountain-mauler.json",
+        "data/releases/2016/dhr65-hw450f.json",
+        "data/releases/2016/dhw90-terrain-storm.json",
+        "data/releases/2016/dhw91-tanknator.json",
+        "data/releases/2016/dhw96-hw450f.json",
+        "data/releases/2016/dhw97-cruise-bruiser.json",
+        "data/releases/2016/dhx49-toyota-baja-truck.json",
+        "data/releases/2016/dhx50-custom-ford-bronco.json",
+        "data/releases/2016/dhx52-olds-442-w-30.json",
+        "data/releases/2016/dhy12-custom-ford-bronco.json"
     ]
 }

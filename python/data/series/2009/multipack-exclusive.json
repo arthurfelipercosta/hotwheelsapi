@@ -1,0 +1,16 @@
+{
+    "series_id": "multipack-exclusive",
+    "year": 2009,
+    "name": "Multipack Exclusive",
+    "total_releases": 7,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2009/54886-68-chevy-nova.json",
+        "data/releases/2009/54886-68-chevy-nova.json",
+        "data/releases/2009/b3532-68-chevy-nova.json",
+        "data/releases/2009/p2448-dodge-challenger-concept.json",
+        "data/releases/2009/p2455-09-corvette-zr1.json",
+        "data/releases/2009/p2455-09-corvette-zr1.json",
+        "data/releases/2009/x6999-64-buick-riviera.json"
+    ]
+}

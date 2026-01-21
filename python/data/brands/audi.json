@@ -1,0 +1,20 @@
+{
+    "brand_id": "audi",
+    "name": "Audi",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/17-audi-rs6-avant.json",
+        "data/castings/2019-audi-r8-spyder.json",
+        "data/castings/84-audi-sport-quattro.json",
+        "data/castings/87-audi-quattro.json",
+        "data/castings/94-audi-avant-rs2.json",
+        "data/castings/audi-90-quattro.json",
+        "data/castings/audi-rs-5-coup.json",
+        "data/castings/audi-rs-e-tron-gt.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Audi vehicles.",
+        "pt-br": "Fabricante de veículos Audi."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "casting_id": "nissan-skyline-h-t-2000gt-x",
+    "name": "Nissan Skyline H/T 2000GT-X",
+    "description": {
+        "en-us": "Nissan Skyline H/T 2000GT-X Debut series 2011 New Models Produced 2011 - Present Designer Jun Imai Number T9703",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9703-nissan-skyline-h-t-2000gt-x-v3.json",
+        "data/releases/2011/t9703-nissan-skyline-h-t-2000gt-x-v4.json",
+        "data/releases/2013/x8288-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2014/bff04-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2014/bfg91-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2015/cfn67-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2015/dfl46-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2016/djf80-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2017/dty83-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2018/fkf13-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2019/fyt04-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2019/fyj12-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2019/ghh16-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2020/gjv52-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2021/grl69-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2022/hcv11-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2022/hcy15-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2022/hnb86-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2023/hly73-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2023/hkc16-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2024/hrt01-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2024/hrx10-nissan-skyline-h-t-2000gt-x-v2.json",
+        "data/releases/2025/jby77-nissan-skyline-h-t-2000gt-x-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Nissan"
+}

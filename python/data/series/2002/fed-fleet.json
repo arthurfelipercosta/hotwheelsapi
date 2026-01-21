@@ -1,0 +1,11 @@
+{
+    "series_id": "fed-fleet",
+    "year": 2002,
+    "name": "Fed Fleet",
+    "total_releases": 2,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2002/54407-propper-chopper.json",
+        "data/releases/2002/54408-armored-truck.json"
+    ]
+}

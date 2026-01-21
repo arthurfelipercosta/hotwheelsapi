@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-sports",
+    "year": 2023,
+    "name": "HW Sports",
+    "total_releases": 10,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2023/hkh79-skate-grom.json",
+        "data/releases/2023/hkh80-tee-d-off-2.json",
+        "data/releases/2023/hkh81-head-gasket.json",
+        "data/releases/2023/hkh82-ice-shredder.json",
+        "data/releases/2023/hkk42-skate-grom.json",
+        "data/releases/2023/hkk43-tee-d-off-2.json",
+        "data/releases/2023/hkk44-tee-d-off-2.json",
+        "data/releases/2023/hkk45-head-gasket.json",
+        "data/releases/2023/hkk46-ice-shredder.json",
+        "data/releases/2023/hkl03-rise-n-climb.json"
+    ]
+}

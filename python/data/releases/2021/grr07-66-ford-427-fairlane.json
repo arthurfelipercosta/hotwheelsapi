@@ -1,0 +1,24 @@
+{
+    "release_id": "grr07-66-ford-427-fairlane-2021",
+    "toy_number": "GRR07",
+    "casting_id": "66-ford-427-fairlane",
+    "year": 2021,
+    "series_id": "hw-winter",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake gold",
+        "tampo": "White and brown stripes, stars",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark red",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/GRR07_-_66_Ford_427_Fairlane-1-2.jpg/revision/latest/scale-to-width-down/75?cb=20220106205215"
+    }
+}

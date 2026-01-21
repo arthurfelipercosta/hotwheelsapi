@@ -1,0 +1,32 @@
+{
+    "casting_id": "rogue-hog",
+    "name": "Rogue Hog",
+    "description": {
+        "en-us": "Rogue Hog Debut series 2007 New Models Produced 2007 – Present Designer Fraser Campbell Number K6140",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6140-rogue-hog.json",
+        "data/releases/2008/m7006-rogue-hog.json",
+        "data/releases/2009/p2503-rogue-hog.json",
+        "data/releases/2010/r1142-rogue-hog.json",
+        "data/releases/2011/t8634-rogue-hog.json",
+        "data/releases/2013/x9846-rogue-hog.json",
+        "data/releases/2014/bfb32-rogue-hog.json",
+        "data/releases/2015/cfl13-rogue-hog.json",
+        "data/releases/2016/djd25-rogue-hog.json",
+        "data/releases/2017/dty22-rogue-hog.json",
+        "data/releases/2017/dvb99-rogue-hog.json",
+        "data/releases/2018/fkx69-rogue-hog.json",
+        "data/releases/2019/fyy64-rogue-hog.json",
+        "data/releases/2020/gjv12-rogue-hog.json",
+        "data/releases/2020/ghp61-rogue-hog.json",
+        "data/releases/2021/gww15-rogue-hog.json",
+        "data/releases/2024/htv39-rogue-hog.json",
+        "data/releases/2026/jkx27-rogue-hog.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Mattel"
+}

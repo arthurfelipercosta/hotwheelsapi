@@ -1,0 +1,24 @@
+{
+    "release_id": "v5417-67-shelby-gt500-2012",
+    "toy_number": "V5417",
+    "casting_id": "67-shelby-gt500",
+    "year": 2012,
+    "series_id": "muscle-mania-ford",
+    "series_index": 4,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Red stripes on hood, roof, trunk and sides, Gray bottom stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): E16, E25, E26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/67_shelby_gt-500_2012_white.png/revision/latest/scale-to-width-down/75?cb=20120630152703"
+    }
+}

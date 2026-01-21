@@ -1,0 +1,25 @@
+{
+    "release_id": "ghb64-grand-cross-2020",
+    "toy_number": "GHB64",
+    "casting_id": "grand-cross",
+    "year": 2020,
+    "series_id": "hw-race-team",
+    "series_index": 1,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Yellow, Red & Blue stripes on sides, 'Hot Wheels racing' on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): N11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/2020NM34_%28Large%29.JPG/revision/latest/scale-to-width-down/75?cb=20201003071330"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "casting_id": "mclaren-720s",
+    "name": "McLaren 720S",
+    "description": {
+        "en-us": "McLaren 720S Debut series Factory Fresh Produced 2018 - Present Designer Ryu Asada Number DTW83",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/dtw83-mclaren-720s.json",
+        "data/releases/2018/fjy19-mclaren-720s.json",
+        "data/releases/2019/fyc33-mclaren-720s.json",
+        "data/releases/2019/fyg38-mclaren-720s.json",
+        "data/releases/2020/gjv59-mclaren-720s.json",
+        "data/releases/2021/gpk54-mclaren-720s.json",
+        "data/releases/2021/grt10-mclaren-720s.json",
+        "data/releases/2022/hff97-mclaren-720s.json",
+        "data/releases/2023/hkc43-mclaren-720s.json",
+        "data/releases/2024/hxn08-mclaren-720s.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "McLaren"
+}

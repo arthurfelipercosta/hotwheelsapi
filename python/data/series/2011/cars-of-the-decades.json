@@ -2,12 +2,27 @@
     "series_id": "cars-of-the-decades",
     "year": 2011,
     "name": "Cars of the Decades",
-    "total_releases": 4,
+    "total_releases": 19,
     "max_index": 8,
     "releases": [
         "data/releases/2011/v4419-33-ford-lo-boy.json",
+        "data/releases/2011/v4425-67-pontiac-gto.json",
+        "data/releases/2011/v4426-67-camaro.json",
+        "data/releases/2011/v4428-hot-bird.json",
+        "data/releases/2011/v4998-dodge-viper-rt-10.json",
+        "data/releases/2011/v4999-2005-ford-mustang-gt.json",
+        "data/releases/2011/v5000-dodge-ram-1500.json",
         "data/releases/2011/w1465-purple-passion.json",
         "data/releases/2011/w1466-8-crate.json",
-        "data/releases/2011/w1755-47-chevy-fleetline.json"
+        "data/releases/2011/w1467-69-ford-mustang.json",
+        "data/releases/2011/w1468-71-el-camino.json",
+        "data/releases/2011/w1469-blown-camaro.json",
+        "data/releases/2011/w1471-2006-dodge-viper-coupe.json",
+        "data/releases/2011/w1754-32-ford.json",
+        "data/releases/2011/w1755-47-chevy-fleetline.json",
+        "data/releases/2011/w1757-62-corvette.json",
+        "data/releases/2011/w1758-70-plymouth-roadrunner.json",
+        "data/releases/2011/w1759-86-monte-carlo-ss.json",
+        "data/releases/2011/w1760-mclaren-f1-gtr.json"
     ]
 }

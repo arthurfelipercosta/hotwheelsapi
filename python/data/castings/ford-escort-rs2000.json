@@ -1,0 +1,20 @@
+{
+    "casting_id": "ford-escort-rs2000",
+    "name": "Ford Escort RS2000",
+    "description": {
+        "en-us": "Ford Escort RS2000 Debut series Retro Racers Produced 2023 – Present Designer Fraser Campbell Number HKG25",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg25-ford-escort-rs2000.json",
+        "data/releases/2023/hkl43-ford-escort-rs2000.json",
+        "data/releases/2023/hkj77-ford-escort-rs2000.json",
+        "data/releases/2024/htc48-ford-escort-rs2000.json",
+        "data/releases/2024/htf30-ford-escort-rs2000.json",
+        "data/releases/2026/jkx63-ford-escort-rs2000.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Ford"
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "car-culture-trucks",
+    "year": 2016,
+    "name": "Car Culture: Trucks",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2016/djf88-72-ford-ranchero.json",
+        "data/releases/2016/djf89-subaru-brat.json",
+        "data/releases/2016/djf91-chevy-silverado.json",
+        "data/releases/2016/djf92-datsun-620.json"
+    ]
+}

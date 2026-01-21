@@ -1,0 +1,24 @@
+{
+    "release_id": "hrt65-60s-fiat-500d-modificado-2024",
+    "toy_number": "HRT65",
+    "casting_id": "60s-fiat-500d-modificado",
+    "year": 2024,
+    "series_id": "hot-wheels-boulevard-97",
+    "series_index": null,
+    "specs": {
+        "color": "Seafoam",
+        "tampo": "Detailed headlights and taillights, cream accents, Italian flag striping, Fiat logos on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "MiniRR8SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T16, T17, T18, T19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Fiat500M.jpg/revision/latest/scale-to-width-down/75?cb=20240528123506"
+    }
+}

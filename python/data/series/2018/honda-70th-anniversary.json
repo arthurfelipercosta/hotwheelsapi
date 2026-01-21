@@ -2,11 +2,15 @@
     "series_id": "honda-70th-anniversary",
     "year": 2018,
     "name": "Honda 70th Anniversary",
-    "total_releases": 3,
+    "total_releases": 7,
     "max_index": 8,
     "releases": [
         "data/releases/2018/fkd23-gdg45-1985-honda-cr-x.json",
         "data/releases/2018/fkd24-gdg46-90-honda-civic-ef.json",
+        "data/releases/2018/fkd25-gdg47-honda-civic-si.json",
+        "data/releases/2018/fkd27-gdg49-honda-monkey-z50.json",
+        "data/releases/2018/fkd28-gdg51-honda-racer.json",
+        "data/releases/2018/fkd29-gdg52-honda-s2000.json",
         "data/releases/2018/fkd30-gdg53-honda-odyssey.json"
     ]
 }

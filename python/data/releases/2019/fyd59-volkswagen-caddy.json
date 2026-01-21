@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd59-volkswagen-caddy-2019",
+    "toy_number": "FYD59",
+    "casting_id": "volkswagen-caddy",
+    "year": 2019,
+    "series_id": "volkswagen",
+    "series_index": 6,
+    "specs": {
+        "color": "Light Green",
+        "tampo": "Dark Green stripes & Volkswagen logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M05, M09, M11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/04/VW_Caddy_Green_19.jpg/revision/latest/scale-to-width-down/75?cb=20190510103313"
+    }
+}

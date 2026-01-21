@@ -1,0 +1,25 @@
+{
+    "release_id": "55001-71-plymouth-gtx-2002",
+    "toy_number": "55001",
+    "casting_id": "71-plymouth-gtx",
+    "year": 2002,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black hood tampo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "3SP"
+        }
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/71_Plymouth_GTX_AGENTAIR_1.jpg/revision/latest/scale-to-width-down/75?cb=20081009045459"
+    }
+}

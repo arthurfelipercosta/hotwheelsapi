@@ -1,0 +1,28 @@
+{
+    "casting_id": "repo-duty",
+    "name": "Repo Duty",
+    "description": {
+        "en-us": "Repo Duty Debut series HW City - HW City Works Produced 2013 - Present Designer Fraser Campbell Number X1646",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1646-repo-duty.json",
+        "data/releases/2013/x1864-repo-duty.json",
+        "data/releases/2014/bfc27-repo-duty.json",
+        "data/releases/2014/bff69-repo-duty.json",
+        "data/releases/2014/bhr45-repo-duty.json",
+        "data/releases/2015/cdt18-repo-duty.json",
+        "data/releases/2015/cmj88-repo-duty.json",
+        "data/releases/2016/cmj88-repo-duty.json",
+        "data/releases/2016/dhr68-repo-duty.json",
+        "data/releases/2017/dty74-repo-duty.json",
+        "data/releases/2017/dvc33-repo-duty.json",
+        "data/releases/2018/fkt56-repo-duty.json",
+        "data/releases/2019/fly24-repo-duty.json",
+        "data/releases/2023/hly71-repo-duty.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

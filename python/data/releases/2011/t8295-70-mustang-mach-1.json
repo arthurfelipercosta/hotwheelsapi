@@ -1,0 +1,25 @@
+{
+    "release_id": "t8295-70-mustang-mach-1-2011",
+    "toy_number": "T8295",
+    "casting_id": "70-mustang-mach-1",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-ford",
+    "series_index": 12,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black hood, roof & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Grey RR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Hot_Wheels_Garage_2011_Ford_Series_%2770_Ford_Mustang_Mach_1_Yellow_%26_Black_T8295.jpg/revision/latest/scale-to-width-down/75?cb=20221204210117"
+    }
+}

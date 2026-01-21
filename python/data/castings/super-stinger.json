@@ -1,0 +1,32 @@
+{
+    "casting_id": "super-stinger",
+    "name": "Super Stinger",
+    "description": {
+        "en-us": "Super Stinger Debut series Color Shifters Creatures Produced 2010 - Present Designer Julian Payne Number R1174",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r1174-super-stinger.json",
+        "data/releases/2010/r1195-super-stinger.json",
+        "data/releases/2010/r1159-super-stinger.json",
+        "data/releases/2011/v6737-super-stinger.json",
+        "data/releases/2011/t8631-super-stinger.json",
+        "data/releases/2012/54886-super-stinger.json",
+        "data/releases/2013/x1717-super-stinger.json",
+        "data/releases/2013/x1900-super-stinger.json",
+        "data/releases/2014/bhr15-super-stinger.json",
+        "data/releases/2015/cfh59-super-stinger.json",
+        "data/releases/2016/x6999-super-stinger.json",
+        "data/releases/2017/dvf93-super-stinger.json",
+        "data/releases/2017/bhr19-super-stinger.json",
+        "data/releases/2018/fjx42-super-stinger.json",
+        "data/releases/2019/fly10-super-stinger.json",
+        "data/releases/2020/gjv99-super-stinger.json",
+        "data/releases/2022/hfk99-super-stinger.json",
+        "data/releases/2022/hdh73-super-stinger.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

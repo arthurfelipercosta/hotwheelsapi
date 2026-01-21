@@ -1,0 +1,24 @@
+{
+    "release_id": "gjv66-volkswagen-golf-mk7-2020",
+    "toy_number": "GJV66",
+    "casting_id": "volkswagen-golf-mk7",
+    "year": 2020,
+    "series_id": "hw-police",
+    "series_index": 5,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Large Blue stripes, aligned White rectangles, White POLIZEI, HW logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "German Police car Base code(s): N05, N07, N08, N09, N11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/GJV66-01.jpg/revision/latest/scale-to-width-down/75?cb=20200603094422"
+    }
+}

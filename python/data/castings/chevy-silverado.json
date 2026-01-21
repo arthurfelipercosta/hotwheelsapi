@@ -1,0 +1,41 @@
+{
+    "casting_id": "chevy-silverado",
+    "name": "Chevy Silverado",
+    "description": {
+        "en-us": "Chevy Silverado Debut series 2007 New Models Produced 2007 – Present Designer Fraser Campbell Number K6152",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6152-chevy-silverado-v5.json",
+        "data/releases/2007/k6152-chevy-silverado-v6.json",
+        "data/releases/2007/k6152-chevy-silverado-v7.json",
+        "data/releases/2007/k6152-chevy-silverado-v8.json",
+        "data/releases/2008/n1177-chevy-silverado-v2.json",
+        "data/releases/2008/n8431-chevy-silverado-v2.json",
+        "data/releases/2009/p2437-chevy-silverado-v2.json",
+        "data/releases/2010/r7495-chevy-silverado-v3.json",
+        "data/releases/2010/r7495-chevy-silverado-v4.json",
+        "data/releases/2011/t8638-chevy-silverado-v2.json",
+        "data/releases/2012/v5468-chevy-silverado-v2.json",
+        "data/releases/2013/x1832-chevy-silverado-v2.json",
+        "data/releases/2014/bfd58-chevy-silverado-v2.json",
+        "data/releases/2014/bfg80-chevy-silverado-v2.json",
+        "data/releases/2015/cfk66-chevy-silverado-v2.json",
+        "data/releases/2015/cfl57-chevy-silverado-v2.json",
+        "data/releases/2016/djl00-chevy-silverado-v2.json",
+        "data/releases/2016/dhr93-chevy-silverado-v2.json",
+        "data/releases/2016/dhx70-chevy-silverado-v2.json",
+        "data/releases/2016/djf91-chevy-silverado-v2.json",
+        "data/releases/2017/dtx78-chevy-silverado-v2.json",
+        "data/releases/2017/dvb73-chevy-silverado-v2.json",
+        "data/releases/2018/fkt63-chevy-silverado-v2.json",
+        "data/releases/2018/fkd12-chevy-silverado-v2.json",
+        "data/releases/2020/ghd76-chevy-silverado-v3.json",
+        "data/releases/2020/ghd76-chevy-silverado-v4.json",
+        "data/releases/2024/htc67-chevy-silverado-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Chevy"
+}

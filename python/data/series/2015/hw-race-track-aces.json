@@ -2,10 +2,28 @@
     "series_id": "hw-race-track-aces",
     "year": 2015,
     "name": "HW Race: Track Aces",
-    "total_releases": 2,
+    "total_releases": 20,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfh04-corvette-grand-sport-roadster.json",
+        "data/releases/2015/cfh05-speed-slayer.json",
+        "data/releases/2015/cfh06-15-jaguar-f-type-project-7.json",
+        "data/releases/2015/cfh77-68-mercury-cougar.json",
+        "data/releases/2015/cfh78-honda-racer.json",
+        "data/releases/2015/cfh79-velocita.json",
         "data/releases/2015/cfh80-dmc-delorean.json",
-        "data/releases/2015/cfj38-dmc-delorean.json"
+        "data/releases/2015/cfj32-ford-shelby-gr-1-concept.json",
+        "data/releases/2015/cfj38-dmc-delorean.json",
+        "data/releases/2015/cfj85-68-mercury-cougar.json",
+        "data/releases/2015/cfk05-ford-shelby-gr-1-concept.json",
+        "data/releases/2015/cfl15-twinduction.json",
+        "data/releases/2015/cfl16-two-timer.json",
+        "data/releases/2015/cfl17-ford-shelby-gr-1-concept.json",
+        "data/releases/2015/cfl27-corvette-grand-sport-roadster.json",
+        "data/releases/2015/cfl77-twinduction.json",
+        "data/releases/2015/cfl93-honda-racer.json",
+        "data/releases/2015/cfl97-two-timer.json",
+        "data/releases/2015/cfm13-speed-slayer.json",
+        "data/releases/2015/cfm15-68-mercury-cougar.json"
     ]
 }

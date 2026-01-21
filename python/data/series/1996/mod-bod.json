@@ -2,9 +2,10 @@
     "series_id": "mod-bod",
     "year": 1996,
     "name": "Mod Bod",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 1,
     "releases": [
-        "data/releases/1996/15238-humvee.json"
+        "data/releases/1996/15238-humvee.json",
+        "data/releases/1996/15242-67-camaro.json"
     ]
 }

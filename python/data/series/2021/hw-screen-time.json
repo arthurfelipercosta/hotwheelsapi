@@ -2,12 +2,19 @@
     "series_id": "hw-screen-time",
     "year": 2021,
     "name": "HW Screen Time",
-    "total_releases": 4,
+    "total_releases": 11,
     "max_index": 2,
     "releases": [
+        "data/releases/2021/grx15-x-jet.json",
         "data/releases/2021/grx16-x-34-landspeeder.json",
         "data/releases/2021/grx17-standard-kart.json",
         "data/releases/2021/grx18-disney-steamboat.json",
-        "data/releases/2021/grx95-minecart.json"
+        "data/releases/2021/grx37-hyperfin.json",
+        "data/releases/2021/grx38-rally-baja-crawler.json",
+        "data/releases/2021/grx94-kool-kombi.json",
+        "data/releases/2021/grx95-minecart.json",
+        "data/releases/2021/grx96-party-wagon.json",
+        "data/releases/2021/grx97-the-mystery-machine.json",
+        "data/releases/2021/gtc72-rally-baja-crawler.json"
     ]
 }

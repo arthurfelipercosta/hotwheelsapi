@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd21-porsche-917-lh-2019",
+    "toy_number": "FYD21",
+    "casting_id": "porsche-917-lh",
+    "year": 2019,
+    "series_id": "hw-race-day",
+    "series_index": 3,
+    "specs": {
+        "color": "Blue",
+        "tampo": "White stripe & 'Porsche' on sides, White stripes on hood, Porsche on Wing, '11' on sides and top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L41, L44, L46, L48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/Porsche_917_LH_%28Blue%29._HW_Raceday_3of10.jpg/revision/latest/scale-to-width-down/75?cb=20190217011422"
+    }
+}

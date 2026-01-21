@@ -1,0 +1,25 @@
+{
+    "release_id": "w1471-2006-dodge-viper-coupe-2011",
+    "toy_number": "W1471",
+    "casting_id": "2006-dodge-viper-coupe",
+    "year": 2011,
+    "series_id": "cars-of-the-decades",
+    "series_index": 31,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black headlights, Black stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Chrome Rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/06ViperSRT10_Decades.JPG/revision/latest/scale-to-width-down/75?cb=20110628070621"
+    }
+}

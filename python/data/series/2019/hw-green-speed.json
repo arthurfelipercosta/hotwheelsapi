@@ -2,10 +2,15 @@
     "series_id": "hw-green-speed",
     "year": 2019,
     "name": "HW Green Speed",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 3,
     "releases": [
+        "data/releases/2019/fyb50-tesla-model-3.json",
+        "data/releases/2019/fyb51-porsche-panamera-turbo-s-e-hybrid-sport-turismo.json",
         "data/releases/2019/fyb52-electro-silhouette.json",
+        "data/releases/2019/fyc48-tesla-model-s.json",
+        "data/releases/2019/fyd88-tesla-model-3.json",
+        "data/releases/2019/fyg08-tesla-model-s.json",
         "data/releases/2019/fyg51-electro-silhouette.json"
     ]
 }

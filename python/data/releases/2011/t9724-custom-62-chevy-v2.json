@@ -1,0 +1,24 @@
+{
+    "release_id": "t9724-custom-62-chevy-2011",
+    "toy_number": "T9724",
+    "casting_id": "custom-62-chevy",
+    "year": 2011,
+    "series_id": "treasure-hunts",
+    "series_index": 4,
+    "specs": {
+        "color": "Gold",
+        "tampo": "Black & Green Tribal Tampo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Green surfboard Base code(s): D14, D16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/62chevy-th-hw-2011.jpg/revision/latest/scale-to-width-down/75?cb=20150831163433"
+    }
+}

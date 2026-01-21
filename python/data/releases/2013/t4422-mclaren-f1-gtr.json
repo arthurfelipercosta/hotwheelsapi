@@ -1,0 +1,24 @@
+{
+    "release_id": "t4422-mclaren-f1-gtr-2013",
+    "toy_number": "T4422",
+    "casting_id": "mclaren-f1-gtr",
+    "year": 2013,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "White McLaren on the sides, Orange stripes on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OH5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F03, E42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/%2796_McLaren_F1_GTR_package_front.png/revision/latest/scale-to-width-down/75?cb=20160117191110"
+    }
+}

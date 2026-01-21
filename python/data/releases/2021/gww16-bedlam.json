@@ -1,0 +1,24 @@
+{
+    "release_id": "gww16-bedlam-2021",
+    "toy_number": "GWW16",
+    "casting_id": "bedlam",
+    "year": 2021,
+    "series_id": "hot-wheels-monster-trucks-monster-maker",
+    "series_index": null,
+    "specs": {
+        "color": "Bright Orange",
+        "tampo": "Black spray paint design, White flame outline, HW Logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Purple)",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/BedlamMonsterMaker.jpg/revision/latest/scale-to-width-down/75?cb=20210425071722"
+    }
+}

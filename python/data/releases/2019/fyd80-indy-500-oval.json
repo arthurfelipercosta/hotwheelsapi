@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd80-indy-500-oval-2019",
+    "toy_number": "FYD80",
+    "casting_id": "indy-500-oval",
+    "year": 2019,
+    "series_id": "hw-race-day",
+    "series_index": 7,
+    "specs": {
+        "color": "Red",
+        "tampo": "Blue, Orange & White stripes with HW logo on sides. Sponsors & '5' on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Yellow rim MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M04, M08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Indy_IR05_Red_19.jpg/revision/latest/scale-to-width-down/75?cb=20190510100052"
+    }
+}

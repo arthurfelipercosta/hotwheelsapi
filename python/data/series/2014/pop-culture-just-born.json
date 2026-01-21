@@ -1,0 +1,12 @@
+{
+    "series_id": "pop-culture-just-born",
+    "year": 2014,
+    "name": "Pop Culture: Just Born",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bdr60-56-ford-f-100-truck.json",
+        "data/releases/2014/bdr69-custom-69-volkswagen-squareback.json",
+        "data/releases/2014/bdr88-71-el-camino.json"
+    ]
+}

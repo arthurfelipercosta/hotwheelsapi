@@ -1,0 +1,27 @@
+{
+    "release_id": "cfl53-fig-rig-2015",
+    "toy_number": "CFL53",
+    "casting_id": "fig-rig",
+    "year": 2015,
+    "series_id": "hw-race-world-race",
+    "series_index": null,
+    "specs": {
+        "color": "Green",
+        "tampo": "Pixelated Green, White & Blue & #9 tampos on top & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Blue OH5",
+            "2": "& White rim",
+            "3": "Yellow OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G52, H33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/FIG_RIG_VERDE_MU%C3%91ECOS_LEGO_JDMIKE.jpg/revision/latest/scale-to-width-down/75?cb=20150316105424"
+    }
+}

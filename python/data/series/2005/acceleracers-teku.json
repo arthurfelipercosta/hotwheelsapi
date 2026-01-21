@@ -1,0 +1,12 @@
+{
+    "series_id": "acceleracers-teku",
+    "year": 2005,
+    "name": "AcceleRacers: Teku",
+    "total_releases": 3,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2005/g8088-battle-spec.json",
+        "data/releases/2005/g8089-high-voltage.json",
+        "data/releases/2005/g8091-chicane.json"
+    ]
+}

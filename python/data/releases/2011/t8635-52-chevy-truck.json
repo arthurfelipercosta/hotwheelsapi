@@ -1,0 +1,24 @@
+{
+    "release_id": "t8635-52-chevy-truck-2011",
+    "toy_number": "T8635",
+    "casting_id": "52-chevy-truck",
+    "year": 2011,
+    "series_id": "hw-hot-rods-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Red & Blue \"Hot Wheels Hot Rod Shop\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Red)",
+        "interior_color": "N/A",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/52ChevyTruck_HotRod5.JPG/revision/latest/scale-to-width-down/75?cb=20110324115357"
+    }
+}

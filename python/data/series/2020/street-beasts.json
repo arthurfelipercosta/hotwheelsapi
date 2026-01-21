@@ -1,0 +1,26 @@
+{
+    "series_id": "street-beasts",
+    "year": 2020,
+    "name": "Street Beasts",
+    "total_releases": 17,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2020/ghb59-veloci-racer.json",
+        "data/releases/2020/ghb60-duck-n-roll.json",
+        "data/releases/2020/ghd36-croc-rod.json",
+        "data/releases/2020/ghd37-i-believe.json",
+        "data/releases/2020/ghd38-knight-draggin.json",
+        "data/releases/2020/ghd39-motosaurus.json",
+        "data/releases/2020/ghd40-ratical-racer.json",
+        "data/releases/2020/ghd41-turbo-rooster.json",
+        "data/releases/2020/ghd42-tur-bone-charged.json",
+        "data/releases/2020/ghd80-tricera-truck.json",
+        "data/releases/2020/ghf04-veloci-racer.json",
+        "data/releases/2020/ghf05-duck-n-roll.json",
+        "data/releases/2020/ghf37-i-believe.json",
+        "data/releases/2020/ghf38-tur-bone-charged.json",
+        "data/releases/2020/ghf99-croc-rod.json",
+        "data/releases/2020/ghg00-ratical-racer.json",
+        "data/releases/2020/ghg04-knight-draggin.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc95-hi-beam-2020",
+    "toy_number": "GHC95",
+    "casting_id": "hi-beam",
+    "year": 2020,
+    "series_id": "olympic-games-tokyo-2020",
+    "series_index": 5,
+    "specs": {
+        "color": "Pink",
+        "tampo": "”Artistic Gymnastics”, “Tokyo 2020”",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Wheel size increased from this release onwards Base code(s): N04, N09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/77B77C39-FF51-4B66-8692-E814B285C1A3.jpeg/revision/latest/scale-to-width-down/75?cb=20200622031944"
+    }
+}

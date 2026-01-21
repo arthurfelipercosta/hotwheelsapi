@@ -1,0 +1,26 @@
+{
+    "casting_id": "98-subaru-impreza-22b-sti-version",
+    "name": "'98 Subaru Impreza 22B STi-Version",
+    "description": {
+        "en-us": "'98 Subaru Impreza 22B STi-Version Debut series HW Turbo Produced 2020 - Present Designer Ryu Asada Number GHB42",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb42-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2020/ghf06-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2020/ghg40-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2020/gjp96-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2021/gtb01-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2021/gtc74-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2022/hcy04-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2022/hck14-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2023/hkf16-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2023/hlr41-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2024/htb12-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2024/hyy23-98-subaru-impreza-22b-sti-version.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Subaru"
+}

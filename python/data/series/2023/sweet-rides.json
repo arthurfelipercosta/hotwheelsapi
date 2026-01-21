@@ -2,13 +2,15 @@
     "series_id": "sweet-rides",
     "year": 2023,
     "name": "Sweet Rides",
-    "total_releases": 7,
+    "total_releases": 9,
     "max_index": 4,
     "releases": [
         "data/releases/2023/hkg24-dessert-drifter.json",
+        "data/releases/2023/hkh18-sweet-driver.json",
         "data/releases/2023/hkh19-good-humor-truck.json",
         "data/releases/2023/hkh20-roller-toaster.json",
         "data/releases/2023/hkj90-dessert-drifter.json",
+        "data/releases/2023/hkj91-sweet-driver.json",
         "data/releases/2023/hkj92-good-humor-truck.json",
         "data/releases/2023/hkj93-roller-toaster.json",
         "data/releases/2023/hkk97-donut-drifter.json"

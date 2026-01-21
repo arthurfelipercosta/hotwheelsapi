@@ -1,0 +1,24 @@
+{
+    "release_id": "grx87-batmobile-2021",
+    "toy_number": "GRX87",
+    "casting_id": "batmobile",
+    "year": 2021,
+    "series_id": "batman",
+    "series_index": 2,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "Gold tampo on hood & roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Yellow RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): N39, N42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HW-2021-056-1-GRX87-The_Batman_Batmobile.png/revision/latest/scale-to-width-down/75?cb=20220512112904"
+    }
+}

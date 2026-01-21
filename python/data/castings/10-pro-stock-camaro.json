@@ -1,0 +1,33 @@
+{
+    "casting_id": "10-pro-stock-camaro",
+    "name": "'10 Pro Stock Camaro",
+    "description": {
+        "en-us": "'10 Pro Stock Camaro Debut series 2010 New Models Produced 2010 - Present Designer Jun Imai Number R6450\\n\\nThis casting represents a pro stock version of the '10 Camaro SS .",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r6450-10-pro-stock-camaro-v3.json",
+        "data/releases/2010/r6450-10-pro-stock-camaro-v4.json",
+        "data/releases/2011/t9828-10-pro-stock-camaro-v2.json",
+        "data/releases/2011/t9968-10-pro-stock-camaro-v2.json",
+        "data/releases/2012/x0126-10-pro-stock-camaro-v2.json",
+        "data/releases/2012/w4247-10-pro-stock-camaro-v2.json",
+        "data/releases/2013/x8319-10-pro-stock-camaro-v2.json",
+        "data/releases/2014/bdl07-10-pro-stock-camaro-v2.json",
+        "data/releases/2016/dhp89-10-pro-stock-camaro-v2.json",
+        "data/releases/2016/dht78-10-pro-stock-camaro-v2.json",
+        "data/releases/2017/dwc61-10-pro-stock-camaro-v2.json",
+        "data/releases/2017/dwc91-10-pro-stock-camaro-v2.json",
+        "data/releases/2018/fjw08-10-pro-stock-camaro-v2.json",
+        "data/releases/2018/fkc12-10-pro-stock-camaro-v2.json",
+        "data/releases/2018/fjy09-10-pro-stock-camaro-v2.json",
+        "data/releases/2020/ghd10-10-pro-stock-camaro-v2.json",
+        "data/releases/2021/gry72-10-pro-stock-camaro-v2.json",
+        "data/releases/2021/gtd40-10-pro-stock-camaro-v2.json",
+        "data/releases/2024/hvx18-10-pro-stock-camaro-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

@@ -2,11 +2,20 @@
     "series_id": "real-riders",
     "year": 2005,
     "name": "Real Riders",
-    "total_releases": 3,
+    "total_releases": 12,
     "max_index": 0,
     "releases": [
+        "data/releases/2005/b5939-70-chevelle-ss.json",
+        "data/releases/2005/b5944-70-mustang-mach-1.json",
+        "data/releases/2005/g4452-meyers-manx.json",
         "data/releases/2005/g7798-71-mustang-funny-car.json",
+        "data/releases/2005/h9208-so-fine.json",
+        "data/releases/2005/h9209-67-camaro.json",
+        "data/releases/2005/h9210-57-plymouth-fury.json",
         "data/releases/2005/h9211-59-chevy-bel-air.json",
-        "data/releases/2005/h9213-33-ford-lo-boy.json"
+        "data/releases/2005/h9212-classic-nomad.json",
+        "data/releases/2005/h9213-33-ford-lo-boy.json",
+        "data/releases/2005/h9214-56-ford-f-100-truck.json",
+        "data/releases/2005/j7867-67-pontiac-gto.json"
     ]
 }

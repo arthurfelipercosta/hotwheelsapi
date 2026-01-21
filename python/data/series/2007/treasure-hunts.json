@@ -1,0 +1,16 @@
+{
+    "series_id": "treasure-hunts",
+    "year": 2007,
+    "name": "Treasure Hunts",
+    "total_releases": 7,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2007/k7613-nissan-skyline-gt-r-r32.json",
+        "data/releases/2007/k7614-69-camaro-z28-tooned.json",
+        "data/releases/2007/k7615-corvette-c6r.json",
+        "data/releases/2007/k7616-night-burner.json",
+        "data/releases/2007/k7620-enzo-ferrari.json",
+        "data/releases/2007/k7620-enzo-ferrari.json",
+        "data/releases/2007/k7622-cadillac-sixteen.json"
+    ]
+}

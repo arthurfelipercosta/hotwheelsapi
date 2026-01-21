@@ -1,0 +1,24 @@
+{
+    "release_id": "hvr61-toyota-ae86-sprinter-trueno-2024",
+    "toy_number": "HVR61",
+    "casting_id": "toyota-ae86-sprinter-trueno",
+    "year": 2024,
+    "series_id": "fast-furious",
+    "series_index": 1,
+    "specs": {
+        "color": "Gray",
+        "tampo": "Detailed headlights and taillights, stripe design on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "GRR8SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S45, S46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/1985ToyotaTrueno.jpg/revision/latest/scale-to-width-down/75?cb=20240307055910"
+    }
+}

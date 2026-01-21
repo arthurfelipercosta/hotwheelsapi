@@ -2,12 +2,23 @@
     "series_id": "hw-showroom-then-and-now",
     "year": 2013,
     "name": "HW Showroom: Then and Now",
-    "total_releases": 4,
+    "total_releases": 15,
     "max_index": 0,
     "releases": [
+        "data/releases/2013/bff58-08-dodge-challenger-srt8.json",
         "data/releases/2013/x1743-custom-12-ford-mustang.json",
+        "data/releases/2013/x1799-70-camaro.json",
         "data/releases/2013/x1800-71-dodge-challenger.json",
+        "data/releases/2013/x1801-69-dodge-charger.json",
+        "data/releases/2013/x1802-71-mustang-mach-i.json",
         "data/releases/2013/x1803-92-ford-mustang.json",
-        "data/releases/2013/x1962-71-dodge-challenger.json"
+        "data/releases/2013/x1804-10-camaro-ss.json",
+        "data/releases/2013/x1805-08-dodge-challenger-srt8.json",
+        "data/releases/2013/x1806-11-dodge-charger-r-t.json",
+        "data/releases/2013/x1806-11-dodge-charger-r-t.json",
+        "data/releases/2013/x1807-07-ford-mustang.json",
+        "data/releases/2013/x1962-71-dodge-challenger.json",
+        "data/releases/2013/x2013-07-ford-mustang.json",
+        "data/releases/2013/x2044-10-camaro-ss.json"
     ]
 }

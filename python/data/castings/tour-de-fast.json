@@ -1,0 +1,24 @@
+{
+    "casting_id": "tour-de-fast",
+    "name": "Tour de Fast",
+    "description": {
+        "en-us": "Tour de Fast Debut series HW Games Produced 2016 - Present Designer Tyler Charest Number DHP35",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp35-tour-de-fast.json",
+        "data/releases/2017/dty94-tour-de-fast.json",
+        "data/releases/2017/dvd17-tour-de-fast.json",
+        "data/releases/2017/dty94-tour-de-fast-v2.json",
+        "data/releases/2018/fjw24-tour-de-fast.json",
+        "data/releases/2018/fkc10-tour-de-fast.json",
+        "data/releases/2019/fly24-tour-de-fast.json",
+        "data/releases/2021/grp67-tour-de-fast.json",
+        "data/releases/2022/hfv78-tour-de-fast.json",
+        "data/releases/2023/hng55-tour-de-fast.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

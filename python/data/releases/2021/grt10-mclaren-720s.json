@@ -1,0 +1,24 @@
+{
+    "release_id": "grt10-mclaren-720s-2021",
+    "toy_number": "GRT10",
+    "casting_id": "mclaren-720s",
+    "year": 2021,
+    "series_id": "factory-500-h-p",
+    "series_index": 9,
+    "specs": {
+        "color": "Paris Blue",
+        "tampo": "Detailed headlights & McLaren emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey 10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): N37, N38, N39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/Mclaren_720s_Blue_500hp.jpg/revision/latest/scale-to-width-down/75?cb=20201218083029"
+    }
+}

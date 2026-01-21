@@ -1,0 +1,29 @@
+{
+    "release_id": "r7576-custom-ford-bronco-2010",
+    "toy_number": "R7576",
+    "casting_id": "custom-ford-bronco",
+    "year": 2010,
+    "series_id": "hw-racing",
+    "series_index": 3,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Orange & Blue Design, \"Hot Wheels\" logo, Blue & White \"10\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Orange OR5SP",
+            "1": "149",
+            "2": "214",
+            "3": "2010",
+            "4": "International card Base Code(s): C05",
+            "5": "C13"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): C05, C13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/100_5136.jpg/revision/latest/scale-to-width-down/75?cb=20100402034326"
+    }
+}

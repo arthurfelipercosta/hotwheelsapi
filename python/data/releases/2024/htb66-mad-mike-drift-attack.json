@@ -1,0 +1,24 @@
+{
+    "release_id": "htb66-mad-mike-drift-attack-2024",
+    "toy_number": "HTB66",
+    "casting_id": "mad-mike-drift-attack",
+    "year": 2024,
+    "series_id": "hw-modified",
+    "series_index": 5,
+    "specs": {
+        "color": "Matte gray",
+        "tampo": "Detailed headlights, dark gray accents, Mad Mike logos, \"123\" on hood, Hot Wheels, Toyo Tires, Rocket Bunny, K&N, Rotiform, Mad Mike logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "AeroDisc & DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S41, S42, S44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/GrayscaleDriftAttack.jpg/revision/latest/scale-to-width-down/75?cb=20231230111620"
+    }
+}

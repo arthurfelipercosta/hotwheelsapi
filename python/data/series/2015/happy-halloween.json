@@ -2,9 +2,11 @@
     "series_id": "happy-halloween",
     "year": 2015,
     "name": "Happy Halloween!",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 3,
     "releases": [
-        "data/releases/2015/cfv08-screamliner.json"
+        "data/releases/2015/cfv07-16-angels.json",
+        "data/releases/2015/cfv08-screamliner.json",
+        "data/releases/2015/cfv09-what-4-2.json"
     ]
 }

@@ -1,0 +1,35 @@
+{
+    "casting_id": "vw-golf",
+    "name": "VW Golf",
+    "description": {
+        "en-us": "VW Golf Debut series Mainline Produced 1990 – 1996 (original) 2009 – Present (first retool) 2019 – Present (second retool) Designer Larry Wood Number 9557",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/1990/9557-vw-golf.json",
+        "data/releases/1991/9557-vw-golf.json",
+        "data/releases/1991/9557-vw-golf-v2.json",
+        "data/releases/1992/0487-vw-golf.json",
+        "data/releases/1992/0487-vw-golf-v2.json",
+        "data/releases/1992/0487-vw-golf-v3.json",
+        "data/releases/1996/16041-vw-golf.json",
+        "data/releases/1996/16041-vw-golf-v2.json",
+        "data/releases/1996/16041-vw-golf-v3.json",
+        "data/releases/2009/n4077-vw-golf.json",
+        "data/releases/2014/bdl14-vw-golf.json",
+        "data/releases/2018/fjx92-vw-golf.json",
+        "data/releases/2018/fjy57-vw-golf.json",
+        "data/releases/2019/fyd60-vw-golf.json",
+        "data/releases/2019/fyf76-vw-golf.json",
+        "data/releases/2020/gjm70-vw-golf.json",
+        "data/releases/2021/grp20-vw-golf.json",
+        "data/releases/2022/hdh47-vw-golf.json",
+        "data/releases/2023/x6999-vw-golf.json",
+        "data/releases/2025/jgk09-vw-golf.json",
+        "data/releases/2026/jlb25-vw-golf.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 1990,
+    "manufacturer": "Mattel"
+}

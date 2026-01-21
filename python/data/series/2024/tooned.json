@@ -2,10 +2,14 @@
     "series_id": "tooned",
     "year": 2024,
     "name": "Tooned",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 5,
     "releases": [
         "data/releases/2024/hry85-nissan-skyline-2000gt-r-lbwk.json",
-        "data/releases/2024/hry92-small-bloc.json"
+        "data/releases/2024/hry92-small-bloc.json",
+        "data/releases/2024/htb40-70-dodge-charger.json",
+        "data/releases/2024/htb41-porsche-911-turbo-3-6-964.json",
+        "data/releases/2024/htd86-70-dodge-charger.json",
+        "data/releases/2024/htf27-94-toyota-supra.json"
     ]
 }

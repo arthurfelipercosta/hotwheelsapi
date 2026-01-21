@@ -1,0 +1,24 @@
+{
+    "release_id": "cfn65-64-chevy-nova-wagon-2015",
+    "toy_number": "CFN65",
+    "casting_id": "64-chevy-nova-wagon",
+    "year": 2015,
+    "series_id": "hot-wheels-heritage-redline",
+    "series_index": 13,
+    "specs": {
+        "color": "Metalflake Black",
+        "tampo": "Red & Gold scallops on sides, hood & roof; Silver door handles",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RLBW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Chevy_nova_station.jpg/revision/latest/scale-to-width-down/75?cb=20160704120143"
+    }
+}

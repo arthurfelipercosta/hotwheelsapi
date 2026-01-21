@@ -2,9 +2,15 @@
     "series_id": "fast-furious",
     "year": 2015,
     "name": "Fast & Furious",
-    "total_releases": 1,
+    "total_releases": 7,
     "max_index": 1,
     "releases": [
+        "data/releases/2015/cjl33-72-ford-gran-torino-sport.json",
+        "data/releases/2015/cjl34-nissan-350z.json",
+        "data/releases/2015/cjl37-subaru-wrx-sti.json",
+        "data/releases/2015/cjl38-ford-gt-40.json",
+        "data/releases/2015/cmj22-toyota-supra.json",
+        "data/releases/2015/cmj23-70-dodge-charger-r-t.json",
         "data/releases/2015/cmk18-69-dodge-charger-daytona.json"
     ]
 }

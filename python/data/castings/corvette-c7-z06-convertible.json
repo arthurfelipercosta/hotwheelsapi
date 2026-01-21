@@ -1,0 +1,27 @@
+{
+    "casting_id": "corvette-c7-z06-convertible",
+    "name": "Corvette C7 Z06 Convertible",
+    "description": {
+        "en-us": "Corvette C7 Z06 Convertible Debut series Factory Fresh Produced 2018 - Present Designer Ryu Asada Number FJV40",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv40-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2018/fjy20-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2019/fyc98-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2019/fyd97-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2020/x6999-corvette-c7-z06-convertible-v4.json",
+        "data/releases/2020/x6999-corvette-c7-z06-convertible-v5.json",
+        "data/releases/2020/x6999-corvette-c7-z06-convertible-v6.json",
+        "data/releases/2021/gry41-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2021/gtd07-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2022/hdg90-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2023/hkh41-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2023/hkl37-corvette-c7-z06-convertible-v2.json",
+        "data/releases/2023/hkk10-corvette-c7-z06-convertible-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

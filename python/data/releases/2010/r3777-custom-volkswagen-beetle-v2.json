@@ -1,0 +1,24 @@
+{
+    "release_id": "r3777-custom-volkswagen-beetle-2010",
+    "toy_number": "R3777",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2010,
+    "series_id": "hot-wheels-garage-larry-s-garage",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Silver & Orange",
+        "tampo": "Blue-Grey dividing stripe, pinstripe design on front",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Purple tint",
+        "interior_color": "Purple",
+        "wheel_type": {
+            "0": "LW5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): C17, C28, C31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Customvolkswagenbeetle10garagethailand3.jpg.JPG/revision/latest/scale-to-width-down/75?cb=20181206182442"
+    }
+}

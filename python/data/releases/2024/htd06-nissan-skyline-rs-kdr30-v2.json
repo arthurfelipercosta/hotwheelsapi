@@ -1,0 +1,25 @@
+{
+    "release_id": "htd06-nissan-skyline-rs-kdr30-2024",
+    "toy_number": "HTD06",
+    "casting_id": "nissan-skyline-rs-kdr30",
+    "year": 2024,
+    "series_id": "hw-j-imports",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Olive Green",
+        "tampo": "Black and Silver accents, \"6\", \"4VALVEHOHC RS-TURBO\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T03, T04, T05, T08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/43/1982NissanR30.jpg/revision/latest/scale-to-width-down/75?cb=20240307060039"
+    }
+}

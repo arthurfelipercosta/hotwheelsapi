@@ -6,14 +6,14 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2019/fyb37-range-rover-velar.json",
-        "data/releases/2019/fyg50-range-rover-velar.json",
-        "data/releases/2020/ghd01-range-rover-velar.json",
-        "data/releases/2020/ghf40-range-rover-velar.json",
-        "data/releases/2025/hyy63-range-rover-velar.json"
+        "data/releases/2019/fyb37-range-rover-velar-v2.json",
+        "data/releases/2019/fyg50-range-rover-velar-v2.json",
+        "data/releases/2020/ghd01-range-rover-velar-v2.json",
+        "data/releases/2020/ghf40-range-rover-velar-v2.json",
+        "data/releases/2025/hyy63-range-rover-velar-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",
     "debut_year": 2019,
-    "manufacturer": "Mattel"
+    "manufacturer": "Range Rover"
 }

@@ -1,0 +1,21 @@
+{
+    "casting_id": "custom-42-jeep-cj-2a",
+    "name": "Custom '42 Jeep CJ-2A",
+    "description": {
+        "en-us": "Custom '42 Jeep CJ-2A Debut series 2009 New Models Produced 2009 - Present Designer Phil Riehlman Number N4030\\n\\nThis casting depicts a heavily modified 1942 Willys MB Jeep with a crate V8 engine, parachute, stretched chassis, side-exit exhausts and gasser-style front fuel tank.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4030-custom-42-jeep-cj-2a.json",
+        "data/releases/2009/n4030-custom-42-jeep-cj-2a-v2.json",
+        "data/releases/2010/r7643-custom-42-jeep-cj-2a.json",
+        "data/releases/2013/x8191-custom-42-jeep-cj-2a.json",
+        "data/releases/2020/ghb87-custom-42-jeep-cj-2a.json",
+        "data/releases/2020/ghf63-custom-42-jeep-cj-2a.json",
+        "data/releases/2023/hly79-custom-42-jeep-cj-2a.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Jeep"
+}

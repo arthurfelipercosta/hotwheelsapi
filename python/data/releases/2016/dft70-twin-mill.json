@@ -1,0 +1,25 @@
+{
+    "release_id": "dft70-twin-mill-2016",
+    "toy_number": "DFT70",
+    "casting_id": "twin-mill",
+    "year": 2016,
+    "series_id": "team-hot-wheels",
+    "series_index": 4,
+    "specs": {
+        "color": "Spectraflame Green",
+        "tampo": "White Team Hot Wheels Logo & TH Flames",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Chrome Tint",
+        "interior_color": "Tinted",
+        "wheel_type": {
+            "0": "Green Rims",
+            "1": "White OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Indonesia (South East Asia Exclusive) Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/Twin_mill_domar.jpg/revision/latest/scale-to-width-down/75?cb=20181031130125"
+    }
+}

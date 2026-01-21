@@ -1,0 +1,25 @@
+{
+    "release_id": "x7060-lamborghini-estoque-2012",
+    "toy_number": "X7060",
+    "casting_id": "lamborghini-estoque",
+    "year": 2012,
+    "series_id": "mystery-models",
+    "series_index": 18,
+    "specs": {
+        "color": "Metalflake White",
+        "tampo": "Detailed headlights w/ Lamborghini emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/Lamborghini_Estoque_white.jpg/revision/latest/scale-to-width-down/75?cb=20120516075451"
+    }
+}

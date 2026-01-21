@@ -1,0 +1,23 @@
+{
+    "casting_id": "airuption",
+    "name": "Airuption",
+    "description": {
+        "en-us": "Airuption Debut series Experimotors Produced 2018 - Present Designer Ryu Asada Number FJV77",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv77-airuption-v2.json",
+        "data/releases/2018/fjy28-airuption-v2.json",
+        "data/releases/2019/fyd32-airuption-v2.json",
+        "data/releases/2019/fyg78-airuption-v2.json",
+        "data/releases/2021/gry74-airuption-v2.json",
+        "data/releases/2021/gtc01-airuption-v2.json",
+        "data/releases/2022/hcv47-airuption-v2.json",
+        "data/releases/2023/hkh88-airuption-v2.json",
+        "data/releases/2023/hkk51-airuption-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "bfb27-custom-11-camaro-2014",
+    "toy_number": "BFB27",
+    "casting_id": "custom-11-camaro",
+    "year": 2014,
+    "series_id": "track-builder-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "Yellow & White stripes, 'Hot Wheels' on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Gold",
+            "1": "White Lip PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): G22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/Capture-0.PNG/revision/latest/scale-to-width-down/75?cb=20170429204710"
+    }
+}

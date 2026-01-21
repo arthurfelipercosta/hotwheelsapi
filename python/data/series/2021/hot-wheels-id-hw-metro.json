@@ -2,9 +2,11 @@
     "series_id": "hot-wheels-id-hw-metro",
     "year": 2021,
     "name": "Hot Wheels id: HW Metro",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 4,
     "releases": [
-        "data/releases/2021/hbg17-buns-of-steel.json"
+        "data/releases/2021/hbg17-buns-of-steel.json",
+        "data/releases/2021/hbg23-west-coast-flyer.json",
+        "data/releases/2021/hbg29-speed-dozer.json"
     ]
 }

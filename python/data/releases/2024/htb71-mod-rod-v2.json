@@ -1,0 +1,25 @@
+{
+    "release_id": "htb71-mod-rod-2024",
+    "toy_number": "HTB71",
+    "casting_id": "mod-rod",
+    "year": 2024,
+    "series_id": "hw-art-cars",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake silver",
+        "tampo": "Yellow, blue, black and red patchwork graphics, \"'24 HW ART CARS\" on sides, \"C\" on sunroof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Chrome gold",
+        "wheel_type": {
+            "0": "AeroDisc",
+            "1": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Hot Wheels: Let's Race Base code(s): S40, S41, S43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Mod_Rod_-_2024_-_HW_Art_Cars_-_HTB71.jpg/revision/latest/scale-to-width-down/75?cb=20240110163335"
+    }
+}

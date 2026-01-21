@@ -2,9 +2,14 @@
     "series_id": "truckin-transporters",
     "year": 2006,
     "name": "Truckin' Transporters",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
-        "data/releases/2006/k0439-fish-d-chip-d.json"
+        "data/releases/2006/j6519-pony-up.json",
+        "data/releases/2006/j6519-propper-chopper.json",
+        "data/releases/2006/k0436-f-racer.json",
+        "data/releases/2006/k0437-propper-chopper.json",
+        "data/releases/2006/k0439-fish-d-chip-d.json",
+        "data/releases/2006/k6056-cul8r.json"
     ]
 }

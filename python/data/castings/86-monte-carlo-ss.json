@@ -1,0 +1,33 @@
+{
+    "casting_id": "86-monte-carlo-ss",
+    "name": "'86 Monte Carlo SS",
+    "description": {
+        "en-us": "'86 Monte Carlo SS Debut series 2010 New Models Produced 2010 - Present Designer Jun Imai Number R6455",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r6455-86-monte-carlo-ss-v3.json",
+        "data/releases/2010/r6455-86-monte-carlo-ss-v4.json",
+        "data/releases/2011/w1759-86-monte-carlo-ss-v2.json",
+        "data/releases/2011/w1578-86-monte-carlo-ss-v3.json",
+        "data/releases/2011/w1578-86-monte-carlo-ss-v4.json",
+        "data/releases/2012/v5453-86-monte-carlo-ss-v3.json",
+        "data/releases/2012/v5453-86-monte-carlo-ss-v4.json",
+        "data/releases/2012/v5568-86-monte-carlo-ss-v2.json",
+        "data/releases/2012/y2611-86-monte-carlo-ss-v2.json",
+        "data/releases/2013/x1792-86-monte-carlo-ss-v2.json",
+        "data/releases/2015/cfh42-86-monte-carlo-ss-v2.json",
+        "data/releases/2015/cfk08-86-monte-carlo-ss-v2.json",
+        "data/releases/2018/frf47-86-monte-carlo-ss-v2.json",
+        "data/releases/2018/fwn23-86-monte-carlo-ss-v2.json",
+        "data/releases/2019/gbb88-86-monte-carlo-ss-v2.json",
+        "data/releases/2020/ghd09-86-monte-carlo-ss-v2.json",
+        "data/releases/2020/ghg07-86-monte-carlo-ss-v2.json",
+        "data/releases/2021/grt29-86-monte-carlo-ss-v2.json",
+        "data/releases/2022/hdg56-86-monte-carlo-ss-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

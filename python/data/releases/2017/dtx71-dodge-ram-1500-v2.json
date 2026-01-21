@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx71-dodge-ram-1500-2017",
+    "toy_number": "DTX71",
+    "casting_id": "dodge-ram-1500",
+    "year": 2017,
+    "series_id": "hw-hot-trucks",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Dark Grey",
+        "tampo": "Yellow & Black stripes on sides & top, 'Toyo Tires' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Yellow BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J34, J39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/Dodge_Ram_1500_2017.png/revision/latest/scale-to-width-down/75?cb=20170115214112"
+    }
+}

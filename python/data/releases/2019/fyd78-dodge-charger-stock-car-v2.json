@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd78-dodge-charger-stock-car-2019",
+    "toy_number": "FYD78",
+    "casting_id": "dodge-charger-stock-car",
+    "year": 2019,
+    "series_id": "hw-race-day",
+    "series_index": 5,
+    "specs": {
+        "color": "Red",
+        "tampo": "MOPAR logo, number '6' on sides and top, \"McNamara\" and sponsorships on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow Lip MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Charger_Stockcar_Red_19.jpg/revision/latest/scale-to-width-down/75?cb=20190510100813"
+    }
+}

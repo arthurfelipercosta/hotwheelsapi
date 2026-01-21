@@ -1,0 +1,25 @@
+{
+    "casting_id": "70-toyota-celica",
+    "name": "'70 Toyota Celica",
+    "description": {
+        "en-us": "'70 Toyota Celica Debut series HW City: Street Power Produced 2013 – Present Designer Jun Imai Number X1632",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1632-70-toyota-celica-v2.json",
+        "data/releases/2013/x1862-70-toyota-celica-v2.json",
+        "data/releases/2014/bfc46-70-toyota-celica-v2.json",
+        "data/releases/2016/x6999-70-toyota-celica-v2.json",
+        "data/releases/2021/gtb03-70-toyota-celica-v2.json",
+        "data/releases/2021/gtc09-70-toyota-celica-v2.json",
+        "data/releases/2022/x6999-70-toyota-celica-v2.json",
+        "data/releases/2023/hlk49-70-toyota-celica-v2.json",
+        "data/releases/2024/hrw67-70-toyota-celica-v2.json",
+        "data/releases/2025/jby72-70-toyota-celica-v2.json",
+        "data/releases/2026/x6999-70-toyota-celica-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Toyota"
+}

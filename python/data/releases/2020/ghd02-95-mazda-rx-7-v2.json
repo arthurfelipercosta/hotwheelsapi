@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd02-95-mazda-rx-7-2020",
+    "toy_number": "GHD02",
+    "casting_id": "95-mazda-rx-7",
+    "year": 2020,
+    "series_id": "hw-turbo",
+    "series_index": 4,
+    "specs": {
+        "color": "Orange",
+        "tampo": "\"Mazdaspeed\", black & white stripes, \"7\" on hood & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Chrome Rim Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M34, M35, M36, M37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/2020_Hot_Wheels_%2795_Mazda_RX-7_left.jpg/revision/latest/scale-to-width-down/75?cb=20191102191116"
+    }
+}

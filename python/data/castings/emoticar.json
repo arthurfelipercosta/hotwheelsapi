@@ -1,0 +1,17 @@
+{
+    "casting_id": "emoticar",
+    "name": "Emoticar",
+    "description": {
+        "en-us": "Emoticar Debut series Experimotors Produced 2017 - 2018 Designer Kevin Cao Number DTX20",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx20-emoticar.json",
+        "data/releases/2017/dvb28-emoticar.json",
+        "data/releases/2018/fjw16-emoticar.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

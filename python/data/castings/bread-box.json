@@ -1,0 +1,42 @@
+{
+    "casting_id": "bread-box",
+    "name": "Bread Box",
+    "description": {
+        "en-us": "Bread Box Debut series 2010 New Models Produced 2010 - Present Designer Jun Imai Number R0929",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0929-bread-box.json",
+        "data/releases/2010/r0929-bread-box-v2.json",
+        "data/releases/2010/r0929-bread-box-v3.json",
+        "data/releases/2011/t9878-bread-box.json",
+        "data/releases/2011/v5214-bread-box.json",
+        "data/releases/2011/v2189-bread-box.json",
+        "data/releases/2011/x0808-bread-box.json",
+        "data/releases/2012/w6663-bread-box.json",
+        "data/releases/2012/w4022-bread-box.json",
+        "data/releases/2013/x1693-bread-box.json",
+        "data/releases/2013/x8358-bread-box.json",
+        "data/releases/2014/bfc32-bread-box.json",
+        "data/releases/2015/cfh51-bread-box.json",
+        "data/releases/2015/cfl71-bread-box.json",
+        "data/releases/2015/cfp62-bread-box.json",
+        "data/releases/2016/djk71-bread-box.json",
+        "data/releases/2016/dwd96-bread-box.json",
+        "data/releases/2017/dwh27-bread-box.json",
+        "data/releases/2018/gdg90-bread-box.json",
+        "data/releases/2018/fky44-bread-box.json",
+        "data/releases/2019/fyn91-bread-box.json",
+        "data/releases/2020/ghp49-bread-box.json",
+        "data/releases/2021/gjr25-bread-box.json",
+        "data/releases/2022/hfv83-bread-box.json",
+        "data/releases/2022/hcn98-bread-box.json",
+        "data/releases/2024/htv39-bread-box.json",
+        "data/releases/2024/dap04-bread-box.json",
+        "data/releases/2025/jbj75-bread-box.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

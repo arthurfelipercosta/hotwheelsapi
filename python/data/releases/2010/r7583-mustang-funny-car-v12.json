@@ -1,0 +1,27 @@
+{
+    "release_id": "r7583-mustang-funny-car-2010",
+    "toy_number": "R7583",
+    "casting_id": "mustang-funny-car",
+    "year": 2010,
+    "series_id": "hw-racing",
+    "series_index": 10,
+    "specs": {
+        "color": "Metallic White",
+        "tampo": "Blue, Green & Black Graphics. \"Hot Wheels\" with Flames outlining text box.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Gold Chrome",
+        "wheel_type": {
+            "0": "Gold 5SP",
+            "1": "156",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/MustangFC_racing_white.JPG/revision/latest/scale-to-width-down/75?cb=20100609101011"
+    }
+}

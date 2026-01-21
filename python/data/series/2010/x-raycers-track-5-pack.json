@@ -2,9 +2,12 @@
     "series_id": "x-raycers-track-5-pack",
     "year": 2010,
     "name": "X‑Raycers Track 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2010/r0973-69-chevelle.json"
+        "data/releases/2010/r0973-69-chevelle.json",
+        "data/releases/2010/r0973-horseplay.json",
+        "data/releases/2010/r0973-what-4-2.json",
+        "data/releases/2010/r9073-pharodox.json"
     ]
 }

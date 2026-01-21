@@ -1,0 +1,24 @@
+{
+    "release_id": "t8307-67-camaro-2011",
+    "toy_number": "T8307",
+    "casting_id": "67-camaro",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-gm",
+    "series_index": 1,
+    "specs": {
+        "color": "Pearl Yellow & Flat Black",
+        "tampo": "SS Camaro trim details",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Redline CDDRR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/67Camaro_11Garage_Yellow.JPG/revision/latest/scale-to-width-down/75?cb=20110321064409"
+    }
+}

@@ -2,9 +2,26 @@
     "series_id": "hw-off-road-hw-hot-trucks",
     "year": 2015,
     "name": "HW Off-Road: HW Hot Trucks",
-    "total_releases": 1,
+    "total_releases": 18,
     "max_index": 0,
     "releases": [
-        "data/releases/2015/cfk65-monster-dairy-delivery.json"
+        "data/releases/2015/cfh24-15-ford-f-150.json",
+        "data/releases/2015/cfj36-toyota-baja-truck.json",
+        "data/releases/2015/cfj65-15-ford-f-150.json",
+        "data/releases/2015/cfj83-68-el-camino.json",
+        "data/releases/2015/cfk03-datsun-620.json",
+        "data/releases/2015/cfk63-off-duty.json",
+        "data/releases/2015/cfk64-diesel-duty.json",
+        "data/releases/2015/cfk65-monster-dairy-delivery.json",
+        "data/releases/2015/cfk67-toyota-baja-truck.json",
+        "data/releases/2015/cfk68-custom-ford-bronco.json",
+        "data/releases/2015/cfk69-68-el-camino.json",
+        "data/releases/2015/cfk70-subaru-brat.json",
+        "data/releases/2015/cfk72-datsun-620.json",
+        "data/releases/2015/cfl63-volkswagen-caddy.json",
+        "data/releases/2015/cfl91-off-duty.json",
+        "data/releases/2015/cfv19-volkswagen-caddy.json",
+        "data/releases/2015/cfv19-volkswagen-caddy.json",
+        "data/releases/2015/dhy01-subaru-brat.json"
     ]
 }

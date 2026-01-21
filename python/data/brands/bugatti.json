@@ -4,6 +4,7 @@
     "country": "Unknown",
     "founded_year": null,
     "castings": [
+        "data/castings/16-bugatti-chiron.json",
         "data/castings/94-bugatti-eb110-ss.json",
         "data/castings/bugatti-bolide.json"
     ],

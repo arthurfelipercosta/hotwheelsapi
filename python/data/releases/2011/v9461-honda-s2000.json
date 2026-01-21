@@ -1,0 +1,24 @@
+{
+    "release_id": "v9461-honda-s2000-2011",
+    "toy_number": "V9461",
+    "casting_id": "honda-s2000",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 20,
+    "specs": {
+        "color": "Red",
+        "tampo": "Honda emblem on front & rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D41, D43, D46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/Honda_s2000_2011_red.png/revision/latest/scale-to-width-down/75?cb=20111203034706"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "first-editions",
+    "year": 2000,
+    "name": "First Editions",
+    "total_releases": 2,
+    "max_index": 26,
+    "releases": [
+        "data/releases/2000/24395-shoe-box.json",
+        "data/releases/2000/24395-shoe-box.json"
+    ]
+}

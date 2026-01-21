@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh70-fiat-500-2015",
+    "toy_number": "CFH70",
+    "casting_id": "fiat-500",
+    "year": 2015,
+    "series_id": "hw-city-hw-rescue",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "White stripes & Yellow checkerboard deco on sides, White stripes on hood & roof, 'Polizia' on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "T-Hunt symbol printed on early cards in error Base code(s): H23, H24, H32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/HW-2015-50-Fiat_500-Rescue.jpg/revision/latest/scale-to-width-down/75?cb=20150906040926"
+    }
+}

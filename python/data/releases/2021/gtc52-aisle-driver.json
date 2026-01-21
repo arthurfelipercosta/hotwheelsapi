@@ -1,0 +1,24 @@
+{
+    "release_id": "gtc52-aisle-driver-2021",
+    "toy_number": "GTC52",
+    "casting_id": "aisle-driver",
+    "year": 2021,
+    "series_id": "fast-foodie",
+    "series_index": 5,
+    "specs": {
+        "color": "Dark blue",
+        "tampo": "Aisle Driver Test Market on Sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "White & Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P17, P18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Aisle-Driver_Fast_Foodie_2021_second_colour.jpg/revision/latest/scale-to-width-down/75?cb=20211219151353"
+    }
+}

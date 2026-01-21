@@ -2,9 +2,14 @@
     "series_id": "track-builder-5-pack",
     "year": 2016,
     "name": "Track Builder 5-Pack",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
-        "data/releases/2016/djd27-chevroletor.json"
+        "data/releases/2016/djd18-impavido-1.json",
+        "data/releases/2016/djd18-power-pistons.json",
+        "data/releases/2016/djd27-chevroletor.json",
+        "data/releases/2016/djd27-fast-4wd.json",
+        "data/releases/2016/djd27-street-shaker.json",
+        "data/releases/2016/djd27-super-blitzen.json"
     ]
 }

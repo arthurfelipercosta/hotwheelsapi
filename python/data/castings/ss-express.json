@@ -1,0 +1,27 @@
+{
+    "casting_id": "ss-express",
+    "name": "SS Express",
+    "description": {
+        "en-us": "SS Express Debut series Since '68: Muscle Cars Produced 2007 - Present Designer Phil Riehlman Number L2849",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/l2849-ss-express.json",
+        "data/releases/2008/m4411-ss-express.json",
+        "data/releases/2008/l8698-ss-express.json",
+        "data/releases/2009/n6947-ss-express.json",
+        "data/releases/2009/n6947-ss-express-v2.json",
+        "data/releases/2009/n6947-ss-express-v3.json",
+        "data/releases/2009/n6947-ss-express-v4.json",
+        "data/releases/2009/n9856-ss-express.json",
+        "data/releases/2010/v1422-ss-express.json",
+        "data/releases/2011/v0488-ss-express.json",
+        "data/releases/2012/w4005-ss-express.json",
+        "data/releases/2013/y9442-ss-express.json",
+        "data/releases/2022/hcv18-ss-express.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Mattel"
+}

@@ -2,9 +2,11 @@
     "series_id": "hw-drift-5-pack",
     "year": 2024,
     "name": "HW Drift 5-Pack",
-    "total_releases": 2,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
+        "data/releases/2024/htv51-13-ford-mustang-gt.json",
+        "data/releases/2024/htv51-2017-camaro-zl1.json",
         "data/releases/2024/htv51-bullet-proof.json",
         "data/releases/2024/htv51-custom-18-ford-mustang-gt.json"
     ]

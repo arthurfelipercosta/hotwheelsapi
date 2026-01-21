@@ -1,0 +1,13 @@
+{
+    "series_id": "rlc-club-car",
+    "year": 2013,
+    "name": "RLC Club Car",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/y0435-68-copo-camaro.json",
+        "data/releases/2013/y0436-68-copo-camaro.json",
+        "data/releases/2013/y0437-68-copo-camaro.json",
+        "data/releases/2013/y0438-68-copo-camaro.json"
+    ]
+}

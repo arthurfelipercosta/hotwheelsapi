@@ -2,10 +2,18 @@
     "series_id": "hw-turbo",
     "year": 2023,
     "name": "HW Turbo",
-    "total_releases": 2,
+    "total_releases": 10,
     "max_index": 4,
     "releases": [
         "data/releases/2023/hkg45-89-mercedes-benz-560-sec-amg.json",
-        "data/releases/2023/hkk85-89-mercedes-benz-560-sec-amg.json"
+        "data/releases/2023/hkj36-pagani-zonda-r.json",
+        "data/releases/2023/hkj37-aston-martin-vantage-gte.json",
+        "data/releases/2023/hkj38-renault-sport-r-s-01.json",
+        "data/releases/2023/hkj39-fast-felion.json",
+        "data/releases/2023/hkk83-pagani-zonda-r.json",
+        "data/releases/2023/hkk84-aston-martin-vantage-gte.json",
+        "data/releases/2023/hkk85-89-mercedes-benz-560-sec-amg.json",
+        "data/releases/2023/hkk86-fast-felion.json",
+        "data/releases/2023/hkl21-renault-sport-r-s-01.json"
     ]
 }

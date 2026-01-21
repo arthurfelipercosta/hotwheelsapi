@@ -1,0 +1,24 @@
+{
+    "release_id": "htb76-70-dodge-charger-r-t-2024",
+    "toy_number": "HTB76",
+    "casting_id": "70-dodge-charger-r-t",
+    "year": 2024,
+    "series_id": "hw-art-cars",
+    "series_index": 4,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "\"DODGE\" on left side and hood, \"CHARGER\" on right side, various colorful explosions and shapes on sides, hood and roof, Hot Wheels logo on sides, \"I\" on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light blue tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "White rim purple 5SP & white rim pink 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S47, S49, S50, S51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Dodge_Charger_RT_1970_%281f%29_-_HotWheels.jpg/revision/latest/scale-to-width-down/75?cb=20240812105118"
+    }
+}

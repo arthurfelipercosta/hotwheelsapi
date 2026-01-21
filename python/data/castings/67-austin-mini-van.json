@@ -6,25 +6,25 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2012/w6636-67-austin-mini-van.json",
-        "data/releases/2013/x8338-67-austin-mini-van.json",
-        "data/releases/2015/cfh47-67-austin-mini-van.json",
-        "data/releases/2015/cfj80-67-austin-mini-van.json",
-        "data/releases/2015/cfm07-67-austin-mini-van.json",
-        "data/releases/2016/dhr30-67-austin-mini-van.json",
-        "data/releases/2016/dhx53-67-austin-mini-van.json",
-        "data/releases/2017/dwh31-67-austin-mini-van.json",
-        "data/releases/2017/fdm73-67-austin-mini-van.json",
-        "data/releases/2018/fky29-67-austin-mini-van.json",
-        "data/releases/2020/gjr17-67-austin-mini-van.json",
-        "data/releases/2022/hdh57-67-austin-mini-van.json",
-        "data/releases/2023/hlk39-67-austin-mini-van.json",
-        "data/releases/2024/x6999-67-austin-mini-van.json",
-        "data/releases/2025/jbb00-67-austin-mini-van.json",
-        "data/releases/2025/jbb68-67-austin-mini-van.json"
+        "data/releases/2012/w6636-67-austin-mini-van-v2.json",
+        "data/releases/2013/x8338-67-austin-mini-van-v2.json",
+        "data/releases/2015/cfh47-67-austin-mini-van-v2.json",
+        "data/releases/2015/cfj80-67-austin-mini-van-v2.json",
+        "data/releases/2015/cfm07-67-austin-mini-van-v2.json",
+        "data/releases/2016/dhr30-67-austin-mini-van-v2.json",
+        "data/releases/2016/dhx53-67-austin-mini-van-v2.json",
+        "data/releases/2017/dwh31-67-austin-mini-van-v2.json",
+        "data/releases/2017/fdm73-67-austin-mini-van-v2.json",
+        "data/releases/2018/fky29-67-austin-mini-van-v2.json",
+        "data/releases/2020/gjr17-67-austin-mini-van-v2.json",
+        "data/releases/2022/hdh57-67-austin-mini-van-v2.json",
+        "data/releases/2023/hlk39-67-austin-mini-van-v2.json",
+        "data/releases/2024/x6999-67-austin-mini-van-v2.json",
+        "data/releases/2025/jbb00-67-austin-mini-van-v2.json",
+        "data/releases/2025/jbb68-67-austin-mini-van-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",
     "debut_year": 2012,
-    "manufacturer": "Mattel"
+    "manufacturer": "Mini"
 }

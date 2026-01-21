@@ -1,0 +1,16 @@
+{
+    "series_id": "looney-tunes",
+    "year": 2018,
+    "name": "Looney Tunes",
+    "total_releases": 7,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2018/fkc69-16-angels.json",
+        "data/releases/2018/fkc70-scorcher.json",
+        "data/releases/2018/fkc71-scoopa-di-fuego.json",
+        "data/releases/2018/fkc73-hw-poppa-wheelie.json",
+        "data/releases/2018/fkc74-rockster.json",
+        "data/releases/2018/fkc75-horseplay.json",
+        "data/releases/2018/fkc76-twinduction.json"
+    ]
+}

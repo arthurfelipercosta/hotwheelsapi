@@ -1,0 +1,25 @@
+{
+    "release_id": "r7938-nissan-titan-2010",
+    "toy_number": "R7938",
+    "casting_id": "nissan-titan",
+    "year": 2010,
+    "series_id": "happy-birthday",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Blue Stripes outlined in Black & Red, HW logo with \"5\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Blue Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/NissanTitan_bday.JPG/revision/latest/scale-to-width-down/75?cb=20100527120247"
+    }
+}

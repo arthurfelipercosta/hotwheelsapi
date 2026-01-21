@@ -1,0 +1,26 @@
+{
+    "casting_id": "electrack",
+    "name": "Electrack",
+    "description": {
+        "en-us": "Electrack Debut series X-Raycers Produced 2018 - Present Designer Phil Riehlman Number FJV50",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv50-electrack-v2.json",
+        "data/releases/2018/fjy74-electrack-v2.json",
+        "data/releases/2019/fyd51-electrack-v2.json",
+        "data/releases/2019/fyg81-electrack-v2.json",
+        "data/releases/2021/gyp25-electrack-v2.json",
+        "data/releases/2022/hct52-electrack-v2.json",
+        "data/releases/2022/hcx63-electrack-v2.json",
+        "data/releases/2023/hly66-electrack-v2.json",
+        "data/releases/2024/htv41-electrack-v2.json",
+        "data/releases/2025/jbj83-electrack-v2.json",
+        "data/releases/2025/jcl88-electrack-v2.json",
+        "data/releases/2026/jkg07-electrack-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

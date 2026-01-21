@@ -1,0 +1,24 @@
+{
+    "release_id": "gtc09-70-toyota-celica-2021",
+    "toy_number": "GTC09",
+    "casting_id": "70-toyota-celica",
+    "year": 2021,
+    "series_id": "hw-j-imports",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Teal",
+        "tampo": "Orange & black stripes on hood & sides, \" KAIDOHOUSE \" on hood, HW logo, 吉田軽工 \"Yoshida Light Industry\" & \"Celica\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P18, P21, P29, P34, P36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/J-imports_3-10_Teal.jpg/revision/latest/scale-to-width-down/75?cb=20210909140900"
+    }
+}

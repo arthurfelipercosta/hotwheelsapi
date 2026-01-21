@@ -1,0 +1,27 @@
+{
+    "series_id": "camaro-fifty",
+    "year": 2017,
+    "name": "Camaro Fifty",
+    "total_releases": 18,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2017/dtw80-2017-camaro-zl1.json",
+        "data/releases/2017/dty96-16-camaro-ss.json",
+        "data/releases/2017/dty97-2013-hot-wheels-chevy-camaro-special-edition.json",
+        "data/releases/2017/dty98-81-camaro.json",
+        "data/releases/2017/dty99-67-camaro.json",
+        "data/releases/2017/dvc44-2017-camaro-zl1.json",
+        "data/releases/2017/dvc45-16-camaro-ss.json",
+        "data/releases/2017/dvc46-2013-hot-wheels-chevy-camaro-special-edition.json",
+        "data/releases/2017/dvc47-81-camaro.json",
+        "data/releases/2017/dvc96-67-camaro.json",
+        "data/releases/2017/dwc86-67-camaro.json",
+        "data/releases/2017/dwc87-81-camaro.json",
+        "data/releases/2017/dwc88-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2017/dwc90-2013-hot-wheels-chevy-camaro-special-edition.json",
+        "data/releases/2017/dwc91-10-pro-stock-camaro.json",
+        "data/releases/2017/dwc92-13-copo-camaro.json",
+        "data/releases/2017/fbj09-81-camaro.json",
+        "data/releases/2017/fbj10-67-camaro.json"
+    ]
+}

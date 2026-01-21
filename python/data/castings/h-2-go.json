@@ -1,0 +1,27 @@
+{
+    "casting_id": "h-2-go",
+    "name": "H 2 GO",
+    "description": {
+        "en-us": "H 2 GO Debut series 2008 New Models Produced 2008 - Present Designer Larry Wood Number L9950\\n\\nH 2 GO is a hot-rodded speedboat with two blown V10 engines in the rear. The casting was retooled in 2015 with the interior becoming a single piece with the engines as opposed to a separate piece.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2008/l9950-h-2-go-v2.json",
+        "data/releases/2009/n4073-h-2-go-v2.json",
+        "data/releases/2010/r7502-h-2-go-v3.json",
+        "data/releases/2010/r7502-h-2-go-v4.json",
+        "data/releases/2011/t9887-h-2-go-v2.json",
+        "data/releases/2012/w4253-h-2-go-v2.json",
+        "data/releases/2015/cfh73-h-2-go-v2.json",
+        "data/releases/2017/dty03-h-2-go-v2.json",
+        "data/releases/2017/dvb89-h-2-go-v2.json",
+        "data/releases/2022/hdt06-h-2-go-v2.json",
+        "data/releases/2022/hdt09-h-2-go-v2.json",
+        "data/releases/2023/hkj22-h-2-go-v2.json",
+        "data/releases/2024/hxc42-h-2-go-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2008,
+    "manufacturer": "Mattel"
+}

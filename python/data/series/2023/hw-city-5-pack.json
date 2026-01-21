@@ -2,10 +2,18 @@
     "series_id": "hw-city-5-pack",
     "year": 2023,
     "name": "HW City 5-Pack",
-    "total_releases": 2,
+    "total_releases": 10,
     "max_index": 0,
     "releases": [
+        "data/releases/2023/hly67-circle-trucker.json",
+        "data/releases/2023/hly67-gazella-gt.json",
+        "data/releases/2023/hly67-hover-storm.json",
+        "data/releases/2023/hly67-loco-motorin.json",
         "data/releases/2023/hly67-shark-bite.json",
-        "data/releases/2023/hly76-ain-t-fare.json"
+        "data/releases/2023/hly76-ain-t-fare.json",
+        "data/releases/2023/hly76-fast-fish.json",
+        "data/releases/2023/hly76-rockster.json",
+        "data/releases/2023/hly76-sky-fi.json",
+        "data/releases/2023/hly76-veloci-racer.json"
     ]
 }

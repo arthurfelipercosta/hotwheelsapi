@@ -1,0 +1,24 @@
+{
+    "release_id": "hly73-datsun-620-2023",
+    "toy_number": "HLY73",
+    "casting_id": "datsun-620",
+    "year": 2023,
+    "series_id": "nissan-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Petrol Blue",
+        "tampo": "Black Slashes on Side, \"Datsun 72\", HW",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "Gold MC5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): S07, S08, S12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/5pk_Datsun620.jpg/revision/latest/scale-to-width-down/75?cb=20230524032201"
+    }
+}

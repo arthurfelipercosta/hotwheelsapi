@@ -1,0 +1,11 @@
+{
+    "series_id": "x-games-exclusive",
+    "year": 2012,
+    "name": "X-Games Exclusive",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2012/y8827-super-blitzen.json",
+        "data/releases/2012/y8828-super-blitzen.json"
+    ]
+}

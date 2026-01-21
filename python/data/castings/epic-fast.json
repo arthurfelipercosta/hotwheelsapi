@@ -1,0 +1,20 @@
+{
+    "casting_id": "epic-fast",
+    "name": "Epic Fast",
+    "description": {
+        "en-us": "Epic Fast Debut series HW Race: Night Storm Produced 2015 - 2020 Designer Mark Jones Number CFH02",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh02-epic-fast.json",
+        "data/releases/2015/cfl34-epic-fast.json",
+        "data/releases/2016/dhw55-epic-fast.json",
+        "data/releases/2016/dhp59-epic-fast.json",
+        "data/releases/2017/dvg03-epic-fast.json",
+        "data/releases/2020/gjv94-epic-fast.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

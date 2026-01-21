@@ -1,0 +1,10 @@
+{
+    "series_id": "san-diego-comic-con",
+    "year": 2025,
+    "name": "San Diego Comic-Con",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2025/jkg05-back-to-the-future-time-machine.json"
+    ]
+}

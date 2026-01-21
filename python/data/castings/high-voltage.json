@@ -1,0 +1,29 @@
+{
+    "casting_id": "high-voltage",
+    "name": "High Voltage",
+    "description": {
+        "en-us": "High Voltage Debut series AcceleRacers: Teku Produced 2005 - Present Designer Jun Imai Number G8089",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8089-high-voltage.json",
+        "data/releases/2005/k0437-high-voltage.json",
+        "data/releases/2006/k3287-high-voltage.json",
+        "data/releases/2008/n4423-high-voltage.json",
+        "data/releases/2008/p5205-high-voltage.json",
+        "data/releases/2009/n4069-high-voltage.json",
+        "data/releases/2009/p5205-high-voltage.json",
+        "data/releases/2011/v0599-high-voltage.json",
+        "data/releases/2013/x1773-high-voltage.json",
+        "data/releases/2014/bfb27-high-voltage.json",
+        "data/releases/2015/cfk97-high-voltage.json",
+        "data/releases/2017/dvy76-high-voltage.json",
+        "data/releases/2017/x6999-high-voltage.json",
+        "data/releases/2018/fkt66-high-voltage.json",
+        "data/releases/2020/gph64-high-voltage.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

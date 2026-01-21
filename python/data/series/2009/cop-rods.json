@@ -2,13 +2,21 @@
     "series_id": "cop-rods",
     "year": 2009,
     "name": "Cop Rods",
-    "total_releases": 5,
+    "total_releases": 13,
     "max_index": 20,
     "releases": [
+        "data/releases/2009/n8993-69-ford-mustang.json",
+        "data/releases/2009/n8997-phaeton.json",
+        "data/releases/2009/n8998-ford-shelby-gr-1-concept.json",
         "data/releases/2009/n9000-83-chevy-silverado.json",
+        "data/releases/2009/n9001-combat-medic.json",
+        "data/releases/2009/n9002-enforcer.json",
         "data/releases/2009/n9005-humvee.json",
+        "data/releases/2009/n9007-propper-chopper.json",
         "data/releases/2009/n9009-la-troca.json",
+        "data/releases/2009/n9010-rescue-ranger.json",
         "data/releases/2009/n9012-rodger-dodger.json",
-        "data/releases/2009/n9013-59-chevy-bel-air.json"
+        "data/releases/2009/n9013-59-chevy-bel-air.json",
+        "data/releases/2009/n9015-68-el-camino.json"
     ]
 }

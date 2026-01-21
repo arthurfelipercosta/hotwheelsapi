@@ -2,10 +2,19 @@
     "series_id": "track-stars",
     "year": 2011,
     "name": "Track Stars",
-    "total_releases": 2,
-    "max_index": 5,
+    "total_releases": 11,
+    "max_index": 11,
     "releases": [
+        "data/releases/2011/t9751-batmobile.json",
+        "data/releases/2011/t9752-2008-tesla-roadster.json",
+        "data/releases/2011/t9754-honda-racer.json",
         "data/releases/2011/t9755-triumph-tr6.json",
-        "data/releases/2011/t9761-69-chevelle.json"
+        "data/releases/2011/t9757-blown-camaro.json",
+        "data/releases/2011/t9758-f1-racer.json",
+        "data/releases/2011/t9759-fast-felion.json",
+        "data/releases/2011/t9760-mini-cooper.json",
+        "data/releases/2011/t9761-69-chevelle.json",
+        "data/releases/2011/t9762-la-fasta.json",
+        "data/releases/2011/t9764-sling-shot.json"
     ]
 }

@@ -1,0 +1,32 @@
+{
+    "casting_id": "corvette-grand-sport-roadster",
+    "name": "Corvette Grand Sport Roadster",
+    "description": {
+        "en-us": "Corvette Grand Sport Roadster Debut series HW Race: Track Aces Produced 2015 - Present Designer Brendon Vetuskey Number CFH04",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh04-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2015/cfl27-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2016/dhr17-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2016/dhx31-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2017/dwf76-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2018/fjx46-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2019/fyc55-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2019/fyg16-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2019/fyl16-ggh46-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2021/grx92-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2021/gtc99-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2021/gtd15-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2021/gtn35-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2021/grp58-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2023/hkh38-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2023/hkl44-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2023/hkk09-corvette-grand-sport-roadster-v2.json",
+        "data/releases/2023/hkh90-corvette-grand-sport-roadster-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

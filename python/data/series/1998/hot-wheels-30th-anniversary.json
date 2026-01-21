@@ -2,10 +2,16 @@
     "series_id": "hot-wheels-30th-anniversary",
     "year": 1998,
     "name": "Hot Wheels 30th Anniversary",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 0,
     "releases": [
         "data/releases/1998/18863-rodger-dodger.json",
-        "data/releases/1998/18879-purple-passion.json"
+        "data/releases/1998/18872-classic-cobra.json",
+        "data/releases/1998/18876-sharkruiser.json",
+        "data/releases/1998/18879-purple-passion.json",
+        "data/releases/1998/18882-dodge-viper-rt-10.json",
+        "data/releases/1998/18883-rigor-motor.json",
+        "data/releases/1998/18995-65-mustang-convertible.json",
+        "data/releases/1998/9638-57-chevy.json"
     ]
 }

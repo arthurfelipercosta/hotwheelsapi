@@ -1,0 +1,24 @@
+{
+    "release_id": "dty28-mini-cooper-2017",
+    "toy_number": "DTY28",
+    "casting_id": "mini-cooper",
+    "year": 2017,
+    "series_id": "hw-snow-stormers",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Snow & '333' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Light Blue",
+        "wheel_type": {
+            "0": "Black & White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J48, J49, J50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/Mini_Cooper_17_Snow_Stormers_600pxOTD.jpg/revision/latest/scale-to-width-down/75?cb=20161225203215"
+    }
+}

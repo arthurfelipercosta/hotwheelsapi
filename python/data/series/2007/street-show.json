@@ -2,10 +2,14 @@
     "series_id": "street-show",
     "year": 2007,
     "name": "Street Show",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 15,
     "releases": [
         "data/releases/2007/l3038-bone-shaker.json",
-        "data/releases/2007/l3054-bone-shaker.json"
+        "data/releases/2007/l3046-32-ford.json",
+        "data/releases/2007/l3047-40-ford.json",
+        "data/releases/2007/l3050-56-ford-f-100-truck.json",
+        "data/releases/2007/l3054-bone-shaker.json",
+        "data/releases/2007/l3062-32-ford.json"
     ]
 }

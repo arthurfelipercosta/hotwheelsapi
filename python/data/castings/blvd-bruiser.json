@@ -1,0 +1,38 @@
+{
+    "casting_id": "blvd-bruiser",
+    "name": "Blvd. Bruiser",
+    "description": {
+        "en-us": "Blvd. Bruiser Debut series 2011 New Models Produced 2011 - Present Designer Larry Wood Number T9704",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9704-blvd-bruiser.json",
+        "data/releases/2011/v0024-blvd-bruiser.json",
+        "data/releases/2011/v0024-blvd-bruiser-v2.json",
+        "data/releases/2013/x1745-blvd-bruiser.json",
+        "data/releases/2014/bfb34-blvd-bruiser.json",
+        "data/releases/2014/bfb34-blvd-bruiser-v2.json",
+        "data/releases/2015/x6999-blvd-bruiser.json",
+        "data/releases/2015/dkg68-blvd-bruiser.json",
+        "data/releases/2016/djk55-blvd-bruiser.json",
+        "data/releases/2016/dwy54-blvd-bruiser.json",
+        "data/releases/2016/djj72-blvd-bruiser.json",
+        "data/releases/2016/gbf30-blvd-bruiser.json",
+        "data/releases/2017/dwy54-dwd04-blvd-bruiser.json",
+        "data/releases/2017/dwd91-blvd-bruiser.json",
+        "data/releases/2019/gbc46-blvd-bruiser.json",
+        "data/releases/2019/gbb29-blvd-bruiser.json",
+        "data/releases/2020/gjx04-blvd-bruiser.json",
+        "data/releases/2021/hcb57-blvd-bruiser.json",
+        "data/releases/2022/gww18-blvd-bruiser.json",
+        "data/releases/2023/hmf93-blvd-bruiser.json",
+        "data/releases/2024/htv47-blvd-bruiser.json",
+        "data/releases/2024/hmf89-blvd-bruiser.json",
+        "data/releases/2026/jkn76-blvd-bruiser.json",
+        "data/releases/2026/jkg08-blvd-bruiser.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

@@ -2,10 +2,13 @@
     "series_id": "batman-5-pack",
     "year": 2017,
     "name": "Batman 5-Pack",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/2017/dvf92-arkham-asylum-batmobile.json",
+        "data/releases/2017/dvf92-batman-live-batmobile.json",
+        "data/releases/2017/dvf92-boom-box.json",
+        "data/releases/2017/dvf92-power-pistons.json",
         "data/releases/2017/dvf92-tv-series-batmobile.json"
     ]
 }

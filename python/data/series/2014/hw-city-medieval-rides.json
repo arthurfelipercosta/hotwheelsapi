@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-city-medieval-rides",
+    "year": 2014,
+    "name": "HW City: Medieval Rides",
+    "total_releases": 10,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bdc86-knight-draggin.json",
+        "data/releases/2014/bfc78-rodzilla.json",
+        "data/releases/2014/bfc79-howlin-heat.json",
+        "data/releases/2014/bfc80-buzzerk.json",
+        "data/releases/2014/bfc81-dragon-blaster.json",
+        "data/releases/2014/bff48-rodzilla.json",
+        "data/releases/2014/bfg11-howlin-heat.json",
+        "data/releases/2014/bfg12-buzzerk.json",
+        "data/releases/2014/bfg13-dragon-blaster.json",
+        "data/releases/2014/bfg14-knight-draggin.json"
+    ]
+}

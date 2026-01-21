@@ -1,0 +1,28 @@
+{
+    "casting_id": "1987-toyota-pickup-truck",
+    "name": "1987 Toyota Pickup Truck",
+    "description": {
+        "en-us": "1987 Toyota Pickup Truck Debut series The Hot Ones Produced 2012 – Present Designer Jun Imai and Manson Cheung Number W3774",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/w3774-1987-toyota-pickup-truck.json",
+        "data/releases/2013/x1829-1987-toyota-pickup-truck.json",
+        "data/releases/2013/x1981-1987-toyota-pickup-truck.json",
+        "data/releases/2014/bdr31-1987-toyota-pickup-truck.json",
+        "data/releases/2014/bdt89-1987-toyota-pickup-truck.json",
+        "data/releases/2016/dnf22-1987-toyota-pickup-truck.json",
+        "data/releases/2017/dtx74-1987-toyota-pickup-truck.json",
+        "data/releases/2017/ffy64-1987-toyota-pickup-truck.json",
+        "data/releases/2021/grj97-1987-toyota-pickup-truck.json",
+        "data/releases/2021/hhg50-1987-toyota-pickup-truck.json",
+        "data/releases/2023/hkc20-1987-toyota-pickup-truck.json",
+        "data/releases/2024/hrr98-1987-toyota-pickup-truck.json",
+        "data/releases/2025/jbk73-1987-toyota-pickup-truck.json",
+        "data/releases/2026/jhw48-1987-toyota-pickup-truck.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Toyota"
+}

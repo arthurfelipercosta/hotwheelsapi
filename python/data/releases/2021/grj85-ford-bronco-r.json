@@ -1,0 +1,24 @@
+{
+    "release_id": "grj85-ford-bronco-r-2021",
+    "toy_number": "GRJ85",
+    "casting_id": "ford-bronco-r",
+    "year": 2021,
+    "series_id": "car-culture-hyper-haulers",
+    "series_index": 4,
+    "specs": {
+        "color": "Glossy Black",
+        "tampo": "\"2069\", \"FORD PERFORMANCE\", Bronco logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR8DOT"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Modified casting Base code(s): P26, P29, P31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/FordBroncoR.jpg/revision/latest/scale-to-width-down/75?cb=20211010065515"
+    }
+}

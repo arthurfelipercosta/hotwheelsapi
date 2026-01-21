@@ -2,13 +2,28 @@
     "series_id": "hw-workshop-muscle-mania",
     "year": 2014,
     "name": "HW Workshop: Muscle Mania",
-    "total_releases": 5,
+    "total_releases": 20,
     "max_index": 0,
     "releases": [
         "data/releases/2014/bdd21-1974-brazilian-dodge-charger.json",
+        "data/releases/2014/bff08-70-camaro.json",
+        "data/releases/2014/bff09-67-chevelle-ss-396.json",
+        "data/releases/2014/bff10-64-chevy-chevelle-ss.json",
         "data/releases/2014/bff11-69-dodge-charger-daytona.json",
+        "data/releases/2014/bff12-69-ford-torino-talladega.json",
+        "data/releases/2014/bff13-64-chevy-nova-wagon.json",
+        "data/releases/2014/bff14-76-greenwood-corvette.json",
+        "data/releases/2014/bff15-73-ford-falcon-xb.json",
+        "data/releases/2014/bff16-68-plymouth-barracuda-formula-s.json",
+        "data/releases/2014/bff36-64-chevy-nova-wagon.json",
+        "data/releases/2014/bff37-76-greenwood-corvette.json",
         "data/releases/2014/bfg63-69-dodge-charger-daytona.json",
         "data/releases/2014/bfg72-1974-brazilian-dodge-charger.json",
-        "data/releases/2014/bfg79-69-dodge-charger-daytona.json"
+        "data/releases/2014/bfg75-68-plymouth-barracuda-formula-s.json",
+        "data/releases/2014/bfg79-69-dodge-charger-daytona.json",
+        "data/releases/2014/bfv52-64-chevy-nova-wagon.json",
+        "data/releases/2014/bfv57-67-chevelle-ss-396.json",
+        "data/releases/2014/bfv58-69-ford-torino-talladega.json",
+        "data/releases/2014/bfv61-73-ford-falcon-xb.json"
     ]
 }

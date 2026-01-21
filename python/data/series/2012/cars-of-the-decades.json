@@ -2,10 +2,25 @@
     "series_id": "cars-of-the-decades",
     "year": 2012,
     "name": "Cars of the Decades",
-    "total_releases": 2,
-    "max_index": 25,
+    "total_releases": 17,
+    "max_index": 24,
     "releases": [
+        "data/releases/2012/w3981-3-window-34.json",
+        "data/releases/2012/w3983-so-fine.json",
+        "data/releases/2012/w3984-65-mustang-convertible.json",
+        "data/releases/2012/w3987-57-chevy.json",
+        "data/releases/2012/w3991-56-ford-f-100-truck.json",
+        "data/releases/2012/w3994-49-merc.json",
+        "data/releases/2012/w3996-69-corvette.json",
+        "data/releases/2012/w3997-71-plymouth-gtx.json",
+        "data/releases/2012/w4000-09-corvette-zr1.json",
         "data/releases/2012/w4003-92-ford-mustang.json",
-        "data/releases/2012/w4010-83-chevy-silverado.json"
+        "data/releases/2012/w4004-10-camaro-ss.json",
+        "data/releases/2012/w4005-ss-express.json",
+        "data/releases/2012/w4006-toyota-ae-86-corolla.json",
+        "data/releases/2012/w4008-dodge-viper-srt10-acr.json",
+        "data/releases/2012/w4009-70-mustang-mach-1.json",
+        "data/releases/2012/w4010-83-chevy-silverado.json",
+        "data/releases/2012/y5395-2005-ford-mustang-gt.json"
     ]
 }

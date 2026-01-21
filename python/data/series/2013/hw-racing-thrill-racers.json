@@ -1,0 +1,25 @@
+{
+    "series_id": "hw-racing-thrill-racers",
+    "year": 2013,
+    "name": "HW Racing: Thrill Racers",
+    "total_releases": 16,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1617-skate-grom.json",
+        "data/releases/2013/x1649-loop-coupe.json",
+        "data/releases/2013/x1655-hot-wheels-high.json",
+        "data/releases/2013/x1746-torque-twister.json",
+        "data/releases/2013/x1747-cul8r.json",
+        "data/releases/2013/x1748-dieselboy.json",
+        "data/releases/2013/x1748-dieselboy.json",
+        "data/releases/2013/x1749-acura-nsx.json",
+        "data/releases/2013/x1750-f-racer.json",
+        "data/releases/2013/x1751-yur-so-fast.json",
+        "data/releases/2013/x1752-4ward-speed.json",
+        "data/releases/2013/x1886-cul8r.json",
+        "data/releases/2013/x1932-loop-coupe.json",
+        "data/releases/2013/x1934-torque-twister.json",
+        "data/releases/2013/x1935-dieselboy.json",
+        "data/releases/2013/x1936-acura-nsx.json"
+    ]
+}

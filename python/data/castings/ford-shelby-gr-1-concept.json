@@ -1,0 +1,40 @@
+{
+    "casting_id": "ford-shelby-gr-1-concept",
+    "name": "Ford Shelby GR-1 Concept",
+    "description": {
+        "en-us": "Ford Shelby GR-1 Concept Debut series 2005 First Editions: Realistix Produced 2005 - 2016 Designer Phil Riehlman Number G7929",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g7929-ford-shelby-gr-1-concept.json",
+        "data/releases/2005/g7929-ford-shelby-gr-1-concept-v2.json",
+        "data/releases/2005/g7929-ford-shelby-gr-1-concept-v3.json",
+        "data/releases/2005/g7929-ford-shelby-gr-1-concept-v4.json",
+        "data/releases/2005/g7929-ford-shelby-gr-1-concept-v5.json",
+        "data/releases/2005/g7929-ford-shelby-gr-1-concept-v6.json",
+        "data/releases/2006/j8033-ford-shelby-gr-1-concept.json",
+        "data/releases/2006/j8033-ford-shelby-gr-1-concept-v2.json",
+        "data/releases/2007/k6180-ford-shelby-gr-1-concept.json",
+        "data/releases/2008/m6951-ford-shelby-gr-1-concept.json",
+        "data/releases/2009/n8998-ford-shelby-gr-1-concept.json",
+        "data/releases/2009/n9032-ford-shelby-gr-1-concept.json",
+        "data/releases/2009/n9822-ford-shelby-gr-1-concept.json",
+        "data/releases/2010/r8505-ford-shelby-gr-1-concept.json",
+        "data/releases/2010/t4436-ford-shelby-gr-1-concept.json",
+        "data/releases/2010/v4106-ford-shelby-gr-1-concept.json",
+        "data/releases/2010/v1439-ford-shelby-gr-1-concept.json",
+        "data/releases/2011/5pack-t8632-ford-shelby-gr-1-concept.json",
+        "data/releases/2012/v5349-ford-shelby-gr-1-concept.json",
+        "data/releases/2012/w4620-ford-shelby-gr-1-concept.json",
+        "data/releases/2013/y2117-ford-shelby-gr-1-concept.json",
+        "data/releases/2015/cfl17-ford-shelby-gr-1-concept.json",
+        "data/releases/2015/cfj32-ford-shelby-gr-1-concept.json",
+        "data/releases/2015/cfk05-ford-shelby-gr-1-concept.json",
+        "data/releases/2016/dtn28-ford-shelby-gr-1-concept.json",
+        "data/releases/2016/dpn13-ford-shelby-gr-1-concept.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Ford"
+}

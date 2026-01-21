@@ -1,0 +1,24 @@
+{
+    "release_id": "bhr25-2009-ford-f-150-2014",
+    "toy_number": "BHR25",
+    "casting_id": "2009-ford-f-150",
+    "year": 2014,
+    "series_id": "color-shifters",
+    "series_index": 11,
+    "specs": {
+        "color": "Yellow & Orange",
+        "tampo": "F-150 & flames on the sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): G05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Ford_F-150-2014_Color_Shifters_Warm.jpg/revision/latest/scale-to-width-down/75?cb=20140412132846"
+    }
+}

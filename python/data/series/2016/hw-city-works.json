@@ -2,13 +2,22 @@
     "series_id": "hw-city-works",
     "year": 2016,
     "name": "HW City Works",
-    "total_releases": 6,
+    "total_releases": 15,
     "max_index": 8,
     "releases": [
+        "data/releases/2016/dhp23-time-attaxi.json",
         "data/releases/2016/dhp24-crate-racer.json",
+        "data/releases/2016/dhp94-loopster.json",
         "data/releases/2016/dhr30-67-austin-mini-van.json",
+        "data/releases/2016/dhr66-speed-dozer.json",
+        "data/releases/2016/dhr67-fast-gassin.json",
+        "data/releases/2016/dhr68-repo-duty.json",
+        "data/releases/2016/dhr70-the-haulinator.json",
         "data/releases/2016/dhr71-chill-mill.json",
+        "data/releases/2016/dht76-street-cleaver.json",
         "data/releases/2016/dhw56-chill-mill.json",
+        "data/releases/2016/dhw98-speed-dozer.json",
+        "data/releases/2016/dhw99-fast-gassin.json",
         "data/releases/2016/dhx00-crate-racer.json",
         "data/releases/2016/dhx53-67-austin-mini-van.json"
     ]

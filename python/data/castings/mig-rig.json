@@ -1,0 +1,26 @@
+{
+    "casting_id": "mig-rig",
+    "name": "Mig Rig",
+    "description": {
+        "en-us": "Mig Rig Debut series HW Racing: HW Race Team Produced 2013 - Present Designer Larry Wood Number X1661",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1661-mig-rig.json",
+        "data/releases/2013/x1937-mig-rig.json",
+        "data/releases/2014/bdr57-mig-rig.json",
+        "data/releases/2015/cfh33-mig-rig.json",
+        "data/releases/2015/cfl37-mig-rig.json",
+        "data/releases/2015/cfn86-mig-rig.json",
+        "data/releases/2016/dhp66-mig-rig.json",
+        "data/releases/2017/dwc48-mig-rig.json",
+        "data/releases/2018/fjx04-mig-rig.json",
+        "data/releases/2020/gkc21-mig-rig.json",
+        "data/releases/2021/gyp14-mig-rig.json",
+        "data/releases/2022/hfd06-mig-rig.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

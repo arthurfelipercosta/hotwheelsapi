@@ -1,0 +1,24 @@
+{
+    "release_id": "dhp97-70-ford-escort-rs1600-2016",
+    "toy_number": "DHP97",
+    "casting_id": "70-ford-escort-rs1600",
+    "year": 2016,
+    "series_id": "hw-speed-graphics",
+    "series_index": 10,
+    "specs": {
+        "color": "Red",
+        "tampo": "Green & White stripes on hood & sides, w/ '12' & Castrol logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "White 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H49, H50, H51, H52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/70_Ford_Escort_RS1600_-_16_HW_Speed_Graphics_600pxDM.jpg/revision/latest/scale-to-width-down/75?cb=20161226071658"
+    }
+}

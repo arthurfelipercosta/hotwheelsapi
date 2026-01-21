@@ -1,0 +1,24 @@
+{
+    "release_id": "dvc25-12-ford-fiesta-2017",
+    "toy_number": "DVC25",
+    "casting_id": "12-ford-fiesta",
+    "year": 2017,
+    "series_id": "hw-race-team",
+    "series_index": 4,
+    "specs": {
+        "color": "Aqua",
+        "tampo": "HW logo on sides & front windshield",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Yellow & Grey",
+        "wheel_type": {
+            "0": "Grey 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K19, K22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/DVC25.jpg/revision/latest/scale-to-width-down/75?cb=20170805063634"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "ghd33-custom-01-acura-integra-gsr-2020",
+    "toy_number": "GHD33",
+    "casting_id": "custom-01-acura-integra-gsr",
+    "year": 2020,
+    "series_id": "speed-blur",
+    "series_index": 2,
+    "specs": {
+        "color": "Light Purple",
+        "tampo": "\"Speed Blur\" on hood and sides, shapes livery on sides and roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Pink MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M40, M45, M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Custom_%2701_Acura_Integra.jpg/revision/latest/scale-to-width-down/75?cb=20191103150719"
+    }
+}

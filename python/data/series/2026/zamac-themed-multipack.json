@@ -1,0 +1,13 @@
+{
+    "series_id": "zamac-themed-multipack",
+    "year": 2026,
+    "name": "ZAMAC Themed Multipack",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2026/jlb26-10-ford-shelby-gt500-super-snake.json",
+        "data/releases/2026/jlb26-69-corvette.json",
+        "data/releases/2026/jlb26-toyota-2000gt.json",
+        "data/releases/2026/jlb26-volkswagen-k-fer-racer.json"
+    ]
+}

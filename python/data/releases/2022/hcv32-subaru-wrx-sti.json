@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv32-subaru-wrx-sti-2022",
+    "toy_number": "HCV32",
+    "casting_id": "subaru-wrx-sti",
+    "year": 2022,
+    "series_id": "hw-hatchbacks",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Blue & Pink striping along hood & sides, Pink 'HW' logo on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s):  P41, P43, P44, P46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/HCV32-01.JPG/revision/latest/scale-to-width-down/75?cb=20211226030148"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "truckin-transporters",
+    "year": 2007,
+    "name": "Truckin' Transporters",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2007/j3545-twin-mill.json",
+        "data/releases/2007/j3546-propper-chopper.json",
+        "data/releases/2007/l3191-enforcer.json"
+    ]
+}

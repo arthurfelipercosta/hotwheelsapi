@@ -1,0 +1,25 @@
+{
+    "casting_id": "clear-speeder",
+    "name": "Clear Speeder",
+    "description": {
+        "en-us": "Clear Speeder Debut series HW City: Future Fleet Produced 2014 - Present Designer Leeway Chang Number BDC84",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc84-clear-speeder.json",
+        "data/releases/2015/cfk82-clear-speeder.json",
+        "data/releases/2015/cfk82-clear-speeder-v2.json",
+        "data/releases/2015/cfm10-clear-speeder.json",
+        "data/releases/2016/dhp45-clear-speeder.json",
+        "data/releases/2016/dht93-clear-speeder.json",
+        "data/releases/2017/dvf96-clear-speeder.json",
+        "data/releases/2017/dhp45-clear-speeder.json",
+        "data/releases/2018/fjw97-clear-speeder.json",
+        "data/releases/2021/x6999-clear-speeder.json",
+        "data/releases/2022/hfk93-clear-speeder.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

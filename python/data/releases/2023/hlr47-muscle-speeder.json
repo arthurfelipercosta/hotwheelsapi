@@ -1,0 +1,24 @@
+{
+    "release_id": "hlr47-muscle-speeder-2023",
+    "toy_number": "HLR47",
+    "casting_id": "muscle-speeder",
+    "year": 2023,
+    "series_id": "mystery-models-series-3",
+    "series_index": 8,
+    "specs": {
+        "color": "White",
+        "tampo": "Gray chevrons, black stripes, brown mud splatters on side panels",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy dark red tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/Muscle_Speeder.jpg/revision/latest/scale-to-width-down/75?cb=20231109112649"
+    }
+}

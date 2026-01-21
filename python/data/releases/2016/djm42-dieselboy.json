@@ -1,0 +1,25 @@
+{
+    "release_id": "djm42-dieselboy-2016",
+    "toy_number": "DJM42",
+    "casting_id": "dieselboy",
+    "year": 2016,
+    "series_id": "happy-halloween",
+    "series_index": 4,
+    "specs": {
+        "color": "Matte Dark Khaki",
+        "tampo": "Beige & Black mummy deco across top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Brown tire",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/DieselboyDJM42.jpg/revision/latest/scale-to-width-down/75?cb=20160911144156"
+    }
+}

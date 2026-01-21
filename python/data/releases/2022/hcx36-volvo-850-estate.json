@@ -1,0 +1,24 @@
+{
+    "release_id": "hcx36-volvo-850-estate-2022",
+    "toy_number": "HCX36",
+    "casting_id": "volvo-850-estate",
+    "year": 2022,
+    "series_id": "hw-wagons",
+    "series_index": 2,
+    "specs": {
+        "color": "Stone Black",
+        "tampo": "Detailed headlights & taillights, \"Volvo\" & \"850\" on trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey PR5"
+        }
+    },
+    "country": "",
+    "notes": "Base code(s): R20, R22, R23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Volvo_850_Estate_%281b%29_-_HotWheels.jpg/revision/latest/scale-to-width-down/75?cb=20231119121936"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "casting_id": "69-copo-corvette",
+    "name": "'69 COPO Corvette",
+    "description": {
+        "en-us": "'69 COPO Corvette Debut series 2011 New Models Produced 2011 - Present Designer Phil Riehlman Number T9674",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9674-69-copo-corvette.json",
+        "data/releases/2011/t9931-69-copo-corvette.json",
+        "data/releases/2011/t9981-69-copo-corvette.json",
+        "data/releases/2012/w4245-69-copo-corvette.json",
+        "data/releases/2012/54886-69-copo-corvette.json",
+        "data/releases/2012/w8337-69-copo-corvette.json",
+        "data/releases/2013/x8194-69-copo-corvette.json",
+        "data/releases/2014/x6999-69-copo-corvette.json",
+        "data/releases/2016/djd22-69-copo-corvette.json",
+        "data/releases/2016/x6999-69-copo-corvette.json",
+        "data/releases/2017/x6999-69-copo-corvette.json",
+        "data/releases/2018/flc27-69-copo-corvette.json",
+        "data/releases/2021/gtn35-69-copo-corvette.json",
+        "data/releases/2022/hcv10-69-copo-corvette.json",
+        "data/releases/2022/hcy28-69-copo-corvette.json",
+        "data/releases/2022/hpm54-69-copo-corvette.json",
+        "data/releases/2024/hpv78-69-copo-corvette.json",
+        "data/releases/2024/x6999-69-copo-corvette.json",
+        "data/releases/2024/hrr80-69-copo-corvette.json",
+        "data/releases/2024/hwf31-69-copo-corvette.json",
+        "data/releases/2025/jby67-69-copo-corvette.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

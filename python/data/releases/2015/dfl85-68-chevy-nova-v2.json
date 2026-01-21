@@ -1,0 +1,24 @@
+{
+    "release_id": "dfl85-68-chevy-nova-2015",
+    "toy_number": "DFL85",
+    "casting_id": "68-chevy-nova",
+    "year": 2015,
+    "series_id": "camouflage",
+    "series_index": 4,
+    "specs": {
+        "color": "Matte Dark Red",
+        "tampo": "68 with Camouflage Graphics on the Sides & Hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H26, H28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/38_1968_Nova.png/revision/latest/scale-to-width-down/75?cb=20210704124254"
+    }
+}

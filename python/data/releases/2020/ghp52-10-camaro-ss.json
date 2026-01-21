@@ -1,0 +1,24 @@
+{
+    "release_id": "ghp52-10-camaro-ss-2020",
+    "toy_number": "GHP52",
+    "casting_id": "10-camaro-ss",
+    "year": 2020,
+    "series_id": "car-meet-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "Car Meet Security; gold & red stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Silver",
+        "wheel_type": {
+            "0": "Gold Chrome rim MC5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): M40, M42, M44, N08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/HW_5PACK_CARMEET_CAMAROSS.jpg/revision/latest/scale-to-width-down/75?cb=20191217125543"
+    }
+}

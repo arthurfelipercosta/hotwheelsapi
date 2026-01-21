@@ -1,0 +1,24 @@
+{
+    "release_id": "djd16-69-ford-mustang-2016",
+    "toy_number": "DJD16",
+    "casting_id": "69-ford-mustang",
+    "year": 2016,
+    "series_id": "muscle-mania-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic gold",
+        "tampo": "Black and white stripes on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H41, H42, H52, J04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/1969_FORD_Mustang-2.jpg/revision/latest/scale-to-width-down/75?cb=20160502144142"
+    }
+}

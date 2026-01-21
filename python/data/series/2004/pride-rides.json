@@ -2,9 +2,10 @@
     "series_id": "pride-rides",
     "year": 2004,
     "name": "Pride Rides",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 1,
     "releases": [
-        "data/releases/2004/b3758-67-mustang.json"
+        "data/releases/2004/b3758-67-mustang.json",
+        "data/releases/2004/b3782-classic-cobra.json"
     ]
 }

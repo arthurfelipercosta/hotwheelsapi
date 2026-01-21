@@ -1,0 +1,31 @@
+{
+    "casting_id": "aston-martin-dbs",
+    "name": "Aston Martin DBS",
+    "description": {
+        "en-us": "Aston Martin DBS Debut series All Stars / 2010 HW Premiere Produced 2010 - Present Designer John Violette Number R6459",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r7549-aston-martin-dbs.json",
+        "data/releases/2010/r6459-aston-martin-dbs.json",
+        "data/releases/2012/v5399-aston-martin-dbs.json",
+        "data/releases/2012/x6999-aston-martin-dbs.json",
+        "data/releases/2012/v5590-aston-martin-dbs.json",
+        "data/releases/2012/v5590-aston-martin-dbs-v2.json",
+        "data/releases/2013/x1781-aston-martin-dbs.json",
+        "data/releases/2013/x1952-aston-martin-dbs.json",
+        "data/releases/2014/bdv05-aston-martin-dbs.json",
+        "data/releases/2014/bdp45-aston-martin-dbs.json",
+        "data/releases/2015/cfj26-aston-martin-dbs.json",
+        "data/releases/2015/cgb78-aston-martin-dbs.json",
+        "data/releases/2016/dhr21-aston-martin-dbs.json",
+        "data/releases/2017/dvf95-aston-martin-dbs.json",
+        "data/releases/2018/fkt62-aston-martin-dbs.json",
+        "data/releases/2019/fyc35-aston-martin-dbs.json",
+        "data/releases/2023/hkc21-aston-martin-dbs.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Aston Martin"
+}

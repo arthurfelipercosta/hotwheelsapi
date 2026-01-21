@@ -1,0 +1,25 @@
+{
+    "release_id": "dhw64-twinduction-2016",
+    "toy_number": "DHW64",
+    "casting_id": "twinduction",
+    "year": 2016,
+    "series_id": "hw-glow-wheels",
+    "series_index": 1,
+    "specs": {
+        "color": "Black Metalflake",
+        "tampo": "Green & White designs on tops & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black",
+            "1": "Glow-in-the-Dark PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H48, J02, J25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/TwinductionDHW64.jpg/revision/latest/scale-to-width-down/75?cb=20160128040638"
+    }
+}

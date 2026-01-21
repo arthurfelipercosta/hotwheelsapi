@@ -1,0 +1,25 @@
+{
+    "release_id": "gkc53-hypertruck-2020",
+    "toy_number": "GKC53",
+    "casting_id": "hypertruck",
+    "year": 2020,
+    "series_id": "track-builder-unlimited-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Pastel Yellow",
+        "tampo": "Black & White Checker Stripe, Light Blue & Orange Stripe Design, HW logo on side.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Light Blue",
+        "wheel_type": {
+            "0": "Orange Tire",
+            "1": "White AeroDisc"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): M45, N03, N07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/2020TrackBuilderUltimate5PackHypertruck.jpg/revision/latest/scale-to-width-down/75?cb=20240405035248"
+    }
+}

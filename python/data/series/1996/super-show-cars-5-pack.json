@@ -1,0 +1,11 @@
+{
+    "series_id": "super-show-cars-5-pack",
+    "year": 1996,
+    "name": "Super Show Cars 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1996/12865-jaguar-xj220.json",
+        "data/releases/1996/13502-dodge-viper-rt-10.json"
+    ]
+}

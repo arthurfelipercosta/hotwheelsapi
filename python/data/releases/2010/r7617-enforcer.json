@@ -1,0 +1,27 @@
+{
+    "release_id": "r7617-enforcer-2010",
+    "toy_number": "R7617",
+    "casting_id": "enforcer",
+    "year": 2010,
+    "series_id": "race-world-underground",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Olive Green",
+        "tampo": "Yellow, Dark Green & Silver tampos, 'Creature Catcher' & 'Enforcer' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Dark Tint",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "186",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C16, C18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Enforcer_Underground.JPG/revision/latest/scale-to-width-down/75?cb=20100922090354"
+    }
+}

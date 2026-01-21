@@ -1,0 +1,24 @@
+{
+    "release_id": "x8220-jeep-cj-7-2013",
+    "toy_number": "X8220",
+    "casting_id": "jeep-cj-7",
+    "year": 2013,
+    "series_id": "flying-customs",
+    "series_index": null,
+    "specs": {
+        "color": "Copper",
+        "tampo": "Golden eagle on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gold",
+        "wheel_type": {
+            "0": "CT"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/JeepCJ-7HotOnes.jpg/revision/latest/scale-to-width-down/75?cb=20200808122143"
+    }
+}

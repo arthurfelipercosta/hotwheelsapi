@@ -1,0 +1,25 @@
+{
+    "release_id": "22318-99-ford-mustang-1999",
+    "toy_number": "22318",
+    "casting_id": "99-ford-mustang",
+    "year": 1999,
+    "series_id": "hot-wheels-race-team",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Blue",
+        "tampo": "Hot Wheels Race Team Deco. #1 on roof & \"Mattel Wheels\" on Hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "Clear"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Mustang 1999 Only Sold in Mexico.",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/Race_Campeanato_McCormack_99_Mustang_Already_1.JPG/revision/latest/scale-to-width-down/75?cb=20220526182834"
+    }
+}

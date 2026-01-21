@@ -1,0 +1,24 @@
+{
+    "release_id": "l9926-acura-nsx-2008",
+    "toy_number": "L9926",
+    "casting_id": "acura-nsx",
+    "year": 2008,
+    "series_id": "2008-new-models",
+    "series_index": 11,
+    "specs": {
+        "color": "Metalflake Yellow",
+        "tampo": "Black and white graphics, Acura hood badge, “Acura” on windscreen, “22” on doors, “K Cao” on driver door, M Cheung on far door",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Grey)",
+        "interior_color": "Dark Grey",
+        "wheel_type": {
+            "0": "Chrome 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): A22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Acura_NSX_%28L9926%29_%28grey_int%29.jpg/revision/latest/scale-to-width-down/75?cb=20180311233632"
+    }
+}

@@ -2,10 +2,16 @@
     "series_id": "hw-screen-time",
     "year": 2022,
     "name": "HW Screen Time",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 2,
     "releases": [
+        "data/releases/2022/hct14-armadillo.json",
+        "data/releases/2022/hct54-x-jet.json",
         "data/releases/2022/hct56-disney-steamboat.json",
-        "data/releases/2022/hcv00-minecart.json"
+        "data/releases/2022/hcv00-minecart.json",
+        "data/releases/2022/hcv39-k-i-t-t-super-pursuit-mode.json",
+        "data/releases/2022/hcv53-u-s-s-enterprise-ncc-1701.json",
+        "data/releases/2022/hcv54-back-to-the-future-time-machine.json",
+        "data/releases/2022/hcv69-aston-martin-valhalla-concept.json"
     ]
 }

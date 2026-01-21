@@ -1,0 +1,24 @@
+{
+    "release_id": "grp64-circle-tracker-2021",
+    "toy_number": "GRP64",
+    "casting_id": "circle-tracker",
+    "year": 2021,
+    "series_id": "tokyo-2020-olympics",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Pink",
+        "tampo": "Red, Pink, Yellow and White \"Tokyo 2020 Olympics\" on hood and sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/Circle_Tracker_Tokyo_2020_Olympics_F.JPEG/revision/latest/scale-to-width-down/75?cb=20220116134038"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "sweet-rides",
+    "year": 2014,
+    "name": "Sweet Rides",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2014/bdl52-07-chevy-tahoe.json",
+        "data/releases/2014/bdl55-fire-eater.json",
+        "data/releases/2014/bdl57-68-el-camino.json"
+    ]
+}

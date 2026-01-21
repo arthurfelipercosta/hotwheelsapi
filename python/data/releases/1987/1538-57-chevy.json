@@ -1,0 +1,24 @@
+{
+    "release_id": "1538-57-chevy-1987",
+    "toy_number": "1538",
+    "casting_id": "57-chevy",
+    "year": 1987,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Black & White lines, Yellow panel,  \"57 Chevy\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Blue tint",
+        "wheel_type": {
+            "0": "GHO"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/57_Chevy_BluGWw.JPG/revision/latest/scale-to-width-down/75?cb=20090309022231"
+    }
+}

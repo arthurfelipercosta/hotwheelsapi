@@ -1,0 +1,23 @@
+{
+    "casting_id": "lamborghini-estoque",
+    "name": "Lamborghini Estoque",
+    "description": {
+        "en-us": "Lamborghini Estoque Debut series 2011 New Models Produced 2011 - Present Designer Phil Riehlman Number T9718",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9718-lamborghini-estoque.json",
+        "data/releases/2011/v5555-lamborghini-estoque.json",
+        "data/releases/2012/x7060-lamborghini-estoque.json",
+        "data/releases/2012/v5431-lamborghini-estoque.json",
+        "data/releases/2012/w4452-lamborghini-estoque.json",
+        "data/releases/2014/bfd71-lamborghini-estoque.json",
+        "data/releases/2014/bff85-lamborghini-estoque.json",
+        "data/releases/2017/dwf27-lamborghini-estoque.json",
+        "data/releases/2022/hdh13-lamborghini-estoque.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Lamborghini"
+}

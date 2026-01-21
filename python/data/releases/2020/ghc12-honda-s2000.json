@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc12-honda-s2000-2020",
+    "toy_number": "GHC12",
+    "casting_id": "honda-s2000",
+    "year": 2020,
+    "series_id": "honda",
+    "series_index": 4,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Detailed headlights. Black & White stripes on sides, 'GReddy' logo + HW logo on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Playable in Unleashed Base code(s): N02, N07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/GHC12-loose.jpg/revision/latest/scale-to-width-down/75?cb=20200402114702"
+    }
+}

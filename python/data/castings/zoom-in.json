@@ -1,0 +1,18 @@
+{
+    "casting_id": "zoom-in",
+    "name": "Zoom In",
+    "description": {
+        "en-us": "Zoom In Debut series Experimotors Produced 2018 – 2019 Designer Dmitriy Shakhmatov Number FJV98",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv98-zoom-in.json",
+        "data/releases/2018/fjy82-zoom-in.json",
+        "data/releases/2019/fyc07-zoom-in.json",
+        "data/releases/2019/fyd83-zoom-in.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

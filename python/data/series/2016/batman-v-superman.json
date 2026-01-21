@@ -1,0 +1,15 @@
+{
+    "series_id": "batman-v-superman",
+    "year": 2016,
+    "name": "Batman v Superman",
+    "total_releases": 6,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2016/djl48-twin-mill.json",
+        "data/releases/2016/djl50-power-pistons.json",
+        "data/releases/2016/djl52-mad-manga.json",
+        "data/releases/2016/djl53-covelight.json",
+        "data/releases/2016/djl54-muscle-tone.json",
+        "data/releases/2016/djl55-rockster.json"
+    ]
+}

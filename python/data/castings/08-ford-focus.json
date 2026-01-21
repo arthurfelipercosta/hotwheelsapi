@@ -1,0 +1,27 @@
+{
+    "casting_id": "08-ford-focus",
+    "name": "'08 Ford Focus",
+    "description": {
+        "en-us": "'08 Ford Focus Debut series 2008 New Models Produced 2008 - Present Designer Mark Jones Number L9946",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2008/l9946-08-ford-focus-v4.json",
+        "data/releases/2008/l9946-08-ford-focus-v5.json",
+        "data/releases/2008/l9946-08-ford-focus-v6.json",
+        "data/releases/2009/p2506-08-ford-focus-v2.json",
+        "data/releases/2010/v1409-08-ford-focus-v2.json",
+        "data/releases/2011/v2053-08-ford-focus-v2.json",
+        "data/releases/2013/x1726-08-ford-focus-v2.json",
+        "data/releases/2013/x1909-08-ford-focus-v2.json",
+        "data/releases/2015/cdt17-08-ford-focus-v2.json",
+        "data/releases/2018/x6999-08-ford-focus-v2.json",
+        "data/releases/2021/grp18-08-ford-focus-v2.json",
+        "data/releases/2023/hkh51-08-ford-focus-v2.json",
+        "data/releases/2025/jby80-08-ford-focus-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2008,
+    "manufacturer": "Ford"
+}

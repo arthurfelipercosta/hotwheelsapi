@@ -1,0 +1,25 @@
+{
+    "release_id": "k6136-69-ford-mustang-2007",
+    "toy_number": "K6136",
+    "casting_id": "69-ford-mustang",
+    "year": 2007,
+    "series_id": "2007-new-models",
+    "series_index": 4,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red Stripe on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "OH5",
+            "1": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/69_mustang_AGENTAIR_2.jpg/revision/latest/scale-to-width-down/75?cb=20081020052146"
+    }
+}

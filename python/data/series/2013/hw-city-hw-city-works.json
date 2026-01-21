@@ -1,0 +1,23 @@
+{
+    "series_id": "hw-city-hw-city-works",
+    "year": 2013,
+    "name": "HW City: HW City Works",
+    "total_releases": 14,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/bjf58-speed-dozer.json",
+        "data/releases/2013/x1646-repo-duty.json",
+        "data/releases/2013/x1693-bread-box.json",
+        "data/releases/2013/x1694-propper-chopper.json",
+        "data/releases/2013/x1696-cat-wheel-loader.json",
+        "data/releases/2013/x1697-ford-f-150.json",
+        "data/releases/2013/x1698-back-slider.json",
+        "data/releases/2013/x1699-fast-gassin.json",
+        "data/releases/2013/x1700-armored-truck.json",
+        "data/releases/2013/x1701-street-cleaver.json",
+        "data/releases/2013/x1864-repo-duty.json",
+        "data/releases/2013/x1876-cat-wheel-loader.json",
+        "data/releases/2013/x1884-ford-f-150.json",
+        "data/releases/2013/x1885-back-slider.json"
+    ]
+}

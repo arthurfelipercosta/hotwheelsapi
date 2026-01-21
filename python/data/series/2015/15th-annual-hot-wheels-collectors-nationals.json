@@ -1,0 +1,11 @@
+{
+    "series_id": "15th-annual-hot-wheels-collectors-nationals",
+    "year": 2015,
+    "name": "15th Annual Hot Wheels Collectors Nationals",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2015/dhc06-69-ford-mustang-boss-302.json",
+        "data/releases/2015/dhc09-76-greenwood-corvette.json"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "trick-tracks-5-pack",
+    "year": 2010,
+    "name": "Trick Tracks 5-Pack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2010/r0963-battle-spec.json",
+        "data/releases/2010/r0963-rd-05.json",
+        "data/releases/2010/r0963-spector.json"
+    ]
+}

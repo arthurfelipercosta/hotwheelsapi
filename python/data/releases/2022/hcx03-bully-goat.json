@@ -1,0 +1,25 @@
+{
+    "release_id": "hcx03-bully-goat-2022",
+    "toy_number": "HCX03",
+    "casting_id": "bully-goat",
+    "year": 2022,
+    "series_id": "hw-art-cars",
+    "series_index": 1,
+    "specs": {
+        "color": "Green",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Purple)",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Grey Tire",
+            "1": "Purple TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R08, R10, R11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/Bullygoatgraffiti.jpg/revision/latest/scale-to-width-down/75?cb=20250621131728"
+    }
+}

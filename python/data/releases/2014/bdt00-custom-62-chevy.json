@@ -1,0 +1,24 @@
+{
+    "release_id": "bdt00-custom-62-chevy-2014",
+    "toy_number": "BDT00",
+    "casting_id": "custom-62-chevy",
+    "year": 2014,
+    "series_id": "pop-culture-general-mills",
+    "series_index": null,
+    "specs": {
+        "color": "Lime Green & Red w/ White roof",
+        "tampo": "TRIX deco on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "White Wall RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Green surfboard Base code(s): G28, G30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/HW-General_Mills-Custom_%2762_Chevy-Trix..JPG/revision/latest/scale-to-width-down/75?cb=20150116022443"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "casting_id": "tooned-volkswagen-golf-mk1",
+    "name": "Tooned Volkswagen Golf Mk1",
+    "description": {
+        "en-us": "Tooned Volkswagen Golf Mk1 Debut series Tooned Produced 2022 – Present Designer Ryu Asada Number HCT27",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct27-tooned-volkswagen-golf-mk1.json",
+        "data/releases/2022/hcw71-tooned-volkswagen-golf-mk1.json",
+        "data/releases/2022/hhk03-tooned-volkswagen-golf-mk1.json",
+        "data/releases/2023/hkk96-tooned-volkswagen-golf-mk1.json",
+        "data/releases/2024/hvx07-tooned-volkswagen-golf-mk1.json",
+        "data/releases/2025/jcb62-tooned-volkswagen-golf-mk1.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Volkswagen"
+}

@@ -1,0 +1,25 @@
+{
+    "casting_id": "09-corvette-stingray-concept",
+    "name": "'09 Corvette Stingray Concept",
+    "description": {
+        "en-us": "'09 Corvette Stingray Concept Debut series 2010 New Models Produced 2010 - 2015 Designer Greg Padginton Number R0936",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0936-09-corvette-stingray-concept.json",
+        "data/releases/2010/r0936-09-corvette-stingray-concept-v2.json",
+        "data/releases/2010/r0936-09-corvette-stingray-concept-v3.json",
+        "data/releases/2011/t8279-09-corvette-stingray-concept.json",
+        "data/releases/2011/t8325-09-corvette-stingray-concept.json",
+        "data/releases/2011/t9855-09-corvette-stingray-concept.json",
+        "data/releases/2012/v5500-09-corvette-stingray-concept.json",
+        "data/releases/2012/w4606-09-corvette-stingray-concept.json",
+        "data/releases/2013/x1823-09-corvette-stingray-concept.json",
+        "data/releases/2013/x1977-09-corvette-stingray-concept.json",
+        "data/releases/2015/cjx49-09-corvette-stingray-concept.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

@@ -2,9 +2,10 @@
     "series_id": "scrapheads",
     "year": 2004,
     "name": "Scrapheads",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 3,
     "releases": [
-        "data/releases/2004/b3876-humvee.json"
+        "data/releases/2004/b3876-humvee.json",
+        "data/releases/2004/b3877-enforcer.json"
     ]
 }

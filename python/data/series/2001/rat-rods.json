@@ -1,0 +1,12 @@
+{
+    "series_id": "rat-rods",
+    "year": 2001,
+    "name": "Rat Rods",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2001/50094-phaeton.json",
+        "data/releases/2001/50095-shoe-box.json",
+        "data/releases/2001/50095-shoe-box.json"
+    ]
+}

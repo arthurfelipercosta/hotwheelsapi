@@ -1,0 +1,23 @@
+{
+    "casting_id": "64-chevy-chevelle-ss",
+    "name": "'64 Chevy Chevelle SS",
+    "description": {
+        "en-us": "'64 Chevy Chevelle SS Debut series 2012 New Models Produced 2012 - Present Designer Brendon Vetuskey Number V5290\\n\\nThe Chevrolet Chevelle was a mid-sized car produced by Chevrolet from 1963 to 1977. Produced on GM's A-body platform, the Chevelle was one of Chevrolet's most successful marques. The car's name is speculated to be a combination between \"gazelle\" and \"Chevrolet\", with Chevrolet seemingly positioning this car as a smaller version of the Impala . The car was introduced in August 1963 by Chevrolet CEO Bunkie Knudsen as the Chevrolet Chevelle Malibu , for it was essentially a performance version of the Malibu.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5290-64-chevy-chevelle-ss-v2.json",
+        "data/releases/2013/x6999-64-chevy-chevelle-ss-v2.json",
+        "data/releases/2014/bff10-64-chevy-chevelle-ss-v2.json",
+        "data/releases/2016/x6999-64-chevy-chevelle-ss-v2.json",
+        "data/releases/2019/fyd41-64-chevy-chevelle-ss-v2.json",
+        "data/releases/2020/ghd15-64-chevy-chevelle-ss-v2.json",
+        "data/releases/2021/grr36-64-chevy-chevelle-ss-v2.json",
+        "data/releases/2023/hlh93-64-chevy-chevelle-ss-v2.json",
+        "data/releases/2024/htc58-64-chevy-chevelle-ss-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Chevy"
+}

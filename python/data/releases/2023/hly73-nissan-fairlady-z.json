@@ -1,0 +1,25 @@
+{
+    "release_id": "hly73-nissan-fairlady-z-2023",
+    "toy_number": "HLY73",
+    "casting_id": "nissan-fairlady-z",
+    "year": 2023,
+    "series_id": "nissan-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Orange",
+        "tampo": "Black graphics on hood, sides & roof, \"Nissan\", \"80\" on roof & doors, HW Logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Silver rim",
+            "1": "Black 5SP"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): S07, S08, S12,",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/FairladyZ_Nissan5pk.jpg/revision/latest/scale-to-width-down/75?cb=20230524032429"
+    }
+}

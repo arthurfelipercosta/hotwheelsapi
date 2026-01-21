@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-racing-helicopter",
+    "year": 2000,
+    "name": "Hot Wheels Racing: Helicopter",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2000/27723-propper-chopper.json",
+        "data/releases/2000/27724-propper-chopper.json",
+        "data/releases/2000/27725-propper-chopper.json",
+        "data/releases/2000/27726-propper-chopper.json"
+    ]
+}

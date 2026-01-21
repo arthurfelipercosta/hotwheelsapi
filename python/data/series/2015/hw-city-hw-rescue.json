@@ -2,10 +2,25 @@
     "series_id": "hw-city-hw-rescue",
     "year": 2015,
     "name": "HW City: HW Rescue",
-    "total_releases": 2,
+    "total_releases": 17,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfh66-rescue-duty.json",
+        "data/releases/2015/cfh67-combat-medic.json",
+        "data/releases/2015/cfh68-canyon-carver.json",
+        "data/releases/2015/cfh69-ford-mustang-gt-concept.json",
+        "data/releases/2015/cfh70-fiat-500.json",
         "data/releases/2015/cfh71-5-alarm.json",
-        "data/releases/2015/cfj69-5-alarm.json"
+        "data/releases/2015/cfh72-propper-chopper.json",
+        "data/releases/2015/cfh73-h-2-go.json",
+        "data/releases/2015/cfh74-speed-trap.json",
+        "data/releases/2015/cfh75-super-van.json",
+        "data/releases/2015/cfj28-super-van.json",
+        "data/releases/2015/cfj29-canyon-carver.json",
+        "data/releases/2015/cfj69-5-alarm.json",
+        "data/releases/2015/cfj81-super-van.json",
+        "data/releases/2015/cfl44-ford-mustang-gt-concept.json",
+        "data/releases/2015/cfl51-rescue-duty.json",
+        "data/releases/2015/cfl84-propper-chopper.json"
     ]
 }

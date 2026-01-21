@@ -2,13 +2,16 @@
     "series_id": "hw-wagons",
     "year": 2022,
     "name": "HW Wagons",
-    "total_releases": 7,
+    "total_releases": 10,
     "max_index": 3,
     "releases": [
+        "data/releases/2022/hct17-nissan-maxima-drift-car.json",
         "data/releases/2022/hct69-94-audi-avant-rs2.json",
         "data/releases/2022/hcv19-70-chevelle-ss-wagon.json",
         "data/releases/2022/hcv20-cruise-bruiser.json",
+        "data/releases/2022/hcv21-volvo-850-estate.json",
         "data/releases/2022/hcx23-70-chevelle-ss-wagon.json",
+        "data/releases/2022/hcx36-volvo-850-estate.json",
         "data/releases/2022/hcx72-cruise-bruiser.json",
         "data/releases/2022/hcy22-94-audi-avant-rs2.json",
         "data/releases/2022/hcy56-70-chevelle-ss-wagon.json"

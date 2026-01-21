@@ -2,12 +2,23 @@
     "series_id": "batman",
     "year": 2021,
     "name": "Batman",
-    "total_releases": 4,
-    "max_index": 2,
+    "total_releases": 15,
+    "max_index": 4,
     "releases": [
         "data/releases/2021/grp59-the-brave-and-the-bold-batmobile.json",
         "data/releases/2021/grp60-tv-series-batmobile.json",
+        "data/releases/2021/grp61-batmobile.json",
+        "data/releases/2021/grp62-1989-batmobile.json",
+        "data/releases/2021/grp63-batman-the-animated-series-batmobile.json",
         "data/releases/2021/grx23-batmobile.json",
-        "data/releases/2021/gtb53-batmobile.json"
+        "data/releases/2021/grx86-batman-arkham-knight-batmobile.json",
+        "data/releases/2021/grx87-batmobile.json",
+        "data/releases/2021/grx88-batplane.json",
+        "data/releases/2021/gtb53-batmobile.json",
+        "data/releases/2021/gtb54-batman-arkham-knight-batmobile.json",
+        "data/releases/2021/gtb55-batmobile.json",
+        "data/releases/2021/gtb56-batmobile.json",
+        "data/releases/2021/gtb57-batplane.json",
+        "data/releases/2021/gtc85-justice-league-batmobile.json"
     ]
 }

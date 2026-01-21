@@ -2,9 +2,23 @@
     "series_id": "ultra-hots",
     "year": 2023,
     "name": "Ultra Hots",
-    "total_releases": 1,
+    "total_releases": 15,
     "max_index": 2,
     "releases": [
-        "data/releases/2023/hlh86-1974-brazilian-dodge-charger.json"
+        "data/releases/2023/hlh82-68-mercury-cougar.json",
+        "data/releases/2023/hlh83-71-el-camino.json",
+        "data/releases/2023/hlh84-70-pontiac-firebird.json",
+        "data/releases/2023/hlh86-1974-brazilian-dodge-charger.json",
+        "data/releases/2023/hlh87-volkswagen-sp2.json",
+        "data/releases/2023/hlh88-honda-civic-si.json",
+        "data/releases/2023/hlh89-67-shelby-gt500.json",
+        "data/releases/2023/hlh90-73-ford-falcon-xb.json",
+        "data/releases/2023/hlh91-71-dodge-demon.json",
+        "data/releases/2023/hlh92-custom-69-volkswagen-squareback.json",
+        "data/releases/2023/hlh93-64-chevy-chevelle-ss.json",
+        "data/releases/2023/hlh94-68-plymouth-barracuda-formula-s.json",
+        "data/releases/2023/hlh95-71-plymouth-road-runner.json",
+        "data/releases/2023/hlh96-porsche-934-5.json",
+        "data/releases/2023/hlh97-nissan-fairlady-z.json"
     ]
 }

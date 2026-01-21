@@ -1,0 +1,24 @@
+{
+    "release_id": "r0220-audacious-2009",
+    "toy_number": "R0220",
+    "casting_id": "audacious",
+    "year": 2009,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "Forest Green (Cold) -> Lime Green (Hot)",
+        "tampo": "\"Highway Green Team\" on sides, \"HGT City Vehicle Number 9\" on hood, Small Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Y5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): B40, C50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/IMG_6818.jpg/revision/latest/scale-to-width-down/75?cb=20110510192826"
+    }
+}

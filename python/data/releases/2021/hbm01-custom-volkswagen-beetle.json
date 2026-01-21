@@ -1,0 +1,24 @@
+{
+    "release_id": "hbm01-custom-volkswagen-beetle-2021",
+    "toy_number": "HBM01",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2021,
+    "series_id": "mooneyes-volkswagen-car-culture-2-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "White, red & black flames & Mooneyes on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "DISH"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P32, P39, P40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/HBM01_-_Custom_Volkswagen_Beetle-1-2.jpg/revision/latest/scale-to-width-down/75?cb=20220106222426"
+    }
+}

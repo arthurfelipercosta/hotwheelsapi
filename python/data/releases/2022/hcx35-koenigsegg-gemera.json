@@ -1,0 +1,24 @@
+{
+    "release_id": "hcx35-koenigsegg-gemera-2022",
+    "toy_number": "HCX35",
+    "casting_id": "koenigsegg-gemera",
+    "year": 2022,
+    "series_id": "hw-turbo",
+    "series_index": 8,
+    "specs": {
+        "color": "Tang Orange",
+        "tampo": "Detailed headlights and taillights, black accents, Koenigsegg ghost logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Coral",
+        "wheel_type": {
+            "0": "Black 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): R20, R21, R22, R23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GemeraOrange.jpg/revision/latest/scale-to-width-down/75?cb=20220618124011"
+    }
+}

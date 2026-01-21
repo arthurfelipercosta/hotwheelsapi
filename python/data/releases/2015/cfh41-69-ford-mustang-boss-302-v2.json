@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh41-69-ford-mustang-boss-302-2015",
+    "toy_number": "CFH41",
+    "casting_id": "69-ford-mustang-boss-302",
+    "year": 2015,
+    "series_id": "hw-workshop-speed-team",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black hood, Black stripes & 'Boss 302' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling New in Mainline Base code(s): G47, G50, G51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/69_Mustang_Boss_302_-_2015_Speed_Team.JPG/revision/latest/scale-to-width-down/75?cb=20150306182824"
+    }
+}

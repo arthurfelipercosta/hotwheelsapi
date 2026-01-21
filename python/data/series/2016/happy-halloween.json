@@ -2,10 +2,16 @@
     "series_id": "happy-halloween",
     "year": 2016,
     "name": "Happy Halloween!",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 3,
     "releases": [
         "data/releases/2016/djm39-bone-shaker.json",
-        "data/releases/2016/djm41-deora-ii.json"
+        "data/releases/2016/djm40-audacious.json",
+        "data/releases/2016/djm41-deora-ii.json",
+        "data/releases/2016/djm42-dieselboy.json",
+        "data/releases/2016/dwy54-blvd-bruiser.json",
+        "data/releases/2016/dwy55-16-angels.json",
+        "data/releases/2016/dwy56-ryura-lx.json",
+        "data/releases/2016/dwy57-vandetta.json"
     ]
 }

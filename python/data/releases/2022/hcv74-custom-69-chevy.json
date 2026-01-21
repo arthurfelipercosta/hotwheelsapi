@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv74-custom-69-chevy-2022",
+    "toy_number": "HCV74",
+    "casting_id": "custom-69-chevy",
+    "year": 2022,
+    "series_id": "hw-art-cars",
+    "series_index": 4,
+    "specs": {
+        "color": "Glossy red",
+        "tampo": "Multicolored squares, \"T\" on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Dark blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White & Yellow 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Loop logo removed from base Base code(s): P48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/Hw_69_chevy_pickup_hw_art_2022.png/revision/latest/scale-to-width-down/75?cb=20220330205932"
+    }
+}

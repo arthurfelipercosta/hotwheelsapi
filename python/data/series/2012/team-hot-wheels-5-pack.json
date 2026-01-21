@@ -2,9 +2,12 @@
     "series_id": "team-hot-wheels-5-pack",
     "year": 2012,
     "name": "Team Hot Wheels 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/w2638-bone-shaker.json"
+        "data/releases/2012/w2638-bedlam.json",
+        "data/releases/2012/w2638-bone-shaker.json",
+        "data/releases/2012/w2638-chevy-camaro-concept.json",
+        "data/releases/2012/w2638-rapid-response.json"
     ]
 }

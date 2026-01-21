@@ -1,0 +1,23 @@
+{
+    "casting_id": "lamborghini-countach",
+    "name": "Lamborghini Countach",
+    "description": {
+        "en-us": "Lamborghini Countach Debut series 2004 First Editions: Tooned Produced 2004 - 2018 Designer Fraser Campbell Number C2704",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2004/c2704-lamborghini-countach.json",
+        "data/releases/2004/c2704-lamborghini-countach-v2.json",
+        "data/releases/2013/x6999-lamborghini-countach.json",
+        "data/releases/2014/x6999-lamborghini-countach.json",
+        "data/releases/2017/dtx49-lamborghini-countach.json",
+        "data/releases/2017/dvb37-lamborghini-countach.json",
+        "data/releases/2018/fjv70-lamborghini-countach.json",
+        "data/releases/2018/fjw50-lamborghini-countach.json",
+        "data/releases/2018/fjy44-lamborghini-countach.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2004,
+    "manufacturer": "Lamborghini"
+}

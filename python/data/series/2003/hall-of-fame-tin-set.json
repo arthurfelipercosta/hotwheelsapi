@@ -2,9 +2,10 @@
     "series_id": "hall-of-fame-tin-set",
     "year": 2003,
     "name": "Hall of Fame Tin Set",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2003/c3638-67-pontiac-gto.json",
         "data/releases/2003/c3638-purple-passion.json"
     ]
 }

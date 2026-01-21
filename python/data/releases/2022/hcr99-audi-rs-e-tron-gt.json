@@ -1,0 +1,24 @@
+{
+    "release_id": "hcr99-audi-rs-e-tron-gt-2022",
+    "toy_number": "HCR99",
+    "casting_id": "audi-rs-e-tron-gt",
+    "year": 2022,
+    "series_id": "hw-green-speed",
+    "series_index": 5,
+    "specs": {
+        "color": "Daytona Gray Metallic",
+        "tampo": "Detailed headlights & taillights, \"E-TRON GT\" license plates",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "GPR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/AudiRSe-tronGT.jpg/revision/latest/scale-to-width-down/75?cb=20220310062852"
+    }
+}

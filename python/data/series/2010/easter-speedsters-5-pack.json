@@ -2,9 +2,10 @@
     "series_id": "easter-speedsters-5-pack",
     "year": 2010,
     "name": "Easter Speedsters 5-Pack",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2010/r5473-67-shelby-gt500.json",
         "data/releases/2010/r5473-good-humor-truck.json"
     ]
 }

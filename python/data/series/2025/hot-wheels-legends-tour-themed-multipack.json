@@ -2,9 +2,14 @@
     "series_id": "hot-wheels-legends-tour-themed-multipack",
     "year": 2025,
     "name": "Hot Wheels Legends Tour Themed Multipack",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
-        "data/releases/2025/jby78-deora-ii.json"
+        "data/releases/2025/jby78-2-jet-z.json",
+        "data/releases/2025/jby78-2005-ford-mustang.json",
+        "data/releases/2025/jby78-67-pontiac-gto.json",
+        "data/releases/2025/jby78-custom-71-el-camino.json",
+        "data/releases/2025/jby78-deora-ii.json",
+        "data/releases/2025/jby78-volvo-p1800-gasser.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "v5519-vampyra-2012",
+    "toy_number": "V5519",
+    "casting_id": "vampyra",
+    "year": 2012,
+    "series_id": "thrill-racers-ice",
+    "series_index": 5,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "Blue, Light blue & Black, #5 on wings",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Blue tint",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "White wheel OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E32, E36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/Thrill_Riders_Ice.jpg/revision/latest/scale-to-width-down/75?cb=20150301012946"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "x1623-70-chevy-chevelle-ss-2013",
+    "toy_number": "X1623",
+    "casting_id": "70-chevy-chevelle-ss",
+    "year": 2013,
+    "series_id": "hw-showroom-hw-performance",
+    "series_index": null,
+    "specs": {
+        "color": "Clear Aquamarine",
+        "tampo": "Gulf tampos & 15 on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "Black tire",
+            "1": "orange rim MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): F02, F04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/%2770_Chevy_Chevelle_SS-2013_250.jpg/revision/latest/scale-to-width-down/75?cb=20130315150341"
+    }
+}

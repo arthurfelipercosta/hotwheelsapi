@@ -2,9 +2,10 @@
     "series_id": "highway-35-world-race-street-breed",
     "year": 2003,
     "name": "Highway 35 World Race: Street Breed",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 11,
     "releases": [
+        "data/releases/2003/b0879-sling-shot.json",
         "data/releases/2003/b1063-24-seven.json"
     ]
 }

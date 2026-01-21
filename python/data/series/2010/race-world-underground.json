@@ -1,0 +1,12 @@
+{
+    "series_id": "race-world-underground",
+    "year": 2010,
+    "name": "Race World - Underground",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2010/r7614-fangster.json",
+        "data/releases/2010/r7615-double-demon.json",
+        "data/releases/2010/r7617-enforcer.json"
+    ]
+}

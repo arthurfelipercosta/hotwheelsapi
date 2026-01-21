@@ -1,0 +1,24 @@
+{
+    "release_id": "gdg67-sandblaster-2018",
+    "toy_number": "GDG67",
+    "casting_id": "sandblaster",
+    "year": 2018,
+    "series_id": "ford-trucks",
+    "series_index": 6,
+    "specs": {
+        "color": "White",
+        "tampo": "Black & Red Stripes & '58' on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "Gray OR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Original Tool Base code(s): L20, L27, L28, L30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Sand_Blaster_2.JPG/revision/latest/scale-to-width-down/75?cb=20181104052908"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "jcb03-toyota-ae-86-corolla-2025",
+    "toy_number": "JCB03",
+    "casting_id": "toyota-ae-86-corolla",
+    "year": 2025,
+    "series_id": "neon-speeders",
+    "series_index": 4,
+    "specs": {
+        "color": "Glossy black",
+        "tampo": "Detailed reflectors and taillights, white, blue and pink graphics, Hot Wheels and Bridgestone logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Pink",
+        "wheel_type": {
+            "0": "HCNS6"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): U07I, U09I, U11I, U16I",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/JCB03.jpg/revision/latest/scale-to-width-down/75?cb=20250615133820"
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "casting_id": "enzo-ferrari",
+    "name": "Enzo Ferrari",
+    "description": {
+        "en-us": "Enzo Ferrari Debut series 2003 First Editions Produced 2003 - 2014 Designer Mark Jones Number 56387",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56387-enzo-ferrari.json",
+        "data/releases/2004/c4317-enzo-ferrari.json",
+        "data/releases/2004/c4317-enzo-ferrari-v2.json",
+        "data/releases/2004/c4362-enzo-ferrari.json",
+        "data/releases/2004/g2642-enzo-ferrari.json",
+        "data/releases/2004/g2642-enzo-ferrari-v2.json",
+        "data/releases/2005/c4368-enzo-ferrari.json",
+        "data/releases/2005/g6920-enzo-ferrari.json",
+        "data/releases/2006/j3462-enzo-ferrari.json",
+        "data/releases/2006/20350-enzo-ferrari.json",
+        "data/releases/2007/k7620-enzo-ferrari.json",
+        "data/releases/2007/k7620-enzo-ferrari-v2.json",
+        "data/releases/2007/k7620s-enzo-ferrari.json",
+        "data/releases/2007/m4724-enzo-ferrari.json",
+        "data/releases/2007/m4732-enzo-ferrari.json",
+        "data/releases/2008/l4269-enzo-ferrari.json",
+        "data/releases/2008/m6872-enzo-ferrari.json",
+        "data/releases/2009/n5558-enzo-ferrari.json",
+        "data/releases/2009/l4269-enzo-ferrari.json",
+        "data/releases/2010/r8486-enzo-ferrari.json",
+        "data/releases/2010/t4417-enzo-ferrari.json",
+        "data/releases/2011/t9823-enzo-ferrari.json",
+        "data/releases/2011/t9967-enzo-ferrari.json",
+        "data/releases/2011/t9997-enzo-ferrari.json",
+        "data/releases/2013/x1846-enzo-ferrari.json",
+        "data/releases/2013/x1995-enzo-ferrari.json",
+        "data/releases/2014/bfb28-enzo-ferrari.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Ferrari"
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "real-riders",
+    "year": 1984,
+    "name": "Real Riders",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1984/4370-jeep-scrambler.json",
+        "data/releases/1984/4370-jeep-scrambler.json",
+        "data/releases/1984/5903-dodge-rampage.json",
+        "data/releases/1984/5903-dodge-rampage.json"
+    ]
+}

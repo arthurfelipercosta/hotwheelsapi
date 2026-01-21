@@ -2,11 +2,13 @@
     "series_id": "fast-furious-furious-fleet",
     "year": 2021,
     "name": "Fast & Furious: Furious Fleet",
-    "total_releases": 3,
-    "max_index": 5,
+    "total_releases": 5,
+    "max_index": 4,
     "releases": [
         "data/releases/2021/grk52-20-jeep-gladiator.json",
+        "data/releases/2021/grk56-ford-shelby-gt350r.json",
         "data/releases/2021/grk58-land-rover-defender-90.json",
+        "data/releases/2021/grk60-honda-s2000.json",
         "data/releases/2021/grl82-20-dodge-charger-hellcat.json"
     ]
 }

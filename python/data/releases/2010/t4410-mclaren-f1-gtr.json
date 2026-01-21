@@ -1,0 +1,24 @@
+{
+    "release_id": "t4410-mclaren-f1-gtr-2010",
+    "toy_number": "T4410",
+    "casting_id": "mclaren-f1-gtr",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Red",
+        "tampo": "Yellow & black \"GTR\" across body, detailed headlights & taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/McLaren_F1_GTR_03.JPG/revision/latest/scale-to-width-down/75?cb=20140528165407"
+    }
+}

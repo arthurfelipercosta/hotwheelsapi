@@ -1,0 +1,29 @@
+{
+    "casting_id": "hot-wheels-ford-transit-connect",
+    "name": "Hot Wheels Ford Transit Connect",
+    "description": {
+        "en-us": "Hot Wheels Ford Transit Connect Debut series HW Workshop: HW Garage Produced 2014 - Present Designer Fraser Campbell Number BDD17",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd17-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2015/cfk51-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2015/cfl65-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2017/dvc42-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2017/dvd12-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2018/fjw76-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2018/fjy65-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2018/gfb79-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2020/ghc65-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2021/grx79-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2021/gtc19-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2023/hkh50-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2023/hkk18-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2024/htf26-hot-wheels-ford-transit-connect-v3.json",
+        "data/releases/2026/jlb24-hot-wheels-ford-transit-connect-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Ford"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc29-rip-rod-2020",
+    "toy_number": "GHC29",
+    "casting_id": "rip-rod",
+    "year": 2020,
+    "series_id": "hw-dream-garage",
+    "series_index": 9,
+    "specs": {
+        "color": "",
+        "tampo": "Black & White stripes, HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M40, M41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/HW_RIP_ROD_2019_RED.jpg/revision/latest/scale-to-width-down/75?cb=20191114183023"
+    }
+}

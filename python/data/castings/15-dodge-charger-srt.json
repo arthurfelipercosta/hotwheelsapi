@@ -1,0 +1,31 @@
+{
+    "casting_id": "15-dodge-charger-srt",
+    "name": "'15 Dodge Charger SRT",
+    "description": {
+        "en-us": "'15 Dodge Charger SRT Debut series Muscle Mania Produced 2016 - Present Designer Brendon Vetuskey Number DHP15",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp15-15-dodge-charger-srt-v2.json",
+        "data/releases/2016/dhx41-15-dodge-charger-srt-v2.json",
+        "data/releases/2017/dty79-15-dodge-charger-srt-v2.json",
+        "data/releases/2017/dvb61-15-dodge-charger-srt-v2.json",
+        "data/releases/2017/fdr64-15-dodge-charger-srt-v2.json",
+        "data/releases/2018/fjx75-15-dodge-charger-srt-v2.json",
+        "data/releases/2018/fkb05-15-dodge-charger-srt-v2.json",
+        "data/releases/2021/grr12-15-dodge-charger-srt-v2.json",
+        "data/releases/2023/hlk10-15-dodge-charger-srt-v2.json",
+        "data/releases/2026/jhw47-15-dodge-charger-srt-v2.json",
+        "data/releases/2019/fxb32-15-dodge-charger-srt-v2.json",
+        "data/releases/2021/gtb14-15-dodge-charger-srt-v2.json",
+        "data/releases/2021/gtd66-15-dodge-charger-srt-v2.json",
+        "data/releases/2022/hcw24-15-dodge-charger-srt-v2.json",
+        "data/releases/2024/htb56-15-dodge-charger-srt-v2.json",
+        "data/releases/2024/htf73-15-dodge-charger-srt-v2.json",
+        "data/releases/2024/htc87-15-dodge-charger-srt-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Dodge"
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "r7574-f1-racer-2010",
+    "toy_number": "R7574",
+    "casting_id": "f1-racer",
+    "year": 2010,
+    "series_id": "hw-racing",
+    "series_index": 1,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "White, Red and Yellow flames, \"68\" with HW logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "International card Base code(s): C02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/F1racer_HWracing_blue.JPG/revision/latest/scale-to-width-down/75?cb=20100118125432"
+    }
+}

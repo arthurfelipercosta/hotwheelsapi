@@ -1,0 +1,24 @@
+{
+    "release_id": "hkd21-nissan-skyline-gt-r-bnr34-2023",
+    "toy_number": "HKD21",
+    "casting_id": "nissan-skyline-gt-r-bnr34",
+    "year": 2023,
+    "series_id": "fast-furious",
+    "series_index": 5,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Detailed headlights and taillights, gladiator tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): R43, R44, R46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/R34Henshin.jpg/revision/latest/scale-to-width-down/75?cb=20230424110906"
+    }
+}

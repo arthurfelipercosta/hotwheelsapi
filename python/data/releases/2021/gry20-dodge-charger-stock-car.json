@@ -1,0 +1,24 @@
+{
+    "release_id": "gry20-dodge-charger-stock-car-2021",
+    "toy_number": "GRY20",
+    "casting_id": "dodge-charger-stock-car",
+    "year": 2021,
+    "series_id": "hw-race-team",
+    "series_index": 3,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Orange & White Stripes, Checker design, \"3\", HW Logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray rim DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P12, P14, P17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Dodge_Charger_Stock_Car.jpg/revision/latest/scale-to-width-down/75?cb=20210627045544"
+    }
+}

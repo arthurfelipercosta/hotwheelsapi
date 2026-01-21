@@ -1,0 +1,24 @@
+{
+    "release_id": "bfd61-sandblaster-2014",
+    "toy_number": "BFD61",
+    "casting_id": "sandblaster",
+    "year": 2014,
+    "series_id": "hw-off-road-hw-hot-trucks",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "HW flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow rim OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): F36, F41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/Sandblaster-2014_135.jpg/revision/latest/scale-to-width-down/75?cb=20131207143115"
+    }
+}

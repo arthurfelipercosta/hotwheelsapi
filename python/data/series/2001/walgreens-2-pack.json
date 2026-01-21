@@ -1,0 +1,11 @@
+{
+    "series_id": "walgreens-2-pack",
+    "year": 2001,
+    "name": "Walgreens 2-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2001/29872-56-ford-f-100-truck.json",
+        "data/releases/2001/54958-phaeton.json"
+    ]
+}

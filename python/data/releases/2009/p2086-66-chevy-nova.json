@@ -1,0 +1,24 @@
+{
+    "release_id": "p2086-66-chevy-nova-2009",
+    "toy_number": "P2086",
+    "casting_id": "66-chevy-nova",
+    "year": 2009,
+    "series_id": "connect-cars",
+    "series_index": 41,
+    "specs": {
+        "color": "Metalflake Teal",
+        "tampo": "Gold, White, & Black stripes, 'Montana' & '41' on sides & hood, 'Big Sky Country' on sides, 'Yellowstone' & gyser on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gold",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Montana Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/41_Montana_-_%2766_Chevy_Nova.jpg/revision/latest/scale-to-width-down/75?cb=20090812002508"
+    }
+}

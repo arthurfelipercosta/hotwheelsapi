@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-imagination-street-pests",
+    "year": 2013,
+    "name": "HW Imagination: Street Pests",
+    "total_releases": 9,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1652-ratical-racer.json",
+        "data/releases/2013/x1702-sting-rod-ii.json",
+        "data/releases/2013/x1703-scorpedo.json",
+        "data/releases/2013/x1704-arachnorod.json",
+        "data/releases/2013/x1705-ratmobile.json",
+        "data/releases/2013/x1888-scorpedo.json",
+        "data/releases/2013/x1889-arachnorod.json",
+        "data/releases/2013/x1890-ratmobile.json",
+        "data/releases/2013/x1891-ratical-racer.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hcy50-ford-focus-rs-2022",
+    "toy_number": "HCY50",
+    "casting_id": "ford-focus-rs",
+    "year": 2022,
+    "series_id": "hw-hatchbacks",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "Black striping along top and lower sides, 'RS' logo on lower sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Dark Gray PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Kroger Exclusive Base code(s): P51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/HCY50_-_Ford_Focus_RS-1.jpg/revision/latest/scale-to-width-down/75?cb=20220830213952"
+    }
+}

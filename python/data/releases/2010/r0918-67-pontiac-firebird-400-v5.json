@@ -1,0 +1,30 @@
+{
+    "release_id": "r0918-67-pontiac-firebird-400-2010",
+    "toy_number": "R0918",
+    "casting_id": "67-pontiac-firebird-400",
+    "year": 2010,
+    "series_id": "2010-new-models",
+    "series_index": 3,
+    "specs": {
+        "color": "Metallic Blue",
+        "tampo": "White stripe on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black OH5",
+            "2": "003",
+            "3": "214",
+            "4": "2010",
+            "5": "2010 HW Premiere 3",
+            "6": "52"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/67FireBird400_Blue.JPG/revision/latest/scale-to-width-down/75?cb=20100609015614"
+    }
+}

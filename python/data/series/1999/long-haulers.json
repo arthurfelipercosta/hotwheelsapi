@@ -1,0 +1,12 @@
+{
+    "series_id": "long-haulers",
+    "year": 1999,
+    "name": "Long Haulers",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1999/65867-3-window-34.json",
+        "data/releases/1999/65867-83-classic-cobra.json",
+        "data/releases/1999/65867-dodge-viper-rt-10.json"
+    ]
+}

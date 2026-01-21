@@ -1,0 +1,33 @@
+{
+    "release_id": "grt05-12-camaro-zl1-concept-2021",
+    "toy_number": "GRT05",
+    "casting_id": "12-camaro-zl1-concept",
+    "year": 2021,
+    "series_id": "factory-500-h-p",
+    "series_index": 4,
+    "specs": {
+        "color": "Green",
+        "tampo": "Black stripe across top & on sides, 'Camaro' on sides, 'ZL1' on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black PR5",
+            "1": "2012",
+            "2": "26th Annual Hot Wheels Collectors Convention",
+            "3": "White",
+            "4": "325",
+            "5": "Orange",
+            "6": "50",
+            "7": "Nickel Plated",
+            "8": "Zamac",
+            "9": "24"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): N38, N39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/12_Camaro_ZL1_Green_500hp.jpg/revision/latest/scale-to-width-down/75?cb=20201218084540"
+    }
+}

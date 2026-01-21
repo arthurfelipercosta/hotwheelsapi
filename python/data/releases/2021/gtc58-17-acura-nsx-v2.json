@@ -1,0 +1,24 @@
+{
+    "release_id": "gtc58-17-acura-nsx-2021",
+    "toy_number": "GTC58",
+    "casting_id": "17-acura-nsx",
+    "year": 2021,
+    "series_id": "hw-turbo",
+    "series_index": 5,
+    "specs": {
+        "color": "Candy Apple Green",
+        "tampo": "Detailed headlights & taillights, Black roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P21, P30, P31, P32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/GTC58-01.JPG/revision/latest/scale-to-width-down/75?cb=20211224055744"
+    }
+}

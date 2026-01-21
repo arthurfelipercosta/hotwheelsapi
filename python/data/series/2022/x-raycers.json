@@ -1,0 +1,17 @@
+{
+    "series_id": "x-raycers",
+    "year": 2022,
+    "name": "X-Raycers",
+    "total_releases": 8,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2022/hct30-turbine-sublime.json",
+        "data/releases/2022/hct45-lightnin-bug.json",
+        "data/releases/2022/hct52-electrack.json",
+        "data/releases/2022/hct85-cosmic-coupe.json",
+        "data/releases/2022/hcx18-cosmic-coupe.json",
+        "data/releases/2022/hcx42-turbine-sublime.json",
+        "data/releases/2022/hcx63-electrack.json",
+        "data/releases/2022/hcy02-hw-warp-speeder.json"
+    ]
+}

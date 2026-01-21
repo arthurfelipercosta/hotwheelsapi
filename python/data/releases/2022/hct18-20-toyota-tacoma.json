@@ -1,0 +1,27 @@
+{
+    "release_id": "hct18-20-toyota-tacoma-2022",
+    "toy_number": "HCT18",
+    "casting_id": "20-toyota-tacoma",
+    "year": 2022,
+    "series_id": "hw-hot-trucks",
+    "series_index": 4,
+    "specs": {
+        "color": "Glossy Voodoo Blue",
+        "tampo": "Detailed headlights, taillights and foglights, front grille and tailgate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black BAJA5",
+            "1": "Black OR6SP",
+            "2": "New Model Base code(s): P43",
+            "3": "Black BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): P42, P44, P47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/%2720ToyotaTacoma.jpg/revision/latest/scale-to-width-down/75?cb=20211117081532"
+    }
+}

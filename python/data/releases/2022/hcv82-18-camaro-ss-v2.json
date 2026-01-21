@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv82-18-camaro-ss-2022",
+    "toy_number": "HCV82",
+    "casting_id": "18-camaro-ss",
+    "year": 2022,
+    "series_id": "then-and-now",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "Light Green gradient graphics on hood and sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R20, R23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/HCV82.jpg/revision/latest/scale-to-width-down/75?cb=20220612153252"
+    }
+}

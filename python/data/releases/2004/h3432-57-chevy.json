@@ -1,0 +1,24 @@
+{
+    "release_id": "h3432-57-chevy-2004",
+    "toy_number": "H3432",
+    "casting_id": "57-chevy",
+    "year": 2004,
+    "series_id": "snap-on-tools",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "White Stripes with \"Snap-On\" Logos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/57chevy_SnapOn.JPG/revision/latest/scale-to-width-down/75?cb=20100112073916"
+    }
+}

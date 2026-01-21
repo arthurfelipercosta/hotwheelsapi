@@ -1,0 +1,30 @@
+{
+    "casting_id": "yur-so-fast",
+    "name": "Yur So Fast",
+    "description": {
+        "en-us": "Yur So Fast Debut series 2010 New Models Produced 2010 - 2018 Designer Kevin Cao Number R0932",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0932-yur-so-fast.json",
+        "data/releases/2010/r0932-yur-so-fast-v2.json",
+        "data/releases/2010/r0932-yur-so-fast-v3.json",
+        "data/releases/2010/r0932-yur-so-fast-v4.json",
+        "data/releases/2011/t9785-yur-so-fast.json",
+        "data/releases/2012/x3366-yur-so-fast.json",
+        "data/releases/2012/v5546-yur-so-fast.json",
+        "data/releases/2013/x1751-yur-so-fast.json",
+        "data/releases/2013/y0783-yur-so-fast.json",
+        "data/releases/2014/bfc36-yur-so-fast.json",
+        "data/releases/2014/bff60-yur-so-fast.json",
+        "data/releases/2015/cdt15-yur-so-fast.json",
+        "data/releases/2015/cmd71-yur-so-fast.json",
+        "data/releases/2016/djl41-yur-so-fast.json",
+        "data/releases/2017/dwc00-yur-so-fast.json",
+        "data/releases/2018/fxc68-yur-so-fast.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,40 @@
+{
+    "casting_id": "toyota-supra",
+    "name": "Toyota Supra",
+    "description": {
+        "en-us": "Toyota Supra Debut series HW City: Street Power Produced 2013 - Present Designer Jun Imai Number X1631\\n\\nThe Toyota Supra is a sports car produced by Toyota since 1978. Its name is derived from the Latin term \"supra\", translating to \"to go beyond\". The fourth generation Supra, colloquially known as the A80 or the Mk4, was designed by Isao Tsuzuki and was largely based on the Toyota Soarer . The car is powered by the 2JZ 3.0L inline-6, available in naturally-aspirated and twin-turbocharged iterations. This generation of Supra had Toyota place more emphasis on a more serious high-powered car. Since its discontinuation in 2002, the A80 Supra has gained a cult following among automotive enthusiasts and the modification scene, especially after its appearances in mass media such as Initial D and the Fast & Furious franchise.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1631-toyota-supra-v2.json",
+        "data/releases/2013/y2133-toyota-supra-v2.json",
+        "data/releases/2014/bfc44-toyota-supra-v2.json",
+        "data/releases/2014/y2133-toyota-supra-v2.json",
+        "data/releases/2015/cmj22-toyota-supra-v2.json",
+        "data/releases/2015/cfh90-toyota-supra-v2.json",
+        "data/releases/2016/dhr73-toyota-supra-v2.json",
+        "data/releases/2016/dvg75-toyota-supra-v2.json",
+        "data/releases/2016/dvf87-toyota-supra-v2.json",
+        "data/releases/2017/dwf71-toyota-supra-v2.json",
+        "data/releases/2019/fyn81-toyota-supra-v2.json",
+        "data/releases/2020/gmh41-toyota-supra-v2.json",
+        "data/releases/2021/gtf13-toyota-supra-v2.json",
+        "data/releases/2021/grj96-toyota-supra-v2.json",
+        "data/releases/2022/hfx59-toyota-supra-v2.json",
+        "data/releases/2022/hcv16-toyota-supra-v2.json",
+        "data/releases/2023/hly70-toyota-supra-v2.json",
+        "data/releases/2023/hnr95-toyota-supra-v2.json",
+        "data/releases/2023/hkf54-toyota-supra-v2.json",
+        "data/releases/2023/hkd25-toyota-supra-v2.json",
+        "data/releases/2024/htb09-toyota-supra-v2.json",
+        "data/releases/2024/hwf27-toyota-supra-v2.json",
+        "data/releases/2025/jby30-toyota-supra-v2.json",
+        "data/releases/2025/jby33-toyota-supra-v2.json",
+        "data/releases/2025/jgf54-toyota-supra-v2.json",
+        "data/releases/2025/jbl03-toyota-supra-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Toyota"
+}

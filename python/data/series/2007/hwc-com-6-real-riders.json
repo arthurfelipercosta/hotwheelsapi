@@ -2,9 +2,10 @@
     "series_id": "hwc-com-6-real-riders",
     "year": 2007,
     "name": "HWC.com 6: Real Riders",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 4,
     "releases": [
-        "data/releases/2007/l2094-70-plymouth-superbird.json"
+        "data/releases/2007/l2094-70-plymouth-superbird.json",
+        "data/releases/2007/l2102-blast-lane.json"
     ]
 }

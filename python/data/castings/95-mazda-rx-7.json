@@ -1,0 +1,42 @@
+{
+    "casting_id": "95-mazda-rx-7",
+    "name": "'95 Mazda RX-7",
+    "description": {
+        "en-us": "'95 Mazda RX-7 Debut series Then and Now Produced 2017 - Present Designer Jun Imai Number DTW90",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtw90-95-mazda-rx-7-v2.json",
+        "data/releases/2017/fbj11-95-mazda-rx-7-v2.json",
+        "data/releases/2018/fjx67-95-mazda-rx-7-v2.json",
+        "data/releases/2018/fjy97-95-mazda-rx-7-v2.json",
+        "data/releases/2019/fyd04-95-mazda-rx-7-v2.json",
+        "data/releases/2019/fyg33-95-mazda-rx-7-v2.json",
+        "data/releases/2019/gbw82-95-mazda-rx-7-v2.json",
+        "data/releases/2019/fyy54-95-mazda-rx-7-v2.json",
+        "data/releases/2019/fyn75-95-mazda-rx-7-v2.json",
+        "data/releases/2020/ghd02-95-mazda-rx-7-v2.json",
+        "data/releases/2020/ghf76-95-mazda-rx-7-v2.json",
+        "data/releases/2020/gjr65-95-mazda-rx-7-v2.json",
+        "data/releases/2020/gjr76-95-mazda-rx-7-v2.json",
+        "data/releases/2021/gry28-95-mazda-rx-7-v2.json",
+        "data/releases/2021/gtd12-95-mazda-rx-7-v2.json",
+        "data/releases/2022/hdh50-95-mazda-rx-7-v2.json",
+        "data/releases/2022/hcv86-95-mazda-rx-7-v2.json",
+        "data/releases/2022/hcx62-95-mazda-rx-7-v2.json",
+        "data/releases/2022/hfx59-95-mazda-rx-7-v2.json",
+        "data/releases/2022/hck13-95-mazda-rx-7-v2.json",
+        "data/releases/2023/hkd22-95-mazda-rx-7-v2.json",
+        "data/releases/2023/hnt01-95-mazda-rx-7-v2.json",
+        "data/releases/2024/htc46-95-mazda-rx-7-v2.json",
+        "data/releases/2024/htd97-95-mazda-rx-7-v2.json",
+        "data/releases/2024/htf69-95-mazda-rx-7-v2.json",
+        "data/releases/2024/hrw46-95-mazda-rx-7-v2.json",
+        "data/releases/2025/jbl93-95-mazda-rx-7-v2.json",
+        "data/releases/2026/jhw71-95-mazda-rx-7-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mazda"
+}

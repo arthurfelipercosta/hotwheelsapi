@@ -1,0 +1,24 @@
+{
+    "release_id": "t9948-67-pontiac-firebird-400-2011",
+    "toy_number": "T9948",
+    "casting_id": "67-pontiac-firebird-400",
+    "year": 2011,
+    "series_id": "street-beasts",
+    "series_index": 6,
+    "specs": {
+        "color": "Metallic Dark Grey",
+        "tampo": "Black and Red stripes on sides and hood, red \"400\" in stripe, \"Firebird\" at front.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red Chrome OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C50, D02, D05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/67FireBird400_Street_Grey.JPG/revision/latest/scale-to-width-down/75?cb=20110215112105"
+    }
+}

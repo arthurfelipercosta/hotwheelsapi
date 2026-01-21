@@ -2,9 +2,23 @@
     "series_id": "mainline",
     "year": 1997,
     "name": "Mainline",
-    "total_releases": 1,
+    "total_releases": 15,
     "max_index": 0,
     "releases": [
-        "data/releases/1997/0773-humvee.json"
+        "data/releases/1997/0492-propper-chopper.json",
+        "data/releases/1997/0773-humvee.json",
+        "data/releases/1997/12360-olds-442-w-30.json",
+        "data/releases/1997/13287-rigor-motor.json",
+        "data/releases/1997/13310-rodzilla.json",
+        "data/releases/1997/16322-70-plymouth-barracuda.json",
+        "data/releases/1997/16808-jeep-scrambler.json",
+        "data/releases/1997/18554-sharkruiser.json",
+        "data/releases/1997/19692-cat-wheel-loader.json",
+        "data/releases/1997/4311-57-chevy.json",
+        "data/releases/1997/4311-57-chevy.json",
+        "data/releases/1997/4311-57-chevy.json",
+        "data/releases/1997/9640-fire-eater.json",
+        "data/releases/1997/9640-fire-eater.json",
+        "data/releases/1997/9640-fire-eater.json"
     ]
 }

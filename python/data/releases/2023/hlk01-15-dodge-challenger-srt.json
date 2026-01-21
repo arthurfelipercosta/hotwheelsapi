@@ -1,0 +1,24 @@
+{
+    "release_id": "hlk01-15-dodge-challenger-srt-2023",
+    "toy_number": "HLK01",
+    "casting_id": "15-dodge-challenger-srt",
+    "year": 2023,
+    "series_id": "55th-anniversary-black-and-yellow",
+    "series_index": 6,
+    "specs": {
+        "color": "Matte Black",
+        "tampo": "Red Hot Wheels logo, white \"55th\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Gold PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R41, R46, R48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/15_Dodge_Challenger_SRT_-_55th_Anniversary_Hot_Wheels_2023_loose.png/revision/latest/scale-to-width-down/75?cb=20221117110628"
+    }
+}

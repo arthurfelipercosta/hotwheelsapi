@@ -1,0 +1,25 @@
+{
+    "release_id": "hkh48-custom-11-camaro-2023",
+    "toy_number": "HKH48",
+    "casting_id": "custom-11-camaro",
+    "year": 2023,
+    "series_id": "hw-art-cars",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Dark Candy Blue",
+        "tampo": "Blueprint graphics, \"I\" on hood & sides, \"T9675 Custom '11 Camaro\" on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White Tire",
+            "1": "Blue PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R36, R48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/HW-2023-036-1-HKxxx-Custom_%2711_Camaro.png/revision/latest/scale-to-width-down/75?cb=20221116110820"
+    }
+}

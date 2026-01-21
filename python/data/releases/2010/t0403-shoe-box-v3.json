@@ -1,0 +1,25 @@
+{
+    "release_id": "t0403-shoe-box-2010",
+    "toy_number": "T0403",
+    "casting_id": "shoe-box",
+    "year": 2010,
+    "series_id": "hw-garage",
+    "series_index": 9,
+    "specs": {
+        "color": "Lavender",
+        "tampo": "Purple Outlined White Flames, White Roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "White Line",
+            "1": "Lavender CDDRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Part of Wayne's Garage Base Code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/ShoeBox_WG_Lavender.JPG/revision/latest/scale-to-width-down/75?cb=20100906083214"
+    }
+}

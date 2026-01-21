@@ -1,0 +1,30 @@
+{
+    "casting_id": "bad-bagger",
+    "name": "Bad Bagger",
+    "description": {
+        "en-us": "Bad Bagger Debut series Classics (Series 3) Produced 2007 - Present Designer Larry Wood Number L0735\\n\\nThe Bad Bagger is a Hot Wheels original design resembling a cruiser. In 2016, the tooling for the Bad Bagger was changed; the handlebars are now made of a flexible plastic.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/l0735-bad-bagger-v4.json",
+        "data/releases/2007/l0735-bad-bagger-v5.json",
+        "data/releases/2007/l0735-bad-bagger-v6.json",
+        "data/releases/2007/m1811-bad-bagger-v2.json",
+        "data/releases/2008/n9287-bad-bagger-v3.json",
+        "data/releases/2008/n9287-bad-bagger-v4.json",
+        "data/releases/2009/n8584-bad-bagger-v2.json",
+        "data/releases/2009/p2353-bad-bagger-v2.json",
+        "data/releases/2009/p2365-bad-bagger-v2.json",
+        "data/releases/2010/r7623-bad-bagger-v2.json",
+        "data/releases/2012/v5441-bad-bagger-v2.json",
+        "data/releases/2012/v5631-bad-bagger-v2.json",
+        "data/releases/2012/x2084-bad-bagger-v2.json",
+        "data/releases/2016/dhr40-bad-bagger-v2.json",
+        "data/releases/2021/gtb18-bad-bagger-v2.json",
+        "data/releases/2024/hrr90-bad-bagger-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Mattel"
+}

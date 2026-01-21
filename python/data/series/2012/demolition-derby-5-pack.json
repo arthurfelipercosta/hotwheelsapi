@@ -1,0 +1,12 @@
+{
+    "series_id": "demolition-derby-5-pack",
+    "year": 2012,
+    "name": "Demolition Derby 5-Pack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2012/w4255-back-slider.json",
+        "data/releases/2012/w4255-jack-hammer.json",
+        "data/releases/2012/w4255-rapid-response.json"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "casting_id": "67-oldsmobile-442",
+    "name": "'67 Oldsmobile 442",
+    "description": {
+        "en-us": "'67 Oldsmobile 442 Debut series Hot Wheels Garage: GM Produced 2011 - Present Designer Brendon Vetuskey Number T8298",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t8298-67-oldsmobile-442.json",
+        "data/releases/2011/t8314-67-oldsmobile-442.json",
+        "data/releases/2011/n-a-67-oldsmobile-442.json",
+        "data/releases/2012/v5404-67-oldsmobile-442.json",
+        "data/releases/2012/x2029-67-oldsmobile-442.json",
+        "data/releases/2013/y9438-67-oldsmobile-442.json",
+        "data/releases/2014/bdk74-67-oldsmobile-442.json",
+        "data/releases/2021/gtb41-67-oldsmobile-442.json",
+        "data/releases/2022/dg68-67-oldsmobile-442.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

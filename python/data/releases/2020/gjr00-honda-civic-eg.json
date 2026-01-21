@@ -1,0 +1,24 @@
+{
+    "release_id": "gjr00-honda-civic-eg-2020",
+    "toy_number": "GJR00",
+    "casting_id": "honda-civic-eg",
+    "year": 2020,
+    "series_id": "car-culture-modern-classics",
+    "series_index": 1,
+    "specs": {
+        "color": "Pink",
+        "tampo": "Detailed head & taillights lights, Hello Kitty graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base codes: N29, N30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HelloKittyEG.jpg/revision/latest/scale-to-width-down/75?cb=20210926004911"
+    }
+}

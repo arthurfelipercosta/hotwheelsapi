@@ -1,0 +1,24 @@
+{
+    "casting_id": "volkswagen-baja-bug",
+    "name": "Volkswagen \"Baja Bug\"",
+    "description": {
+        "en-us": "Volkswagen \"Baja Bug\" Debut series Car Culture: Desert Rally Produced 2019 - Present Designer Mark Jones Number FYN72",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyn72-volkswagen-baja-bug.json",
+        "data/releases/2020/gjt80-volkswagen-baja-bug.json",
+        "data/releases/2020/gjt44-volkswagen-baja-bug.json",
+        "data/releases/2021/grk61-volkswagen-baja-bug.json",
+        "data/releases/2022/hcw52-volkswagen-baja-bug.json",
+        "data/releases/2022/hcy35-volkswagen-baja-bug.json",
+        "data/releases/2022/hcx74-volkswagen-baja-bug.json",
+        "data/releases/2023/hkk93-volkswagen-baja-bug.json",
+        "data/releases/2025/jdm20-volkswagen-baja-bug.json",
+        "data/releases/2025/jcb70-volkswagen-baja-bug.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Volkswagen"
+}

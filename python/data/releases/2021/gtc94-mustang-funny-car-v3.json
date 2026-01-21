@@ -1,0 +1,24 @@
+{
+    "release_id": "gtc94-mustang-funny-car-2021",
+    "toy_number": "GTC94",
+    "casting_id": "mustang-funny-car",
+    "year": 2021,
+    "series_id": "hw-race-day",
+    "series_index": 10,
+    "specs": {
+        "color": "Gray",
+        "tampo": "Hot Wheels logo, sponsors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Cyan tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome Copper 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Treasure Hunt Updated tooling Base code(s): P02, P03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MUSTANG_FUNNY_CAR_2021_HW_RACE_DAY_Treasure_Hunt.png/revision/latest/scale-to-width-down/75?cb=20211216175211"
+    }
+}

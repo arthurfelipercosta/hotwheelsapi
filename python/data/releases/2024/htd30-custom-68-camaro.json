@@ -1,0 +1,24 @@
+{
+    "release_id": "htd30-custom-68-camaro-2024",
+    "toy_number": "HTD30",
+    "casting_id": "custom-68-camaro",
+    "year": 2024,
+    "series_id": "hw-modified",
+    "series_index": 7,
+    "specs": {
+        "color": "White",
+        "tampo": "Red stripe down hood, 68 on roof and sides, sponsored stickers on both doors, Hot Wheels logo on the rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gray DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T09, T11, T12, T13, T14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/Chevrolet_Camaro_1968_Custom_%281b%29_-_HotWheels.jpg/revision/latest/scale-to-width-down/75?cb=20240823105114"
+    }
+}

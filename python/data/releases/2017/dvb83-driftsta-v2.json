@@ -1,0 +1,24 @@
+{
+    "release_id": "dvb83-driftsta-2017",
+    "toy_number": "DVB83",
+    "casting_id": "driftsta",
+    "year": 2017,
+    "series_id": "hw-art-cars",
+    "series_index": 7,
+    "specs": {
+        "color": "Metalflake Dark Grey",
+        "tampo": "Stripes with words on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Black PR5 & White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K02, K03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Driftsta_DVB83.png/revision/latest/scale-to-width-down/75?cb=20170324222316"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dwf44-custom-ford-bronco-2017",
+    "toy_number": "DWF44",
+    "casting_id": "custom-ford-bronco",
+    "year": 2017,
+    "series_id": "camouflage-trucks",
+    "series_index": 5,
+    "specs": {
+        "color": "Blue",
+        "tampo": "honeycomb pattern camouflage",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): K10, K15, K16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/CFB_DWF44.jpg/revision/latest/scale-to-width-down/75?cb=20170910061058"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "casting_id": "ducati-1098r",
+    "name": "Ducati 1098R",
+    "description": {
+        "en-us": "Ducati 1098R Debut series 2010 New Models Produced 2010 - 2013 Designer Kevin Cao Number R0933",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0933-ducati-1098r.json",
+        "data/releases/2010/r0933-ducati-1098r-v2.json",
+        "data/releases/2011/t9906-ducati-1098r.json",
+        "data/releases/2011/v0021-ducati-1098r.json",
+        "data/releases/2012/v5340-ducati-1098r.json",
+        "data/releases/2012/y2085-ducati-1098r.json",
+        "data/releases/2012/x2080-ducati-1098r.json",
+        "data/releases/2013/x1784-ducati-1098r.json",
+        "data/releases/2013/y0285-ducati-1098r.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Ducati"
+}

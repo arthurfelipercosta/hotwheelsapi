@@ -2,9 +2,15 @@
     "series_id": "dino-riders",
     "year": 2018,
     "name": "Dino Riders",
-    "total_releases": 1,
+    "total_releases": 7,
     "max_index": 5,
     "releases": [
-        "data/releases/2018/fjx16-humvee.json"
+        "data/releases/2018/fjx12-motosaurus.json",
+        "data/releases/2018/fjx13-knight-draggin.json",
+        "data/releases/2018/fjx14-sting-rod-ii.json",
+        "data/releases/2018/fjx15-double-demon.json",
+        "data/releases/2018/fjx16-humvee.json",
+        "data/releases/2018/fjy79-motosaurus.json",
+        "data/releases/2018/fkb29-sting-rod-ii.json"
     ]
 }

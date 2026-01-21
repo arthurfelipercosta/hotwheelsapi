@@ -1,0 +1,11 @@
+{
+    "series_id": "fao-schwarz-the-history-of-hot-wheels-ii",
+    "year": 1996,
+    "name": "FAO Schwarz The History of Hot Wheels II",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1996/15732-classic-cobra.json",
+        "data/releases/1996/15732-dodge-viper-rt-10.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "n4443-chevy-camaro-concept-2009",
+    "toy_number": "N4443",
+    "casting_id": "chevy-camaro-concept",
+    "year": 2009,
+    "series_id": "color-shifters-color-blaster",
+    "series_index": null,
+    "specs": {
+        "color": "Cold: Dark Green Hot: Light Green",
+        "tampo": "Flat black grill, taillights, side marker lights, Camaro on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Green rim",
+            "1": "black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): B03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Camaro_Concept_2009_cold.jpg/revision/latest/scale-to-width-down/75?cb=20091111004219"
+    }
+}

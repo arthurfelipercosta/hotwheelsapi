@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh50-hot-wheels-ford-transit-connect-2023",
+    "toy_number": "HKH50",
+    "casting_id": "hot-wheels-ford-transit-connect",
+    "year": 2023,
+    "series_id": "hw-art-cars",
+    "series_index": 6,
+    "specs": {
+        "color": "White",
+        "tampo": "Tiger sketch tampo. Ford logo at front, \"D\" on roof and sides, HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Black & Gray PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HKH50.jpg/revision/latest/scale-to-width-down/75?cb=20221125125336"
+    }
+}

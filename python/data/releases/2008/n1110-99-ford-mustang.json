@@ -1,0 +1,24 @@
+{
+    "release_id": "n1110-99-ford-mustang-2008",
+    "toy_number": "N1110",
+    "casting_id": "99-ford-mustang",
+    "year": 2008,
+    "series_id": "mardi-gras",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Gold",
+        "tampo": "Purple & Green flames on sides & hood, Purple & Green stripes on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Purple",
+        "interior_color": "Purple",
+        "wheel_type": {
+            "0": "Chrome 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/99_mustang_gras.jpg/revision/latest/scale-to-width-down/75?cb=20081226071924"
+    }
+}

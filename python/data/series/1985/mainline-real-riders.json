@@ -1,0 +1,11 @@
+{
+    "series_id": "mainline-real-riders",
+    "year": 1985,
+    "name": "Mainline Real Riders",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1985/3259-jeep-cj-7.json",
+        "data/releases/1985/9543-jeep-cj-7.json"
+    ]
+}

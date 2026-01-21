@@ -1,0 +1,31 @@
+{
+    "casting_id": "ratical-racer",
+    "name": "Ratical Racer",
+    "description": {
+        "en-us": "Ratical Racer Debut series HW Imagination: Street Pests Produced 2013 - Present Designer Dave Sheltman Number X1652",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1652-ratical-racer-v3.json",
+        "data/releases/2013/x1891-ratical-racer-v3.json",
+        "data/releases/2015/cfh58-ratical-racer-v3.json",
+        "data/releases/2016/dhr95-ratical-racer-v3.json",
+        "data/releases/2016/dhx04-ratical-racer-v3.json",
+        "data/releases/2017/dvf93-ratical-racer-v3.json",
+        "data/releases/2017/dyb55-ratical-racer-v3.json",
+        "data/releases/2018/fjx43-ratical-racer-v3.json",
+        "data/releases/2018/fkb33-ratical-racer-v3.json",
+        "data/releases/2019/x6999-ratical-racer-v3.json",
+        "data/releases/2020/ghd40-ratical-racer-v3.json",
+        "data/releases/2020/ghg00-ratical-racer-v3.json",
+        "data/releases/2021/gtn49-ratical-racer-v3.json",
+        "data/releases/2022/hcw15-ratical-racer-v3.json",
+        "data/releases/2024/x6999-ratical-racer-v3.json",
+        "data/releases/2025/x6999-ratical-racer-v3.json",
+        "data/releases/2025/jbj90-ratical-racer-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

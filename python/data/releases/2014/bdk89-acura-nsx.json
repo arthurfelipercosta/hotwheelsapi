@@ -1,0 +1,25 @@
+{
+    "release_id": "bdk89-acura-nsx-2014",
+    "toy_number": "BDK89",
+    "casting_id": "acura-nsx",
+    "year": 2014,
+    "series_id": "hw-road-trippin",
+    "series_index": 32,
+    "specs": {
+        "color": "Anodized Blue",
+        "tampo": "Red, white, black, gold deco, 'Badwater Basin', 'Route190' on sides, 'NSX' on windshield, red/black stripes, white Acura on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): G42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/2014_AcuraNSX.jpg/revision/latest/scale-to-width-down/75?cb=20181113235820"
+    }
+}

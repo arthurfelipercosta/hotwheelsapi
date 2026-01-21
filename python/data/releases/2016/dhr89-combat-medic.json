@@ -1,0 +1,24 @@
+{
+    "release_id": "dhr89-combat-medic-2016",
+    "toy_number": "DHR89",
+    "casting_id": "combat-medic",
+    "year": 2016,
+    "series_id": "hw-art-cars",
+    "series_index": 6,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Yellow, Blue, White & Black comic graphics on sides & roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "White & Turquoise OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/Combat-Medic-HW2016.jpg/revision/latest/scale-to-width-down/75?cb=20160428174736"
+    }
+}

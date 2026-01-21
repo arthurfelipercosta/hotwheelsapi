@@ -1,0 +1,17 @@
+{
+    "series_id": "treasure-hunts",
+    "year": 2008,
+    "name": "Treasure Hunts",
+    "total_releases": 8,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2008/m6967-chrysler-300c-hemi.json",
+        "data/releases/2008/m6968-70-plymouth-roadrunner.json",
+        "data/releases/2008/m6969-rockster.json",
+        "data/releases/2008/m6970-2005-ford-mustang-gt.json",
+        "data/releases/2008/m6971-hot-bird.json",
+        "data/releases/2008/m6974-2006-dodge-viper-coupe.json",
+        "data/releases/2008/m6975-16-angels.json",
+        "data/releases/2008/m6976-64-buick-riviera.json"
+    ]
+}

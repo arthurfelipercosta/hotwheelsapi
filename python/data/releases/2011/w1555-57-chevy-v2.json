@@ -1,0 +1,26 @@
+{
+    "release_id": "w1555-57-chevy-2011",
+    "toy_number": "W1555",
+    "casting_id": "57-chevy",
+    "year": 2011,
+    "series_id": "the-hot-ones",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Dark Red",
+        "tampo": "Yellow, Blue & Orange Stripes, \"'57 Chevy\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BW",
+            "1": "RLBW",
+            "2": "Chase Base code(s): D18"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/57Chevy_HotOnes_Red.JPG/revision/latest/scale-to-width-down/75?cb=20110627101101"
+    }
+}

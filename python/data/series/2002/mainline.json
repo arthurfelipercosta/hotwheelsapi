@@ -1,0 +1,31 @@
+{
+    "series_id": "mainline",
+    "year": 2002,
+    "name": "Mainline",
+    "total_releases": 22,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2002/54436-maelstrom.json",
+        "data/releases/2002/54464-ford-f-150.json",
+        "data/releases/2002/54525-57-chevy.json",
+        "data/releases/2002/55000-honda-civic-si.json",
+        "data/releases/2002/55001-71-plymouth-gtx.json",
+        "data/releases/2002/55011-surf-crate.json",
+        "data/releases/2002/55017-vulture-roadster.json",
+        "data/releases/2002/55024-67-camaro.json",
+        "data/releases/2002/55032-65-mustang-convertible.json",
+        "data/releases/2002/55039-olds-442-w-30.json",
+        "data/releases/2002/55043-fandango.json",
+        "data/releases/2002/55052-rodzilla.json",
+        "data/releases/2002/55054-enforcer.json",
+        "data/releases/2002/55058-70-plymouth-barracuda.json",
+        "data/releases/2002/55064-70-mustang-mach-1.json",
+        "data/releases/2002/55064-70-mustang-mach-1.json",
+        "data/releases/2002/55064-70-mustang-mach-1.json",
+        "data/releases/2002/55065-shoe-box.json",
+        "data/releases/2002/55071-cat-wheel-loader.json",
+        "data/releases/2002/55076-56-ford-f-100-truck.json",
+        "data/releases/2002/55085-mini-cooper.json",
+        "data/releases/2002/55085-mini-cooper.json"
+    ]
+}

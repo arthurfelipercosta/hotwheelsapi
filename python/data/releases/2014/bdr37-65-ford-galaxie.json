@@ -1,0 +1,24 @@
+{
+    "release_id": "bdr37-65-ford-galaxie-2014",
+    "toy_number": "BDR37",
+    "casting_id": "65-ford-galaxie",
+    "year": 2014,
+    "series_id": "cool-classics",
+    "series_index": 16,
+    "specs": {
+        "color": "Spectrafrost Blue",
+        "tampo": "\"Far * Out\", \"*Galaxie*\", \"427 C.I.D.\", \"Carolina Tested\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RSW"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): G24, G30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/65-Ford-A.-Galaxie-500.jpg/revision/latest/scale-to-width-down/75?cb=20141118162357"
+    }
+}

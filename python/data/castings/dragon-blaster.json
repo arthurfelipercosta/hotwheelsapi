@@ -1,0 +1,33 @@
+{
+    "casting_id": "dragon-blaster",
+    "name": "Dragon Blaster",
+    "description": {
+        "en-us": "Dragon Blaster Debut series Color Shifters Creatures Produced 2010 - Present Designer Julian Payne Number R1173",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r1173-dragon-blaster-v2.json",
+        "data/releases/2010/r7789-dragon-blaster-v3.json",
+        "data/releases/2010/r7789-dragon-blaster-v4.json",
+        "data/releases/2011/v0591-dragon-blaster-v2.json",
+        "data/releases/2013/x1715-dragon-blaster-v2.json",
+        "data/releases/2013/x1898-dragon-blaster-v2.json",
+        "data/releases/2014/bfc81-dragon-blaster-v2.json",
+        "data/releases/2014/bfg13-dragon-blaster-v2.json",
+        "data/releases/2015/cfm32-dragon-blaster-v2.json",
+        "data/releases/2016/dht33-dragon-blaster-v2.json",
+        "data/releases/2017/dvd11-dragon-blaster-v2.json",
+        "data/releases/2017/dvc22-dragon-blaster-v2.json",
+        "data/releases/2018/fkt51-dragon-blaster-v2.json",
+        "data/releases/2019/fyl25-dragon-blaster-v2.json",
+        "data/releases/2021/gww18-dragon-blaster-v2.json",
+        "data/releases/2021/gyp20-dragon-blaster-v2.json",
+        "data/releases/2022/hdv02-dragon-blaster-v2.json",
+        "data/releases/2022/hfd10-dragon-blaster-v2.json",
+        "data/releases/2024/htc10-dragon-blaster-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

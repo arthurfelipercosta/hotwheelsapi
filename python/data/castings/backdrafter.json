@@ -1,0 +1,21 @@
+{
+    "casting_id": "backdrafter",
+    "name": "Backdrafter",
+    "description": {
+        "en-us": "Backdrafter Debut series HW City: HW City Works Produced 2015 - Present Designer Ryu Asada Number CFG75",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfg75-backdrafter.json",
+        "data/releases/2015/cfj57-backdrafter.json",
+        "data/releases/2016/dht10-backdrafter.json",
+        "data/releases/2016/dhx10-backdrafter.json",
+        "data/releases/2017/dtx97-backdrafter.json",
+        "data/releases/2018/fjw85-backdrafter.json",
+        "data/releases/2022/hfv89-backdrafter.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

@@ -2,10 +2,11 @@
     "series_id": "otter-pops",
     "year": 2000,
     "name": "Otter Pops",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 2,
     "releases": [
         "data/releases/2000/28001-purple-passion.json",
-        "data/releases/2000/28001-purple-passion.json"
+        "data/releases/2000/28001-purple-passion.json",
+        "data/releases/2000/28003-67-camaro.json"
     ]
 }

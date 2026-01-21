@@ -1,0 +1,24 @@
+{
+    "release_id": "x1674-mitsubishi-eclipse-concept-car-2013",
+    "toy_number": "X1674",
+    "casting_id": "mitsubishi-eclipse-concept-car",
+    "year": 2013,
+    "series_id": "hw-city-hw-rescue",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "FIRE 028",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): F17, F18, F19, F20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Mitsubishi_Eclipse_Concept_Car-2013_018.jpg/revision/latest/scale-to-width-down/75?cb=20130805122647"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "t9876-70-mustang-mach-1-2011",
+    "toy_number": "T9876",
+    "casting_id": "70-mustang-mach-1",
+    "year": 2011,
+    "series_id": "hw-main-street",
+    "series_index": 9,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black & White Stripes, \"Annaopolis\", \"Fire Rescue\", \"35\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D25, D41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/70_ford_mustang_mach_1_2011_yellow.png/revision/latest/scale-to-width-down/75?cb=20110914233515"
+    }
+}

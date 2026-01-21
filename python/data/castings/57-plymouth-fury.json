@@ -1,0 +1,27 @@
+{
+    "casting_id": "57-plymouth-fury",
+    "name": "'57 Plymouth Fury",
+    "description": {
+        "en-us": "'57 Plymouth Fury Debut series Real Riders Produced 2005 - 2020 Designer Larry Wood Number H9210",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/h9210-57-plymouth-fury.json",
+        "data/releases/2007/m3074-57-plymouth-fury.json",
+        "data/releases/2007/l7883-57-plymouth-fury.json",
+        "data/releases/2009/p2352-57-plymouth-fury.json",
+        "data/releases/2009/p2364-57-plymouth-fury.json",
+        "data/releases/2011/t8290-57-plymouth-fury.json",
+        "data/releases/2012/w8328-57-plymouth-fury.json",
+        "data/releases/2013/y2072-57-plymouth-fury.json",
+        "data/releases/2014/bdl58-57-plymouth-fury.json",
+        "data/releases/2016/djk78-57-plymouth-fury.json",
+        "data/releases/2018/gdg85-57-plymouth-fury.json",
+        "data/releases/2020/ghd67-57-plymouth-fury.json",
+        "data/releases/2020/ghg05-57-plymouth-fury.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Plymouth"
+}

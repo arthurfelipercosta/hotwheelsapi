@@ -2,10 +2,17 @@
     "series_id": "hw-city-street-power",
     "year": 2015,
     "name": "HW City: Street Power",
-    "total_releases": 2,
+    "total_releases": 9,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfg93-lamborghini-urus.json",
+        "data/releases/2015/cfh07-bmw-m4.json",
         "data/releases/2015/cfh08-super-volt.json",
-        "data/releases/2015/cfl20-super-volt.json"
+        "data/releases/2015/cfh11-cadillac-elmiraj.json",
+        "data/releases/2015/cfh81-ferrari-599-gtb-fiorano.json",
+        "data/releases/2015/cfj72-lamborghini-urus.json",
+        "data/releases/2015/cfl20-super-volt.json",
+        "data/releases/2015/cfl31-bmw-m4.json",
+        "data/releases/2015/cfl42-cadillac-elmiraj.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "j3249-porsche-carrera-gt-2006",
+    "toy_number": "J3249",
+    "casting_id": "porsche-carrera-gt",
+    "year": 2006,
+    "series_id": "2006-first-editions",
+    "series_index": 8,
+    "specs": {
+        "color": "GT Silver",
+        "tampo": "Carrera GT on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "OH5",
+            "1": "FTE"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Porsche_Carrera_GT_CIMG1114.JPG/revision/latest/scale-to-width-down/75?cb=20110910153328"
+    }
+}

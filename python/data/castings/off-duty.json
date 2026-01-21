@@ -1,0 +1,29 @@
+{
+    "casting_id": "off-duty",
+    "name": "Off-Duty",
+    "description": {
+        "en-us": "Off-Duty Debut series HW Off-Road: HW Hot Trucks Produced 2014 - Present Designer Fraser Campbell Number BDD13",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd13-off-duty.json",
+        "data/releases/2014/bff80-off-duty.json",
+        "data/releases/2015/cfk63-off-duty.json",
+        "data/releases/2015/cfl91-off-duty.json",
+        "data/releases/2016/dhr52-off-duty.json",
+        "data/releases/2016/dhw87-off-duty.json",
+        "data/releases/2017/dtx98-off-duty.json",
+        "data/releases/2017/dvb87-off-duty.json",
+        "data/releases/2017/dvb87-off-duty-v2.json",
+        "data/releases/2017/dwf47-off-duty.json",
+        "data/releases/2018/fkt56-off-duty.json",
+        "data/releases/2019/fly24-off-duty.json",
+        "data/releases/2021/gtn46-off-duty.json",
+        "data/releases/2023/hly75-off-duty.json",
+        "data/releases/2024/hxc42-off-duty.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

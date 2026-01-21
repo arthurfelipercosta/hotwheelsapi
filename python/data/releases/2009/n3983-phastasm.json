@@ -1,0 +1,24 @@
+{
+    "release_id": "n3983-phastasm-2009",
+    "toy_number": "N3983",
+    "casting_id": "phastasm",
+    "year": 2009,
+    "series_id": "racing-rigs",
+    "series_index": null,
+    "specs": {
+        "color": "Transparent Red",
+        "tampo": "Black With Yellow outline Flames on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gold",
+        "wheel_type": {
+            "0": "Gold OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/PhantasmRacingrigstempcrop.JPG/revision/latest/scale-to-width-down/75?cb=20191008105741"
+    }
+}

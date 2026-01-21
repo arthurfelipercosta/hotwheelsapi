@@ -1,0 +1,18 @@
+{
+    "casting_id": "70-dodge-charger",
+    "name": "'70 Dodge Charger",
+    "description": {
+        "en-us": "'70 Dodge Charger Debut series Tooned Produced 2023 – Present Designer Fraser Campbell Number HKG57",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg57-70-dodge-charger.json",
+        "data/releases/2024/htb40-70-dodge-charger.json",
+        "data/releases/2024/htd86-70-dodge-charger.json",
+        "data/releases/2025/jcb63-70-dodge-charger.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Dodge"
+}

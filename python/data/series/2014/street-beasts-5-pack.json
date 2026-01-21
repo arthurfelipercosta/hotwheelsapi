@@ -1,0 +1,12 @@
+{
+    "series_id": "street-beasts-5-pack",
+    "year": 2014,
+    "name": "Street Beasts 5-Pack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bfb30-swamp-buggy.json",
+        "data/releases/2014/bfb30-t-rextroyer.json",
+        "data/releases/2014/bfb30-zombot.json"
+    ]
+}

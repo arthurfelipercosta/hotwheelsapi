@@ -1,0 +1,19 @@
+{
+    "casting_id": "bmw-r-ninet-racer",
+    "name": "BMW R nineT Racer",
+    "description": {
+        "en-us": "BMW R nineT Racer Debut series Retro Racers Produced 2022 – Present Designer Lindsey Lee Number HCT47",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct47-bmw-r-ninet-racer.json",
+        "data/releases/2022/hct47-bmw-r-ninet-racer-v2.json",
+        "data/releases/2022/hcx31-bmw-r-ninet-racer.json",
+        "data/releases/2023/hkl01-bmw-r-ninet-racer.json",
+        "data/releases/2024/hrr92-bmw-r-ninet-racer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "BMW"
+}

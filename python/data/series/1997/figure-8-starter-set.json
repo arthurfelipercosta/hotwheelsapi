@@ -1,0 +1,11 @@
+{
+    "series_id": "figure-8-starter-set",
+    "year": 1997,
+    "name": "Figure 8 Starter Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1997/13346-power-pipes.json",
+        "data/releases/1997/17325-power-pistons.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "v5346-52-chevy-truck-2012",
+    "toy_number": "V5346",
+    "casting_id": "52-chevy-truck",
+    "year": 2012,
+    "series_id": "treasure-hunts",
+    "series_index": 8,
+    "specs": {
+        "color": "Metallic Plum",
+        "tampo": "Champagne Gold metallic roof, Black & white tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "N/A",
+        "wheel_type": {
+            "0": "White line Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E02, E04, E05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/%2752_Chevy_Truck.058_2012.jpg/revision/latest/scale-to-width-down/75?cb=20120429103429"
+    }
+}

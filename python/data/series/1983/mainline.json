@@ -1,0 +1,15 @@
+{
+    "series_id": "mainline",
+    "year": 1983,
+    "name": "Mainline",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1983/1698-cadillac-seville.json",
+        "data/releases/1983/3259-jeep-cj-7.json",
+        "data/releases/1983/3259-jeep-cj-7.json",
+        "data/releases/1983/3259-jeep-cj-7.json",
+        "data/releases/1983/3913-67-camaro.json",
+        "data/releases/1983/3923-classic-cobra.json"
+    ]
+}

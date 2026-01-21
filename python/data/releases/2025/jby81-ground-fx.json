@@ -1,0 +1,24 @@
+{
+    "release_id": "jby81-ground-fx-2025",
+    "toy_number": "JBY81",
+    "casting_id": "ground-fx",
+    "year": 2025,
+    "series_id": "salt-flat-racers",
+    "series_index": 1,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Red and black striping, COMP, Bell, Edelbrock, Auto Meter and AEM logos, \"826\", \"GROUND FX\", masked creature on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "SK5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/JBY81.jpg/revision/latest/scale-to-width-down/75?cb=20241215111551"
+    }
+}

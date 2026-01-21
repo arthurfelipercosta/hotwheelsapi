@@ -1,0 +1,25 @@
+{
+    "release_id": "bfg30-2005-ford-mustang-gt-2014",
+    "toy_number": "BFG30",
+    "casting_id": "2005-ford-mustang-gt",
+    "year": 2014,
+    "series_id": "hw-city-mustang-50th",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Blue stripes on sides and across top, 'GT' on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Black OH5 ."
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G25, G26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/101_1494.JPG/revision/latest/scale-to-width-down/75?cb=20150607220338"
+    }
+}

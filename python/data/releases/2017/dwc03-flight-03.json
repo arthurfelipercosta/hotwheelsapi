@@ -1,0 +1,24 @@
+{
+    "release_id": "dwc03-flight-03-2017",
+    "toy_number": "DWC03",
+    "casting_id": "flight-03",
+    "year": 2017,
+    "series_id": "hw-easter",
+    "series_index": 5,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "White, Yellow & Pink stripes, & 'Easter' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (yellow)",
+        "interior_color": "brown",
+        "wheel_type": {
+            "0": "Orange Lip OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): J49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Easter_2017_Flight_03.jpg/revision/latest/scale-to-width-down/75?cb=20170202221847"
+    }
+}

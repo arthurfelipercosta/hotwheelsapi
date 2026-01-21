@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd60-vw-golf-2019",
+    "toy_number": "FYD60",
+    "casting_id": "vw-golf",
+    "year": 2019,
+    "series_id": "volkswagen",
+    "series_index": 7,
+    "specs": {
+        "color": "Metalflake Teal",
+        "tampo": "Black hood, black & yellow stripes on Sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L38, L39, L42, L43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/VW_Golf_Mk2_Teal_19.jpg/revision/latest/scale-to-width-down/75?cb=20181124233324"
+    }
+}

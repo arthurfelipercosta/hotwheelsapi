@@ -1,0 +1,25 @@
+{
+    "release_id": "gjt44-volkswagen-baja-bug-2020",
+    "toy_number": "GJT44",
+    "casting_id": "volkswagen-baja-bug",
+    "year": 2020,
+    "series_id": "car-culture-team-transport-23",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Green & Red stripes, 52, K&N logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black RR8DOT"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N18, N22, N31, N35, N45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/2021_HW_Baja_Team_Transport.png/revision/latest/scale-to-width-down/75?cb=20200910125513"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hck14-98-subaru-impreza-22b-sti-version-2022",
+    "toy_number": "HCK14",
+    "casting_id": "98-subaru-impreza-22b-sti-version",
+    "year": 2022,
+    "series_id": "car-culture-ronin-run",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake orange",
+        "tampo": "Detailed headlights, taillights and trim, carbon fiber-textured hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR10SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): R44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/22BSTi.jpg/revision/latest/scale-to-width-down/75?cb=20221202095922"
+    }
+}

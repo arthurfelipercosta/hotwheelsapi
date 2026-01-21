@@ -2,9 +2,10 @@
     "series_id": "10-pack-exclusive",
     "year": 2006,
     "name": "10-Pack Exclusive",
-    "total_releases": 3,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
+        "data/releases/2006/54886-2005-ford-mustang-gt.json",
         "data/releases/2006/54886-purple-passion.json",
         "data/releases/2006/54886-purple-passion.json",
         "data/releases/2006/n-a-stockar.json"

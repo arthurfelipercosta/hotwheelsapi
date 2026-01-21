@@ -1,0 +1,25 @@
+{
+    "release_id": "t9707-10-chevy-impala-2011",
+    "toy_number": "T9707",
+    "casting_id": "10-chevy-impala",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 37,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Yellow & White flames",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Light Gray",
+        "wheel_type": {
+            "0": "Yellow Rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Released as Danica Patrick 2010 Chevy Impala Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+    }
+}

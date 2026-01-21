@@ -2,9 +2,21 @@
     "series_id": "mainline",
     "year": 1998,
     "name": "Mainline",
-    "total_releases": 1,
+    "total_releases": 13,
     "max_index": 0,
     "releases": [
-        "data/releases/1998/19529-humvee.json"
+        "data/releases/1998/12350-3-window-34.json",
+        "data/releases/1998/12350-3-window-34.json",
+        "data/releases/1998/13871-65-mustang-convertible.json",
+        "data/releases/1998/15777-blown-camaro.json",
+        "data/releases/1998/15777-blown-camaro.json",
+        "data/releases/1998/19515-rigor-motor.json",
+        "data/releases/1998/19529-humvee.json",
+        "data/releases/1998/19571-power-pipes.json",
+        "data/releases/1998/19580-combat-medic.json",
+        "data/releases/1998/19584-olds-442-w-30.json",
+        "data/releases/1998/19956-57-chevy.json",
+        "data/releases/1998/19967-propper-chopper.json",
+        "data/releases/1998/22068-ford-f-150.json"
     ]
 }

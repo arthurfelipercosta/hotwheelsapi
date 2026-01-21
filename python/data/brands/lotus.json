@@ -1,0 +1,20 @@
+{
+    "brand_id": "lotus",
+    "name": "Lotus",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/67-lotus-type-49.json",
+        "data/castings/lotus-cortina.json",
+        "data/castings/lotus-emira.json",
+        "data/castings/lotus-esprit-s1.json",
+        "data/castings/lotus-evija.json",
+        "data/castings/lotus-evora-gt4.json",
+        "data/castings/lotus-project-m250.json",
+        "data/castings/lotus-sport-elise.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Lotus vehicles.",
+        "pt-br": "Fabricante de veículos Lotus."
+    }
+}

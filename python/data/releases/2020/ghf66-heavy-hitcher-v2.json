@@ -1,0 +1,26 @@
+{
+    "release_id": "ghf66-heavy-hitcher-2020",
+    "toy_number": "GHF66",
+    "casting_id": "heavy-hitcher",
+    "year": 2020,
+    "series_id": "experimotors",
+    "series_index": 7,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "Gold and Blue Flame pinstripe on doors. Blue and Gold Stipes on sides. ‘Experimotors Garage' and HW Logo on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome Blue rim",
+            "1": "Black PR5 & Chrome Blue rim",
+            "2": "Black ST8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M50, N04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Heavy_hitcher_ghf66.jpg/revision/latest/scale-to-width-down/75?cb=20200323180913"
+    }
+}

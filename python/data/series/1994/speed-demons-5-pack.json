@@ -1,0 +1,13 @@
+{
+    "series_id": "speed-demons-5-pack",
+    "year": 1994,
+    "name": "Speed Demons 5-Pack",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1994/11363-ratmobile.json",
+        "data/releases/1994/11363-rodzilla.json",
+        "data/releases/1994/11363-vampyra.json",
+        "data/releases/1994/m6992-eevil-weevil.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "ghd06-69-ford-mustang-boss-302-2020",
+    "toy_number": "GHD06",
+    "casting_id": "69-ford-mustang-boss-302",
+    "year": 2020,
+    "series_id": "muscle-mania",
+    "series_index": 3,
+    "specs": {
+        "color": "Black",
+        "tampo": "Green Striping around hood. Grey circles and striping on hood. 'RTR Vehicles' & Hot Wheels logo printed on windscreen.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Green rim",
+            "1": "Black RSW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Re-tooled. Base code(s) : N11, N20, N23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/GHD06-01.JPG/revision/latest/scale-to-width-down/75?cb=20200622015716"
+    }
+}

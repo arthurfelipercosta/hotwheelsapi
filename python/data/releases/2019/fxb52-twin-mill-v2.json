@@ -1,0 +1,25 @@
+{
+    "release_id": "fxb52-twin-mill-2019",
+    "toy_number": "FXB52",
+    "casting_id": "twin-mill",
+    "year": 2019,
+    "series_id": "hot-wheels-id-hw-greats",
+    "series_index": 3,
+    "specs": {
+        "color": "Spectraflame Orange",
+        "tampo": "Black & Orange pinstripes, scallops on roof & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Transparent Orange Wheels",
+            "1": "Black ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/FXB52_Twin_Mill.jpg/revision/latest/scale-to-width-down/75?cb=20200114023653"
+    }
+}

@@ -2,10 +2,18 @@
     "series_id": "mystery-models-series-1",
     "year": 2026,
     "name": "Mystery Models (Series 1)",
-    "total_releases": 2,
-    "max_index": 9,
+    "total_releases": 10,
+    "max_index": 4,
     "releases": [
+        "data/releases/2026/jkc22-nissan-fairlady-z.json",
+        "data/releases/2026/jkc23-16-bugatti-chiron.json",
+        "data/releases/2026/jkc24-ford-shelby-gt350r.json",
         "data/releases/2026/jkc25-bone-shaker.json",
-        "data/releases/2026/jkc30-max-steel.json"
+        "data/releases/2026/jkc26-maximum-leeway.json",
+        "data/releases/2026/jkc27-hw-4-trac.json",
+        "data/releases/2026/jkc28-cyber-speeder.json",
+        "data/releases/2026/jkc29-muscle-and-blown.json",
+        "data/releases/2026/jkc30-max-steel.json",
+        "data/releases/2026/jkc31-rollin-solo.json"
     ]
 }

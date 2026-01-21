@@ -2,16 +2,25 @@
     "series_id": "heat-fleet",
     "year": 2011,
     "name": "Heat Fleet",
-    "total_releases": 8,
+    "total_releases": 17,
     "max_index": 7,
     "releases": [
         "data/releases/2011/t9798-custom-53-chevy.json",
+        "data/releases/2011/t9800-56-ford-f-100-truck.json",
         "data/releases/2011/t9801-fish-d-chip-d.json",
+        "data/releases/2011/t9803-custom-77-dodge-van.json",
+        "data/releases/2011/t9803-custom-77-dodge-van.json",
         "data/releases/2011/t9804-pass-n-gasser.json",
         "data/releases/2011/t9804-pass-n-gasser.json",
+        "data/releases/2011/t9806-custom-volkswagen-beetle.json",
+        "data/releases/2011/t9806-custom-volkswagen-beetle.json",
+        "data/releases/2011/t9937-56-ford-f-100-truck.json",
         "data/releases/2011/v0005-custom-53-chevy.json",
+        "data/releases/2011/v0006-56-ford-f-100-truck.json",
         "data/releases/2011/v0017-pass-n-gasser.json",
         "data/releases/2011/v0052-custom-53-chevy.json",
-        "data/releases/2011/v5217-fish-d-chip-d.json"
+        "data/releases/2011/v5207-custom-volkswagen-beetle.json",
+        "data/releases/2011/v5217-fish-d-chip-d.json",
+        "data/releases/2011/v5219-56-ford-f-100-truck.json"
     ]
 }

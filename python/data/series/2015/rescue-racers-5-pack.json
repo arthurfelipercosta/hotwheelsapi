@@ -1,0 +1,14 @@
+{
+    "series_id": "rescue-racers-5-pack",
+    "year": 2015,
+    "name": "Rescue Racers 5-Pack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cdt18-dodge-charger-drift-car.json",
+        "data/releases/2015/cdt18-fire-eater.json",
+        "data/releases/2015/cdt18-rapid-response.json",
+        "data/releases/2015/cdt18-repo-duty.json",
+        "data/releases/2015/cdt18-sky-knife.json"
+    ]
+}

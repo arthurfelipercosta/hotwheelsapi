@@ -1,0 +1,19 @@
+{
+    "casting_id": "diaper-dragger",
+    "name": "Diaper Dragger",
+    "description": {
+        "en-us": "Diaper Dragger Debut series HW Ride-Ons Produced 2019 - Present Designer Dmitriy Shakhmatov Number FYB63",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb63-diaper-dragger-v2.json",
+        "data/releases/2019/fyf55-diaper-dragger-v2.json",
+        "data/releases/2020/ghc45-diaper-dragger-v2.json",
+        "data/releases/2020/ghd93-diaper-dragger-v2.json",
+        "data/releases/2022/hfd04-diaper-dragger-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

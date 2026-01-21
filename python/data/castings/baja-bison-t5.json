@@ -1,0 +1,20 @@
+{
+    "casting_id": "baja-bison-t5",
+    "name": "Baja Bison T5",
+    "description": {
+        "en-us": "Baja Bison T5 Debut series HW Green Speed Produced 2023 – Present Designer Sonny Fisher Number HKG44",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg44-baja-bison-t5.json",
+        "data/releases/2023/hkk23-baja-bison-t5.json",
+        "data/releases/2024/htb61-baja-bison-t5.json",
+        "data/releases/2024/htd29-baja-bison-t5.json",
+        "data/releases/2025/jdm25-baja-bison-t5.json",
+        "data/releases/2026/jkg10-baja-bison-t5.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

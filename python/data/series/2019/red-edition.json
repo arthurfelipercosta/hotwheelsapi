@@ -2,13 +2,19 @@
     "series_id": "red-edition",
     "year": 2019,
     "name": "Red Edition",
-    "total_releases": 6,
-    "max_index": 5,
+    "total_releases": 12,
+    "max_index": 7,
     "releases": [
+        "data/releases/2019/fyg62-57-chevy.json",
+        "data/releases/2019/fyg63-lamborghini-revent-n-roadster.json",
         "data/releases/2019/fyg65-custom-53-cadillac.json",
         "data/releases/2019/fyg66-srt-viper-gts-r.json",
+        "data/releases/2019/fyg67-rescue-ranger.json",
+        "data/releases/2019/fyg68-87-dodge-d100.json",
+        "data/releases/2019/fyg69-porsche-918-spyder.json",
         "data/releases/2019/fyg70-hw50-concept.json",
         "data/releases/2019/fyg71-67-chevy-c10.json",
+        "data/releases/2019/fyg73-volkswagen-caddy.json",
         "data/releases/2019/gmr66-corvette-c7-r.json",
         "data/releases/2019/gmr66-corvette-c7-r.json"
     ]

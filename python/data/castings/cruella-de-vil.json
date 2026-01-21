@@ -1,0 +1,19 @@
+{
+    "casting_id": "cruella-de-vil",
+    "name": "Cruella de Vil",
+    "description": {
+        "en-us": "Cruella de Vil Debut series HW Screen Time Produced 2018 - Present Designer Dmitriy Shakhmatov Number FJW04",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjw04-cruella-de-vil.json",
+        "data/releases/2018/fbk43-cruella-de-vil.json",
+        "data/releases/2019/fyc89-cruella-de-vil.json",
+        "data/releases/2021/grl88-cruella-de-vil.json",
+        "data/releases/2023/hkf06-cruella-de-vil.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

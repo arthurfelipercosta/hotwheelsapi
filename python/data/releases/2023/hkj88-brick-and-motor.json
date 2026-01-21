@@ -1,0 +1,25 @@
+{
+    "release_id": "hkj88-brick-and-motor-2023",
+    "toy_number": "HKJ88",
+    "casting_id": "brick-and-motor",
+    "year": 2023,
+    "series_id": "brick-rides",
+    "series_index": 4,
+    "specs": {
+        "color": "Green",
+        "tampo": "Yellow pinstriping, skull, \"B/M\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "BLOR",
+            "1": "SK5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/HKJ88.jpg/revision/latest/scale-to-width-down/75?cb=20230529151413"
+    }
+}

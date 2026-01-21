@@ -2,12 +2,28 @@
     "series_id": "hw-racing",
     "year": 2011,
     "name": "HW Racing",
-    "total_releases": 4,
-    "max_index": 9,
+    "total_releases": 20,
+    "max_index": 6,
     "releases": [
+        "data/releases/2011/t9858-67-chevelle-ss-396.json",
+        "data/releases/2011/t9859-custom-41-willys-coupe.json",
+        "data/releases/2011/t9861-66-chevy-nova.json",
+        "data/releases/2011/t9862-69-ford-mustang.json",
         "data/releases/2011/t9863-83-chevy-silverado.json",
+        "data/releases/2011/t9865-69-corvette.json",
         "data/releases/2011/t9866-92-ford-mustang.json",
+        "data/releases/2011/t9867-57-chevy.json",
+        "data/releases/2011/t9941-custom-41-willys-coupe.json",
+        "data/releases/2011/t9942-66-chevy-nova.json",
+        "data/releases/2011/t9963-67-chevelle-ss-396.json",
+        "data/releases/2011/t9989-69-ford-mustang.json",
+        "data/releases/2011/v0009-67-chevelle-ss-396.json",
+        "data/releases/2011/v0010-66-chevy-nova.json",
+        "data/releases/2011/v0031-custom-41-willys-coupe.json",
+        "data/releases/2011/v0031-custom-41-willys-coupe.json",
         "data/releases/2011/v0041-92-ford-mustang.json",
-        "data/releases/2011/v0060-83-chevy-silverado.json"
+        "data/releases/2011/v0059-69-ford-mustang.json",
+        "data/releases/2011/v0060-83-chevy-silverado.json",
+        "data/releases/2011/v0061-57-chevy.json"
     ]
 }

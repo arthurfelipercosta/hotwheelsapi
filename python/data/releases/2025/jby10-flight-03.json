@@ -1,0 +1,25 @@
+{
+    "release_id": "jby10-flight-03-2025",
+    "toy_number": "JBY10",
+    "casting_id": "flight-03",
+    "year": 2025,
+    "series_id": "batman",
+    "series_index": 5,
+    "specs": {
+        "color": "Red",
+        "tampo": "Zatanna & Hot Wheels logo on sides, tan & black stripes on sides & hood, detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "BP4"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/Batman_2025_Mix_1_Flight_%2703_Red_Thailand_JBY10.jpg/revision/latest/scale-to-width-down/75?cb=20241130143835"
+    }
+}

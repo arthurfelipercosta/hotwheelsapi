@@ -1,0 +1,24 @@
+{
+    "casting_id": "max-steel-motorcycle",
+    "name": "Max Steel Motorcycle",
+    "description": {
+        "en-us": "Max Steel Motorcycle Debut series HW Imagination: Future Fleet Produced 2013 - 2016 Designer Jun Imai and Manson Cheung Number X1659",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1659-max-steel-motorcycle.json",
+        "data/releases/2013/x1939-max-steel-motorcycle.json",
+        "data/releases/2013/bcc54-max-steel-motorcycle.json",
+        "data/releases/2013/bcc55-max-steel-motorcycle.json",
+        "data/releases/2013/bcc56-max-steel-motorcycle.json",
+        "data/releases/2014/bfc94-max-steel-motorcycle.json",
+        "data/releases/2014/bfg20-max-steel-motorcycle.json",
+        "data/releases/2014/cbp23-max-steel-motorcycle.json",
+        "data/releases/2014/cbr20-max-steel-motorcycle.json",
+        "data/releases/2016/dgn46-max-steel-motorcycle.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

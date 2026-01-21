@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd28-lamborghini-revent-n-roadster-2019",
+    "toy_number": "FYD28",
+    "casting_id": "lamborghini-revent-n-roadster",
+    "year": 2019,
+    "series_id": "hw-roadsters",
+    "series_index": 2,
+    "specs": {
+        "color": "Green",
+        "tampo": "Detailed headlights, Black & Gold stripes across hood, Lamborghini logo on front, Lamborghini wordmark on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L23, L27, L30, L31, L32, L34, L37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/Lamborghini-reventon-roadster-2018-green.jpg/revision/latest/scale-to-width-down/75?cb=20181015225659"
+    }
+}

@@ -2,10 +2,16 @@
     "series_id": "hw-off-road-hw-daredevils",
     "year": 2014,
     "name": "HW Off-Road: HW Daredevils",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 0,
     "releases": [
+        "data/releases/2014/bdc90-hw-poppa-wheelie.json",
+        "data/releases/2014/bdc90-hw-poppa-wheelie.json",
+        "data/releases/2014/bfd08-loop-coupe.json",
         "data/releases/2014/bfd09-monster-dairy-delivery.json",
+        "data/releases/2014/bfd10-skate-grom.json",
+        "data/releases/2014/bfd11-mad-propz.json",
+        "data/releases/2014/bff74-hw-poppa-wheelie.json",
         "data/releases/2014/bfg36-monster-dairy-delivery.json"
     ]
 }

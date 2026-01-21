@@ -1,0 +1,23 @@
+{
+    "casting_id": "70-pontiac-firebird",
+    "name": "'70 Pontiac Firebird",
+    "description": {
+        "en-us": "'70 Pontiac Firebird Debut series 2007 New Models Produced 2007 - Present Designer Jun Imai and Rob Matthes Number K6148",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6148-70-pontiac-firebird.json",
+        "data/releases/2007/k6148-70-pontiac-firebird-v2.json",
+        "data/releases/2007/k6148-70-pontiac-firebird-v3.json",
+        "data/releases/2007/k6148-70-pontiac-firebird-v4.json",
+        "data/releases/2009/n4562-70-pontiac-firebird.json",
+        "data/releases/2012/w4021-70-pontiac-firebird.json",
+        "data/releases/2017/dwc57-70-pontiac-firebird.json",
+        "data/releases/2018/fjx49-70-pontiac-firebird.json",
+        "data/releases/2023/hlh84-70-pontiac-firebird.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Pontiac"
+}

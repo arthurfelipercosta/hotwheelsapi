@@ -1,0 +1,11 @@
+{
+    "series_id": "energizer-promo",
+    "year": 2006,
+    "name": "Energizer Promo",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2006/k0873-2005-ford-mustang-gt.json",
+        "data/releases/2006/k0875-mitsubishi-eclipse-concept-car.json"
+    ]
+}

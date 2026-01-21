@@ -1,0 +1,14 @@
+{
+    "series_id": "thrill-racers-desert",
+    "year": 2011,
+    "name": "Thrill Racers - Desert",
+    "total_releases": 5,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2011/t9888-off-track.json",
+        "data/releases/2011/t9892-olds-442-w-30.json",
+        "data/releases/2011/t9893-power-panel.json",
+        "data/releases/2011/v0000-off-track.json",
+        "data/releases/2011/v0020-off-track.json"
+    ]
+}

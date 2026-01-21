@@ -2,10 +2,13 @@
     "series_id": "concrete-cruisers-5-pack",
     "year": 2003,
     "name": "Concrete Cruisers 5-Pack",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
+        "data/releases/2003/57060-64-buick-riviera.json",
+        "data/releases/2003/57060-65-chevy-impala.json",
         "data/releases/2003/57060-la-troca.json",
-        "data/releases/2003/57060-la-troca.json"
+        "data/releases/2003/57060-la-troca.json",
+        "data/releases/2003/57060-so-fine.json"
     ]
 }

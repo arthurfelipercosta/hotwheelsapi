@@ -1,0 +1,24 @@
+{
+    "release_id": "blr52-67-camaro-2014",
+    "toy_number": "BLR52",
+    "casting_id": "67-camaro",
+    "year": 2014,
+    "series_id": "hwc-gulf-racing",
+    "series_index": 1,
+    "specs": {
+        "color": "Spectraflame Gulf Powder Blue",
+        "tampo": "Orange front end turning into orange & black stripes along top & sides, Gulf logo on sides & hood, “67” on sides, hood, & trunk, various sponsor logos on sides, painted taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Goodyear RRPrf"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Hot_Wheels_2015_-_67_Camaro_Gulf_-_Loose.png/revision/latest/scale-to-width-down/75?cb=20221203090113"
+    }
+}

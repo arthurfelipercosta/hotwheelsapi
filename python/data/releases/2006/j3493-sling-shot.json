@@ -1,0 +1,33 @@
+{
+    "release_id": "j3493-sling-shot-2006",
+    "toy_number": "J3493",
+    "casting_id": "sling-shot",
+    "year": 2006,
+    "series_id": "track-aces",
+    "series_index": 12,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Track Aces graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "OH5",
+            "1": "2007",
+            "2": "Arkham Asylum Escape",
+            "3": "Black",
+            "4": "Batman Logo",
+            "5": "ZAMAC",
+            "6": "Red tint",
+            "7": "Chrome",
+            "8": "Gray PR5",
+            "9": "Malaysia"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/06_OH5_Tack_Aces_Sling_Shot.jpg/revision/latest/scale-to-width-down/75?cb=20080326033534"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "casting_id": "surf-s-up",
+    "name": "Surf's Up",
+    "description": {
+        "en-us": "Surf's Up Debut series Olympic Games Tokyo 2020 Produced 2020 - Present Designer Dmitriy Shakhmatov Number GHB72",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb72-surf-s-up.json",
+        "data/releases/2021/gtb00-surf-s-up.json",
+        "data/releases/2021/gtc07-surf-s-up.json",
+        "data/releases/2024/htb97-surf-s-up.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

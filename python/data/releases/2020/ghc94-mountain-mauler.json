@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc94-mountain-mauler-2020",
+    "toy_number": "GHC94",
+    "casting_id": "mountain-mauler",
+    "year": 2020,
+    "series_id": "olympic-games-tokyo-2020",
+    "series_index": 4,
+    "specs": {
+        "color": "Dark Green",
+        "tampo": "White 'TOKYO 2020' and 'SPORT CLIMBING', Green stripe on the sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Gold BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Mountain_Mauler.jpg/revision/latest/scale-to-width-down/75?cb=20200705070231"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "zamac-themed-multipack",
+    "year": 2025,
+    "name": "ZAMAC Themed Multipack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2025/jby80-08-ford-focus.json",
+        "data/releases/2025/jby80-99-honda-civic-type-r-ek9.json",
+        "data/releases/2025/jby80-bmw-z4-m-motorsport.json",
+        "data/releases/2025/jby80-porsche-928s-safari.json",
+        "data/releases/2025/jby80-toyota-ae86-sprinter-trueno.json"
+    ]
+}

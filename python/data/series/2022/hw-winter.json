@@ -2,9 +2,13 @@
     "series_id": "hw-winter",
     "year": 2022,
     "name": "HW Winter",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 5,
     "releases": [
-        "data/releases/2022/hdh70-carbonator.json"
+        "data/releases/2022/hdh68-chrysler-pacifica.json",
+        "data/releases/2022/hdh69-geoterra.json",
+        "data/releases/2022/hdh70-carbonator.json",
+        "data/releases/2022/hdh71-land-rover-series-iii-pickup.json",
+        "data/releases/2022/hdh72-toyota-baja-truck.json"
     ]
 }

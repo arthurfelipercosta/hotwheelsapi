@@ -1,0 +1,24 @@
+{
+    "release_id": "hck07-mercedes-benz-300-sl-2022",
+    "toy_number": "HCK07",
+    "casting_id": "mercedes-benz-300-sl",
+    "year": 2022,
+    "series_id": "car-culture-jay-leno-s-garage",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "Detailed headlights, taillights and trim, \"263\" on sides, paint peel, torn \"263\" sticker on left of car",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "RRSteelie"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): R30, R32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/300SLRacer.jpg/revision/latest/scale-to-width-down/75?cb=20220908150205"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "casting_id": "hyper-rocker",
+    "name": "Hyper Rocker",
+    "description": {
+        "en-us": "Hyper Rocker Debut series Experimotors Produced 2019 - Present Designer Dmitriy Shakhmatov Number FYB33",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb33-hyper-rocker-v2.json",
+        "data/releases/2019/fyd84-hyper-rocker-v2.json",
+        "data/releases/2020/ghb90-hyper-rocker-v2.json",
+        "data/releases/2020/ghf64-hyper-rocker-v2.json",
+        "data/releases/2022/hcv50-hyper-rocker-v2.json",
+        "data/releases/2022/hcx26-hyper-rocker-v2.json",
+        "data/releases/2023/hly75-hyper-rocker-v2.json",
+        "data/releases/2024/hxc46-hyper-rocker-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

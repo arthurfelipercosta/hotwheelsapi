@@ -2,9 +2,10 @@
     "series_id": "color-fx-super-stampers",
     "year": 1995,
     "name": "Color FX: Super Stampers",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/1995/12030-corvette-stingray.json"
+        "data/releases/1995/12030-corvette-stingray.json",
+        "data/releases/1995/12206-57-chevy.json"
     ]
 }

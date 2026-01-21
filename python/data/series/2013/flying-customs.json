@@ -2,11 +2,15 @@
     "series_id": "flying-customs",
     "year": 2013,
     "name": "Flying Customs",
-    "total_releases": 3,
+    "total_releases": 7,
     "max_index": 0,
     "releases": [
         "data/releases/2013/x8178-76-chevy-chevette.json",
+        "data/releases/2013/x8191-custom-42-jeep-cj-2a.json",
+        "data/releases/2013/x8194-69-copo-corvette.json",
+        "data/releases/2013/x8199-86-ford-thunderbird-pro-stock.json",
         "data/releases/2013/x8203-71-mustang-funny-car.json",
-        "data/releases/2013/x8219-nissan-skyline-2000gt-r.json"
+        "data/releases/2013/x8219-nissan-skyline-2000gt-r.json",
+        "data/releases/2013/x8220-jeep-cj-7.json"
     ]
 }

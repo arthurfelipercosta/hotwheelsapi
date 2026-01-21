@@ -1,0 +1,31 @@
+{
+    "release_id": "djd20-custom-volkswagen-beetle-2016",
+    "toy_number": "DJD20",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2016,
+    "series_id": "volkswagen-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Matte Light Blue",
+        "tampo": "Black & White scalloped deco with white \"Hot Wheels\" & VW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "Orange-Chrome Rim",
+            "1": "Black OH5",
+            "2": "Chrome",
+            "3": "Plastic",
+            "4": "Updated tooling",
+            "5": "Now has roof rack. No longer has \"stinger\" exhaust. Named \"Volkswagen Custom Beetle\". Base code(s): J08",
+            "6": "J10",
+            "7": "J23"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named \"Volkswagen Custom Beetle\". Base code(s): H50, H51, J02, J03, J04, J24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/Custom_VW_Beetle_-_16_VW_5PK_verA_600pxDM.jpg/revision/latest/scale-to-width-down/75?cb=20160520062138"
+    }
+}

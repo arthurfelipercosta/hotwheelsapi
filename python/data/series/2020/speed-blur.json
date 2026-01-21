@@ -2,10 +2,18 @@
     "series_id": "speed-blur",
     "year": 2020,
     "name": "Speed Blur",
-    "total_releases": 2,
+    "total_releases": 10,
     "max_index": 5,
     "releases": [
+        "data/releases/2020/ghc26-baja-truck.json",
         "data/releases/2020/ghd32-mazda-rx-7.json",
+        "data/releases/2020/ghd33-custom-01-acura-integra-gsr.json",
+        "data/releases/2020/ghd34-indy-500-oval.json",
+        "data/releases/2020/ghd35-roborace-racecar.json",
+        "data/releases/2020/ghf09-baja-truck.json",
+        "data/releases/2020/ghf43-custom-01-acura-integra-gsr.json",
+        "data/releases/2020/ghf78-roborace-racecar.json",
+        "data/releases/2020/ghf83-indy-500-oval.json",
         "data/releases/2020/ghg28-mazda-rx-7.json"
     ]
 }

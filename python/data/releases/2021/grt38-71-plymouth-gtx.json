@@ -1,0 +1,24 @@
+{
+    "release_id": "grt38-71-plymouth-gtx-2021",
+    "toy_number": "GRT38",
+    "casting_id": "71-plymouth-gtx",
+    "year": 2021,
+    "series_id": "flying-customs",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Gold and black pinstriping",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Also found in 10-pack. Updated tooling Base code(s): P02, P05, P10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/1971_Plymouth_GTX_2021.jpg/revision/latest/scale-to-width-down/75?cb=20211004233530"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "corvette-70",
+    "year": 2023,
+    "name": "Corvette 70",
+    "total_releases": 5,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2023/hlh49-55-corvette.json",
+        "data/releases/2023/hlh51-64-corvette-sting-ray.json",
+        "data/releases/2023/hlh52-69-corvette.json",
+        "data/releases/2023/hlh55-corvette-c8-r.json",
+        "data/releases/2023/hlh56-19-corvette-zr1-convertible.json"
+    ]
+}

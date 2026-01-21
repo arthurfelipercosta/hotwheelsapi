@@ -1,0 +1,11 @@
+{
+    "series_id": "hi-rakers",
+    "year": 2006,
+    "name": "Hi-Rakers",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2006/j3428-1971-buick-riviera.json",
+        "data/releases/2006/j3431-olds-442-w-30.json"
+    ]
+}

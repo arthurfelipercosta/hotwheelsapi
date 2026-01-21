@@ -1,0 +1,25 @@
+{
+    "release_id": "grp57-71-plymouth-gtx-2021",
+    "toy_number": "GRP57",
+    "casting_id": "71-plymouth-gtx",
+    "year": 2021,
+    "series_id": "fast-furious",
+    "series_index": 4,
+    "specs": {
+        "color": "Black",
+        "tampo": "Grey Stripes on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chromed rim",
+            "1": "black PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N45, N46, N47, P01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/%2771PlymouthGTX.jpg/revision/latest/scale-to-width-down/75?cb=20220824112937"
+    }
+}

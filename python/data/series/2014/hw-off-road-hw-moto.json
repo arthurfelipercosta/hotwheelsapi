@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-off-road-hw-moto",
+    "year": 2014,
+    "name": "HW Off-Road: HW Moto",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bfd12-canyon-carver.json",
+        "data/releases/2014/bfd14-blastous-moto.json",
+        "data/releases/2014/bfd15-hw450f.json",
+        "data/releases/2014/bfd16-street-noz.json",
+        "data/releases/2014/bff49-hw450f.json",
+        "data/releases/2014/bfg23-street-noz.json"
+    ]
+}

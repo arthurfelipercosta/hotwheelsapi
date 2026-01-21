@@ -1,0 +1,10 @@
+{
+    "series_id": "special-edition",
+    "year": 2016,
+    "name": "Special Edition",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2016/dlh90-maelstrom.json"
+    ]
+}

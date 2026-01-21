@@ -1,0 +1,24 @@
+{
+    "release_id": "cgb73-71-mustang-mach-i-2015",
+    "toy_number": "CGB73",
+    "casting_id": "71-mustang-mach-i",
+    "year": 2015,
+    "series_id": "james-bond",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "Tampo'd side markers, 'Mach 1' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): H22, H23, H31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/71mustang-jamesbond2015-hw.jpg/revision/latest/scale-to-width-down/75?cb=20150909141440"
+    }
+}

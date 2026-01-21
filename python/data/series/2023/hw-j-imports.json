@@ -2,15 +2,30 @@
     "series_id": "hw-j-imports",
     "year": 2023,
     "name": "HW J-Imports",
-    "total_releases": 7,
-    "max_index": 7,
+    "total_releases": 22,
+    "max_index": 3,
     "releases": [
+        "data/releases/2023/hkg23-nissan-patrol-custom.json",
         "data/releases/2023/hkg40-73-honda-civic-custom.json",
+        "data/releases/2023/hkj10-subaru-wrx-sti.json",
         "data/releases/2023/hkj11-2023-nissan-z.json",
+        "data/releases/2023/hkj12-nissan-maxima-drift-car.json",
+        "data/releases/2023/hkj13-nissan-skyline-gt-r-r32.json",
+        "data/releases/2023/hkj14-1968-mazda-cosmo-sport.json",
+        "data/releases/2023/hkj15-1986-toyota-van.json",
         "data/releases/2023/hkj16-90-honda-civic-ef.json",
+        "data/releases/2023/hkj17-88-honda-cr-x.json",
+        "data/releases/2023/hkk61-nissan-patrol-custom.json",
+        "data/releases/2023/hkk62-subaru-wrx-sti.json",
+        "data/releases/2023/hkk63-subaru-wrx-sti.json",
         "data/releases/2023/hkk64-2023-nissan-z.json",
+        "data/releases/2023/hkk65-nissan-maxima-drift-car.json",
+        "data/releases/2023/hkk66-1986-toyota-van.json",
         "data/releases/2023/hkk67-73-honda-civic-custom.json",
+        "data/releases/2023/hkk68-88-honda-cr-x.json",
+        "data/releases/2023/hkl20-1968-mazda-cosmo-sport.json",
         "data/releases/2023/hkl28-90-honda-civic-ef.json",
-        "data/releases/2023/hkl39-2023-nissan-z.json"
+        "data/releases/2023/hkl39-2023-nissan-z.json",
+        "data/releases/2023/hkl46-nissan-patrol-custom.json"
     ]
 }

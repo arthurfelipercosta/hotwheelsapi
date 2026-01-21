@@ -2,10 +2,16 @@
     "series_id": "hw-stars-stripes",
     "year": 2022,
     "name": "HW Stars & Stripes",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 7,
     "releases": [
+        "data/releases/2022/hdh29-84-corvette.json",
+        "data/releases/2022/hdh30-84-pontiac-firebird.json",
+        "data/releases/2022/hdh31-2018-ford-mustang-gt.json",
+        "data/releases/2022/hdh32-67-pontiac-gto.json",
+        "data/releases/2022/hdh33-65-ford-ranchero.json",
         "data/releases/2022/hdh34-custom-56-ford-truck.json",
+        "data/releases/2022/hdh35-muscle-speeder.json",
         "data/releases/2022/hdh36-71-dodge-challenger.json"
     ]
 }

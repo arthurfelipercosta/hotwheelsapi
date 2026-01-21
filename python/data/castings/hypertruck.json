@@ -1,0 +1,29 @@
+{
+    "casting_id": "hypertruck",
+    "name": "Hypertruck",
+    "description": {
+        "en-us": "Hypertruck Debut series 2012 New Models Produced 2012 - Present Designer Alec Tam Number V5301",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5301-hypertruck.json",
+        "data/releases/2013/y2121-hypertruck.json",
+        "data/releases/2014/bfd53-hypertruck.json",
+        "data/releases/2015/cgc23-cgc26-hypertruck.json",
+        "data/releases/2015/x6999-hypertruck.json",
+        "data/releases/2016/dhy14-hypertruck.json",
+        "data/releases/2016/djn63-hypertruck.json",
+        "data/releases/2017/dvf90-hypertruck.json",
+        "data/releases/2018/frn41-hypertruck.json",
+        "data/releases/2018/fkt66-hypertruck.json",
+        "data/releases/2020/gkc53-hypertruck.json",
+        "data/releases/2020/gkc18-hypertruck.json",
+        "data/releases/2021/gyp24-hypertruck.json",
+        "data/releases/2023/hxn89-hypertruck.json",
+        "data/releases/2025/jdn36-hypertruck.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

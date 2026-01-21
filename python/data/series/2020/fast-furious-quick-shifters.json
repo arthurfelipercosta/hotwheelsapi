@@ -2,9 +2,11 @@
     "series_id": "fast-furious-quick-shifters",
     "year": 2020,
     "name": "Fast & Furious : Quick Shifters",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 2,
     "releases": [
-        "data/releases/2020/gjr79-nissan-skyline-gt-r-bcnr33.json"
+        "data/releases/2020/gjr79-nissan-skyline-gt-r-bcnr33.json",
+        "data/releases/2020/gjr81-honda-s2000.json",
+        "data/releases/2020/gjr82-70-plymouth-aar-cuda.json"
     ]
 }

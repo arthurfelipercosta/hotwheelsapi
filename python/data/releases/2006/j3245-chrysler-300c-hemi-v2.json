@@ -1,0 +1,26 @@
+{
+    "release_id": "j3245-chrysler-300c-hemi-2006",
+    "toy_number": "J3245",
+    "casting_id": "chrysler-300c-hemi",
+    "year": 2006,
+    "series_id": "2006-first-editions",
+    "series_index": 4,
+    "specs": {
+        "color": "Black",
+        "tampo": "Detailed head- & taillights, Silver stripe on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "BLING",
+            "1": "Detailed head- & taillights",
+            "2": "No Silver side stripes"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Chrysler300chemi.black.jpg/revision/latest/scale-to-width-down/75?cb=20090615201553"
+    }
+}

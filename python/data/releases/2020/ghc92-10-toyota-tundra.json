@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc92-10-toyota-tundra-2020",
+    "toy_number": "GHC92",
+    "casting_id": "10-toyota-tundra",
+    "year": 2020,
+    "series_id": "olympic-games-tokyo-2020",
+    "series_index": 2,
+    "specs": {
+        "color": "Dark Red",
+        "tampo": "Light Pink & Dark Pink striping on sides & hood. Tokyo 2020 Olympic Logo on Hood. 'Tokyo 2020', 'Baseball' & HW logo on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Rim",
+            "1": "Black BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Also in Tokyo 2020 10-Pack Base code(s): N08, N09, N10, N11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/IMG_20201127_194640.jpg/revision/latest/scale-to-width-down/75?cb=20201129191240"
+    }
+}

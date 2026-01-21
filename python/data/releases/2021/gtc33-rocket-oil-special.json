@@ -1,0 +1,25 @@
+{
+    "release_id": "gtc33-rocket-oil-special-2021",
+    "toy_number": "GTC33",
+    "casting_id": "rocket-oil-special",
+    "year": 2021,
+    "series_id": "hw-art-cars",
+    "series_index": 9,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Blue, white & yellow splatters on car,  \" HW ART CARS\" and Heart symbol on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Large Blue Rear",
+            "1": "Small Green Front OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): P18, P29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/2021altrocketoilspecial.jpg/revision/latest/scale-to-width-down/75?cb=20250823151623"
+    }
+}

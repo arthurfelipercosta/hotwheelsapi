@@ -1,0 +1,25 @@
+{
+    "casting_id": "70-camaro",
+    "name": "'70 Camaro",
+    "description": {
+        "en-us": "'70 Camaro Debut series 2011 New Models Produced 2011 - Present Designer Dave Weise Number T9717",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9717-70-camaro.json",
+        "data/releases/2012/y2611-70-camaro.json",
+        "data/releases/2012/v5448-70-camaro.json",
+        "data/releases/2013/x1799-70-camaro.json",
+        "data/releases/2014/bff08-70-camaro.json",
+        "data/releases/2015/cfn57-70-camaro.json",
+        "data/releases/2016/dhr13-70-camaro.json",
+        "data/releases/2018/fjw47-70-camaro.json",
+        "data/releases/2019/gbc03-70-camaro.json",
+        "data/releases/2020/gjw73-70-camaro.json",
+        "data/releases/2021/grn83-70-camaro.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

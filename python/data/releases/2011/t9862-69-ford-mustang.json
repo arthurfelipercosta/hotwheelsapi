@@ -1,0 +1,24 @@
+{
+    "release_id": "t9862-69-ford-mustang-2011",
+    "toy_number": "T9862",
+    "casting_id": "69-ford-mustang",
+    "year": 2011,
+    "series_id": "hw-racing",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Red, yellow & white Hot Wheels Race Team deco, \"5\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C49, C50, C51, C52, D03, D05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/69_ford_mustang_2011_blue.png/revision/latest/scale-to-width-down/75?cb=20110222231640"
+    }
+}

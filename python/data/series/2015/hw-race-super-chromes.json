@@ -2,11 +2,20 @@
     "series_id": "hw-race-super-chromes",
     "year": 2015,
     "name": "HW Race: Super Chromes",
-    "total_releases": 3,
+    "total_releases": 12,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfk97-high-voltage.json",
+        "data/releases/2015/cfk99-rd-08.json",
+        "data/releases/2015/cfl00-bye-focal-ii.json",
         "data/releases/2015/cfl01-rd-06.json",
+        "data/releases/2015/cfl02-carbide.json",
+        "data/releases/2015/cfl03-chicane.json",
+        "data/releases/2015/cfl04-iridium.json",
         "data/releases/2015/cfl05-salt-shaker.json",
+        "data/releases/2015/cfl06-rd-03.json",
+        "data/releases/2015/cfl54-rd-08.json",
+        "data/releases/2015/cfl76-carbide.json",
         "data/releases/2015/cfl95-rd-06.json"
     ]
 }

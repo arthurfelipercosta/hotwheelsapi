@@ -2,13 +2,21 @@
     "series_id": "fire-rods",
     "year": 2009,
     "name": "Fire Rods",
-    "total_releases": 5,
+    "total_releases": 13,
     "max_index": 2,
     "releases": [
         "data/releases/2009/n9020-rodger-dodger.json",
         "data/releases/2009/n9021-59-chevy-bel-air.json",
+        "data/releases/2009/n9023-68-el-camino.json",
+        "data/releases/2009/n9027-69-ford-mustang.json",
+        "data/releases/2009/n9031-phaeton.json",
+        "data/releases/2009/n9032-ford-shelby-gr-1-concept.json",
         "data/releases/2009/n9034-83-chevy-silverado.json",
+        "data/releases/2009/n9035-combat-medic.json",
+        "data/releases/2009/n9036-enforcer.json",
         "data/releases/2009/n9039-humvee.json",
-        "data/releases/2009/n9043-la-troca.json"
+        "data/releases/2009/n9041-propper-chopper.json",
+        "data/releases/2009/n9043-la-troca.json",
+        "data/releases/2009/n9044-rescue-ranger.json"
     ]
 }

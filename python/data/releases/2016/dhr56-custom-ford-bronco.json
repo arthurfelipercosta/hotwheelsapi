@@ -1,0 +1,24 @@
+{
+    "release_id": "dhr56-custom-ford-bronco-2016",
+    "toy_number": "DHR56",
+    "casting_id": "custom-ford-bronco",
+    "year": 2016,
+    "series_id": "hw-daredevils",
+    "series_index": 8,
+    "specs": {
+        "color": "Dark Red",
+        "tampo": "Yellow & Green flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red & Black OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): H43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/153-0.jpg/revision/latest/scale-to-width-down/75?cb=20170120180257"
+    }
+}

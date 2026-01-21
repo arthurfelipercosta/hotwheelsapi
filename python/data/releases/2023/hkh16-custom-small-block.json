@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh16-custom-small-block-2023",
+    "toy_number": "HKH16",
+    "casting_id": "custom-small-block",
+    "year": 2023,
+    "series_id": "brick-rides",
+    "series_index": 2,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Cyan, navy, white and yellow striping on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Yellow rim green RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R36, R37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/CustomSmallBlockOrange.png/revision/latest/scale-to-width-down/75?cb=20230413162948"
+    }
+}

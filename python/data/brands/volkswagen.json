@@ -1,0 +1,25 @@
+{
+    "brand_id": "volkswagen",
+    "name": "Volkswagen",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/49-volkswagen-beetle-pickup.json",
+        "data/castings/70-volkswagen-baja-bug.json",
+        "data/castings/custom-69-volkswagen-squareback.json",
+        "data/castings/custom-volkswagen-beetle.json",
+        "data/castings/tooned-volkswagen-golf-mk1.json",
+        "data/castings/volkswagen-baja-bug.json",
+        "data/castings/volkswagen-caddy.json",
+        "data/castings/volkswagen-golf-gti.json",
+        "data/castings/volkswagen-golf-mk7.json",
+        "data/castings/volkswagen-id-buzz.json",
+        "data/castings/volkswagen-k-fer-racer.json",
+        "data/castings/volkswagen-sp2.json",
+        "data/castings/volkswagen-t2-pickup.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Volkswagen vehicles.",
+        "pt-br": "Fabricante de veículos Volkswagen."
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh47-vw-golf-2022",
+    "toy_number": "HDH47",
+    "casting_id": "vw-golf",
+    "year": 2022,
+    "series_id": "volkswagen",
+    "series_index": 8,
+    "specs": {
+        "color": "Red",
+        "tampo": "White stripes on sides with Running side blinks , Black hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R09, R10, R11, R13, R14, R24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/Hot_Wheels_2022_Volkswagen_set_Golf_loose.jpg/revision/latest/scale-to-width-down/75?cb=20220801220320"
+    }
+}

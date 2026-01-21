@@ -1,0 +1,19 @@
+{
+    "casting_id": "ice-charger",
+    "name": "Ice Charger",
+    "description": {
+        "en-us": "Ice Charger Debut series HW Screen Time Produced 2017 - Present Designer Brendon Vetuskey Number DTW96",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtw96-ice-charger-v2.json",
+        "data/releases/2018/fjw40-ice-charger-v2.json",
+        "data/releases/2021/grp55-ice-charger-v2.json",
+        "data/releases/2023/hnr98-ice-charger-v2.json",
+        "data/releases/2024/htb34-ice-charger-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

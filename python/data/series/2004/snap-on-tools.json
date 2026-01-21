@@ -1,0 +1,12 @@
+{
+    "series_id": "snap-on-tools",
+    "year": 2004,
+    "name": "Snap-On Tools",
+    "total_releases": 3,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2004/h3430-nissan-skyline-gt-r-r32.json",
+        "data/releases/2004/h3432-57-chevy.json",
+        "data/releases/2004/h3434-69-dodge-charger.json"
+    ]
+}

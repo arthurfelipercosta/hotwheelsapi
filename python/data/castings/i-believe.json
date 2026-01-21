@@ -1,0 +1,18 @@
+{
+    "casting_id": "i-believe",
+    "name": "i-Believe",
+    "description": {
+        "en-us": "i-Believe Debut series HW Space Produced 2019 - 2020 Designer Kevin Cao Number FYB76",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb76-i-believe-v2.json",
+        "data/releases/2019/fyg79-i-believe-v2.json",
+        "data/releases/2020/ghd37-i-believe-v2.json",
+        "data/releases/2020/ghf37-i-believe-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

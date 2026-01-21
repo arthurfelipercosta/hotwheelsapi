@@ -1,0 +1,24 @@
+{
+    "casting_id": "altered-ego",
+    "name": "Altered Ego",
+    "description": {
+        "en-us": "Altered Ego Debut series 2012 New Models Produced 2012 - Present Designer Larry Wood Number V5327",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5327-altered-ego-v2.json",
+        "data/releases/2014/bfd38-altered-ego-v2.json",
+        "data/releases/2015/cfn58-altered-ego-v2.json",
+        "data/releases/2017/dwf04-altered-ego-v2.json",
+        "data/releases/2018/fjw73-altered-ego-v2.json",
+        "data/releases/2019/gbc59-altered-ego-v2.json",
+        "data/releases/2020/aa032-altered-ego-v2.json",
+        "data/releases/2020/gjv18-altered-ego-v2.json",
+        "data/releases/2022/hcw45-altered-ego-v2.json",
+        "data/releases/2023/hlk63-altered-ego-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

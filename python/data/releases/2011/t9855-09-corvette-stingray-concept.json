@@ -1,0 +1,27 @@
+{
+    "release_id": "t9855-09-corvette-stingray-concept-2011",
+    "toy_number": "T9855",
+    "casting_id": "09-corvette-stingray-concept",
+    "year": 2011,
+    "series_id": "faster-than-ever",
+    "series_index": 8,
+    "specs": {
+        "color": "Metallic Dark Red",
+        "tampo": "White stripes by front wheels, Corvette flags on hood, headlights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "FTE",
+            "1": "FTE2",
+            "2": "Base code(s): D27",
+            "3": "D28"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D23,D25, D24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/CorvetteFTEmaroon.jpg/revision/latest/scale-to-width-down/75?cb=20110911212115"
+    }
+}

@@ -2,10 +2,14 @@
     "series_id": "holiday-hot-rods",
     "year": 2019,
     "name": "Holiday Hot Rods",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 2,
     "releases": [
+        "data/releases/2019/gbc61-rockster.json",
         "data/releases/2019/gbc62-screamliner.json",
-        "data/releases/2019/gbc64-carbonator.json"
+        "data/releases/2019/gbc63-audacious.json",
+        "data/releases/2019/gbc64-carbonator.json",
+        "data/releases/2019/gbc65-muscle-tone.json",
+        "data/releases/2019/gbc65-scorcher.json"
     ]
 }

@@ -2,9 +2,19 @@
     "series_id": "mystery-models-series-2",
     "year": 2018,
     "name": "Mystery Models (Series 2)",
-    "total_releases": 1,
+    "total_releases": 11,
     "max_index": 8,
     "releases": [
-        "data/releases/2018/fkw38-chevroletor.json"
+        "data/releases/2018/fkw38-chevroletor.json",
+        "data/releases/2018/fkw44-project-speeder.json",
+        "data/releases/2018/fkx36-rd-03.json",
+        "data/releases/2018/fkx37-rd-08.json",
+        "data/releases/2018/fkx38-cul8r.json",
+        "data/releases/2018/fkx40-z-rod.json",
+        "data/releases/2018/fkx41-bad-to-the-blade.json",
+        "data/releases/2018/fkx42-f-racer.json",
+        "data/releases/2018/fkx44-the-gov-ner.json",
+        "data/releases/2018/fkx47-rivited.json",
+        "data/releases/2018/fkx57-muscle-tone.json"
     ]
 }

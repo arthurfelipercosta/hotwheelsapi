@@ -1,0 +1,26 @@
+{
+    "casting_id": "mad-splash",
+    "name": "Mad Splash",
+    "description": {
+        "en-us": "Mad Splash Debut series 2012 New Models Produced 2012 - Present Designer Bryan Benedict Number V5317",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5317-mad-splash-v2.json",
+        "data/releases/2012/v5625-mad-splash-v2.json",
+        "data/releases/2013/x1719-mad-splash-v2.json",
+        "data/releases/2013/x1902-mad-splash-v2.json",
+        "data/releases/2015/cfk60-mad-splash-v2.json",
+        "data/releases/2016/dht04-mad-splash-v2.json",
+        "data/releases/2016/dtn37-mad-splash-v2.json",
+        "data/releases/2017/dvg00-mad-splash-v2.json",
+        "data/releases/2021/gry23-mad-splash-v2.json",
+        "data/releases/2023/hkg94-mad-splash-v2.json",
+        "data/releases/2023/hkj71-mad-splash-v2.json",
+        "data/releases/2025/jcl84-mad-splash-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

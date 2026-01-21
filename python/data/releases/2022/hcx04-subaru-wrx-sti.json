@@ -1,0 +1,25 @@
+{
+    "release_id": "hcx04-subaru-wrx-sti-2022",
+    "toy_number": "HCX04",
+    "casting_id": "subaru-wrx-sti",
+    "year": 2022,
+    "series_id": "hw-hatchbacks",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black, Gold & White striping along hood & sides. White \"HW\" logo on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Gold Rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R07,  R09, R10, R11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/SUBARU_WRX_STI_HCX04.jpg/revision/latest/scale-to-width-down/75?cb=20220705235324"
+    }
+}

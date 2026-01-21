@@ -1,0 +1,24 @@
+{
+    "release_id": "gjv15-power-panel-2020",
+    "toy_number": "GJV15",
+    "casting_id": "power-panel",
+    "year": 2020,
+    "series_id": "overwatch",
+    "series_index": 3,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Reinhardt graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Silver",
+        "wheel_type": {
+            "0": "Red OR6SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M52, N03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/Hot_Wheels_Overwatch_Reinhardt_Power_Panel_3-5.jpg/revision/latest/scale-to-width-down/75?cb=20220212230319"
+    }
+}

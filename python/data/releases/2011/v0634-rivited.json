@@ -1,0 +1,24 @@
+{
+    "release_id": "v0634-rivited-2011",
+    "toy_number": "V0634",
+    "casting_id": "rivited",
+    "year": 2011,
+    "series_id": "3-lane-super-speedway",
+    "series_index": null,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "Red, Black & White Tampos. \"Rivited\" \"6605\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue Tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red Chrome PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): E06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/RIVITED_-_3LnSuperSpeedway.JPG/revision/latest/scale-to-width-down/75?cb=20150210011007"
+    }
+}

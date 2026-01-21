@@ -2,9 +2,12 @@
     "series_id": "holiday-hot-rods",
     "year": 2018,
     "name": "Holiday Hot Rods",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 5,
     "releases": [
+        "data/releases/2018/fkv08-rescue-ranger.json",
+        "data/releases/2018/fkv09-zotic.json",
+        "data/releases/2018/fkv10-jack-hammer.json",
         "data/releases/2018/fkv12-pedal-driver.json",
         "data/releases/2018/fkv13-carbonator.json"
     ]

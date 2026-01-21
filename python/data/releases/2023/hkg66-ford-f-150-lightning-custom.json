@@ -1,0 +1,24 @@
+{
+    "release_id": "hkg66-ford-f-150-lightning-custom-2023",
+    "toy_number": "HKG66",
+    "casting_id": "ford-f-150-lightning-custom",
+    "year": 2023,
+    "series_id": "hw-hot-trucks",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake dark Blue",
+        "tampo": "Triangle-shaped camouflage graphics on hood & sides, Ford wordmark on sides and trunk, 'F-150 Lightning' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/FordF-150Lightning.jpg/revision/latest/scale-to-width-down/75?cb=20230826073243"
+    }
+}

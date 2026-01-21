@@ -1,0 +1,38 @@
+{
+    "casting_id": "70-monte-carlo",
+    "name": "'70 Monte Carlo",
+    "description": {
+        "en-us": "'70 Monte Carlo Debut series Classics (Series 5) Produced 2009 – Present Designer Larry Wood Number N6934",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n6934-70-monte-carlo.json",
+        "data/releases/2009/n6934-70-monte-carlo-v2.json",
+        "data/releases/2009/n6934-70-monte-carlo-v3.json",
+        "data/releases/2009/n6934-70-monte-carlo-v4.json",
+        "data/releases/2009/n9856-70-monte-carlo.json",
+        "data/releases/2010/r8008-70-monte-carlo.json",
+        "data/releases/2011/t9813-70-monte-carlo.json",
+        "data/releases/2011/t9813-70-monte-carlo-v2.json",
+        "data/releases/2011/t9939-70-monte-carlo.json",
+        "data/releases/2011/t9985-70-monte-carlo.json",
+        "data/releases/2011/t9985-70-monte-carlo-v2.json",
+        "data/releases/2011/t9985-70-monte-carlo-v3.json",
+        "data/releases/2011/t8286-70-monte-carlo.json",
+        "data/releases/2011/t8335-70-monte-carlo.json",
+        "data/releases/2011/x3366-70-monte-carlo.json",
+        "data/releases/2012/v5410-70-monte-carlo.json",
+        "data/releases/2012/v5698-70-monte-carlo.json",
+        "data/releases/2012/v5595-70-monte-carlo.json",
+        "data/releases/2013/x1855-70-monte-carlo.json",
+        "data/releases/2013/x2052-70-monte-carlo.json",
+        "data/releases/2016/x6999-70-monte-carlo.json",
+        "data/releases/2019/fyy53-70-monte-carlo.json",
+        "data/releases/2020/ghp55-70-monte-carlo.json",
+        "data/releases/2026/jkx07-70-monte-carlo.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

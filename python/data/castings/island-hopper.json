@@ -1,0 +1,21 @@
+{
+    "casting_id": "island-hopper",
+    "name": "Island Hopper",
+    "description": {
+        "en-us": "Island Hopper Debut series Retro Entertainment: Magnum, P.I. Produced 2013 - Present Designer Bryan Benedict Number X8897",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x8897-island-hopper.json",
+        "data/releases/2014/bfc61-island-hopper.json",
+        "data/releases/2015/cfv11-island-hopper.json",
+        "data/releases/2017/dvf98-island-hopper.json",
+        "data/releases/2018/ftj58-island-hopper.json",
+        "data/releases/2019/fyc66-island-hopper.json",
+        "data/releases/2022/hfv83-island-hopper.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

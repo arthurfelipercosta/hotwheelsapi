@@ -2,9 +2,10 @@
     "series_id": "roll-patrol",
     "year": 2003,
     "name": "Roll Patrol",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2003/57137-40-somethin.json",
         "data/releases/2003/c1317-fish-d-chip-d.json"
     ]
 }

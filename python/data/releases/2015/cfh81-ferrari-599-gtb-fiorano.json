@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh81-ferrari-599-gtb-fiorano-2015",
+    "toy_number": "CFH81",
+    "casting_id": "ferrari-599-gtb-fiorano",
+    "year": 2015,
+    "series_id": "hw-city-street-power",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black White stripe on sides and hood, Ferrari emblems on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black PR5 Yellow Rim"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G33, G37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/Ferrari_599_gtb_fiorano_yellow_2015.jpg/revision/latest/scale-to-width-down/75?cb=20141002200838"
+    }
+}

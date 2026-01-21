@@ -1,0 +1,24 @@
+{
+    "casting_id": "12-acura-nsx-concept",
+    "name": "'12 Acura NSX Concept",
+    "description": {
+        "en-us": "'12 Acura NSX Concept Debut series HW Showroom: Asphalt Assault Produced 2013 - Present Designer Ryu Asada Number X1640",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1640-12-acura-nsx-concept.json",
+        "data/releases/2013/x1955-12-acura-nsx-concept.json",
+        "data/releases/2015/cfk93-12-acura-nsx-concept.json",
+        "data/releases/2015/n-a-12-acura-nsx-concept.json",
+        "data/releases/2015/cfj55-12-acura-nsx-concept.json",
+        "data/releases/2017/x6999-12-acura-nsx-concept.json",
+        "data/releases/2018/x6999-12-acura-nsx-concept.json",
+        "data/releases/2022/x6999-12-acura-nsx-concept.json",
+        "data/releases/2022/x6999-12-acura-nsx-concept-v2.json",
+        "data/releases/2026/x6999-12-acura-nsx-concept.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Acura"
+}

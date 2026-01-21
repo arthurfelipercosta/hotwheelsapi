@@ -1,0 +1,24 @@
+{
+    "release_id": "frr84-fiat-500-2018",
+    "toy_number": "FRR84",
+    "casting_id": "fiat-500",
+    "year": 2018,
+    "series_id": "hw-daredevils",
+    "series_index": 2,
+    "specs": {
+        "color": "Sky Blue",
+        "tampo": "Brown stripes & 'HWDDVL', Black & White '500' & '03' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Unnumbered Daredevil Chase Variants Base code(s): L09, L10, L12, L13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/Fiat_500_-_03.jpg/revision/latest/scale-to-width-down/75?cb=20180708001740"
+    }
+}

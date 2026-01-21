@@ -2,13 +2,25 @@
     "series_id": "holiday-rods",
     "year": 2005,
     "name": "Holiday Rods",
-    "total_releases": 5,
+    "total_releases": 17,
     "max_index": 2,
     "releases": [
+        "data/releases/2005/j5407-67-pontiac-gto.json",
+        "data/releases/2005/j5407-67-pontiac-gto.json",
+        "data/releases/2005/j5407-67-pontiac-gto.json",
+        "data/releases/2005/j5407-67-pontiac-gto.json",
         "data/releases/2005/j5408-47-chevy-fleetline.json",
         "data/releases/2005/j5408-47-chevy-fleetline.json",
         "data/releases/2005/j5408-47-chevy-fleetline.json",
         "data/releases/2005/j5408-47-chevy-fleetline.json",
-        "data/releases/2005/j5408-47-chevy-fleetline.json"
+        "data/releases/2005/j5408-47-chevy-fleetline.json",
+        "data/releases/2005/j5409-49-merc.json",
+        "data/releases/2005/j5409-49-merc.json",
+        "data/releases/2005/j5409-49-merc.json",
+        "data/releases/2005/j5409-49-merc.json",
+        "data/releases/2005/j5411-70-chevelle-ss.json",
+        "data/releases/2005/j5411-70-chevelle-ss.json",
+        "data/releases/2005/j5411-70-chevelle-ss.json",
+        "data/releases/2005/j5411-70-chevelle-ss.json"
     ]
 }

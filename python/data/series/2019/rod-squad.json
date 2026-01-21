@@ -2,13 +2,27 @@
     "series_id": "rod-squad",
     "year": 2019,
     "name": "Rod Squad",
-    "total_releases": 5,
+    "total_releases": 19,
     "max_index": 2,
     "releases": [
+        "data/releases/2019/fyb42-tur-bone-charged.json",
         "data/releases/2019/fyb43-deora-iii.json",
+        "data/releases/2019/fyc12-street-creeper.json",
+        "data/releases/2019/fyc13-32-ford.json",
+        "data/releases/2019/fyc14-classic-nomad.json",
         "data/releases/2019/fyc15-custom-53-cadillac.json",
+        "data/releases/2019/fyc16-surf-n-turf.json",
         "data/releases/2019/fyc17-custom-56-ford-truck.json",
+        "data/releases/2019/fyc18-69-dodge-charger-500.json",
+        "data/releases/2019/fyc19-z-rod.json",
+        "data/releases/2019/fyc49-street-creeper.json",
+        "data/releases/2019/fyd89-tur-bone-charged.json",
         "data/releases/2019/fyd90-deora-iii.json",
+        "data/releases/2019/fyd91-32-ford.json",
+        "data/releases/2019/fyd92-classic-nomad.json",
+        "data/releases/2019/fyd93-surf-n-turf.json",
+        "data/releases/2019/fyd94-69-dodge-charger-500.json",
+        "data/releases/2019/fyd95-z-rod.json",
         "data/releases/2019/fyg53-custom-56-ford-truck.json"
     ]
 }

@@ -2,10 +2,11 @@
     "series_id": "car-culture-japan-historics-4",
     "year": 2024,
     "name": "Car Culture: Japan Historics 4",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 4,
     "releases": [
         "data/releases/2024/hrv84-mazda-rx-3.json",
-        "data/releases/2024/hrv85-73-honda-civic-custom.json"
+        "data/releases/2024/hrv85-73-honda-civic-custom.json",
+        "data/releases/2024/hrv86-nissan-fairlady-z.json"
     ]
 }

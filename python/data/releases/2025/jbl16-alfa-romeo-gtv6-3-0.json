@@ -1,0 +1,24 @@
+{
+    "release_id": "jbl16-alfa-romeo-gtv6-3-0-2025",
+    "toy_number": "JBL16",
+    "casting_id": "alfa-romeo-gtv6-3-0",
+    "year": 2025,
+    "series_id": "hot-wheels-boulevard-120",
+    "series_index": null,
+    "specs": {
+        "color": "Bianco Alfa",
+        "tampo": "Detailed headlights, taillights and trim, green striping with red highlights, Alfa Romeo Quadrifoglio emblems within green striping, Alfa Romeo workdmark on doors, Bell logo on fenders, \"82\" on sides and hood, Yokohama logo on trunk, Alfa Romeo Quadrifoglio, Hot Wheels logos on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black C4SPRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T45, T47, T47A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/AlfaGTV6Racing.jpg/revision/latest/scale-to-width-down/75?cb=20250119123918"
+    }
+}

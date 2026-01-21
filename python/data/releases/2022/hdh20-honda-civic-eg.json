@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh20-honda-civic-eg-2022",
+    "toy_number": "HDH20",
+    "casting_id": "honda-civic-eg",
+    "year": 2022,
+    "series_id": "honda-civic",
+    "series_index": 2,
+    "specs": {
+        "color": "Teal",
+        "tampo": "Detailed headlights and taillights, black accents, \"Civic\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R19, R21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/%2792HondaCivicEG.jpg/revision/latest/scale-to-width-down/75?cb=20221030060216"
+    }
+}

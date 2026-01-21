@@ -1,0 +1,28 @@
+{
+    "release_id": "hcw41-velocita-2022",
+    "toy_number": "HCW41",
+    "casting_id": "velocita",
+    "year": 2022,
+    "series_id": "hw-art-cars",
+    "series_index": 10,
+    "specs": {
+        "color": "White",
+        "tampo": "Piranha sketch graphics, \"T\" on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark gray",
+        "wheel_type": {
+            "0": "RA6",
+            "1": "2023",
+            "2": "Promotional",
+            "3": "HMW21",
+            "4": "Identical to HCW41 Base code(s): S27"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/HW_Velocita_%282022_-_HCW41%29.jpg/revision/latest/scale-to-width-down/75?cb=20221022161831"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx80-55-chevy-bel-air-gasser-2017",
+    "toy_number": "DTX80",
+    "casting_id": "55-chevy-bel-air-gasser",
+    "year": 2017,
+    "series_id": "hw-flames",
+    "series_index": 2,
+    "specs": {
+        "color": "Satin Dark Red",
+        "tampo": "White & Yellow flames on sides & roof, White Chevrolet logo & 'Gasser' on sides, '55' on doors, Yellow HW logo on trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: J24, J34, J35, J37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/55_Chevy_Gasser_-_17_HW_Flames_600pxOTD.jpg/revision/latest/scale-to-width-down/75?cb=20161013063355"
+    }
+}

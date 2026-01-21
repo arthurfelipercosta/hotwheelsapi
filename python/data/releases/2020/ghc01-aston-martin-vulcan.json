@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc01-aston-martin-vulcan-2020",
+    "toy_number": "GHC01",
+    "casting_id": "aston-martin-vulcan",
+    "year": 2020,
+    "series_id": "factory-fresh",
+    "series_index": 6,
+    "specs": {
+        "color": "Morning Frost White",
+        "tampo": "Red stripes, Aston Martin emblem on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M40, M41, M45, M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Aston_Martin_Vulcan.jpg/revision/latest/scale-to-width-down/75?cb=20191103142437"
+    }
+}

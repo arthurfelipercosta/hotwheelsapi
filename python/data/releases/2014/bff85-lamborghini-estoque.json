@@ -1,0 +1,24 @@
+{
+    "release_id": "bff85-lamborghini-estoque-2014",
+    "toy_number": "BFF85",
+    "casting_id": "lamborghini-estoque",
+    "year": 2014,
+    "series_id": "hw-workshop-hw-all-stars",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Detailed headlights w/ Lamborghini emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Gold & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G26, G28, G29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/Lambo_Hotwheels.jpg/revision/latest/scale-to-width-down/75?cb=20160328002533"
+    }
+}

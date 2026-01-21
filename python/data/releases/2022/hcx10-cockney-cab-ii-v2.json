@@ -1,0 +1,24 @@
+{
+    "release_id": "hcx10-cockney-cab-ii-2022",
+    "toy_number": "HCX10",
+    "casting_id": "cockney-cab-ii",
+    "year": 2022,
+    "series_id": "hw-metro",
+    "series_index": 10,
+    "specs": {
+        "color": "White and Blue",
+        "tampo": "UK Flag, Taxi Tampos, HW logo on sides & red-blue stripe on the bonnet",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Chrome",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/15/HCX10.jpg/revision/latest/scale-to-width-down/75?cb=20220901141847"
+    }
+}

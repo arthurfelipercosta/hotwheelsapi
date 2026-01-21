@@ -1,0 +1,24 @@
+{
+    "release_id": "r7490-honda-civic-si-2010",
+    "toy_number": "R7490",
+    "casting_id": "honda-civic-si",
+    "year": 2010,
+    "series_id": "mystery-car",
+    "series_index": 21,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "Light Blue Stripes on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/P1090068c_1000.jpg/revision/latest/scale-to-width-down/75?cb=20100703203453"
+    }
+}

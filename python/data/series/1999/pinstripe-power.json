@@ -1,0 +1,11 @@
+{
+    "series_id": "pinstripe-power",
+    "year": 1999,
+    "name": "Pinstripe Power",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/1999/21301-3-window-34.json",
+        "data/releases/1999/21303-65-chevy-impala.json"
+    ]
+}

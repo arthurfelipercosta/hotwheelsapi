@@ -1,0 +1,24 @@
+{
+    "release_id": "v5468-chevy-silverado-2012",
+    "toy_number": "V5468",
+    "casting_id": "chevy-silverado",
+    "year": 2012,
+    "series_id": "hw-main-street",
+    "series_index": 4,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Black & Blue stripes, 'Police' & 'City of Yuma' on sides, Black stripes & Yuma Police emblem on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "No bike Base code(s): E28, E32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/7945629124_ca433838a3_b.jpg/revision/latest/scale-to-width-down/75?cb=20180307070404"
+    }
+}

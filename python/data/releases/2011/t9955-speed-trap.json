@@ -1,0 +1,24 @@
+{
+    "release_id": "t9955-speed-trap-2011",
+    "toy_number": "T9955",
+    "casting_id": "speed-trap",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 15,
+    "specs": {
+        "color": "Black",
+        "tampo": "Gold & red graphics, HWPD, High Speed Enforcer, Unit 26",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Target card release includes 2 Car Bands Base code(s): D01, D05, D06, D11, D16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/SPEED_TRAP_BLACK.jpg/revision/latest/scale-to-width-down/75?cb=20110318142256"
+    }
+}

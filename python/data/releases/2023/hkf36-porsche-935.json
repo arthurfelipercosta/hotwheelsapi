@@ -1,0 +1,24 @@
+{
+    "release_id": "hkf36-porsche-935-2023",
+    "toy_number": "HKF36",
+    "casting_id": "porsche-935",
+    "year": 2023,
+    "series_id": "hot-wheels-boulevard-87",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Detailed headlights and taillights, Team Salzburg-inspired livery, circle on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RRA"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): S41, S44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/Salzburg935.jpg/revision/latest/scale-to-width-down/75?cb=20231120113844"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "casting_id": "volkswagen-t2-pickup",
+    "name": "Volkswagen T2 Pickup",
+    "description": {
+        "en-us": "Volkswagen T2 Pickup Debut series HW Art Cars Produced 2017 - Present Designer Jun Imai Number DTX02\\n\\nThe Volkswagen T2 Pickup is one of many Volkswagen Transporter castings released by Hot Wheels , and is a replication of the 1968 Volkswagen Type 2 Transporter truck as can be seen by the lack of the beetle-inspired V-shaped centerpiece on the front.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx02-volkswagen-t2-pickup-v2.json",
+        "data/releases/2017/dvb78-volkswagen-t2-pickup-v2.json",
+        "data/releases/2018/fjw56-volkswagen-t2-pickup-v2.json",
+        "data/releases/2018/fkc18-volkswagen-t2-pickup-v2.json",
+        "data/releases/2018/fjy50-volkswagen-t2-pickup-v2.json",
+        "data/releases/2019/fyd71-volkswagen-t2-pickup-v2.json",
+        "data/releases/2019/fyg18-volkswagen-t2-pickup-v2.json",
+        "data/releases/2020/gjw54-volkswagen-t2-pickup-v2.json",
+        "data/releases/2022/hdh40-volkswagen-t2-pickup-v2.json",
+        "data/releases/2022/hnb86-volkswagen-t2-pickup-v2.json",
+        "data/releases/2024/htc28-volkswagen-t2-pickup-v2.json",
+        "data/releases/2024/htd04-volkswagen-t2-pickup-v2.json",
+        "data/releases/2025/jby70-volkswagen-t2-pickup-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Volkswagen"
+}

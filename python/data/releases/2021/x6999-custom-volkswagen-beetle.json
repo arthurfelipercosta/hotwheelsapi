@@ -1,0 +1,24 @@
+{
+    "release_id": "x6999-custom-volkswagen-beetle-2021",
+    "toy_number": "X6999",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2021,
+    "series_id": "multipack-exclusive",
+    "series_index": null,
+    "specs": {
+        "color": "Matte Green",
+        "tampo": "Black & Gray scalloped deco with gray \"Hot Wheels\" & VW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted Smoke",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N43, P01, P04, P05, P29, P30, P34, P35, P52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/HW_CUSTOM_VOLKSWAGEN_BEETLE_GREEN.jpg/revision/latest/scale-to-width-down/75?cb=20210330204447"
+    }
+}

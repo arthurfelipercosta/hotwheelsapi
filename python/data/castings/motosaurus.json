@@ -1,0 +1,28 @@
+{
+    "casting_id": "motosaurus",
+    "name": "Motosaurus",
+    "description": {
+        "en-us": "Motosaurus Debut series Street Beasts Produced 2017 - Present Designer Lindsey Lee Number DTX24",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx24-motosaurus-v2.json",
+        "data/releases/2017/dvc16-motosaurus-v2.json",
+        "data/releases/2018/fjx12-motosaurus-v2.json",
+        "data/releases/2018/fjy79-motosaurus-v2.json",
+        "data/releases/2019/fyc03-motosaurus-v2.json",
+        "data/releases/2019/fyf46-motosaurus-v2.json",
+        "data/releases/2019/fxb09-motosaurus-v2.json",
+        "data/releases/2020/ghd39-motosaurus-v2.json",
+        "data/releases/2020/gjp00-motosaurus-v2.json",
+        "data/releases/2020/gkc25-motosaurus-v2.json",
+        "data/releases/2020/gkc28-motosaurus-v2.json",
+        "data/releases/2021/gtc90-motosaurus-v2.json",
+        "data/releases/2021/gyl84-motosaurus-v2.json",
+        "data/releases/2023/hly77-motosaurus-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

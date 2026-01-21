@@ -1,0 +1,24 @@
+{
+    "casting_id": "turbine-time",
+    "name": "Turbine Time",
+    "description": {
+        "en-us": "Turbine Time Debut series HW City: HW City Works Produced 2015 - Present Designer Larry Wood Number CFH21",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh21-turbine-time.json",
+        "data/releases/2015/cfl43-turbine-time.json",
+        "data/releases/2015/dhc08-turbine-time.json",
+        "data/releases/2016/dhr53-turbine-time.json",
+        "data/releases/2016/dhw88-turbine-time.json",
+        "data/releases/2017/dvf98-turbine-time.json",
+        "data/releases/2017/dvf98-turbine-time-v2.json",
+        "data/releases/2017/fjp18-turbine-time.json",
+        "data/releases/2018/aa026-turbine-time.json",
+        "data/releases/2022/hfd05-turbine-time.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

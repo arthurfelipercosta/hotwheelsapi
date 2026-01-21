@@ -2,11 +2,17 @@
     "series_id": "hot-wheels-garage-larry-s-garage",
     "year": 2010,
     "name": "Hot Wheels Garage: Larry's Garage",
-    "total_releases": 3,
+    "total_releases": 9,
     "max_index": 16,
     "releases": [
+        "data/releases/2010/r3777-custom-volkswagen-beetle.json",
+        "data/releases/2010/r3777-custom-volkswagen-beetle.json",
+        "data/releases/2010/r3777-custom-volkswagen-beetle.json",
         "data/releases/2010/r3786-pass-n-gasser.json",
         "data/releases/2010/r3786-pass-n-gasser.json",
-        "data/releases/2010/r3786-pass-n-gasser.json"
+        "data/releases/2010/r3786-pass-n-gasser.json",
+        "data/releases/2010/t0398-71-mustang-mach-i.json",
+        "data/releases/2010/t0398-71-mustang-mach-i.json",
+        "data/releases/2010/t0398-71-mustang-mach-i.json"
     ]
 }

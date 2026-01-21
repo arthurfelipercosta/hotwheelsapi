@@ -1,0 +1,24 @@
+{
+    "release_id": "hlk38-sandblaster-2023",
+    "toy_number": "HLK38",
+    "casting_id": "sandblaster",
+    "year": 2023,
+    "series_id": "x-men",
+    "series_index": 1,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Wolverine graphics, \"WOLVERINE\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S05, S08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/X-Men_2023_Sandblaster_Blue_Malaysia_HLK38.jpg/revision/latest/scale-to-width-down/75?cb=20230530224346"
+    }
+}

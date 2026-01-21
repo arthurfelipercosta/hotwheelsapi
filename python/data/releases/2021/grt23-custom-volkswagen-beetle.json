@@ -1,0 +1,24 @@
+{
+    "release_id": "grt23-custom-volkswagen-beetle-2021",
+    "toy_number": "GRT23",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2021,
+    "series_id": "flying-customs",
+    "series_index": null,
+    "specs": {
+        "color": "Turquoise Blue",
+        "tampo": "Yellow, Orange & Purple tampo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "BW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N37, N39, N41, P35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/GRT23_Custom_Volkswagen_Beetle_Loose.jpg/revision/latest/scale-to-width-down/75?cb=20210613230509"
+    }
+}

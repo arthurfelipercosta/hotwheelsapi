@@ -1,0 +1,25 @@
+{
+    "release_id": "fyd75-16-mercedes-amg-gt3-2019",
+    "toy_number": "FYD75",
+    "casting_id": "16-mercedes-amg-gt3",
+    "year": 2019,
+    "series_id": "hw-race-day",
+    "series_index": 1,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "Black stripes, racing number '1' on sides & hood, 'AMG' on sides, hood & spoiler",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Grey)",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Light Blue rim PR5",
+            "1": "Light Blue rim DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M06, M07, M08, M11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/2019_Hot_Wheels_%2716_Mercedes_AMG_GT3_2nd_color.jpg/revision/latest/scale-to-width-down/75?cb=20190329093332"
+    }
+}

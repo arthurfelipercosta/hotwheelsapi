@@ -2,11 +2,14 @@
     "series_id": "mustang-50-years",
     "year": 2014,
     "name": "Mustang 50 Years",
-    "total_releases": 3,
-    "max_index": 7,
+    "total_releases": 6,
+    "max_index": 4,
     "releases": [
         "data/releases/2014/bdl72-custom-12-ford-mustang.json",
+        "data/releases/2014/bdl74-71-mustang-mach-i.json",
         "data/releases/2014/bdl76-67-mustang.json",
-        "data/releases/2014/bdl77-92-ford-mustang.json"
+        "data/releases/2014/bdl77-92-ford-mustang.json",
+        "data/releases/2014/bdl78-07-ford-mustang.json",
+        "data/releases/2014/bdl79-13-ford-mustang-gt.json"
     ]
 }

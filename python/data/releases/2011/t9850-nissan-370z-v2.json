@@ -1,0 +1,24 @@
+{
+    "release_id": "t9850-nissan-370z-2011",
+    "toy_number": "T9850",
+    "casting_id": "nissan-370z",
+    "year": 2011,
+    "series_id": "multipack-exclusive",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Light and trim details",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/Nissan_370Z_-_Faster_Than_Ever_2011_FTE_Copper.jpg/revision/latest/scale-to-width-down/75?cb=20191008104317"
+    }
+}

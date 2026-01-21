@@ -1,0 +1,21 @@
+{
+    "series_id": "connect-cars-track-legends",
+    "year": 2009,
+    "name": "Connect Cars: Track Legends",
+    "total_releases": 12,
+    "max_index": 22,
+    "releases": [
+        "data/releases/2009/p2093-hollowback.json",
+        "data/releases/2009/p2097-pharodox.json",
+        "data/releases/2009/p2098-anthracite.json",
+        "data/releases/2009/p2099-battle-spec.json",
+        "data/releases/2009/p2100-formul8r.json",
+        "data/releases/2009/p2104-bedlam.json",
+        "data/releases/2009/p2105-rd-08.json",
+        "data/releases/2009/p2106-power-pipes.json",
+        "data/releases/2009/p2108-chicane.json",
+        "data/releases/2009/p2109-cul8r.json",
+        "data/releases/2009/p2111-power-pistons.json",
+        "data/releases/2009/p2117-rivited.json"
+    ]
+}

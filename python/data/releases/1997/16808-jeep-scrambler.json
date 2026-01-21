@@ -1,0 +1,24 @@
+{
+    "release_id": "16808-jeep-scrambler-1997",
+    "toy_number": "16808",
+    "casting_id": "jeep-scrambler",
+    "year": 1997,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red scallops",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "BW"
+        }
+    },
+    "country": "India",
+    "notes": "Named Trailbuster",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/Trailbuster_Jeep_Scrambler_-_3408df.jpg/revision/latest/scale-to-width-down/75?cb=20081021221305"
+    }
+}

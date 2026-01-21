@@ -1,0 +1,24 @@
+{
+    "release_id": "57099-custom-69-chevy-2003",
+    "toy_number": "57099",
+    "casting_id": "custom-69-chevy",
+    "year": 2003,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Purple",
+        "tampo": "Red (China) or Blue (Thailand) painted taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "China or Thailand",
+    "notes": "Wood grain bed & logo on tailgate",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/Custom_%2769_Chevy_CIMG0875.JPG/revision/latest/scale-to-width-down/75?cb=20110822165406"
+    }
+}

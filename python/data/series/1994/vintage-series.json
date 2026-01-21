@@ -1,0 +1,21 @@
+{
+    "series_id": "vintage-series",
+    "year": 1994,
+    "name": "Vintage Series",
+    "total_releases": 12,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1994/13253-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json",
+        "data/releases/1994/5743-classic-nomad.json"
+    ]
+}

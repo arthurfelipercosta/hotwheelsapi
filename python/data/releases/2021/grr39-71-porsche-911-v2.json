@@ -1,0 +1,24 @@
+{
+    "release_id": "grr39-71-porsche-911-2021",
+    "toy_number": "GRR39",
+    "casting_id": "71-porsche-911",
+    "year": 2021,
+    "series_id": "orange-and-blue",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Orange",
+        "tampo": "Dark blue stripe on hood, '53' and dark blue stripe on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Light Blue LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P03, P05, P07, P14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Orange_and_Blue_Series_%282021%29_Wave2_-_71_Porsche_911.jpg/revision/latest/scale-to-width-down/75?cb=20210526152215"
+    }
+}

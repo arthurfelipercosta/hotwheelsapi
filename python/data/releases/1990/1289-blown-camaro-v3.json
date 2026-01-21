@@ -1,0 +1,38 @@
+{
+    "release_id": "1289-blown-camaro-1990",
+    "toy_number": "1289",
+    "casting_id": "blown-camaro",
+    "year": 1990,
+    "series_id": "california-customs",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Orange, blue, Pink \"California Customs\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoked tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "TW",
+            "1": "1990",
+            "2": "Power Command",
+            "3": "Yellow",
+            "4": "Black Pennzoil logos",
+            "5": "Unpainted",
+            "6": "Metal",
+            "7": "Black opaque",
+            "8": "N.A.",
+            "9": "PCW",
+            "10": "Malaysia",
+            "11": "Blue",
+            "12": "Number '34' in white",
+            "13": "Champion",
+            "14": "Goodyear logos"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/California_Custom_Red_Camaro.jpg/revision/latest/scale-to-width-down/75?cb=20221005154559"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "jky09-84-pontiac-firebird-2026",
+    "toy_number": "JKY09",
+    "casting_id": "84-pontiac-firebird",
+    "year": 2026,
+    "series_id": "pontiac-100th-anniversary",
+    "series_index": 1,
+    "specs": {
+        "color": "Silver Sand Metallic",
+        "tampo": "Detailed taillights and trim, silver stripes, \"TRANS AM\", Firebird emblem, Hot Wheels logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "S5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): U32I, U33I, U34I, U35I",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/Pontiac_100th_loose_Firebird.JPG/revision/latest/scale-to-width-down/75?cb=20251124021825"
+    }
+}

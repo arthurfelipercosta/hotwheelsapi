@@ -1,0 +1,25 @@
+{
+    "casting_id": "renault-sport-r-s-01",
+    "name": "Renault Sport R.S. 01",
+    "description": {
+        "en-us": "Renault Sport R.S. 01 Debut series HW Exotics Produced 2016 - Present Designer Ryu Asada Number DHP01",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp01-renault-sport-r-s-01-v2.json",
+        "data/releases/2016/dhx22-renault-sport-r-s-01-v2.json",
+        "data/releases/2017/dvb13-renault-sport-r-s-01-v2.json",
+        "data/releases/2017/dvc53-renault-sport-r-s-01-v2.json",
+        "data/releases/2018/fkt62-renault-sport-r-s-01-v2.json",
+        "data/releases/2018/fkf28-renault-sport-r-s-01-v2.json",
+        "data/releases/2020/ghp58-renault-sport-r-s-01-v2.json",
+        "data/releases/2021/grp36-renault-sport-r-s-01-v2.json",
+        "data/releases/2022/hfv80-renault-sport-r-s-01-v2.json",
+        "data/releases/2023/hkj38-renault-sport-r-s-01-v2.json",
+        "data/releases/2023/hkl21-renault-sport-r-s-01-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Renault"
+}

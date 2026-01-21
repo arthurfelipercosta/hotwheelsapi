@@ -1,0 +1,25 @@
+{
+    "release_id": "v5474-64-lincoln-continental-2012",
+    "toy_number": "V5474",
+    "casting_id": "64-lincoln-continental",
+    "year": 2012,
+    "series_id": "hw-main-street",
+    "series_index": 10,
+    "specs": {
+        "color": "Black",
+        "tampo": "White tampos, \"6227\", Austin Texas Police logo, Silver pinstripes on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D40, D41, D50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/64_Continental_-_12_Main_Street.JPG/revision/latest/scale-to-width-down/75?cb=20111203062453"
+    }
+}

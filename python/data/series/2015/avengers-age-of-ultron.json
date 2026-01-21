@@ -1,0 +1,14 @@
+{
+    "series_id": "avengers-age-of-ultron",
+    "year": 2015,
+    "name": "Avengers: Age of Ultron",
+    "total_releases": 5,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2015/cbg84-growler.json",
+        "data/releases/2015/cgb85-rockster.json",
+        "data/releases/2015/cgb86-muscle-tone.json",
+        "data/releases/2015/cgb87-sting-rod.json",
+        "data/releases/2015/cgb89-16-angels.json"
+    ]
+}

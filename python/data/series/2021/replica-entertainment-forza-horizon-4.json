@@ -2,9 +2,10 @@
     "series_id": "replica-entertainment-forza-horizon-4",
     "year": 2021,
     "name": "Replica Entertainment: Forza Horizon 4",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2021/grl69-nissan-skyline-h-t-2000gt-x.json",
         "data/releases/2021/grl77-porsche-911-gt3-rs.json"
     ]
 }

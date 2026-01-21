@@ -1,0 +1,18 @@
+{
+    "casting_id": "73-jeep-j10",
+    "name": "'73 Jeep J10",
+    "description": {
+        "en-us": "'73 Jeep J10 Debut series Baja Blazers Produced 2023 – Present Designer Phil Riehlman Number HKG61",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg61-73-jeep-j10.json",
+        "data/releases/2024/htc31-73-jeep-j10.json",
+        "data/releases/2025/jdm22-73-jeep-j10.json",
+        "data/releases/2026/jkg10-73-jeep-j10.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Jeep"
+}

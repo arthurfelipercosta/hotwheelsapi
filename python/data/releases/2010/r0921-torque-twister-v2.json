@@ -1,0 +1,29 @@
+{
+    "release_id": "r0921-torque-twister-2010",
+    "toy_number": "R0921",
+    "casting_id": "torque-twister",
+    "year": 2010,
+    "series_id": "2010-new-models",
+    "series_index": 6,
+    "specs": {
+        "color": "Metallic Purple",
+        "tampo": "Silver & Yellow stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Dark Chrome",
+        "wheel_type": {
+            "0": "Gold rim OH5",
+            "1": "006",
+            "2": "214",
+            "3": "2010",
+            "4": "2010 HW Premiere 6",
+            "5": "52"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/TorqueTwister_purple.JPG/revision/latest/scale-to-width-down/75?cb=20100609100155"
+    }
+}

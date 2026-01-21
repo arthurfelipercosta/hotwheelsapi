@@ -2,9 +2,11 @@
     "series_id": "hall-of-fame-milestone-moments",
     "year": 2003,
     "name": "Hall of Fame: Milestone Moments",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2003/b2457-67-mustang.json"
+        "data/releases/2003/b0952-ford-gt-40.json",
+        "data/releases/2003/b2457-67-mustang.json",
+        "data/releases/2003/b2540-67-camaro.json"
     ]
 }

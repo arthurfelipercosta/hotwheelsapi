@@ -2,13 +2,17 @@
     "series_id": "compact-kings",
     "year": 2024,
     "name": "Compact Kings",
-    "total_releases": 5,
+    "total_releases": 9,
     "max_index": 3,
     "releases": [
         "data/releases/2024/hry46-proton-saga.json",
+        "data/releases/2024/htc17-mighty-k.json",
         "data/releases/2024/htc18-fiat-500e.json",
         "data/releases/2024/htc19-73-honda-civic-custom.json",
+        "data/releases/2024/htc20-60s-fiat-500d-modificado.json",
+        "data/releases/2024/htc96-mighty-k.json",
         "data/releases/2024/htd03-fiat-500e.json",
-        "data/releases/2024/htd62-73-honda-civic-custom.json"
+        "data/releases/2024/htd62-73-honda-civic-custom.json",
+        "data/releases/2024/htf45-mighty-k.json"
     ]
 }

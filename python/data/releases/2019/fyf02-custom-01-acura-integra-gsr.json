@@ -1,0 +1,24 @@
+{
+    "release_id": "fyf02-custom-01-acura-integra-gsr-2019",
+    "toy_number": "FYF02",
+    "casting_id": "custom-01-acura-integra-gsr",
+    "year": 2019,
+    "series_id": "hw-speed-graphics",
+    "series_index": 9,
+    "specs": {
+        "color": "Black",
+        "tampo": "Purple & Yellow stripes, \"KW\" logo on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M16, M17, M18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/01_Integra_Black_19.jpg/revision/latest/scale-to-width-down/75?cb=20190621094512"
+    }
+}

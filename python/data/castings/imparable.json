@@ -1,0 +1,21 @@
+{
+    "casting_id": "imparable",
+    "name": "Imparable",
+    "description": {
+        "en-us": "Imparable Debut series 2012 New Models Produced 2012 – 2022 Designer Rob Matthes and Jorge Lorenzo Number V5291",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5291-imparable.json",
+        "data/releases/2012/x6386-imparable.json",
+        "data/releases/2012/v5262-imparable.json",
+        "data/releases/2014/bfd24-imparable.json",
+        "data/releases/2016/djl45-imparable.json",
+        "data/releases/2017/dvf99-imparable.json",
+        "data/releases/2022/hcw15-imparable.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "mystery-models",
+    "year": 2014,
+    "name": "Mystery Models",
+    "total_releases": 3,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2014/bdl15-bedlam.json",
+        "data/releases/2014/bdl15-ccm-country-club-muscle.json",
+        "data/releases/2014/bdl16-anthracite.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "frf47-86-monte-carlo-ss-2018",
+    "toy_number": "FRF47",
+    "casting_id": "86-monte-carlo-ss",
+    "year": 2018,
+    "series_id": "50th-anniversary-throwback",
+    "series_index": 5,
+    "specs": {
+        "color": "Flat Grey",
+        "tampo": "Light Grey & Red stripes on sides & hood, 'Monte Carlo SS' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K49, L05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/86_Monte_Carlo_SS_%281%29.jpg/revision/latest/scale-to-width-down/75?cb=20180910030329"
+    }
+}

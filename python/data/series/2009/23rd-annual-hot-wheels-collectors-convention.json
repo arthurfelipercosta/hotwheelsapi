@@ -2,9 +2,11 @@
     "series_id": "23rd-annual-hot-wheels-collectors-convention",
     "year": 2009,
     "name": "23rd Annual Hot Wheels Collectors Convention",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 2,
     "releases": [
-        "data/releases/2009/p2196-70-chevy-camaro-rs.json"
+        "data/releases/2009/p2196-70-chevy-camaro-rs.json",
+        "data/releases/2009/p2198-classic-cobra.json",
+        "data/releases/2009/p9105-62-corvette.json"
     ]
 }

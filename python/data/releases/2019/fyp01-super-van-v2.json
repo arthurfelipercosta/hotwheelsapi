@@ -1,0 +1,25 @@
+{
+    "release_id": "fyp01-super-van-2019",
+    "toy_number": "FYP01",
+    "casting_id": "super-van",
+    "year": 2019,
+    "series_id": "pop-culture-star-wars",
+    "series_index": 1,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Stormtroopers, Millennium Falcon silhouette, desert landscape",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Released as Super Van Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/2019_Star_War_Pop_Super_Van.JPG/revision/latest/scale-to-width-down/75?cb=20220601234207"
+    }
+}

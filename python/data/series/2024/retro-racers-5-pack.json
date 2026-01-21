@@ -2,9 +2,13 @@
     "series_id": "retro-racers-5-pack",
     "year": 2024,
     "name": "Retro Racers 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2024/htv50-erikenstein-rod.json"
+        "data/releases/2024/htv50-70-mustang-mach-1.json",
+        "data/releases/2024/htv50-erikenstein-rod.json",
+        "data/releases/2024/htv50-head-starter.json",
+        "data/releases/2024/htv50-lamborghini-countach-pace-car.json",
+        "data/releases/2024/htv50-porsche-917-lh.json"
     ]
 }

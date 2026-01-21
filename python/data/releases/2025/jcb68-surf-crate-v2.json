@@ -1,0 +1,25 @@
+{
+    "release_id": "jcb68-surf-crate-2025",
+    "toy_number": "JCB68",
+    "casting_id": "surf-crate",
+    "year": 2025,
+    "series_id": "surf-s-up",
+    "series_index": 4,
+    "specs": {
+        "color": "Black",
+        "tampo": "Cream scallops on sides & roof, Hot Wheels logo on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "BS5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T50N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/2025_Surf_Crate.jpg/revision/latest/scale-to-width-down/75?cb=20250731052338"
+    }
+}

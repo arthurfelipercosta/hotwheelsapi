@@ -1,0 +1,24 @@
+{
+    "release_id": "gjr77-toyota-ae86-sprinter-trueno-2020",
+    "toy_number": "GJR77",
+    "casting_id": "toyota-ae86-sprinter-trueno",
+    "year": 2020,
+    "series_id": "hot-wheels-boulevard-18",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Black hood & trim, headlight & taillight detail",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray MiniC4SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N28, N29, N30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Toyota_AE86_Sprinter_Trueno.JPG/revision/latest/scale-to-width-down/75?cb=20200915015722"
+    }
+}

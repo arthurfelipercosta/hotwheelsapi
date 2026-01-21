@@ -2,9 +2,10 @@
     "series_id": "acceleracers",
     "year": 2006,
     "name": "AcceleRacers",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2006/k3282-hollowback.json",
         "data/releases/2006/k3283-rd-06.json"
     ]
 }

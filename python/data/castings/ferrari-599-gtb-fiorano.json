@@ -1,0 +1,28 @@
+{
+    "casting_id": "ferrari-599-gtb-fiorano",
+    "name": "Ferrari 599 GTB Fiorano",
+    "description": {
+        "en-us": "Ferrari 599 GTB Fiorano Debut series 2007 New Models Produced 2007 - 2015 Designer Rob Matthes Number K6146",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6146-ferrari-599-gtb-fiorano.json",
+        "data/releases/2007/k6146-ferrari-599-gtb-fiorano-v2.json",
+        "data/releases/2007/k6146-ferrari-599-gtb-fiorano-v3.json",
+        "data/releases/2007/k6146-ferrari-599-gtb-fiorano-v4.json",
+        "data/releases/2008/m9835-ferrari-599-gtb-fiorano.json",
+        "data/releases/2008/m9840-ferrari-599-gtb-fiorano.json",
+        "data/releases/2008/m9852-ferrari-599-gtb-fiorano.json",
+        "data/releases/2009/n8105-ferrari-599-gtb-fiorano.json",
+        "data/releases/2009/p7967-ferrari-599-gtb-fiorano.json",
+        "data/releases/2009/l4269-ferrari-599-gtb-fiorano.json",
+        "data/releases/2010/r8487-ferrari-599-gtb-fiorano.json",
+        "data/releases/2010/t4418-ferrari-599-gtb-fiorano.json",
+        "data/releases/2011/t8629-ferrari-599-gtb-fiorano.json",
+        "data/releases/2015/cfh81-ferrari-599-gtb-fiorano.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Ferrari"
+}

@@ -2,9 +2,10 @@
     "series_id": "pop-culture-star-wars-bounty-hunter",
     "year": 2017,
     "name": "Pop Culture: Star Wars Bounty Hunter",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 3,
     "releases": [
+        "data/releases/2017/dwh22-chevy-silverado-off-road.json",
         "data/releases/2017/dwh38-70-chevelle-ss-wagon.json"
     ]
 }

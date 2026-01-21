@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc10-88-honda-cr-x-2020",
+    "toy_number": "GHC10",
+    "casting_id": "88-honda-cr-x",
+    "year": 2020,
+    "series_id": "honda",
+    "series_index": 5,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue & Red stripes, 20, Honda Logo,  taillights, Black simulating glass on lift-back gate.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: M45, M46, M47, M49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/%2788_CR-X_%282020_Recolor_w_LW%29.jpg/revision/latest/scale-to-width-down/75?cb=20200215230404"
+    }
+}

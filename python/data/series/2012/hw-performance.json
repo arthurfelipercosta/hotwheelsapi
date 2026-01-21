@@ -2,10 +2,20 @@
     "series_id": "hw-performance",
     "year": 2012,
     "name": "HW Performance",
-    "total_releases": 2,
+    "total_releases": 12,
     "max_index": 8,
     "releases": [
+        "data/releases/2012/v5377-honda-s2000.json",
+        "data/releases/2012/v5445-honda-s2000.json",
+        "data/releases/2012/v5445-honda-s2000.json",
+        "data/releases/2012/v5446-49-drag-merc.json",
+        "data/releases/2012/v5448-70-camaro.json",
         "data/releases/2012/v5452-8-crate.json",
-        "data/releases/2012/v5619-8-crate.json"
+        "data/releases/2012/v5453-86-monte-carlo-ss.json",
+        "data/releases/2012/v5453-86-monte-carlo-ss.json",
+        "data/releases/2012/v5568-86-monte-carlo-ss.json",
+        "data/releases/2012/v5619-8-crate.json",
+        "data/releases/2012/v5668-honda-s2000.json",
+        "data/releases/2012/w4442-49-drag-merc.json"
     ]
 }

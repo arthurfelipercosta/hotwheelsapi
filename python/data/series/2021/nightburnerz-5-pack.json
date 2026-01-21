@@ -2,9 +2,13 @@
     "series_id": "nightburnerz-5-pack",
     "year": 2021,
     "name": "Nightburnerz 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2021/gtn47-68-corvette-gas-monkey-garage.json"
+        "data/releases/2021/gtn47-68-corvette-gas-monkey-garage.json",
+        "data/releases/2021/gtn47-70-ford-escort-rs1600.json",
+        "data/releases/2021/gtn47-71-datsun-bluebird-510-wagon.json",
+        "data/releases/2021/gtn47-dodge-viper-srt10-acr.json",
+        "data/releases/2021/gtn47-porsche-934-turbo-rsr.json"
     ]
 }

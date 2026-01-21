@@ -1,0 +1,26 @@
+{
+    "release_id": "hcv60-driftsta-2022",
+    "toy_number": "HCV60",
+    "casting_id": "driftsta",
+    "year": 2022,
+    "series_id": "hw-drift",
+    "series_index": 1,
+    "specs": {
+        "color": "Teal",
+        "tampo": "Black bolt tampos, \"ホットホィール\" on hood and sides, \"HW DRIFT CREW\" on hood, \"TEAM Wall Ride\" on trunk, various other sponsors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Ivory",
+        "wheel_type": {
+            "0": "Front",
+            "1": "White Rear",
+            "2": "Magenta PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R05, R06, R08, R09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/2022_Driftsta.jpg/revision/latest/scale-to-width-down/75?cb=20250203021939"
+    }
+}

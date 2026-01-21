@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc41-datsun-620-2020",
+    "toy_number": "GHC41",
+    "casting_id": "datsun-620",
+    "year": 2020,
+    "series_id": "hw-hot-trucks",
+    "series_index": 8,
+    "specs": {
+        "color": "Red Oxide Matte",
+        "tampo": "Black stripes & 'JDM Legends' on sides, 'Datsun' lettering on sides & tailgate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N08, N09, N10, N11, N19, N20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/530FDAFF-E455-404C-B36D-564FB04FDC17.jpeg/revision/latest/scale-to-width-down/75?cb=20200613151000"
+    }
+}

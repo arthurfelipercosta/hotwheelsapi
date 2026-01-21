@@ -1,0 +1,37 @@
+{
+    "release_id": "p5205-high-voltage-2008",
+    "toy_number": "P5205",
+    "casting_id": "high-voltage",
+    "year": 2008,
+    "series_id": "coaster-crash",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "White, silver & black",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "OH5",
+            "1": "2009",
+            "2": "Color Shifters",
+            "3": "Cold: Dark Blue",
+            "4": "Warm: White",
+            "5": "Dark Blue",
+            "6": "White graphics with \"9\" on sides",
+            "7": "hood",
+            "8": "Unpainted",
+            "9": "Metal",
+            "10": "Clear",
+            "11": "Chrome",
+            "12": "Thailand",
+            "13": "Base code(s) :"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Also available in car wash set Base code(s) : C21, D10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/E1cc69ae-c58e-4d19-b84b-a5fe6888fb3a.png/revision/latest/scale-to-width-down/75?cb=20250806034114"
+    }
+}

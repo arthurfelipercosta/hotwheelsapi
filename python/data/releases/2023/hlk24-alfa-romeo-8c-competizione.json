@@ -1,0 +1,24 @@
+{
+    "release_id": "hlk24-alfa-romeo-8c-competizione-2023",
+    "toy_number": "HLK24",
+    "casting_id": "alfa-romeo-8c-competizione",
+    "year": 2023,
+    "series_id": "forza",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake silver",
+        "tampo": "Detailed headlights taillights, red stripe on side, Forza Motorsport and Xbox logos on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RFC3"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S20, S21, S29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/be/Alfa8C.jpg/revision/latest/scale-to-width-down/75?cb=20231009100137"
+    }
+}

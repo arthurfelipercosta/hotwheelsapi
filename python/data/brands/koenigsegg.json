@@ -1,0 +1,14 @@
+{
+    "brand_id": "koenigsegg",
+    "name": "Koenigsegg",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/2020-koenigsegg-jesko.json",
+        "data/castings/koenigsegg-gemera.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Koenigsegg vehicles.",
+        "pt-br": "Fabricante de veículos Koenigsegg."
+    }
+}

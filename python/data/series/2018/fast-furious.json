@@ -1,0 +1,13 @@
+{
+    "series_id": "fast-furious",
+    "year": 2018,
+    "name": "Fast & Furious",
+    "total_releases": 4,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2018/fkf07-70-chevelle-ss.json",
+        "data/releases/2018/fkf10-honda-s2000.json",
+        "data/releases/2018/fkf11-ford-gt-40.json",
+        "data/releases/2018/fkf13-nissan-skyline-h-t-2000gt-x.json"
+    ]
+}

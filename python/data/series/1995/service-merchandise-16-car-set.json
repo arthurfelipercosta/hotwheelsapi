@@ -1,0 +1,11 @@
+{
+    "series_id": "service-merchandise-16-car-set",
+    "year": 1995,
+    "name": "Service Merchandise 16-Car Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1995/14021-65-mustang-convertible.json",
+        "data/releases/1995/9638-57-chevy.json"
+    ]
+}

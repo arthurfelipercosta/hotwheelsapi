@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv21-volvo-850-estate-2022",
+    "toy_number": "HCV21",
+    "casting_id": "volvo-850-estate",
+    "year": 2022,
+    "series_id": "hw-wagons",
+    "series_index": 2,
+    "specs": {
+        "color": "Olive Green Metallic",
+        "tampo": "Detailed headlights & taillights, \"Volvo\" & \"850\" on trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "",
+    "notes": "Base code(s): R06, R07, R08, R09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/Volvo_850_Estate_HW_Wagons_2022.jpg/revision/latest/scale-to-width-down/75?cb=20220401223506"
+    }
+}

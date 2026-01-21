@@ -1,0 +1,22 @@
+{
+    "casting_id": "range-rover-classic",
+    "name": "Range Rover Classic",
+    "description": {
+        "en-us": "Range Rover Classic Debut series HW Hot Trucks Produced 2021 – Present Designer Dmitriy Shakhmatov Number GRX34",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx34-range-rover-classic.json",
+        "data/releases/2021/hcy49-range-rover-classic.json",
+        "data/releases/2022/hct76-range-rover-classic.json",
+        "data/releases/2022/hcx52-range-rover-classic.json",
+        "data/releases/2023/hlj99-range-rover-classic.json",
+        "data/releases/2023/hkc71-range-rover-classic.json",
+        "data/releases/2024/hrt08-range-rover-classic.json",
+        "data/releases/2024/hxn09-range-rover-classic.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Range Rover"
+}

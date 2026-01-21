@@ -1,0 +1,24 @@
+{
+    "release_id": "dvd01-69-camaro-z28-tooned-2017",
+    "toy_number": "DVD01",
+    "casting_id": "69-camaro-z28-tooned",
+    "year": 2017,
+    "series_id": "tooned",
+    "series_index": 3,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripes on sides & top, HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gold 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Treasure Hunt Base code(s): J42, J44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/DVD01_01.jpg/revision/latest/scale-to-width-down/75?cb=20170109195408"
+    }
+}

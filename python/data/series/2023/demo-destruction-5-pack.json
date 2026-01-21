@@ -2,9 +2,11 @@
     "series_id": "demo-destruction-5-pack",
     "year": 2023,
     "name": "Demo Destruction 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2023/hly71-cruise-bruiser.json"
+        "data/releases/2023/hly71-cruise-bruiser.json",
+        "data/releases/2023/hly71-project-speeder.json",
+        "data/releases/2023/hly71-repo-duty.json"
     ]
 }

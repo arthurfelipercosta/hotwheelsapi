@@ -2,9 +2,14 @@
     "series_id": "50th-anniversary-favorites",
     "year": 2018,
     "name": "50th Anniversary Favorites",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 7,
     "releases": [
-        "data/releases/2018/flf42-1978-dodge-li-l-red-express-truck.json"
+        "data/releases/2018/flf36-71-datsun-bluebird-510-wagon.json",
+        "data/releases/2018/flf39-custom-69-volkswagen-squareback.json",
+        "data/releases/2018/flf42-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2018/flf43-55-chevy-bel-air-gasser.json",
+        "data/releases/2018/flf45-65-ford-galaxie.json",
+        "data/releases/2018/fvr87-55-chevy-bel-air-gasser.json"
     ]
 }

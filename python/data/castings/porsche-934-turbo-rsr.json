@@ -1,0 +1,30 @@
+{
+    "casting_id": "porsche-934-turbo-rsr",
+    "name": "Porsche 934 Turbo RSR",
+    "description": {
+        "en-us": "Porsche 934 Turbo RSR Debut series HW City: Planet Heroes Produced 2014 - Present Designer Ryu Asada Number CFH17",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/cfh17-porsche-934-turbo-rsr.json",
+        "data/releases/2015/cfh62-porsche-934-turbo-rsr.json",
+        "data/releases/2015/cfj67-porsche-934-turbo-rsr.json",
+        "data/releases/2016/djh70-porsche-934-turbo-rsr.json",
+        "data/releases/2016/dhr77-porsche-934-turbo-rsr.json",
+        "data/releases/2016/dhx58-porsche-934-turbo-rsr.json",
+        "data/releases/2017/dty84-porsche-934-turbo-rsr.json",
+        "data/releases/2018/fjx89-porsche-934-turbo-rsr.json",
+        "data/releases/2018/fkc04-porsche-934-turbo-rsr.json",
+        "data/releases/2018/fkb18-porsche-934-turbo-rsr.json",
+        "data/releases/2019/gbb75-porsche-934-turbo-rsr.json",
+        "data/releases/2020/gjv71-porsche-934-turbo-rsr.json",
+        "data/releases/2021/gtn47-porsche-934-turbo-rsr.json",
+        "data/releases/2022/dap02-porsche-934-turbo-rsr.json",
+        "data/releases/2023/hlk51-porsche-934-turbo-rsr.json",
+        "data/releases/2025/jcb05-porsche-934-turbo-rsr.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Porsche"
+}

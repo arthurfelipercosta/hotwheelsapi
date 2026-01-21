@@ -1,0 +1,24 @@
+{
+    "release_id": "gry37-rocket-oil-special-2021",
+    "toy_number": "GRY37",
+    "casting_id": "rocket-oil-special",
+    "year": 2021,
+    "series_id": "hw-art-cars",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "Orange & yellow splatters on car, heart symbol on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light Blue",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Orange AeroDisc & Yellow AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): P02, P03, P06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Retooled_Oil_Rocket_Special.jpg/revision/latest/scale-to-width-down/75?cb=20210423020808"
+    }
+}

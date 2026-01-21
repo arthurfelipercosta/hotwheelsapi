@@ -2,9 +2,14 @@
     "series_id": "holiday-hot-rods",
     "year": 2017,
     "name": "Holiday Hot Rods",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 6,
     "releases": [
-        "data/releases/2017/dwc10-carbonator.json"
+        "data/releases/2017/dwc06-scoopa-di-fuego.json",
+        "data/releases/2017/dwc07-super-blitzen.json",
+        "data/releases/2017/dwc08-fandango.json",
+        "data/releases/2017/dwc09-diesel-duty.json",
+        "data/releases/2017/dwc10-carbonator.json",
+        "data/releases/2017/dwc11-rennen-rig.json"
     ]
 }

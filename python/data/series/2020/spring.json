@@ -2,9 +2,11 @@
     "series_id": "spring",
     "year": 2020,
     "name": "Spring",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 3,
     "releases": [
-        "data/releases/2020/gjv78-bullet-proof.json"
+        "data/releases/2020/gjv78-bullet-proof.json",
+        "data/releases/2020/gjv79-hw40.json",
+        "data/releases/2020/gjv80-boom-box.json"
     ]
 }

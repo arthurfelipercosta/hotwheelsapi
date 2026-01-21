@@ -1,0 +1,24 @@
+{
+    "series_id": "hw-showroom-hw-all-stars",
+    "year": 2013,
+    "name": "HW Showroom: HW All Stars",
+    "total_releases": 15,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1612-lamborghini-aventador-j.json",
+        "data/releases/2013/x1613-ferrari-f12berlinetta.json",
+        "data/releases/2013/x1784-ducati-1098r.json",
+        "data/releases/2013/x1841-lotus-project-m250.json",
+        "data/releases/2013/x1842-92-bmw-m3.json",
+        "data/releases/2013/x1843-lamborghini-aventador-lp-700-4.json",
+        "data/releases/2013/x1844-toyota-2000gt.json",
+        "data/releases/2013/x1846-enzo-ferrari.json",
+        "data/releases/2013/x1990-lotus-project-m250.json",
+        "data/releases/2013/x1992-lamborghini-aventador-lp-700-4.json",
+        "data/releases/2013/x1995-enzo-ferrari.json",
+        "data/releases/2013/x2020-toyota-2000gt.json",
+        "data/releases/2013/x2031-92-bmw-m3.json",
+        "data/releases/2013/x2045-ferrari-f12berlinetta.json",
+        "data/releases/2013/x2055-lamborghini-aventador-j.json"
+    ]
+}

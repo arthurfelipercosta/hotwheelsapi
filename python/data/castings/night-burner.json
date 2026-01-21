@@ -1,0 +1,36 @@
+{
+    "casting_id": "night-burner",
+    "name": "Night Burner",
+    "description": {
+        "en-us": "Night Burner Debut series 2006 First Editions Produced 2006 - Present Designer Phil Riehlman Number J3276",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2006/j3276-night-burner.json",
+        "data/releases/2006/j3276-night-burner-v2.json",
+        "data/releases/2007/k7616-night-burner.json",
+        "data/releases/2007/k7616s-night-burner.json",
+        "data/releases/2008/m6912-night-burner.json",
+        "data/releases/2008/m6912-night-burner-v2.json",
+        "data/releases/2008/m6912-night-burner-v3.json",
+        "data/releases/2009/p2413-night-burner.json",
+        "data/releases/2009/p2413-night-burner-v2.json",
+        "data/releases/2010/r7904-night-burner.json",
+        "data/releases/2011/t9781-night-burner.json",
+        "data/releases/2012/v5496-night-burner.json",
+        "data/releases/2012/w4672-night-burner.json",
+        "data/releases/2013/bbmxx-night-burner.json",
+        "data/releases/2014/bfd22-night-burner.json",
+        "data/releases/2015/cdt26-night-burner.json",
+        "data/releases/2016/dhp52-night-burner.json",
+        "data/releases/2017/dvf99-night-burner.json",
+        "data/releases/2019/fxb47-night-burner.json",
+        "data/releases/2020/gml25-night-burner.json",
+        "data/releases/2020/gjv97-night-burner.json",
+        "data/releases/2022/hfv79-night-burner.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2006,
+    "manufacturer": "Mattel"
+}

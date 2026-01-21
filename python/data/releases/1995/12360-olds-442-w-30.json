@@ -1,0 +1,27 @@
+{
+    "release_id": "12360-olds-442-w-30-1995",
+    "toy_number": "12360",
+    "casting_id": "olds-442-w-30",
+    "year": 1995,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripes on sides and hood, Hot Wheels logo on rear window",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BW",
+            "1": "7SP",
+            "2": "5DOT",
+            "3": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Olds_442_W-30_YelBW.JPG/revision/latest/scale-to-width-down/75?cb=20081220074222"
+    }
+}

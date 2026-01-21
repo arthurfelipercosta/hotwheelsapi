@@ -1,0 +1,12 @@
+{
+    "series_id": "aerial-attack",
+    "year": 2007,
+    "name": "Aerial Attack",
+    "total_releases": 3,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2007/k7588-mad-propz.json",
+        "data/releases/2007/k7590-poison-arrow.json",
+        "data/releases/2007/k7591-killer-copter.json"
+    ]
+}

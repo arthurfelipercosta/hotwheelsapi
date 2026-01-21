@@ -1,0 +1,18 @@
+{
+    "casting_id": "2019-kia-stinger-gt",
+    "name": "2019 Kia Stinger GT",
+    "description": {
+        "en-us": "2019 Kia Stinger GT Debut series Factory Fresh Produced 2020 - Present Designer Lindsey Lee Number GHB37",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb37-2019-kia-stinger-gt.json",
+        "data/releases/2020/ghf02-2019-kia-stinger-gt.json",
+        "data/releases/2021/gry58-2019-kia-stinger-gt.json",
+        "data/releases/2021/gtc00-2019-kia-stinger-gt.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Kia"
+}

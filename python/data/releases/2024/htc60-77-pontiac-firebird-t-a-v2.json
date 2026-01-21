@@ -1,0 +1,25 @@
+{
+    "release_id": "htc60-77-pontiac-firebird-t-a-2024",
+    "toy_number": "HTC60",
+    "casting_id": "77-pontiac-firebird-t-a",
+    "year": 2024,
+    "series_id": "muscle-mania",
+    "series_index": 4,
+    "specs": {
+        "color": "Matte black",
+        "tampo": "Firebird symbol on sides & hood, Hot Wheels logo & red, orange, and dark yellow stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T16, T17, T19, T20, T21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/1977PontiacFirebird.jpg/revision/latest/scale-to-width-down/75?cb=20240702101327"
+    }
+}

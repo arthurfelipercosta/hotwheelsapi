@@ -1,0 +1,38 @@
+{
+    "casting_id": "maximum-leeway",
+    "name": "Maximum Leeway",
+    "description": {
+        "en-us": "Maximum Leeway Debut series HW Racing: Track Aces Produced 2013 - Present Designer Leeway Chang Number X1656",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1656-maximum-leeway.json",
+        "data/releases/2013/x1940-maximum-leeway.json",
+        "data/releases/2014/bfd39-maximum-leeway.json",
+        "data/releases/2015/cfl08-maximum-leeway.json",
+        "data/releases/2015/cfl67-maximum-leeway.json",
+        "data/releases/2015/cjx60-maximum-leeway.json",
+        "data/releases/2016/dht19-maximum-leeway.json",
+        "data/releases/2017/dvf89-maximum-leeway.json",
+        "data/releases/2017/dwd05-maximum-leeway.json",
+        "data/releases/2018/fjw71-maximum-leeway.json",
+        "data/releases/2020/x6999-maximum-leeway.json",
+        "data/releases/2020/ghp65-maximum-leeway.json",
+        "data/releases/2021/x6999-maximum-leeway.json",
+        "data/releases/2021/gtn45-maximum-leeway.json",
+        "data/releases/2022/hfk94-maximum-leeway.json",
+        "data/releases/2022/x6999-maximum-leeway.json",
+        "data/releases/2022/hgt78-maximum-leeway.json",
+        "data/releases/2023/hly65-maximum-leeway.json",
+        "data/releases/2023/x6999-maximum-leeway.json",
+        "data/releases/2024/hvw79-maximum-leeway.json",
+        "data/releases/2024/htg00-maximum-leeway.json",
+        "data/releases/2025/jcl07-maximum-leeway.json",
+        "data/releases/2026/x6999-maximum-leeway.json",
+        "data/releases/2026/jkc26-maximum-leeway.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

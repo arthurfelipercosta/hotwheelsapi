@@ -2,9 +2,14 @@
     "series_id": "avengers",
     "year": 2019,
     "name": "Avengers",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 5,
     "releases": [
+        "data/releases/2019/fyy60-the-gov-ner.json",
+        "data/releases/2019/fyy61-bully-goat.json",
+        "data/releases/2019/fyy62-scoopa-di-fuego.json",
+        "data/releases/2019/fyy63-solid-muscle.json",
+        "data/releases/2019/fyy64-rogue-hog.json",
         "data/releases/2019/fyy65-time-shifter.json"
     ]
 }

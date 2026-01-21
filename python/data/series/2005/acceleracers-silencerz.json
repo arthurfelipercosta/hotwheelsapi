@@ -1,0 +1,13 @@
+{
+    "series_id": "acceleracers-silencerz",
+    "year": 2005,
+    "name": "AcceleRacers: Silencerz",
+    "total_releases": 4,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2005/g8117-carbide.json",
+        "data/releases/2005/g8119-iridium.json",
+        "data/releases/2005/g8120-covelight.json",
+        "data/releases/2005/g8125-anthracite.json"
+    ]
+}

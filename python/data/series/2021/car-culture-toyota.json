@@ -1,0 +1,12 @@
+{
+    "series_id": "car-culture-toyota",
+    "year": 2021,
+    "name": "Car Culture: Toyota",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2021/grj96-toyota-supra.json",
+        "data/releases/2021/grj97-1987-toyota-pickup-truck.json",
+        "data/releases/2021/grj98-toyota-2000gt.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dwh84-55-chevy-bel-air-gasser-2017",
+    "toy_number": "DWH84",
+    "casting_id": "55-chevy-bel-air-gasser",
+    "year": 2017,
+    "series_id": "car-culture-hw-redliners",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Orange",
+        "tampo": "#55, \"BAD GASSER\", Poisonous/Flammable Icons",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "RRPrf"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: J40, J41, J42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/55_Chevy_Bel_Air_Gasser_-_17_HW_Redliners_600pxOTD.jpg/revision/latest/scale-to-width-down/75?cb=20161205185608"
+    }
+}

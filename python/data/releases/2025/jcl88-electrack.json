@@ -1,0 +1,25 @@
+{
+    "release_id": "jcl88-electrack-2025",
+    "toy_number": "JCL88",
+    "casting_id": "electrack",
+    "year": 2025,
+    "series_id": "color-reveal",
+    "series_index": null,
+    "specs": {
+        "color": "Warm : Clear Amber over Light Blue Cold : Clear Amber over Teal",
+        "tampo": "Hot Wheels logo, checkered pattern and '44' visible when cold",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Warm : Light Blue Cold : Teal",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gray tire",
+            "1": "Chrome Gold TRAP5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Electrack_2025_Complete.jpg/revision/latest/scale-to-width-down/75?cb=20250819224909"
+    }
+}

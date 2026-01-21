@@ -1,0 +1,24 @@
+{
+    "release_id": "ghh16-nissan-skyline-h-t-2000gt-x-2019",
+    "toy_number": "GHH16",
+    "casting_id": "nissan-skyline-h-t-2000gt-x",
+    "year": 2019,
+    "series_id": "fast-furious-fast-rewind",
+    "series_index": 3,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Licensed graphics from 2 Fast 2 Furious. Blue Stripes.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR8SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M37, M38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/Fast-Rewind-2000GTX.jpg/revision/latest/scale-to-width-down/75?cb=20191024200833"
+    }
+}

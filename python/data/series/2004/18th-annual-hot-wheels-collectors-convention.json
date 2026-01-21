@@ -2,10 +2,11 @@
     "series_id": "18th-annual-hot-wheels-collectors-convention",
     "year": 2004,
     "name": "18th Annual Hot Wheels Collectors Convention",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
         "data/releases/2004/h1523-67-mustang.json",
+        "data/releases/2004/h1525-classic-cobra.json",
         "data/releases/2004/h1527-purple-passion.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "p2430-armored-truck-2009",
+    "toy_number": "P2430",
+    "casting_id": "armored-truck",
+    "year": 2009,
+    "series_id": "hw-city-works",
+    "series_index": 4,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "Yellow, Green, Silver, & Black tampos, 'Chrome Burnerz Security Company' on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Gold Chrome rims",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/HW_Armored_Truck_%282%29.JPG/revision/latest/scale-to-width-down/75?cb=20090731035343"
+    }
+}

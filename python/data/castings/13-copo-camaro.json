@@ -1,0 +1,30 @@
+{
+    "casting_id": "13-copo-camaro",
+    "name": "'13 COPO Camaro",
+    "description": {
+        "en-us": "'13 COPO Camaro Debut series HW Workshop: Then and Now Produced 2014 - Present Designer Brendon Vetuskey Number BDC72",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc72-13-copo-camaro-v3.json",
+        "data/releases/2014/bfg78-13-copo-camaro-v3.json",
+        "data/releases/2014/bfg68-13-copo-camaro-v3.json",
+        "data/releases/2015/cfk74-13-copo-camaro-v5.json",
+        "data/releases/2015/cfk74-13-copo-camaro-v6.json",
+        "data/releases/2015/cfj84-13-copo-camaro-v3.json",
+        "data/releases/2016/dhr75-13-copo-camaro-v3.json",
+        "data/releases/2016/dhx57-13-copo-camaro-v3.json",
+        "data/releases/2017/dvy84-13-copo-camaro-v3.json",
+        "data/releases/2017/dwc92-13-copo-camaro-v3.json",
+        "data/releases/2017/fpw91-13-copo-camaro-v3.json",
+        "data/releases/2018/fkx29-13-copo-camaro-v3.json",
+        "data/releases/2018/x6999-13-copo-camaro-v3.json",
+        "data/releases/2020/gjw96-13-copo-camaro-v3.json",
+        "data/releases/2023/hly78-13-copo-camaro-v3.json",
+        "data/releases/2024/hrw63-13-copo-camaro-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

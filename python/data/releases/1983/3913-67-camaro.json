@@ -1,0 +1,27 @@
+{
+    "release_id": "3913-67-camaro-1983",
+    "toy_number": "3913",
+    "casting_id": "67-camaro",
+    "year": 1983,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow, White & Black flames & \"67 camaro\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BW",
+            "1": "1984",
+            "2": "Mainline",
+            "3": "Malaysia"
+        }
+    },
+    "country": "Hong Kong",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Flame_camaro.jpg/revision/latest/scale-to-width-down/75?cb=20090525041608"
+    }
+}

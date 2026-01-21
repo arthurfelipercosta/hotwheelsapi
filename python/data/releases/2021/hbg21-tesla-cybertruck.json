@@ -1,0 +1,24 @@
+{
+    "release_id": "hbg21-tesla-cybertruck-2021",
+    "toy_number": "HBG21",
+    "casting_id": "tesla-cybertruck",
+    "year": 2021,
+    "series_id": "hot-wheels-id-hw-hot-trucks",
+    "series_index": 1,
+    "specs": {
+        "color": "Zinc-plated ZAMAC",
+        "tampo": "Detailed front & rear light strips, \"CYBRTRK\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Modified casting Base code(s): P32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/TeslaCybertruck.jpg/revision/latest/scale-to-width-down/75?cb=20211030073345"
+    }
+}

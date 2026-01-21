@@ -1,0 +1,31 @@
+{
+    "release_id": "bff67-audacious-2014",
+    "toy_number": "BFF67",
+    "casting_id": "audacious",
+    "year": 2014,
+    "series_id": "hw-city-hw-goal",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "White, Yellow and Dark Blue tampos, white soccer tampos, stripes, HW Logo represents Brazil",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Green",
+        "wheel_type": {
+            "0": "Green Rim OH5",
+            "1": "White",
+            "2": "Yellow",
+            "3": "Dark Blue tampos",
+            "4": "white",
+            "5": "yellow soccer tampos",
+            "6": "stripes",
+            "7": "HW Logo represents Brazil"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G21, G23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/Audacious-yellow2014.jpg/revision/latest/scale-to-width-down/75?cb=20181215142119"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc52-circle-tracker-2020",
+    "toy_number": "GHC52",
+    "casting_id": "circle-tracker",
+    "year": 2020,
+    "series_id": "hw-race-day",
+    "series_index": 6,
+    "specs": {
+        "color": "White",
+        "tampo": "#75 on Roof, Mattel on Red Circle Logo on Bonnet. Logos on the door:  Mattel logo, 75th Anniversary, UNO, Barbie, Polly Pocket, Masters of the Universe, Monster High, Matchbox , Hotwheels Logo.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "CGBMC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M43, M45, M46, M49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/101_-_Circle_Tracker.jpg/revision/latest/scale-to-width-down/75?cb=20200126025507"
+    }
+}

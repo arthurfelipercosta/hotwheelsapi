@@ -1,0 +1,24 @@
+{
+    "release_id": "gry47-mercedes-benz-300-sl-2021",
+    "toy_number": "GRY47",
+    "casting_id": "mercedes-benz-300-sl",
+    "year": 2021,
+    "series_id": "hw-speed-graphics",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Black hood & stripes, with some #IWC RACING livery graphics, white circle with red \"68\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): P07, P11, P12, P16, P17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/HW-2021-MBZ-300-SL-Mainline-IMG_3912.jpg/revision/latest/scale-to-width-down/75?cb=20210408175625"
+    }
+}

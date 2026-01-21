@@ -1,0 +1,11 @@
+{
+    "series_id": "30th-anniversary-of-the-camaro-4-car-set",
+    "year": 1997,
+    "name": "30th Anniversary of the Camaro 4-Car Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1997/16737-67-camaro.json",
+        "data/releases/1997/16737-blown-camaro.json"
+    ]
+}

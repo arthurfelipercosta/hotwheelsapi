@@ -1,0 +1,38 @@
+{
+    "casting_id": "custom-64-galaxie-500",
+    "name": "Custom '64 Galaxie 500",
+    "description": {
+        "en-us": "Custom '64 Galaxie 500 Debut series 2007 New Models Produced 2007 - 2020 Designer Phil Riehlman Number L5364",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/l5364-custom-64-galaxie-500.json",
+        "data/releases/2007/l5364-custom-64-galaxie-500-v2.json",
+        "data/releases/2007/l5364-custom-64-galaxie-500-v3.json",
+        "data/releases/2007/l5364-custom-64-galaxie-500-v4.json",
+        "data/releases/2008/54886-custom-64-galaxie-500.json",
+        "data/releases/2008/54886-custom-64-galaxie-500-v2.json",
+        "data/releases/2008/54886-custom-64-galaxie-500-v3.json",
+        "data/releases/2009/p2509-custom-64-galaxie-500.json",
+        "data/releases/2010/t0409-custom-64-galaxie-500.json",
+        "data/releases/2010/t0409-custom-64-galaxie-500-v2.json",
+        "data/releases/2010/t0409-custom-64-galaxie-500-v3.json",
+        "data/releases/2011/t8471-custom-64-galaxie-500.json",
+        "data/releases/2012/v5416-custom-64-galaxie-500.json",
+        "data/releases/2012/v5639-custom-64-galaxie-500.json",
+        "data/releases/2012/x2036-custom-64-galaxie-500.json",
+        "data/releases/2013/x1794-custom-64-galaxie-500.json",
+        "data/releases/2013/bff57-custom-64-galaxie-500.json",
+        "data/releases/2014/bff26-custom-64-galaxie-500.json",
+        "data/releases/2014/bfg09-custom-64-galaxie-500.json",
+        "data/releases/2015/dfl59-custom-64-galaxie-500.json",
+        "data/releases/2016/x6999-custom-64-galaxie-500.json",
+        "data/releases/2019/fyt15-custom-64-galaxie-500.json",
+        "data/releases/2020/gjw65-custom-64-galaxie-500.json",
+        "data/releases/2026/jhw50-custom-64-galaxie-500.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Mattel"
+}

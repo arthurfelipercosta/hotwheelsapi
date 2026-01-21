@@ -1,0 +1,24 @@
+{
+    "release_id": "fkb45-fiat-500-2018",
+    "toy_number": "FKB45",
+    "casting_id": "fiat-500",
+    "year": 2018,
+    "series_id": "hw-daredevils",
+    "series_index": 2,
+    "specs": {
+        "color": "Spectraflame Orange",
+        "tampo": "Yellow stripes & 'HWDDVL', Black & White '500' & '01' on sides, TH logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow RRC"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Super Treasure Hunt Playable in Unleashed Base code(s): L16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/Fiat5002018sth1.jpg/revision/latest/scale-to-width-down/75?cb=20180828141447"
+    }
+}

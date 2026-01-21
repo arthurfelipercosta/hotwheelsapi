@@ -2,10 +2,15 @@
     "series_id": "treasure-hunts",
     "year": 2005,
     "name": "Treasure Hunts",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 9,
     "releases": [
         "data/releases/2005/g6736-purple-passion.json",
-        "data/releases/2005/g6744-rodger-dodger.json"
+        "data/releases/2005/g6737-67-camaro.json",
+        "data/releases/2005/g6739-57-chevy.json",
+        "data/releases/2005/g6739-57-chevy.json",
+        "data/releases/2005/g6743-67-pontiac-gto.json",
+        "data/releases/2005/g6744-rodger-dodger.json",
+        "data/releases/2005/g6745-mini-cooper.json"
     ]
 }

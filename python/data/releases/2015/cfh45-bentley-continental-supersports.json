@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh45-bentley-continental-supersports-2015",
+    "toy_number": "CFH45",
+    "casting_id": "bentley-continental-supersports",
+    "year": 2015,
+    "series_id": "hw-workshop-speed-team",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Dark Red",
+        "tampo": "Black, white & red stripes on hood & sides, Bentley logo on front",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G38, G41, G44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Bentley_Continental_Supersports-2015_192.jpg/revision/latest/scale-to-width-down/75?cb=20150108150654"
+    }
+}

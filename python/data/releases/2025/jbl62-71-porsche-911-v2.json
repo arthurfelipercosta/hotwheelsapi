@@ -1,0 +1,24 @@
+{
+    "release_id": "jbl62-71-porsche-911-2025",
+    "toy_number": "JBL62",
+    "casting_id": "71-porsche-911",
+    "year": 2025,
+    "series_id": "pop-culture-top-gun-maverick",
+    "series_index": null,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Detailed headlights, taillights and trim, \"PORSCHE\" on trunk, Porsche logo on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RRLW5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Replicates \"1973 Porsche 911 S\" Base code(s): U08I, U09I, U16I",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/TG_Porsche_911_silver_2025_cropped.jpg/revision/latest/scale-to-width-down/75?cb=20250518010554"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-moto",
+    "year": 2016,
+    "name": "HW Moto",
+    "total_releases": 6,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2016/dhp16-honda-monkey-z50.json",
+        "data/releases/2016/dhr38-ducati-1199-panigale.json",
+        "data/releases/2016/dhr39-ducati-diavel.json",
+        "data/releases/2016/dhr40-bad-bagger.json",
+        "data/releases/2016/dhr41-fly-by.json",
+        "data/releases/2016/dhx42-honda-monkey-z50.json"
+    ]
+}

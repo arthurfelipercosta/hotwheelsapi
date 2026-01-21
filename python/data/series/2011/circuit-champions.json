@@ -1,0 +1,12 @@
+{
+    "series_id": "circuit-champions",
+    "year": 2011,
+    "name": "Circuit Champions",
+    "total_releases": 3,
+    "max_index": 13,
+    "releases": [
+        "data/releases/2011/r0949-howlin-heat.json",
+        "data/releases/2011/r9105-la-fasta.json",
+        "data/releases/2011/t9925-f-racer.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "v5555-lamborghini-estoque-2011",
+    "toy_number": "V5555",
+    "casting_id": "lamborghini-estoque",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 48,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Detailed headlights w/ Lamborghini emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Dark Grey",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D41, D44, D49, D50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/Lamborghini_Estoque.jpg/revision/latest/scale-to-width-down/75?cb=20120327023846"
+    }
+}

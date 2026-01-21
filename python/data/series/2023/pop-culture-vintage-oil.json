@@ -1,0 +1,12 @@
+{
+    "series_id": "pop-culture-vintage-oil",
+    "year": 2023,
+    "name": "Pop Culture: Vintage Oil",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hkc98-combat-medic.json",
+        "data/releases/2023/hkc99-datsun-620.json",
+        "data/releases/2023/hkd00-custom-62-chevy.json"
+    ]
+}

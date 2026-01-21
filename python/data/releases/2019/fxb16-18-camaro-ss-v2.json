@@ -1,0 +1,25 @@
+{
+    "release_id": "fxb16-18-camaro-ss-2019",
+    "toy_number": "FXB16",
+    "casting_id": "18-camaro-ss",
+    "year": 2019,
+    "series_id": "hot-wheels-id-factory-fresh",
+    "series_index": 4,
+    "specs": {
+        "color": "Spectraflame Orange",
+        "tampo": "Black & White striipes on hood and trunk, HW logo, 50th anniversary on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Modified casting Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/FXB16.jpg/revision/latest/scale-to-width-down/75?cb=20190728002302"
+    }
+}

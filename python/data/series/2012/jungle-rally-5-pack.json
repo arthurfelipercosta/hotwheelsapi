@@ -2,9 +2,12 @@
     "series_id": "jungle-rally-5-pack",
     "year": 2012,
     "name": "Jungle Rally 5-Pack",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/w4250-dune-it-up.json"
+        "data/releases/2012/w4250-bad-mudder-2.json",
+        "data/releases/2012/w4250-dune-it-up.json",
+        "data/releases/2012/w4250-propper-chopper.json",
+        "data/releases/2012/w4250-rd-05.json"
     ]
 }

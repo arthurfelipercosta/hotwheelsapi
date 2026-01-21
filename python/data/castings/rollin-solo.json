@@ -1,0 +1,20 @@
+{
+    "casting_id": "rollin-solo",
+    "name": "Rollin' Solo",
+    "description": {
+        "en-us": "Rollin' Solo Debut series HW Track Champs Produced 2023 – Present Designer Lindsey Lee Number HKG41",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg41-rollin-solo.json",
+        "data/releases/2023/hkk41-rollin-solo.json",
+        "data/releases/2024/htc06-rollin-solo.json",
+        "data/releases/2024/htd93-rollin-solo.json",
+        "data/releases/2025/jcl16-rollin-solo.json",
+        "data/releases/2026/jkc31-rollin-solo.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

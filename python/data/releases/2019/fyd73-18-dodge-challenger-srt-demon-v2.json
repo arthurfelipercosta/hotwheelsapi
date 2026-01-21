@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd73-18-dodge-challenger-srt-demon-2019",
+    "toy_number": "FYD73",
+    "casting_id": "18-dodge-challenger-srt-demon",
+    "year": 2019,
+    "series_id": "muscle-mania",
+    "series_index": 2,
+    "specs": {
+        "color": "Candy Red",
+        "tampo": "Black stripes on sides & hood, white 'DODGE' & Hot Wheels logo on sides, 'SRT' on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M07, M09, M10, M11, M13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Challenger_Demon_Red_19.jpg/revision/latest/scale-to-width-down/75?cb=20190510101711"
+    }
+}

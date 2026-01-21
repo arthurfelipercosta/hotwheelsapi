@@ -1,0 +1,25 @@
+{
+    "release_id": "x2003-73-ford-falcon-xb-2013",
+    "toy_number": "X2003",
+    "casting_id": "73-ford-falcon-xb",
+    "year": 2013,
+    "series_id": "hw-showroom-hw-garage",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "Blue & Green striples, \"GT351\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Green",
+        "wheel_type": {
+            "0": "Blue rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E50, E51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/%2773_Ford_Falcon_XB-2013_198_Black.jpg/revision/latest/scale-to-width-down/75?cb=20130329094911"
+    }
+}

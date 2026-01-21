@@ -1,0 +1,23 @@
+{
+    "casting_id": "street-cleaver",
+    "name": "Street Cleaver",
+    "description": {
+        "en-us": "Street Cleaver Debut series 1996 First Editions Produced 1996 - 2013 (original) 2015 - Present (retool) Designer Larry Wood Number 14913",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/1996/14913-street-cleaver-v2.json",
+        "data/releases/1997/16678-street-cleaver-v2.json",
+        "data/releases/2006/j3302-street-cleaver-v2.json",
+        "data/releases/2009/p2436-street-cleaver-v2.json",
+        "data/releases/2011/t9787-street-cleaver-v2.json",
+        "data/releases/2013/x1701-street-cleaver-v2.json",
+        "data/releases/2015/cfh34-street-cleaver-v2.json",
+        "data/releases/2016/dht76-street-cleaver-v2.json",
+        "data/releases/2022/hcv02-street-cleaver-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 1996,
+    "manufacturer": "Mattel"
+}

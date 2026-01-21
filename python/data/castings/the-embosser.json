@@ -1,0 +1,19 @@
+{
+    "casting_id": "the-embosser",
+    "name": "The Embosser",
+    "description": {
+        "en-us": "The Embosser Debut series Experimotors Produced 2017 - 2020 Designer Bryan Benedict Number DTX22",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx22-the-embosser-v2.json",
+        "data/releases/2017/dvb29-the-embosser-v2.json",
+        "data/releases/2018/fjw12-the-embosser-v2.json",
+        "data/releases/2018/fkb51-the-embosser-v2.json",
+        "data/releases/2020/ghc00-the-embosser-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

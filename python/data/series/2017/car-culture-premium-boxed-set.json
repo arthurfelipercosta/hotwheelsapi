@@ -2,9 +2,12 @@
     "series_id": "car-culture-premium-boxed-set",
     "year": 2017,
     "name": "Car Culture: Premium Boxed Set",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2017/fpw87-65-mercury-comet-cyclone.json"
+        "data/releases/2017/fpw87-65-mercury-comet-cyclone.json",
+        "data/releases/2017/fpw89-datsun-bluebird-510.json",
+        "data/releases/2017/fpw90-84-mustang-svo.json",
+        "data/releases/2017/fpw91-13-copo-camaro.json"
     ]
 }

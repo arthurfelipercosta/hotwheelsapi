@@ -1,0 +1,26 @@
+{
+    "casting_id": "t-rextroyer",
+    "name": "T-Rextroyer",
+    "description": {
+        "en-us": "T-Rextroyer Debut series Color Shifters Creatures Produced 2010 - Present Designer Gary Swisher Number R1184",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r1184-t-rextroyer-v2.json",
+        "data/releases/2012/w4113-t-rextroyer-v2.json",
+        "data/releases/2012/v5524-t-rextroyer-v2.json",
+        "data/releases/2013/x1713-t-rextroyer-v2.json",
+        "data/releases/2014/bfb30-t-rextroyer-v2.json",
+        "data/releases/2015/cfm31-t-rextroyer-v2.json",
+        "data/releases/2016/dht36-t-rextroyer-v2.json",
+        "data/releases/2016/dtn34-t-rextroyer-v2.json",
+        "data/releases/2017/dvg03-t-rextroyer-v2.json",
+        "data/releases/2019/fyc02-t-rextroyer-v2.json",
+        "data/releases/2021/gry60-t-rextroyer-v2.json",
+        "data/releases/2024/htc05-t-rextroyer-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

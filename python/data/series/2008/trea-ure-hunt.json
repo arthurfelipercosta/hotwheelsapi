@@ -1,0 +1,16 @@
+{
+    "series_id": "trea-ure-hunt",
+    "year": 2008,
+    "name": "Trea$ure Hunt$",
+    "total_releases": 7,
+    "max_index": 10,
+    "releases": [
+        "data/releases/2008/m6967s-chrysler-300c-hemi.json",
+        "data/releases/2008/m6968s-70-plymouth-roadrunner.json",
+        "data/releases/2008/m6969s-rockster.json",
+        "data/releases/2008/m6970s-2005-ford-mustang-gt.json",
+        "data/releases/2008/m6974s-2006-dodge-viper-coupe.json",
+        "data/releases/2008/m6975-16-angels.json",
+        "data/releases/2008/m6976-64-buick-riviera.json"
+    ]
+}

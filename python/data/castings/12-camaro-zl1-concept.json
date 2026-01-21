@@ -1,0 +1,29 @@
+{
+    "casting_id": "12-camaro-zl1-concept",
+    "name": "'12 Camaro ZL1 Concept",
+    "description": {
+        "en-us": "'12 Camaro ZL1 Concept Debut series SEMA Exclusive Produced 2011 - Present Designer Brendon Vetuskey Number V5297",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/x7406-12-camaro-zl1-concept-v2.json",
+        "data/releases/2012/v5297-12-camaro-zl1-concept-v2.json",
+        "data/releases/2012/v5571-12-camaro-zl1-concept-v2.json",
+        "data/releases/2012/v5614-12-camaro-zl1-concept-v2.json",
+        "data/releases/2012/v5663-12-camaro-zl1-concept-v2.json",
+        "data/releases/2013/x1857-12-camaro-zl1-concept-v2.json",
+        "data/releases/2013/x1999-12-camaro-zl1-concept-v2.json",
+        "data/releases/2014/bff22-12-camaro-zl1-concept-v2.json",
+        "data/releases/2015/dfl84-12-camaro-zl1-concept-v2.json",
+        "data/releases/2015/cdt30-12-camaro-zl1-concept-v2.json",
+        "data/releases/2016/dtn29-12-camaro-zl1-concept-v2.json",
+        "data/releases/2016/x6999-12-camaro-zl1-concept-v2.json",
+        "data/releases/2016/djf52-12-camaro-zl1-concept-v2.json",
+        "data/releases/2018/fkv78-12-camaro-zl1-concept-v2.json",
+        "data/releases/2021/grt05-12-camaro-zl1-concept-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

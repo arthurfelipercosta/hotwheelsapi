@@ -2,9 +2,13 @@
     "series_id": "car-culture-door-slammers",
     "year": 2020,
     "name": "Car Culture: Door Slammers",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 4,
     "releases": [
-        "data/releases/2020/gjp79-bmw-2002.json"
+        "data/releases/2020/gjp76-71-porsche-911.json",
+        "data/releases/2020/gjp76-71-porsche-911.json",
+        "data/releases/2020/gjp77-datsun-bluebird-510.json",
+        "data/releases/2020/gjp79-bmw-2002.json",
+        "data/releases/2020/gjp80-70-ford-escort-rs1600.json"
     ]
 }

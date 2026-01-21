@@ -1,0 +1,24 @@
+{
+    "release_id": "gtc89-chrysler-pacifica-2021",
+    "toy_number": "GTC89",
+    "casting_id": "chrysler-pacifica",
+    "year": 2021,
+    "series_id": "hw-metro",
+    "series_index": 10,
+    "specs": {
+        "color": "White",
+        "tampo": "\"MICHELIN TIRE SHOP\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black BAJA5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/GTC89_-_Chrysler_Pacifica-2.jpg/revision/latest/scale-to-width-down/75?cb=20220513172405"
+    }
+}

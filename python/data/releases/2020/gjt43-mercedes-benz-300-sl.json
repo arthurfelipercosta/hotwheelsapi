@@ -1,0 +1,25 @@
+{
+    "release_id": "gjt43-mercedes-benz-300-sl-2020",
+    "toy_number": "GJT43",
+    "casting_id": "mercedes-benz-300-sl",
+    "year": 2020,
+    "series_id": "car-culture-team-transport-21",
+    "series_index": null,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Black hood & stripes, #IWC RACING, white circle with 68, Scottish flag and \" D COULTHARD \" on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black RRSteelie"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N09, N13, N21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/2020CCTT21C_%28Large%29.JPG/revision/latest/scale-to-width-down/75?cb=20200619104501"
+    }
+}

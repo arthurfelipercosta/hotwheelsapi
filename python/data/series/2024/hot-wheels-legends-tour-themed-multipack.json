@@ -2,10 +2,14 @@
     "series_id": "hot-wheels-legends-tour-themed-multipack",
     "year": 2024,
     "name": "Hot Wheels Legends Tour Themed Multipack",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
+        "data/releases/2024/hrx55-1970-pontiac-firebird.json",
+        "data/releases/2024/hrx55-67-camaro.json",
         "data/releases/2024/hrx55-68-corvette-gas-monkey-garage.json",
-        "data/releases/2024/hrx55-bone-shaker.json"
+        "data/releases/2024/hrx55-bad-to-the-blade.json",
+        "data/releases/2024/hrx55-bone-shaker.json",
+        "data/releases/2024/hrx55-rip-rod.json"
     ]
 }

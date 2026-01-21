@@ -1,0 +1,24 @@
+{
+    "brand_id": "aston-martin",
+    "name": "Aston Martin",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/2024-aston-martin-vantage-gt3.json",
+        "data/castings/aston-martin-1963-db5.json",
+        "data/castings/aston-martin-db10.json",
+        "data/castings/aston-martin-db4gt-high-speed-edition.json",
+        "data/castings/aston-martin-dbs.json",
+        "data/castings/aston-martin-one-77.json",
+        "data/castings/aston-martin-v12-speedster.json",
+        "data/castings/aston-martin-v8-vantage.json",
+        "data/castings/aston-martin-valhalla-concept.json",
+        "data/castings/aston-martin-vantage-gt3.json",
+        "data/castings/aston-martin-vantage-gte.json",
+        "data/castings/aston-martin-vulcan.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Aston Martin vehicles.",
+        "pt-br": "Fabricante de veículos Aston Martin."
+    }
+}

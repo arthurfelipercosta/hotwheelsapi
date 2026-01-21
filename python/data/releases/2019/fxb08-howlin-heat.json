@@ -1,0 +1,25 @@
+{
+    "release_id": "fxb08-howlin-heat-2019",
+    "toy_number": "FXB08",
+    "casting_id": "howlin-heat",
+    "year": 2019,
+    "series_id": "hot-wheels-id-street-beasts",
+    "series_index": 1,
+    "specs": {
+        "color": "Spectraflame Olive Green",
+        "tampo": "Black, gold & red stripes on top, wolf logo on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Transparent Green wheel",
+            "1": "Chrome Red ID"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/Howlin%27_Heat._Hot_Wheels_id_1.jpg/revision/latest/scale-to-width-down/75?cb=20190619034848"
+    }
+}

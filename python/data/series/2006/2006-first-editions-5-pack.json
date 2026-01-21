@@ -2,9 +2,11 @@
     "series_id": "2006-first-editions-5-pack",
     "year": 2006,
     "name": "2006 First Editions 5-Pack",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2006/k5366-bone-shaker.json"
+        "data/releases/2006/k5366-2006-dodge-viper-coupe.json",
+        "data/releases/2006/k5366-bone-shaker.json",
+        "data/releases/2006/k5366-chrysler-300c-hemi.json"
     ]
 }

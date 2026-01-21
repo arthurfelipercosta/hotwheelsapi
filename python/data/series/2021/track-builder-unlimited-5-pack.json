@@ -2,9 +2,13 @@
     "series_id": "track-builder-unlimited-5-pack",
     "year": 2021,
     "name": "Track Builder Unlimited 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2021/gtn36-hw50-concept.json"
+        "data/releases/2021/gtn36-hw40.json",
+        "data/releases/2021/gtn36-hw50-concept.json",
+        "data/releases/2021/gtn36-speedbox.json",
+        "data/releases/2021/gtn36-the-gov-ner.json",
+        "data/releases/2021/gtn36-twinduction.json"
     ]
 }

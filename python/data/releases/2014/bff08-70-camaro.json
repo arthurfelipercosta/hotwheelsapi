@@ -1,0 +1,29 @@
+{
+    "release_id": "bff08-70-camaro-2014",
+    "toy_number": "BFF08",
+    "casting_id": "70-camaro",
+    "year": 2014,
+    "series_id": "hw-workshop-muscle-mania",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "Black & Yellow tampos on hood & sides. HW Logo on trunk.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5",
+            "1": "Yellow",
+            "2": "Black & red tampos with \"396\" on hood & sides; painted side markers; Hot Wheels logo on trunk",
+            "3": "BFV56",
+            "4": "Base code(s): G01",
+            "5": "G02"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/2014_BFF08_70_Camaro.jpg/revision/latest/scale-to-width-down/75?cb=20140822060037"
+    }
+}

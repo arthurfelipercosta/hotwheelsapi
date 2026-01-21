@@ -2,10 +2,11 @@
     "series_id": "tubular-trucks",
     "year": 2024,
     "name": "Tubular Trucks",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 2,
     "releases": [
         "data/releases/2024/hrr96-blazer-4-4.json",
+        "data/releases/2024/hrr98-1987-toyota-pickup-truck.json",
         "data/releases/2024/hrr99-1988-jeep-wagoneer.json"
     ]
 }

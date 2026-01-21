@@ -1,0 +1,25 @@
+{
+    "release_id": "v5557-63-studebaker-champ-2011",
+    "toy_number": "V5557",
+    "casting_id": "63-studebaker-champ",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 29,
+    "specs": {
+        "color": "Metalflake Yellow",
+        "tampo": "Silver & Maroon lights & trim details \"STUDEBAKER\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White Goodyear",
+            "1": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D30, D31, D36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/%2763_Studebaker_Champ_-_00736df.jpg/revision/latest/scale-to-width-down/75?cb=20111121075508"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "v5624-quicksand-2012",
+    "toy_number": "V5624",
+    "casting_id": "quicksand",
+    "year": 2012,
+    "series_id": "2012-new-models",
+    "series_index": 19,
+    "specs": {
+        "color": "Satin Blue",
+        "tampo": "Orange & Blue tampos, Black \"827\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Transparent Orange wheel",
+            "1": "Chrome OR6SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E12, E13, E18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Quicksand.jpg/revision/latest/scale-to-width-down/75?cb=20120830085219"
+    }
+}

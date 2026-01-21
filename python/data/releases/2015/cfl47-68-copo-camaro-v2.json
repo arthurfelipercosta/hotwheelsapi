@@ -1,0 +1,24 @@
+{
+    "release_id": "cfl47-68-copo-camaro-2015",
+    "toy_number": "CFL47",
+    "casting_id": "68-copo-camaro",
+    "year": 2015,
+    "series_id": "hw-workshop-heat-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Green",
+        "tampo": "White & Yellow flames",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome & Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H09, H10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/%2768_COPO_Camaro-2015_211.jpg/revision/latest/scale-to-width-down/75?cb=20150811093412"
+    }
+}

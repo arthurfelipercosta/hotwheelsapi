@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-id-hw-turbo",
+    "year": 2020,
+    "name": "Hot Wheels id: HW Turbo",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2020/gmk78-17-acura-nsx.json",
+        "data/releases/2020/gmk79-17-nissan-gt-r-r35.json"
+    ]
+}

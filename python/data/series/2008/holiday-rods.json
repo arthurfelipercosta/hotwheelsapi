@@ -1,0 +1,14 @@
+{
+    "series_id": "holiday-rods",
+    "year": 2008,
+    "name": "Holiday Rods",
+    "total_releases": 5,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2008/n9287-bad-bagger.json",
+        "data/releases/2008/n9287-bad-bagger.json",
+        "data/releases/2008/n9290-olds-442-w-30.json",
+        "data/releases/2008/n9290-olds-442-w-30.json",
+        "data/releases/2008/n9291-52-chevy-truck.json"
+    ]
+}

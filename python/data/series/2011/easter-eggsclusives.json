@@ -2,9 +2,13 @@
     "series_id": "easter-eggsclusives",
     "year": 2011,
     "name": "Easter Eggsclusives",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2011/v3687-rodger-dodger.json"
+        "data/releases/2011/v3685-dodge-viper-srt10-acr.json",
+        "data/releases/2011/v3687-rodger-dodger.json",
+        "data/releases/2011/v3689-blast-lane.json",
+        "data/releases/2011/v3691-68-chevy-nova.json",
+        "data/releases/2011/v3692-69-camaro-z28-tooned.json"
     ]
 }

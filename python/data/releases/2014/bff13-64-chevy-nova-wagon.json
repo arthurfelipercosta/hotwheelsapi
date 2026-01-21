@@ -1,0 +1,24 @@
+{
+    "release_id": "bff13-64-chevy-nova-wagon-2014",
+    "toy_number": "BFF13",
+    "casting_id": "64-chevy-nova-wagon",
+    "year": 2014,
+    "series_id": "hw-workshop-muscle-mania",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Brown",
+        "tampo": "Light Green flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/%2764_Chevy_Nova_Station_Wagon-2014_240.jpg/revision/latest/scale-to-width-down/75?cb=20140512161650"
+    }
+}

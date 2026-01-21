@@ -2,10 +2,15 @@
     "series_id": "hw-green-speed",
     "year": 2021,
     "name": "HW Green Speed",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 4,
     "releases": [
         "data/releases/2021/grx36-nissan-leaf-nismo-rc-02.json",
-        "data/releases/2021/gtb23-porsche-taycan-turbo-s.json"
+        "data/releases/2021/gtb20-formula-e-gen-2-car.json",
+        "data/releases/2021/gtb21-roborace-racecar.json",
+        "data/releases/2021/gtb22-tesla-cybertruck.json",
+        "data/releases/2021/gtb23-porsche-taycan-turbo-s.json",
+        "data/releases/2021/gtc13-formula-e-gen-2-car.json",
+        "data/releases/2021/gtc75-roborace-racecar.json"
     ]
 }

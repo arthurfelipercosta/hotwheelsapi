@@ -1,0 +1,19 @@
+{
+    "casting_id": "astana-hotto",
+    "name": "Astana Hotto",
+    "description": {
+        "en-us": "Astana Hotto Debut series Fast & Furious Spy Racers Produced 2020 – 2021 Designer Ryu Asada Number GHB44",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/gnn31-astana-hotto.json",
+        "data/releases/2020/gnn37-astana-hotto.json",
+        "data/releases/2021/gnn37-astana-hotto.json",
+        "data/releases/2020/ghb44-astana-hotto.json",
+        "data/releases/2021/gtb24-astana-hotto.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

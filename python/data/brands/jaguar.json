@@ -1,0 +1,19 @@
+{
+    "brand_id": "jaguar",
+    "name": "Jaguar",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/15-jaguar-f-type-project-7.json",
+        "data/castings/2020-jaguar-f-type.json",
+        "data/castings/jaguar-i-pace-etrophy.json",
+        "data/castings/jaguar-mk1.json",
+        "data/castings/jaguar-xe-sv-project-8.json",
+        "data/castings/jaguar-xj220.json",
+        "data/castings/jaguar-xjc-v12-coupe.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Jaguar vehicles.",
+        "pt-br": "Fabricante de veículos Jaguar."
+    }
+}

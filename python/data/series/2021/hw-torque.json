@@ -2,12 +2,15 @@
     "series_id": "hw-torque",
     "year": 2021,
     "name": "HW Torque",
-    "total_releases": 6,
-    "max_index": 2,
+    "total_releases": 9,
+    "max_index": 4,
     "releases": [
         "data/releases/2021/gry02-20-ford-shelby-gt500.json",
+        "data/releases/2021/gry03-19-corvette-zr1-convertible.json",
         "data/releases/2021/gry04-2020-koenigsegg-jesko.json",
+        "data/releases/2021/gry05-jaguar-xe-sv-project-8.json",
         "data/releases/2021/gry06-17-ford-f-150-raptor.json",
+        "data/releases/2021/gtb90-jaguar-xe-sv-project-8.json",
         "data/releases/2021/gtb91-17-ford-f-150-raptor.json",
         "data/releases/2021/gtc51-2020-koenigsegg-jesko.json",
         "data/releases/2021/gtd09-20-ford-shelby-gt500.json"

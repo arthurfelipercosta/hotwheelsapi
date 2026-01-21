@@ -1,0 +1,24 @@
+{
+    "release_id": "r3777-custom-volkswagen-beetle-2010",
+    "toy_number": "R3777",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2010,
+    "series_id": "hot-wheels-garage-larry-s-garage",
+    "series_index": 5,
+    "specs": {
+        "color": "ZAMAC & Dark Red",
+        "tampo": "Gray dividing stripe, pinstripe design on front",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light tint",
+        "interior_color": "Dark Red",
+        "wheel_type": {
+            "0": "Gray LW5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): C25 , C30 Possible Signature Bases: C25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/CustomBeetle_LG_zamac.JPG/revision/latest/scale-to-width-down/75?cb=20101001115517"
+    }
+}

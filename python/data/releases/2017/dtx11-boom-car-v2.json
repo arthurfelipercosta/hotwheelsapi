@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx11-boom-car-2017",
+    "toy_number": "DTX11",
+    "casting_id": "boom-car",
+    "year": 2017,
+    "series_id": "hw-ride-ons",
+    "series_index": 1,
+    "specs": {
+        "color": "Red & White",
+        "tampo": "Blue stripes on top, White stars w/ stripes on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Playable in Unleashed Base code(s): J40, J42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/Boom_Car_DTX11.png/revision/latest/scale-to-width-down/75?cb=20170303220413"
+    }
+}

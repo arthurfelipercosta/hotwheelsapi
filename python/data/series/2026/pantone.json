@@ -1,0 +1,15 @@
+{
+    "series_id": "pantone",
+    "year": 2026,
+    "name": "Pantone",
+    "total_releases": 6,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2026/jky48-69-ford-mustang-boss-302.json",
+        "data/releases/2026/jky49-kool-kombi.json",
+        "data/releases/2026/jky50-69-copo-camaro.json",
+        "data/releases/2026/jky51-twin-mill-iii.json",
+        "data/releases/2026/jky52-nissan-fairlady-z.json",
+        "data/releases/2026/jky53-porsche-934-5.json"
+    ]
+}

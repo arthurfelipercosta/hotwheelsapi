@@ -1,0 +1,10 @@
+{
+    "series_id": "bonus-car",
+    "year": 1999,
+    "name": "Bonus Car",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1999/13346-power-pipes.json"
+    ]
+}

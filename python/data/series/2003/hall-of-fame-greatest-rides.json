@@ -2,9 +2,16 @@
     "series_id": "hall-of-fame-greatest-rides",
     "year": 2003,
     "name": "Hall of Fame: Greatest Rides",
-    "total_releases": 1,
+    "total_releases": 8,
     "max_index": 0,
     "releases": [
-        "data/releases/2003/b0941-deora-ii.json"
+        "data/releases/2003/b0927-57-chevy.json",
+        "data/releases/2003/b0927-mini-cooper.json",
+        "data/releases/2003/b0934-64-lincoln-continental.json",
+        "data/releases/2003/b0941-deora-ii.json",
+        "data/releases/2003/b0947-3-window-34.json",
+        "data/releases/2003/b0954-64-buick-riviera.json",
+        "data/releases/2003/b0959-olds-442-w-30.json",
+        "data/releases/2003/b2453-71-plymouth-gtx.json"
     ]
 }

@@ -1,0 +1,29 @@
+{
+    "casting_id": "gazella-gt",
+    "name": "Gazella GT",
+    "description": {
+        "en-us": "Gazella GT Debut series HW Showroom Produced 2016 - Present Designer Dmitriy Shakhmatov Number DHP08",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp08-gazella-gt.json",
+        "data/releases/2016/dhw79-gazella-gt.json",
+        "data/releases/2017/dty16-gazella-gt.json",
+        "data/releases/2017/dvb97-gazella-gt.json",
+        "data/releases/2018/fjx00-gazella-gt.json",
+        "data/releases/2019/fyd64-gazella-gt.json",
+        "data/releases/2019/fyf31-gazella-gt.json",
+        "data/releases/2019/fyl23-gazella-gt.json",
+        "data/releases/2020/gjw55-gazella-gt.json",
+        "data/releases/2021/gtn44-gazella-gt.json",
+        "data/releases/2022/hcw15-gazella-gt.json",
+        "data/releases/2022/hdk76-gazella-gt.json",
+        "data/releases/2022/hgt76-gazella-gt.json",
+        "data/releases/2023/hly67-gazella-gt.json",
+        "data/releases/2025/jbj74-jcp91-gazella-gt.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,25 @@
+{
+    "casting_id": "nissan-silvia-s13",
+    "name": "Nissan Silvia (S13)",
+    "description": {
+        "en-us": "Nissan Silvia (S13) Debut series HW Speed Graphics Produced 2020 - Present Designer Dmitriy Shakhmatov Number GHB40",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb40-nissan-silvia-s13.json",
+        "data/releases/2020/ghf03-nissan-silvia-s13.json",
+        "data/releases/2021/gtb07-nissan-silvia-s13.json",
+        "data/releases/2023/hkf41-nissan-silvia-s13.json",
+        "data/releases/2023/hly73-nissan-silvia-s13.json",
+        "data/releases/2023/hyf04-nissan-silvia-s13.json",
+        "data/releases/2025/jby94-nissan-silvia-s13.json",
+        "data/releases/2025/jbj80-jdr21-nissan-silvia-s13.json",
+        "data/releases/2026/jkx09-nissan-silvia-s13.json",
+        "data/releases/2026/x6999-nissan-silvia-s13.json",
+        "data/releases/2026/x6999-nissan-silvia-s13-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Nissan"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hcr21-71-mustang-mach-i-2022",
+    "toy_number": "HCR21",
+    "casting_id": "71-mustang-mach-i",
+    "year": 2022,
+    "series_id": "hot-wheels-boulevard-56",
+    "series_index": null,
+    "specs": {
+        "color": "Matte black",
+        "tampo": "Detailed headlights, taillights and trim, silver striping, \"mach 22\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR5SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): R30, R31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/LoganoMach1.jpg/revision/latest/scale-to-width-down/75?cb=20220902114617"
+    }
+}

@@ -2,10 +2,16 @@
     "series_id": "american-pickup",
     "year": 2019,
     "name": "American Pickup",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 5,
     "releases": [
         "data/releases/2019/gbc10-83-chevy-silverado.json",
-        "data/releases/2019/gbc11-70-dodge-power-wagon.json"
+        "data/releases/2019/gbc11-70-dodge-power-wagon.json",
+        "data/releases/2019/gbc12-63-studebaker-champ.json",
+        "data/releases/2019/gbc13-custom-62-chevy.json",
+        "data/releases/2019/gbc14-15-ford-f-150.json",
+        "data/releases/2019/gbc15-49-ford-f1.json",
+        "data/releases/2019/gbc18-40-ford.json",
+        "data/releases/2019/gbc19-custom-69-chevy.json"
     ]
 }

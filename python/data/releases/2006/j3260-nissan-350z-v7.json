@@ -1,0 +1,28 @@
+{
+    "release_id": "j3260-nissan-350z-2006",
+    "toy_number": "J3260",
+    "casting_id": "nissan-350z",
+    "year": 2006,
+    "series_id": "2006-first-editions",
+    "series_index": 19,
+    "specs": {
+        "color": "Flat Black",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red CM6",
+            "1": "019",
+            "2": "223",
+            "3": "2006 New Models 19",
+            "4": "38"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Nissan Z",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/Nissan-350z-06fe-blk-cm6-1kpxotd.png/revision/latest/scale-to-width-down/75?cb=20170821203805"
+    }
+}

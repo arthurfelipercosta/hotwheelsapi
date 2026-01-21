@@ -1,0 +1,24 @@
+{
+    "casting_id": "volkswagen-sp2",
+    "name": "Volkswagen SP2",
+    "description": {
+        "en-us": "Volkswagen SP2 Debut series All Stars / 2010 HW Premiere Produced 2010 - Present Designer Rob Matthes Number R6453",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r7551-volkswagen-sp2.json",
+        "data/releases/2012/w4020-volkswagen-sp2.json",
+        "data/releases/2012/54886-volkswagen-sp2.json",
+        "data/releases/2016/dnf19-volkswagen-sp2.json",
+        "data/releases/2017/dwh74-volkswagen-sp2.json",
+        "data/releases/2019/fyd62-volkswagen-sp2.json",
+        "data/releases/2019/fyf71-volkswagen-sp2.json",
+        "data/releases/2022/hdh43-volkswagen-sp2.json",
+        "data/releases/2023/hlh87-volkswagen-sp2.json",
+        "data/releases/2026/jkx98-volkswagen-sp2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Volkswagen"
+}

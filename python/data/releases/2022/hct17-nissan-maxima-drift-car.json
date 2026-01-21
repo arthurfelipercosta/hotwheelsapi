@@ -1,0 +1,24 @@
+{
+    "release_id": "hct17-nissan-maxima-drift-car-2022",
+    "toy_number": "HCT17",
+    "casting_id": "nissan-maxima-drift-car",
+    "year": 2022,
+    "series_id": "hw-wagons",
+    "series_index": 4,
+    "specs": {
+        "color": "Ivory",
+        "tampo": "Red stripes, \"68\", Motul, Koni, Goodyear, HW Diecast & Dima logos on sides, \"Nissan\" on front spoiler",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray FC3"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): R20, R21, R22, R41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/NissanMaximaDrift.jpg/revision/latest/scale-to-width-down/75?cb=20220629133318"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv01-toyota-ae86-sprinter-trueno-2022",
+    "toy_number": "HCV01",
+    "casting_id": "toyota-ae86-sprinter-trueno",
+    "year": 2022,
+    "series_id": "hw-hatchbacks",
+    "series_index": 1,
+    "specs": {
+        "color": "Matte White",
+        "tampo": "Red & black stripes on sides, \"TRUENO APEX Twin Cam 16\" on side & back, detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P30, P35, P36, P37, P38, P39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/HCV01-01.JPG/revision/latest/scale-to-width-down/75?cb=20211203052110"
+    }
+}

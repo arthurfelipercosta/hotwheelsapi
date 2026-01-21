@@ -1,0 +1,20 @@
+{
+    "brand_id": "mercedes",
+    "name": "Mercedes",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/15-mercedes-amg-gt.json",
+        "data/castings/16-mercedes-amg-gt3.json",
+        "data/castings/19-mercedes-benz-a-class.json",
+        "data/castings/89-mercedes-benz-560-sec-amg.json",
+        "data/castings/mercedes-benz-300-sl.json",
+        "data/castings/mercedes-benz-500-e.json",
+        "data/castings/mercedes-benz-cla-hw.json",
+        "data/castings/mercedes-benz-unimog-1300l.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Mercedes vehicles.",
+        "pt-br": "Fabricante de veículos Mercedes."
+    }
+}

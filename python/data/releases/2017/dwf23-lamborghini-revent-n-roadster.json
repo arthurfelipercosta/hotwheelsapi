@@ -1,0 +1,24 @@
+{
+    "release_id": "dwf23-lamborghini-revent-n-roadster-2017",
+    "toy_number": "DWF23",
+    "casting_id": "lamborghini-revent-n-roadster",
+    "year": 2017,
+    "series_id": "lamborghini",
+    "series_index": 6,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Detailed headlights, Black stripe across hood, Lamborghini logo on front, Lamborghini wordmark on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Dark Gray Y5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): J52, K09, K10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Lamborghini_Reventon_Roadster.jpg/revision/latest/scale-to-width-down/75?cb=20171225140859"
+    }
+}

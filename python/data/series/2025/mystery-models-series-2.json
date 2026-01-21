@@ -2,10 +2,17 @@
     "series_id": "mystery-models-series-2",
     "year": 2025,
     "name": "Mystery Models (Series 2)",
-    "total_releases": 2,
+    "total_releases": 9,
     "max_index": 4,
     "releases": [
         "data/releases/2025/jcl05-33-ford-lo-boy.json",
-        "data/releases/2025/jcl08-bone-shaker.json"
+        "data/releases/2025/jcl06-speed-spider.json",
+        "data/releases/2025/jcl07-maximum-leeway.json",
+        "data/releases/2025/jcl08-bone-shaker.json",
+        "data/releases/2025/jcl09-fangster.json",
+        "data/releases/2025/jcl10-pharodox.json",
+        "data/releases/2025/jcl11-project-speeder.json",
+        "data/releases/2025/jcl12-track-hammer.json",
+        "data/releases/2025/jcl14-72-stingray-convertible.json"
     ]
 }

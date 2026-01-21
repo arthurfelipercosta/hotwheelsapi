@@ -1,0 +1,12 @@
+{
+    "series_id": "90s-street-scene",
+    "year": 2025,
+    "name": "'90s Street Scene",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2025/jcb56-honda-civic-eg.json",
+        "data/releases/2025/jcb57-96-nissan-180sx-type-x.json",
+        "data/releases/2025/jcb59-nissan-300zx-twin-turbo.json"
+    ]
+}

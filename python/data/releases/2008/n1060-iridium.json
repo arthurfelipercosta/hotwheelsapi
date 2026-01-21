@@ -1,0 +1,24 @@
+{
+    "release_id": "n1060-iridium-2008",
+    "toy_number": "N1060",
+    "casting_id": "iridium",
+    "year": 2008,
+    "series_id": "dynamite-blaster",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Black & Grey w/ star on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "China",
+    "notes": "Base code(s)",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Hw-iridium-blue-dyno-oh5.jpg/revision/latest/scale-to-width-down/75?cb=20171025125526"
+    }
+}

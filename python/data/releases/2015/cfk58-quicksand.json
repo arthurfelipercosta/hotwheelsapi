@@ -1,0 +1,24 @@
+{
+    "release_id": "cfk58-quicksand-2015",
+    "toy_number": "CFK58",
+    "casting_id": "quicksand",
+    "year": 2015,
+    "series_id": "hw-off-road-stunt-circuit",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Maroon",
+        "tampo": "Red, white, and black stripes, black #1 in a yellow circle on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Orange)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "OR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): G30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/HW-2015-111-Quicksand-StuntCircuit.jpg/revision/latest/scale-to-width-down/75?cb=20141115031315"
+    }
+}

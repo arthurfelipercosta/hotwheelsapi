@@ -1,0 +1,30 @@
+{
+    "casting_id": "custom-v-8-vega",
+    "name": "Custom V-8 Vega",
+    "description": {
+        "en-us": "Custom V-8 Vega Debut series 2009 New Models Produced 2009 - 2020 Designer Rob Matthes Number N4026",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4026-custom-v-8-vega.json",
+        "data/releases/2009/n4026-custom-v-8-vega-v2.json",
+        "data/releases/2009/n4026-custom-v-8-vega-v3.json",
+        "data/releases/2010/r7554-custom-v-8-vega.json",
+        "data/releases/2010/r7554-custom-v-8-vega-v2.json",
+        "data/releases/2010/n-a-custom-v-8-vega.json",
+        "data/releases/2010/r7554-custom-v-8-vega-v3.json",
+        "data/releases/2010/r7554-custom-v-8-vega-v4.json",
+        "data/releases/2010/r7554-custom-v-8-vega-v5.json",
+        "data/releases/2011/w5503-custom-v-8-vega.json",
+        "data/releases/2012/w4613-custom-v-8-vega.json",
+        "data/releases/2013/y9432-custom-v-8-vega.json",
+        "data/releases/2013/x6999-custom-v-8-vega.json",
+        "data/releases/2014/bfd99-custom-v-8-vega.json",
+        "data/releases/2014/bfg54-custom-v-8-vega.json",
+        "data/releases/2020/gjx08-custom-v-8-vega.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

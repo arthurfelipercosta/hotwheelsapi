@@ -1,0 +1,29 @@
+{
+    "release_id": "r0929-bread-box-2010",
+    "toy_number": "R0929",
+    "casting_id": "bread-box",
+    "year": 2010,
+    "series_id": "2010-new-models",
+    "series_index": 13,
+    "specs": {
+        "color": "Red",
+        "tampo": "White & Red HWPS logo , Silver door latch",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White 5SP",
+            "1": "014",
+            "2": "214",
+            "3": "2010",
+            "4": "2010 HW Premiere 14",
+            "5": "52"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B51, C09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Bread_Box_-_10NM_Red.JPG/revision/latest/scale-to-width-down/75?cb=20100219064040"
+    }
+}

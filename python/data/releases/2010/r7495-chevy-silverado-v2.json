@@ -1,0 +1,34 @@
+{
+    "release_id": "r7495-chevy-silverado-2010",
+    "toy_number": "R7495",
+    "casting_id": "chevy-silverado",
+    "year": 2010,
+    "series_id": "hw-garage",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "Checkerboard on hood, 'Hot Wheels Garage' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome rim Black OH5",
+            "1": "078",
+            "2": "214",
+            "3": "2010",
+            "4": "HW Garage 2",
+            "5": "10",
+            "6": "International card Base code(s): D08",
+            "7": "070",
+            "8": "240",
+            "9": "Chrome BF Goodrich 5SP",
+            "10": "Walmart Exclusive Base code(s): B51"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B52, D08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/Chevysilverado_garage_purple.JPG/revision/latest/scale-to-width-down/75?cb=20100224125603"
+    }
+}

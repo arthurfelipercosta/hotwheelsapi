@@ -1,0 +1,24 @@
+{
+    "release_id": "hrv07-toyota-2000gt-2024",
+    "toy_number": "HRV07",
+    "casting_id": "toyota-2000gt",
+    "year": 2024,
+    "series_id": "vintage-racing-club",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "Gumball \"3\" on sides & hood; \"CP\", Goodyear logo, & yellow stripe on sides; yellow hood; detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "C5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T04, T05, T06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/HRV07.jpg/revision/latest/scale-to-width-down/75?cb=20250412204230"
+    }
+}

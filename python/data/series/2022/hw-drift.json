@@ -2,9 +2,16 @@
     "series_id": "hw-drift",
     "year": 2022,
     "name": "HW Drift",
-    "total_releases": 1,
+    "total_releases": 8,
     "max_index": 4,
     "releases": [
-        "data/releases/2022/hct20-volvo-240-drift-wagon.json"
+        "data/releases/2022/hct20-volvo-240-drift-wagon.json",
+        "data/releases/2022/hcv60-driftsta.json",
+        "data/releases/2022/hcv86-95-mazda-rx-7.json",
+        "data/releases/2022/hcv88-dodge-challenger-drift-car.json",
+        "data/releases/2022/hcx43-driftsta.json",
+        "data/releases/2022/hcx62-95-mazda-rx-7.json",
+        "data/releases/2022/hcx80-dodge-challenger-drift-car.json",
+        "data/releases/2022/hcy00-muscle-and-blown.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "x1708-semi-psycho-2013",
+    "toy_number": "X1708",
+    "casting_id": "semi-psycho",
+    "year": 2013,
+    "series_id": "hw-imagination-future-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Blue, Light blue & Silver stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Blue Tire",
+            "1": "Chrome OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base Code(s): E40, E51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Semi-Psycho-2013_058_Future_Fleet.jpg/revision/latest/scale-to-width-down/75?cb=20130103205932"
+    }
+}

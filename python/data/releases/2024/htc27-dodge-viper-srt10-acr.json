@@ -1,0 +1,25 @@
+{
+    "release_id": "htc27-dodge-viper-srt10-acr-2024",
+    "toy_number": "HTC27",
+    "casting_id": "dodge-viper-srt10-acr",
+    "year": 2024,
+    "series_id": "hw-exotics",
+    "series_index": 10,
+    "specs": {
+        "color": "Silver",
+        "tampo": "MOPAR, SRT, ACR logos on sides, \"93\", \" RW \" on sides and hoods, \" AA \" on front fenders, blue and red decal on hood, sides and roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T27, T28, T30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/DodgeACR.jpg/revision/latest/scale-to-width-down/75?cb=20240825130603"
+    }
+}

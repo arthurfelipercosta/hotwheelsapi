@@ -1,0 +1,25 @@
+{
+    "release_id": "t0402-64-lincoln-continental-2010",
+    "toy_number": "T0402",
+    "casting_id": "64-lincoln-continental",
+    "year": 2010,
+    "series_id": "hot-wheels-garage",
+    "series_index": 8,
+    "specs": {
+        "color": "Metalflake Gold",
+        "tampo": "Black, Gold and Tan flame design with pinstripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Bronze tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White Wall",
+            "1": "Gold RR8SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/64lincoln_WG_Gold.JPG/revision/latest/scale-to-width-down/75?cb=20100330102844"
+    }
+}

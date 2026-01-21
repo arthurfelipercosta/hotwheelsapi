@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-boulevard-concept-cars",
+    "year": 2012,
+    "name": "Hot Wheels Boulevard: Concept Cars",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2012/w4591-chevy-camaro-concept.json",
+        "data/releases/2012/w4606-09-corvette-stingray-concept.json",
+        "data/releases/2012/w4620-ford-shelby-gr-1-concept.json",
+        "data/releases/2012/w4636-ford-mustang-gt-concept.json"
+    ]
+}

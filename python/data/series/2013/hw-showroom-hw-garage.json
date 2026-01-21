@@ -2,9 +2,27 @@
     "series_id": "hw-showroom-hw-garage",
     "year": 2013,
     "name": "HW Showroom: HW Garage",
-    "total_releases": 1,
+    "total_releases": 19,
     "max_index": 0,
     "releases": [
-        "data/releases/2013/x1638-69-dodge-charger-daytona.json"
+        "data/releases/2013/x1622-2013-hot-wheels-chevy-camaro-special-edition.json",
+        "data/releases/2013/x1624-64-chevy-nova-wagon.json",
+        "data/releases/2013/x1627-scion-fr-s.json",
+        "data/releases/2013/x1638-69-dodge-charger-daytona.json",
+        "data/releases/2013/x1856-64-lincoln-continental.json",
+        "data/releases/2013/x1857-12-camaro-zl1-concept.json",
+        "data/releases/2013/x1858-49-drag-merc.json",
+        "data/releases/2013/x1859-57-chevy.json",
+        "data/releases/2013/x1860-69-camaro-convertible.json",
+        "data/releases/2013/x1861-73-ford-falcon-xb.json",
+        "data/releases/2013/x1999-12-camaro-zl1-concept.json",
+        "data/releases/2013/x2000-2013-hot-wheels-chevy-camaro-special-edition.json",
+        "data/releases/2013/x2001-64-chevy-nova-wagon.json",
+        "data/releases/2013/x2002-57-chevy.json",
+        "data/releases/2013/x2003-73-ford-falcon-xb.json",
+        "data/releases/2013/x2023-69-camaro-convertible.json",
+        "data/releases/2013/x2024-73-ford-falcon-xb.json",
+        "data/releases/2013/x2035-49-drag-merc.json",
+        "data/releases/2013/x2039-64-lincoln-continental.json"
     ]
 }

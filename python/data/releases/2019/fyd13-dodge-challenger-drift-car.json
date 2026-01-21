@@ -1,0 +1,25 @@
+{
+    "release_id": "fyd13-dodge-challenger-drift-car-2019",
+    "toy_number": "FYD13",
+    "casting_id": "dodge-challenger-drift-car",
+    "year": 2019,
+    "series_id": "nightburnerz",
+    "series_index": 6,
+    "specs": {
+        "color": "Violet Pearl",
+        "tampo": "Black roof with 'Nexen Tire'. Black stripes w Orange stripe outline & '426 Hemi' on bonnet. White stripes, orange pattern, '426' & HW logo on sides. 'NEXEN' on rear fenders. Mopar logo on sides of rear wing.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Orange Chrome Rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M05, M07, M10, M11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/FYD13ChallengerDriftCar.JPG/revision/latest/scale-to-width-down/75?cb=20190422061215"
+    }
+}

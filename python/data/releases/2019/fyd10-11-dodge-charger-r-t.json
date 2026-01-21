@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd10-11-dodge-charger-r-t-2019",
+    "toy_number": "FYD10",
+    "casting_id": "11-dodge-charger-r-t",
+    "year": 2019,
+    "series_id": "muscle-mania",
+    "series_index": 10,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "White stripes, MOPAR logos on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M02, M03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/11_Charger_RT._Muscle_Mania_2019.jpg/revision/latest/scale-to-width-down/75?cb=20190314033009"
+    }
+}

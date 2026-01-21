@@ -1,0 +1,25 @@
+{
+    "release_id": "ghd26-57-chevy-2020",
+    "toy_number": "GHD26",
+    "casting_id": "57-chevy",
+    "year": 2020,
+    "series_id": "rod-squad",
+    "series_index": 10,
+    "specs": {
+        "color": "Pink",
+        "tampo": "Rust Details, Black Stripes, J-Liu Auto Supply, Rod Squad, HW logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold rim",
+            "1": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N08, H10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/Gs8dfh3odqe1zf443t6f2twk.jpg/revision/latest/scale-to-width-down/75?cb=20200729085552"
+    }
+}

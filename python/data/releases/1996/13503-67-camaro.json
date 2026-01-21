@@ -1,0 +1,28 @@
+{
+    "release_id": "13503-67-camaro-1996",
+    "toy_number": "13503",
+    "casting_id": "67-camaro",
+    "year": 1996,
+    "series_id": "60-s-muscle-cars-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black stripes on hood & trunk, yellow Hot Wheels logo on rear window",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "7SP",
+            "1": "5SP",
+            "2": "Found with or without country on base",
+            "3": "Black stripes on hood & trunk",
+            "4": "red Hot Wheels logo on rear window"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/67_Yellow_Camaro_7spks.jpg/revision/latest/scale-to-width-down/75?cb=20101203211019"
+    }
+}

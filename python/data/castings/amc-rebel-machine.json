@@ -1,0 +1,21 @@
+{
+    "casting_id": "amc-rebel-machine",
+    "name": "AMC Rebel Machine",
+    "description": {
+        "en-us": "AMC Rebel Machine Debut series Hot Wheels Boulevard: Legends Produced 2012 - Present Designer Brendon Vetuskey Number W4652",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/w4652-amc-rebel-machine.json",
+        "data/releases/2013/y9434-amc-rebel-machine.json",
+        "data/releases/2018/fld20-amc-rebel-machine.json",
+        "data/releases/2021/gtb44-amc-rebel-machine.json",
+        "data/releases/2021/gtd29-amc-rebel-machine.json",
+        "data/releases/2022/hcr38-amc-rebel-machine.json",
+        "data/releases/2025/jbl06-amc-rebel-machine.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

@@ -2,12 +2,26 @@
     "series_id": "x-raycers",
     "year": 2020,
     "name": "X-Raycers",
-    "total_releases": 4,
+    "total_releases": 18,
     "max_index": 9,
     "releases": [
+        "data/releases/2020/ghb78-lindster-prototype.json",
+        "data/releases/2020/ghd51-aero-pod.json",
+        "data/releases/2020/ghd52-beat-all.json",
+        "data/releases/2020/ghd53-cloak-and-dagger.json",
+        "data/releases/2020/ghd54-hi-tech-missile.json",
         "data/releases/2020/ghd55-hw-formula-solar.json",
+        "data/releases/2020/ghd56-pedal-de-metal.json",
+        "data/releases/2020/ghd57-poison-arrow.json",
         "data/releases/2020/ghd58-power-rocket.json",
+        "data/releases/2020/ghd83-power-pistons.json",
+        "data/releases/2020/ghf00-lindster-prototype.json",
+        "data/releases/2020/ghf30-hi-tech-missile.json",
         "data/releases/2020/ghf31-power-rocket.json",
-        "data/releases/2020/ghf72-hw-formula-solar.json"
+        "data/releases/2020/ghf46-pedal-de-metal.json",
+        "data/releases/2020/ghf71-cloak-and-dagger.json",
+        "data/releases/2020/ghf72-hw-formula-solar.json",
+        "data/releases/2020/ghf92-aero-pod.json",
+        "data/releases/2020/gln64-beat-all.json"
     ]
 }

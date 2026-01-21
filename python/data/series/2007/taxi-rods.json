@@ -2,10 +2,15 @@
     "series_id": "taxi-rods",
     "year": 2007,
     "name": "Taxi Rods",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 4,
     "releases": [
+        "data/releases/2007/k7566-cockney-cab-ii.json",
         "data/releases/2007/k7567-55-chevy.json",
+        "data/releases/2007/k7568-70-plymouth-roadrunner.json",
+        "data/releases/2007/k7568-70-plymouth-roadrunner.json",
+        "data/releases/2007/k7568-70-plymouth-roadrunner.json",
+        "data/releases/2007/k7568-70-plymouth-roadrunner.json",
         "data/releases/2007/k7569-64-impala.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "fjy99-custom-01-acura-integra-gsr-2018",
+    "toy_number": "FJY99",
+    "casting_id": "custom-01-acura-integra-gsr",
+    "year": 2018,
+    "series_id": "nightburnerz",
+    "series_index": 6,
+    "specs": {
+        "color": "White",
+        "tampo": "Camouflage w/ \"BOOST BRIGADE\" on sides & hood, skull on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L10, L11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/20180517_171606.jpg/revision/latest/scale-to-width-down/75?cb=20180620045732"
+    }
+}

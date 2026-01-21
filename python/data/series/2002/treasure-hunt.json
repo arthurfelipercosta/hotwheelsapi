@@ -2,9 +2,12 @@
     "series_id": "treasure-hunt",
     "year": 2002,
     "name": "Treasure Hunt",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 1,
     "releases": [
-        "data/releases/2002/54321-la-troca.json"
+        "data/releases/2002/54321-la-troca.json",
+        "data/releases/2002/54323-lotus-project-m250.json",
+        "data/releases/2002/54327-phaeton.json",
+        "data/releases/2002/54329-40-ford.json"
     ]
 }

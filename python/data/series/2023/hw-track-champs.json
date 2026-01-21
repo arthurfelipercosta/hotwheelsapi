@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-track-champs",
+    "year": 2023,
+    "name": "HW Track Champs",
+    "total_releases": 9,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hkg29-rally-speciale.json",
+        "data/releases/2023/hkg34-group-c-fantasy.json",
+        "data/releases/2023/hkg41-rollin-solo.json",
+        "data/releases/2023/hkh66-hot-wired.json",
+        "data/releases/2023/hkh78-mach-it-go.json",
+        "data/releases/2023/hkk27-hot-wired.json",
+        "data/releases/2023/hkk37-rally-speciale.json",
+        "data/releases/2023/hkk40-mach-it-go.json",
+        "data/releases/2023/hkk41-rollin-solo.json"
+    ]
+}

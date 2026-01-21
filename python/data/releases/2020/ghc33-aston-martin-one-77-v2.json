@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc33-aston-martin-one-77-2020",
+    "toy_number": "GHC33",
+    "casting_id": "aston-martin-one-77",
+    "year": 2020,
+    "series_id": "hw-exotics",
+    "series_index": 7,
+    "specs": {
+        "color": "Red",
+        "tampo": "White stripes on top & hood, detailed headlights & Aston Martin emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Y5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N24, N25, N26, N27, N29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/RedStripeOne77ThumbNail.jpg/revision/latest/scale-to-width-down/75?cb=20210523072420"
+    }
+}

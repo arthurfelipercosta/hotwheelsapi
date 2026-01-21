@@ -1,0 +1,24 @@
+{
+    "release_id": "cfm48-classic-cobra-2015",
+    "toy_number": "CFM48",
+    "casting_id": "classic-cobra",
+    "year": 2015,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "Cold: White Warm: Gold",
+        "tampo": "Flames on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N35, N37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/Classiccobra427.jpg/revision/latest/scale-to-width-down/75?cb=20150520160423"
+    }
+}

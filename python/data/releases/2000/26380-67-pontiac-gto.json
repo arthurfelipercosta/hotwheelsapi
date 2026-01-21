@@ -1,0 +1,25 @@
+{
+    "release_id": "26380-67-pontiac-gto-2000",
+    "toy_number": "26380",
+    "casting_id": "67-pontiac-gto",
+    "year": 2000,
+    "series_id": "treasure-hunts",
+    "series_index": 10,
+    "specs": {
+        "color": "White",
+        "tampo": "Black & Gold stripe design with \"TH 2000\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold DDRR",
+            "1": "Malaysia"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/67_GTO_-_00TH.jpg/revision/latest/scale-to-width-down/75?cb=20090611065417"
+    }
+}

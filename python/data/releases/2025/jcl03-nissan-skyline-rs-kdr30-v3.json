@@ -1,0 +1,24 @@
+{
+    "release_id": "jcl03-nissan-skyline-rs-kdr30-2025",
+    "toy_number": "JCL03",
+    "casting_id": "nissan-skyline-rs-kdr30",
+    "year": 2025,
+    "series_id": "mystery-models-series-1",
+    "series_index": 2,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed taillights, red striping 'HWGRFX' and '2' number plate on sides and hood,",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Gold chrome FC3"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T48N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/Nissan_Skyline_Mystery_Models_2025.jpg/revision/latest/scale-to-width-down/75?cb=20241227021136"
+    }
+}

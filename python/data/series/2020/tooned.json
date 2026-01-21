@@ -2,12 +2,28 @@
     "series_id": "tooned",
     "year": 2020,
     "name": "Tooned",
-    "total_releases": 4,
-    "max_index": 7,
+    "total_releases": 20,
+    "max_index": 4,
     "releases": [
+        "data/releases/2020/ghb57-70-volkswagen-baja-bug.json",
+        "data/releases/2020/ghb77-manga-tuner.json",
+        "data/releases/2020/ghb80-rv-there-yet.json",
         "data/releases/2020/ghd43-69-chevelle.json",
+        "data/releases/2020/ghd44-cool-one.json",
+        "data/releases/2020/ghd45-head-starter.json",
+        "data/releases/2020/ghd45-head-starter.json",
         "data/releases/2020/ghd46-skull-shaker.json",
+        "data/releases/2020/ghd47-surf-n-turf.json",
+        "data/releases/2020/ghd48-1964-chevy-impala-tooned.json",
+        "data/releases/2020/ghd81-69-dodge-daytona.json",
+        "data/releases/2020/ghd97-70-volkswagen-baja-bug.json",
+        "data/releases/2020/ghf24-surf-n-turf.json",
         "data/releases/2020/ghf25-69-chevelle.json",
-        "data/releases/2020/ghg10-skull-shaker.json"
+        "data/releases/2020/ghf84-manga-tuner.json",
+        "data/releases/2020/ghf85-rv-there-yet.json",
+        "data/releases/2020/ghf89-1964-chevy-impala-tooned.json",
+        "data/releases/2020/ghf90-cool-one.json",
+        "data/releases/2020/ghg10-skull-shaker.json",
+        "data/releases/2020/ghg33-1964-chevy-impala-tooned.json"
     ]
 }

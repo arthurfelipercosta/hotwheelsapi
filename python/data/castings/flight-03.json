@@ -1,0 +1,33 @@
+{
+    "casting_id": "flight-03",
+    "name": "Flight '03",
+    "description": {
+        "en-us": "Flight '03 Debut series 2003 First Editions Produced 2003 - Present Designer Mark Jones Number 56381\\n\\nFlight '03 is a contemporary early 2000s hot hatch featuring influences from the tuner subculture and design elements from Super GT and DTM cars. The car was conceived \"following an unhappy experience\" attempting to license a mildly modified Acura Integra show car which ultimately was never produced. In development the casting was given the placeholder name of \" My Tuna \", described by designer Mark Jones as a \"goofy working name\"; he also had some input in the graphic for the casting's first release.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56381-flight-03.json",
+        "data/releases/2004/c4325-flight-03.json",
+        "data/releases/2004/c4325-flight-03-v2.json",
+        "data/releases/2004/b3637-flight-03.json",
+        "data/releases/2005/g6919-flight-03.json",
+        "data/releases/2006/j3476-flight-03.json",
+        "data/releases/2006/j2560-flight-03.json",
+        "data/releases/2007/j2560-flight-03.json",
+        "data/releases/2010/r0972-flight-03.json",
+        "data/releases/2012/v5488-flight-03.json",
+        "data/releases/2012/x7060-flight-03.json",
+        "data/releases/2012/x1112-flight-03.json",
+        "data/releases/2015/x6999-flight-03.json",
+        "data/releases/2016/dlp32-flight-03.json",
+        "data/releases/2017/x6999-flight-03.json",
+        "data/releases/2017/dwc03-flight-03.json",
+        "data/releases/2020/gjm65-flight-03.json",
+        "data/releases/2024/hvw74-flight-03.json",
+        "data/releases/2025/jby10-flight-03.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "v5645-custom-volkswagen-beetle-2012",
+    "toy_number": "V5645",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2012,
+    "series_id": "hw-racing",
+    "series_index": 6,
+    "specs": {
+        "color": "Metalflake Purple",
+        "tampo": "Orange, Yellow & White Hot Wheels Race Team deco, \"4\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Orange Chrome rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E15, E16, E17, E18, E19, E20, E22, E24, E25, E26, E27, E31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/2012-HWR06-CustomVolkswagenBeetle-Purple.jpg/revision/latest/scale-to-width-down/75?cb=20120707005407"
+    }
+}

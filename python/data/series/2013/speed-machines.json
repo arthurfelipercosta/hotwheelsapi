@@ -1,0 +1,14 @@
+{
+    "series_id": "speed-machines",
+    "year": 2013,
+    "name": "Speed Machines",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/t4422-mclaren-f1-gtr.json",
+        "data/releases/2013/t4439-2008-tesla-roadster.json",
+        "data/releases/2013/w2309-lamborghini-revent-n-roadster.json",
+        "data/releases/2013/w2311-mclaren-f1-gtr.json",
+        "data/releases/2013/w2320-scirocco-gt-24.json"
+    ]
+}

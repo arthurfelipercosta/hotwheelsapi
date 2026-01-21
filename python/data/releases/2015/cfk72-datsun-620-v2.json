@@ -1,0 +1,24 @@
+{
+    "release_id": "cfk72-datsun-620-2015",
+    "toy_number": "CFK72",
+    "casting_id": "datsun-620",
+    "year": 2015,
+    "series_id": "hw-off-road-hw-hot-trucks",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "Yellow, orange & black stripes on sides & hood, small 'Datsun' logo on the front wings.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G27, G32, G37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Datsun_620_green_2015_hot_trucks.jpg/revision/latest/scale-to-width-down/75?cb=20141013153751"
+    }
+}

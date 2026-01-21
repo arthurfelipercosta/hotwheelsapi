@@ -1,0 +1,24 @@
+{
+    "release_id": "grx82-surfin-school-bus-2021",
+    "toy_number": "GRX82",
+    "casting_id": "surfin-school-bus",
+    "year": 2021,
+    "series_id": "hw-metro",
+    "series_index": 4,
+    "specs": {
+        "color": "Yellow & Blue",
+        "tampo": "Wave-like design",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "None",
+        "interior_color": "None",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): N40, N41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Surfin%27_School_Bus.jpg/revision/latest/scale-to-width-down/75?cb=20210217175627"
+    }
+}

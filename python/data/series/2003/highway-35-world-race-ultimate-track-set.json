@@ -1,0 +1,11 @@
+{
+    "series_id": "highway-35-world-race-ultimate-track-set",
+    "year": 2003,
+    "name": "Highway 35 World Race: Ultimate Track Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2003/b2850-power-pistons.json",
+        "data/releases/2003/b2850-sling-shot.json"
+    ]
+}

@@ -2,9 +2,11 @@
     "series_id": "holiday-hot-rods",
     "year": 2015,
     "name": "Holiday Hot Rods",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 2,
     "releases": [
-        "data/releases/2015/cfv12-67-mustang.json"
+        "data/releases/2015/cfv11-island-hopper.json",
+        "data/releases/2015/cfv12-67-mustang.json",
+        "data/releases/2015/cfv13-10-ford-shelby-gt500-super-snake.json"
     ]
 }

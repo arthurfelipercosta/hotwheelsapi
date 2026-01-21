@@ -1,0 +1,24 @@
+{
+    "release_id": "hfv80-lamborghini-sesto-elemento-2022",
+    "toy_number": "HFV80",
+    "casting_id": "lamborghini-sesto-elemento",
+    "year": 2022,
+    "series_id": "motor-show-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Detailed headlights, Lamborghini emblem on front, red airflow holes, red cylinder dots",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Black TRAP5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): P34, P36, P45, P48, R03, R15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/MotorShow5PackSestoElemento.jpg/revision/latest/scale-to-width-down/75?cb=20211105192015"
+    }
+}

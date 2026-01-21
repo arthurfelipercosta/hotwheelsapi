@@ -2,11 +2,16 @@
     "series_id": "tooned",
     "year": 2021,
     "name": "Tooned",
-    "total_releases": 3,
+    "total_releases": 8,
     "max_index": 4,
     "releases": [
+        "data/releases/2021/grx41-tooned-twin-mill.json",
         "data/releases/2021/grx98-mattel-dream-mobile.json",
         "data/releases/2021/grx99-pixel-shaker.json",
-        "data/releases/2021/gtb89-pixel-shaker.json"
+        "data/releases/2021/gry00-manga-tuner.json",
+        "data/releases/2021/gtb69-tooned-twin-mill.json",
+        "data/releases/2021/gtb89-pixel-shaker.json",
+        "data/releases/2021/gtc81-manga-tuner.json",
+        "data/releases/2021/gtd28-tooned-twin-mill.json"
     ]
 }

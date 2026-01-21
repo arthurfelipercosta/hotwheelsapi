@@ -1,0 +1,25 @@
+{
+    "release_id": "x3366-69-ford-mustang-2011",
+    "toy_number": "X3366",
+    "casting_id": "69-ford-mustang",
+    "year": 2011,
+    "series_id": "mystery-models",
+    "series_index": 10,
+    "specs": {
+        "color": "Aqua",
+        "tampo": "Orange & white Hot Wheels Race Team deco, \"5\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Orange-Chrome-Rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D31, D32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/19/MM_69_Mustang.jpg/revision/latest/scale-to-width-down/75?cb=20111117182615"
+    }
+}

@@ -2,10 +2,13 @@
     "series_id": "hw-flames-5-pack",
     "year": 2024,
     "name": "HW Flames 5-Pack",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
+        "data/releases/2024/htv47-56-ford-f-100-truck.json",
         "data/releases/2024/htv47-64-impala.json",
-        "data/releases/2024/htv47-83-chevy-silverado.json"
+        "data/releases/2024/htv47-83-chevy-silverado.json",
+        "data/releases/2024/htv47-blvd-bruiser.json",
+        "data/releases/2024/htv47-muscle-speeder.json"
     ]
 }

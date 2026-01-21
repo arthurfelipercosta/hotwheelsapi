@@ -1,0 +1,14 @@
+{
+    "series_id": "thrill-racers-space",
+    "year": 2012,
+    "name": "Thrill Racers - Space",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2012/v5496-night-burner.json",
+        "data/releases/2012/v5497-jet-threat-4-0.json",
+        "data/releases/2012/v5498-rocketfire.json",
+        "data/releases/2012/v5499-spector.json",
+        "data/releases/2012/v5499-spector.json"
+    ]
+}

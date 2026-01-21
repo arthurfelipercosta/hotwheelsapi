@@ -1,0 +1,24 @@
+{
+    "release_id": "gjv08-surfin-school-bus-2020",
+    "toy_number": "GJV08",
+    "casting_id": "surfin-school-bus",
+    "year": 2020,
+    "series_id": "teenage-mutant-ninja-turtles",
+    "series_index": 5,
+    "specs": {
+        "color": "Dark green",
+        "tampo": "yellow stripes on sides, “TURTLES” on left side, “FOOT STINKS” on right side, black stripe on roof, “Teenage Mutant Ninja Turtles” on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Yellow tint",
+        "wheel_type": {
+            "0": "Chrome lime green 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/HW_SURFIN_SCHOLL_BUS_Turtles.jpg/revision/latest/scale-to-width-down/75?cb=20191121133956"
+    }
+}

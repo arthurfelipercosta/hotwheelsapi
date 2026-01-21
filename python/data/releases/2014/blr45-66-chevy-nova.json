@@ -1,0 +1,24 @@
+{
+    "release_id": "blr45-66-chevy-nova-2014",
+    "toy_number": "BLR45",
+    "casting_id": "66-chevy-nova",
+    "year": 2014,
+    "series_id": "28th-annual-hot-wheels-collectors-convention",
+    "series_index": null,
+    "specs": {
+        "color": "Black & Metalflake Gold",
+        "tampo": "Gold stripes with flames on hood & trunk, convention logo on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Chevy_Nova_28th_Collectors_Convention.jpg/revision/latest/scale-to-width-down/75?cb=20200526162030"
+    }
+}

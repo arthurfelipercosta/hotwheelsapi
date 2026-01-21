@@ -1,0 +1,25 @@
+{
+    "release_id": "hcv79-dodge-viper-srt10-acr-2022",
+    "toy_number": "HCV79",
+    "casting_id": "dodge-viper-srt10-acr",
+    "year": 2022,
+    "series_id": "then-and-now",
+    "series_index": 9,
+    "specs": {
+        "color": "Race Team Blue",
+        "tampo": "Hot Wheels Race Team-inspired livery, Fangs logo on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Sky blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red rim",
+            "1": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R26, R29, R30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/HCV79.jpg/revision/latest/scale-to-width-down/75?cb=20220817145707"
+    }
+}

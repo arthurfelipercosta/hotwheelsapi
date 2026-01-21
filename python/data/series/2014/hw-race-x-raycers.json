@@ -2,17 +2,23 @@
     "series_id": "hw-race-x-raycers",
     "year": 2014,
     "name": "HW Race: X‑Raycers",
-    "total_releases": 9,
+    "total_releases": 15,
     "max_index": 0,
     "releases": [
         "data/releases/2014/bdd09-rig-storm.json",
+        "data/releases/2014/bdd10-hi-tech-missile.json",
         "data/releases/2014/bfd40-bullet-proof.json",
         "data/releases/2014/bfd41-carbonator.json",
+        "data/releases/2014/bfd42-drift-rod.json",
+        "data/releases/2014/bfd43-vandetta.json",
         "data/releases/2014/bfd44-nerve-hammer.json",
         "data/releases/2014/bfd45-stockar.json",
+        "data/releases/2014/bfd46-phastasm.json",
         "data/releases/2014/bfd47-69-chevelle.json",
         "data/releases/2014/bfg67-carbonator.json",
+        "data/releases/2014/bfg69-vandetta.json",
         "data/releases/2014/bfg70-rig-storm.json",
-        "data/releases/2014/bfg71-nerve-hammer.json"
+        "data/releases/2014/bfg71-nerve-hammer.json",
+        "data/releases/2014/bfg74-hi-tech-missile.json"
     ]
 }

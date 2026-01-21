@@ -2,12 +2,26 @@
     "series_id": "mainline",
     "year": 1995,
     "name": "Mainline",
-    "total_releases": 4,
+    "total_releases": 18,
     "max_index": 0,
     "releases": [
+        "data/releases/1995/0420-65-mustang-convertible.json",
+        "data/releases/1995/0420-65-mustang-convertible.json",
+        "data/releases/1995/0444-vampyra.json",
         "data/releases/1995/0773-humvee.json",
+        "data/releases/1995/11378-enforcer.json",
         "data/releases/1995/12351-blazer-4-4.json",
         "data/releases/1995/12356-purple-passion.json",
+        "data/releases/1995/12360-olds-442-w-30.json",
+        "data/releases/1995/1299-3-window-34.json",
+        "data/releases/1995/1299-3-window-34.json",
+        "data/releases/1995/1299-3-window-34.json",
+        "data/releases/1995/2535-classic-cobra.json",
+        "data/releases/1995/2850-double-demon.json",
+        "data/releases/1995/4346-zombot.json",
+        "data/releases/1995/4346-zombot.json",
+        "data/releases/1995/4346-zombot.json",
+        "data/releases/1995/5265-dodge-viper-rt-10.json",
         "data/releases/1995/5904-good-humor-truck.json"
     ]
 }

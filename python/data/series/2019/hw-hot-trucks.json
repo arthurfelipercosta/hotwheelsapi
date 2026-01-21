@@ -2,16 +2,28 @@
     "series_id": "hw-hot-trucks",
     "year": 2019,
     "name": "HW Hot Trucks",
-    "total_releases": 8,
+    "total_releases": 20,
     "max_index": 4,
     "releases": [
+        "data/releases/2019/fyb53-67-jeepster-commando.json",
+        "data/releases/2019/fyb54-land-rover-series-iii-pickup.json",
         "data/releases/2019/fyb55-mercedes-benz-unimog-1300l.json",
+        "data/releases/2019/fyb56-19-ford-ranger-raptor.json",
+        "data/releases/2019/fyb57-2-tuff.json",
         "data/releases/2019/fyc57-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2019/fyc58-72-ford-ranchero.json",
         "data/releases/2019/fyc59-custom-72-chevy-luv.json",
         "data/releases/2019/fyc60-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2019/fyf06-67-jeepster-commando.json",
+        "data/releases/2019/fyf07-land-rover-series-iii-pickup.json",
         "data/releases/2019/fyf08-mercedes-benz-unimog-1300l.json",
+        "data/releases/2019/fyf09-19-ford-ranger-raptor.json",
+        "data/releases/2019/fyf10-2-tuff.json",
+        "data/releases/2019/fyf11-72-ford-ranchero.json",
         "data/releases/2019/fyf12-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2019/fyf96-custom-ford-bronco.json",
         "data/releases/2019/fyg31-custom-72-chevy-luv.json",
-        "data/releases/2019/fyg47-19-chevy-silverado-trail-boss-lt.json"
+        "data/releases/2019/fyg47-19-chevy-silverado-trail-boss-lt.json",
+        "data/releases/2019/ghg49-19-ford-ranger-raptor.json"
     ]
 }

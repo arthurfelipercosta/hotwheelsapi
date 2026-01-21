@@ -1,0 +1,19 @@
+{
+    "casting_id": "aston-martin-vantage-gt3",
+    "name": "Aston Martin Vantage GT3",
+    "description": {
+        "en-us": "Aston Martin Vantage GT3 Debut series HW Race: World Race Produced 2015 - Present Designer Ryu Asada Number CFH15",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh15-aston-martin-vantage-gt3.json",
+        "data/releases/2015/cfl35-aston-martin-vantage-gt3.json",
+        "data/releases/2016/dhp86-aston-martin-vantage-gt3.json",
+        "data/releases/2018/x6999-aston-martin-vantage-gt3.json",
+        "data/releases/2021/hbf97-aston-martin-vantage-gt3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Aston Martin"
+}

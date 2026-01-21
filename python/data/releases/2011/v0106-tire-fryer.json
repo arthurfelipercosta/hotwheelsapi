@@ -1,0 +1,24 @@
+{
+    "release_id": "v0106-tire-fryer-2011",
+    "toy_number": "V0106",
+    "casting_id": "tire-fryer",
+    "year": 2011,
+    "series_id": "racing-kits-drag-race",
+    "series_index": 5,
+    "specs": {
+        "color": "Metallic Blue",
+        "tampo": "Red, Yellow & White Flames on Sides and Top, Hot Wheels Logo on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome Red SK5 & Chrome Red 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/TireFryer_RacingKit.JPG/revision/latest/scale-to-width-down/75?cb=20110208111341"
+    }
+}

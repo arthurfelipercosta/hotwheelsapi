@@ -2,12 +2,21 @@
     "series_id": "red-edition",
     "year": 2020,
     "name": "Red Edition",
-    "total_releases": 4,
-    "max_index": 3,
+    "total_releases": 13,
+    "max_index": 8,
     "releases": [
+        "data/releases/2020/ghg64-68-shelby-gt500.json",
         "data/releases/2020/ghg65-custom-otto.json",
         "data/releases/2020/ghg66-custom-18-ford-mustang-gt.json",
+        "data/releases/2020/ghg67-sandblaster.json",
+        "data/releases/2020/ghg67-sandblaster.json",
+        "data/releases/2020/ghg68-91-mazda-mx-5-miata.json",
+        "data/releases/2020/ghg69-indy-500-oval.json",
+        "data/releases/2020/ghg70-tooligan.json",
         "data/releases/2020/ghg71-bone-shaker.json",
-        "data/releases/2020/ghg72-gotta-go.json"
+        "data/releases/2020/ghg72-gotta-go.json",
+        "data/releases/2020/ghg73-mclaren-p1.json",
+        "data/releases/2020/ghg74-aston-martin-vulcan.json",
+        "data/releases/2020/ghg75-dodge-viper-srt10-acr.json"
     ]
 }

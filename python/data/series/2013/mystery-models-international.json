@@ -1,0 +1,15 @@
+{
+    "series_id": "mystery-models-international",
+    "year": 2013,
+    "name": "Mystery Models (International)",
+    "total_releases": 6,
+    "max_index": 43,
+    "releases": [
+        "data/releases/2013/bbm40-spector.json",
+        "data/releases/2013/bbm44-teegray.json",
+        "data/releases/2013/bbm48-twin-mill.json",
+        "data/releases/2013/bbm49-vulture-roadster.json",
+        "data/releases/2013/bbm50-whip-creamer-ii.json",
+        "data/releases/2013/bbmxx-night-burner.json"
+    ]
+}

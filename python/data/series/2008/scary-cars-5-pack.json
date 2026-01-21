@@ -1,0 +1,13 @@
+{
+    "series_id": "scary-cars-5-pack",
+    "year": 2008,
+    "name": "Scary Cars 5-Pack",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2008/l7883-64-lincoln-continental.json",
+        "data/releases/2008/l7883-cockney-cab-ii.json",
+        "data/releases/2008/l7883-fast-fortress.json",
+        "data/releases/2008/l7883-pharodox.json"
+    ]
+}

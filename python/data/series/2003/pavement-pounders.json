@@ -1,0 +1,12 @@
+{
+    "series_id": "pavement-pounders",
+    "year": 2003,
+    "name": "Pavement Pounders",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2003/47038-roll-cage.json",
+        "data/releases/2003/47038-roll-cage.json",
+        "data/releases/2003/47183-lotus-project-m250.json"
+    ]
+}

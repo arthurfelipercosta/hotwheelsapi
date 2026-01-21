@@ -1,0 +1,24 @@
+{
+    "release_id": "t8640-audacious-2011",
+    "toy_number": "T8640",
+    "casting_id": "audacious",
+    "year": 2011,
+    "series_id": "graffiti-rides-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Neon Green",
+        "tampo": "White, Yellow and Dark Green tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Updated tooling Named Fandango Base code(s): D29, D48, E04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/AudaciousGraffiti.jpg/revision/latest/scale-to-width-down/75?cb=20110921005251"
+    }
+}

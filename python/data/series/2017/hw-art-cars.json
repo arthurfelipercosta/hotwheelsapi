@@ -2,10 +2,29 @@
     "series_id": "hw-art-cars",
     "year": 2017,
     "name": "HW Art Cars",
-    "total_releases": 2,
+    "total_releases": 21,
     "max_index": 5,
     "releases": [
+        "data/releases/2017/dtx02-volkswagen-t2-pickup.json",
+        "data/releases/2017/dtx89-64-lincoln-continental.json",
+        "data/releases/2017/dtx90-zotic.json",
         "data/releases/2017/dtx91-monster-dairy-delivery.json",
-        "data/releases/2017/dvb81-monster-dairy-delivery.json"
+        "data/releases/2017/dtx92-volkswagen-golf-mk7.json",
+        "data/releases/2017/dtx93-driftsta.json",
+        "data/releases/2017/dtx94-cool-one.json",
+        "data/releases/2017/dtx95-amazoom.json",
+        "data/releases/2017/dvb21-fandango.json",
+        "data/releases/2017/dvb54-cool-one.json",
+        "data/releases/2017/dvb78-volkswagen-t2-pickup.json",
+        "data/releases/2017/dvb79-64-lincoln-continental.json",
+        "data/releases/2017/dvb80-zotic.json",
+        "data/releases/2017/dvb81-monster-dairy-delivery.json",
+        "data/releases/2017/dvb82-volkswagen-golf-mk7.json",
+        "data/releases/2017/dvb82-volkswagen-golf-mk7.json",
+        "data/releases/2017/dvb83-driftsta.json",
+        "data/releases/2017/dvb85-amazoom.json",
+        "data/releases/2017/dvd03-fandango.json",
+        "data/releases/2017/fbh92-cool-one.json",
+        "data/releases/2017/fbh93-zotic.json"
     ]
 }

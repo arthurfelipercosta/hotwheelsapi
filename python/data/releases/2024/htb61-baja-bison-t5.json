@@ -1,0 +1,25 @@
+{
+    "release_id": "htb61-baja-bison-t5-2024",
+    "toy_number": "HTB61",
+    "casting_id": "baja-bison-t5",
+    "year": 2024,
+    "series_id": "hw-first-response",
+    "series_index": 7,
+    "specs": {
+        "color": "Black",
+        "tampo": "\"FIRST RESPONSE\", \"HWGRFX\", \" SF MOTOR SPORTS \", Hot Wheels logo, & blue, orange, & white stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Orange rim",
+            "1": "black AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Hot Wheels Let's Race Base code(s): S43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/FirstResponseBison.jpg/revision/latest/scale-to-width-down/75?cb=20231230111606"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "ghf68-batmobile-2020",
+    "toy_number": "GHF68",
+    "casting_id": "batmobile",
+    "year": 2020,
+    "series_id": "batman",
+    "series_index": 3,
+    "specs": {
+        "color": "Purple Tinted Chrome",
+        "tampo": "None",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome Cyan rim OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N21, N24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/BATMOBILE_GHF68.jpg/revision/latest?cb=20200906141255"
+    }
+}

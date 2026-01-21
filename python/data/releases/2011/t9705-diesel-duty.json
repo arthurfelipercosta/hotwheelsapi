@@ -1,0 +1,24 @@
+{
+    "release_id": "t9705-diesel-duty-2011",
+    "toy_number": "T9705",
+    "casting_id": "diesel-duty",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 35,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Black, Red & White graphics, \"Campbells smog shop\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Red)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Rim OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/2011DieselDuty.jpg/revision/latest/scale-to-width-down/75?cb=20110718015221"
+    }
+}

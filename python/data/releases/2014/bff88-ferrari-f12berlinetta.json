@@ -1,0 +1,24 @@
+{
+    "release_id": "bff88-ferrari-f12berlinetta-2014",
+    "toy_number": "BFF88",
+    "casting_id": "ferrari-f12berlinetta",
+    "year": 2014,
+    "series_id": "hw-city-speed-team",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Detailed headlights & Ferrari logo on front",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G21, G25, G26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Ferrari_F12_Berlinetta-18046_%281%29.jpg/revision/latest/scale-to-width-down/75?cb=20140928045918"
+    }
+}

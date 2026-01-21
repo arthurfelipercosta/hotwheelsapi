@@ -1,0 +1,31 @@
+{
+    "release_id": "18832-ford-f-150-1998",
+    "toy_number": "18832",
+    "casting_id": "ford-f-150",
+    "year": 1998,
+    "series_id": "rad-rigs-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Orange & Black \"M\" & \"Marcus\" tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "3SP",
+            "1": "865",
+            "2": "1998",
+            "3": "Mainline",
+            "4": "22068",
+            "5": "Named Ford F-Series CNG Pickup",
+            "6": "19557",
+            "7": "Named Ford F-150"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Same as 1998 Mainline release",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Ford_F-150_Wht.JPG/revision/latest/scale-to-width-down/75?cb=20090325010439"
+    }
+}

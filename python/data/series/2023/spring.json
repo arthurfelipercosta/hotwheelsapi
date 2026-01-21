@@ -1,0 +1,14 @@
+{
+    "series_id": "spring",
+    "year": 2023,
+    "name": "Spring",
+    "total_releases": 5,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2023/hlj30-volkswagen-caddy.json",
+        "data/releases/2023/hlj31-69-camaro-convertible.json",
+        "data/releases/2023/hlj32-17-jeep-wrangler.json",
+        "data/releases/2023/hlj33-65-mustang-convertible.json",
+        "data/releases/2023/hlj34-52-chevy-truck.json"
+    ]
+}

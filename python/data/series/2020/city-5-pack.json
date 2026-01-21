@@ -1,0 +1,12 @@
+{
+    "series_id": "city-5-pack",
+    "year": 2020,
+    "name": "City 5-Pack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2020/ghp56-dieselboy.json",
+        "data/releases/2020/ghp56-scoopa-di-fuego.json",
+        "data/releases/2020/ghp56-two-timer.json"
+    ]
+}

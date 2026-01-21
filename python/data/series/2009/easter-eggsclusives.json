@@ -2,10 +2,11 @@
     "series_id": "easter-eggsclusives",
     "year": 2009,
     "name": "Easter Eggsclusives",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
         "data/releases/2009/n8541-lotus-sport-elise.json",
+        "data/releases/2009/n8542-cadillac-sixteen.json",
         "data/releases/2009/n8545-80-el-camino.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "hck17-alpine-a110-2022",
+    "toy_number": "HCK17",
+    "casting_id": "alpine-a110",
+    "year": 2022,
+    "series_id": "car-culture-autostrasse",
+    "series_index": 5,
+    "specs": {
+        "color": "Alpine Blue",
+        "tampo": "Detailed headlights and taillights, French tricolour graphics, Alpine racing graphics, \"ALPINE F1 TEAM\" on doors, \" 31 \" on hood and rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR10SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/OconA110.jpg/revision/latest/scale-to-width-down/75?cb=20221130133802"
+    }
+}

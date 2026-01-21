@@ -1,0 +1,31 @@
+{
+    "casting_id": "2008-tesla-roadster",
+    "name": "2008 Tesla Roadster",
+    "description": {
+        "en-us": "2008 Tesla Roadster Debut series 2008 New Models Produced 2008 - Present Designer Phil Riehlman Number L9941",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2008/l9941-2008-tesla-roadster-v10.json",
+        "data/releases/2008/l9941-2008-tesla-roadster-v11.json",
+        "data/releases/2008/l9941-2008-tesla-roadster-v12.json",
+        "data/releases/2009/n8576-2008-tesla-roadster-v4.json",
+        "data/releases/2009/k4305-2008-tesla-roadster-v4.json",
+        "data/releases/2010/r8508-2008-tesla-roadster-v4.json",
+        "data/releases/2010/v1415-2008-tesla-roadster-v4.json",
+        "data/releases/2011/t4439-2008-tesla-roadster-v4.json",
+        "data/releases/2011/t9752-2008-tesla-roadster-v4.json",
+        "data/releases/2013/t4439-2008-tesla-roadster-v4.json",
+        "data/releases/2013/bgj68-2008-tesla-roadster-v4.json",
+        "data/releases/2014/bdk84-2008-tesla-roadster-v4.json",
+        "data/releases/2016/dht28-2008-tesla-roadster-v4.json",
+        "data/releases/2016/dht90-2008-tesla-roadster-v4.json",
+        "data/releases/2019/gfj71-2008-tesla-roadster-v4.json",
+        "data/releases/2023/hkj44-2008-tesla-roadster-v4.json",
+        "data/releases/2019/fyd29-2008-tesla-roadster-v4.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2008,
+    "manufacturer": "Tesla"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "fjy08-mclaren-p1-2018",
+    "toy_number": "FJY08",
+    "casting_id": "mclaren-p1",
+    "year": 2018,
+    "series_id": "hw-exotics",
+    "series_index": 4,
+    "specs": {
+        "color": "Synergy Green",
+        "tampo": "Detailed head- & taillights, Black stripe on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Grey PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L22, L25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/McLaren_P1_Green_2018.jpg/revision/latest/scale-to-width-down/75?cb=20180805201203"
+    }
+}

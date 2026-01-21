@@ -2,11 +2,20 @@
     "series_id": "treasure-hunts",
     "year": 2012,
     "name": "Treasure Hunts",
-    "total_releases": 3,
+    "total_releases": 12,
     "max_index": 4,
     "releases": [
+        "data/releases/2012/v5339-custom-41-willys-coupe.json",
+        "data/releases/2012/v5340-ducati-1098r.json",
+        "data/releases/2012/v5341-69-chevelle-ss-396.json",
+        "data/releases/2012/v5341-69-chevelle-ss-396.json",
         "data/releases/2012/v5342-ford-gt.json",
+        "data/releases/2012/v5343-69-corvette.json",
         "data/releases/2012/v5345-67-mustang.json",
+        "data/releases/2012/v5346-52-chevy-truck.json",
+        "data/releases/2012/v5349-ford-shelby-gr-1-concept.json",
+        "data/releases/2012/v5350-65-ford-ranchero.json",
+        "data/releases/2012/v5351-surf-crate.json",
         "data/releases/2012/v5352-92-ford-mustang.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "bff72-ferrari-458-italia-2014",
+    "toy_number": "BFF72",
+    "casting_id": "ferrari-458-italia",
+    "year": 2014,
+    "series_id": "hw-city-speed-team",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Yellow & White Stripes, Ferrari Logos, Headlights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow Rim",
+            "1": "black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G14, G16, G17, G18, G19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/DSC_5584.jpg/revision/latest/scale-to-width-down/75?cb=20170731093143"
+    }
+}

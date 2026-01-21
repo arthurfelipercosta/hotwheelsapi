@@ -1,0 +1,24 @@
+{
+    "release_id": "x0129-nissan-370z-2012",
+    "toy_number": "X0129",
+    "casting_id": "nissan-370z",
+    "year": 2012,
+    "series_id": "team-hot-wheels-high-speed-wheel",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Orange",
+        "tampo": "Team Hot Wheels Red, Yellow, Blue and Black, Hot Wheels logo Tampo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "HSW-B"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): E05, E07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/2012HSW-Nissan370Z-Orange.jpg/revision/latest/scale-to-width-down/75?cb=20120424021905"
+    }
+}

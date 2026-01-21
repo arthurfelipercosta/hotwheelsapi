@@ -1,0 +1,20 @@
+{
+    "series_id": "hw-race-night-storm",
+    "year": 2014,
+    "name": "HW Race: Night Storm",
+    "total_releases": 11,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bdd11-two-timer.json",
+        "data/releases/2014/bfd48-funny-side-up.json",
+        "data/releases/2014/bfd49-rennen-rig.json",
+        "data/releases/2014/bfd50-time-tracker.json",
+        "data/releases/2014/bfd51-off-track.json",
+        "data/releases/2014/bfd52-chicane.json",
+        "data/releases/2014/bfd53-hypertruck.json",
+        "data/releases/2014/bfd54-covelight.json",
+        "data/releases/2014/bfd55-cloud-cutter.json",
+        "data/releases/2014/bfd56-fast-felion.json",
+        "data/releases/2014/bff75-two-timer.json"
+    ]
+}

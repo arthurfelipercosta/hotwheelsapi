@@ -2,9 +2,12 @@
     "series_id": "world-class-racers",
     "year": 2022,
     "name": "World Class Racers",
-    "total_releases": 2,
-    "max_index": 4,
+    "total_releases": 5,
+    "max_index": 5,
     "releases": [
+        "data/releases/2022/hdh22-mclaren-senna.json",
+        "data/releases/2022/hdh23-lamborghini-hurac-n-lp-610-4.json",
+        "data/releases/2022/hdh24-aston-martin-one-77.json",
         "data/releases/2022/hdh25-ford-gt.json",
         "data/releases/2022/hdh26-2019-audi-r8-spyder.json"
     ]

@@ -1,0 +1,11 @@
+{
+    "series_id": "street-beast",
+    "year": 1997,
+    "name": "Street Beast",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": [
+        "data/releases/1997/16931-jaguar-xj220.json",
+        "data/releases/1997/16932-blown-camaro.json"
+    ]
+}

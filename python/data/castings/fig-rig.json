@@ -1,0 +1,33 @@
+{
+    "casting_id": "fig-rig",
+    "name": "Fig Rig",
+    "description": {
+        "en-us": "Fig Rig Debut series HW Stunt: Stunt Circuit Produced 2013 - 2021 (Original) 2017 (1st retool) 2021 - Present (2nd retool) Designer Dave Sheltman Number X1654",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1654-fig-rig-v2.json",
+        "data/releases/2013/x1907-fig-rig-v2.json",
+        "data/releases/2014/bfd19-fig-rig-v2.json",
+        "data/releases/2014/bfg45-fig-rig-v2.json",
+        "data/releases/2015/cfk95-fig-rig-v2.json",
+        "data/releases/2015/cfl53-fig-rig-v2.json",
+        "data/releases/2016/dhp93-fig-rig-v3.json",
+        "data/releases/2016/dhp93-fig-rig-v4.json",
+        "data/releases/2016/dhw74-fig-rig-v2.json",
+        "data/releases/2017/dww97-fig-rig-v2.json",
+        "data/releases/2017/dxb42-fig-rig-v2.json",
+        "data/releases/2017/dxb43-fig-rig-v2.json",
+        "data/releases/2018/fjx24-fig-rig-v2.json",
+        "data/releases/2021/gry81-fig-rig-v2.json",
+        "data/releases/2022/gyl87-fig-rig-v2.json",
+        "data/releases/2022/hcv42-fig-rig-v2.json",
+        "data/releases/2023/hnb26-fig-rig-v2.json",
+        "data/releases/2024/x6999-fig-rig-v2.json",
+        "data/releases/2024/hxc44-fig-rig-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

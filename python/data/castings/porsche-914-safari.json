@@ -1,0 +1,20 @@
+{
+    "casting_id": "porsche-914-safari",
+    "name": "Porsche 914 Safari",
+    "description": {
+        "en-us": "Porsche 914 Safari Debut series Nightburnerz Produced 2020 - Present Designer Dmitriy Shakhmatov Number GHB50",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb50-porsche-914-safari.json",
+        "data/releases/2020/gtd36-porsche-914-safari.json",
+        "data/releases/2021/gry88-porsche-914-safari.json",
+        "data/releases/2022/00000-porsche-914-safari.json",
+        "data/releases/2024/hrt06-porsche-914-safari.json",
+        "data/releases/2026/jkf22-porsche-914-safari.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Porsche"
+}

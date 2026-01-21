@@ -1,0 +1,24 @@
+{
+    "release_id": "x1863-porsche-carrera-gt-2013",
+    "toy_number": "X1863",
+    "casting_id": "porsche-carrera-gt",
+    "year": 2013,
+    "series_id": "hw-city-street-power",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl Signal Green",
+        "tampo": "Detailed headlights, Porsche emblem on front, Silver 'Carrera GT' on rear, White 'Porsche' on front windshield",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Green & Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E41, E42, E43, E45, E46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/Porsche_Carrera_GT-2013_004_Metaflake_Green.jpg/revision/latest/scale-to-width-down/75?cb=20121222091736"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "since-68-collector-top-40-set",
+    "year": 2008,
+    "name": "Since '68: Collector Top 40 Set",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2008/n4608-67-camaro.json",
+        "data/releases/2008/n4608-70-chevelle-ss.json",
+        "data/releases/2008/n4608-70-plymouth-roadrunner.json",
+        "data/releases/2008/n4608-hot-bird.json",
+        "data/releases/2008/n4608-twin-mill.json"
+    ]
+}

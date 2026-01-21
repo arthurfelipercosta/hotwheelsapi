@@ -1,0 +1,28 @@
+{
+    "casting_id": "the-bat",
+    "name": "The Bat",
+    "description": {
+        "en-us": "The Bat Debut series 2012 New Models Produced 2012 - Present Designer Manson Cheung Number V5315",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5315-the-bat.json",
+        "data/releases/2014/cck73-the-bat.json",
+        "data/releases/2015/dfk74-the-bat.json",
+        "data/releases/2015/cfr19-the-bat.json",
+        "data/releases/2016/dht16-the-bat.json",
+        "data/releases/2016/dhx77-the-bat.json",
+        "data/releases/2017/dty47-the-bat.json",
+        "data/releases/2019/fyx90-the-bat.json",
+        "data/releases/2019/gdm32-the-bat.json",
+        "data/releases/2020/ghp54-the-bat.json",
+        "data/releases/2022/hdk75-the-bat.json",
+        "data/releases/2022/grm17-the-bat.json",
+        "data/releases/2023/hly68-the-bat.json",
+        "data/releases/2024/hrw33-the-bat.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "htf06-rally-speciale-2024",
+    "toy_number": "HTF06",
+    "casting_id": "rally-speciale",
+    "year": 2024,
+    "series_id": "hw-dirt",
+    "series_index": 2,
+    "specs": {
+        "color": "Navy blue",
+        "tampo": "Yellow accents, \"K-HULL\", \"CVAUGHN\", \"95\", \"HWGRFX\" on sides, hood and roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Bronze rim",
+            "1": "yellow AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Hot Wheels Let's Race Base code(s): T31, T33, T41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/2024_Rally_Speciale.jpg/revision/latest/scale-to-width-down/75?cb=20241022011933"
+    }
+}

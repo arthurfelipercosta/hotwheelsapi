@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh17-porsche-934-turbo-rsr-2014",
+    "toy_number": "CFH17",
+    "casting_id": "porsche-934-turbo-rsr",
+    "year": 2014,
+    "series_id": "hw-city-speed-team",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Silver headlights, Porsche emblem on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model mesh or smooth grill Base codes: G27, G28, G29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Porsche_934_Turbo_RSR_-_orange.jpg/revision/latest/scale-to-width-down/75?cb=20180402020359"
+    }
+}

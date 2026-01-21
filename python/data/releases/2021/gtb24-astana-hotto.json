@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb24-astana-hotto-2021",
+    "toy_number": "GTB24",
+    "casting_id": "astana-hotto",
+    "year": 2021,
+    "series_id": "hw-drift",
+    "series_index": 3,
+    "specs": {
+        "color": "Black",
+        "tampo": "Yellow Headlights with silver outline, Blue Rally Lights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Silver",
+        "wheel_type": {
+            "0": "GLW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Side thrusters fixed Base code(s): N41, N42, N43, N47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/2021AstanaHottoBlkML.jpg/revision/latest/scale-to-width-down/75?cb=20210221232733"
+    }
+}

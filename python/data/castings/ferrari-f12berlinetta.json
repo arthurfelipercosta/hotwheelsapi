@@ -1,0 +1,18 @@
+{
+    "casting_id": "ferrari-f12berlinetta",
+    "name": "Ferrari F12berlinetta",
+    "description": {
+        "en-us": "Ferrari F12berlinetta Debut series HW Showroom: HW All Stars Produced 2013 - 2014 Designer Kevin Cao Number X1613",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1613-ferrari-f12berlinetta-v2.json",
+        "data/releases/2013/x2045-ferrari-f12berlinetta-v2.json",
+        "data/releases/2014/bfc51-ferrari-f12berlinetta-v2.json",
+        "data/releases/2014/bff88-ferrari-f12berlinetta-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Ferrari"
+}

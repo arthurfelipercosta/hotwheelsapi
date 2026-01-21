@@ -6,22 +6,22 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2018/fjv45-15-land-rover-defender-double-cab.json",
-        "data/releases/2018/fjy55-15-land-rover-defender-double-cab.json",
-        "data/releases/2018/fjy55-15-land-rover-defender-double-cab-v2.json",
-        "data/releases/2019/fyb98-15-land-rover-defender-double-cab.json",
-        "data/releases/2019/fyf52-15-land-rover-defender-double-cab.json",
-        "data/releases/2019/fyf52-15-land-rover-defender-double-cab-v2.json",
-        "data/releases/2019/fyg28-15-land-rover-defender-double-cab.json",
-        "data/releases/2020/gjv67-15-land-rover-defender-double-cab.json",
-        "data/releases/2022/hdh11-15-land-rover-defender-double-cab.json",
-        "data/releases/2023/hlk19-15-land-rover-defender-double-cab.json",
-        "data/releases/2025/jbb06-15-land-rover-defender-double-cab.json",
-        "data/releases/2025/hyy35-15-land-rover-defender-double-cab.json",
-        "data/releases/2025/jbc00-15-land-rover-defender-double-cab.json"
+        "data/releases/2018/fjv45-15-land-rover-defender-double-cab-v2.json",
+        "data/releases/2018/fjy55-15-land-rover-defender-double-cab-v3.json",
+        "data/releases/2018/fjy55-15-land-rover-defender-double-cab-v4.json",
+        "data/releases/2019/fyb98-15-land-rover-defender-double-cab-v2.json",
+        "data/releases/2019/fyf52-15-land-rover-defender-double-cab-v3.json",
+        "data/releases/2019/fyf52-15-land-rover-defender-double-cab-v4.json",
+        "data/releases/2019/fyg28-15-land-rover-defender-double-cab-v2.json",
+        "data/releases/2020/gjv67-15-land-rover-defender-double-cab-v2.json",
+        "data/releases/2022/hdh11-15-land-rover-defender-double-cab-v2.json",
+        "data/releases/2023/hlk19-15-land-rover-defender-double-cab-v2.json",
+        "data/releases/2025/jbb06-15-land-rover-defender-double-cab-v2.json",
+        "data/releases/2025/hyy35-15-land-rover-defender-double-cab-v2.json",
+        "data/releases/2025/jbc00-15-land-rover-defender-double-cab-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",
     "debut_year": 2018,
-    "manufacturer": "Mattel"
+    "manufacturer": "Land Rover"
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "m1578-custom-volkswagen-beetle-2008",
+    "toy_number": "M1578",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2008,
+    "series_id": "since-68-hot-rods",
+    "series_index": 8,
+    "specs": {
+        "color": "Metalflake White",
+        "tampo": "Red graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome RL5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Non opening rear deck-lid Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/Custom_Bug_7.jpg/revision/latest/scale-to-width-down/75?cb=20081221173222"
+    }
+}

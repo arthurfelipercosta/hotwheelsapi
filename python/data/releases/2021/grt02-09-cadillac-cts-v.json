@@ -1,0 +1,24 @@
+{
+    "release_id": "grt02-09-cadillac-cts-v-2021",
+    "toy_number": "GRT02",
+    "casting_id": "09-cadillac-cts-v",
+    "year": 2021,
+    "series_id": "factory-500-h-p",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Black",
+        "tampo": "Silver stripes & Cadillac V logo on sides, detailed taillights, Cadillac emblem",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/CTS_V_Black_500hp.jpg/revision/latest/scale-to-width-down/75?cb=20201218082916"
+    }
+}

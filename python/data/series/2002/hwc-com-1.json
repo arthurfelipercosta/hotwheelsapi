@@ -2,9 +2,15 @@
     "series_id": "hwc-com-1",
     "year": 2002,
     "name": "HWC.com 1",
-    "total_releases": 1,
+    "total_releases": 7,
     "max_index": 7,
     "releases": [
-        "data/releases/2002/85512-67-mustang.json"
+        "data/releases/2002/85507-surf-crate.json",
+        "data/releases/2002/85511-twin-mill.json",
+        "data/releases/2002/85512-67-mustang.json",
+        "data/releases/2002/85521-67-camaro.json",
+        "data/releases/2002/85524-67-camaro.json",
+        "data/releases/2002/85526-67-camaro.json",
+        "data/releases/2002/85611-70-chevelle-ss.json"
     ]
 }

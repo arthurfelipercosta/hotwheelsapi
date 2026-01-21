@@ -1,0 +1,19 @@
+{
+    "casting_id": "1964-chevy-impala-tooned",
+    "name": "1964 Chevy Impala ('Tooned)",
+    "description": {
+        "en-us": "1964 Chevy Impala ('Tooned) Debut series 2004 First Editions Produced 2004 , 2020 – Present Designer Dwayne Vance Number C2706",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2004/c2706-1964-chevy-impala-tooned.json",
+        "data/releases/2020/ghd48-1964-chevy-impala-tooned.json",
+        "data/releases/2020/ghg33-1964-chevy-impala-tooned.json",
+        "data/releases/2020/ghf89-1964-chevy-impala-tooned.json",
+        "data/releases/2024/hvx12-1964-chevy-impala-tooned.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2004,
+    "manufacturer": "Chevy"
+}

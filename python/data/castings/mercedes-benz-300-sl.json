@@ -1,0 +1,26 @@
+{
+    "casting_id": "mercedes-benz-300-sl",
+    "name": "Mercedes-Benz 300 SL",
+    "description": {
+        "en-us": "Mercedes-Benz 300 SL Debut series Car Culture: Team Transport Produced 2020 - Present Designer Manson Cheung Number GNN25",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/gjt43-mercedes-benz-300-sl.json",
+        "data/releases/2020/gmh43-mercedes-benz-300-sl.json",
+        "data/releases/2021/gry47-mercedes-benz-300-sl.json",
+        "data/releases/2021/grn85-mercedes-benz-300-sl.json",
+        "data/releases/2021/gtx65-mercedes-benz-300-sl.json",
+        "data/releases/2022/hck07-mercedes-benz-300-sl.json",
+        "data/releases/2023/hkh02-mercedes-benz-300-sl.json",
+        "data/releases/2023/hkl09-mercedes-benz-300-sl.json",
+        "data/releases/2024/hvw70-hvw31-mercedes-benz-300-sl.json",
+        "data/releases/2024/hrv00-mercedes-benz-300-sl.json",
+        "data/releases/2024/hrv48-mercedes-benz-300-sl.json",
+        "data/releases/2025/jhf01-mercedes-benz-300-sl.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mercedes"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "m6926-71-plymouth-gtx-2008",
+    "toy_number": "M6926",
+    "casting_id": "71-plymouth-gtx",
+    "year": 2008,
+    "series_id": "all-stars",
+    "series_index": 20,
+    "specs": {
+        "color": "Metalflake Dark Green",
+        "tampo": "Yellow side & over roof stripe, painted side lights, gold \"GTX\", HW logo on back window",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold rimmed OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): A26, A28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/71_Plymouth_GTX_AGENTAIR_3.jpg/revision/latest/scale-to-width-down/75?cb=20081009045502"
+    }
+}

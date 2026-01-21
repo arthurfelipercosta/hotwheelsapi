@@ -1,0 +1,23 @@
+{
+    "casting_id": "rennen-rig",
+    "name": "Rennen Rig",
+    "description": {
+        "en-us": "Rennen Rig Debut series 2011 New Models Produced 2011 - Present Designer Ryu Asada Number T9689",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9689-rennen-rig-v2.json",
+        "data/releases/2011/t9971-rennen-rig-v2.json",
+        "data/releases/2013/x1740-rennen-rig-v2.json",
+        "data/releases/2013/x1929-rennen-rig-v2.json",
+        "data/releases/2014/bfd49-rennen-rig-v2.json",
+        "data/releases/2017/dwc11-rennen-rig-v2.json",
+        "data/releases/2021/gyp15-rennen-rig-v2.json",
+        "data/releases/2022/hcw42-rennen-rig-v2.json",
+        "data/releases/2022/hcx55-rennen-rig-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

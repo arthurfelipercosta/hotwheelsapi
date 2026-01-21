@@ -1,0 +1,25 @@
+{
+    "release_id": "r8477-ferrari-599xx-2010",
+    "toy_number": "R8477",
+    "casting_id": "ferrari-599xx",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Red and Black",
+        "tampo": "Ferrari emblems, and trim details, \"3\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Chrome rim",
+            "1": "Black CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/Ferrari_599XX_06.jpg/revision/latest/scale-to-width-down/75?cb=20150603053658"
+    }
+}

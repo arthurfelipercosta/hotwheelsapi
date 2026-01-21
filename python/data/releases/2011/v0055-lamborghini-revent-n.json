@@ -1,0 +1,24 @@
+{
+    "release_id": "v0055-lamborghini-revent-n-2011",
+    "toy_number": "V0055",
+    "casting_id": "lamborghini-revent-n",
+    "year": 2011,
+    "series_id": "nightburnerz",
+    "series_index": 8,
+    "specs": {
+        "color": "Black",
+        "tampo": "Lamborghini emblem, Detailed headlights & back lights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D28, D34, D36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/04/2011NightBurnerzLamboReventon.jpg/revision/latest/scale-to-width-down/75?cb=20110929023950"
+    }
+}

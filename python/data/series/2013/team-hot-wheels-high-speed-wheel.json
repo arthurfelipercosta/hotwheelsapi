@@ -2,9 +2,12 @@
     "series_id": "team-hot-wheels-high-speed-wheel",
     "year": 2013,
     "name": "Team Hot Wheels High-Speed Wheel",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
+        "data/releases/2013/bbf64-team-hot-wheels-corkscrew-buggy.json",
+        "data/releases/2013/bbf68-custom-71-el-camino.json",
+        "data/releases/2013/bbf70-ferrari-458-italia.json",
         "data/releases/2013/bbf71-escort-rally.json"
     ]
 }

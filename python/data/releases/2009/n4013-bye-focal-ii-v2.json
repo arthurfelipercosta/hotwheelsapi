@@ -1,0 +1,24 @@
+{
+    "release_id": "n4013-bye-focal-ii-2009",
+    "toy_number": "N4013",
+    "casting_id": "bye-focal-ii",
+    "year": 2009,
+    "series_id": "2009-new-models",
+    "series_index": 10,
+    "specs": {
+        "color": "Metalflake Pink",
+        "tampo": "Black and White \"Bye Focal II\" tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue Tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/ByeFocal_II_PINK.jpg/revision/latest/scale-to-width-down/75?cb=20100521001036"
+    }
+}

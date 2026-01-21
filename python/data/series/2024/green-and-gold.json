@@ -2,13 +2,19 @@
     "series_id": "green-and-gold",
     "year": 2024,
     "name": "Green and Gold",
-    "total_releases": 5,
+    "total_releases": 11,
     "max_index": 6,
     "releases": [
         "data/releases/2024/hvw98-65-mercury-comet-cyclone.json",
+        "data/releases/2024/hvw99-custom-70-honda-n600.json",
+        "data/releases/2024/hvx00-toon-d-83-chevy-silverado.json",
+        "data/releases/2024/hvx01-toyota-land-cruiser.json",
         "data/releases/2024/hvx02-21-ford-bronco.json",
         "data/releases/2024/hvx03-raijin-express.json",
         "data/releases/2024/hvx04-87-ford-sierra-cosworth.json",
-        "data/releases/2024/hvx06-20-toyota-gr-supra.json"
+        "data/releases/2024/hvx06-20-toyota-gr-supra.json",
+        "data/releases/2024/hvx07-tooned-volkswagen-golf-mk1.json",
+        "data/releases/2024/hvx08-tooned-twin-mill.json",
+        "data/releases/2024/hvx09-custom-77-dodge-van.json"
     ]
 }

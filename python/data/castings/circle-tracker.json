@@ -1,0 +1,33 @@
+{
+    "casting_id": "circle-tracker",
+    "name": "Circle Tracker",
+    "description": {
+        "en-us": "Circle Tracker Debut series 2009 New Models Produced 2009 – Present Designer Jun Imai Number N4005",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4005-circle-tracker-v3.json",
+        "data/releases/2009/n4005-circle-tracker-v4.json",
+        "data/releases/2010/r7575-circle-tracker-v2.json",
+        "data/releases/2011/t9773-circle-tracker-v2.json",
+        "data/releases/2011/v0107-circle-tracker-v3.json",
+        "data/releases/2011/v0107-circle-tracker-v4.json",
+        "data/releases/2011/w3405-circle-tracker-v2.json",
+        "data/releases/2012/k5904-circle-tracker-v2.json",
+        "data/releases/2013/x1754-circle-tracker-v2.json",
+        "data/releases/2014/bfd20-circle-tracker-v2.json",
+        "data/releases/2014/bfg46-circle-tracker-v2.json",
+        "data/releases/2015/cdt20-circle-tracker-v2.json",
+        "data/releases/2015/cwt63-circle-tracker-v2.json",
+        "data/releases/2017/dwf06-circle-tracker-v2.json",
+        "data/releases/2020/ghc52-circle-tracker-v2.json",
+        "data/releases/2020/ghg12-circle-tracker-v2.json",
+        "data/releases/2021/grp64-circle-tracker-v2.json",
+        "data/releases/2022/hdg76-circle-tracker-v2.json",
+        "data/releases/2022/hph63-circle-tracker-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

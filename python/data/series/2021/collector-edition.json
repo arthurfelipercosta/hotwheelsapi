@@ -2,9 +2,11 @@
     "series_id": "collector-edition",
     "year": 2021,
     "name": "Collector Edition",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2021/gtd72-17-ford-f-150-raptor.json"
+        "data/releases/2021/gtd71-71-porsche-911.json",
+        "data/releases/2021/gtd72-17-ford-f-150-raptor.json",
+        "data/releases/2021/gtd74-65-ford-galaxie.json"
     ]
 }

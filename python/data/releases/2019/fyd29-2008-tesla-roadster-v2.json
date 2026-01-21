@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd29-2008-tesla-roadster-2019",
+    "toy_number": "FYD29",
+    "casting_id": "2008-tesla-roadster",
+    "year": 2019,
+    "series_id": "hw-space",
+    "series_index": 2,
+    "specs": {
+        "color": "Metallic Red",
+        "tampo": "Tesla logo on hood, \"Tesla Roadster Sport\" & trim detail on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Black RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L44, L45, L46, L47, L48, L49, L50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/08-tesla-roadster-starman-19-hw-space-topr-1200pxotd.png/revision/latest/scale-to-width-down/75?cb=20190115214312"
+    }
+}

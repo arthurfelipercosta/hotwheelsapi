@@ -1,0 +1,29 @@
+{
+    "casting_id": "87-dodge-d100",
+    "name": "'87 Dodge D100",
+    "description": {
+        "en-us": "'87 Dodge D100 Debut series HW Hot Trucks Produced 2018 - present Designer Brendon Vetuskey Number FJV65",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv65-87-dodge-d100-v2.json",
+        "data/releases/2019/fyb93-87-dodge-d100-v2.json",
+        "data/releases/2019/fyf47-87-dodge-d100-v2.json",
+        "data/releases/2019/fyg68-87-dodge-d100-v2.json",
+        "data/releases/2020/ghc88-87-dodge-d100-v2.json",
+        "data/releases/2020/ghg32-87-dodge-d100-v2.json",
+        "data/releases/2021/gry18-87-dodge-d100-v2.json",
+        "data/releases/2021/gtc30-87-dodge-d100-v2.json",
+        "data/releases/2022/hcx99-87-dodge-d100-v2.json",
+        "data/releases/2023/hkg73-87-dodge-d100-v2.json",
+        "data/releases/2024/htb89-87-dodge-d100-v2.json",
+        "data/releases/2024/htf62-87-dodge-d100-v2.json",
+        "data/releases/2024/htd17-87-dodge-d100-v2.json",
+        "data/releases/2025/jbj82-jcp88-87-dodge-d100-v2.json",
+        "data/releases/2026/jkx84-87-dodge-d100-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Dodge"
+}

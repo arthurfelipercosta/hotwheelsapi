@@ -1,0 +1,14 @@
+{
+    "series_id": "hot-wheels-let-s-race-5-pack",
+    "year": 2024,
+    "name": "Hot Wheels Let's Race 5-Pack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2024/htv42-hxm17-2-tuff.json",
+        "data/releases/2024/htv42-hxm17-rip-rod.json",
+        "data/releases/2024/htv42-hxm17-rocketfire.json",
+        "data/releases/2024/htv42-hxm17-skull-crusher.json",
+        "data/releases/2024/htv42-hxm17-twin-mill.json"
+    ]
+}

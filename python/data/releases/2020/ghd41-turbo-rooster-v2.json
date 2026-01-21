@@ -1,0 +1,25 @@
+{
+    "release_id": "ghd41-turbo-rooster-2020",
+    "toy_number": "GHD41",
+    "casting_id": "turbo-rooster",
+    "year": 2020,
+    "series_id": "street-beasts",
+    "series_index": 8,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red, Light & Dark Grey stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "None",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red Tire",
+            "1": "Black RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated Tooling Base code(s): N21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/HW_TURBO_ROOSTER_Street_beasts_BLACK.jpg/revision/latest/scale-to-width-down/75?cb=20200824134758"
+    }
+}

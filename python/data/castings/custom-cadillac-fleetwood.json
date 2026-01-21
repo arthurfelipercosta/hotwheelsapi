@@ -6,17 +6,17 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2013/x1635-custom-cadillac-fleetwood.json",
-        "data/releases/2013/x1988-custom-cadillac-fleetwood.json",
-        "data/releases/2014/bdk94-custom-cadillac-fleetwood.json",
-        "data/releases/2020/ghd30-custom-cadillac-fleetwood.json",
-        "data/releases/2020/ghf42-custom-cadillac-fleetwood.json",
-        "data/releases/2021/grr42-custom-cadillac-fleetwood.json",
-        "data/releases/2025/hyw77-custom-cadillac-fleetwood.json",
-        "data/releases/2025/hyy39-custom-cadillac-fleetwood.json"
+        "data/releases/2013/x1635-custom-cadillac-fleetwood-v2.json",
+        "data/releases/2013/x1988-custom-cadillac-fleetwood-v2.json",
+        "data/releases/2014/bdk94-custom-cadillac-fleetwood-v2.json",
+        "data/releases/2020/ghd30-custom-cadillac-fleetwood-v2.json",
+        "data/releases/2020/ghf42-custom-cadillac-fleetwood-v2.json",
+        "data/releases/2021/grr42-custom-cadillac-fleetwood-v2.json",
+        "data/releases/2025/hyw77-custom-cadillac-fleetwood-v2.json",
+        "data/releases/2025/hyy39-custom-cadillac-fleetwood-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",
     "debut_year": 2013,
-    "manufacturer": "Mattel"
+    "manufacturer": "Cadillac"
 }

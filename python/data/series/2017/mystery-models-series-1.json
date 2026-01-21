@@ -1,0 +1,11 @@
+{
+    "series_id": "mystery-models-series-1",
+    "year": 2017,
+    "name": "Mystery Models (Series 1)",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2017/dvy75-muscle-tone.json",
+        "data/releases/2017/dvy76-high-voltage.json"
+    ]
+}

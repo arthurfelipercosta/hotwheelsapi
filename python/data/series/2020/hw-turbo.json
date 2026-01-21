@@ -2,12 +2,19 @@
     "series_id": "hw-turbo",
     "year": 2020,
     "name": "HW Turbo",
-    "total_releases": 4,
+    "total_releases": 11,
     "max_index": 3,
     "releases": [
+        "data/releases/2020/ghb42-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2020/ghd00-audi-rs-5-coup.json",
         "data/releases/2020/ghd01-range-rover-velar.json",
+        "data/releases/2020/ghd02-95-mazda-rx-7.json",
         "data/releases/2020/ghd03-nissan-skyline-gt-r-bnr32.json",
+        "data/releases/2020/ghf06-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2020/ghf39-audi-rs-5-coup.json",
         "data/releases/2020/ghf40-range-rover-velar.json",
-        "data/releases/2020/ghg23-nissan-skyline-gt-r-bnr32.json"
+        "data/releases/2020/ghf76-95-mazda-rx-7.json",
+        "data/releases/2020/ghg23-nissan-skyline-gt-r-bnr32.json",
+        "data/releases/2020/ghg40-98-subaru-impreza-22b-sti-version.json"
     ]
 }

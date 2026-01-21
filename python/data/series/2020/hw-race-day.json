@@ -2,13 +2,28 @@
     "series_id": "hw-race-day",
     "year": 2020,
     "name": "HW Race Day",
-    "total_releases": 5,
-    "max_index": 10,
+    "total_releases": 20,
+    "max_index": 5,
     "releases": [
+        "data/releases/2020/ghb49-formula-e-gen-2-car.json",
+        "data/releases/2020/ghb52-volvo-850-estate.json",
+        "data/releases/2020/ghc49-alpine-a110.json",
+        "data/releases/2020/ghc50-76-greenwood-corvette.json",
         "data/releases/2020/ghc51-85-honda-city-turbo-ii.json",
         "data/releases/2020/ghc51-85-honda-city-turbo-ii.json",
+        "data/releases/2020/ghc52-circle-tracker.json",
+        "data/releases/2020/ghc54-dodge-viper-srt10-acr.json",
+        "data/releases/2020/ghc55-ford-gt-40.json",
+        "data/releases/2020/ghc56-street-stealth.json",
         "data/releases/2020/ghc67-night-shifter.json",
+        "data/releases/2020/ghd95-formula-e-gen-2-car.json",
+        "data/releases/2020/ghd96-volvo-850-estate.json",
         "data/releases/2020/ghf22-85-honda-city-turbo-ii.json",
-        "data/releases/2020/ghg37-85-honda-city-turbo-ii.json"
+        "data/releases/2020/ghf23-alpine-a110.json",
+        "data/releases/2020/ghg11-76-greenwood-corvette.json",
+        "data/releases/2020/ghg12-circle-tracker.json",
+        "data/releases/2020/ghg20-ford-gt-40.json",
+        "data/releases/2020/ghg37-85-honda-city-turbo-ii.json",
+        "data/releases/2020/ghg61-76-greenwood-corvette.json"
     ]
 }

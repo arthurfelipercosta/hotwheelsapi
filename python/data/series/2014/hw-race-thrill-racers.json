@@ -2,12 +2,24 @@
     "series_id": "hw-race-thrill-racers",
     "year": 2014,
     "name": "HW Race: Thrill Racers",
-    "total_releases": 4,
+    "total_releases": 16,
     "max_index": 0,
     "releases": [
         "data/releases/2014/bdd04-rrroadster.json",
+        "data/releases/2014/bdd05-mastretta-mxr.json",
+        "data/releases/2014/bfd25-horseplay.json",
         "data/releases/2014/bfd26-madfast.json",
+        "data/releases/2014/bfd27-formul8r.json",
+        "data/releases/2014/bfd28-dieselboy.json",
+        "data/releases/2014/bfd29-circle-trucker.json",
+        "data/releases/2014/bfd30-hw40.json",
+        "data/releases/2014/bfd31-whip-creamer-ii.json",
+        "data/releases/2014/bfd32-nitro-doorslammer.json",
         "data/releases/2014/bff50-madfast.json",
-        "data/releases/2014/bfg53-rrroadster.json"
+        "data/releases/2014/bff51-whip-creamer-ii.json",
+        "data/releases/2014/bfg51-formul8r.json",
+        "data/releases/2014/bfg53-rrroadster.json",
+        "data/releases/2014/bfg56-nitro-doorslammer.json",
+        "data/releases/2014/bfg57-mastretta-mxr.json"
     ]
 }

@@ -1,0 +1,11 @@
+{
+    "series_id": "x-ray-cruiser",
+    "year": 1999,
+    "name": "X-Ray Cruiser",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/1999/21106-67-camaro.json",
+        "data/releases/1999/21107-jaguar-xj220.json"
+    ]
+}

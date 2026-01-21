@@ -1,0 +1,25 @@
+{
+    "release_id": "htc55-brick-and-motor-2024",
+    "toy_number": "HTC55",
+    "casting_id": "brick-and-motor",
+    "year": 2024,
+    "series_id": "experimotors",
+    "series_index": 1,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "Red lines, White \"8\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "BLOR",
+            "1": "SK5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/BrickAndMotor2024.jpg/revision/latest/scale-to-width-down/75?cb=20240208174403"
+    }
+}

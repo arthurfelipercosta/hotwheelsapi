@@ -1,0 +1,24 @@
+{
+    "release_id": "n8105-ferrari-599-gtb-fiorano-2009",
+    "toy_number": "N8105",
+    "casting_id": "ferrari-599-gtb-fiorano",
+    "year": 2009,
+    "series_id": "ferrari-racer",
+    "series_index": 19,
+    "specs": {
+        "color": "Dark Red",
+        "tampo": "White Stripes and Ferrari emblems",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light tint",
+        "interior_color": "Dark Red",
+        "wheel_type": {
+            "0": "Grey CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named 599 GTB Fiorano",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Ferrari_599_GTB_Fiorano_05.JPG/revision/latest/scale-to-width-down/75?cb=20140526001140"
+    }
+}

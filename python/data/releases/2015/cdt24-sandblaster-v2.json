@@ -1,0 +1,29 @@
+{
+    "release_id": "cdt24-sandblaster-2015",
+    "toy_number": "CDT24",
+    "casting_id": "sandblaster",
+    "year": 2015,
+    "series_id": "desert-force-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Matte Orange",
+        "tampo": "Multi Colored Racing Graphics w/ #77",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Tan wheel",
+            "1": "Blue Chrome rim OR6SP",
+            "2": "Tan wheel",
+            "3": "Orange Chrome rim OR6SP",
+            "4": "Base code(s): H08",
+            "5": "H25"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Variant Rim Base code(s): G51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/Sandblaster-k.jpg/revision/latest/scale-to-width-down/75?cb=20170627044122"
+    }
+}

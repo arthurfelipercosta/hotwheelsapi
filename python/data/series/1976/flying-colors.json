@@ -1,0 +1,13 @@
+{
+    "series_id": "flying-colors",
+    "year": 1976,
+    "name": "Flying Colors",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1976/7650-rescue-ranger.json",
+        "data/releases/1976/8240-twin-mill.json",
+        "data/releases/1976/9183-super-van.json",
+        "data/releases/1976/9183-super-van.json"
+    ]
+}

@@ -2,9 +2,10 @@
     "series_id": "world-cup-5-pack",
     "year": 1994,
     "name": "World Cup 5-Pack",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/1994/12498-57-chevy.json",
         "data/releases/1994/12498-blazer-4-4.json"
     ]
 }

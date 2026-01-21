@@ -1,0 +1,12 @@
+{
+    "series_id": "corvette-60th-anniversary",
+    "year": 2013,
+    "name": "Corvette 60th Anniversary",
+    "total_releases": 3,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2013/bbc99-11-corvette-grand-sport.json",
+        "data/releases/2013/bbd00-55-corvette.json",
+        "data/releases/2013/bbd02-corvette-c6-convertible.json"
+    ]
+}

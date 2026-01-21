@@ -1,0 +1,20 @@
+{
+    "casting_id": "volvo-p1800-gasser",
+    "name": "Volvo P1800 Gasser",
+    "description": {
+        "en-us": "Volvo P1800 Gasser Debut series HW Dream Garage Produced 2023 – Present Designer Lee Johnstone and Manson Cheung Number HKG27",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg27-volvo-p1800-gasser.json",
+        "data/releases/2023/hkj94-volvo-p1800-gasser.json",
+        "data/releases/2024/htb92-volvo-p1800-gasser.json",
+        "data/releases/2024/htf37-volvo-p1800-gasser.json",
+        "data/releases/2025/jby78-volvo-p1800-gasser.json",
+        "data/releases/2025/h7045-volvo-p1800-gasser.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Volvo"
+}

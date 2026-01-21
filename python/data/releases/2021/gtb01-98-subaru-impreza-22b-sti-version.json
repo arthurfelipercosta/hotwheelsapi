@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb01-98-subaru-impreza-22b-sti-version-2021",
+    "toy_number": "GTB01",
+    "casting_id": "98-subaru-impreza-22b-sti-version",
+    "year": 2021,
+    "series_id": "hw-j-imports",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Detailed headlights & taillights, White STI on front bumpers & Dark Blue HW logo on white rear license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N45, N46, N48, N49, N50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/22b.png/revision/latest/scale-to-width-down/75?cb=20210129163417"
+    }
+}

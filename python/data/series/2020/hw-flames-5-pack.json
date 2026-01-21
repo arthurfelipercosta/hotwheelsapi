@@ -2,10 +2,12 @@
     "series_id": "hw-flames-5-pack",
     "year": 2020,
     "name": "HW Flames 5-Pack",
-    "total_releases": 2,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
+        "data/releases/2020/ghp60-70-plymouth-roadrunner.json",
         "data/releases/2020/ghp60-70-plymouth-superbird.json",
+        "data/releases/2020/ghp60-71-el-camino.json",
         "data/releases/2020/ghp60-pass-n-gasser.json"
     ]
 }

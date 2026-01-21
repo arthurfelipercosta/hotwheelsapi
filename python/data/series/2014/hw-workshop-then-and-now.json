@@ -1,0 +1,30 @@
+{
+    "series_id": "hw-workshop-then-and-now",
+    "year": 2014,
+    "name": "HW Workshop: Then and Now",
+    "total_releases": 21,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bdc72-13-copo-camaro.json",
+        "data/releases/2014/bdd19-14-corvette-stingray-convertible.json",
+        "data/releases/2014/bff00-twin-mill.json",
+        "data/releases/2014/bff01-toyota-ae-86-corolla.json",
+        "data/releases/2014/bff02-64-corvette-sting-ray.json",
+        "data/releases/2014/bff03-68-copo-camaro.json",
+        "data/releases/2014/bff04-nissan-skyline-h-t-2000gt-x.json",
+        "data/releases/2014/bff05-twin-mill-iii.json",
+        "data/releases/2014/bff06-scion-fr-s.json",
+        "data/releases/2014/bff06-scion-fr-s.json",
+        "data/releases/2014/bff07-nissan-skyline-gt-r-bnr34.json",
+        "data/releases/2014/bff35-twin-mill.json",
+        "data/releases/2014/bfg66-68-copo-camaro.json",
+        "data/releases/2014/bfg68-13-copo-camaro.json",
+        "data/releases/2014/bfg78-13-copo-camaro.json",
+        "data/releases/2014/bfg82-toyota-ae-86-corolla.json",
+        "data/releases/2014/bfg85-scion-fr-s.json",
+        "data/releases/2014/bfg91-nissan-skyline-h-t-2000gt-x.json",
+        "data/releases/2014/bfv54-twin-mill.json",
+        "data/releases/2014/bfv55-nissan-skyline-gt-r-bnr34.json",
+        "data/releases/2014/cfk00-64-corvette-sting-ray.json"
+    ]
+}

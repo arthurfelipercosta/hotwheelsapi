@@ -1,0 +1,15 @@
+{
+    "series_id": "lamborghini",
+    "year": 2017,
+    "name": "Lamborghini",
+    "total_releases": 6,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2017/dwf23-lamborghini-revent-n-roadster.json",
+        "data/releases/2017/dwf25-lamborghini-revent-n.json",
+        "data/releases/2017/dwf26-lamborghini-aventador-lp-700-4.json",
+        "data/releases/2017/dwf27-lamborghini-estoque.json",
+        "data/releases/2017/dwf28-lamborghini-sesto-elemento.json",
+        "data/releases/2017/dwf29-lamborghini-urus.json"
+    ]
+}

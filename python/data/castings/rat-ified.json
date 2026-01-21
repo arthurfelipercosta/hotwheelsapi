@@ -1,0 +1,22 @@
+{
+    "casting_id": "rat-ified",
+    "name": "Rat-ified",
+    "description": {
+        "en-us": "Rat-ified Debut series AcceleRacers: Metal Maniacs Produced 2005 - 2014 Designer Greg Padginton Number G8101",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8101-rat-ified.json",
+        "data/releases/2006/j3558-rat-ified.json",
+        "data/releases/2006/k3292-rat-ified.json",
+        "data/releases/2008/m6897-rat-ified.json",
+        "data/releases/2013/x1774-rat-ified.json",
+        "data/releases/2013/x1950-rat-ified.json",
+        "data/releases/2014/bdw23-rat-ified.json",
+        "data/releases/2014/cbp23-rat-ified.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

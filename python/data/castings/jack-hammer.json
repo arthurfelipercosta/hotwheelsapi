@@ -1,0 +1,29 @@
+{
+    "casting_id": "jack-hammer",
+    "name": "Jack Hammer",
+    "description": {
+        "en-us": "Jack Hammer Debut series AcceleRacers: Metal Maniacs Produced 2005 - Present Designer Larry Wood Number G8105\\n\\nJack Hammer is an original design by Larry Wood that first debuted under the Metal Maniacs subset of the AcceleRacers series in 2005 . It depicts a \"1950s Buick\" with blown engine features, 500 HP, a stroked big block V8 to A 502ci motor with fuel-injected RAM air, four link solid rear axle, 18\" front and 22\" back wheels.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8105-jack-hammer.json",
+        "data/releases/2006/k3286-jack-hammer.json",
+        "data/releases/2006/j3558-jack-hammer.json",
+        "data/releases/2008/n1108-jack-hammer.json",
+        "data/releases/2009/n4722-jack-hammer.json",
+        "data/releases/2010/r0971-jack-hammer.json",
+        "data/releases/2012/w4255-jack-hammer.json",
+        "data/releases/2013/g8105-jack-hammer.json",
+        "data/releases/2014/bfb40-jack-hammer.json",
+        "data/releases/2014/bdw40-jack-hammer.json",
+        "data/releases/2016/djd25-jack-hammer.json",
+        "data/releases/2018/fkv10-jack-hammer.json",
+        "data/releases/2020/gjv25-jack-hammer.json",
+        "data/releases/2023/hkh71-jack-hammer.json",
+        "data/releases/2024/hrw34-jack-hammer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

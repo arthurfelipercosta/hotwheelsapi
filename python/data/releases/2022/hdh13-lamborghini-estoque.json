@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh13-lamborghini-estoque-2022",
+    "toy_number": "HDH13",
+    "casting_id": "lamborghini-estoque",
+    "year": 2022,
+    "series_id": "luxury-sedans",
+    "series_index": 2,
+    "specs": {
+        "color": "Blu Nethuns",
+        "tampo": "Detailed headlights and taillights, small Italian flag on side of front fenders, Silver stripes on hood, roof, and trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Dark Grey",
+        "wheel_type": {
+            "0": "CBJ5 Chrome & Black"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P51, P52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/Lamborghini_Estoque_2022.jpg/revision/latest/scale-to-width-down/75?cb=20220603152507"
+    }
+}

@@ -2,10 +2,13 @@
     "series_id": "stars-stripes",
     "year": 2016,
     "name": "Stars & Stripes",
-    "total_releases": 3,
+    "total_releases": 6,
     "max_index": 10,
     "releases": [
+        "data/releases/2016/dlv20-custom-77-dodge-van.json",
         "data/releases/2016/dlv23-8-crate.json",
+        "data/releases/2016/dlv25-hiway-hauler-2.json",
+        "data/releases/2016/dlv26-fire-eater.json",
         "data/releases/2016/dlv27-67-chevy-c10.json",
         "data/releases/2016/dlv30-rodger-dodger.json"
     ]

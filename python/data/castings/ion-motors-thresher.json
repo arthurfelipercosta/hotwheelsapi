@@ -1,0 +1,19 @@
+{
+    "casting_id": "ion-motors-thresher",
+    "name": "Ion Motors Thresher",
+    "description": {
+        "en-us": "Ion Motors Thresher Debut series Fast & Furious Spy Racers Produced 2020 – 2021 Designer Dmitriy Shakhmatov Number GHB46",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/gnn30-ion-motors-thresher.json",
+        "data/releases/2020/gnn36-ion-motors-thresher.json",
+        "data/releases/2021/gnn36-ion-motors-thresher.json",
+        "data/releases/2020/ghb46-ion-motors-thresher.json",
+        "data/releases/2021/gry64-ion-motors-thresher.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

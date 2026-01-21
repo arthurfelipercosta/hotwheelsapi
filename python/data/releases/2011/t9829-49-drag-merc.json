@@ -1,0 +1,24 @@
+{
+    "release_id": "t9829-49-drag-merc-2011",
+    "toy_number": "T9829",
+    "casting_id": "49-drag-merc",
+    "year": 2011,
+    "series_id": "hw-drag-racers",
+    "series_index": 2,
+    "specs": {
+        "color": "Metallic Orange",
+        "tampo": "Orange & Yellow flames outlined in Purple, \"Phil's Burner\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D09, D10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/49DragMerc_HWDrag_orange.JPG/revision/latest/scale-to-width-down/75?cb=20110319104947"
+    }
+}

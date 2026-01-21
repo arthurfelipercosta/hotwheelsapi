@@ -2,10 +2,17 @@
     "series_id": "hw-turbo",
     "year": 2021,
     "name": "HW Turbo",
-    "total_releases": 3,
+    "total_releases": 10,
     "max_index": 3,
     "releases": [
+        "data/releases/2021/gry55-nissan-300zx-twin-turbo.json",
+        "data/releases/2021/gry56-89-porsche-944-turbo.json",
         "data/releases/2021/gry57-91-gmc-syclone.json",
+        "data/releases/2021/gry58-2019-kia-stinger-gt.json",
+        "data/releases/2021/gry59-17-acura-nsx.json",
+        "data/releases/2021/gtc00-2019-kia-stinger-gt.json",
+        "data/releases/2021/gtc38-89-porsche-944-turbo.json",
+        "data/releases/2021/gtc58-17-acura-nsx.json",
         "data/releases/2021/gtd19-91-gmc-syclone.json",
         "data/releases/2021/gtd47-91-gmc-syclone.json"
     ]

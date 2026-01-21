@@ -1,0 +1,30 @@
+{
+    "casting_id": "17-nissan-gt-r-r35",
+    "name": "'17 Nissan GT-R (R35)",
+    "description": {
+        "en-us": "'17 Nissan GT-R (R35) Debut series Nightburnerz Produced 2017 - Present Designer Ryu Asada Number DTW99",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtw99-17-nissan-gt-r-r35-v5.json",
+        "data/releases/2017/dtw99-17-nissan-gt-r-r35-v6.json",
+        "data/releases/2017/dvc50-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2018/aa020-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2019/fyd40-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2019/fxb13-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2019/fyx47-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2020/ghc83-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2020/ghg22-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2020/gmk79-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2021/gtb34-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2021/gtd41-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2021/gtc70-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2023/hlh75-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2024/hrv64-17-nissan-gt-r-r35-v3.json",
+        "data/releases/2025/jbl05-17-nissan-gt-r-r35-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Nissan"
+}

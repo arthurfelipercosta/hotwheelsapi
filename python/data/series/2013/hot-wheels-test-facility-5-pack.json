@@ -2,9 +2,14 @@
     "series_id": "hot-wheels-test-facility-5-pack",
     "year": 2013,
     "name": "Hot Wheels Test Facility 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
-        "data/releases/2013/y5134-bone-shaker.json"
+        "data/releases/2013/x9854-ground-fx.json",
+        "data/releases/2013/x9854-hw40.json",
+        "data/releases/2013/x9854-toyota-baja-truck.json",
+        "data/releases/2013/y5134-back-slider.json",
+        "data/releases/2013/y5134-bone-shaker.json",
+        "data/releases/2013/y5134-hw450f.json"
     ]
 }

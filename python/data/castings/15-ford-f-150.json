@@ -1,0 +1,27 @@
+{
+    "casting_id": "15-ford-f-150",
+    "name": "'15 Ford F-150",
+    "description": {
+        "en-us": "'15 Ford F-150 Debut series HW Off-Road: HW Hot Trucks Produced 2015 - Present Designer Ron Way Number CFH24",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh24-15-ford-f-150.json",
+        "data/releases/2015/cfj65-15-ford-f-150.json",
+        "data/releases/2016/dhr47-15-ford-f-150.json",
+        "data/releases/2016/dhx43-15-ford-f-150.json",
+        "data/releases/2017/dty05-15-ford-f-150.json",
+        "data/releases/2017/dty05-15-ford-f-150-v2.json",
+        "data/releases/2017/dvb90-15-ford-f-150.json",
+        "data/releases/2018/fjw46-15-ford-f-150.json",
+        "data/releases/2018/fjy38-15-ford-f-150.json",
+        "data/releases/2019/gbc14-15-ford-f-150.json",
+        "data/releases/2021/gtn42-15-ford-f-150.json",
+        "data/releases/2022/hfv84-15-ford-f-150.json",
+        "data/releases/2023/hly74-15-ford-f-150.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Ford"
+}

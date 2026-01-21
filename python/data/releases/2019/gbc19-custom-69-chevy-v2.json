@@ -1,0 +1,24 @@
+{
+    "release_id": "gbc19-custom-69-chevy-2019",
+    "toy_number": "GBC19",
+    "casting_id": "custom-69-chevy",
+    "year": 2019,
+    "series_id": "american-pickup",
+    "series_index": 9,
+    "specs": {
+        "color": "Metallic Purple",
+        "tampo": "White Stripe on side & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): L43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/62_Chevy_Pickup_Purple_19.jpg/revision/latest/scale-to-width-down/75?cb=20190126044236"
+    }
+}

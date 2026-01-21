@@ -1,0 +1,24 @@
+{
+    "release_id": "gtb16-mod-rod-2021",
+    "toy_number": "GTB16",
+    "casting_id": "mod-rod",
+    "year": 2021,
+    "series_id": "hw-flames",
+    "series_index": 1,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Orange stripes on sides, Orange flames on sides hood and roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Yellow rim DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P08, P13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/MOD_ROD_GTB16.jpg/revision/latest/scale-to-width-down/75?cb=20210610015928"
+    }
+}

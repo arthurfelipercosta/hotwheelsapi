@@ -1,0 +1,20 @@
+{
+    "casting_id": "tricera-truck",
+    "name": "Tricera-Truck",
+    "description": {
+        "en-us": "Tricera-Truck Debut series Dino Riders Produced 2019 - Present Designer Dmitriy Shakhmatov Number FYB32",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb32-tricera-truck-v2.json",
+        "data/releases/2019/fyf44-tricera-truck-v2.json",
+        "data/releases/2020/ghd80-tricera-truck-v2.json",
+        "data/releases/2021/gry62-tricera-truck-v2.json",
+        "data/releases/2021/gtc40-tricera-truck-v2.json",
+        "data/releases/2023/hly77-tricera-truck-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

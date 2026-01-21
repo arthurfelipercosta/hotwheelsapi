@@ -2,10 +2,16 @@
     "series_id": "hw-city-future-fleet",
     "year": 2014,
     "name": "HW City: Future Fleet",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 0,
     "releases": [
+        "data/releases/2014/bdc84-clear-speeder.json",
         "data/releases/2014/bdc85-wattzup.json",
+        "data/releases/2014/bfc70-retro-active.json",
+        "data/releases/2014/bfc71-turbo-turret.json",
+        "data/releases/2014/bfc72-prototype-h-24.json",
+        "data/releases/2014/bff43-prototype-h-24.json",
+        "data/releases/2014/bfg08-turbo-turret.json",
         "data/releases/2014/bfg10-wattzup.json"
     ]
 }

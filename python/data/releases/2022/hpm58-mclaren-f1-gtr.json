@@ -1,0 +1,24 @@
+{
+    "release_id": "hpm58-mclaren-f1-gtr-2022",
+    "toy_number": "HPM58",
+    "casting_id": "mclaren-f1-gtr",
+    "year": 2022,
+    "series_id": "nft-garage-series-4-01",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame steel blue",
+        "tampo": "Detailed headlights and taillights, Yellow, White, and red stripes on sides & top, Red & white NFTH logo in doors, Yellow Hot Wheels logo on sides, White GTR logo on sides, and Gray HWNFTG logo on top of rear engine windows",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BYRR5SPM"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S04, S07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/McLaren_F1_GTR_NFTH_test_car.jpg/revision/latest/scale-to-width-down/75?cb=20230219225511"
+    }
+}

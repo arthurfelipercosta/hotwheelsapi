@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-space",
+    "year": 2019,
+    "name": "HW Space",
+    "total_releases": 8,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2019/fyb76-i-believe.json",
+        "data/releases/2019/fyd29-2008-tesla-roadster.json",
+        "data/releases/2019/fyd31-dune-a-soar.json",
+        "data/releases/2019/fyd33-rocketfire.json",
+        "data/releases/2019/fyg01-cyber-speeder.json",
+        "data/releases/2019/fyg77-dune-a-soar.json",
+        "data/releases/2019/fyg79-i-believe.json",
+        "data/releases/2019/fyg80-rocketfire.json"
+    ]
+}

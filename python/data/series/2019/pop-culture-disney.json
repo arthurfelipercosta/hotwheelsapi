@@ -1,0 +1,11 @@
+{
+    "series_id": "pop-culture-disney",
+    "year": 2019,
+    "name": "Pop Culture: Disney",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2019/fyn90-super-van.json",
+        "data/releases/2019/fyn91-bread-box.json"
+    ]
+}

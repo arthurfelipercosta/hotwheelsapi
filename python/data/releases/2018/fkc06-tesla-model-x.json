@@ -1,0 +1,24 @@
+{
+    "release_id": "fkc06-tesla-model-x-2018",
+    "toy_number": "FKC06",
+    "casting_id": "tesla-model-x",
+    "year": 2018,
+    "series_id": "hw-metro",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Black",
+        "tampo": "Taillights and HW Logo on rear, TESLA energy on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L22, L23, L26, L27, L28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/TESLA_MODEL_X_FKC06.jpg/revision/latest/scale-to-width-down/75?cb=20180913165253"
+    }
+}

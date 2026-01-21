@@ -1,0 +1,27 @@
+{
+    "casting_id": "84-mustang-svo",
+    "name": "'84 Mustang SVO",
+    "description": {
+        "en-us": "'84 Mustang SVO Debut series The Hot Ones Produced 2012 - Present Designer Jun Imai Number W3777",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/w3777-84-mustang-svo.json",
+        "data/releases/2013/x8242-84-mustang-svo.json",
+        "data/releases/2014/bdr39-84-mustang-svo.json",
+        "data/releases/2015/cfn74-84-mustang-svo.json",
+        "data/releases/2017/fpw90-84-mustang-svo.json",
+        "data/releases/2019/fyh04-84-mustang-svo.json",
+        "data/releases/2022/hcw28-84-mustang-svo.json",
+        "data/releases/2022/hcy19-84-mustang-svo.json",
+        "data/releases/2023/hkg80-84-mustang-svo.json",
+        "data/releases/2023/hkj60-84-mustang-svo.json",
+        "data/releases/2024/htc66-84-mustang-svo.json",
+        "data/releases/2025/jby50-84-mustang-svo.json",
+        "data/releases/2026/jkf31-84-mustang-svo.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

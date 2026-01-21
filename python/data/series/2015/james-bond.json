@@ -1,0 +1,14 @@
+{
+    "series_id": "james-bond",
+    "year": 2015,
+    "name": "James Bond",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2015/cbg75-64-lincoln-continental.json",
+        "data/releases/2015/cgb73-71-mustang-mach-i.json",
+        "data/releases/2015/cgb74-lotus-esprit-s1.json",
+        "data/releases/2015/cgb78-aston-martin-dbs.json",
+        "data/releases/2015/cgb79-aston-martin-1963-db5.json"
+    ]
+}

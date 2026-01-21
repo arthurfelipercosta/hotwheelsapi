@@ -1,0 +1,43 @@
+{
+    "casting_id": "f1-racer",
+    "name": "F1 Racer",
+    "description": {
+        "en-us": "F1 Racer Debut series 2009 New Models Produced 2009 - Present Designer Fraser Campbell Number N4033",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4033-f1-racer.json",
+        "data/releases/2010/r7574-f1-racer.json",
+        "data/releases/2010/r7574-f1-racer-v2.json",
+        "data/releases/2010/r7574-f1-racer-v3.json",
+        "data/releases/2010/r7574-f1-racer-v4.json",
+        "data/releases/2010/r3214-f1-racer.json",
+        "data/releases/2011/t9758-f1-racer.json",
+        "data/releases/2013/x1760-f1-racer.json",
+        "data/releases/2013/x1942-f1-racer.json",
+        "data/releases/2014/bfd21-f1-racer.json",
+        "data/releases/2014/bfg48-f1-racer.json",
+        "data/releases/2015/x6999-f1-racer.json",
+        "data/releases/2016/dhp73-f1-racer.json",
+        "data/releases/2016/dhw65-f1-racer.json",
+        "data/releases/2017/x6999-f1-racer.json",
+        "data/releases/2018/fkx25-f1-racer.json",
+        "data/releases/2018/x6999-f1-racer.json",
+        "data/releases/2019/ggc36-f1-racer.json",
+        "data/releases/2019/fkw91-f1-racer.json",
+        "data/releases/2019/fkw92-f1-racer.json",
+        "data/releases/2020/x6999-f1-racer.json",
+        "data/releases/2020/gjl80-f1-racer.json",
+        "data/releases/2021/x6999-f1-racer.json",
+        "data/releases/2022/hfk81-f1-racer.json",
+        "data/releases/2022/x6999-f1-racer.json",
+        "data/releases/2023/x6999-f1-racer.json",
+        "data/releases/2024/hvw29-f1-racer.json",
+        "data/releases/2024/x6999-f1-racer.json",
+        "data/releases/2025/x6999-f1-racer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

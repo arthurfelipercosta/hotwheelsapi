@@ -1,0 +1,25 @@
+{
+    "release_id": "dvf97-chicane-2017",
+    "toy_number": "DVF97",
+    "casting_id": "chicane",
+    "year": 2017,
+    "series_id": "track-builder-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Flat Grey (Thailand) Gray (Indonesia)",
+        "tampo": "Green Windshield, Black, Orange, and blue design on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Green tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Thailand or Indonesia",
+    "notes": "Base code(s): K21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/2974532_200x130%286%29.png/revision/latest/scale-to-width-down/75?cb=20170924231419"
+    }
+}

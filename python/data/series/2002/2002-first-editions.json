@@ -1,0 +1,17 @@
+{
+    "series_id": "2002-first-editions",
+    "year": 2002,
+    "name": "2002 First Editions",
+    "total_releases": 8,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2002/52834-rocket-oil-special.json",
+        "data/releases/2002/52914-64-buick-riviera.json",
+        "data/releases/2002/52916-custom-69-chevy.json",
+        "data/releases/2002/52920-nissan-skyline-gt-r-r32.json",
+        "data/releases/2002/52926-pony-up.json",
+        "data/releases/2002/52936-40-somethin.json",
+        "data/releases/2002/52938-lancia-stratos.json",
+        "data/releases/2002/56430-sling-shot.json"
+    ]
+}

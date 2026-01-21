@@ -1,0 +1,29 @@
+{
+    "release_id": "r0933-ducati-1098r-2010",
+    "toy_number": "R0933",
+    "casting_id": "ducati-1098r",
+    "year": 2010,
+    "series_id": "2010-new-models",
+    "series_index": 17,
+    "specs": {
+        "color": "Red",
+        "tampo": "Ducati 1098R on side, Ducati on front",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MCPR5",
+            "1": "018",
+            "2": "214",
+            "3": "2010",
+            "4": "2010 HW Premiere 18",
+            "5": "52"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/Duc.jpg/revision/latest/scale-to-width-down/75?cb=20100815104701"
+    }
+}

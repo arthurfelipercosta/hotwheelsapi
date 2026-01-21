@@ -1,0 +1,23 @@
+{
+    "casting_id": "street-stealth",
+    "name": "Street Stealth",
+    "description": {
+        "en-us": "Street Stealth Debut series HW Off-Road: HW Moto Produced 2015 - 2020 Designer Kevin Cao Number CFH09",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh09-street-stealth-v2.json",
+        "data/releases/2015/cfl23-street-stealth-v2.json",
+        "data/releases/2016/dhx09-street-stealth-v2.json",
+        "data/releases/2016/dht09-street-stealth-v2.json",
+        "data/releases/2017/dty25-street-stealth-v2.json",
+        "data/releases/2017/dvc03-street-stealth-v2.json",
+        "data/releases/2018/fkb28-street-stealth-v2.json",
+        "data/releases/2018/fjx07-street-stealth-v2.json",
+        "data/releases/2020/ghc56-street-stealth-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

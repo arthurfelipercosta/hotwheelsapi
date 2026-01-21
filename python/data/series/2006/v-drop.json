@@ -1,0 +1,12 @@
+{
+    "series_id": "v-drop",
+    "year": 2006,
+    "name": "V-Drop",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2006/k5702-bully-goat.json",
+        "data/releases/2006/k5702-cockney-cab-ii.json",
+        "data/releases/2006/k5702-phastasm.json"
+    ]
+}

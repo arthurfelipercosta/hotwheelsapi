@@ -1,0 +1,24 @@
+{
+    "release_id": "r5439-72-ford-ranchero-2010",
+    "toy_number": "R5439",
+    "casting_id": "72-ford-ranchero",
+    "year": 2010,
+    "series_id": "slick-rides",
+    "series_index": 23,
+    "specs": {
+        "color": "Metallic Brown",
+        "tampo": "White & Orange stripes on sides, Satin White hood scoop & roof & \"Mr. Gasket\" logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "RR6SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): C25, C34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/72fordranchero_Brown.JPG/revision/latest/scale-to-width-down/75?cb=20100906083123"
+    }
+}

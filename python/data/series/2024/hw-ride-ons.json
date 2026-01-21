@@ -2,9 +2,16 @@
     "series_id": "hw-ride-ons",
     "year": 2024,
     "name": "HW Ride-Ons",
-    "total_releases": 1,
+    "total_releases": 8,
     "max_index": 4,
     "releases": [
+        "data/releases/2024/hry79-rink-racer.json",
+        "data/releases/2024/htc37-grass-chomper.json",
+        "data/releases/2024/htc38-boom-car.json",
+        "data/releases/2024/htc39-tanknator.json",
+        "data/releases/2024/htd42-tanknator.json",
+        "data/releases/2024/htd95-boom-car.json",
+        "data/releases/2024/htf11-rink-racer.json",
         "data/releases/2024/htf21-draggin-wagon.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "w2311-mclaren-f1-gtr-2010",
+    "toy_number": "W2311",
+    "casting_id": "mclaren-f1-gtr",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Red & Black",
+        "tampo": "Black \"F1\" on the sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Gold rim",
+            "1": "Black CM6"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/McLaren_F1_GTR_04.JPG/revision/latest/scale-to-width-down/75?cb=20140528165410"
+    }
+}

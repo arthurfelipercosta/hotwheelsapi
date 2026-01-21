@@ -1,0 +1,13 @@
+{
+    "series_id": "action-command",
+    "year": 1985,
+    "name": "Action Command",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1985/9373-enforcer.json",
+        "data/releases/1985/9373-enforcer.json",
+        "data/releases/1985/9375-jeep-cj-7.json",
+        "data/releases/1985/9375-jeep-cj-7.json"
+    ]
+}

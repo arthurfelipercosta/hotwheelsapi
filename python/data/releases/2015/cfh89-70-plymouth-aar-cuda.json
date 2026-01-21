@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh89-70-plymouth-aar-cuda-2015",
+    "toy_number": "CFH89",
+    "casting_id": "70-plymouth-aar-cuda",
+    "year": 2015,
+    "series_id": "hw-workshop-night-burnerz",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Magenta",
+        "tampo": "White and Black stripes on sides, Black stripes on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G37, G41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/%2770_Plymouth_AAR_Cuda-2015_199.jpg/revision/latest/scale-to-width-down/75?cb=20150104104645"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "ghd61-64-chevy-nova-wagon-2020",
+    "toy_number": "GHD61",
+    "casting_id": "64-chevy-nova-wagon",
+    "year": 2020,
+    "series_id": "hw-flames",
+    "series_index": 3,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Multicoloured Flames on Sides & Hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Grey)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Rim",
+            "1": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M50, N02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/GHD61.jpg/revision/latest/scale-to-width-down/75?cb=20250224101337"
+    }
+}

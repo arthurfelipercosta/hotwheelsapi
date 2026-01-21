@@ -1,0 +1,27 @@
+{
+    "series_id": "hw-flames",
+    "year": 2020,
+    "name": "HW Flames",
+    "total_releases": 18,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2020/ghd59-67-camaro.json",
+        "data/releases/2020/ghd60-68-shelby-gt500.json",
+        "data/releases/2020/ghd61-64-chevy-nova-wagon.json",
+        "data/releases/2020/ghd62-69-dodge-charger-500.json",
+        "data/releases/2020/ghd63-65-ford-galaxie.json",
+        "data/releases/2020/ghd64-71-dodge-charger.json",
+        "data/releases/2020/ghd65-73-ford-falcon-xb.json",
+        "data/releases/2020/ghd66-custom-ford-maverick.json",
+        "data/releases/2020/ghd67-57-plymouth-fury.json",
+        "data/releases/2020/ghd68-49-merc.json",
+        "data/releases/2020/ghf52-custom-ford-maverick.json",
+        "data/releases/2020/ghf58-68-shelby-gt500.json",
+        "data/releases/2020/ghg05-57-plymouth-fury.json",
+        "data/releases/2020/ghg09-69-dodge-charger-500.json",
+        "data/releases/2020/ghg18-65-ford-galaxie.json",
+        "data/releases/2020/ghg29-64-chevy-nova-wagon.json",
+        "data/releases/2020/ghg56-67-camaro.json",
+        "data/releases/2020/ghg62-custom-ford-maverick.json"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "casting_id": "69-ford-mustang-boss-302",
+    "name": "'69 Ford Mustang Boss 302",
+    "description": {
+        "en-us": "'69 Ford Mustang Boss 302 Debut series Hot Wheels Racing: Muscle Produced 2012 - Present (Original) 2015 - 2019 (1st retool) 2020 - Present (2nd retool) Designer Jun Imai Number W8313",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/w8313-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2014/bdr42-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2015/cfh41-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2015/cfj40-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2015/dhc06-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2018/fyy10-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2019/gfy03-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2019/gbw89-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2019/gbd69-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2020/gjt38-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2020/ghd06-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2020/ghg41-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2022/hfv92-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2023/hkj48-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2023/htf59-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2023/hkf07-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2023/hkf58-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2024/hyp71-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2024/hrv08-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2024/hvw84-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2025/jby51-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2025/jbl20-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2026/jky48-69-ford-mustang-boss-302-v2.json",
+        "data/releases/2026/jhw72-69-ford-mustang-boss-302-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Ford"
+}

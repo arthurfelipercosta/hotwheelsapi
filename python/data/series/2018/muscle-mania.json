@@ -2,11 +2,30 @@
     "series_id": "muscle-mania",
     "year": 2018,
     "name": "Muscle Mania",
-    "total_releases": 3,
+    "total_releases": 22,
     "max_index": 10,
     "releases": [
         "data/releases/2018/fjv42-track-ripper.json",
+        "data/releases/2018/fjv49-18-camaro-ss.json",
+        "data/releases/2018/fjv78-2018-ford-mustang-gt.json",
+        "data/releases/2018/fjv78-2018-ford-mustang-gt.json",
+        "data/releases/2018/fjx73-2017-camaro-zl1.json",
+        "data/releases/2018/fjx74-2015-ford-mustang-gt-convertible.json",
+        "data/releases/2018/fjx75-15-dodge-charger-srt.json",
+        "data/releases/2018/fjx76-15-dodge-challenger-srt.json",
+        "data/releases/2018/fjx77-69-dodge-daytona.json",
+        "data/releases/2018/fjx78-69-dodge-charger-500.json",
         "data/releases/2018/fjx79-70-dodge-hemi-challenger.json",
-        "data/releases/2018/fkb12-track-ripper.json"
+        "data/releases/2018/fkb03-2017-camaro-zl1.json",
+        "data/releases/2018/fkb04-2015-ford-mustang-gt-convertible.json",
+        "data/releases/2018/fkb05-15-dodge-charger-srt.json",
+        "data/releases/2018/fkb06-15-dodge-challenger-srt.json",
+        "data/releases/2018/fkb07-69-dodge-daytona.json",
+        "data/releases/2018/fkb08-69-dodge-charger-500.json",
+        "data/releases/2018/fkb10-18-camaro-ss.json",
+        "data/releases/2018/fkb11-2018-ford-mustang-gt.json",
+        "data/releases/2018/fkb11-2018-ford-mustang-gt.json",
+        "data/releases/2018/fkb12-track-ripper.json",
+        "data/releases/2018/fkb48-2017-camaro-zl1.json"
     ]
 }

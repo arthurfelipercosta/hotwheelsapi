@@ -2,10 +2,13 @@
     "series_id": "batman-5-pack",
     "year": 2024,
     "name": "Batman 5-Pack",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/2024/htv44-arkham-asylum-batmobile.json",
-        "data/releases/2024/htv44-hi-roller.json"
+        "data/releases/2024/htv44-batcopter.json",
+        "data/releases/2024/htv44-boom-box.json",
+        "data/releases/2024/htv44-hi-roller.json",
+        "data/releases/2024/htv44-power-pistons.json"
     ]
 }

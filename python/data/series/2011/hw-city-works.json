@@ -2,12 +2,22 @@
     "series_id": "hw-city-works",
     "year": 2011,
     "name": "HW City Works",
-    "total_releases": 4,
-    "max_index": 4,
+    "total_releases": 14,
+    "max_index": 8,
     "releases": [
+        "data/releases/2011/t9878-bread-box.json",
+        "data/releases/2011/t9880-back-slider.json",
         "data/releases/2011/t9881-good-humor-truck.json",
+        "data/releases/2011/t9882-cool-one.json",
+        "data/releases/2011/t9884-rapid-response.json",
         "data/releases/2011/t9885-5-alarm.json",
+        "data/releases/2011/t9886-sky-knife.json",
+        "data/releases/2011/t9887-h-2-go.json",
         "data/releases/2011/t9977-5-alarm.json",
-        "data/releases/2011/v0011-good-humor-truck.json"
+        "data/releases/2011/t9990-back-slider.json",
+        "data/releases/2011/t9990-back-slider.json",
+        "data/releases/2011/v0011-good-humor-truck.json",
+        "data/releases/2011/v5214-bread-box.json",
+        "data/releases/2011/v9460-back-slider.json"
     ]
 }

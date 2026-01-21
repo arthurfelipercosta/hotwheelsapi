@@ -2,11 +2,24 @@
     "series_id": "hw-city-works",
     "year": 2017,
     "name": "HW City Works",
-    "total_releases": 3,
+    "total_releases": 16,
     "max_index": 1,
     "releases": [
         "data/releases/2017/dtx19-street-wiener.json",
+        "data/releases/2017/dtx26-sky-fi.json",
         "data/releases/2017/dtx27-time-shifter.json",
-        "data/releases/2017/dty73-good-humor-truck.json"
+        "data/releases/2017/dty70-time-attaxi.json",
+        "data/releases/2017/dty71-the-haulinator.json",
+        "data/releases/2017/dty72-fast-gassin.json",
+        "data/releases/2017/dty72-fast-gassin.json",
+        "data/releases/2017/dty73-good-humor-truck.json",
+        "data/releases/2017/dty74-repo-duty.json",
+        "data/releases/2017/dty75-hot-wheels-high.json",
+        "data/releases/2017/dvc30-sky-fi.json",
+        "data/releases/2017/dvc31-time-attaxi.json",
+        "data/releases/2017/dvc32-the-haulinator.json",
+        "data/releases/2017/dvc33-repo-duty.json",
+        "data/releases/2017/dvc42-hot-wheels-ford-transit-connect.json",
+        "data/releases/2017/dvd12-hot-wheels-ford-transit-connect.json"
     ]
 }

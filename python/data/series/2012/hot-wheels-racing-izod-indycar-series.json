@@ -1,0 +1,15 @@
+{
+    "series_id": "hot-wheels-racing-izod-indycar-series",
+    "year": 2012,
+    "name": "Hot Wheels Racing: IZOD IndyCar Series",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2012/w8330-indy-500-oval.json",
+        "data/releases/2012/w8331-indy-500-oval.json",
+        "data/releases/2012/w8332-indy-500-oval.json",
+        "data/releases/2012/w8333-indy-500-oval.json",
+        "data/releases/2012/w8334-indy-500-oval.json",
+        "data/releases/2012/w8335-indy-500-oval.json"
+    ]
+}

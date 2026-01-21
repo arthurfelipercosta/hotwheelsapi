@@ -1,0 +1,24 @@
+{
+    "release_id": "jdm20-volkswagen-baja-bug-2025",
+    "toy_number": "JDM20",
+    "casting_id": "volkswagen-baja-bug",
+    "year": 2025,
+    "series_id": "purple-and-gold",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake plum",
+        "tampo": "Hot Wheels logo, \"57\", VW logo, Bilstein logo, & gold and dark lavender stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold chrome BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T34, T40, T44, T45, T50N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Purple_and_Gold_Baja_Bug_Loose.jpg/revision/latest/scale-to-width-down/75?cb=20250810015826"
+    }
+}

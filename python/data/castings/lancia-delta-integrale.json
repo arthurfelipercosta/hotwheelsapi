@@ -1,0 +1,21 @@
+{
+    "casting_id": "lancia-delta-integrale",
+    "name": "Lancia Delta Integrale",
+    "description": {
+        "en-us": "Lancia Delta Integrale Debut series Baja Blazers Produced 2021 – Present Designer Ryu Asada Number GRX51",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx51-lancia-delta-integrale.json",
+        "data/releases/2021/gtb59-lancia-delta-integrale.json",
+        "data/releases/2021/gtd45-lancia-delta-integrale.json",
+        "data/releases/2022/hct88-lancia-delta-integrale.json",
+        "data/releases/2023/hkc18-lancia-delta-integrale.json",
+        "data/releases/2024/hrx56-lancia-delta-integrale.json",
+        "data/releases/2025/jbl18-lancia-delta-integrale.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Lancia"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh85-porsche-panamera-2015",
+    "toy_number": "CFH85",
+    "casting_id": "porsche-panamera",
+    "year": 2015,
+    "series_id": "hw-workshop-thrill-racers",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Trim details",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Chrome Rim PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G33, G37, G39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/Porsche_Panamera-20281.jpg/revision/latest/scale-to-width-down/75?cb=20141109200611"
+    }
+}

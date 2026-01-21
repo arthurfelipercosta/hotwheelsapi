@@ -1,0 +1,26 @@
+{
+    "release_id": "bfc98-dodge-challenger-drift-car-2014",
+    "toy_number": "BFC98",
+    "casting_id": "dodge-challenger-drift-car",
+    "year": 2014,
+    "series_id": "hw-off-road-road-rally",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Dodge Racing '392' Graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black PR5 White rim",
+            "2": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling: spoiler no longer separate piece Base code(s): F34, F40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/Dodge_Challenger_Drift_Car-2014_107.jpg/revision/latest/scale-to-width-down/75?cb=20131111154118"
+    }
+}

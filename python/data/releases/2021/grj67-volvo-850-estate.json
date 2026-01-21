@@ -1,0 +1,24 @@
+{
+    "release_id": "grj67-volvo-850-estate-2021",
+    "toy_number": "GRJ67",
+    "casting_id": "volvo-850-estate",
+    "year": 2021,
+    "series_id": "car-culture-fast-wagons",
+    "series_index": 4,
+    "specs": {
+        "color": "Cream Yellow",
+        "tampo": "Detailed headlights & taillights, \"Volvo\" & \"850\" on trunk.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray RR5SPM"
+        }
+    },
+    "country": "",
+    "notes": "Base code(s): N51, P01, P05, P06, P08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/Volvo_850_Yellow_21.jpg/revision/latest/scale-to-width-down/75?cb=20210301123016"
+    }
+}

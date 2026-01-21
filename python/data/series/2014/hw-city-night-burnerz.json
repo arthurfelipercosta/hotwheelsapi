@@ -2,15 +2,25 @@
     "series_id": "hw-city-night-burnerz",
     "year": 2014,
     "name": "HW City: Night Burnerz",
-    "total_releases": 7,
+    "total_releases": 17,
     "max_index": 0,
     "releases": [
         "data/releases/2014/bdc77-90-honda-civic-ef.json",
         "data/releases/2014/bdc77-90-honda-civic-ef.json",
         "data/releases/2014/bfc43-mazda-rx-7.json",
+        "data/releases/2014/bfc44-toyota-supra.json",
         "data/releases/2014/bfc45-nissan-skyline-2000gt-r.json",
+        "data/releases/2014/bfc46-70-toyota-celica.json",
+        "data/releases/2014/bfc47-subaru-wrx-sti.json",
+        "data/releases/2014/bfc48-porsche-993-gt2.json",
+        "data/releases/2014/bfc49-mad-manga.json",
+        "data/releases/2014/bfc50-alfa-romeo-8c-competizione.json",
+        "data/releases/2014/bff82-fiat-500.json",
+        "data/releases/2014/bff84-porsche-993-gt2.json",
+        "data/releases/2014/bff86-alfa-romeo-8c-competizione.json",
         "data/releases/2014/bff87-90-honda-civic-ef.json",
         "data/releases/2014/bff87-90-honda-civic-ef.json",
-        "data/releases/2014/bfg39-mazda-rx-7.json"
+        "data/releases/2014/bfg39-mazda-rx-7.json",
+        "data/releases/2014/x1616-fiat-500.json"
     ]
 }

@@ -2,11 +2,25 @@
     "series_id": "hw-metro",
     "year": 2024,
     "name": "HW Metro",
-    "total_releases": 3,
-    "max_index": 10,
+    "total_releases": 17,
+    "max_index": 3,
     "releases": [
         "data/releases/2024/hry84-kowloon-d-hypervan.json",
+        "data/releases/2024/htb13-brickin-delivery.json",
+        "data/releases/2024/htb14-surf-duty.json",
         "data/releases/2024/htb15-5-alarm.json",
-        "data/releases/2024/htd45-5-alarm.json"
+        "data/releases/2024/htb16-heavy-hitcher.json",
+        "data/releases/2024/htb17-speed-dozer.json",
+        "data/releases/2024/htb18-propper-chopper.json",
+        "data/releases/2024/htb19-total-disposal.json",
+        "data/releases/2024/htb20-dragtor.json",
+        "data/releases/2024/htd36-surf-duty.json",
+        "data/releases/2024/htd45-5-alarm.json",
+        "data/releases/2024/htd68-heavy-hitcher.json",
+        "data/releases/2024/htd69-propper-chopper.json",
+        "data/releases/2024/htd84-total-disposal.json",
+        "data/releases/2024/htf03-speed-dozer.json",
+        "data/releases/2024/htf04-dragtor.json",
+        "data/releases/2024/htf23-honda-super-cub-custom.json"
     ]
 }

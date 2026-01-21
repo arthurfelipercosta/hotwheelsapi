@@ -1,0 +1,24 @@
+{
+    "release_id": "v5415-66-ford-427-fairlane-2012",
+    "toy_number": "V5415",
+    "casting_id": "66-ford-427-fairlane",
+    "year": 2012,
+    "series_id": "muscle-mania-ford",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "White & Black stripe, \"427\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Light smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E02, E11, E14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2012-66Ford427Fairlane-Green.jpg/revision/latest/scale-to-width-down/75?cb=20120424021442"
+    }
+}

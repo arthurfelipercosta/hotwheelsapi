@@ -2,10 +2,17 @@
     "series_id": "hw-game-over",
     "year": 2019,
     "name": "HW Game Over",
-    "total_releases": 2,
+    "total_releases": 9,
     "max_index": 4,
     "releases": [
+        "data/releases/2019/fyb44-octane.json",
+        "data/releases/2019/fyc29-rip-rod.json",
         "data/releases/2019/fyc30-bone-shaker.json",
-        "data/releases/2019/fyf59-bone-shaker.json"
+        "data/releases/2019/fyc31-2005-ford-mustang.json",
+        "data/releases/2019/fyf57-octane.json",
+        "data/releases/2019/fyf58-rip-rod.json",
+        "data/releases/2019/fyf59-bone-shaker.json",
+        "data/releases/2019/fyf95-twin-mill.json",
+        "data/releases/2019/fyg44-2005-ford-mustang.json"
     ]
 }

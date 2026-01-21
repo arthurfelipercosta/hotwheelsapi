@@ -1,0 +1,19 @@
+{
+    "casting_id": "mclaren-elva",
+    "name": "McLaren Elva",
+    "description": {
+        "en-us": "McLaren Elva Debut series HW Exotics Produced 2022 – Present Designer Sonny Fisher Number HCT09",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct09-mclaren-elva.json",
+        "data/releases/2022/hcx54-mclaren-elva.json",
+        "data/releases/2023/hkh40-mclaren-elva.json",
+        "data/releases/2023/hkl54-mclaren-elva.json",
+        "data/releases/2024/hkl73-mclaren-elva.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "McLaren"
+}

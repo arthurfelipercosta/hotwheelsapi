@@ -1,0 +1,25 @@
+{
+    "release_id": "m9835-ferrari-599-gtb-fiorano-2008",
+    "toy_number": "M9835",
+    "casting_id": "ferrari-599-gtb-fiorano",
+    "year": 2008,
+    "series_id": "ferrari-racer",
+    "series_index": 6,
+    "specs": {
+        "color": "Satin Red",
+        "tampo": "Ferrari emblem on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Yellow-rimmed",
+            "1": "black CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named 599 GTB Fiorano",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Ferrari_599_GTB_Fiorano_04.JPG/revision/latest/scale-to-width-down/75?cb=20140526001138"
+    }
+}

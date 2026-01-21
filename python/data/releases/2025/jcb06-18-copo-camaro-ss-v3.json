@@ -1,0 +1,24 @@
+{
+    "release_id": "jcb06-18-copo-camaro-ss-2025",
+    "toy_number": "JCB06",
+    "casting_id": "18-copo-camaro-ss",
+    "year": 2025,
+    "series_id": "neon-speeders",
+    "series_index": 7,
+    "specs": {
+        "color": "Glossy black",
+        "tampo": "Detailed headlights and taillights, orange stripes, Hot Wheels logo on door, COPO wordmark on fender",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "HONS6 & ONS6"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): U09, U10I, U15I",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Neon_Camaro.jpg/revision/latest/scale-to-width-down/75?cb=20250611035131"
+    }
+}

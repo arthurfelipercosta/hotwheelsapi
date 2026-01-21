@@ -1,0 +1,24 @@
+{
+    "release_id": "t9675-custom-11-camaro-2011",
+    "toy_number": "T9675",
+    "casting_id": "custom-11-camaro",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 5,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black & Blue stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Yellow Lip PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/Custom_11_camaro_red_2011.png/revision/latest/scale-to-width-down/75?cb=20101105012812"
+    }
+}

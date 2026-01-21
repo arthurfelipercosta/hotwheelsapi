@@ -2,11 +2,26 @@
     "series_id": "hw-showroom",
     "year": 2016,
     "name": "HW Showroom",
-    "total_releases": 3,
+    "total_releases": 18,
     "max_index": 5,
     "releases": [
+        "data/releases/2016/dhp08-gazella-gt.json",
         "data/releases/2016/dhp09-hi-roller.json",
+        "data/releases/2016/dhp10-side-ripper.json",
+        "data/releases/2016/dhp11-porsche-356-outlaw.json",
         "data/releases/2016/dhp26-honda-odyssey.json",
-        "data/releases/2016/dhw80-hi-roller.json"
+        "data/releases/2016/dhr26-15-jaguar-f-type-project-7.json",
+        "data/releases/2016/dhr28-volkswagen-caddy.json",
+        "data/releases/2016/dhr31-great-gatspeed.json",
+        "data/releases/2016/dht11-porsche-993-gt2.json",
+        "data/releases/2016/dht82-porsche-993-gt2.json",
+        "data/releases/2016/dhw78-great-gatspeed.json",
+        "data/releases/2016/dhw79-gazella-gt.json",
+        "data/releases/2016/dhw80-hi-roller.json",
+        "data/releases/2016/dhw81-side-ripper.json",
+        "data/releases/2016/dhx35-porsche-356-outlaw.json",
+        "data/releases/2016/dhx83-great-gatspeed.json",
+        "data/releases/2016/dlk05-aston-martin-db10.json",
+        "data/releases/2016/fbj21-15-jaguar-f-type-project-7.json"
     ]
 }

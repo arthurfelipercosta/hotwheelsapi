@@ -1,0 +1,24 @@
+{
+    "release_id": "bdr29-67-camaro-2014",
+    "toy_number": "BDR29",
+    "casting_id": "67-camaro",
+    "year": 2014,
+    "series_id": "cool-classics",
+    "series_index": 8,
+    "specs": {
+        "color": "Spectrafrost Dark Blue",
+        "tampo": "Gold stripes on sides, hood, & trunk, race decal on sides, #67 on doors & hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Dark Grey",
+        "wheel_type": {
+            "0": "Gold RSW"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F51, G03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/Cool_Classics--08-%2767_Camaro.jpg/revision/latest/scale-to-width-down/75?cb=20140713191807"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "cfh23-driftsta-2015",
+    "toy_number": "CFH23",
+    "casting_id": "driftsta",
+    "year": 2015,
+    "series_id": "hw-workshop-hw-drift-race",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "White stripes on sides and rear, 'SpeedHunters' and 'Joy of Machine' on sides & hood, 'SH' on roof, HW logo & 'Driftsta' on trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Grey PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): H11, H13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/DrifstaCFH23.jpg/revision/latest/scale-to-width-down/75?cb=20150611010316"
+    }
+}

@@ -2,12 +2,28 @@
     "series_id": "hw-flames",
     "year": 2016,
     "name": "HW Flames",
-    "total_releases": 4,
+    "total_releases": 20,
     "max_index": 10,
     "releases": [
+        "data/releases/2016/dhr06-69-dodge-charger.json",
+        "data/releases/2016/dhr07-67-chevelle-ss-396.json",
+        "data/releases/2016/dhr08-77-pontiac-firebird-t-a.json",
         "data/releases/2016/dhr09-69-dodge-coronet-superbee.json",
+        "data/releases/2016/dhr10-66-ford-427-fairlane.json",
+        "data/releases/2016/dhr11-custom-41-willys-coupe.json",
+        "data/releases/2016/dhr12-52-hudson-hornet.json",
+        "data/releases/2016/dhr13-70-camaro.json",
+        "data/releases/2016/dhr14-65-pontiac-gto.json",
         "data/releases/2016/dhr15-69-mercury-cyclone.json",
+        "data/releases/2016/dht91-52-hudson-hornet.json",
+        "data/releases/2016/dhx28-65-pontiac-gto.json",
         "data/releases/2016/dhx29-69-mercury-cyclone.json",
-        "data/releases/2016/dhx68-69-dodge-coronet-superbee.json"
+        "data/releases/2016/dhx30-66-ford-427-fairlane.json",
+        "data/releases/2016/dhx38-67-chevelle-ss-396.json",
+        "data/releases/2016/dhx68-69-dodge-coronet-superbee.json",
+        "data/releases/2016/dhx82-77-pontiac-firebird-t-a.json",
+        "data/releases/2016/dhx99-67-chevelle-ss-396.json",
+        "data/releases/2016/dhy08-66-ford-427-fairlane.json",
+        "data/releases/2016/fbj20-69-dodge-charger.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "fjx51-fiat-500-2018",
+    "toy_number": "FJX51",
+    "casting_id": "fiat-500",
+    "year": 2018,
+    "series_id": "hw-daredevils",
+    "series_index": 2,
+    "specs": {
+        "color": "Flat Orange",
+        "tampo": "Yellow stripes & 'HWDDVL', Black & White '500' & '01' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Unnumbered Daredevil Chase Variants Playable in Unleashed Base code(s): K30, K31, K33, K34, K35, K36, K37, K38, K44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/HW-2018-FJX51-FIAT-500_Daredevils.JPG/revision/latest/scale-to-width-down/75?cb=20171016154425"
+    }
+}

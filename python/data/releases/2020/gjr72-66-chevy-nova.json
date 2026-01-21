@@ -1,0 +1,24 @@
+{
+    "release_id": "gjr72-66-chevy-nova-2020",
+    "toy_number": "GJR72",
+    "casting_id": "66-chevy-nova",
+    "year": 2020,
+    "series_id": "fast-furious-motor-city-muscle",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Gold",
+        "tampo": "Silver trim, doorhandles",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N10, N12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/Chevrolet_Nova_1966_09a.jpg/revision/latest/scale-to-width-down/75?cb=20200527010547"
+    }
+}

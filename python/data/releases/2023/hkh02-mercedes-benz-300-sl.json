@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh02-mercedes-benz-300-sl-2023",
+    "toy_number": "HKH02",
+    "casting_id": "mercedes-benz-300-sl",
+    "year": 2023,
+    "series_id": "retro-racers",
+    "series_index": 3,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black stripes on front quarter panel. Mercedes logo (front, rear), \"300 SL\" (rear), \"2\" (hood, sides), \"BILSTEIN\", HW logo (sides).",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R35, R37, R38, R39, R41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/HKH02-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20221119014036"
+    }
+}

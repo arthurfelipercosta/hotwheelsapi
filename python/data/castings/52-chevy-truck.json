@@ -1,0 +1,41 @@
+{
+    "casting_id": "52-chevy-truck",
+    "name": "'52 Chevy Truck",
+    "description": {
+        "en-us": "'52 Chevy Truck Debut series Classics (Series 3) Produced 2007 - Present Designer Larry Wood Number L0734",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/l0734-52-chevy-truck-v5.json",
+        "data/releases/2007/l0734-52-chevy-truck-v6.json",
+        "data/releases/2007/l0734-52-chevy-truck-v7.json",
+        "data/releases/2007/l0734-52-chevy-truck-v8.json",
+        "data/releases/2007/m1810-52-chevy-truck-v2.json",
+        "data/releases/2008/n1132-52-chevy-truck-v2.json",
+        "data/releases/2008/n9291-52-chevy-truck-v2.json",
+        "data/releases/2009/p2083-52-chevy-truck-v2.json",
+        "data/releases/2011/t8635-52-chevy-truck-v2.json",
+        "data/releases/2012/v5346-52-chevy-truck-v2.json",
+        "data/releases/2013/x8325-52-chevy-truck-v2.json",
+        "data/releases/2014/bdr80-52-chevy-truck-v2.json",
+        "data/releases/2015/cfj21-52-chevy-truck-v2.json",
+        "data/releases/2015/cfj95-52-chevy-truck-v2.json",
+        "data/releases/2016/x6999-52-chevy-truck-v2.json",
+        "data/releases/2018/fjw83-52-chevy-truck-v2.json",
+        "data/releases/2018/fkb42-52-chevy-truck-v2.json",
+        "data/releases/2018/fjy68-52-chevy-truck-v2.json",
+        "data/releases/2018/fkx50-52-chevy-truck-v2.json",
+        "data/releases/2018/fkd05-52-chevy-truck-v2.json",
+        "data/releases/2019/fyl18-52-chevy-truck-v2.json",
+        "data/releases/2020/ghd24-52-chevy-truck-v2.json",
+        "data/releases/2020/ghg01-52-chevy-truck-v2.json",
+        "data/releases/2021/gtb19-52-chevy-truck-v2.json",
+        "data/releases/2023/hlj34-52-chevy-truck-v2.json",
+        "data/releases/2023/k5904-52-chevy-truck-v2.json",
+        "data/releases/2024/htc36-52-chevy-truck-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Chevy"
+}

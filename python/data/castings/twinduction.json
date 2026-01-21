@@ -1,0 +1,37 @@
+{
+    "casting_id": "twinduction",
+    "name": "Twinduction",
+    "description": {
+        "en-us": "Twinduction Debut series 2011 New Models Produced 2011 - Present Designer John Violette Number T9708",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9708-twinduction-v2.json",
+        "data/releases/2011/v0048-twinduction-v2.json",
+        "data/releases/2012/x9673-twinduction-v2.json",
+        "data/releases/2012/v5550-twinduction-v2.json",
+        "data/releases/2013/x1725-twinduction-v2.json",
+        "data/releases/2013/x1911-twinduction-v2.json",
+        "data/releases/2014/bfd23-twinduction-v2.json",
+        "data/releases/2015/cfl77-twinduction-v2.json",
+        "data/releases/2015/cfl15-twinduction-v2.json",
+        "data/releases/2016/dhp72-twinduction-v2.json",
+        "data/releases/2016/dhw64-twinduction-v2.json",
+        "data/releases/2017/dvf89-twinduction-v2.json",
+        "data/releases/2018/fkc76-twinduction-v2.json",
+        "data/releases/2018/fkd58-twinduction-v2.json",
+        "data/releases/2018/fkt61-twinduction-v2.json",
+        "data/releases/2019/gbd67-twinduction-v2.json",
+        "data/releases/2020/gjv95-twinduction-v2.json",
+        "data/releases/2021/gtn36-twinduction-v2.json",
+        "data/releases/2023/hkh22-twinduction-v2.json",
+        "data/releases/2023/hkk88-twinduction-v2.json",
+        "data/releases/2024/htv45-twinduction-v2.json",
+        "data/releases/2025/jdw07-twinduction-v2.json",
+        "data/releases/2025/jcb47-twinduction-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

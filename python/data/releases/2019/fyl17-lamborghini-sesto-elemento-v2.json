@@ -1,0 +1,25 @@
+{
+    "release_id": "fyl17-lamborghini-sesto-elemento-2019",
+    "toy_number": "FYL17",
+    "casting_id": "lamborghini-sesto-elemento",
+    "year": 2019,
+    "series_id": "hw-exotics-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Dark Red",
+        "tampo": "Detailed headlights, Black stripes on hood and roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Red Rim",
+            "1": "Black J5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): L49, L50, M06, M27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Ruby_Sesto.jpg/revision/latest/scale-to-width-down/75?cb=20190228124258"
+    }
+}

@@ -2,10 +2,26 @@
     "series_id": "muscle-mania",
     "year": 2009,
     "name": "Muscle Mania",
-    "total_releases": 2,
+    "total_releases": 18,
     "max_index": 7,
     "releases": [
+        "data/releases/2009/p2398-67-shelby-gt500.json",
+        "data/releases/2009/p2398-67-shelby-gt500.json",
+        "data/releases/2009/p2398-67-shelby-gt500.json",
+        "data/releases/2009/p2399-70-plymouth-roadrunner.json",
+        "data/releases/2009/p2399-70-plymouth-roadrunner.json",
+        "data/releases/2009/p2400-71-plymouth-gtx.json",
+        "data/releases/2009/p2400-71-plymouth-gtx.json",
+        "data/releases/2009/p2401-69-dodge-charger.json",
+        "data/releases/2009/p2401-69-dodge-charger.json",
+        "data/releases/2009/p2401-69-dodge-charger.json",
         "data/releases/2009/p2403-69-dodge-coronet-superbee.json",
-        "data/releases/2009/p2403-69-dodge-coronet-superbee.json"
+        "data/releases/2009/p2403-69-dodge-coronet-superbee.json",
+        "data/releases/2009/p2404-69-chevelle-ss-396.json",
+        "data/releases/2009/p2404-69-chevelle-ss-396.json",
+        "data/releases/2009/p2405-65-mustang-2-2-fastback.json",
+        "data/releases/2009/p2405-65-mustang-2-2-fastback.json",
+        "data/releases/2009/p2406-08-dodge-challenger-srt8.json",
+        "data/releases/2009/p2406-08-dodge-challenger-srt8.json"
     ]
 }

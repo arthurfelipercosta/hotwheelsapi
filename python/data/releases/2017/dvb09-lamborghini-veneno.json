@@ -1,0 +1,25 @@
+{
+    "release_id": "dvb09-lamborghini-veneno-2017",
+    "toy_number": "DVB09",
+    "casting_id": "lamborghini-veneno",
+    "year": 2017,
+    "series_id": "hw-exotics",
+    "series_index": 6,
+    "specs": {
+        "color": "Lime Green",
+        "tampo": "Black stripes on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White lip",
+            "1": "black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J52, K02, K03, K04, K09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/Lamborghini_Veneno_DVB09.png/revision/latest/scale-to-width-down/75?cb=20170303222107"
+    }
+}

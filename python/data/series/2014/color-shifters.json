@@ -2,10 +2,31 @@
     "series_id": "color-shifters",
     "year": 2014,
     "name": "Color Shifters",
-    "total_releases": 2,
+    "total_releases": 23,
     "max_index": 0,
     "releases": [
+        "data/releases/2014/bhr15-super-stinger.json",
+        "data/releases/2014/bhr16-torque-twister.json",
+        "data/releases/2014/bhr20-dodge-charger-srt8.json",
+        "data/releases/2014/bhr22-2005-ford-mustang-gt.json",
         "data/releases/2014/bhr24-24-seven.json",
-        "data/releases/2014/bhr52-purple-passion.json"
+        "data/releases/2014/bhr25-2009-ford-f-150.json",
+        "data/releases/2014/bhr27-audacious.json",
+        "data/releases/2014/bhr29-bully-goat.json",
+        "data/releases/2014/bhr30-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2014/bhr34-chrysler-300c.json",
+        "data/releases/2014/bhr37-2006-dodge-viper-coupe.json",
+        "data/releases/2014/bhr41-57-chevy.json",
+        "data/releases/2014/bhr42-fandango.json",
+        "data/releases/2014/bhr43-muscle-tone.json",
+        "data/releases/2014/bhr44-vampyra.json",
+        "data/releases/2014/bhr44-vampyra.json",
+        "data/releases/2014/bhr45-repo-duty.json",
+        "data/releases/2014/bhr47-sharkruiser.json",
+        "data/releases/2014/bhr48-07-cadillac-escalade.json",
+        "data/releases/2014/bhr51-scion-xb.json",
+        "data/releases/2014/bhr52-purple-passion.json",
+        "data/releases/2014/bhr54-carbide.json",
+        "data/releases/2014/bhr62-mini-cooper.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "hkk57-toon-d-83-chevy-silverado-2023",
+    "toy_number": "HKK57",
+    "casting_id": "toon-d-83-chevy-silverado",
+    "year": 2023,
+    "series_id": "hw-hot-trucks",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Orange, Yellow, and Light Blue stripes on hood and sides, HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Micro5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/Toondsilveradoloose.jpg/revision/latest/scale-to-width-down/75?cb=20250705190514"
+    }
+}

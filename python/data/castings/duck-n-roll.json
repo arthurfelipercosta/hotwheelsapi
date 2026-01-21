@@ -1,0 +1,22 @@
+{
+    "casting_id": "duck-n-roll",
+    "name": "Duck N' Roll",
+    "description": {
+        "en-us": "Duck N' Roll Debut series Street Beasts Produced 2020 - Present Designer Ryu Asada Number GHB60",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb60-duck-n-roll.json",
+        "data/releases/2020/ghf05-duck-n-roll.json",
+        "data/releases/2021/gry17-duck-n-roll.json",
+        "data/releases/2022/hcy06-duck-n-roll.json",
+        "data/releases/2024/htc11-duck-n-roll.json",
+        "data/releases/2024/hvd96-hvd84-duck-n-roll.json",
+        "data/releases/2025/jbj90-duck-n-roll.json",
+        "data/releases/2026/jkn77-jkn88-duck-n-roll.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

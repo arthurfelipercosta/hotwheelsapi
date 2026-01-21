@@ -1,0 +1,28 @@
+{
+    "series_id": "street-beasts",
+    "year": 2011,
+    "name": "Street Beasts",
+    "total_releases": 19,
+    "max_index": 9,
+    "releases": [
+        "data/releases/2011/t9789-68-chevy-nova.json",
+        "data/releases/2011/t9790-70-plymouth-aar-cuda.json",
+        "data/releases/2011/t9791-71-dodge-demon.json",
+        "data/releases/2011/t9792-65-pontiac-gto.json",
+        "data/releases/2011/t9793-67-pontiac-firebird-400.json",
+        "data/releases/2011/t9796-65-mustang-2-2-fastback.json",
+        "data/releases/2011/t9797-71-mustang-mach-i.json",
+        "data/releases/2011/t9797-71-mustang-mach-i.json",
+        "data/releases/2011/t9948-67-pontiac-firebird-400.json",
+        "data/releases/2011/t9958-65-mustang-2-2-fastback.json",
+        "data/releases/2011/t9984-68-chevy-nova.json",
+        "data/releases/2011/v0004-71-dodge-demon.json",
+        "data/releases/2011/v0015-68-chevy-nova.json",
+        "data/releases/2011/v0025-67-pontiac-firebird-400.json",
+        "data/releases/2011/v0025-67-pontiac-firebird-400.json",
+        "data/releases/2011/v0050-65-mustang-2-2-fastback.json",
+        "data/releases/2011/v5206-71-dodge-demon.json",
+        "data/releases/2011/v5216-70-plymouth-aar-cuda.json",
+        "data/releases/2011/v5221-65-pontiac-gto.json"
+    ]
+}

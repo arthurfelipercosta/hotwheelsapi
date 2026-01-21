@@ -1,0 +1,24 @@
+{
+    "release_id": "gjr25-bread-box-2021",
+    "toy_number": "GJR25",
+    "casting_id": "bread-box",
+    "year": 2021,
+    "series_id": "pop-culture-masters-of-the-universe",
+    "series_index": 3,
+    "specs": {
+        "color": "Teal Green",
+        "tampo": "Teela tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N45, N46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/GJR25_Bread_Box_2021_Masters_of_the_Universe.jpg/revision/latest/scale-to-width-down/75?cb=20211026065227"
+    }
+}

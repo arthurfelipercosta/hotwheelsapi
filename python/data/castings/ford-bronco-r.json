@@ -1,0 +1,23 @@
+{
+    "casting_id": "ford-bronco-r",
+    "name": "Ford Bronco R",
+    "description": {
+        "en-us": "Ford Bronco R Debut series Car Culture: Hyper Haulers Produced 2021 – Present Designer Mark Jones and Phil Riehlman Number GWJ24",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grj85-ford-bronco-r.json",
+        "data/releases/2021/grj85-on-box-lwc2022-internal-ford-bronco-r.json",
+        "data/releases/2022/hbg32-ford-bronco-r.json",
+        "data/releases/2022/hck05-ford-bronco-r.json",
+        "data/releases/2023/hkl68-ford-bronco-r.json",
+        "data/releases/2023/hkj04-ford-bronco-r.json",
+        "data/releases/2023/hkl34-ford-bronco-r.json",
+        "data/releases/2024/hrr77-ford-bronco-r.json",
+        "data/releases/2025/jbj82-jcp88-ford-bronco-r.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Ford"
+}

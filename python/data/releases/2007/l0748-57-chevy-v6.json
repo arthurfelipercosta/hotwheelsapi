@@ -1,0 +1,24 @@
+{
+    "release_id": "l0748-57-chevy-2007",
+    "toy_number": "L0748",
+    "casting_id": "57-chevy",
+    "year": 2007,
+    "series_id": "classics-series-3",
+    "series_index": 20,
+    "specs": {
+        "color": "Spectraflame Green",
+        "tampo": "Green flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RL5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/1957_Chevy_Green_Classics_3.jpg/revision/latest/scale-to-width-down/75?cb=20090118064809"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "release_id": "r7550-73-ford-falcon-xb-2010",
+    "toy_number": "R7550",
+    "casting_id": "73-ford-falcon-xb",
+    "year": 2010,
+    "series_id": "all-stars",
+    "series_index": 7,
+    "specs": {
+        "color": "Metallic Blue",
+        "tampo": "Silver spoiler, hood stripe, \"GT351\", sill, side scoop, small FORD on front",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "048",
+            "2": "214",
+            "3": "2010",
+            "4": "2010 HW Premiere 48",
+            "5": "52",
+            "6": "R6452"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C22, C24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/73FordFalconXB_Blue.JPG/revision/latest/scale-to-width-down/75?cb=20100920234950"
+    }
+}

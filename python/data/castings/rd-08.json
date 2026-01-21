@@ -1,0 +1,39 @@
+{
+    "casting_id": "rd-08",
+    "name": "RD-08",
+    "description": {
+        "en-us": "RD-08 Debut series AcceleRacers: Racing Drones Produced 2005 - Present Designer Jun Imai Number G8114",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8114-rd-08.json",
+        "data/releases/2006/j7253-rd-08.json",
+        "data/releases/2009/m9954-rd-08.json",
+        "data/releases/2009/n3980-rd-08.json",
+        "data/releases/2009/p2105-rd-08.json",
+        "data/releases/2010/r1065-rd-08.json",
+        "data/releases/2010/r1065-rd-08-v2.json",
+        "data/releases/2012/w4677-rd-08.json",
+        "data/releases/2013/x9846-rd-08.json",
+        "data/releases/2014/bfb39-rd-08.json",
+        "data/releases/2015/cfk99-rd-08.json",
+        "data/releases/2015/cfl54-rd-08.json",
+        "data/releases/2016/dnn12-rd-08.json",
+        "data/releases/2016/djk81-rd-08.json",
+        "data/releases/2016/djk74-rd-08.json",
+        "data/releases/2016/x6999-rd-08.json",
+        "data/releases/2017/dwd79-rd-08.json",
+        "data/releases/2017/x6999-rd-08.json",
+        "data/releases/2018/frn41-rd-08.json",
+        "data/releases/2018/x6999-rd-08.json",
+        "data/releases/2018/fkx37-rd-08.json",
+        "data/releases/2018/fll94-rd-08.json",
+        "data/releases/2021/gyp18-rd-08.json",
+        "data/releases/2022/hfd08-rd-08.json",
+        "data/releases/2025/jcl83-rd-08.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

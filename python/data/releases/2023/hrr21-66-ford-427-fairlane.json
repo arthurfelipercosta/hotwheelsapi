@@ -1,0 +1,24 @@
+{
+    "release_id": "hrr21-66-ford-427-fairlane-2023",
+    "toy_number": "HRR21",
+    "casting_id": "66-ford-427-fairlane",
+    "year": 2023,
+    "series_id": "american-steel",
+    "series_index": 1,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black Stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Named 1966 Ford Fairlane 427 Identical to GJW66 Base code(s): S12, S19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/GJW66_66_Ford_427_Fairlane.jpg/revision/latest/scale-to-width-down/75?cb=20200111171302"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "casting_id": "citro-n-c4-rally",
+    "name": "Citroën C4 Rally",
+    "description": {
+        "en-us": "Citroën C4 Rally Debut series All Stars / 2010 HW Premiere Produced 2010 - 2013 Designer Phil Riehlman Number R0944",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r7547-citro-n-c4-rally.json",
+        "data/releases/2011/w2317-citro-n-c4-rally.json",
+        "data/releases/2012/v5502-citro-n-c4-rally.json",
+        "data/releases/2012/v5612-citro-n-c4-rally.json",
+        "data/releases/2013/x1731-citro-n-c4-rally.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

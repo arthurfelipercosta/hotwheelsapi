@@ -1,0 +1,40 @@
+{
+    "casting_id": "honda-civic-si",
+    "name": "Honda Civic Si",
+    "description": {
+        "en-us": "Honda Civic Si Debut series 2001 First Editions Produced 2001 - Present Designer Alec Tam , Dave Martis and Eric Tscherne Number 28758",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2001/28758-honda-civic-si.json",
+        "data/releases/2001/54212-honda-civic-si.json",
+        "data/releases/2002/54358-honda-civic-si.json",
+        "data/releases/2002/55000-honda-civic-si.json",
+        "data/releases/2002/56149-honda-civic-si.json",
+        "data/releases/2003/85569-honda-civic-si.json",
+        "data/releases/2003/b2261-honda-civic-si.json",
+        "data/releases/2003/b2261-honda-civic-si-v2.json",
+        "data/releases/2003/87065-honda-civic-si.json",
+        "data/releases/2003/c1363-honda-civic-si.json",
+        "data/releases/2005/g6912-honda-civic-si.json",
+        "data/releases/2005/j5167-honda-civic-si.json",
+        "data/releases/2006/j7086-honda-civic-si.json",
+        "data/releases/2007/m3065-honda-civic-si.json",
+        "data/releases/2010/r7490-honda-civic-si.json",
+        "data/releases/2012/w4611-honda-civic-si.json",
+        "data/releases/2013/y2057-honda-civic-si.json",
+        "data/releases/2014/bfb24-honda-civic-si.json",
+        "data/releases/2018/fkd25-gdg47-honda-civic-si.json",
+        "data/releases/2021/gry27-honda-civic-si.json",
+        "data/releases/2021/gtc63-honda-civic-si.json",
+        "data/releases/2022/hdh21-honda-civic-si.json",
+        "data/releases/2023/hlh88-honda-civic-si.json",
+        "data/releases/2024/htc41-honda-civic-si.json",
+        "data/releases/2024/htd07-honda-civic-si.json",
+        "data/releases/2025/jby77-honda-civic-si.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2001,
+    "manufacturer": "Honda"
+}

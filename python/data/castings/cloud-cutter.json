@@ -1,0 +1,23 @@
+{
+    "casting_id": "cloud-cutter",
+    "name": "Cloud Cutter",
+    "description": {
+        "en-us": "Cloud Cutter Debut series HW Stunt: Stunt Circuit Produced 2013 - Present Designer Paul DeLorean Number X1647",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1647-cloud-cutter-v2.json",
+        "data/releases/2013/x1906-cloud-cutter-v2.json",
+        "data/releases/2014/bfd55-cloud-cutter-v2.json",
+        "data/releases/2015/cfk45-cloud-cutter-v2.json",
+        "data/releases/2015/cfm06-cloud-cutter-v2.json",
+        "data/releases/2016/dhr42-cloud-cutter-v2.json",
+        "data/releases/2016/dhw83-cloud-cutter-v2.json",
+        "data/releases/2023/hkh92-cloud-cutter-v2.json",
+        "data/releases/2023/hkk54-cloud-cutter-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

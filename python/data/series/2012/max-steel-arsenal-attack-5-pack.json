@@ -2,9 +2,10 @@
     "series_id": "max-steel-arsenal-attack-5-pack",
     "year": 2012,
     "name": "Max Steel: Arsenal Attack 5-Pack",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/x1110-power-rocket.json"
+        "data/releases/2012/x1110-power-rocket.json",
+        "data/releases/2012/x1110-what-4-2.json"
     ]
 }

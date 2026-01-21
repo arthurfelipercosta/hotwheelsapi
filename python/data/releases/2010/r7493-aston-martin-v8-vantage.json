@@ -1,0 +1,24 @@
+{
+    "release_id": "r7493-aston-martin-v8-vantage-2010",
+    "toy_number": "R7493",
+    "casting_id": "aston-martin-v8-vantage",
+    "year": 2010,
+    "series_id": "mystery-car",
+    "series_index": 24,
+    "specs": {
+        "color": "Metallic Orange",
+        "tampo": "Aston Martin logo on hood and rear, Silver headlight tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Lip PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/AstonMartinVantage_mystery.JPG/revision/latest/scale-to-width-down/75?cb=20100824102428"
+    }
+}

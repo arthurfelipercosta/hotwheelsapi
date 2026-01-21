@@ -1,0 +1,25 @@
+{
+    "release_id": "ghc90-71-datsun-bluebird-510-wagon-2020",
+    "toy_number": "GHC90",
+    "casting_id": "71-datsun-bluebird-510-wagon",
+    "year": 2020,
+    "series_id": "hw-speed-graphics",
+    "series_index": 8,
+    "specs": {
+        "color": "Red",
+        "tampo": "Orange + Black Arrow on sides, roof & hood. 'Momo' logo on sides & hood. 'JNC', 'Kaido House' & Hot Wheels logo on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Datsun Bluebird Wagon (510) Base Code(s): N02, N03, N05, N06, N07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/GHC90-01.jpg/revision/latest/scale-to-width-down/75?cb=20200408103440"
+    }
+}

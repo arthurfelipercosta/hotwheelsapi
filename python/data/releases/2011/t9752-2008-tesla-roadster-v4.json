@@ -1,0 +1,25 @@
+{
+    "release_id": "t9752-2008-tesla-roadster-2011",
+    "toy_number": "T9752",
+    "casting_id": "2008-tesla-roadster",
+    "year": 2011,
+    "series_id": "track-stars",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "Trim Details",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted Gray",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C30, C31, C33, C37, C40, C43, C47, C50, C51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/Tesla_roadster_green_2011.png/revision/latest/scale-to-width-down/75?cb=20101105012813"
+    }
+}

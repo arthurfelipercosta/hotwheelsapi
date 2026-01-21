@@ -1,0 +1,23 @@
+{
+    "casting_id": "1988-ford-t-bird",
+    "name": "1988 Ford T-Bird",
+    "description": {
+        "en-us": "1988 Ford T-Bird Debut series HW Drag Strip Produced 2022 – Present Designer Brendon Vetuskey Number HCT25",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct25-1988-ford-t-bird.json",
+        "data/releases/2023/hkh05-1988-ford-t-bird.json",
+        "data/releases/2023/hkl25-1988-ford-t-bird.json",
+        "data/releases/2023/hkj80-1988-ford-t-bird.json",
+        "data/releases/2024/htv54-hxp46-1988-ford-t-bird.json",
+        "data/releases/2025/jby85-1988-ford-t-bird.json",
+        "data/releases/2025/x6999-1988-ford-t-bird.json",
+        "data/releases/2026/x6999-1988-ford-t-bird.json",
+        "data/releases/2026/x6999-1988-ford-t-bird-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Ford"
+}

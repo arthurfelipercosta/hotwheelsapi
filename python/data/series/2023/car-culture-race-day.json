@@ -1,0 +1,12 @@
+{
+    "series_id": "car-culture-race-day",
+    "year": 2023,
+    "name": "Car Culture: Race Day",
+    "total_releases": 3,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2023/hkc59-porsche-935.json",
+        "data/releases/2023/hkc60-aston-martin-vantage-gte.json",
+        "data/releases/2023/hkc63-porsche-935.json"
+    ]
+}

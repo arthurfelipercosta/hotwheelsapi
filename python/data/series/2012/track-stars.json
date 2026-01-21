@@ -2,9 +2,19 @@
     "series_id": "track-stars",
     "year": 2012,
     "name": "Track Stars",
-    "total_releases": 1,
+    "total_releases": 11,
     "max_index": 13,
     "releases": [
-        "data/releases/2012/v5366-nerve-hammer.json"
+        "data/releases/2012/v5354-scorcher.json",
+        "data/releases/2012/v5356-circle-trucker.json",
+        "data/releases/2012/v5357-24-ours.json",
+        "data/releases/2012/v5358-impavido-1.json",
+        "data/releases/2012/v5359-retro-active.json",
+        "data/releases/2012/v5360-draggin-tail.json",
+        "data/releases/2012/v5361-fast-cash.json",
+        "data/releases/2012/v5362-nitro-doorslammer.json",
+        "data/releases/2012/v5366-nerve-hammer.json",
+        "data/releases/2012/v5367-scoopa-di-fuego.json",
+        "data/releases/2012/v5368-torque-twister.json"
     ]
 }

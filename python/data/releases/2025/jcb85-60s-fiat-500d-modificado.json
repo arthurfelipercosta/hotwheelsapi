@@ -1,0 +1,24 @@
+{
+    "release_id": "jcb85-60s-fiat-500d-modificado-2025",
+    "toy_number": "JCB85",
+    "casting_id": "60s-fiat-500d-modificado",
+    "year": 2025,
+    "series_id": "peanuts-75-years",
+    "series_index": 5,
+    "specs": {
+        "color": "Cream",
+        "tampo": "Detailed headlights & taillights; red striping on sides, hood, & roof; Peppermint Patty and Marcie, Hot Wheels logo, & \"PEANUTS Social Club\" on sides; Peanuts logo & \"THE GANGS ALL HERE\" on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Chrome S5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T37, T38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/20241227121450.jpg/revision/latest/scale-to-width-down/75?cb=20241227181526"
+    }
+}

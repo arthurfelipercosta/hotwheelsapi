@@ -1,0 +1,15 @@
+{
+    "series_id": "shell-promo",
+    "year": 1973,
+    "name": "Shell Promo",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/1973/shell02-twin-mill.json",
+        "data/releases/1973/shell02-twin-mill.json",
+        "data/releases/1973/shell02-twin-mill.json",
+        "data/releases/1973/shell02-twin-mill.json",
+        "data/releases/1973/shell02-twin-mill.json",
+        "data/releases/1973/shell02-twin-mill.json"
+    ]
+}

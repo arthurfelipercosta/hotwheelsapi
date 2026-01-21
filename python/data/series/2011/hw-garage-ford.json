@@ -1,0 +1,10 @@
+{
+    "series_id": "hw-garage-ford",
+    "year": 2011,
+    "name": "HW Garage: Ford",
+    "total_releases": 1,
+    "max_index": 19,
+    "releases": [
+        "data/releases/2011/t8329-10-ford-shelby-gt500.json"
+    ]
+}

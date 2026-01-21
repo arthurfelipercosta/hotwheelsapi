@@ -1,0 +1,24 @@
+{
+    "release_id": "55562-67-camaro-2002",
+    "toy_number": "55562",
+    "casting_id": "67-camaro",
+    "year": 2002,
+    "series_id": "motor-city-classics",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "White stripes on hood & trunk, Motor City Classics Logo on rear window",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Goodyear DDRR"
+        }
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/Motor_City.jpg/revision/latest/scale-to-width-down/75?cb=20090525162824"
+    }
+}

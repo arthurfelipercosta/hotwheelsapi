@@ -1,0 +1,17 @@
+{
+    "casting_id": "grumobile",
+    "name": "Grumobile",
+    "description": {
+        "en-us": "Grumobile Debut series HW Screen Time Produced 2018 – Present Designer Dmitriy Shakhmatov Number FJV96",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv96-grumobile-v2.json",
+        "data/releases/2019/fyc90-grumobile-v2.json",
+        "data/releases/2024/htb39-grumobile-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

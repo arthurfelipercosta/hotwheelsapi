@@ -1,0 +1,27 @@
+{
+    "casting_id": "lamborghini-sesto-elemento",
+    "name": "Lamborghini Sesto Elemento",
+    "description": {
+        "en-us": "Lamborghini Sesto Elemento Debut series HW City: Speed Team Produced 2014 - Present Designer Leeway Chang Number BDC81",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc81-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2014/bff92-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2015/cfh88-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2016/dhr02-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2017/dwf28-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2018/fkt62-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2019/fyl17-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2020/ghc35-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2020/ghg17-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2021/gtf10-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2022/hfv80-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2024/htc23-lamborghini-sesto-elemento-v2.json",
+        "data/releases/2024/htf55-lamborghini-sesto-elemento-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Lamborghini"
+}

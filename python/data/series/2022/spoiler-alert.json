@@ -2,12 +2,17 @@
     "series_id": "spoiler-alert",
     "year": 2022,
     "name": "Spoiler Alert",
-    "total_releases": 4,
+    "total_releases": 9,
     "max_index": 4,
     "releases": [
+        "data/releases/2022/hct90-davancenator.json",
+        "data/releases/2022/hcv12-2005-ford-mustang.json",
+        "data/releases/2022/hcv13-track-manga.json",
         "data/releases/2022/hcv49-track-ripper.json",
         "data/releases/2022/hcv87-custom-18-ford-mustang-gt.json",
+        "data/releases/2022/hcx19-davancenator.json",
         "data/releases/2022/hcx68-track-ripper.json",
+        "data/releases/2022/hcx88-2005-ford-mustang.json",
         "data/releases/2022/hcy18-custom-18-ford-mustang-gt.json"
     ]
 }

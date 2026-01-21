@@ -1,0 +1,12 @@
+{
+    "series_id": "color-shifters",
+    "year": 2011,
+    "name": "Color Shifters",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2011/v0576-sharkruiser.json",
+        "data/releases/2011/v0587-1989-batmobile.json",
+        "data/releases/2011/v0588-mini-cooper.json"
+    ]
+}

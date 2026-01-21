@@ -1,0 +1,43 @@
+{
+    "casting_id": "arachnorod",
+    "name": "Arachnorod",
+    "description": {
+        "en-us": "Arachnorod Debut series 2000 First Editions Produced 2000 - Present Designer Phil Riehlman Number 24398\\n\\nArachnorod is a depiction of a spider-themed jet-powered hot rod. Its name is a portmanteau of the words \"arachnid\" and \"hot rod\".",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2000/24398-arachnorod-v2.json",
+        "data/releases/2001/50666-arachnorod-v3.json",
+        "data/releases/2001/50666-arachnorod-v4.json",
+        "data/releases/2002/56023-arachnorod-v2.json",
+        "data/releases/2003/57095-arachnorod-v2.json",
+        "data/releases/2004/c4560-arachnorod-v2.json",
+        "data/releases/2005/h9060-arachnorod-v2.json",
+        "data/releases/2006/j3467-arachnorod-v2.json",
+        "data/releases/2007/k7584-arachnorod-v2.json",
+        "data/releases/2008/m6910-arachnorod-v4.json",
+        "data/releases/2008/m6910-arachnorod-v5.json",
+        "data/releases/2008/m6910-arachnorod-v6.json",
+        "data/releases/2008/n1711-arachnorod-v2.json",
+        "data/releases/2009/n4070-arachnorod-v2.json",
+        "data/releases/2010/r0967-arachnorod-v2.json",
+        "data/releases/2010/r1180-arachnorod-v2.json",
+        "data/releases/2011/v0610-arachnorod-v2.json",
+        "data/releases/2011/t9914-arachnorod-v2.json",
+        "data/releases/2012/v5494-arachnorod-v2.json",
+        "data/releases/2013/x1704-arachnorod-v2.json",
+        "data/releases/2013/x1889-arachnorod-v2.json",
+        "data/releases/2014/bfc68-arachnorod-v2.json",
+        "data/releases/2014/bfg05-arachnorod-v2.json",
+        "data/releases/2015/cmj89-arachnorod-v2.json",
+        "data/releases/2018/gdg97-arachnorod-v2.json",
+        "data/releases/2019/fxb12-arachnorod-v2.json",
+        "data/releases/2020/ghp57-arachnorod-v2.json",
+        "data/releases/2021/gry49-arachnorod-v2.json",
+        "data/releases/2021/gtd67-arachnorod-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2000,
+    "manufacturer": "Mattel"
+}

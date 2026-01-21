@@ -2,12 +2,27 @@
     "series_id": "hw-speed-graphics",
     "year": 2020,
     "name": "HW Speed Graphics",
-    "total_releases": 4,
-    "max_index": 9,
+    "total_releases": 19,
+    "max_index": 5,
     "releases": [
+        "data/releases/2020/ghb40-nissan-silvia-s13.json",
         "data/releases/2020/ghc82-2008-lancer-evolution.json",
+        "data/releases/2020/ghc83-17-nissan-gt-r-r35.json",
+        "data/releases/2020/ghc84-2018-ford-mustang-gt.json",
+        "data/releases/2020/ghc85-19-ford-ranger-raptor.json",
+        "data/releases/2020/ghc86-65-mustang-2-2-fastback.json",
         "data/releases/2020/ghc87-68-dodge-dart.json",
+        "data/releases/2020/ghc88-87-dodge-d100.json",
+        "data/releases/2020/ghc90-71-datsun-bluebird-510-wagon.json",
         "data/releases/2020/ghc91-mazda-repu.json",
-        "data/releases/2020/ghf34-68-dodge-dart.json"
+        "data/releases/2020/ghf03-nissan-silvia-s13.json",
+        "data/releases/2020/ghf33-19-ford-ranger-raptor.json",
+        "data/releases/2020/ghf34-68-dodge-dart.json",
+        "data/releases/2020/ghf35-71-datsun-bluebird-510-wagon.json",
+        "data/releases/2020/ghf98-2018-ford-mustang-gt.json",
+        "data/releases/2020/ghg22-17-nissan-gt-r-r35.json",
+        "data/releases/2020/ghg32-87-dodge-d100.json",
+        "data/releases/2020/ghg51-65-mustang-2-2-fastback.json",
+        "data/releases/2020/ghg57-71-datsun-bluebird-510-wagon.json"
     ]
 }

@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-monster-trucks-monster-maker",
+    "year": 2021,
+    "name": "Hot Wheels Monster Trucks: Monster Maker",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2021/gww14-muscle-tone.json",
+        "data/releases/2021/gww15-audacious.json",
+        "data/releases/2021/gww15-rogue-hog.json",
+        "data/releases/2021/gww16-bedlam.json"
+    ]
+}

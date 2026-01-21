@@ -1,0 +1,10 @@
+{
+    "series_id": "san-diego-comic-con",
+    "year": 2012,
+    "name": "San Diego Comic-Con",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2012/x0550-the-mystery-machine.json"
+    ]
+}

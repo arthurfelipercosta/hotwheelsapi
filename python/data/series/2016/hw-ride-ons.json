@@ -2,11 +2,17 @@
     "series_id": "hw-ride-ons",
     "year": 2016,
     "name": "HW Ride-Ons",
-    "total_releases": 3,
+    "total_releases": 9,
     "max_index": 2,
     "releases": [
+        "data/releases/2016/dhp25-grass-chomper.json",
+        "data/releases/2016/dhp91-let-s-go.json",
         "data/releases/2016/dhp92-pedal-driver.json",
+        "data/releases/2016/dhp93-fig-rig.json",
+        "data/releases/2016/dhp93-fig-rig.json",
         "data/releases/2016/dhw73-pedal-driver.json",
+        "data/releases/2016/dhw74-fig-rig.json",
+        "data/releases/2016/dhw75-grass-chomper.json",
         "data/releases/2016/dpr89-minecart.json"
     ]
 }

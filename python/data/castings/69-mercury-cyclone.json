@@ -6,22 +6,22 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2012/v5338-69-mercury-cyclone.json",
-        "data/releases/2013/y9439-69-mercury-cyclone.json",
-        "data/releases/2014/x6999-69-mercury-cyclone.json",
-        "data/releases/2014/x6999-69-mercury-cyclone-v2.json",
-        "data/releases/2015/x6999-69-mercury-cyclone.json",
-        "data/releases/2015/cfn77-69-mercury-cyclone.json",
-        "data/releases/2016/dhr15-69-mercury-cyclone.json",
-        "data/releases/2016/dhx29-69-mercury-cyclone.json",
-        "data/releases/2017/x6999-69-mercury-cyclone.json",
-        "data/releases/2017/x6999-69-mercury-cyclone-v2.json",
-        "data/releases/2017/x6999-69-mercury-cyclone-v3.json",
-        "data/releases/2022/hdg62-69-mercury-cyclone.json",
-        "data/releases/2025/hyy61-69-mercury-cyclone.json"
+        "data/releases/2012/v5338-69-mercury-cyclone-v2.json",
+        "data/releases/2013/y9439-69-mercury-cyclone-v2.json",
+        "data/releases/2014/x6999-69-mercury-cyclone-v3.json",
+        "data/releases/2014/x6999-69-mercury-cyclone-v4.json",
+        "data/releases/2015/x6999-69-mercury-cyclone-v2.json",
+        "data/releases/2015/cfn77-69-mercury-cyclone-v2.json",
+        "data/releases/2016/dhr15-69-mercury-cyclone-v2.json",
+        "data/releases/2016/dhx29-69-mercury-cyclone-v2.json",
+        "data/releases/2017/x6999-69-mercury-cyclone-v4.json",
+        "data/releases/2017/x6999-69-mercury-cyclone-v5.json",
+        "data/releases/2017/x6999-69-mercury-cyclone-v6.json",
+        "data/releases/2022/hdg62-69-mercury-cyclone-v2.json",
+        "data/releases/2025/hyy61-69-mercury-cyclone-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",
     "debut_year": 2012,
-    "manufacturer": "Mattel"
+    "manufacturer": "Mercury"
 }

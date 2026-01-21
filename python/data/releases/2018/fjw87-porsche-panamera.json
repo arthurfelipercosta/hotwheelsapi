@@ -1,0 +1,24 @@
+{
+    "release_id": "fjw87-porsche-panamera-2018",
+    "toy_number": "FJW87",
+    "casting_id": "porsche-panamera",
+    "year": 2018,
+    "series_id": "hw-metro",
+    "series_index": 8,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue and fluorescent yellow checkering, Police, Police Badge",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L19, L20, L21, L22, L23, L24, L26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/Panamera_Police1.jpg/revision/latest/scale-to-width-down/75?cb=20180825232456"
+    }
+}

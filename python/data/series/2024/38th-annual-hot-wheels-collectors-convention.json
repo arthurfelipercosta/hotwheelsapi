@@ -1,0 +1,11 @@
+{
+    "series_id": "38th-annual-hot-wheels-collectors-convention",
+    "year": 2024,
+    "name": "38th Annual Hot Wheels Collectors Convention",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2024/hwf31-69-copo-corvette.json",
+        "data/releases/2024/hwf33-fairlady-2000.json"
+    ]
+}

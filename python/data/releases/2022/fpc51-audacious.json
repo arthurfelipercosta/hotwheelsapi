@@ -1,0 +1,24 @@
+{
+    "release_id": "fpc51-audacious-2022",
+    "toy_number": "FPC51",
+    "casting_id": "audacious",
+    "year": 2022,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "White (Warm) -> Blue (Cold)",
+        "tampo": "Hot Wheels logo on sides, blue paint",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Chrome Rim Y5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Identical to BHR27 Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Audacious_2009-Present_Color_Shifters.jpg/revision/latest/scale-to-width-down/75?cb=20241228014107"
+    }
+}

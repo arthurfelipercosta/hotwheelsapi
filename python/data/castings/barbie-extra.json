@@ -1,0 +1,17 @@
+{
+    "casting_id": "barbie-extra",
+    "name": "Barbie Extra",
+    "description": {
+        "en-us": "Barbie Extra Debut series Tooned Produced 2022 – Present Designer Kevin Cao Number HCT35",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct35-barbie-extra.json",
+        "data/releases/2022/hcx32-barbie-extra.json",
+        "data/releases/2023/hkh11-barbie-extra.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

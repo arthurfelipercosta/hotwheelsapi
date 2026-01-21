@@ -1,0 +1,33 @@
+{
+    "casting_id": "65-ford-ranchero",
+    "name": "'65 Ford Ranchero",
+    "description": {
+        "en-us": "'65 Ford Ranchero Debut series 2011 New Models Produced 2011 - Present Designer Mike Nuttall Number T9711",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9711-65-ford-ranchero.json",
+        "data/releases/2011/x3366-65-ford-ranchero.json",
+        "data/releases/2012/v5350-65-ford-ranchero.json",
+        "data/releases/2012/w6664-65-ford-ranchero.json",
+        "data/releases/2013/x6999-65-ford-ranchero.json",
+        "data/releases/2013/y2087-65-ford-ranchero.json",
+        "data/releases/2014/x6999-65-ford-ranchero.json",
+        "data/releases/2014/x6999-65-ford-ranchero-v2.json",
+        "data/releases/2014/bdr90-65-ford-ranchero.json",
+        "data/releases/2015/cfh98-65-ford-ranchero.json",
+        "data/releases/2015/cfl99-65-ford-ranchero.json",
+        "data/releases/2018/x6999-65-ford-ranchero.json",
+        "data/releases/2018/frn39-65-ford-ranchero.json",
+        "data/releases/2018/fky25-65-ford-ranchero.json",
+        "data/releases/2018/fkx54-65-ford-ranchero.json",
+        "data/releases/2018/gdg62-65-ford-ranchero.json",
+        "data/releases/2019/fyl21-65-ford-ranchero.json",
+        "data/releases/2021/grp23-65-ford-ranchero.json",
+        "data/releases/2022/hdh33-65-ford-ranchero.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Ford"
+}

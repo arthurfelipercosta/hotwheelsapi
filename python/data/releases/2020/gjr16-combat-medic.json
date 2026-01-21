@@ -1,0 +1,24 @@
+{
+    "release_id": "gjr16-combat-medic-2020",
+    "toy_number": "GJR16",
+    "casting_id": "combat-medic",
+    "year": 2020,
+    "series_id": "pop-culture-led-zeppelin",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "\"Led Zeppelin III\" album art on sides; light blue roof, detailed headlights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Light Blue",
+        "wheel_type": {
+            "0": "DDRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M40, M41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/IMG_3488.JPG/revision/latest/scale-to-width-down/75?cb=20191215032641"
+    }
+}

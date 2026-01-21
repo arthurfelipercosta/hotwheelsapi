@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-autostrasse",
+    "year": 2022,
+    "name": "Car Culture: AutoStrasse",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2022/hck16-lamborghini-urus.json",
+        "data/releases/2022/hck17-alpine-a110.json"
+    ]
+}

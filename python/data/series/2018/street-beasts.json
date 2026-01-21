@@ -2,10 +2,21 @@
     "series_id": "street-beasts",
     "year": 2018,
     "name": "Street Beasts",
-    "total_releases": 2,
+    "total_releases": 13,
     "max_index": 3,
     "releases": [
+        "data/releases/2018/fjv60-beat-all.json",
+        "data/releases/2018/fjx35-scorpedo.json",
+        "data/releases/2018/fjx36-purrfect-speed.json",
         "data/releases/2018/fjx37-shark-bite.json",
-        "data/releases/2018/fjy88-shark-bite.json"
+        "data/releases/2018/fjx38-turbo-rooster.json",
+        "data/releases/2018/fjx39-hotweiler.json",
+        "data/releases/2018/fjx40-vampyra.json",
+        "data/releases/2018/fjx41-piranha-terror.json",
+        "data/releases/2018/fjx42-super-stinger.json",
+        "data/releases/2018/fjx43-ratical-racer.json",
+        "data/releases/2018/fjy88-shark-bite.json",
+        "data/releases/2018/fjy89-beat-all.json",
+        "data/releases/2018/fkb33-ratical-racer.json"
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "series_id": "priority-patrol-5-pack",
+    "year": 2026,
+    "name": "Priority Patrol 5-Pack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2026/jkg09-ford-mustang-gt-concept.json",
+        "data/releases/2026/jkg09-heavy-hitcher.json",
+        "data/releases/2026/jkg09-killer-copter.json",
+        "data/releases/2026/jkg09-rescue-ranger.json",
+        "data/releases/2026/jkg09-rockster.json"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "casting_id": "porsche-356-outlaw",
+    "name": "Porsche 356 Outlaw",
+    "description": {
+        "en-us": "Porsche 356 Outlaw Debut series HW Showroom Produced 2016 - Present Designer Mark Jones Number DHP11",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp11-porsche-356-outlaw-v2.json",
+        "data/releases/2016/dhx35-porsche-356-outlaw-v2.json",
+        "data/releases/2017/dwh72-porsche-356-outlaw-v2.json",
+        "data/releases/2017/dtx62-porsche-356-outlaw-v2.json",
+        "data/releases/2019/x6999-porsche-356-outlaw-v2.json",
+        "data/releases/2019/fyt06-porsche-356-outlaw-v2.json",
+        "data/releases/2020/x6999-porsche-356-outlaw-v2.json",
+        "data/releases/2020/gjt74-porsche-356-outlaw-v2.json",
+        "data/releases/2021/gry45-porsche-356-outlaw-v2.json",
+        "data/releases/2021/gtd08-porsche-356-outlaw-v2.json",
+        "data/releases/2022/x6999-porsche-356-outlaw-v4.json",
+        "data/releases/2022/x6999-porsche-356-outlaw-v5.json",
+        "data/releases/2022/x6999-porsche-356-outlaw-v6.json",
+        "data/releases/2023/x6999-porsche-356-outlaw-v2.json",
+        "data/releases/2023/hlr39-porsche-356-outlaw-v2.json",
+        "data/releases/2024/htf95-porsche-356-outlaw-v2.json",
+        "data/releases/2025/jby64-porsche-356-outlaw-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Porsche"
+}

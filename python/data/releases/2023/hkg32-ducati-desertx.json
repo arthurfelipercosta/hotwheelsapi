@@ -1,0 +1,31 @@
+{
+    "release_id": "hkg32-ducati-desertx-2023",
+    "toy_number": "HKG32",
+    "casting_id": "ducati-desertx",
+    "year": 2023,
+    "series_id": "hw-moto",
+    "series_index": 1,
+    "specs": {
+        "color": "Star White Silk",
+        "tampo": "Detailed headlights, red and white diagonals, \" DUCATI DESERTX \" on red diagonal",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ORMC",
+            "1": "Superlight Yellow",
+            "2": "Detailed headlights",
+            "3": "black",
+            "4": "white diagonals",
+            "5": "\" DUCATI DESERTX \" on white diagonal",
+            "6": "HKK31",
+            "7": "New Model Base code(s): S19"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/DucatiDesertX.jpg/revision/latest/scale-to-width-down/75?cb=20230116095726"
+    }
+}

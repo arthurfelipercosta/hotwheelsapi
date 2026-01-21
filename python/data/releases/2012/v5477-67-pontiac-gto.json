@@ -1,0 +1,24 @@
+{
+    "release_id": "v5477-67-pontiac-gto-2012",
+    "toy_number": "V5477",
+    "casting_id": "67-pontiac-gto",
+    "year": 2012,
+    "series_id": "hw-racing",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Red, Yellow & White HW Race Team deco, \"10\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Red Chrome rimmed Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D42, D49, D50, E05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/67_pontiac_gto_2012_blue.png/revision/latest/scale-to-width-down/75?cb=20120421160058"
+    }
+}

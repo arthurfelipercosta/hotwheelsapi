@@ -1,0 +1,27 @@
+{
+    "release_id": "hcv38-wheelie-chair-2022",
+    "toy_number": "HCV38",
+    "casting_id": "wheelie-chair",
+    "year": 2022,
+    "series_id": "hw-daredevils",
+    "series_index": 2,
+    "specs": {
+        "color": "Green",
+        "tampo": "Red stripes w/ flame & Black Aaron Fotheringham licensed deco on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Front",
+            "1": "Clear Orange",
+            "2": "Rear",
+            "3": "Black White Rimmed OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/WHEELIE_CHAIR_HCV38.jpg/revision/latest/scale-to-width-down/75?cb=20220330150052"
+    }
+}

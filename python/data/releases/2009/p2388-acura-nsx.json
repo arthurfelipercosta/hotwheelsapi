@@ -1,0 +1,25 @@
+{
+    "release_id": "p2388-acura-nsx-2009",
+    "toy_number": "P2388",
+    "casting_id": "acura-nsx",
+    "year": 2009,
+    "series_id": "hot-wheels-racing",
+    "series_index": 2,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "Hot Wheels Race Team Deco.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): A52, B02, B08, B09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/Acura_NSX_-_09_Hot_Wheels_Racing.jpg/revision/latest/scale-to-width-down/75?cb=20090325231440"
+    }
+}

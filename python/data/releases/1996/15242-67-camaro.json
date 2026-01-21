@@ -1,0 +1,28 @@
+{
+    "release_id": "15242-67-camaro-1996",
+    "toy_number": "15242",
+    "casting_id": "67-camaro",
+    "year": 1996,
+    "series_id": "mod-bod",
+    "series_index": 4,
+    "specs": {
+        "color": "Bright Green",
+        "tampo": "Red stripes with \"Hot Wheels\" logo on both sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "7SP",
+            "1": "Smoke",
+            "2": "5SP",
+            "3": "Clear",
+            "4": "Found with closed & open steering wheel Silver Painted Motor"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/ModBod_7sp.jpg/revision/latest/scale-to-width-down/75?cb=20090525051932"
+    }
+}

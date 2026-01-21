@@ -1,0 +1,25 @@
+{
+    "release_id": "hcv10-69-copo-corvette-2022",
+    "toy_number": "HCV10",
+    "casting_id": "69-copo-corvette",
+    "year": 2022,
+    "series_id": "retro-racers",
+    "series_index": 6,
+    "specs": {
+        "color": "Metalflake Royal Blue",
+        "tampo": "Red & white stripes & accents on sides & top, '69' numbering, 'HW', various sponsor logos on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P44, P45, P46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/50/%2769_COPO_Corvette_2022_HW_Retro_Racers.jpg/revision/latest/scale-to-width-down/75?cb=20241115225328"
+    }
+}

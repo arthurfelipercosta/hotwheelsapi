@@ -1,0 +1,17 @@
+{
+    "series_id": "hot-wheels-toys-activity-set-dollar-tree",
+    "year": 2025,
+    "name": "Hot Wheels Toys & Activity Set (Dollar Tree)",
+    "total_releases": 8,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2025/hcx67-fast-fish.json",
+        "data/releases/2025/hmw14-tooligan.json",
+        "data/releases/2025/hmw17-aristo-rat.json",
+        "data/releases/2025/hmw19-ms-t-suzuka.json",
+        "data/releases/2025/hmw21-velocita.json",
+        "data/releases/2025/hmw24-let-s-go.json",
+        "data/releases/2025/hmw27-lethal-diesel.json",
+        "data/releases/2025/hmw28-driftsta.json"
+    ]
+}

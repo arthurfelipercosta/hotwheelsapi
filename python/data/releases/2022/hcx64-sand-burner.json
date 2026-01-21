@@ -1,0 +1,24 @@
+{
+    "release_id": "hcx64-sand-burner-2022",
+    "toy_number": "HCX64",
+    "casting_id": "sand-burner",
+    "year": 2022,
+    "series_id": "rally-champs",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "White, Black, Green and Yellow stripes on hood and sides. \"RALLY EL SEGUNDO\" on hood, \"RALLY\", \"X\", \"356\", \"RYU\", \"Eng\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red BAJA5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R35",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/SandBurnerRed2022.jpg/revision/latest/scale-to-width-down/75?cb=20230209035834"
+    }
+}

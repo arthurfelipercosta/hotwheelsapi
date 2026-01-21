@@ -1,0 +1,28 @@
+{
+    "series_id": "hw-code-cars",
+    "year": 2012,
+    "name": "HW Code Cars",
+    "total_releases": 19,
+    "max_index": 21,
+    "releases": [
+        "data/releases/2012/v5530-custom-11-camaro.json",
+        "data/releases/2012/v5531-sandblaster.json",
+        "data/releases/2012/v5533-dodge-challenger-drift-car.json",
+        "data/releases/2012/v5534-scion-xb.json",
+        "data/releases/2012/v5536-dirty-outlaw.json",
+        "data/releases/2012/v5537-2006-dodge-viper-coupe.json",
+        "data/releases/2012/v5538-snow-ride.json",
+        "data/releases/2012/v5539-canyon-carver.json",
+        "data/releases/2012/v5540-buzzerk.json",
+        "data/releases/2012/v5542-tread-air.json",
+        "data/releases/2012/v5543-teegray.json",
+        "data/releases/2012/v5544-fangula.json",
+        "data/releases/2012/v5545-semi-psycho.json",
+        "data/releases/2012/v5546-yur-so-fast.json",
+        "data/releases/2012/v5547-invader.json",
+        "data/releases/2012/v5549-cool-one.json",
+        "data/releases/2012/v5549-cool-one.json",
+        "data/releases/2012/v5550-twinduction.json",
+        "data/releases/2012/v5577-dodge-challenger-drift-car.json"
+    ]
+}

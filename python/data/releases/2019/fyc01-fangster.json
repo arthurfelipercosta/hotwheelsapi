@@ -1,0 +1,25 @@
+{
+    "release_id": "fyc01-fangster-2019",
+    "toy_number": "FYC01",
+    "casting_id": "fangster",
+    "year": 2019,
+    "series_id": "dino-riders",
+    "series_index": 2,
+    "specs": {
+        "color": "Light Purple",
+        "tampo": "Black & Yellow Arrows on Head",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Aqua",
+            "1": "Gold OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L33, L40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/FANGSTER_FYC01.jpg/revision/latest/scale-to-width-down/75?cb=20181227163834"
+    }
+}

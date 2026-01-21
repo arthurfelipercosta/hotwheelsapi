@@ -1,0 +1,29 @@
+{
+    "casting_id": "batman-arkham-knight-batmobile",
+    "name": "Batman: Arkham Knight Batmobile",
+    "description": {
+        "en-us": "Batman: Arkham Knight Batmobile Debut series HW City: Batman Produced 2015 - Present Designer Ryu Asada Number CFG82",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfg82-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2015/dfk72-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2016/dht18-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2017/dty48-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2017/dvb71-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2018/fjx31-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2019/fxb28-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2021/grx86-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2021/gtb54-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2021/gtd61-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2022/hdk80-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2023/hlk67-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2024/htb22-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2024/htd85-batman-arkham-knight-batmobile-v2.json",
+        "data/releases/2024/hrw23-batman-arkham-knight-batmobile-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

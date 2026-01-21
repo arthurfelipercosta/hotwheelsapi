@@ -2,9 +2,14 @@
     "series_id": "super-rigs",
     "year": 2020,
     "name": "Super Rigs",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
-        "data/releases/2020/bdw54-bone-shaker.json"
+        "data/releases/2020/bdw54-bone-shaker.json",
+        "data/releases/2020/gbf16-team-hot-wheels-corkscrew-buggy.json",
+        "data/releases/2020/gkc23-head-starter.json",
+        "data/releases/2020/gkc25-motosaurus.json",
+        "data/releases/2020/gkc26-head-starter.json",
+        "data/releases/2020/gkc28-motosaurus.json"
     ]
 }

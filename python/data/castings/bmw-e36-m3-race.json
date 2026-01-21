@@ -1,0 +1,22 @@
+{
+    "casting_id": "bmw-e36-m3-race",
+    "name": "BMW E36 M3 Race",
+    "description": {
+        "en-us": "BMW E36 M3 Race Debut series HW Race: Track Aces Produced 2014 – Present Designer Rob Matthes Number BDD07",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd07-bmw-e36-m3-race.json",
+        "data/releases/2014/bfg64-bmw-e36-m3-race.json",
+        "data/releases/2015/cfj61-bmw-e36-m3-race.json",
+        "data/releases/2015/cfk90-bmw-e36-m3-race.json",
+        "data/releases/2016/djm82-bmw-e36-m3-race.json",
+        "data/releases/2019/gbb91-bmw-e36-m3-race.json",
+        "data/releases/2021/gpk53-bmw-e36-m3-race.json",
+        "data/releases/2025/jgk09-bmw-e36-m3-race.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "BMW"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "fyg22-mclaren-senna-2019",
+    "toy_number": "FYG22",
+    "casting_id": "mclaren-senna",
+    "year": 2019,
+    "series_id": "hw-exotics",
+    "series_index": 4,
+    "specs": {
+        "color": "McLaren Orange",
+        "tampo": "Detailed taillights, McLaren badge on front & rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black",
+        "interior_color": "Unseen",
+        "wheel_type": {
+            "0": "Dark Gray PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Playable in Unleashed Base code(s): M19, M20, M21, M22, M24, M25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/95/Senna_Orange_19.jpg/revision/latest/scale-to-width-down/75?cb=20190802091911"
+    }
+}

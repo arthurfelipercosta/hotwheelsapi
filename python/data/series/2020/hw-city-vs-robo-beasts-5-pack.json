@@ -2,10 +2,11 @@
     "series_id": "hw-city-vs-robo-beasts-5-pack",
     "year": 2020,
     "name": "HW City Vs. Robo Beasts 5-Pack",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
         "data/releases/2020/ghp63-blitzspeeder.json",
+        "data/releases/2020/ghp63-hw-pursuit.json",
         "data/releases/2020/ghp63-voltage-spike.json"
     ]
 }

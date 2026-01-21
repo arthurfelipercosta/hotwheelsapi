@@ -1,0 +1,24 @@
+{
+    "release_id": "r7611-super-van-2010",
+    "toy_number": "R7611",
+    "casting_id": "super-van",
+    "year": 2010,
+    "series_id": "race-world-city",
+    "series_index": 2,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Red & Blue Ambulance",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Blue tint",
+        "wheel_type": {
+            "0": "5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/Supervan_city_white.JPG/revision/latest/scale-to-width-down/75?cb=20091208112025"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "jcg90-diesel-duty-2025",
+    "toy_number": "JCG90",
+    "casting_id": "diesel-duty",
+    "year": 2025,
+    "series_id": "halloween",
+    "series_index": 2,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Eyeball graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Purple",
+        "wheel_type": {
+            "0": "Glow-in-the-dark tire",
+            "1": "Orange Skull"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U09N, U19N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/2025HalloweenDieselDuty.jpg/revision/latest/scale-to-width-down/75?cb=20250924105037"
+    }
+}

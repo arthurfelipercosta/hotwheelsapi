@@ -1,0 +1,24 @@
+{
+    "release_id": "dhr23-bentley-continental-supersports-2016",
+    "toy_number": "DHR23",
+    "casting_id": "bentley-continental-supersports",
+    "year": 2016,
+    "series_id": "hw-exotics",
+    "series_index": 7,
+    "specs": {
+        "color": "White",
+        "tampo": "Black stripes on roof & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H42, H46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/20160117_142043-1.jpg/revision/latest/scale-to-width-down/75?cb=20160117194248"
+    }
+}

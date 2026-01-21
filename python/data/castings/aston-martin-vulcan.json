@@ -1,0 +1,25 @@
+{
+    "casting_id": "aston-martin-vulcan",
+    "name": "Aston Martin Vulcan",
+    "description": {
+        "en-us": "Aston Martin Vulcan Debut series HW Exotics Produced 2019 - Present Designer Ryu Asada Number FYB45",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb45-aston-martin-vulcan-v2.json",
+        "data/releases/2020/ghc01-aston-martin-vulcan-v2.json",
+        "data/releases/2020/ghg74-aston-martin-vulcan-v2.json",
+        "data/releases/2021/x6999-aston-martin-vulcan-v2.json",
+        "data/releases/2021/grj77-aston-martin-vulcan-v2.json",
+        "data/releases/2022/hfv80-aston-martin-vulcan-v2.json",
+        "data/releases/2023/hlk52-aston-martin-vulcan-v2.json",
+        "data/releases/2023/hrx24-aston-martin-vulcan-v2.json",
+        "data/releases/2023/hmy97-aston-martin-vulcan-v2.json",
+        "data/releases/2025/jbj89-aston-martin-vulcan-v2.json",
+        "data/releases/2026/jkx68-aston-martin-vulcan-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Aston Martin"
+}

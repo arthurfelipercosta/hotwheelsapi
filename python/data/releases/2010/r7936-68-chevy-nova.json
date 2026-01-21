@@ -1,0 +1,25 @@
+{
+    "release_id": "r7936-68-chevy-nova-2010",
+    "toy_number": "R7936",
+    "casting_id": "68-chevy-nova",
+    "year": 2010,
+    "series_id": "gift-cars",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black and Yellow stripes, \"3\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/25_1968_Nova.png/revision/latest/scale-to-width-down/75?cb=20210704123809"
+    }
+}

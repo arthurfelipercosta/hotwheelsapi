@@ -2,9 +2,18 @@
     "series_id": "high-speed-racing-wheels",
     "year": 2014,
     "name": "High Speed Racing Wheels",
-    "total_releases": 1,
+    "total_releases": 10,
     "max_index": 16,
     "releases": [
-        "data/releases/2014/bdw36-chevroletor.json"
+        "data/releases/2014/bdw19-baja-truck.json",
+        "data/releases/2014/bdw23-rat-ified.json",
+        "data/releases/2014/bdw26-split-decision.json",
+        "data/releases/2014/bdw28-ford-gt-40.json",
+        "data/releases/2014/bdw30-maelstrom.json",
+        "data/releases/2014/bdw32-4ward-speed.json",
+        "data/releases/2014/bdw35-rd-05.json",
+        "data/releases/2014/bdw36-chevroletor.json",
+        "data/releases/2014/bdw39-teegray.json",
+        "data/releases/2014/bdw40-jack-hammer.json"
     ]
 }

@@ -1,0 +1,25 @@
+{
+    "release_id": "t8259-66-ford-427-fairlane-2011",
+    "toy_number": "T8259",
+    "casting_id": "66-ford-427-fairlane",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-ford",
+    "series_index": 3,
+    "specs": {
+        "color": "Black",
+        "tampo": "Red stripes on sides, Silver 'Fairlane' on rear quarter panel",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Grey RR10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/P1100648c_1000.jpg/revision/latest/scale-to-width-down/75?cb=20110120175059"
+    }
+}

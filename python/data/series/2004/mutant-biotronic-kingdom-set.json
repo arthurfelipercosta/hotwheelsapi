@@ -2,9 +2,15 @@
     "series_id": "mutant-biotronic-kingdom-set",
     "year": 2004,
     "name": "Mutant Biotronic Kingdom Set",
-    "total_releases": 1,
+    "total_releases": 7,
     "max_index": 0,
     "releases": [
-        "data/releases/2004/c4560-power-rocket.json"
+        "data/releases/2004/c4560-arachnorod.json",
+        "data/releases/2004/c4560-ground-fx.json",
+        "data/releases/2004/c4560-maelstrom.json",
+        "data/releases/2004/c4560-power-rocket.json",
+        "data/releases/2004/c4560-sharkruiser.json",
+        "data/releases/2004/c4560-sling-shot.json",
+        "data/releases/2004/c4560-vulture-roadster.json"
     ]
 }

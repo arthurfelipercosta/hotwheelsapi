@@ -1,0 +1,26 @@
+{
+    "casting_id": "loopster",
+    "name": "Loopster",
+    "description": {
+        "en-us": "Loopster Debut series HW City: Surf Patrol Produced 2015 - Present Designer Fraser Campbell Number CFG88",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfg88-loopster-v2.json",
+        "data/releases/2015/cfm14-loopster-v2.json",
+        "data/releases/2016/dhp94-loopster-v2.json",
+        "data/releases/2017/dty37-loopster-v2.json",
+        "data/releases/2018/fjx86-loopster-v2.json",
+        "data/releases/2018/fkb15-loopster-v2.json",
+        "data/releases/2020/ghp49-loopster-v2.json",
+        "data/releases/2021/grx77-loopster-v2.json",
+        "data/releases/2021/gtc80-loopster-v2.json",
+        "data/releases/2024/htc56-loopster-v2.json",
+        "data/releases/2024/htf14-loopster-v2.json",
+        "data/releases/2025/jbj88-loopster-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Mattel"
+}

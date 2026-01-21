@@ -11,7 +11,7 @@ def slugify(text):
 
 def extract_manufacturer(casting_name):
     if not casting_name: return "Unknown"
-    real_manufacturers = ["Ferrari", "Lamborghini", "McLaren", "Porsche", "Bugatti", "Ford", "Chevrolet", "Chevy", "Dodge", "Nissan", "Honda", "Koenigsegg", "Toyota", "Mazda", "Maserati", "Subaru", "Tesla"] 
+    real_manufacturers = ["Acura", "Alfa Romeo", "Aston Martin", "Audi", "Bentley", "BMW", "Bugatti", "Buick", "Cadillac", "Citroen", "Chevrolet", "Chevy", "Datsun", "Dodge", "Ducati", "Ferrari", "Fiat", "Ford", "GMC", "Honda", "Jaguar", "Jeep", "Kia", "Koenigsegg", "Lamborghini", "Lancia", "Land Rover", "Lincoln", "Lotus", "Maserati", "Mercedes", "Mercury", "Mazda", "McLaren", "Mini", "Mitsubishi", "Nissan", "Pagani", "Peugeot", "Plymouth", "Pontiac", "Porsche", "Range Rover", "Renault", "Rimac", "Shelby", "Subaru", "Tesla", "Toyota", "Volvo", "Volkswagen"] 
     first_word = casting_name.split()[0]
     if first_word in real_manufacturers: return first_word
     for m in real_manufacturers:
@@ -19,14 +19,12 @@ def extract_manufacturer(casting_name):
     return "Mattel"
 
 # --- FUNÇÃO PRINCIPAL ---
-def organize_batch():
-    json_folder = 'json'
-    
+def organize_batch(json_folder='json'):
     # Rastreia arquivos criados NESTA execução para evitar duplicatas infinitas (v2, v3...)
-    # ao rodar o script múltiplas vezes.
     generated_files_registry = set()
 
-    json_files = glob.glob(os.path.join(json_folder, "*.json"))
+    # Busca recursiva em subpastas
+    json_files = glob.glob(os.path.join(json_folder, "**/*.json"), recursive=True)
     
     if not json_files:
         print(f"❌ Nenhum arquivo JSON encontrado em '{json_folder}/'.")

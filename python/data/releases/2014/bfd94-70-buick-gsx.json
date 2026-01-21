@@ -1,0 +1,25 @@
+{
+    "release_id": "bfd94-70-buick-gsx-2014",
+    "toy_number": "BFD94",
+    "casting_id": "70-buick-gsx",
+    "year": 2014,
+    "series_id": "hw-workshop-heat-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Red & Blue flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Chrome Red rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G10, G11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/%2770_Buick_GSX-2014_215.jpg/revision/latest/scale-to-width-down/75?cb=20140524075503"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "release_id": "15250-classic-cobra-1996",
+    "toy_number": "15250",
+    "casting_id": "classic-cobra",
+    "year": 1996,
+    "series_id": "sports-car",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue Stripes, Soccer Player & Ball",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "7SP",
+            "1": "5SP",
+            "2": "Rare"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/Classic_Cobra_SprtCr.JPG/revision/latest/scale-to-width-down/75?cb=20090301152450"
+    }
+}

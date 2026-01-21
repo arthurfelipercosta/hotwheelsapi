@@ -1,0 +1,25 @@
+{
+    "release_id": "t4413-ferrari-599xx-2010",
+    "toy_number": "T4413",
+    "casting_id": "ferrari-599xx",
+    "year": 2010,
+    "series_id": "speed-machines",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "Ferrari emblems, and trim details, Red and Yellow stripes, \"599\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "Gold Chrome rim",
+            "1": "Black CM6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named Ferrari 599 XX Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/68/Ferrari_599XX_02.jpg/revision/latest/scale-to-width-down/75?cb=20150603053433"
+    }
+}

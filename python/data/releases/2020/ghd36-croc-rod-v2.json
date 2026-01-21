@@ -1,0 +1,25 @@
+{
+    "release_id": "ghd36-croc-rod-2020",
+    "toy_number": "GHD36",
+    "casting_id": "croc-rod",
+    "year": 2020,
+    "series_id": "street-beasts",
+    "series_index": 4,
+    "specs": {
+        "color": "Green",
+        "tampo": "Gold & Dark Green squares on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "N/A",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black rim",
+            "1": "Green OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N05, N08, N10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/36B38FF0-6E41-47E9-97F6-89187B1F2A39.jpeg/revision/latest/scale-to-width-down/75?cb=20200613162630"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "p3547-07-ford-mustang-2009",
+    "toy_number": "P3547",
+    "casting_id": "07-ford-mustang",
+    "year": 2009,
+    "series_id": "mustang-45th-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Light Blue",
+        "tampo": "Orange & white stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Chrome",
+            "1": "black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/HW_%2707_Ford_Mustang.JPG/revision/latest/scale-to-width-down/75?cb=20091004024156"
+    }
+}

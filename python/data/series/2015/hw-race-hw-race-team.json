@@ -2,14 +2,27 @@
     "series_id": "hw-race-hw-race-team",
     "year": 2015,
     "name": "HW Race: HW Race Team",
-    "total_releases": 6,
+    "total_releases": 19,
     "max_index": 0,
     "releases": [
+        "data/releases/2015/cfg96-gt-hunter.json",
+        "data/releases/2015/cfg97-winning-formula.json",
         "data/releases/2015/cfj37-rrroadster.json",
         "data/releases/2015/cfj37-rrroadster.json",
         "data/releases/2015/cfj54-the-vanster.json",
+        "data/releases/2015/cfj73-winning-formula.json",
+        "data/releases/2015/cfj84-13-copo-camaro.json",
+        "data/releases/2015/cfk73-let-s-go.json",
+        "data/releases/2015/cfk74-13-copo-camaro.json",
+        "data/releases/2015/cfk74-13-copo-camaro.json",
         "data/releases/2015/cfk75-the-vanster.json",
         "data/releases/2015/cfk76-rrroadster.json",
-        "data/releases/2015/cfk76-rrroadster.json"
+        "data/releases/2015/cfk76-rrroadster.json",
+        "data/releases/2015/cfk78-circle-trucker.json",
+        "data/releases/2015/cfk79-lancia-stratos.json",
+        "data/releases/2015/cfk80-prototype-h-24.json",
+        "data/releases/2015/cfl40-gt-hunter.json",
+        "data/releases/2015/cfl66-prototype-h-24.json",
+        "data/releases/2015/cfl94-let-s-go.json"
     ]
 }

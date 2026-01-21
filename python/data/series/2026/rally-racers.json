@@ -2,10 +2,12 @@
     "series_id": "rally-racers",
     "year": 2026,
     "name": "Rally Racers",
-    "total_releases": 2,
+    "total_releases": 4,
     "max_index": 2,
     "releases": [
         "data/releases/2026/jkx61-87-audi-quattro.json",
-        "data/releases/2026/jkx62-honda-s800-racing.json"
+        "data/releases/2026/jkx62-honda-s800-racing.json",
+        "data/releases/2026/jkx63-ford-escort-rs2000.json",
+        "data/releases/2026/jkx64-datsun-bluebird-510.json"
     ]
 }

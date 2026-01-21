@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv07-57-chevy-2022",
+    "toy_number": "HCV07",
+    "casting_id": "57-chevy",
+    "year": 2022,
+    "series_id": "chevy-bel-air",
+    "series_index": 3,
+    "specs": {
+        "color": "Matte Red",
+        "tampo": "White & Silver Stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "WW5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P38, P41, P42, P43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/%2757_Chevy_rojo.jpg/revision/latest/scale-to-width-down/75?cb=20220318232807"
+    }
+}

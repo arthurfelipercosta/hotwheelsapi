@@ -1,0 +1,24 @@
+{
+    "release_id": "fyf84-ford-focus-rs-2019",
+    "toy_number": "FYF84",
+    "casting_id": "ford-focus-rs",
+    "year": 2019,
+    "series_id": "nightburnerz",
+    "series_index": 9,
+    "specs": {
+        "color": "Slate Grey",
+        "tampo": "White, Orange & Blue stripes, 'RS' and sponsors logos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M24, M25, M26, M28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/45/16_Focus_RS_Grey_19.jpg/revision/latest/scale-to-width-down/75?cb=20190823100517"
+    }
+}

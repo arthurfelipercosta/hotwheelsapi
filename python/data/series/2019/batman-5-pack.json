@@ -1,0 +1,11 @@
+{
+    "series_id": "batman-5-pack",
+    "year": 2019,
+    "name": "Batman 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2019/fyl09-batcopter.json",
+        "data/releases/2019/fyl09-cockney-cab-ii.json"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "casting_id": "road-bandit",
+    "name": "Road Bandit",
+    "description": {
+        "en-us": "Road Bandit Debut series HW Metro Produced 2020 - Present Designer Dmitriy Shakhmatov Number GHB83",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb83-road-bandit-v2.json",
+        "data/releases/2020/ghd91-road-bandit-v2.json",
+        "data/releases/2021/gry31-road-bandit-v2.json",
+        "data/releases/2021/gtc31-road-bandit-v2.json",
+        "data/releases/2024/htb43-road-bandit-v2.json",
+        "data/releases/2024/htd27-road-bandit-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

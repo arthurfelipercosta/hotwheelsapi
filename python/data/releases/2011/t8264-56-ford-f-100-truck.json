@@ -1,0 +1,26 @@
+{
+    "release_id": "t8264-56-ford-f-100-truck-2011",
+    "toy_number": "T8264",
+    "casting_id": "56-ford-f-100-truck",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-ford",
+    "series_index": 4,
+    "specs": {
+        "color": "Metallic Maroon & White",
+        "tampo": "Silver & Magenta pinstrip character on rear doors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red Line",
+            "1": "Chrome rim",
+            "2": "Grey RRS"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/33/56FordTruck_11G.JPG/revision/latest/scale-to-width-down/75?cb=20110319104947"
+    }
+}

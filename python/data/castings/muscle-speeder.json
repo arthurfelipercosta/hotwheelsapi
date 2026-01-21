@@ -1,0 +1,27 @@
+{
+    "casting_id": "muscle-speeder",
+    "name": "Muscle Speeder",
+    "description": {
+        "en-us": "Muscle Speeder Debut series Muscle Mania Produced 2016 - Present Designer Fraser Campbell Number DHP12",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp12-muscle-speeder.json",
+        "data/releases/2016/dhw54-muscle-speeder.json",
+        "data/releases/2017/dvb02-muscle-speeder.json",
+        "data/releases/2018/x6999-muscle-speeder.json",
+        "data/releases/2018/fkx71-muscle-speeder.json",
+        "data/releases/2020/gmr82-muscle-speeder.json",
+        "data/releases/2021/grp65-muscle-speeder.json",
+        "data/releases/2022/hdh35-muscle-speeder.json",
+        "data/releases/2023/hlr47-muscle-speeder.json",
+        "data/releases/2023/hnb25-muscle-speeder.json",
+        "data/releases/2024/htv47-muscle-speeder.json",
+        "data/releases/2025/jcg84-muscle-speeder.json",
+        "data/releases/2025/jcb47-muscle-speeder.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

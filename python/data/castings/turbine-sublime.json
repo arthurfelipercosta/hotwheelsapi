@@ -1,0 +1,20 @@
+{
+    "casting_id": "turbine-sublime",
+    "name": "Turbine Sublime",
+    "description": {
+        "en-us": "Turbine Sublime Debut series X-Raycers Produced 2022 – Present Designer Sonny Fisher Number HCT30",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct30-turbine-sublime.json",
+        "data/releases/2022/hcx42-turbine-sublime.json",
+        "data/releases/2023/hkh77-turbine-sublime.json",
+        "data/releases/2023/hkk38-turbine-sublime.json",
+        "data/releases/2023/hth34-turbine-sublime.json",
+        "data/releases/2025/jbj74-jcp91-turbine-sublime.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

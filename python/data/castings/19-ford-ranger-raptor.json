@@ -1,0 +1,22 @@
+{
+    "casting_id": "19-ford-ranger-raptor",
+    "name": "'19 Ford Ranger Raptor",
+    "description": {
+        "en-us": "'19 Ford Ranger Raptor Debut series HW Hot Trucks Produced 2019 - Present Designer Lindsey Lee Number FYB56",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb56-19-ford-ranger-raptor-v2.json",
+        "data/releases/2019/fyf09-19-ford-ranger-raptor-v2.json",
+        "data/releases/2019/ghg49-19-ford-ranger-raptor-v2.json",
+        "data/releases/2020/ghc85-19-ford-ranger-raptor-v2.json",
+        "data/releases/2020/ghf33-19-ford-ranger-raptor-v2.json",
+        "data/releases/2021/hbg14-19-ford-ranger-raptor-v2.json",
+        "data/releases/2021/gry96-19-ford-ranger-raptor-v2.json",
+        "data/releases/2024/htc29-19-ford-ranger-raptor-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Ford"
+}

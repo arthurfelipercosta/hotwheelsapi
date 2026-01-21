@@ -2,9 +2,14 @@
     "series_id": "super-rigs",
     "year": 2014,
     "name": "Super Rigs",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
-        "data/releases/2014/bdw54-bone-shaker.json"
+        "data/releases/2014/bdw52-24-ours.json",
+        "data/releases/2014/bdw54-bone-shaker.json",
+        "data/releases/2014/bdw55-24-ours.json",
+        "data/releases/2014/bdw59-the-gov-ner.json",
+        "data/releases/2014/bdw61-impavido-1.json",
+        "data/releases/2014/bdw62-the-gov-ner.json"
     ]
 }

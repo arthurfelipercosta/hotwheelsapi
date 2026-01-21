@@ -1,0 +1,27 @@
+{
+    "casting_id": "speed-trap",
+    "name": "Speed Trap",
+    "description": {
+        "en-us": "Speed Trap Debut series 2011 New Models Produced 2011 - Present Designer Kevin Cao Number T9685",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9685-speed-trap.json",
+        "data/releases/2011/t9955-speed-trap.json",
+        "data/releases/2012/w4243-speed-trap.json",
+        "data/releases/2013/x9852-speed-trap.json",
+        "data/releases/2015/cfh74-speed-trap.json",
+        "data/releases/2016/x6999-speed-trap.json",
+        "data/releases/2017/x6999-speed-trap.json",
+        "data/releases/2019/fyl15-speed-trap.json",
+        "data/releases/2020/ghp61-speed-trap.json",
+        "data/releases/2022/hfl11-speed-trap.json",
+        "data/releases/2024/x6999-speed-trap.json",
+        "data/releases/2025/x6999-speed-trap.json",
+        "data/releases/2025/jby24-speed-trap.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

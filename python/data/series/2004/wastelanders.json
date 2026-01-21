@@ -1,0 +1,17 @@
+{
+    "series_id": "wastelanders",
+    "year": 2004,
+    "name": "Wastelanders",
+    "total_releases": 8,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2004/b3757-rocket-oil-special.json",
+        "data/releases/2004/b3763-70-plymouth-roadrunner.json",
+        "data/releases/2004/b3763-70-plymouth-roadrunner.json",
+        "data/releases/2004/b3769-tire-fryer.json",
+        "data/releases/2004/b3787-blast-lane.json",
+        "data/releases/2004/b3793-70-plymouth-barracuda.json",
+        "data/releases/2004/b3793-70-plymouth-barracuda.json",
+        "data/releases/2004/b3799-sand-stinger.json"
+    ]
+}

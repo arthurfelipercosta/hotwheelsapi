@@ -1,0 +1,24 @@
+{
+    "release_id": "hnb86-nissan-skyline-h-t-2000gt-x-2022",
+    "toy_number": "HNB86",
+    "casting_id": "nissan-skyline-h-t-2000gt-x",
+    "year": 2022,
+    "series_id": "fao-schwarz-gold-multipack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake gold",
+        "tampo": "Detailed taillights, goldenrod stripes on hood & sides, roundel on doors, \"ホットホ ィール\" on doors, Hot Wheels logo on rear quarters",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Chrome MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Modified casting Base code(s): R23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/GoldenHako.jpg/revision/latest/scale-to-width-down/75?cb=20230225140113"
+    }
+}

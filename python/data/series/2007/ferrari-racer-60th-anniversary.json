@@ -1,0 +1,11 @@
+{
+    "series_id": "ferrari-racer-60th-anniversary",
+    "year": 2007,
+    "name": "Ferrari Racer 60th Anniversary",
+    "total_releases": 2,
+    "max_index": 17,
+    "releases": [
+        "data/releases/2007/m4724-enzo-ferrari.json",
+        "data/releases/2007/m4732-enzo-ferrari.json"
+    ]
+}

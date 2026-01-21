@@ -1,0 +1,24 @@
+{
+    "release_id": "dvc46-2013-hot-wheels-chevy-camaro-special-edition-2017",
+    "toy_number": "DVC46",
+    "casting_id": "2013-hot-wheels-chevy-camaro-special-edition",
+    "year": 2017,
+    "series_id": "camaro-fifty",
+    "series_index": 3,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Yellow stripes on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K12, K13, K15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/DVC46-transpo.png/revision/latest/scale-to-width-down/75?cb=20190627022733"
+    }
+}

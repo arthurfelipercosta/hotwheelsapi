@@ -2,10 +2,15 @@
     "series_id": "fast-furious-series-1",
     "year": 2023,
     "name": "Fast & Furious (Series 1)",
-    "total_releases": 3,
+    "total_releases": 8,
     "max_index": 2,
     "releases": [
         "data/releases/2023/hnr92-70-dodge-hemi-challenger.json",
+        "data/releases/2023/hnr94-72-ford-gran-torino-sport.json",
+        "data/releases/2023/hnr95-toyota-supra.json",
+        "data/releases/2023/hnr96-70-ford-escort-rs1600.json",
+        "data/releases/2023/hnr97-70-dodge-charger.json",
+        "data/releases/2023/hnr98-ice-charger.json",
         "data/releases/2023/hnr99-20-jeep-gladiator.json",
         "data/releases/2023/hnt00-20-dodge-charger-hellcat.json"
     ]

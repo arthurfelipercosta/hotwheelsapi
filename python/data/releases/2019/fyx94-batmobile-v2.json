@@ -1,0 +1,24 @@
+{
+    "release_id": "fyx94-batmobile-2019",
+    "toy_number": "FYX94",
+    "casting_id": "batmobile",
+    "year": 2019,
+    "series_id": "batman",
+    "series_index": 6,
+    "specs": {
+        "color": "Black",
+        "tampo": "No Tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Red)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/Batmobile_%28The_Batman%291.jpg/revision/latest/scale-to-width-down/75?cb=20181226005517"
+    }
+}

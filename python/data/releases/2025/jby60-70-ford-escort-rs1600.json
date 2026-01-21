@@ -1,0 +1,24 @@
+{
+    "release_id": "jby60-70-ford-escort-rs1600-2025",
+    "toy_number": "JBY60",
+    "casting_id": "70-ford-escort-rs1600",
+    "year": 2025,
+    "series_id": "ultra-hots",
+    "series_index": 1,
+    "specs": {
+        "color": "Spectraflame Yellow",
+        "tampo": "Detailed headlights and taillights, afterburner flame tampos, black diagonal, Ford logo on front quarterpanel, Hot Wheels logo on rear quarterpanel",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "UH"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): T33, T35, T36, T37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/2025UH1-1_%28Large%29.JPG/revision/latest/scale-to-width-down/75?cb=20241214221712"
+    }
+}

@@ -2,9 +2,11 @@
     "series_id": "15th-annual-hot-wheels-collectors-convention",
     "year": 2001,
     "name": "15th Annual Hot Wheels Collectors Convention",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2001/53959-purple-passion.json"
+        "data/releases/2001/53957-67-pontiac-gto.json",
+        "data/releases/2001/53959-purple-passion.json",
+        "data/releases/2001/n-a-57-chevy.json"
     ]
 }

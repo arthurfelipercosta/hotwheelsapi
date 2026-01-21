@@ -1,0 +1,25 @@
+{
+    "release_id": "hct42-mach-it-go-2022",
+    "toy_number": "HCT42",
+    "casting_id": "mach-it-go",
+    "year": 2022,
+    "series_id": "hw-speed-team",
+    "series_index": 4,
+    "specs": {
+        "color": "Clear blue",
+        "tampo": "Black, orange and yellow accents, \"42\", \"Speed Team\", Hot Wheels logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Navy blue",
+        "wheel_type": {
+            "0": "Orange Wheel with Black AeroDisc",
+            "1": "Orange Wheel with Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/MachItGo.jpg/revision/latest/scale-to-width-down/75?cb=20211122061422"
+    }
+}

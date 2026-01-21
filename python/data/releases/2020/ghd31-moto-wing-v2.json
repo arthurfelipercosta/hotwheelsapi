@@ -1,0 +1,26 @@
+{
+    "release_id": "ghd31-moto-wing-2020",
+    "toy_number": "GHD31",
+    "casting_id": "moto-wing",
+    "year": 2020,
+    "series_id": "rod-squad",
+    "series_index": 9,
+    "specs": {
+        "color": "Dark Red",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Grey rim",
+            "1": "Black SK5 & Grey rim",
+            "2": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/2020-MotoWing.jpg/revision/latest/scale-to-width-down/75?cb=20191127143720"
+    }
+}

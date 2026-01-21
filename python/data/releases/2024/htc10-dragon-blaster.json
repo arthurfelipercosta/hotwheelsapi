@@ -1,0 +1,24 @@
+{
+    "release_id": "htc10-dragon-blaster-2024",
+    "toy_number": "HTC10",
+    "casting_id": "dragon-blaster",
+    "year": 2024,
+    "series_id": "hot-wheels-let-s-race",
+    "series_index": 4,
+    "specs": {
+        "color": "Pale Blue",
+        "tampo": "Scales on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "GT5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "As seen in Hot Wheels: Let's Race Identical to DVC22 Base code(s): T02, T03, T04, T05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/DragonBlasterRacer.jpg/revision/latest/scale-to-width-down/75?cb=20240305130408"
+    }
+}

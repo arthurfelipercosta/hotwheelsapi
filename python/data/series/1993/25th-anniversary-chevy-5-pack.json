@@ -2,9 +2,10 @@
     "series_id": "25th-anniversary-chevy-5-pack",
     "year": 1993,
     "name": "25th Anniversary Chevy 5-Pack",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/1993/10787-blazer-4-4.json"
+        "data/releases/1993/10787-blazer-4-4.json",
+        "data/releases/1993/9638-57-chevy.json"
     ]
 }

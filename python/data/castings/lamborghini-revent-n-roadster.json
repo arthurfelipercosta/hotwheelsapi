@@ -1,0 +1,24 @@
+{
+    "casting_id": "lamborghini-revent-n-roadster",
+    "name": "Lamborghini Reventón Roadster",
+    "description": {
+        "en-us": "Lamborghini Reventón Roadster Debut series 2010 New Models Produced 2010 - Present Designer Phil Riehlman Number V3940",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/v3940-lamborghini-revent-n-roadster.json",
+        "data/releases/2010/v3940-lamborghini-revent-n-roadster-v2.json",
+        "data/releases/2011/w2309-lamborghini-revent-n-roadster.json",
+        "data/releases/2013/w2309-lamborghini-revent-n-roadster.json",
+        "data/releases/2017/dwf23-lamborghini-revent-n-roadster.json",
+        "data/releases/2019/fyd28-lamborghini-revent-n-roadster.json",
+        "data/releases/2019/fyg63-lamborghini-revent-n-roadster.json",
+        "data/releases/2019/fyf70-lamborghini-revent-n-roadster.json",
+        "data/releases/2024/hkc76-lamborghini-revent-n-roadster.json",
+        "data/releases/2025/jbm31-lamborghini-revent-n-roadster.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Lamborghini"
+}

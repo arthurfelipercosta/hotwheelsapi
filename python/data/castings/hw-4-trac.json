@@ -1,0 +1,18 @@
+{
+    "casting_id": "hw-4-trac",
+    "name": "HW-4-TRAC",
+    "description": {
+        "en-us": "HW-4-TRAC Debut series HW 55 Race Team Produced 2023 – Present Designer Kevin Cao Number HKG50",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg50-hw-4-trac.json",
+        "data/releases/2024/htc76-hw-4-trac.json",
+        "data/releases/2025/jbj83-hw-4-trac.json",
+        "data/releases/2026/jkc27-hw-4-trac.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

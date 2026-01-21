@@ -2,9 +2,10 @@
     "series_id": "pop-culture-scooby-doo",
     "year": 2017,
     "name": "Pop Culture: Scooby Doo",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2017/fdm72-the-mystery-machine.json",
         "data/releases/2017/fdm73-67-austin-mini-van.json"
     ]
 }

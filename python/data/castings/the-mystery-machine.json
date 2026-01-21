@@ -1,0 +1,31 @@
+{
+    "casting_id": "the-mystery-machine",
+    "name": "The Mystery Machine",
+    "description": {
+        "en-us": "The Mystery Machine Debut series 2012 New Models Produced 2012 - Present Designer Manson Cheung Number V5326",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5326-the-mystery-machine-v2.json",
+        "data/releases/2012/x0550-the-mystery-machine-v2.json",
+        "data/releases/2013/x8914-the-mystery-machine-v2.json",
+        "data/releases/2014/bfc93-the-mystery-machine-v2.json",
+        "data/releases/2014/blr41-the-mystery-machine-v2.json",
+        "data/releases/2016/djf48-the-mystery-machine-v2.json",
+        "data/releases/2017/dtx34-the-mystery-machine-v2.json",
+        "data/releases/2017/dvc84-the-mystery-machine-v2.json",
+        "data/releases/2017/fdm72-the-mystery-machine-v2.json",
+        "data/releases/2019/fyp69-the-mystery-machine-v2.json",
+        "data/releases/2019/fxb43-the-mystery-machine-v2.json",
+        "data/releases/2020/gjr46-the-mystery-machine-v2.json",
+        "data/releases/2020/gvy30-the-mystery-machine-v2.json",
+        "data/releases/2021/grx97-the-mystery-machine-v2.json",
+        "data/releases/2022/hcp18-the-mystery-machine-v2.json",
+        "data/releases/2023/hlk33-the-mystery-machine-v2.json",
+        "data/releases/2025/jbl63-the-mystery-machine-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

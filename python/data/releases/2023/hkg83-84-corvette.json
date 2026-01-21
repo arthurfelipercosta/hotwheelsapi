@@ -1,0 +1,24 @@
+{
+    "release_id": "hkg83-84-corvette-2023",
+    "toy_number": "HKG83",
+    "casting_id": "84-corvette",
+    "year": 2023,
+    "series_id": "hw-the-80s",
+    "series_index": 6,
+    "specs": {
+        "color": "Metalflake Champagne Gold",
+        "tampo": "White racing stripes, Corvette logos, reflectors",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): R44, R46, R47, R48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/84_Vette.jpg/revision/latest/scale-to-width-down/75?cb=20230221110823"
+    }
+}

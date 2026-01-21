@@ -1,0 +1,36 @@
+{
+    "release_id": "2103-67-camaro-1991",
+    "toy_number": "2103",
+    "casting_id": "67-camaro",
+    "year": 1991,
+    "series_id": "california-custom",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Light Green, White & Pink splashes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "TW",
+            "1": "Small HW logo on windshield",
+            "2": "1995",
+            "3": "Bonus Car",
+            "4": "Metalflake Dark Blue",
+            "5": "Unpainted",
+            "6": "Metal",
+            "7": "Clear",
+            "8": "White",
+            "9": "Redline DDRR",
+            "10": "Malaysia",
+            "11": "Came in baggie",
+            "12": "Metalflake Light Blue"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Large HW logo on windshield",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/IMG_2594.jpg/revision/latest/scale-to-width-down/75?cb=20090525042546"
+    }
+}

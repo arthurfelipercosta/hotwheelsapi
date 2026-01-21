@@ -1,0 +1,24 @@
+{
+    "release_id": "x6999-custom-volkswagen-beetle-2023",
+    "toy_number": "X6999",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2023,
+    "series_id": "multipack-exclusive",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Bronze",
+        "tampo": "Black scalloped deco, white \"Hot Wheels\" & VW logo on sides , Black & white pin striping",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R46, R47, R49, R50, R51, S04, S05, S06, S14, S15, S16, S31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/2023MultipackCustomBeetle.jpg/revision/latest/scale-to-width-down/75?cb=20230310184448"
+    }
+}

@@ -2,9 +2,22 @@
     "series_id": "hw-glow-wheels",
     "year": 2017,
     "name": "HW Glow Wheels",
-    "total_releases": 1,
-    "max_index": 3,
+    "total_releases": 14,
+    "max_index": 9,
     "releases": [
-        "data/releases/2017/dty32-bone-speeder.json"
+        "data/releases/2017/dtx06-track-hammer.json",
+        "data/releases/2017/dty31-z-rod.json",
+        "data/releases/2017/dty32-bone-speeder.json",
+        "data/releases/2017/dty33-rd-02.json",
+        "data/releases/2017/dty34-fast-4wd.json",
+        "data/releases/2017/dty35-ollie-rocket.json",
+        "data/releases/2017/dty36-power-surge.json",
+        "data/releases/2017/dty37-loopster.json",
+        "data/releases/2017/dty38-rip-rod.json",
+        "data/releases/2017/dvb20-24-ours.json",
+        "data/releases/2017/dvc07-track-hammer.json",
+        "data/releases/2017/dvc08-z-rod.json",
+        "data/releases/2017/dvd08-24-ours.json",
+        "data/releases/2017/fbh99-rip-rod.json"
     ]
 }

@@ -2,10 +2,15 @@
     "series_id": "monster-jam-monster-duo",
     "year": 2010,
     "name": "Monster Jam: Monster Duo",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 0,
     "releases": [
+        "data/releases/2010/p0180-off-track.json",
         "data/releases/2010/p0181-purple-passion.json",
-        "data/releases/2010/t1487-bone-shaker.json"
+        "data/releases/2010/t1480-rescue-ranger.json",
+        "data/releases/2010/t1483-2009-ford-f-150.json",
+        "data/releases/2010/t1485-57-chevy.json",
+        "data/releases/2010/t1487-bone-shaker.json",
+        "data/releases/2010/w2476-1989-batmobile.json"
     ]
 }

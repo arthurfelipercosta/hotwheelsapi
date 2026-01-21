@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx93-driftsta-2017",
+    "toy_number": "DTX93",
+    "casting_id": "driftsta",
+    "year": 2017,
+    "series_id": "hw-art-cars",
+    "series_index": 7,
+    "specs": {
+        "color": "Red",
+        "tampo": "Stripes with words on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Dark Grey PR5 & White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Driftsta_2017.png/revision/latest/scale-to-width-down/75?cb=20170115180131"
+    }
+}

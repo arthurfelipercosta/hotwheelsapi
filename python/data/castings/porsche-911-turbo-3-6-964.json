@@ -1,0 +1,18 @@
+{
+    "casting_id": "porsche-911-turbo-3-6-964",
+    "name": "Porsche 911 Turbo 3.6 (964)",
+    "description": {
+        "en-us": "Porsche 911 Turbo 3.6 (964) Debut series Tooned Produced 2023 – Present Designer Fraser Campbell Number HKG69",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg69-porsche-911-turbo-3-6-964.json",
+        "data/releases/2024/htb41-porsche-911-turbo-3-6-964.json",
+        "data/releases/2024/htf84-porsche-911-turbo-3-6-964.json",
+        "data/releases/2025/jhf76-porsche-911-turbo-3-6-964.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Porsche"
+}

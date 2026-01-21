@@ -1,0 +1,33 @@
+{
+    "release_id": "bhr41-57-chevy-2014",
+    "toy_number": "BHR41",
+    "casting_id": "57-chevy",
+    "year": 2014,
+    "series_id": "color-shifters",
+    "series_index": 34,
+    "specs": {
+        "color": "Cold: White, Warm: Black",
+        "tampo": "Police 68",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "1994",
+            "2": "8th Annual Hot Wheels Collectors Convention",
+            "3": "Turquoise",
+            "4": "Gold BW",
+            "5": "UH",
+            "6": "Yellow",
+            "7": "UHCH?",
+            "8": "GWCH?",
+            "9": "GWGD?"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/%2757_Chevy-2014_Color_Shifters%28Warm%29.jpg/revision/latest/scale-to-width-down/75?cb=20140308143600"
+    }
+}

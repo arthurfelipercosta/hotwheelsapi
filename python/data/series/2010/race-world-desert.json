@@ -1,0 +1,14 @@
+{
+    "series_id": "race-world-desert",
+    "year": 2010,
+    "name": "Race World - Desert",
+    "total_releases": 5,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2010/r7618-toyota-baja-truck.json",
+        "data/releases/2010/r7619-bad-mudder-2.json",
+        "data/releases/2010/r7619-bad-mudder-2.json",
+        "data/releases/2010/r7619-bad-mudder-2.json",
+        "data/releases/2010/r7620-sand-stinger.json"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dvc20-growler-2017",
+    "toy_number": "DVC20",
+    "casting_id": "growler",
+    "year": 2017,
+    "series_id": "street-beasts",
+    "series_index": 6,
+    "specs": {
+        "color": "Brown",
+        "tampo": "White spikes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black & Yellow 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K25, K27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/2017_Growler_brown.jpg/revision/latest/scale-to-width-down/75?cb=20190314020114"
+    }
+}

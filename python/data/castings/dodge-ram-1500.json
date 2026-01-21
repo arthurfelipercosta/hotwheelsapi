@@ -1,0 +1,37 @@
+{
+    "casting_id": "dodge-ram-1500",
+    "name": "Dodge Ram 1500",
+    "description": {
+        "en-us": "Dodge Ram 1500 Debut series 2007 New Models Produced 2007 - 2018 Designer Phil Riehlman Number K6137",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6137-dodge-ram-1500-v5.json",
+        "data/releases/2007/k6137-dodge-ram-1500-v6.json",
+        "data/releases/2007/k6137-dodge-ram-1500-v7.json",
+        "data/releases/2007/k6137-dodge-ram-1500-v8.json",
+        "data/releases/2008/m6880-dodge-ram-1500-v3.json",
+        "data/releases/2008/m6880-dodge-ram-1500-v4.json",
+        "data/releases/2009/p2407-dodge-ram-1500-v4.json",
+        "data/releases/2009/p2407-dodge-ram-1500-v5.json",
+        "data/releases/2009/p2407-dodge-ram-1500-v6.json",
+        "data/releases/2010/r7533-dodge-ram-1500-v5.json",
+        "data/releases/2010/r7533-dodge-ram-1500-v6.json",
+        "data/releases/2010/r7533-dodge-ram-1500-v7.json",
+        "data/releases/2010/r7533-dodge-ram-1500-v8.json",
+        "data/releases/2011/v5000-dodge-ram-1500-v2.json",
+        "data/releases/2014/bfd59-dodge-ram-1500-v2.json",
+        "data/releases/2014/bff68-dodge-ram-1500-v2.json",
+        "data/releases/2016/dhr50-dodge-ram-1500-v2.json",
+        "data/releases/2016/dxy65-dodge-ram-1500-v2.json",
+        "data/releases/2017/dtx71-dodge-ram-1500-v2.json",
+        "data/releases/2017/fbh90-dodge-ram-1500-v2.json",
+        "data/releases/2018/fjw58-dodge-ram-1500-v2.json",
+        "data/releases/2018/fkc16-dodge-ram-1500-v2.json",
+        "data/releases/2018/fjy52-dodge-ram-1500-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Dodge"
+}

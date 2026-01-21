@@ -1,0 +1,24 @@
+{
+    "release_id": "hcx18-cosmic-coupe-2022",
+    "toy_number": "HCX18",
+    "casting_id": "cosmic-coupe",
+    "year": 2022,
+    "series_id": "x-raycers",
+    "series_index": 1,
+    "specs": {
+        "color": "Clear",
+        "tampo": "Slanted blue lines on sides, roof and hood, \"COSMIC COUPE\", \"X\" and Hot Wheels logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Glow-in-The-Dark",
+        "wheel_type": {
+            "0": "Clear Blue TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R13, R14",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/2022-122_HCX18_Cosmic_Coupe_Glow_Blue_open-1.jpg/revision/latest/scale-to-width-down/75?cb=20231022183146"
+    }
+}

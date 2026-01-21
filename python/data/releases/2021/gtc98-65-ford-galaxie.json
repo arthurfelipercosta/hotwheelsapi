@@ -1,0 +1,30 @@
+{
+    "release_id": "gtc98-65-ford-galaxie-2021",
+    "toy_number": "GTC98",
+    "casting_id": "65-ford-galaxie",
+    "year": 2021,
+    "series_id": "muscle-mania",
+    "series_index": 8,
+    "specs": {
+        "color": "Mustard Yellow",
+        "tampo": "HW Logo, black stripes on sides & hood, red 21 \"FORD\", \"427 C.I.\" sponsor names. Treasure Hunt bubble on front Q-panels",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gray rim",
+            "1": "black DD8",
+            "2": "Treasure Hunt NO Loop Logo on Base (See Gallery) Base code(s): P20",
+            "3": "P21",
+            "4": "P27",
+            "5": "P28",
+            "6": "P29"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Treasure Hunt New Loop Logo on Base Base code(s): P20, P21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/1965_ford_galaxie_500_2021-2.jpg/revision/latest/scale-to-width-down/75?cb=20211028182223"
+    }
+}

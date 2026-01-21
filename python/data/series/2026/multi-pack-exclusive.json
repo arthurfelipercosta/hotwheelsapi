@@ -2,9 +2,10 @@
     "series_id": "multi-pack-exclusive",
     "year": 2026,
     "name": "Multi-Pack Exclusive",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2026/x6999-10-bmw-m3.json",
         "data/releases/2026/x6999-porsche-904-carrera-gts.json"
     ]
 }

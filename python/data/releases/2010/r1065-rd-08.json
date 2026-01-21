@@ -1,0 +1,24 @@
+{
+    "release_id": "r1065-rd-08-2010",
+    "toy_number": "R1065",
+    "casting_id": "rd-08",
+    "year": 2010,
+    "series_id": "racing-rigs-desert-race-1000",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Black, White, Orange graphics, number \"8\" and \"HW\" Logo.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Orange)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "OR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/RD-08_TT.jpg/revision/latest/scale-to-width-down/75?cb=20110404050653"
+    }
+}

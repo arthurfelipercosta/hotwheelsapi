@@ -1,0 +1,11 @@
+{
+    "series_id": "thrill-racers-swamp-rally",
+    "year": 2012,
+    "name": "Thrill Racers - Swamp Rally",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2012/v5491-swamp-buggy.json",
+        "data/releases/2012/v5494-arachnorod.json"
+    ]
+}

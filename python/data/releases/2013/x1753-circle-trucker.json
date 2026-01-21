@@ -1,0 +1,25 @@
+{
+    "release_id": "x1753-circle-trucker-2013",
+    "toy_number": "X1753",
+    "casting_id": "circle-trucker",
+    "year": 2013,
+    "series_id": "hw-racing-track-aces",
+    "series_index": 1,
+    "specs": {
+        "color": "Green",
+        "tampo": "KILPIN Racing '3'",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tint",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Treasure Hunts Base code(s): E44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Circle_Trucker-2013_121_Track_Aces.jpg/revision/latest/scale-to-width-down/75?cb=20121223134245"
+    }
+}

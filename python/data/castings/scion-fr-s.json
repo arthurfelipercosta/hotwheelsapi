@@ -1,0 +1,21 @@
+{
+    "casting_id": "scion-fr-s",
+    "name": "Scion FR-S",
+    "description": {
+        "en-us": "Scion FR-S Debut series HW Showroom - HW Garage Produced 2013 - 2021 Designer Ryu Asada Number X1627",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1627-scion-fr-s.json",
+        "data/releases/2014/bff06-scion-fr-s.json",
+        "data/releases/2014/bff06-scion-fr-s-v2.json",
+        "data/releases/2014/bfg85-scion-fr-s.json",
+        "data/releases/2015/cfj14-scion-fr-s.json",
+        "data/releases/2016/x6999-scion-fr-s.json",
+        "data/releases/2021/grp22-scion-fr-s.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

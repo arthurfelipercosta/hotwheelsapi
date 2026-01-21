@@ -2,9 +2,14 @@
     "series_id": "motor-city-classics",
     "year": 2002,
     "name": "Motor City Classics",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
-        "data/releases/2002/55561-67-mustang.json"
+        "data/releases/2002/55560-70-chevelle-ss.json",
+        "data/releases/2002/55561-67-mustang.json",
+        "data/releases/2002/55562-67-camaro.json",
+        "data/releases/2002/55563-68-el-camino.json",
+        "data/releases/2002/55564-67-pontiac-gto.json",
+        "data/releases/2002/55565-70-plymouth-roadrunner.json"
     ]
 }

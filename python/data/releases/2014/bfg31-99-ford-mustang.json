@@ -1,0 +1,26 @@
+{
+    "release_id": "bfg31-99-ford-mustang-2014",
+    "toy_number": "BFG31",
+    "casting_id": "99-ford-mustang",
+    "year": 2014,
+    "series_id": "hw-city-mustang-50th",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "Blue & Black stripes on sides, hood & roof; Mustang on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP",
+            "1": "Y5",
+            "2": "Found in Multipacks Base code(s):"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/1999_Ford_Mustang-2015_096_Recolor.jpg/revision/latest/scale-to-width-down/75?cb=20150110155929"
+    }
+}

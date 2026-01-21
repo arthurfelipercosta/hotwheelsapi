@@ -2,9 +2,14 @@
     "series_id": "auto-milestones",
     "year": 2002,
     "name": "Auto Milestones",
-    "total_releases": 1,
+    "total_releases": 6,
     "max_index": 9,
     "releases": [
-        "data/releases/2002/55933-purple-passion.json"
+        "data/releases/2002/55925-32-ford.json",
+        "data/releases/2002/55926-ford-gt-40.json",
+        "data/releases/2002/55928-dodge-viper-rt-10.json",
+        "data/releases/2002/55932-classic-cobra.json",
+        "data/releases/2002/55933-purple-passion.json",
+        "data/releases/2002/55938-65-mustang-convertible.json"
     ]
 }

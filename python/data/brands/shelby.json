@@ -1,0 +1,16 @@
+{
+    "brand_id": "shelby",
+    "name": "Shelby",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/67-shelby-gt500.json",
+        "data/castings/68-shelby-gt500.json",
+        "data/castings/69-shelby-gt500.json",
+        "data/castings/shelby-cobra-daytona-coupe.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Shelby vehicles.",
+        "pt-br": "Fabricante de veículos Shelby."
+    }
+}

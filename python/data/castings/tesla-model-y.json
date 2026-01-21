@@ -1,0 +1,19 @@
+{
+    "casting_id": "tesla-model-y",
+    "name": "Tesla Model Y",
+    "description": {
+        "en-us": "Tesla Model Y Debut series HW Green Speed Produced 2023 – Present Designer Lindsey Lee Number HKG28",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg28-tesla-model-y.json",
+        "data/releases/2023/hkl53-tesla-model-y.json",
+        "data/releases/2023/hkk20-tesla-model-y.json",
+        "data/releases/2024/htb80-tesla-model-y.json",
+        "data/releases/2024/htc93-tesla-model-y.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Tesla"
+}

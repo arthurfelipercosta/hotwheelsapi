@@ -2,10 +2,22 @@
     "series_id": "hw-metro",
     "year": 2023,
     "name": "HW Metro",
-    "total_releases": 2,
+    "total_releases": 14,
     "max_index": 8,
     "releases": [
+        "data/releases/2023/hkg63-trouble-decker.json",
+        "data/releases/2023/hkg89-time-attaxi.json",
+        "data/releases/2023/hkg91-hot-wheels-high.json",
+        "data/releases/2023/hkg92-dodge-charger-drift-car.json",
+        "data/releases/2023/hkg93-drone-duty.json",
+        "data/releases/2023/hkg94-mad-splash.json",
+        "data/releases/2023/hkg95-haul-o-gram.json",
         "data/releases/2023/hkg96-carbonator.json",
+        "data/releases/2023/hkj67-hot-wheels-high.json",
+        "data/releases/2023/hkj68-hot-wheels-high.json",
+        "data/releases/2023/hkj69-dodge-charger-drift-car.json",
+        "data/releases/2023/hkj70-drone-duty.json",
+        "data/releases/2023/hkj71-mad-splash.json",
         "data/releases/2023/hkk94-time-shifter.json"
     ]
 }

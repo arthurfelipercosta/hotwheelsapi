@@ -2,14 +2,26 @@
     "series_id": "baja-blazers",
     "year": 2022,
     "name": "Baja Blazers",
-    "total_releases": 6,
-    "max_index": 3,
+    "total_releases": 18,
+    "max_index": 4,
     "releases": [
+        "data/releases/2022/hct10-95-jeep-cherokee.json",
         "data/releases/2022/hct49-19-chevy-silverado-trail-boss-lt.json",
         "data/releases/2022/hct50-20-jeep-gladiator.json",
+        "data/releases/2022/hct80-twinnin-n-winnin.json",
         "data/releases/2022/hcv03-humvee.json",
+        "data/releases/2022/hcv09-baja-bone-shaker.json",
+        "data/releases/2022/hcv15-custom-ford-bronco.json",
+        "data/releases/2022/hcv55-hw450f.json",
+        "data/releases/2022/hcv70-70-dodge-charger.json",
+        "data/releases/2022/hcw38-blade-raider.json",
         "data/releases/2022/hcw64-19-chevy-silverado-trail-boss-lt.json",
         "data/releases/2022/hcw66-20-jeep-gladiator.json",
-        "data/releases/2022/hcy25-20-jeep-gladiator.json"
+        "data/releases/2022/hcw68-baja-bone-shaker.json",
+        "data/releases/2022/hcw83-twinnin-n-winnin.json",
+        "data/releases/2022/hcw92-blade-raider.json",
+        "data/releases/2022/hcx28-95-jeep-cherokee.json",
+        "data/releases/2022/hcy25-20-jeep-gladiator.json",
+        "data/releases/2022/hcy45-custom-ford-bronco.json"
     ]
 }

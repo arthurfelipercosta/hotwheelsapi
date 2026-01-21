@@ -1,0 +1,19 @@
+{
+    "series_id": "mystery-models-series-3",
+    "year": 2023,
+    "name": "Mystery Models (Series 3)",
+    "total_releases": 10,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2023/hlr39-porsche-356-outlaw.json",
+        "data/releases/2023/hlr40-datsun-bluebird-510.json",
+        "data/releases/2023/hlr41-98-subaru-impreza-22b-sti-version.json",
+        "data/releases/2023/hlr42-dune-a-soar.json",
+        "data/releases/2023/hlr43-loop-coupe.json",
+        "data/releases/2023/hlr44-fast-4wd.json",
+        "data/releases/2023/hlr45-rising-heat.json",
+        "data/releases/2023/hlr46-hi-beam.json",
+        "data/releases/2023/hlr47-muscle-speeder.json",
+        "data/releases/2023/hlr48-time-tracker.json"
+    ]
+}

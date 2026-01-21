@@ -1,0 +1,22 @@
+{
+    "casting_id": "loco-motorin",
+    "name": "Loco Motorin'",
+    "description": {
+        "en-us": "Loco Motorin' Debut series HW Metro Produced 2020 - Present Designer Kevin Cao Number GHB65",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb65-loco-motorin.json",
+        "data/releases/2021/gtb28-loco-motorin.json",
+        "data/releases/2021/gtc48-loco-motorin.json",
+        "data/releases/2022/hcv73-loco-motorin.json",
+        "data/releases/2022/hcx83-loco-motorin.json",
+        "data/releases/2023/hly67-loco-motorin.json",
+        "data/releases/2024/htv41-loco-motorin.json",
+        "data/releases/2025/jbj88-loco-motorin.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,27 @@
+{
+    "release_id": "15080-57-chevy-1996",
+    "toy_number": "15080",
+    "casting_id": "57-chevy",
+    "year": 1996,
+    "series_id": "50-s-favorites-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black & grey side molding",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Brown)",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "15068",
+            "2": "Metal body",
+            "3": "SB"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "This issue is unique because it has both plastic body & base",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/57_Chevy_Yel5spPlsk.JPG/revision/latest/scale-to-width-down/75?cb=20090309025049"
+    }
+}

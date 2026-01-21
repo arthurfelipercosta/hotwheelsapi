@@ -1,0 +1,24 @@
+{
+    "release_id": "jcb86-aero-pod-2025",
+    "toy_number": "JCB86",
+    "casting_id": "aero-pod",
+    "year": 2025,
+    "series_id": "avatar-the-last-airbender",
+    "series_index": 1,
+    "specs": {
+        "color": "Ivory",
+        "tampo": "Appa graphics on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "Copper chrome OR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): U20A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    }
+}

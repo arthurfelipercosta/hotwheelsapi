@@ -1,0 +1,24 @@
+{
+    "release_id": "grj75-aston-martin-valhalla-concept-2021",
+    "toy_number": "GRJ75",
+    "casting_id": "aston-martin-valhalla-concept",
+    "year": 2021,
+    "series_id": "car-culture-exotic-envy",
+    "series_index": 3,
+    "specs": {
+        "color": "Lava Red",
+        "tampo": "Detailed headlights & taillights, hood vents, anthracite roof, black spoiler",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR10SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P14, P16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/AstonMartinValhalla.jpg/revision/latest/scale-to-width-down/75?cb=20210925092305"
+    }
+}

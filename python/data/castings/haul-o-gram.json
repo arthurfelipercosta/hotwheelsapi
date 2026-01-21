@@ -1,0 +1,18 @@
+{
+    "casting_id": "haul-o-gram",
+    "name": "Haul-O-Gram",
+    "description": {
+        "en-us": "Haul-O-Gram Debut series HW Race Team Produced 2019 - Present Designer John O'Laughlin Number FYB62",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb62-haul-o-gram-v2.json",
+        "data/releases/2020/ghc38-haul-o-gram-v2.json",
+        "data/releases/2023/hkg95-haul-o-gram-v2.json",
+        "data/releases/2025/jcg91-haul-o-gram-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Mattel"
+}

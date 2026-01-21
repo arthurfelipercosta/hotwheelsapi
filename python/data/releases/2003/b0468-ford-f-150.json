@@ -1,0 +1,36 @@
+{
+    "release_id": "b0468-ford-f-150-2003",
+    "toy_number": "B0468",
+    "casting_id": "ford-f-150",
+    "year": 2003,
+    "series_id": "hot-wheels-racing-recreational",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Sharpie #97 logo on sides, Rubbermaid logo on hood, '97' on sides & top, race deco on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "2003",
+            "2": "Kentucky Speedway Promotion",
+            "3": "Black & Red",
+            "4": "Grainger #16 logo on sides",
+            "5": "'Grainger' logo on hood",
+            "6": "'16' on sides & top",
+            "7": "race deco on sides",
+            "8": "Black",
+            "9": "Plastic",
+            "10": "Clear",
+            "11": "Chrome",
+            "12": "Thailand"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Includes Trading Card",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/97_ford_f150_sharpie.jpg/revision/latest/scale-to-width-down/75?cb=20210418034528"
+    }
+}

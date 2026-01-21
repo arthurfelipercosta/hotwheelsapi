@@ -1,0 +1,24 @@
+{
+    "release_id": "cfm03-aston-martin-1963-db5-2015",
+    "toy_number": "CFM03",
+    "casting_id": "aston-martin-1963-db5",
+    "year": 2015,
+    "series_id": "hw-workshop-then-and-now",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl Light Blue",
+        "tampo": "Aston Martin emblem on front, 'DB5' on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "WSP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H17, H18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/HW-2015-245-Aston_Martin_1963_DB5-ThenAndNow..jpg/revision/latest/scale-to-width-down/75?cb=20150808004310"
+    }
+}

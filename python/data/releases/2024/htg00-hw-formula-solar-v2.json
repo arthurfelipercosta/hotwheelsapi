@@ -1,0 +1,25 @@
+{
+    "release_id": "htg00-hw-formula-solar-2024",
+    "toy_number": "HTG00",
+    "casting_id": "hw-formula-solar",
+    "year": 2024,
+    "series_id": "advent-calendar",
+    "series_index": null,
+    "specs": {
+        "color": "Clear Green",
+        "tampo": "Yellow and White circular lines, and Hot Wheels flame logo on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Transparent Yellow wheel",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): T18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/HW_Formula_Solar_HGT00.jpg/revision/latest?cb=20241203234912"
+    }
+}

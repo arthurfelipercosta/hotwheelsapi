@@ -2,9 +2,10 @@
     "series_id": "hwc-com-series-4-real-riders",
     "year": 2005,
     "name": "HWC.com Series 4: Real Riders",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 2,
     "releases": [
-        "data/releases/2005/h2929-purple-passion.json"
+        "data/releases/2005/h2929-purple-passion.json",
+        "data/releases/2005/h2932-super-van.json"
     ]
 }

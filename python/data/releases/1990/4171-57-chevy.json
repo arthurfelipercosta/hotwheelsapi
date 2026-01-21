@@ -1,0 +1,24 @@
+{
+    "release_id": "4171-57-chevy-1990",
+    "toy_number": "4171",
+    "casting_id": "57-chevy",
+    "year": 1990,
+    "series_id": "power-command",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Number '43' in blue, white BF Goodrich logos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Black opaque",
+        "interior_color": "Black opaque",
+        "wheel_type": {
+            "0": "PCOM"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Spoiler Pull Back",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/M1990-02.jpg/revision/latest/scale-to-width-down/75?cb=20190908015929"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "m1705-dodge-challenger-concept-2008",
+    "toy_number": "M1705",
+    "casting_id": "dodge-challenger-concept",
+    "year": 2008,
+    "series_id": "modern-classics",
+    "series_index": 14,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "Detail Gloss Black Painted Front Grille",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Red Rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/Challenger_Concept_AGENTAIR_5.png/revision/latest/scale-to-width-down/75?cb=20080901201410"
+    }
+}

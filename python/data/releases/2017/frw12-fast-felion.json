@@ -1,0 +1,24 @@
+{
+    "release_id": "frw12-fast-felion-2017",
+    "toy_number": "FRW12",
+    "casting_id": "fast-felion",
+    "year": 2017,
+    "series_id": "hw-exotics",
+    "series_index": 3,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue, silver, and light blue stripes, HW logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Light Blue)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Blue Lip PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K24, K25, K30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/FRW12CRD.JPG/revision/latest/scale-to-width-down/75?cb=20171020003908"
+    }
+}

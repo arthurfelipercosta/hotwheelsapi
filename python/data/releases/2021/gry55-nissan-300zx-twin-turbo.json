@@ -1,0 +1,34 @@
+{
+    "release_id": "gry55-nissan-300zx-twin-turbo-2021",
+    "toy_number": "GRY55",
+    "casting_id": "nissan-300zx-twin-turbo",
+    "year": 2021,
+    "series_id": "hw-turbo",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Trim details front & rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5",
+            "1": "Spectraflame Blue",
+            "2": "Trim details front & rear",
+            "3": "STH logo on rear quarter panels",
+            "4": "RR6SPM",
+            "5": "GTD10",
+            "6": "Super Treasure Hunt Base code(s):",
+            "7": "ZAMAC",
+            "8": "Trim details front & rear; \"300ZX\" on rear; \"ZAMAC 011\" rear license plate",
+            "9": "GTD24",
+            "10": "Walmart  Exclusive Base code(s): P08"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N09, N31, N34, N35, N36, N38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/300ZX_Turbo_Blue_21.jpg/revision/latest/scale-to-width-down/75?cb=20201030090329"
+    }
+}

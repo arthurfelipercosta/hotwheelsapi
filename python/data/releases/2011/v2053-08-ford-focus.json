@@ -1,0 +1,24 @@
+{
+    "release_id": "v2053-08-ford-focus-2011",
+    "toy_number": "V2053",
+    "casting_id": "08-ford-focus",
+    "year": 2011,
+    "series_id": "valentine-rides-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Gray",
+        "tampo": "Red, black & brown stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Red)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/%2708_Ford_Focus_%28800x600%29.jpg/revision/latest/scale-to-width-down/75?cb=20110205164534"
+    }
+}

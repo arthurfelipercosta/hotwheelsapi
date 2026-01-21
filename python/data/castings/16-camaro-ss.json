@@ -1,0 +1,24 @@
+{
+    "casting_id": "16-camaro-ss",
+    "name": "'16 Camaro SS",
+    "description": {
+        "en-us": "'16 Camaro SS Debut series Muscle Mania Produced 2016 - Present Designer Brendon Vetuskey Number DHP14",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2016/dhp14-16-camaro-ss.json",
+        "data/releases/2016/dhx40-16-camaro-ss.json",
+        "data/releases/2016/dyw76-16-camaro-ss.json",
+        "data/releases/2017/dty96-16-camaro-ss.json",
+        "data/releases/2017/dvc45-16-camaro-ss.json",
+        "data/releases/2018/fkv79-16-camaro-ss.json",
+        "data/releases/2019/fyd01-16-camaro-ss.json",
+        "data/releases/2019/fyg48-16-camaro-ss.json",
+        "data/releases/2021/grr19-16-camaro-ss.json",
+        "data/releases/2023/hlj88-16-camaro-ss.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2016,
+    "manufacturer": "Mattel"
+}

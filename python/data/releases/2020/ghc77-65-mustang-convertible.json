@@ -1,0 +1,24 @@
+{
+    "release_id": "ghc77-65-mustang-convertible-2020",
+    "toy_number": "GHC77",
+    "casting_id": "65-mustang-convertible",
+    "year": 2020,
+    "series_id": "hw-screen-time",
+    "series_index": 5,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "Mustang logo on quarter panels. '205' front license plate. Detailed front turn signals. Chrome taillights.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "007 Thunderball on card Base Code(s): M36, M38, M39, M41, M42",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/GHC77_-_65_Mustang_Convertible-1.jpg/revision/latest/scale-to-width-down/75?cb=20191216152113"
+    }
+}

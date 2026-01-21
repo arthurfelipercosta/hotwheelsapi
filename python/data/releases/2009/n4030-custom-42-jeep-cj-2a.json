@@ -1,0 +1,24 @@
+{
+    "release_id": "n4030-custom-42-jeep-cj-2a-2009",
+    "toy_number": "N4030",
+    "casting_id": "custom-42-jeep-cj-2a",
+    "year": 2009,
+    "series_id": "2009-new-models",
+    "series_index": 27,
+    "specs": {
+        "color": "Matte Olive Drab Green",
+        "tampo": "White star & HW logo on sides, 5-point Star & 'Jeep' on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "None",
+        "interior_color": "Beige",
+        "wheel_type": {
+            "0": "OR5SP & 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/Jeepcj12.jpg/revision/latest/scale-to-width-down/75?cb=20090828160752"
+    }
+}

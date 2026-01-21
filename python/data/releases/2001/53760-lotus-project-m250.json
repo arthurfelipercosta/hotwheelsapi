@@ -1,0 +1,26 @@
+{
+    "release_id": "53760-lotus-project-m250-2001",
+    "toy_number": "53760",
+    "casting_id": "lotus-project-m250",
+    "year": 2001,
+    "series_id": "mainline",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "\"Lotus\" logo on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5",
+            "1": "\"Lotus\" on hood",
+            "2": "Silver 'LOTUS' on rear"
+        }
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/Lotusproject.jpg/revision/latest/scale-to-width-down/75?cb=20090621100429"
+    }
+}

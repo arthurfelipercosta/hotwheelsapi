@@ -1,0 +1,25 @@
+{
+    "casting_id": "porsche-918-spyder",
+    "name": "Porsche 918 Spyder",
+    "description": {
+        "en-us": "Porsche 918 Spyder Debut series Factory Fresh Produced 2018 - Present Designer Ryu Asada Number FPT66",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fpt66-porsche-918-spyder-v2.json",
+        "data/releases/2018/fjy16-porsche-918-spyder-v2.json",
+        "data/releases/2019/fyd27-porsche-918-spyder-v2.json",
+        "data/releases/2019/fyg69-porsche-918-spyder-v2.json",
+        "data/releases/2020/ghd22-porsche-918-spyder-v2.json",
+        "data/releases/2020/ghg26-porsche-918-spyder-v2.json",
+        "data/releases/2020/hbg09-porsche-918-spyder-v2.json",
+        "data/releases/2021/grp30-porsche-918-spyder-v2.json",
+        "data/releases/2024/x6999-porsche-918-spyder-v3.json",
+        "data/releases/2024/x6999-porsche-918-spyder-v4.json",
+        "data/releases/2024/h7045-porsche-918-spyder-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Porsche"
+}

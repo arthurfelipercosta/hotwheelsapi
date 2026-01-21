@@ -1,0 +1,27 @@
+{
+    "release_id": "r7567-32-ford-2010",
+    "toy_number": "R7567",
+    "casting_id": "32-ford",
+    "year": 2010,
+    "series_id": "hw-hot-rods",
+    "series_index": 4,
+    "specs": {
+        "color": "Metallic Turquoise",
+        "tampo": "Red & White design, \"HWCC Rod & Custom\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "140",
+            "2": "214",
+            "3": "2010"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C05, C10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/32Ford_HotRods_turquoise.JPG/revision/latest/scale-to-width-down/75?cb=20100413022751"
+    }
+}

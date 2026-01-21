@@ -1,0 +1,24 @@
+{
+    "release_id": "flc08-nissan-fairlady-z-2018",
+    "toy_number": "FLC08",
+    "casting_id": "nissan-fairlady-z",
+    "year": 2018,
+    "series_id": "car-culture-japan-historics-2",
+    "series_index": 3,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "'GReddy', 'JNC' & Fairlady badges on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "C4SPRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): K42, K44, K45, K48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Nissan_Fairlady_Z-HW_2018_Car_Culture_%28Japan_Historics_2%29--3.jpg/revision/latest/scale-to-width-down/75?cb=20180313021203"
+    }
+}

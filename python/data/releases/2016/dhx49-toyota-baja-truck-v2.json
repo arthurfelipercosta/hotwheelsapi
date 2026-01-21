@@ -1,0 +1,24 @@
+{
+    "release_id": "dhx49-toyota-baja-truck-2016",
+    "toy_number": "DHX49",
+    "casting_id": "toyota-baja-truck",
+    "year": 2016,
+    "series_id": "hw-daredevils",
+    "series_index": 7,
+    "specs": {
+        "color": "Green",
+        "tampo": "HWGRFX 55-HW Daredevil",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J26, J32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/Dhx49_c_16_003.jpg/revision/latest/scale-to-width-down/75?cb=20250224022450"
+    }
+}

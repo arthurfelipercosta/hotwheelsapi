@@ -1,0 +1,24 @@
+{
+    "release_id": "gmr82-muscle-speeder-2020",
+    "toy_number": "GMR82",
+    "casting_id": "muscle-speeder",
+    "year": 2020,
+    "series_id": "pearl-and-chrome",
+    "series_index": 1,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Light Blue & Orange stripes, Light Blue 52",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "Orange Chrome PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M35, M45, N02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/Muscle_Speeder_Pearl_and_Chrome_loose_mc.jpg/revision/latest/scale-to-width-down/75?cb=20211230053318"
+    }
+}

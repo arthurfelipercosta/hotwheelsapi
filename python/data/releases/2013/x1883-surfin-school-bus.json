@@ -1,0 +1,24 @@
+{
+    "release_id": "x1883-surfin-school-bus-2013",
+    "toy_number": "X1883",
+    "casting_id": "surfin-school-bus",
+    "year": 2013,
+    "series_id": "hw-city-graffiti-rides",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "Graffiti on side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Blue Tint",
+        "wheel_type": {
+            "0": "Yellow PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F16, F17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/Surfin%E2%80%99-School-Bus-u.jpg/revision/latest/scale-to-width-down/75?cb=20190824095402"
+    }
+}

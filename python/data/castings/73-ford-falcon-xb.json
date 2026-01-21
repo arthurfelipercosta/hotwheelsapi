@@ -1,0 +1,32 @@
+{
+    "casting_id": "73-ford-falcon-xb",
+    "name": "'73 Ford Falcon XB",
+    "description": {
+        "en-us": "'73 Ford Falcon XB Debut series All Stars / 2010 HW Premiere Produced 2010 - Present Designer Rob Matthes Number R6452",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r7550-73-ford-falcon-xb-v3.json",
+        "data/releases/2010/r7550-73-ford-falcon-xb-v4.json",
+        "data/releases/2011/t8268-73-ford-falcon-xb-v2.json",
+        "data/releases/2011/t8327-73-ford-falcon-xb-v2.json",
+        "data/releases/2011/v3167-73-ford-falcon-xb-v2.json",
+        "data/releases/2012/v5423-73-ford-falcon-xb-v2.json",
+        "data/releases/2012/v5372-73-ford-falcon-xb-v2.json",
+        "data/releases/2012/v5660-73-ford-falcon-xb-v2.json",
+        "data/releases/2012/x7060-73-ford-falcon-xb-v2.json",
+        "data/releases/2013/x1861-73-ford-falcon-xb-v2.json",
+        "data/releases/2013/x2024-73-ford-falcon-xb-v2.json",
+        "data/releases/2013/x2003-73-ford-falcon-xb-v2.json",
+        "data/releases/2014/bff15-73-ford-falcon-xb-v2.json",
+        "data/releases/2014/bfv61-73-ford-falcon-xb-v2.json",
+        "data/releases/2016/djf43-73-ford-falcon-xb-v2.json",
+        "data/releases/2020/ghd65-73-ford-falcon-xb-v2.json",
+        "data/releases/2021/gtn48-73-ford-falcon-xb-v2.json",
+        "data/releases/2023/hlh90-73-ford-falcon-xb-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Ford"
+}

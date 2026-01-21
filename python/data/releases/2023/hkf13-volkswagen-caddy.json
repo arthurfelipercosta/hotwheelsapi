@@ -1,0 +1,24 @@
+{
+    "release_id": "hkf13-volkswagen-caddy-2023",
+    "toy_number": "HKF13",
+    "casting_id": "volkswagen-caddy",
+    "year": 2023,
+    "series_id": "hot-wheels-boulevard-67",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Detailed headlights and taillights, \"PORSCHE RENNDIENST\" on sides, detailed skateboard, \"VOLKSWAGEN CADDY \" on rear tailgate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MiniC4SPRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): R51, S01, S02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/51/VWCaddyTruck.jpg/revision/latest/scale-to-width-down/75?cb=20230213150647"
+    }
+}

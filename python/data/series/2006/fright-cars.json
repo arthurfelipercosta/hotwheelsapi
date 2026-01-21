@@ -2,10 +2,14 @@
     "series_id": "fright-cars",
     "year": 2006,
     "name": "Fright Cars",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
+        "data/releases/2006/l1163-rigor-motor.json",
+        "data/releases/2006/l1164-vampyra.json",
         "data/releases/2006/l1166-8-crate.json",
-        "data/releases/2006/l1170-47-chevy-fleetline.json"
+        "data/releases/2006/l1167-phastasm.json",
+        "data/releases/2006/l1170-47-chevy-fleetline.json",
+        "data/releases/2006/l1171-power-panel.json"
     ]
 }

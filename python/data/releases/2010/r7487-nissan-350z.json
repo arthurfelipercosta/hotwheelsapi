@@ -1,0 +1,25 @@
+{
+    "release_id": "r7487-nissan-350z-2010",
+    "toy_number": "R7487",
+    "casting_id": "nissan-350z",
+    "year": 2010,
+    "series_id": "mystery-car",
+    "series_index": 18,
+    "specs": {
+        "color": "Metallic Purple",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Green Rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/NissanZ_mystery.JPG/revision/latest/scale-to-width-down/75?cb=20091223131234"
+    }
+}

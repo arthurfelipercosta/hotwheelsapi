@@ -1,0 +1,24 @@
+{
+    "release_id": "fyc73-69-dodge-charger-2019",
+    "toy_number": "FYC73",
+    "casting_id": "69-dodge-charger",
+    "year": 2019,
+    "series_id": "hw-race-team",
+    "series_index": 6,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "Large HW Logo & \"Racing\" on sides & hood. White roundel with \"8\" on sides & hood. \"Dodge\" on sides. Red, white, gold stripes on sides & hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M27, M28, M31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/2019-%2769_Dodge_Charger.JPG/revision/latest/scale-to-width-down/75?cb=20190829131831"
+    }
+}

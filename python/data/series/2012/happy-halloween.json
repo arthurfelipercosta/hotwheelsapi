@@ -2,9 +2,10 @@
     "series_id": "happy-halloween",
     "year": 2012,
     "name": "Happy Halloween!",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 3,
     "releases": [
-        "data/releases/2012/w4069-tv-series-batmobile.json"
+        "data/releases/2012/w4069-tv-series-batmobile.json",
+        "data/releases/2012/w4467-fangula.json"
     ]
 }

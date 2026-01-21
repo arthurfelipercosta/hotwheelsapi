@@ -2,13 +2,23 @@
     "series_id": "throwback",
     "year": 2019,
     "name": "Throwback",
-    "total_releases": 5,
-    "max_index": 6,
+    "total_releases": 15,
+    "max_index": 7,
     "releases": [
+        "data/releases/2019/gbb86-custom-datsun-240z.json",
         "data/releases/2019/gbb87-bone-shaker.json",
+        "data/releases/2019/gbb88-86-monte-carlo-ss.json",
+        "data/releases/2019/gbb89-mini-cooper.json",
         "data/releases/2019/gbb90-85-honda-city-turbo-ii.json",
+        "data/releases/2019/gbb91-bmw-e36-m3-race.json",
+        "data/releases/2019/gbb92-cadillac-elmiraj.json",
+        "data/releases/2019/gbb96-15-dodge-challenger-srt.json",
+        "data/releases/2019/gbb97-cockney-cab-ii.json",
         "data/releases/2019/gbb98-64-impala.json",
         "data/releases/2019/gbb99-humvee.json",
-        "data/releases/2019/gbc00-73-pontiac-firebird.json"
+        "data/releases/2019/gbc00-73-pontiac-firebird.json",
+        "data/releases/2019/gbc01-corvette-c6-convertible.json",
+        "data/releases/2019/gbc02-55-corvette.json",
+        "data/releases/2019/gbc03-70-camaro.json"
     ]
 }

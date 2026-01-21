@@ -1,0 +1,25 @@
+{
+    "release_id": "ghp51-custom-62-chevy-2020",
+    "toy_number": "GHP51",
+    "casting_id": "custom-62-chevy",
+    "year": 2020,
+    "series_id": "hw-hot-trucks-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "White stripes on sides, Black Chevy logos on sides, “SPEED SHOP” on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): M49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/HW_CUSTOM_62_CHEVY_Hot_trucks_RED.jpg/revision/latest/scale-to-width-down/75?cb=20191129182829"
+    }
+}

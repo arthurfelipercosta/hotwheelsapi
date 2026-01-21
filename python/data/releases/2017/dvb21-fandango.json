@@ -1,0 +1,24 @@
+{
+    "release_id": "dvb21-fandango-2017",
+    "toy_number": "DVB21",
+    "casting_id": "fandango",
+    "year": 2017,
+    "series_id": "hw-art-cars",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "Green, White & Pink tampos & HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Purple)",
+        "interior_color": "Light Blue",
+        "wheel_type": {
+            "0": "Yellow PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): K12,K13,K15, K16",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/DVB21.jpg/revision/latest/scale-to-width-down/75?cb=20220805161344"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "series_id": "happy-halloween",
+    "year": 2020,
+    "name": "Happy Halloween!",
+    "total_releases": 6,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2020/gjv94-epic-fast.json",
+        "data/releases/2020/gjv95-twinduction.json",
+        "data/releases/2020/gjv96-hover-out.json",
+        "data/releases/2020/gjv97-night-burner.json",
+        "data/releases/2020/gjv98-hw-poppa-wheelie.json",
+        "data/releases/2020/gjv99-super-stinger.json"
+    ]
+}

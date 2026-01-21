@@ -1,0 +1,15 @@
+{
+    "series_id": "mickey-mouse-90th-anniversary",
+    "year": 2018,
+    "name": "Mickey Mouse 90th Anniversary",
+    "total_releases": 6,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2018/gdg84-32-ford.json",
+        "data/releases/2018/gdg85-57-plymouth-fury.json",
+        "data/releases/2018/gdg86-covelight.json",
+        "data/releases/2018/gdg87-avant-garde.json",
+        "data/releases/2018/gdg89-torque-twister.json",
+        "data/releases/2018/gdg90-bread-box.json"
+    ]
+}

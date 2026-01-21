@@ -1,0 +1,13 @@
+{
+    "series_id": "police-pursuit-5-pack",
+    "year": 2014,
+    "name": "Police Pursuit 5-Pack",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bfb24-11-dodge-charger-r-t.json",
+        "data/releases/2014/bfb24-armored-truck.json",
+        "data/releases/2014/bfb24-ford-mustang-gt-concept.json",
+        "data/releases/2014/bfb24-honda-civic-si.json"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "casting_id": "turbo-turret",
+    "name": "Turbo Turret",
+    "description": {
+        "en-us": "Turbo Turret Debut series HW Imagination: Surf Patrol Produced 2013 - 2016 Designer Paul DeLorean Number X1651",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1651-turbo-turret.json",
+        "data/releases/2013/x1651-turbo-turret-v2.json",
+        "data/releases/2014/bfc71-turbo-turret.json",
+        "data/releases/2014/bfg08-turbo-turret.json",
+        "data/releases/2016/djd24-turbo-turret.json",
+        "data/releases/2016/dgn46-turbo-turret.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

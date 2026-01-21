@@ -1,0 +1,25 @@
+{
+    "release_id": "fkc25-15-mercedes-amg-gt-2018",
+    "toy_number": "FKC25",
+    "casting_id": "15-mercedes-amg-gt",
+    "year": 2018,
+    "series_id": "red-edition",
+    "series_index": 12,
+    "specs": {
+        "color": "White",
+        "tampo": "Headlights, Taillights & Grille. Silver Mercedes logo on hood and trunk, Silver model tags",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome",
+            "1": "Red rim J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/HW_15_MERCEDES-AMG_GT_RE_2_FKC25_C.jpg/revision/latest/scale-to-width-down/75?cb=20180905141950"
+    }
+}

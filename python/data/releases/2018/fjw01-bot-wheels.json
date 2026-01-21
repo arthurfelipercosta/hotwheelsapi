@@ -1,0 +1,24 @@
+{
+    "release_id": "fjw01-bot-wheels-2018",
+    "toy_number": "FJW01",
+    "casting_id": "bot-wheels",
+    "year": 2018,
+    "series_id": "hw-robots",
+    "series_index": 5,
+    "specs": {
+        "color": "Metallic Gray",
+        "tampo": "Green, white & orange tampo, \"Alvin\", Hot Wheels logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "N/A",
+        "interior_color": "N/A",
+        "wheel_type": {
+            "0": "CGBLOR"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/BotWheelsSilver.JPG/revision/latest/scale-to-width-down/75?cb=20180916024823"
+    }
+}

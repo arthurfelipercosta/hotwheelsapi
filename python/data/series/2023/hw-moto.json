@@ -2,10 +2,17 @@
     "series_id": "hw-moto",
     "year": 2023,
     "name": "HW Moto",
-    "total_releases": 2,
+    "total_releases": 9,
     "max_index": 4,
     "releases": [
+        "data/releases/2023/hkg32-ducati-desertx.json",
+        "data/releases/2023/hkg43-honda-super-cub-custom.json",
         "data/releases/2023/hkg49-honda-cb750-caf.json",
-        "data/releases/2023/hkk34-honda-cb750-caf.json"
+        "data/releases/2023/hkh74-honda-super-cub.json",
+        "data/releases/2023/hkk32-honda-super-cub.json",
+        "data/releases/2023/hkk33-honda-super-cub-custom.json",
+        "data/releases/2023/hkk34-honda-cb750-caf.json",
+        "data/releases/2023/hkl01-bmw-r-ninet-racer.json",
+        "data/releases/2023/htf60-honda-super-cub-custom.json"
     ]
 }

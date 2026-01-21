@@ -2,10 +2,15 @@
     "series_id": "treasure-hunts",
     "year": 2010,
     "name": "Treasure Hunts",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 1,
     "releases": [
         "data/releases/2010/r7434-custom-53-cadillac.json",
-        "data/releases/2010/r7435-chevroletor.json"
+        "data/releases/2010/r7435-chevroletor.json",
+        "data/releases/2010/r7438-shelby-cobra-daytona-coupe.json",
+        "data/releases/2010/r7442-69-ford-torino-talladega.json",
+        "data/releases/2010/r7442-69-ford-torino-talladega.json",
+        "data/releases/2010/r7443-chevy-camaro-concept.json",
+        "data/releases/2010/r7445-69-ford-mustang.json"
     ]
 }

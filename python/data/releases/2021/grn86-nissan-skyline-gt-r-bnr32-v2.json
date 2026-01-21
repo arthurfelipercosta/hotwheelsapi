@@ -1,0 +1,24 @@
+{
+    "release_id": "grn86-nissan-skyline-gt-r-bnr32-2021",
+    "toy_number": "GRN86",
+    "casting_id": "nissan-skyline-gt-r-bnr32",
+    "year": 2021,
+    "series_id": "nissan-skyline-gt-r-collector-set",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed headlights and taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/BoxSetSkylineR32.jpg/revision/latest?cb=20211103205226"
+    }
+}

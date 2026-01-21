@@ -1,0 +1,24 @@
+{
+    "release_id": "hct88-lancia-delta-integrale-2022",
+    "toy_number": "HCT88",
+    "casting_id": "lancia-delta-integrale",
+    "year": 2022,
+    "series_id": "rally-champs",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Dark Green",
+        "tampo": "Detailed headlights, green and yellow waves, \"8\", Castrol, sparco and Eibach logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Cream",
+        "wheel_type": {
+            "0": "Gray AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R20, R22, R24, R25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/HCT88-01.JPG/revision/latest/scale-to-width-down/75?cb=20220920052005"
+    }
+}

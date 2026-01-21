@@ -1,0 +1,25 @@
+{
+    "casting_id": "speed-dozer",
+    "name": "Speed Dozer",
+    "description": {
+        "en-us": "Speed Dozer Debut series HW City: HW City Works Produced 2013 - Present Designer Ryu Asada Number BJF58",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/bjf58-speed-dozer-v2.json",
+        "data/releases/2015/cfh27-speed-dozer-v2.json",
+        "data/releases/2015/cfj76-speed-dozer-v2.json",
+        "data/releases/2016/dhr66-speed-dozer-v2.json",
+        "data/releases/2016/dhw98-speed-dozer-v2.json",
+        "data/releases/2017/dvf98-speed-dozer-v2.json",
+        "data/releases/2019/fyl14-speed-dozer-v2.json",
+        "data/releases/2021/grx81-speed-dozer-v2.json",
+        "data/releases/2021/hbg29-speed-dozer-v2.json",
+        "data/releases/2024/htb17-speed-dozer-v2.json",
+        "data/releases/2024/htf03-speed-dozer-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Mattel"
+}

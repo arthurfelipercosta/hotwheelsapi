@@ -1,0 +1,19 @@
+{
+    "casting_id": "drone-duty",
+    "name": "Drone Duty",
+    "description": {
+        "en-us": "Drone Duty Debut series HW Rescue Produced 2022 – Present Designer Fraser Campbell Number HCT43",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2022/hct43-drone-duty.json",
+        "data/releases/2023/hkg93-drone-duty.json",
+        "data/releases/2023/hkj70-drone-duty.json",
+        "data/releases/2024/htv52-drone-duty.json",
+        "data/releases/2025/jbj75-drone-duty.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2022,
+    "manufacturer": "Mattel"
+}

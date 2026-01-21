@@ -1,0 +1,24 @@
+{
+    "release_id": "t8309-68-chevy-nova-2011",
+    "toy_number": "T8309",
+    "casting_id": "68-chevy-nova",
+    "year": 2011,
+    "series_id": "hot-wheels-garage",
+    "series_index": null,
+    "specs": {
+        "color": "Red & Grey",
+        "tampo": "Grey stripes on hood, red stripe on side, \"396\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red Lines RR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/26_1968_Nova.png/revision/latest/scale-to-width-down/75?cb=20210704123847"
+    }
+}

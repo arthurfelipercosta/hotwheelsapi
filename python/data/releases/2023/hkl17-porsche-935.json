@@ -1,0 +1,25 @@
+{
+    "release_id": "hkl17-porsche-935-2023",
+    "toy_number": "HKL17",
+    "casting_id": "porsche-935",
+    "year": 2023,
+    "series_id": "hw-exotics",
+    "series_index": 7,
+    "specs": {
+        "color": "Spectraflame navy blue",
+        "tampo": "Gold trim, red and yellow striping on sides, Porsche 75, Porsche and TH logos on door",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Gold Rim",
+            "1": "Black RRA"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Porsche 75th Anniversary Super Treasure Hunt Base code(s): S20, S23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Porsche935-75.jpg/revision/latest/scale-to-width-down/75?cb=20230707052407"
+    }
+}

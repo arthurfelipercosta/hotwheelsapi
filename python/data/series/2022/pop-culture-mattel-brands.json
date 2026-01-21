@@ -1,0 +1,10 @@
+{
+    "series_id": "pop-culture-mattel-brands",
+    "year": 2022,
+    "name": "Pop Culture: Mattel Brands",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hcp03-kool-kombi.json"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-moto",
+    "year": 2018,
+    "name": "HW Moto",
+    "total_releases": 5,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2018/fjx07-street-stealth.json",
+        "data/releases/2018/fjx08-quad-rod.json",
+        "data/releases/2018/fjx09-ducati-1199-panigale.json",
+        "data/releases/2018/fjx11-blastous-moto.json",
+        "data/releases/2018/fkb28-street-stealth.json"
+    ]
+}

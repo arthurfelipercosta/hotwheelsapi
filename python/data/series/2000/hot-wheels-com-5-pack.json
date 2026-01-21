@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-com-5-pack",
+    "year": 2000,
+    "name": "Hot Wheels.com 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2000/25371-65-chevy-impala.json",
+        "data/releases/2000/25371-classic-nomad.json"
+    ]
+}

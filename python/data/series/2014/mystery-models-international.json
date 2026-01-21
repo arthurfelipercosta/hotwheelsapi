@@ -2,9 +2,17 @@
     "series_id": "mystery-models-international",
     "year": 2014,
     "name": "Mystery Models (International)",
-    "total_releases": 1,
+    "total_releases": 9,
     "max_index": 3,
     "releases": [
-        "data/releases/2014/bdp42-deora-ii.json"
+        "data/releases/2014/bdp42-deora-ii.json",
+        "data/releases/2014/bdp43-lotus-project-m250.json",
+        "data/releases/2014/bdp44-11-dodge-charger-r-t.json",
+        "data/releases/2014/bdp45-aston-martin-dbs.json",
+        "data/releases/2014/bdp46-70-pontiac-gto-judge.json",
+        "data/releases/2014/bdp47-lamborghini-revent-n.json",
+        "data/releases/2014/bdp48-battle-spec.json",
+        "data/releases/2014/bdp50-growler.json",
+        "data/releases/2014/bdp51-power-pipes.json"
     ]
 }

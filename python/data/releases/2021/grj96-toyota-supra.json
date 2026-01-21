@@ -1,0 +1,24 @@
+{
+    "release_id": "grj96-toyota-supra-2021",
+    "toy_number": "GRJ96",
+    "casting_id": "toyota-supra",
+    "year": 2021,
+    "series_id": "car-culture-toyota",
+    "series_index": 1,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Detailed headlights and taillights, \"GEN 4\" license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RRE"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): P35, P39, P40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/1994ToyotaSupra.jpg/revision/latest/scale-to-width-down/75?cb=20211217003635"
+    }
+}

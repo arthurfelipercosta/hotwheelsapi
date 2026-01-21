@@ -2,12 +2,14 @@
     "series_id": "pride-rides",
     "year": 2003,
     "name": "Pride Rides",
-    "total_releases": 4,
+    "total_releases": 6,
     "max_index": 8,
     "releases": [
+        "data/releases/2003/57126-64-buick-riviera.json",
         "data/releases/2003/57160-la-troca.json",
         "data/releases/2003/57170-59-chevy-bel-air.json",
         "data/releases/2003/57170-59-chevy-bel-air.json",
-        "data/releases/2003/57170-59-chevy-bel-air.json"
+        "data/releases/2003/57170-59-chevy-bel-air.json",
+        "data/releases/2003/c1363-honda-civic-si.json"
     ]
 }

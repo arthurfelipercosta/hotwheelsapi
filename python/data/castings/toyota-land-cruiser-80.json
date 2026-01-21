@@ -1,0 +1,20 @@
+{
+    "casting_id": "toyota-land-cruiser-80",
+    "name": "Toyota Land Cruiser 80",
+    "description": {
+        "en-us": "Toyota Land Cruiser 80 Debut series HW Hot Trucks Produced 2021 – Present Designer Dmitriy Shakhmatov Number GRX22",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx22-toyota-land-cruiser-80.json",
+        "data/releases/2022/hct64-toyota-land-cruiser-80.json",
+        "data/releases/2022/hcy57-toyota-land-cruiser-80.json",
+        "data/releases/2023/hkj41-toyota-land-cruiser-80.json",
+        "data/releases/2025/jcb74-toyota-land-cruiser-80.json",
+        "data/releases/2026/jkx88-toyota-land-cruiser-80.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Toyota"
+}

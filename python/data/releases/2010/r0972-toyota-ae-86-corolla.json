@@ -1,0 +1,24 @@
+{
+    "release_id": "r0972-toyota-ae-86-corolla-2010",
+    "toy_number": "R0972",
+    "casting_id": "toyota-ae-86-corolla",
+    "year": 2010,
+    "series_id": "hot-tuners-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Black, Red & Yellow tampos, 'IMAI' and Kanji 純 (meaning 'Jun' in Japanese, as in Jun Imai)",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Red tint",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Chrome Red & Black OH5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): B50, C20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/ToyotaCorollaAE86_tunerz5pack.JPG/revision/latest/scale-to-width-down/75?cb=20100124025129"
+    }
+}

@@ -2,10 +2,16 @@
     "series_id": "hw-55-race-team",
     "year": 2023,
     "name": "HW 55 Race Team",
-    "total_releases": 2,
+    "total_releases": 8,
     "max_index": 3,
     "releases": [
+        "data/releases/2023/hkg50-hw-4-trac.json",
+        "data/releases/2023/hkh67-dodge-van.json",
         "data/releases/2023/hkh68-erikenstein-rod.json",
-        "data/releases/2023/hkk29-erikenstein-rod.json"
+        "data/releases/2023/hkh77-turbine-sublime.json",
+        "data/releases/2023/hkk28-dodge-van.json",
+        "data/releases/2023/hkk29-erikenstein-rod.json",
+        "data/releases/2023/hkk38-turbine-sublime.json",
+        "data/releases/2023/hkl00-mod-rod.json"
     ]
 }

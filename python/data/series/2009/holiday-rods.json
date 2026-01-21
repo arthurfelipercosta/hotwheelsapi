@@ -2,10 +2,14 @@
     "series_id": "holiday-rods",
     "year": 2009,
     "name": "Holiday Rods",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 2,
     "releases": [
         "data/releases/2009/r4219-custom-53-cadillac.json",
-        "data/releases/2009/r4219-custom-53-cadillac.json"
+        "data/releases/2009/r4219-custom-53-cadillac.json",
+        "data/releases/2009/r4221-custom-41-willys-coupe.json",
+        "data/releases/2009/r4221-custom-41-willys-coupe.json",
+        "data/releases/2009/r4223-combat-medic.json",
+        "data/releases/2009/r4223-combat-medic.json"
     ]
 }

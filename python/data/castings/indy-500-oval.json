@@ -1,0 +1,41 @@
+{
+    "casting_id": "indy-500-oval",
+    "name": "Indy 500 Oval",
+    "description": {
+        "en-us": "Indy 500 Oval Debut series 2012 New Models Produced 2012 - Present Designer Jun Imai Number V5330",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5330-indy-500-oval-v3.json",
+        "data/releases/2012/v5593-indy-500-oval-v3.json",
+        "data/releases/2012/v5673-indy-500-oval-v3.json",
+        "data/releases/2012/w8330-indy-500-oval-v3.json",
+        "data/releases/2012/w8331-indy-500-oval-v3.json",
+        "data/releases/2012/w8332-indy-500-oval-v3.json",
+        "data/releases/2012/w8333-indy-500-oval-v3.json",
+        "data/releases/2012/w8334-indy-500-oval-v3.json",
+        "data/releases/2012/w8335-indy-500-oval-v3.json",
+        "data/releases/2013/x1757-indy-500-oval-v3.json",
+        "data/releases/2014/x6999-indy-500-oval-v3.json",
+        "data/releases/2015/x6999-indy-500-oval-v3.json",
+        "data/releases/2016/dxy60-indy-500-oval-v3.json",
+        "data/releases/2018/fjw09-indy-500-oval-v3.json",
+        "data/releases/2018/fkb36-indy-500-oval-v3.json",
+        "data/releases/2018/fkb85-indy-500-oval-v3.json",
+        "data/releases/2019/fyd24-indy-500-oval-v3.json",
+        "data/releases/2019/fyd80-indy-500-oval-v3.json",
+        "data/releases/2019/fjw09-indy-500-oval-v3.json",
+        "data/releases/2019/glc17-indy-500-oval-v3.json",
+        "data/releases/2019/x6999-indy-500-oval-v3.json",
+        "data/releases/2020/ghd34-indy-500-oval-v3.json",
+        "data/releases/2020/ghg69-indy-500-oval-v3.json",
+        "data/releases/2020/ghf83-indy-500-oval-v3.json",
+        "data/releases/2021/gry21-indy-500-oval-v3.json",
+        "data/releases/2021/gtb94-indy-500-oval-v3.json",
+        "data/releases/2021/x6999-indy-500-oval-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

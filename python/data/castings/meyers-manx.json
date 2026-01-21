@@ -1,0 +1,36 @@
+{
+    "casting_id": "meyers-manx",
+    "name": "Meyers Manx",
+    "description": {
+        "en-us": "Meyers Manx Debut series 2003 First Editions Produced 2003 - 2014 Designer Phil Riehlman Number 56375\\n\\nThe Meyers Manx is a small recreationally-oriented dune buggy designed initially for desert racing. Designed by Bruce Meyers, the Manx was based on a shortened Volkswagen Beetle chassis and was built on a fiberglass bodyshell. Produced by a number of different companies, the current iteration of the Manx is produced by Meyers Manx, Inc., a modern revival of the original company.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56375-meyers-manx.json",
+        "data/releases/2004/b3581-meyers-manx.json",
+        "data/releases/2004/g3768-meyers-manx.json",
+        "data/releases/2004/g7792-meyers-manx.json",
+        "data/releases/2005/h9047-meyers-manx.json",
+        "data/releases/2005/h9047-meyers-manx-v2.json",
+        "data/releases/2005/h9047-meyers-manx-v3.json",
+        "data/releases/2005/h9047-meyers-manx-v4.json",
+        "data/releases/2005/h9047-meyers-manx-v5.json",
+        "data/releases/2005/h7048-meyers-manx.json",
+        "data/releases/2005/g4452-meyers-manx.json",
+        "data/releases/2006/j3301-meyers-manx.json",
+        "data/releases/2007/l0744-meyers-manx.json",
+        "data/releases/2008/m6982-meyers-manx.json",
+        "data/releases/2008/m6982-meyers-manx-v2.json",
+        "data/releases/2009/n4166-meyers-manx.json",
+        "data/releases/2010/r7606-meyers-manx.json",
+        "data/releases/2010/r7606-meyers-manx-v2.json",
+        "data/releases/2012/w3786-meyers-manx.json",
+        "data/releases/2013/y2090-meyers-manx.json",
+        "data/releases/2014/bfd04-meyers-manx.json",
+        "data/releases/2014/bfg40-meyers-manx.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Mattel"
+}

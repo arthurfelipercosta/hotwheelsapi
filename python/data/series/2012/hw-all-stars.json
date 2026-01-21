@@ -2,10 +2,24 @@
     "series_id": "hw-all-stars",
     "year": 2012,
     "name": "HW All Stars",
-    "total_releases": 2,
+    "total_releases": 16,
     "max_index": 4,
     "releases": [
+        "data/releases/2012/v5379-ferrari-599xx.json",
+        "data/releases/2012/v5424-lamborghini-revent-n.json",
+        "data/releases/2012/v5426-aston-martin-one-77.json",
         "data/releases/2012/v5427-porsche-911-gt2.json",
-        "data/releases/2012/w4447-porsche-911-gt2.json"
+        "data/releases/2012/v5428-ferrari-599xx.json",
+        "data/releases/2012/v5428-ferrari-599xx.json",
+        "data/releases/2012/v5429-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2012/v5431-lamborghini-estoque.json",
+        "data/releases/2012/v5433-ferrari-458-italia.json",
+        "data/releases/2012/v5567-ferrari-458-italia.json",
+        "data/releases/2012/v5598-aston-martin-one-77.json",
+        "data/releases/2012/v5607-lamborghini-revent-n.json",
+        "data/releases/2012/v5651-aston-martin-one-77.json",
+        "data/releases/2012/v5667-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2012/w4447-porsche-911-gt2.json",
+        "data/releases/2012/w4452-lamborghini-estoque.json"
     ]
 }

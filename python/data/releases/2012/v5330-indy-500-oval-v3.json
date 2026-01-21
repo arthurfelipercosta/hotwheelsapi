@@ -1,0 +1,24 @@
+{
+    "release_id": "v5330-indy-500-oval-2012",
+    "toy_number": "V5330",
+    "casting_id": "indy-500-oval",
+    "year": 2012,
+    "series_id": "2012-new-models",
+    "series_index": 42,
+    "specs": {
+        "color": "White",
+        "tampo": "Team Hot Wheels decals, Red, Yellow, Black & Blue tampos IZOD on right side of spoiler",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Red rim PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named 2011 IndyCar Oval Course Race Car Base code(s): D42, D46, D47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/2011_indycar_ovalcourse_race_car_2012_white.png/revision/latest/scale-to-width-down/75?cb=20111211024316"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "casting_id": "jaguar-xe-sv-project-8",
+    "name": "Jaguar XE SV Project 8",
+    "description": {
+        "en-us": "Jaguar XE SV Project 8 Debut series Factory Fresh Produced 2019 - Present Designer Ryu Asada Number FYB40",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2019/fyb40-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2019/ghg47-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2020/ghd14-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2020/ghf47-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2020/gjr74-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2021/gry05-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2021/gtb90-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2022/hfv80-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2022/hdh15-jaguar-xe-sv-project-8-v2.json",
+        "data/releases/2023/hnt09-jaguar-xe-sv-project-8-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2019,
+    "manufacturer": "Jaguar"
+}

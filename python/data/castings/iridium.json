@@ -1,0 +1,30 @@
+{
+    "casting_id": "iridium",
+    "name": "Iridium",
+    "description": {
+        "en-us": "Iridium Debut series AcceleRacers: Silencerz Produced 2005 – Present Designer Mark Jones Number G8119",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g8119-iridium.json",
+        "data/releases/2005/none-iridium.json",
+        "data/releases/2006/j7254-iridium.json",
+        "data/releases/2007/k7606-iridium.json",
+        "data/releases/2007/k7606-iridium-v2.json",
+        "data/releases/2008/n1060-iridium.json",
+        "data/releases/2009/n4079-iridium.json",
+        "data/releases/2011/v1050-iridium.json",
+        "data/releases/2013/x9326-iridium.json",
+        "data/releases/2015/cfl04-iridium.json",
+        "data/releases/2016/djd25-iridium.json",
+        "data/releases/2016/w5084-iridium.json",
+        "data/releases/2017/dvf99-iridium.json",
+        "data/releases/2019/x6999-iridium.json",
+        "data/releases/2023/hkl74-iridium.json",
+        "data/releases/2025/jcb92-iridium.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

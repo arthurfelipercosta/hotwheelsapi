@@ -1,0 +1,34 @@
+{
+    "casting_id": "street-creeper",
+    "name": "Street Creeper",
+    "description": {
+        "en-us": "Street Creeper Debut series 2012 New Models Produced 2012 - Present Designer Abe Lugo Number V5320",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5320-street-creeper.json",
+        "data/releases/2013/y2096-street-creeper.json",
+        "data/releases/2014/bfc89-street-creeper.json",
+        "data/releases/2014/ccf65-street-creeper.json",
+        "data/releases/2016/x6999-street-creeper.json",
+        "data/releases/2017/dtx69-street-creeper.json",
+        "data/releases/2017/fbh88-street-creeper.json",
+        "data/releases/2017/fdm85-street-creeper.json",
+        "data/releases/2018/x6999-street-creeper.json",
+        "data/releases/2018/fkv14-street-creeper.json",
+        "data/releases/2018/fkx60-street-creeper.json",
+        "data/releases/2019/gbd50-street-creeper.json",
+        "data/releases/2019/fyc49-street-creeper.json",
+        "data/releases/2019/fyc12-street-creeper.json",
+        "data/releases/2020/x6999-street-creeper.json",
+        "data/releases/2021/x6999-street-creeper.json",
+        "data/releases/2022/x6999-street-creeper.json",
+        "data/releases/2023/x6999-street-creeper.json",
+        "data/releases/2024/hvw96-street-creeper.json",
+        "data/releases/2025/x6999-street-creeper.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,31 @@
+{
+    "casting_id": "dodge-charger-srt8",
+    "name": "Dodge Charger SRT8",
+    "description": {
+        "en-us": "Dodge Charger SRT8 Debut series 2007 New Models Produced 2007 - 2016 Designer Unknown Number K6139",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2007/k6139-dodge-charger-srt8.json",
+        "data/releases/2007/k6139-dodge-charger-srt8-v2.json",
+        "data/releases/2007/k6139-dodge-charger-srt8-v3.json",
+        "data/releases/2007/k6139-dodge-charger-srt8-v4.json",
+        "data/releases/2008/l9964-dodge-charger-srt8.json",
+        "data/releases/2008/n4422-dodge-charger-srt8.json",
+        "data/releases/2008/r9602-dodge-charger-srt8.json",
+        "data/releases/2008/n4432-dodge-charger-srt8.json",
+        "data/releases/2009/p2449-dodge-charger-srt8.json",
+        "data/releases/2009/r0958-dodge-charger-srt8.json",
+        "data/releases/2010/r7535-dodge-charger-srt8.json",
+        "data/releases/2010/r7535-dodge-charger-srt8-v2.json",
+        "data/releases/2011/v8729-dodge-charger-srt8.json",
+        "data/releases/2012/x5302-dodge-charger-srt8.json",
+        "data/releases/2012/54886-dodge-charger-srt8.json",
+        "data/releases/2014/bhr20-dodge-charger-srt8.json",
+        "data/releases/2016/dht05-dodge-charger-srt8.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2007,
+    "manufacturer": "Dodge"
+}

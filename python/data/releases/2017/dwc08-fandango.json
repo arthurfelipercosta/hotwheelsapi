@@ -1,0 +1,25 @@
+{
+    "release_id": "dwc08-fandango-2017",
+    "toy_number": "DWC08",
+    "casting_id": "fandango",
+    "year": 2017,
+    "series_id": "holiday-hot-rods",
+    "series_index": 3,
+    "specs": {
+        "color": "Grey",
+        "tampo": "Black Stripes, Gold Snow Flakes on sides and hood, Winter 2017 on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Red)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Gold OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Uses original tooling Base Code(s): K26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/DWC08_C.JPG/revision/latest/scale-to-width-down/75?cb=20171203192223"
+    }
+}

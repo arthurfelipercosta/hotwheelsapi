@@ -1,0 +1,31 @@
+{
+    "casting_id": "77-pontiac-firebird-t-a",
+    "name": "'77 Pontiac Firebird T/A",
+    "description": {
+        "en-us": "'77 Pontiac Firebird T/A Debut series Modern Classics Produced 2008 - Present Designer Jun Imai Number M0513",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2008/m0513-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2012/w4625-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2013/x8912-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2014/bdr25-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2016/dhr08-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2016/dhx82-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2017/dtx83-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2017/dvb75-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2017/fdr61-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2018/fkv90-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2019/gbw88-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2021/grp82-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2022/hcp13-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2022/hnv36-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2024/htc60-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2024/htf40-77-pontiac-firebird-t-a-v2.json",
+        "data/releases/2025/jbl28-77-pontiac-firebird-t-a-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2008,
+    "manufacturer": "Pontiac"
+}

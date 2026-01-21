@@ -2,9 +2,10 @@
     "series_id": "car-culture-fast-wagons",
     "year": 2025,
     "name": "Car Culture: Fast Wagons",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 2,
     "releases": [
-        "data/releases/2025/jbk67-70-chevelle-ss-wagon.json"
+        "data/releases/2025/jbk67-70-chevelle-ss-wagon.json",
+        "data/releases/2025/jbk68-volvo-850-estate.json"
     ]
 }

@@ -1,0 +1,11 @@
+{
+    "series_id": "german-racers-collector-set",
+    "year": 2024,
+    "name": "German Racers Collector Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2024/hrt54-porsche-917-lh.json",
+        "data/releases/2024/hrt54-porsche-935.json"
+    ]
+}

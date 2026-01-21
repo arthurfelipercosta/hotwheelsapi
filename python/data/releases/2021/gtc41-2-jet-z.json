@@ -1,0 +1,25 @@
+{
+    "release_id": "gtc41-2-jet-z-2021",
+    "toy_number": "GTC41",
+    "casting_id": "2-jet-z",
+    "year": 2021,
+    "series_id": "rod-squad",
+    "series_index": 2,
+    "specs": {
+        "color": "Red",
+        "tampo": "Shark teeth jet fighter scheme",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (smoke)",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/2021_2JetZ_red.jpg/revision/latest?cb=20210525152622"
+    }
+}

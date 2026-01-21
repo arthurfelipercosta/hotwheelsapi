@@ -1,0 +1,10 @@
+{
+    "series_id": "hot-wheels-id-supercars",
+    "year": 2021,
+    "name": "Hot Wheels id: Supercars",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": [
+        "data/releases/2021/hbg10-2020-corvette.json"
+    ]
+}

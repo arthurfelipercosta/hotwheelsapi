@@ -1,0 +1,27 @@
+{
+    "brand_id": "bmw",
+    "name": "BMW",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/10-bmw-m3.json",
+        "data/castings/2016-bmw-m2.json",
+        "data/castings/73-bmw-3-0-csl-race-car.json",
+        "data/castings/92-bmw-m3.json",
+        "data/castings/bmw-2002.json",
+        "data/castings/bmw-507.json",
+        "data/castings/bmw-635-csi.json",
+        "data/castings/bmw-e36-m3-race.json",
+        "data/castings/bmw-i8-roadster.json",
+        "data/castings/bmw-k-1300-r.json",
+        "data/castings/bmw-m3-gt2.json",
+        "data/castings/bmw-m3-wagon.json",
+        "data/castings/bmw-m4.json",
+        "data/castings/bmw-r-ninet-racer.json",
+        "data/castings/bmw-z4-m-motorsport.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of BMW vehicles.",
+        "pt-br": "Fabricante de veículos BMW."
+    }
+}

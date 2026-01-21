@@ -1,0 +1,24 @@
+{
+    "release_id": "x1666-10-bmw-m3-2013",
+    "toy_number": "X1666",
+    "casting_id": "10-bmw-m3",
+    "year": 2013,
+    "series_id": "hw-city-street-power",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Detailed headlights, front grille + badge, and hood vents",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base codes: E36, E38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/HW_BMW_M3_E38.jpg/revision/latest/scale-to-width-down/75?cb=20130111111502"
+    }
+}

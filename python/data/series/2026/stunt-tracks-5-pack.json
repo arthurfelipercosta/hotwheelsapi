@@ -1,0 +1,14 @@
+{
+    "series_id": "stunt-tracks-5-pack",
+    "year": 2026,
+    "name": "Stunt Tracks 5-Pack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2026/jkg07-16-angels.json",
+        "data/releases/2026/jkg07-electrack.json",
+        "data/releases/2026/jkg07-piledriver.json",
+        "data/releases/2026/jkg07-retro-active.json",
+        "data/releases/2026/jkg07-time-tracker.json"
+    ]
+}

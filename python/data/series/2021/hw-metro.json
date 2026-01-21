@@ -2,12 +2,23 @@
     "series_id": "hw-metro",
     "year": 2021,
     "name": "HW Metro",
-    "total_releases": 4,
+    "total_releases": 15,
     "max_index": 7,
     "releases": [
         "data/releases/2021/grx49-raijin-express.json",
         "data/releases/2021/grx52-ain-t-fare.json",
+        "data/releases/2021/grx79-hot-wheels-ford-transit-connect.json",
+        "data/releases/2021/grx80-heavy-hitcher.json",
+        "data/releases/2021/grx81-speed-dozer.json",
+        "data/releases/2021/grx82-surfin-school-bus.json",
+        "data/releases/2021/grx83-fast-bed-hauler.json",
+        "data/releases/2021/grx84-mad-propz.json",
+        "data/releases/2021/grx85-total-disposal.json",
         "data/releases/2021/gtb63-raijin-express.json",
-        "data/releases/2021/gtb64-ain-t-fare.json"
+        "data/releases/2021/gtb64-ain-t-fare.json",
+        "data/releases/2021/gtc19-hot-wheels-ford-transit-connect.json",
+        "data/releases/2021/gtc28-heavy-hitcher.json",
+        "data/releases/2021/gtc61-surfin-school-bus.json",
+        "data/releases/2021/gtc89-chrysler-pacifica.json"
     ]
 }

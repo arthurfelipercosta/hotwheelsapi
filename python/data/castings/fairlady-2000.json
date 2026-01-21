@@ -1,0 +1,27 @@
+{
+    "casting_id": "fairlady-2000",
+    "name": "Fairlady 2000",
+    "description": {
+        "en-us": "Fairlady 2000 Debut series Legends of Speed Produced 2017 - Present Designer Jun Imai Number DTW94",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtw94-fairlady-2000.json",
+        "data/releases/2017/dvb14-fairlady-2000.json",
+        "data/releases/2018/fjw43-fairlady-2000.json",
+        "data/releases/2018/fkc22-fairlady-2000.json",
+        "data/releases/2018/fjy34-fairlady-2000.json",
+        "data/releases/2018/gfb78-fairlady-2000.json",
+        "data/releases/2019/fyd16-fairlady-2000.json",
+        "data/releases/2019/fyf85-fairlady-2000.json",
+        "data/releases/2020/x6999-fairlady-2000.json",
+        "data/releases/2022/hdh61-fairlady-2000.json",
+        "data/releases/2023/hlk14-fairlady-2000.json",
+        "data/releases/2024/hwf33-fairlady-2000.json",
+        "data/releases/2025/jcb04-fairlady-2000.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

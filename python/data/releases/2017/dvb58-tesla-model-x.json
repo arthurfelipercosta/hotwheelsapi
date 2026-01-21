@@ -1,0 +1,24 @@
+{
+    "release_id": "dvb58-tesla-model-x-2017",
+    "toy_number": "DVB58",
+    "casting_id": "tesla-model-x",
+    "year": 2017,
+    "series_id": "factory-fresh",
+    "series_index": 9,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "Detailed head- & taillights, Tesla logo on front & trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark Gray",
+        "wheel_type": {
+            "0": "RA6"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New Model Base code(s): K06, K09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/Tesla_Model_X_DVB58.png/revision/latest/scale-to-width-down/75?cb=20170420204058"
+    }
+}

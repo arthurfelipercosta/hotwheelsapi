@@ -2,10 +2,15 @@
     "series_id": "color-shifters",
     "year": 2010,
     "name": "Color Shifters",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 0,
     "releases": [
         "data/releases/2010/r0214-rd-06.json",
-        "data/releases/2010/r0215-corvette-stingray.json"
+        "data/releases/2010/r0215-corvette-stingray.json",
+        "data/releases/2010/r1128-battle-spec.json",
+        "data/releases/2010/r1130-2006-dodge-viper-coupe.json",
+        "data/releases/2010/r1132-phastasm.json",
+        "data/releases/2010/r1136-67-camaro.json",
+        "data/releases/2010/r1142-rogue-hog.json"
     ]
 }

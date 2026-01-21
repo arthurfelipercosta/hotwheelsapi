@@ -1,0 +1,42 @@
+{
+    "release_id": "htc76-hw-4-trac-2024",
+    "toy_number": "HTC76",
+    "casting_id": "hw-4-trac",
+    "year": 2024,
+    "series_id": "hw-race-day",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "White and Black stripes, \"Tiangco\", \"EMER\", \"M+M\", \"HW GRFX\", \"A SETO\", \"Eng\", 4 on top; 4, \"Clone\", \"A SETO\" on sides; Black & White Hot Wheels logo on rear wing",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Gray AeroDisc",
+            "1": "Dark Olive",
+            "2": "Beige",
+            "3": "Black stripes",
+            "4": "\"Tiangco\"",
+            "5": "\"EMER\"",
+            "6": "\"M+M\"",
+            "7": "\"HW GRFX\"",
+            "8": "\"A SETO\"",
+            "9": "\"Eng\"",
+            "10": "4 on top; 4",
+            "11": "\"Clone\"",
+            "12": "\"A SETO\" on sides; Black & Beige Hot Wheels logo on rear wing",
+            "13": "Metallic Gray",
+            "14": "Metal",
+            "15": "Mustard",
+            "16": "HTD81",
+            "17": "Hot Wheels Let's Race Base code(s): T26",
+            "18": "T27"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Hot Wheels Let's Race Base code(s): S49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/4Trac2024Red.jpg/revision/latest/scale-to-width-down/75?cb=20240901013429"
+    }
+}

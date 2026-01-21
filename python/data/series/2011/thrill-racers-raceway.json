@@ -2,10 +2,14 @@
     "series_id": "thrill-racers-raceway",
     "year": 2011,
     "name": "Thrill Racers: Raceway",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 3,
     "releases": [
+        "data/releases/2011/t9924-prototype-h-24.json",
+        "data/releases/2011/t9925-f-racer.json",
         "data/releases/2011/t9926-ford-gt.json",
+        "data/releases/2011/t9928-mitsubishi-eclipse-concept-car.json",
+        "data/releases/2011/t9929-fire-eater.json",
         "data/releases/2011/v0033-ford-gt.json"
     ]
 }

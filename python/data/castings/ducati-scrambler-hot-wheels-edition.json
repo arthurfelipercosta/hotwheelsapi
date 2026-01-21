@@ -1,0 +1,18 @@
+{
+    "casting_id": "ducati-scrambler-hot-wheels-edition",
+    "name": "Ducati Scrambler Hot Wheels Edition",
+    "description": {
+        "en-us": "Ducati Scrambler Hot Wheels Edition Debut series Baja Blazers Produced 2021 – Present Designer Dmitriy Shakhmatov Number GRX24",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grx24-ducati-scrambler-hot-wheels-edition.json",
+        "data/releases/2021/gtb60-ducati-scrambler-hot-wheels-edition.json",
+        "data/releases/2022/hct66-ducati-scrambler-hot-wheels-edition.json",
+        "data/releases/2024/hrr93-ducati-scrambler-hot-wheels-edition.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Ducati"
+}

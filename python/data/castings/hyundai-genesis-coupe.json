@@ -1,0 +1,19 @@
+{
+    "casting_id": "hyundai-genesis-coupe",
+    "name": "Hyundai Genesis Coupe",
+    "description": {
+        "en-us": "Hyundai Genesis Coupe Debut series 2011 New Models Produced 2011 - 2016 Designer Kevin Cao Number T9720",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9720-hyundai-genesis-coupe.json",
+        "data/releases/2012/x0133-hyundai-genesis-coupe.json",
+        "data/releases/2013/x6999-hyundai-genesis-coupe.json",
+        "data/releases/2014/bfc35-hyundai-genesis-coupe.json",
+        "data/releases/2016/x6999-hyundai-genesis-coupe.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

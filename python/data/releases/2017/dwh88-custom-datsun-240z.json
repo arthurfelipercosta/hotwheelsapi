@@ -1,0 +1,24 @@
+{
+    "release_id": "dwh88-custom-datsun-240z-2017",
+    "toy_number": "DWH88",
+    "casting_id": "custom-datsun-240z",
+    "year": 2017,
+    "series_id": "car-culture-cars-donuts",
+    "series_index": 2,
+    "specs": {
+        "color": "White",
+        "tampo": "Detailed taillights, 'FuguZ' & 'GReddy' on back",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim C4SPRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): K39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Custom_Datsun_240Z-HW_2017_Car_Culture_%28Cars_%26_Donuts%29--2.jpg/revision/latest/scale-to-width-down/75?cb=20171228175917"
+    }
+}

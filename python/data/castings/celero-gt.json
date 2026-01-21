@@ -1,0 +1,18 @@
+{
+    "casting_id": "celero-gt",
+    "name": "Celero GT",
+    "description": {
+        "en-us": "Celero GT Debut series HW Exotics Produced 2023 – Present Designer Sonny Fisher Number HKG54\\n\\nCelero GT is a modern 2020s-style hypercar.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg54-celero-gt.json",
+        "data/releases/2023/hkk55-celero-gt.json",
+        "data/releases/2024/htb87-celero-gt.json",
+        "data/releases/2024/htf42-celero-gt.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

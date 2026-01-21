@@ -1,0 +1,25 @@
+{
+    "release_id": "hcv61-fast-fish-2022",
+    "toy_number": "HCV61",
+    "casting_id": "fast-fish",
+    "year": 2022,
+    "series_id": "hw-speed-team",
+    "series_index": 2,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black, White, & Orange stripes, HW Logo on side, \"FAST FISH\" on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Orange Tire",
+            "1": "Black AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P30, P38, P47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/2022_Fast_Fish_Yellow_loose.JPG/revision/latest/scale-to-width-down/75?cb=20220903174453"
+    }
+}

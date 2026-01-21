@@ -1,0 +1,10 @@
+{
+    "series_id": "street-art",
+    "year": 1999,
+    "name": "Street Art",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": [
+        "data/releases/1999/21109-propper-chopper.json"
+    ]
+}

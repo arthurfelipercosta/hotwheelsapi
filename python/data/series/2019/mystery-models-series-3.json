@@ -2,10 +2,18 @@
     "series_id": "mystery-models-series-3",
     "year": 2019,
     "name": "Mystery Models (Series 3)",
-    "total_releases": 2,
-    "max_index": 10,
+    "total_releases": 10,
+    "max_index": 11,
     "releases": [
         "data/releases/2019/gbd63-cruise-bruiser.json",
-        "data/releases/2019/gbd71-formula-flashback.json"
+        "data/releases/2019/gbd64-71-datsun-bluebird-510-wagon.json",
+        "data/releases/2019/gbd65-volkswagen-caddy.json",
+        "data/releases/2019/gbd67-twinduction.json",
+        "data/releases/2019/gbd68-loop-coupe.json",
+        "data/releases/2019/gbd69-69-ford-mustang-boss-302.json",
+        "data/releases/2019/gbd71-formula-flashback.json",
+        "data/releases/2019/gbd72-la-fasta.json",
+        "data/releases/2019/gbd73-torque-twister.json",
+        "data/releases/2019/gbd74-sky-dome.json"
     ]
 }

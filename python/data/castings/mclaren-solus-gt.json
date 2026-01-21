@@ -1,0 +1,17 @@
+{
+    "casting_id": "mclaren-solus-gt",
+    "name": "McLaren Solus GT",
+    "description": {
+        "en-us": "McLaren Solus GT Debut series HW Exotics Produced 2023 – Present Designer Manson Cheung Number HKG70",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg70-mclaren-solus-gt.json",
+        "data/releases/2024/htb68-mclaren-solus-gt.json",
+        "data/releases/2025/jbk78-mclaren-solus-gt.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "McLaren"
+}

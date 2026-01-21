@@ -1,0 +1,26 @@
+{
+    "release_id": "hly63-aston-martin-one-77-2023",
+    "toy_number": "HLY63",
+    "casting_id": "aston-martin-one-77",
+    "year": 2023,
+    "series_id": "motor-show-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Red with orange metalflake",
+        "tampo": "Detailed headlights, Aston Martin badge on hood, black angular stripes on hood and roof, black HW logo on roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "10SP",
+            "1": "Themed 2-Packs",
+            "2": "HMC65"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): R29, R45, U32I",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/MSOne-77.jpg/revision/latest/scale-to-width-down/75?cb=20230514131700"
+    }
+}

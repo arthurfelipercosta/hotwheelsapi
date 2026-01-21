@@ -1,0 +1,24 @@
+{
+    "release_id": "bdr26-chevy-camaro-concept-2014",
+    "toy_number": "BDR26",
+    "casting_id": "chevy-camaro-concept",
+    "year": 2014,
+    "series_id": "cool-classics",
+    "series_index": 5,
+    "specs": {
+        "color": "Spectrafrost Gold",
+        "tampo": "Black on Gold stripes on sides, trunk, roof & hood.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Gold tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold RSW"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): F49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/Cool_Classics--05-Chevy_Camaro_Concept.jpg/revision/latest/scale-to-width-down/75?cb=20140711013533"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "thrill-racers-jungle",
+    "year": 2011,
+    "name": "Thrill Racers - Jungle",
+    "total_releases": 5,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2011/t9918-hw450f.json",
+        "data/releases/2011/t9919-da-kar.json",
+        "data/releases/2011/t9920-croc-rod.json",
+        "data/releases/2011/t9922-roll-cage.json",
+        "data/releases/2011/t9923-rd-05.json"
+    ]
+}

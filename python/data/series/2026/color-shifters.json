@@ -2,9 +2,10 @@
     "series_id": "color-shifters",
     "year": 2026,
     "name": "Color Shifters",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2026/jkp17-baja-truck.json",
         "data/releases/2026/jkp19-donut-drifter.json"
     ]
 }

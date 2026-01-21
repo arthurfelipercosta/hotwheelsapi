@@ -6,18 +6,18 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2018/fjv57-16-cadillac-ats-v-r.json",
-        "data/releases/2018/fjy11-16-cadillac-ats-v-r.json",
-        "data/releases/2019/fyd20-16-cadillac-ats-v-r.json",
-        "data/releases/2019/fyg59-16-cadillac-ats-v-r.json",
-        "data/releases/2022/hcw49-16-cadillac-ats-v-r.json",
-        "data/releases/2022/hnv32-16-cadillac-ats-v-r.json",
-        "data/releases/2024/hrw82-16-cadillac-ats-v-r.json",
-        "data/releases/2024/hry18-16-cadillac-ats-v-r.json",
-        "data/releases/2026/jjj53-16-cadillac-ats-v-r.json"
+        "data/releases/2018/fjv57-16-cadillac-ats-v-r-v2.json",
+        "data/releases/2018/fjy11-16-cadillac-ats-v-r-v2.json",
+        "data/releases/2019/fyd20-16-cadillac-ats-v-r-v2.json",
+        "data/releases/2019/fyg59-16-cadillac-ats-v-r-v2.json",
+        "data/releases/2022/hcw49-16-cadillac-ats-v-r-v2.json",
+        "data/releases/2022/hnv32-16-cadillac-ats-v-r-v2.json",
+        "data/releases/2024/hrw82-16-cadillac-ats-v-r-v2.json",
+        "data/releases/2024/hry18-16-cadillac-ats-v-r-v2.json",
+        "data/releases/2026/jjj53-16-cadillac-ats-v-r-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",
     "debut_year": 2018,
-    "manufacturer": "Mattel"
+    "manufacturer": "Cadillac"
 }

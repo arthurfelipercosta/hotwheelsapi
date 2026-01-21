@@ -1,0 +1,24 @@
+{
+    "casting_id": "diesel-duty",
+    "name": "Diesel Duty",
+    "description": {
+        "en-us": "Diesel Duty Debut series 2011 New Models Produced 2011 - Present Designer Fraser Campbell Number T9705",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9705-diesel-duty.json",
+        "data/releases/2012/v5436-diesel-duty.json",
+        "data/releases/2012/v5436-diesel-duty-v2.json",
+        "data/releases/2012/v5720-diesel-duty.json",
+        "data/releases/2015/cfk64-diesel-duty.json",
+        "data/releases/2016/djd24-diesel-duty.json",
+        "data/releases/2017/dwc09-diesel-duty.json",
+        "data/releases/2019/fyl15-diesel-duty.json",
+        "data/releases/2024/hvx19-diesel-duty.json",
+        "data/releases/2025/jcg90-diesel-duty.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Mattel"
+}

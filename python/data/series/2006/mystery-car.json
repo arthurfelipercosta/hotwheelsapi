@@ -1,0 +1,10 @@
+{
+    "series_id": "mystery-car",
+    "year": 2006,
+    "name": "Mystery Car",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2006/k4689-70-chevelle-ss.json"
+    ]
+}

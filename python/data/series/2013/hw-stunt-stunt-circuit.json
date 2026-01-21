@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-stunt-stunt-circuit",
+    "year": 2013,
+    "name": "HW Stunt: Stunt Circuit",
+    "total_releases": 8,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1647-cloud-cutter.json",
+        "data/releases/2013/x1654-fig-rig.json",
+        "data/releases/2013/x1720-sky-knife.json",
+        "data/releases/2013/x1721-cool-one.json",
+        "data/releases/2013/x1722-jeep-scrambler.json",
+        "data/releases/2013/x1905-jeep-scrambler.json",
+        "data/releases/2013/x1906-cloud-cutter.json",
+        "data/releases/2013/x1907-fig-rig.json"
+    ]
+}

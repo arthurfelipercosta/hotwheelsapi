@@ -1,0 +1,24 @@
+{
+    "release_id": "bfb29-69-ford-mustang-2014",
+    "toy_number": "BFB29",
+    "casting_id": "69-ford-mustang",
+    "year": 2014,
+    "series_id": "mustang-50th-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black, yellow stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): G06, G28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/Hot_wheels_69_mustang_50th_5.jpg/revision/latest/scale-to-width-down/75?cb=20160518093301"
+    }
+}

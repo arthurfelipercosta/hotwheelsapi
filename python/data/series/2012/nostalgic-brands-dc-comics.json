@@ -2,9 +2,10 @@
     "series_id": "nostalgic-brands-dc-comics",
     "year": 2012,
     "name": "Nostalgic Brands: DC Comics",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2012/w6664-65-ford-ranchero.json",
         "data/releases/2012/w6668-8-crate.json"
     ]
 }

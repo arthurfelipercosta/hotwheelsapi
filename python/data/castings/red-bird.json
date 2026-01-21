@@ -1,0 +1,16 @@
+{
+    "casting_id": "red-bird",
+    "name": "Red Bird",
+    "description": {
+        "en-us": "Red Bird Debut series 2012 New Models Produced 2012 - 2014 Designer Fraser Campbell Number V5335",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5335-red-bird.json",
+        "data/releases/2014/bfc91-red-bird.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

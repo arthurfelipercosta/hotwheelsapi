@@ -2,10 +2,11 @@
     "series_id": "pop-culture-vintage-oil",
     "year": 2020,
     "name": "Pop Culture: Vintage Oil",
-    "total_releases": 2,
+    "total_releases": 3,
     "max_index": 2,
     "releases": [
         "data/releases/2020/grl35-1978-dodge-li-l-red-express-truck.json",
-        "data/releases/2020/grl36-83-chevy-silverado.json"
+        "data/releases/2020/grl36-83-chevy-silverado.json",
+        "data/releases/2020/grl38-63-studebaker-champ.json"
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "release_id": "v5423-73-ford-falcon-xb-2012",
+    "toy_number": "V5423",
+    "casting_id": "73-ford-falcon-xb",
+    "year": 2012,
+    "series_id": "muscle-mania-ford",
+    "series_index": 10,
+    "specs": {
+        "color": "Metallic Purple",
+        "tampo": "Light Purple, Black & White scallops, \"GT351\", Black bottom stripe",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D46, D48, D49, D50, D51, E01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/2012-73FordFalconXB-Purple.jpg/revision/latest/scale-to-width-down/75?cb=20120204220611"
+    }
+}

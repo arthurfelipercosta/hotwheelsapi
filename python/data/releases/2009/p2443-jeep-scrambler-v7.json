@@ -1,0 +1,24 @@
+{
+    "release_id": "p2443-jeep-scrambler-2009",
+    "toy_number": "P2443",
+    "casting_id": "jeep-scrambler",
+    "year": 2009,
+    "series_id": "heat-fleet",
+    "series_index": 7,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Yellow to Orange Gradient Graphics. \"Jeep\", \"SCRAMBLER\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Pink)",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "OR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+    }
+}

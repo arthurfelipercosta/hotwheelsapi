@@ -1,0 +1,16 @@
+{
+    "series_id": "all-stars",
+    "year": 2010,
+    "name": "All Stars",
+    "total_releases": 7,
+    "max_index": 7,
+    "releases": [
+        "data/releases/2010/r7545-scirocco-gt-24.json",
+        "data/releases/2010/r7545-scirocco-gt-24.json",
+        "data/releases/2010/r7547-citro-n-c4-rally.json",
+        "data/releases/2010/r7549-aston-martin-dbs.json",
+        "data/releases/2010/r7550-73-ford-falcon-xb.json",
+        "data/releases/2010/r7550-73-ford-falcon-xb.json",
+        "data/releases/2010/r7551-volkswagen-sp2.json"
+    ]
+}

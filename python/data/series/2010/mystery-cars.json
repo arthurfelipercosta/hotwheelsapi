@@ -1,0 +1,10 @@
+{
+    "series_id": "mystery-cars",
+    "year": 2010,
+    "name": "Mystery Cars",
+    "total_releases": 1,
+    "max_index": 6,
+    "releases": [
+        "data/releases/2010/r7475-09-corvette-zr1.json"
+    ]
+}

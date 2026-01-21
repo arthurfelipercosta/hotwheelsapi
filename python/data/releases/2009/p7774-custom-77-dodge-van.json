@@ -1,0 +1,25 @@
+{
+    "release_id": "p7774-custom-77-dodge-van-2009",
+    "toy_number": "P7774",
+    "casting_id": "custom-77-dodge-van",
+    "year": 2009,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "Cold: Dark Green Warm: Orange",
+        "tampo": "Flames outlined in Red & Yellow",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): B22, B25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/77_Dodge_Van_-_09_Color_Shifter_3_-_Warm.JPG/revision/latest/scale-to-width-down/75?cb=20090719235219"
+    }
+}

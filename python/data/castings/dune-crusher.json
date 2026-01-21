@@ -1,0 +1,31 @@
+{
+    "casting_id": "dune-crusher",
+    "name": "Dune Crusher",
+    "description": {
+        "en-us": "Dune Crusher Debut series HW Off-Road: Off Track Produced 2014 - Present Designer Leeway Chang Number BDC98",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc98-dune-crusher-v3.json",
+        "data/releases/2014/bfg32-dune-crusher-v3.json",
+        "data/releases/2015/cfl90-dune-crusher-v3.json",
+        "data/releases/2015/cfk54-dune-crusher-v3.json",
+        "data/releases/2016/djd21-dune-crusher-v3.json",
+        "data/releases/2016/dhr54-dune-crusher-v3.json",
+        "data/releases/2019/fyl11-dune-crusher-v3.json",
+        "data/releases/2019/fyy68-dune-crusher-v3.json",
+        "data/releases/2020/x6999-dune-crusher-v3.json",
+        "data/releases/2020/gjm60-dune-crusher-v3.json",
+        "data/releases/2021/gtn45-dune-crusher-v3.json",
+        "data/releases/2023/hkg74-dune-crusher-v3.json",
+        "data/releases/2023/hkj58-dune-crusher-v3.json",
+        "data/releases/2024/hvd94-dune-crusher-v3.json",
+        "data/releases/2024/hvd98-dune-crusher-v3.json",
+        "data/releases/2024/hwv86-dune-crusher-v3.json",
+        "data/releases/2025/x6999-dune-crusher-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

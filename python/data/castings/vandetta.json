@@ -1,0 +1,33 @@
+{
+    "casting_id": "vandetta",
+    "name": "Vandetta",
+    "description": {
+        "en-us": "Vandetta Debut series 2005 First Editions: X‑Raycers Produced 2005 - Present Designer Greg Padginton Number G6724",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g6724-vandetta.json",
+        "data/releases/2006/j3304-vandetta.json",
+        "data/releases/2007/k7654-vandetta.json",
+        "data/releases/2008/n1992-vandetta.json",
+        "data/releases/2009/n4736-vandetta.json",
+        "data/releases/2013/x1761-vandetta.json",
+        "data/releases/2013/x1943-vandetta.json",
+        "data/releases/2014/bfd43-vandetta.json",
+        "data/releases/2014/bfg69-vandetta.json",
+        "data/releases/2014/blk89-vandetta.json",
+        "data/releases/2015/cfk88-vandetta.json",
+        "data/releases/2015/cfj60-vandetta.json",
+        "data/releases/2016/dhp48-vandetta.json",
+        "data/releases/2016/djk68-vandetta.json",
+        "data/releases/2016/dwy57-vandetta.json",
+        "data/releases/2016/drb32-vandetta.json",
+        "data/releases/2017/dty20-vandetta.json",
+        "data/releases/2019/gbb42-vandetta.json",
+        "data/releases/2022/hfd05-vandetta.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,32 @@
+{
+    "casting_id": "lotus-esprit-s1",
+    "name": "Lotus Esprit S1",
+    "description": {
+        "en-us": "Lotus Esprit S1 Debut series HW Workshop: HW Garage Produced 2015 - Present Designer Ryu Asada Number CFG74",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfg74-lotus-esprit-s1.json",
+        "data/releases/2015/cfj74-lotus-esprit-s1.json",
+        "data/releases/2015/cgb74-lotus-esprit-s1.json",
+        "data/releases/2015/cfr26-lotus-esprit-s1.json",
+        "data/releases/2016/dhp96-lotus-esprit-s1.json",
+        "data/releases/2018/fjv90-lotus-esprit-s1.json",
+        "data/releases/2018/fjy03-lotus-esprit-s1.json",
+        "data/releases/2018/fjy22-lotus-esprit-s1.json",
+        "data/releases/2019/fyl17-lotus-esprit-s1.json",
+        "data/releases/2020/x6999-lotus-esprit-s1.json",
+        "data/releases/2020/gjr41-lotus-esprit-s1.json",
+        "data/releases/2021/grj61-lotus-esprit-s1.json",
+        "data/releases/2021/x6999-lotus-esprit-s1.json",
+        "data/releases/2021/x6999-lotus-esprit-s1-v2.json",
+        "data/releases/2021/x6999-lotus-esprit-s1-v3.json",
+        "data/releases/2023/x6999-lotus-esprit-s1.json",
+        "data/releases/2024/x6999-lotus-esprit-s1.json",
+        "data/releases/2024/hxd98-lotus-esprit-s1.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Lotus"
+}

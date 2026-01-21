@@ -1,0 +1,19 @@
+{
+    "series_id": "mystery-models-series-1",
+    "year": 2022,
+    "name": "Mystery Models (Series 1)",
+    "total_releases": 10,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2022/hfk78-datsun-bluebird-510.json",
+        "data/releases/2022/hfk79-92-bmw-m3.json",
+        "data/releases/2022/hfk80-circle-trucker.json",
+        "data/releases/2022/hfk81-f1-racer.json",
+        "data/releases/2022/hfk83-rivited.json",
+        "data/releases/2022/hfk84-mach-speeder.json",
+        "data/releases/2022/hfk85-formul8r.json",
+        "data/releases/2022/hfk86-porsche-993-gt2.json",
+        "data/releases/2022/hfk87-prototype-h-24.json",
+        "data/releases/2022/hfk88-rising-heat.json"
+    ]
+}

@@ -2,12 +2,18 @@
     "series_id": "mystery-models-series-2",
     "year": 2020,
     "name": "Mystery Models (Series 2)",
-    "total_releases": 4,
-    "max_index": 10,
+    "total_releases": 10,
+    "max_index": 6,
     "releases": [
         "data/releases/2020/gjl92-bone-shaker.json",
+        "data/releases/2020/gjl95-dieselboy.json",
+        "data/releases/2020/gjm00-14-corvette-stingray-convertible.json",
         "data/releases/2020/gjm01-2013-srt-viper.json",
         "data/releases/2020/gjm02-55-chevy.json",
+        "data/releases/2020/gjm49-pharodox.json",
+        "data/releases/2020/gjm51-twin-mill.json",
+        "data/releases/2020/gjm53-zotic.json",
+        "data/releases/2020/gjm58-rivited.json",
         "data/releases/2020/x6999-carbonic.json"
     ]
 }

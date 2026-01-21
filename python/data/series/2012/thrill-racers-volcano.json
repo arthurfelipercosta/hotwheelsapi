@@ -1,0 +1,13 @@
+{
+    "series_id": "thrill-racers-volcano",
+    "year": 2012,
+    "name": "Thrill Racers - Volcano",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2012/v5506-sling-shot.json",
+        "data/releases/2012/v5507-blast-lane.json",
+        "data/releases/2012/v5508-fast-felion.json",
+        "data/releases/2012/v5509-skull-crusher.json"
+    ]
+}

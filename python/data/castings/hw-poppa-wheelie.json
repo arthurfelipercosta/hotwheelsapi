@@ -1,0 +1,28 @@
+{
+    "casting_id": "hw-poppa-wheelie",
+    "name": "HW Poppa Wheelie",
+    "description": {
+        "en-us": "HW Poppa Wheelie Debut series HW Off-Road: HW Daredevils Produced 2014 - Present Designer Abe Lugo Number BDC90",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc90-hw-poppa-wheelie-v3.json",
+        "data/releases/2014/bdc90-hw-poppa-wheelie-v4.json",
+        "data/releases/2014/bff74-hw-poppa-wheelie-v2.json",
+        "data/releases/2015/cfk62-hw-poppa-wheelie-v2.json",
+        "data/releases/2015/cfj53-hw-poppa-wheelie-v2.json",
+        "data/releases/2016/dhp71-hw-poppa-wheelie-v2.json",
+        "data/releases/2016/dhw61-hw-poppa-wheelie-v2.json",
+        "data/releases/2017/dtx42-hw-poppa-wheelie-v2.json",
+        "data/releases/2018/fkc73-hw-poppa-wheelie-v2.json",
+        "data/releases/2018/fjw75-hw-poppa-wheelie-v2.json",
+        "data/releases/2020/gjv98-hw-poppa-wheelie-v2.json",
+        "data/releases/2023/hkh34-hw-poppa-wheelie-v2.json",
+        "data/releases/2023/hkk06-hw-poppa-wheelie-v2.json",
+        "data/releases/2025/jbj85-hw-poppa-wheelie-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

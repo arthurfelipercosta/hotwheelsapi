@@ -1,0 +1,24 @@
+{
+    "release_id": "cfl12-pharodox-2015",
+    "toy_number": "CFL12",
+    "casting_id": "pharodox",
+    "year": 2015,
+    "series_id": "hw-race-night-storm",
+    "series_index": null,
+    "specs": {
+        "color": "Translucent Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Light Blue)",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Blue Chrome OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G34",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/Pharodoxblue.jpg/revision/latest/scale-to-width-down/75?cb=20190101050000"
+    }
+}

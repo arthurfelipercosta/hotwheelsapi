@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-stunt-hw-drift-race",
+    "year": 2013,
+    "name": "HW Stunt: HW Drift Race",
+    "total_releases": 9,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1644-drift-rod.json",
+        "data/releases/2013/x1644-drift-rod.json",
+        "data/releases/2013/x1723-ferrari-458-italia.json",
+        "data/releases/2013/x1724-scoopa-di-fuego.json",
+        "data/releases/2013/x1725-twinduction.json",
+        "data/releases/2013/x1726-08-ford-focus.json",
+        "data/releases/2013/x1909-08-ford-focus.json",
+        "data/releases/2013/x1910-drift-rod.json",
+        "data/releases/2013/x1911-twinduction.json"
+    ]
+}

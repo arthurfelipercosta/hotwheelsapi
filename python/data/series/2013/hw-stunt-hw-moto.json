@@ -1,0 +1,17 @@
+{
+    "series_id": "hw-stunt-hw-moto",
+    "year": 2013,
+    "name": "HW Stunt: HW Moto",
+    "total_releases": 8,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2013/x1734-snow-ride.json",
+        "data/releases/2013/x1735-hw450f.json",
+        "data/releases/2013/x1736-sand-stinger.json",
+        "data/releases/2013/x1737-canyon-carver.json",
+        "data/releases/2013/x1738-street-noz.json",
+        "data/releases/2013/x1924-snow-ride.json",
+        "data/releases/2013/x1925-hw450f.json",
+        "data/releases/2013/x1927-canyon-carver.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "v5654-custom-69-chevy-2012",
+    "toy_number": "V5654",
+    "casting_id": "custom-69-chevy",
+    "year": 2012,
+    "series_id": "hw-city-works",
+    "series_index": 10,
+    "specs": {
+        "color": "Satin Blue",
+        "tampo": "\"Hot Wheels Electric\", \"68\", Black & Yellow tampos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow Tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): E27",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Custom_%2769_Chevy-2012_140_Satin_Blue.jpg/revision/latest/scale-to-width-down/75?cb=20130209125229"
+    }
+}

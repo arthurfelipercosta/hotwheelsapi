@@ -1,0 +1,24 @@
+{
+    "release_id": "hkh70-64-chevy-nova-wagon-2023",
+    "toy_number": "HKH70",
+    "casting_id": "64-chevy-nova-wagon",
+    "year": 2023,
+    "series_id": "hw-wagons",
+    "series_index": 3,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black and White stripes on hood and sides, White roof",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RSW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): S19, S20, S21, S23, S24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/HKH70-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230902112255"
+    }
+}

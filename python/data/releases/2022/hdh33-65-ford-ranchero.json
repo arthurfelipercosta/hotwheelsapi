@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh33-65-ford-ranchero-2022",
+    "toy_number": "HDH33",
+    "casting_id": "65-ford-ranchero",
+    "year": 2022,
+    "series_id": "hw-stars-stripes",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue accents, red lightning bolts",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black w Chrome Rim DD8"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/65_Ford_Ranchero.jpg/revision/latest/scale-to-width-down/75?cb=20220225195931"
+    }
+}

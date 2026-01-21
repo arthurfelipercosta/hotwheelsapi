@@ -2,9 +2,10 @@
     "series_id": "group-b-collector-set",
     "year": 2023,
     "name": "Group B Collector Set",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
-        "data/releases/2023/hkc18-ford-rs200.json"
+        "data/releases/2023/hkc18-ford-rs200.json",
+        "data/releases/2023/hkc18-lancia-delta-integrale.json"
     ]
 }

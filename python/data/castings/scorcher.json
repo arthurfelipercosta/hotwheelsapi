@@ -1,0 +1,33 @@
+{
+    "casting_id": "scorcher",
+    "name": "Scorcher",
+    "description": {
+        "en-us": "Scorcher Debut series 2010 New Models Produced 2010 - Present Designer Dwayne Vance Number R0920",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0920-scorcher.json",
+        "data/releases/2010/r0920-scorcher-v2.json",
+        "data/releases/2010/r0920-scorcher-v3.json",
+        "data/releases/2011/t9783-scorcher.json",
+        "data/releases/2012/v5354-scorcher.json",
+        "data/releases/2012/x7060-scorcher.json",
+        "data/releases/2013/x7060-scorcher.json",
+        "data/releases/2013/x9853-scorcher.json",
+        "data/releases/2013/bgj66-scorcher.json",
+        "data/releases/2015/x6999-scorcher.json",
+        "data/releases/2015/ckj45-scorcher.json",
+        "data/releases/2016/drb89-scorcher.json",
+        "data/releases/2016/djj66-scorcher.json",
+        "data/releases/2017/dwc13-scorcher.json",
+        "data/releases/2017/dwd76-scorcher.json",
+        "data/releases/2018/fkc70-scorcher.json",
+        "data/releases/2018/fkt60-scorcher.json",
+        "data/releases/2019/gbc65-scorcher.json",
+        "data/releases/2022/hdh74-scorcher.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

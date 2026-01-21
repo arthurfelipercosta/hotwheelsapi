@@ -1,0 +1,32 @@
+{
+    "casting_id": "aston-martin-1963-db5",
+    "name": "Aston Martin 1963 DB5",
+    "description": {
+        "en-us": "Aston Martin 1963 DB5 Debut series HW Workshop: HW All Stars Produced 2014 - Present Designer Fraser Campbell Number BDD14",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdd14-aston-martin-1963-db5-v2.json",
+        "data/releases/2014/bff99-aston-martin-1963-db5-v2.json",
+        "data/releases/2014/blr48-aston-martin-1963-db5-v2.json",
+        "data/releases/2014/bdv04-aston-martin-1963-db5-v2.json",
+        "data/releases/2015/cfj22-aston-martin-1963-db5-v2.json",
+        "data/releases/2015/cfm03-aston-martin-1963-db5-v2.json",
+        "data/releases/2015/cgb79-aston-martin-1963-db5-v2.json",
+        "data/releases/2015/cfn80-aston-martin-1963-db5-v2.json",
+        "data/releases/2016/djf45-aston-martin-1963-db5-v2.json",
+        "data/releases/2016/dhr16-aston-martin-1963-db5-v2.json",
+        "data/releases/2016/dhx74-aston-martin-1963-db5-v2.json",
+        "data/releases/2018/fjw35-aston-martin-1963-db5-v2.json",
+        "data/releases/2019/gbb65-aston-martin-1963-db5-v2.json",
+        "data/releases/2021/gpk55-aston-martin-1963-db5-v2.json",
+        "data/releases/2021/grl64-aston-martin-1963-db5-v2.json",
+        "data/releases/2022/hnb86-aston-martin-1963-db5-v2.json",
+        "data/releases/2023/hly70-aston-martin-1963-db5-v2.json",
+        "data/releases/2024/htb36-aston-martin-1963-db5-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Aston Martin"
+}

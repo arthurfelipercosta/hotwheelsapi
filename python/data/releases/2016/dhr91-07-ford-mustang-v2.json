@@ -1,0 +1,24 @@
+{
+    "release_id": "dhr91-07-ford-mustang-2016",
+    "toy_number": "DHR91",
+    "casting_id": "07-ford-mustang",
+    "year": 2016,
+    "series_id": "hw-art-cars",
+    "series_index": 8,
+    "specs": {
+        "color": "Red",
+        "tampo": "Pixelated Green, Black, & Yellow stripes & '16' on sides & hood, Black roof w/ '16'",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow & Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):  J12, J13, J16, J18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/DSC_1605.jpg/revision/latest/scale-to-width-down/75?cb=20160509062824"
+    }
+}

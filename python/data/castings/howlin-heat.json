@@ -1,0 +1,35 @@
+{
+    "casting_id": "howlin-heat",
+    "name": "Howlin' Heat",
+    "description": {
+        "en-us": "Howlin' Heat Debut series 2010 New Models Produced 2010 – Present Designer Bryan Benedict Number R0949",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0949-howlin-heat.json",
+        "data/releases/2010/r0949-howlin-heat-v2.json",
+        "data/releases/2010/r0949-howlin-heat-v3.json",
+        "data/releases/2010/r0949-howlin-heat-v4.json",
+        "data/releases/2011/r0949-howlin-heat.json",
+        "data/releases/2012/w4248-howlin-heat.json",
+        "data/releases/2012/54886-howlin-heat.json",
+        "data/releases/2013/x6999-howlin-heat.json",
+        "data/releases/2013/x9855-howlin-heat.json",
+        "data/releases/2014/bfc79-howlin-heat.json",
+        "data/releases/2014/bfg11-howlin-heat.json",
+        "data/releases/2015/x6999-howlin-heat.json",
+        "data/releases/2016/x6999-howlin-heat.json",
+        "data/releases/2016/dhr96-howlin-heat.json",
+        "data/releases/2017/dty55-howlin-heat.json",
+        "data/releases/2017/dvc12-howlin-heat.json",
+        "data/releases/2017/fml03-howlin-heat.json",
+        "data/releases/2018/fkt51-howlin-heat.json",
+        "data/releases/2019/fxb08-howlin-heat.json",
+        "data/releases/2024/htv55-howlin-heat.json",
+        "data/releases/2024/hxc44-howlin-heat.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

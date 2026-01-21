@@ -1,0 +1,25 @@
+{
+    "release_id": "cfj58-hiway-hauler-2-2015",
+    "toy_number": "CFJ58",
+    "casting_id": "hiway-hauler-2",
+    "year": 2015,
+    "series_id": "hw-art-cars",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Yellow bubbles & small 'Hot Wheels' logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Chrome",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Blue Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/HH2_2015_2.jpg/revision/latest/scale-to-width-down/75?cb=20150405092237"
+    }
+}

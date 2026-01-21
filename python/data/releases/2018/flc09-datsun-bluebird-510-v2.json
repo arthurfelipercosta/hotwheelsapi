@@ -1,0 +1,24 @@
+{
+    "release_id": "flc09-datsun-bluebird-510-2018",
+    "toy_number": "FLC09",
+    "casting_id": "datsun-bluebird-510",
+    "year": 2018,
+    "series_id": "car-culture-japan-historics-2",
+    "series_index": 1,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Light grey stripes on sides, hood & roof with \"Datsun\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "C4SPRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): K44, K45, K46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/Darsun_Bluebird_510-HW_2018_Car_Culture_%28Japan_Historics_2%29--1.jpg/revision/latest/scale-to-width-down/75?cb=20180313021110"
+    }
+}

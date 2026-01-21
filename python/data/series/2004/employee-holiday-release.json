@@ -1,0 +1,10 @@
+{
+    "series_id": "employee-holiday-release",
+    "year": 2004,
+    "name": "Employee Holiday Release",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2004/h6498-49-merc.json"
+    ]
+}

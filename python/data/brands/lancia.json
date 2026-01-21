@@ -1,0 +1,14 @@
+{
+    "brand_id": "lancia",
+    "name": "Lancia",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "data/castings/lancia-delta-integrale.json",
+        "data/castings/lancia-stratos.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Lancia vehicles.",
+        "pt-br": "Fabricante de veículos Lancia."
+    }
+}

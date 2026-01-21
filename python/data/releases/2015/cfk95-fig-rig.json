@@ -1,0 +1,27 @@
+{
+    "release_id": "cfk95-fig-rig-2015",
+    "toy_number": "CFK95",
+    "casting_id": "fig-rig",
+    "year": 2015,
+    "series_id": "hw-race-world-race",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Pixelated Blue, White & Yellow & #9 tampos on top & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Green tint",
+        "interior_color": "Green",
+        "wheel_type": {
+            "0": "White rim",
+            "1": "Green OH5",
+            "2": "& White rim",
+            "3": "Red OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G38, G45",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/FigRig15.jpg/revision/latest/scale-to-width-down/75?cb=20141210232039"
+    }
+}

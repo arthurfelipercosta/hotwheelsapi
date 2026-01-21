@@ -1,0 +1,31 @@
+{
+    "casting_id": "sting-rod-ii",
+    "name": "Sting Rod II",
+    "description": {
+        "en-us": "Sting Rod II Debut series 2010 New Models Produced 2010 - Present Designer Jun Imai Number R0938",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0938-sting-rod-ii.json",
+        "data/releases/2010/r0938-sting-rod-ii-v2.json",
+        "data/releases/2010/r0938-sting-rod-ii-v3.json",
+        "data/releases/2011/t9769-sting-rod-ii.json",
+        "data/releases/2012/w4248-sting-rod-ii.json",
+        "data/releases/2013/x1702-sting-rod-ii.json",
+        "data/releases/2013/bcc56-sting-rod-ii.json",
+        "data/releases/2014/bfc69-sting-rod-ii.json",
+        "data/releases/2014/bfg06-sting-rod-ii.json",
+        "data/releases/2015/cfj30-sting-rod-ii.json",
+        "data/releases/2015/cfk41-sting-rod-ii.json",
+        "data/releases/2016/dht32-sting-rod-ii.json",
+        "data/releases/2016/dhx12-sting-rod-ii.json",
+        "data/releases/2018/fkb29-sting-rod-ii.json",
+        "data/releases/2018/fjx14-sting-rod-ii.json",
+        "data/releases/2021/gtn42-sting-rod-ii.json",
+        "data/releases/2021/hbg02-sting-rod-ii.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-city-tooned-i",
+    "year": 2014,
+    "name": "HW City: Tooned I",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2014/bfc90-minion-pig.json",
+        "data/releases/2014/bfc91-red-bird.json",
+        "data/releases/2014/bfc92-the-flintstones-flintmobile.json",
+        "data/releases/2014/bfc93-the-mystery-machine.json",
+        "data/releases/2014/bfc94-max-steel-motorcycle.json",
+        "data/releases/2014/bfg20-max-steel-motorcycle.json"
+    ]
+}

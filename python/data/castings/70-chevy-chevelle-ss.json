@@ -1,0 +1,31 @@
+{
+    "casting_id": "70-chevy-chevelle-ss",
+    "name": "'70 Chevy Chevelle SS",
+    "description": {
+        "en-us": "'70 Chevy Chevelle SS Debut series HW Showroom: HW Performance Produced 2013 - Present Designer Jun Imai Number X1623",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1623-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2013/x2027-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2013/x1974-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2014/bff19-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2014/bff39-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2014/bfg89-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2015/cfh39-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2015/x6999-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2015/cfj75-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2015/dhy04-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2016/djf95-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2017/dty81-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2017/dvc37-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2017/fdr66-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2019/fyl12-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2022/hcv24-70-chevy-chevelle-ss-v3.json",
+        "data/releases/2025/jby97-70-chevy-chevelle-ss-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Chevy"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "dtx67-rigor-motor-2017",
+    "toy_number": "DTX67",
+    "casting_id": "rigor-motor",
+    "year": 2017,
+    "series_id": "fright-cars",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Skull on top, HW logo & 'Rigor Motor' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black & Beige PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Casting refresh. Base code(s): J41, J42, J43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Rigor_Motor_2017.png/revision/latest/scale-to-width-down/75?cb=20170115102928"
+    }
+}

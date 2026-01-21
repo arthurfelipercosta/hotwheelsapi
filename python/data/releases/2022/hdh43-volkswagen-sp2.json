@@ -1,0 +1,24 @@
+{
+    "release_id": "hdh43-volkswagen-sp2-2022",
+    "toy_number": "HDH43",
+    "casting_id": "volkswagen-sp2",
+    "year": 2022,
+    "series_id": "volkswagen",
+    "series_index": 4,
+    "specs": {
+        "color": "Forest Green",
+        "tampo": "Detailed headlights, orange and black stripes on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Chrome LW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R09, R10, R11, R18, R24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Hot_Wheels_2022_Volkswagen_set_SP2_loose.jpg/revision/latest/scale-to-width-down/75?cb=20220801220450"
+    }
+}

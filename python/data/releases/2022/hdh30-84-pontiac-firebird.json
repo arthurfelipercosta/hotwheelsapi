@@ -1,0 +1,25 @@
+{
+    "release_id": "hdh30-84-pontiac-firebird-2022",
+    "toy_number": "HDH30",
+    "casting_id": "84-pontiac-firebird",
+    "year": 2022,
+    "series_id": "hw-stars-stripes",
+    "series_index": 5,
+    "specs": {
+        "color": "Black",
+        "tampo": "Stars, red, white and blue stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black",
+            "1": "White Rim MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P45, P47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/1984_Pontiac_Firebird.jpg/revision/latest/scale-to-width-down/75?cb=20220225181923"
+    }
+}

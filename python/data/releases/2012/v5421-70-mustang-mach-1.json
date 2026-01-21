@@ -1,0 +1,25 @@
+{
+    "release_id": "v5421-70-mustang-mach-1-2012",
+    "toy_number": "V5421",
+    "casting_id": "70-mustang-mach-1",
+    "year": 2012,
+    "series_id": "muscle-mania-ford",
+    "series_index": 8,
+    "specs": {
+        "color": "Red",
+        "tampo": "Orange & Yellow scallops, White stripe along side, Black bottom stripe",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): E16, E22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/70_ford_mustang_mach_1_2012_red.png/revision/latest/scale-to-width-down/75?cb=20120517024822"
+    }
+}

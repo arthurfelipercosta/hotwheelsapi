@@ -2,9 +2,12 @@
     "series_id": "hw-gassers-5-pack",
     "year": 2025,
     "name": "HW Gassers 5-Pack",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2025/jbj84-jcp90-65-mercury-comet-cyclone.json"
+        "data/releases/2025/jbj84-jcp90-55-chevy-bel-air-gasser.json",
+        "data/releases/2025/jbj84-jcp90-64-nova-wagon-gasser.json",
+        "data/releases/2025/jbj84-jcp90-65-mercury-comet-cyclone.json",
+        "data/releases/2025/jbj84-jcp90-fast-bed-hauler.json"
     ]
 }

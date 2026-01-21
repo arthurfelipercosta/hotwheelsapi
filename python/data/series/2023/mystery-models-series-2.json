@@ -2,11 +2,18 @@
     "series_id": "mystery-models-series-2",
     "year": 2023,
     "name": "Mystery Models (Series 2)",
-    "total_releases": 3,
-    "max_index": 9,
+    "total_releases": 10,
+    "max_index": 4,
     "releases": [
+        "data/releases/2023/hlr29-custom-69-chevy.json",
         "data/releases/2023/hlr30-bone-shaker.json",
+        "data/releases/2023/hlr31-custom-volkswagen-beetle.json",
+        "data/releases/2023/hlr34-la-fasta.json",
         "data/releases/2023/hlr35-1974-brazilian-dodge-charger.json",
-        "data/releases/2023/hlr36-rrroadster.json"
+        "data/releases/2023/hlr36-rrroadster.json",
+        "data/releases/2023/hlr37-speed-spider.json",
+        "data/releases/2023/hlr38-preying-menace.json",
+        "data/releases/2023/hlr62-fangster.json",
+        "data/releases/2023/hlr63-hw-pursuit.json"
     ]
 }

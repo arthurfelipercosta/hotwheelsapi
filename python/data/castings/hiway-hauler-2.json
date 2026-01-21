@@ -1,0 +1,29 @@
+{
+    "casting_id": "hiway-hauler-2",
+    "name": "Hiway Hauler 2",
+    "description": {
+        "en-us": "Hiway Hauler 2 Debut series 2012 New Models Produced 2012 - Present Designer Brendon Vetuskey Number V5333",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2012/v5333-hiway-hauler-2-v2.json",
+        "data/releases/2013/y2145-hiway-hauler-2-v2.json",
+        "data/releases/2014/bfc31-hiway-hauler-2-v2.json",
+        "data/releases/2014/bff42-hiway-hauler-2-v2.json",
+        "data/releases/2014/bdk90-hiway-hauler-2-v2.json",
+        "data/releases/2015/dfl41-hiway-hauler-2-v2.json",
+        "data/releases/2015/cfh50-hiway-hauler-2-v2.json",
+        "data/releases/2015/cfj58-hiway-hauler-2-v2.json",
+        "data/releases/2016/dlv25-hiway-hauler-2-v2.json",
+        "data/releases/2018/fkt56-hiway-hauler-2-v2.json",
+        "data/releases/2020/gjv19-hiway-hauler-2-v2.json",
+        "data/releases/2022/aa039-hiway-hauler-2-v2.json",
+        "data/releases/2022/hdg82-hiway-hauler-2-v2.json",
+        "data/releases/2023/hkh27-hiway-hauler-2-v2.json",
+        "data/releases/2023/hkk00-hiway-hauler-2-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2012,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "jcm38-nissan-skyline-gt-r-r32-2025",
+    "toy_number": "JCM38",
+    "casting_id": "nissan-skyline-gt-r-r32",
+    "year": 2025,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "Cold: Black Warm: Red",
+        "tampo": "\"Hot Wheels\", \"68\", HW graphic, & black accents on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold Chrome PR5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): U11A, U15A, U20A, U23A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Plumskyline.jpg/revision/latest/scale-to-width-down/75?cb=20250901004306"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "y2128-70-chevelle-ss-2013",
+    "toy_number": "Y2128",
+    "casting_id": "70-chevelle-ss",
+    "year": 2013,
+    "series_id": "fast-furious",
+    "series_index": 5,
+    "specs": {
+        "color": "Dark Gray",
+        "tampo": "Silver door handles. Detailed sidemarkers.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5",
+            "1": "Light Gray"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Hot_car.jpg/revision/latest/scale-to-width-down/75?cb=20130629181847"
+    }
+}

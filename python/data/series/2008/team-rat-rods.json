@@ -1,0 +1,12 @@
+{
+    "series_id": "team-rat-rods",
+    "year": 2008,
+    "name": "Team: Rat Rods",
+    "total_releases": 3,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2008/m6896-dieselboy.json",
+        "data/releases/2008/m6896-dieselboy.json",
+        "data/releases/2008/m6897-rat-ified.json"
+    ]
+}

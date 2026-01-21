@@ -1,0 +1,12 @@
+{
+    "series_id": "treasure-hunts",
+    "year": 1996,
+    "name": "Treasure Hunts",
+    "total_releases": 3,
+    "max_index": 7,
+    "releases": [
+        "data/releases/1996/15079-dodge-viper-rt-10.json",
+        "data/releases/1996/15079-dodge-viper-rt-10.json",
+        "data/releases/1996/15080-57-chevy.json"
+    ]
+}

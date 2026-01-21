@@ -1,0 +1,24 @@
+{
+    "release_id": "cfj16-toyota-ae-86-corolla-2015",
+    "toy_number": "CFJ16",
+    "casting_id": "toyota-ae-86-corolla",
+    "year": 2015,
+    "series_id": "hw-workshop-hw-drift-race",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Black & Gold stripes, Yellow & Black '323', White 'GReddy' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome & Black MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G42, G44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/Toyota_Corolla_AE-86_%28CFJ16%29_01.JPG/revision/latest/scale-to-width-down/75?cb=20171012012320"
+    }
+}

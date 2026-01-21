@@ -2,9 +2,13 @@
     "series_id": "shelby-5-pack",
     "year": 2012,
     "name": "Shelby 5-Pack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2012/w4254-67-shelby-gt500.json"
+        "data/releases/2012/w4254-10-ford-shelby-gt500.json",
+        "data/releases/2012/w4254-67-shelby-gt500.json",
+        "data/releases/2012/w4254-69-shelby-gt500.json",
+        "data/releases/2012/w4254-classic-cobra.json",
+        "data/releases/2012/w4254-shelby-cobra-daytona-coupe.json"
     ]
 }

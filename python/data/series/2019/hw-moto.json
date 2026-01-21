@@ -1,0 +1,18 @@
+{
+    "series_id": "hw-moto",
+    "year": 2019,
+    "name": "HW Moto",
+    "total_releases": 9,
+    "max_index": 5,
+    "releases": [
+        "data/releases/2019/fyb60-moto-wing.json",
+        "data/releases/2019/fyc68-ducati-1199-panigale.json",
+        "data/releases/2019/fyc69-blastous-moto.json",
+        "data/releases/2019/fyc70-tred-shredder.json",
+        "data/releases/2019/fyf38-ducati-1199-panigale.json",
+        "data/releases/2019/fyf41-moto-wing.json",
+        "data/releases/2019/fyf42-blastous-moto.json",
+        "data/releases/2019/fyf43-tred-shredder.json",
+        "data/releases/2019/fyf98-honda-monkey-z50.json"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "graffiti-rides-5-pack",
+    "year": 2011,
+    "name": "Graffiti Rides 5-Pack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2011/t8640-audacious.json",
+        "data/releases/2011/t8640-ford-f-150.json",
+        "data/releases/2011/t8640-muscle-tone.json"
+    ]
+}

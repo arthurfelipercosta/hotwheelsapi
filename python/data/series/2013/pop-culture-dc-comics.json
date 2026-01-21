@@ -2,10 +2,13 @@
     "series_id": "pop-culture-dc-comics",
     "year": 2013,
     "name": "Pop Culture: DC Comics",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
+        "data/releases/2013/x8316-63-studebaker-champ.json",
+        "data/releases/2013/x8331-56-ford-f-100-truck.json",
         "data/releases/2013/x8332-8-crate.json",
+        "data/releases/2013/x8335-cool-one.json",
         "data/releases/2013/x8338-67-austin-mini-van.json"
     ]
 }

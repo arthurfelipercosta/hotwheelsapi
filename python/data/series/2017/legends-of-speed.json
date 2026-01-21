@@ -2,15 +2,26 @@
     "series_id": "legends-of-speed",
     "year": 2017,
     "name": "Legends of Speed",
-    "total_releases": 7,
-    "max_index": 10,
+    "total_releases": 18,
+    "max_index": 4,
     "releases": [
+        "data/releases/2017/dtw94-fairlady-2000.json",
+        "data/releases/2017/dtw98-speedy-p-rez.json",
+        "data/releases/2017/dtx08-flash-drive.json",
+        "data/releases/2017/dtx10-aristo-rat.json",
+        "data/releases/2017/dtx13-rig-heat.json",
         "data/releases/2017/dtx14-roller-toaster.json",
         "data/releases/2017/dtx29-formula-flashback.json",
         "data/releases/2017/dtx30-night-shifter.json",
         "data/releases/2017/dtx31-rrroadster.json",
+        "data/releases/2017/dvb14-fairlady-2000.json",
+        "data/releases/2017/dvb15-speedy-p-rez.json",
+        "data/releases/2017/dvb16-aristo-rat.json",
         "data/releases/2017/dvb17-roller-toaster.json",
+        "data/releases/2017/dvb19-flash-drive.json",
         "data/releases/2017/dvb22-rrroadster.json",
+        "data/releases/2017/dvb32-winning-formula.json",
+        "data/releases/2017/dvc99-winning-formula.json",
         "data/releases/2017/fkb99-formula-flashback.json"
     ]
 }

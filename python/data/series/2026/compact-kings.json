@@ -2,7 +2,7 @@
     "series_id": "compact-kings",
     "year": 2026,
     "name": "Compact Kings",
-    "total_releases": 6,
+    "total_releases": 9,
     "max_index": 3,
     "releases": [
         "data/releases/2026/jjj43-hako-type-d.json",
@@ -10,6 +10,9 @@
         "data/releases/2026/jjj65-kei-swap.json",
         "data/releases/2026/jjj66-85-honda-city-turbo-ii.json",
         "data/releases/2026/jjj67-mazda-rx-3.json",
-        "data/releases/2026/jkx56-15-mazda-mx-5-miata.json"
+        "data/releases/2026/jkx56-15-mazda-mx-5-miata.json",
+        "data/releases/2026/jkx57-99-honda-civic-type-r-ek9.json",
+        "data/releases/2026/jkx58-12-ford-fiesta.json",
+        "data/releases/2026/jkx59-subaru-wrx-sti.json"
     ]
 }

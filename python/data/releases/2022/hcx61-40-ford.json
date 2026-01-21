@@ -1,0 +1,24 @@
+{
+    "release_id": "hcx61-40-ford-2022",
+    "toy_number": "HCX61",
+    "casting_id": "40-ford",
+    "year": 2022,
+    "series_id": "hw-drag-strip",
+    "series_index": 1,
+    "specs": {
+        "color": "Red",
+        "tampo": "White and black accents, \"Comp Cams\", \"Edelbrock\" and HW logos on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "Chrome Gold 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): R29, R30, R31, R33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/202240ford.jpg/revision/latest/scale-to-width-down/75?cb=20250824002123"
+    }
+}

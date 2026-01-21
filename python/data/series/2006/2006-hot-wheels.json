@@ -1,0 +1,12 @@
+{
+    "series_id": "2006-hot-wheels",
+    "year": 2006,
+    "name": "2006 Hot Wheels",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2006/j3471-68-el-camino.json",
+        "data/releases/2006/j3471-68-el-camino.json",
+        "data/releases/2006/l4699-68-el-camino.json"
+    ]
+}

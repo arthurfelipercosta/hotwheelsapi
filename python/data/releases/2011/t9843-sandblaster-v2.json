@@ -1,0 +1,28 @@
+{
+    "release_id": "t9843-sandblaster-2011",
+    "toy_number": "T9843",
+    "casting_id": "sandblaster",
+    "year": 2011,
+    "series_id": "hw-performance",
+    "series_index": 6,
+    "specs": {
+        "color": "Satin Gray",
+        "tampo": "Red, Orange & White K&N logo on hood & sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Red OR5SP",
+            "1": "Pink tint",
+            "2": "Variant of pink tint window Base code(s): D27",
+            "3": "Red tint",
+            "4": "Variant of red tint window Base code(s): D37"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Variant of clear window Base code(s): D30, D40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/K%26N-Sandblaster-ClearMirror.jpg/revision/latest/scale-to-width-down/75?cb=20220618102950"
+    }
+}

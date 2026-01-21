@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-entertainment-forza-motorsport",
+    "year": 2016,
+    "name": "Hot Wheels Entertainment: Forza Motorsport",
+    "total_releases": 4,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2016/djf43-73-ford-falcon-xb.json",
+        "data/releases/2016/djf50-17-ford-gt.json",
+        "data/releases/2016/djf52-12-camaro-zl1-concept.json",
+        "data/releases/2016/djf55-lamborghini-gallardo-lp-570-4-superleggera.json"
+    ]
+}

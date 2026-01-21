@@ -1,0 +1,28 @@
+{
+    "release_id": "57126-64-buick-riviera-2003",
+    "toy_number": "57126",
+    "casting_id": "64-buick-riviera",
+    "year": 2003,
+    "series_id": "pride-rides",
+    "series_index": 1,
+    "specs": {
+        "color": "Metallic Pale Blue",
+        "tampo": "Blue & Black on side & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Dark Blue or Blue",
+        "wheel_type": {
+            "0": "Y5",
+            "1": "Dark Blue",
+            "2": "5SP",
+            "3": "Named 1964 Buick Riviera More uncommon than Y5",
+            "4": "10SP"
+        }
+    },
+    "country": "China/Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/64riviera.blue.jpg/revision/latest/scale-to-width-down/75?cb=20090624154947"
+    }
+}

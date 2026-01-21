@@ -1,0 +1,24 @@
+{
+    "release_id": "jdm29-classic-cobra-2025",
+    "toy_number": "JDM29",
+    "casting_id": "classic-cobra",
+    "year": 2025,
+    "series_id": "purple-and-gold",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake plum",
+        "tampo": "Gold & purple stripes on sides and along top, Hot Wheels logo, \"57\", & Goodyear logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold RSW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): U05N, U16N, U24N",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Purple_and_Gold_Shelby_Cobra_427.jpg/revision/latest/scale-to-width-down/75?cb=20250810020505"
+    }
+}

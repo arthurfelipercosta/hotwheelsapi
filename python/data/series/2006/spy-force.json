@@ -1,0 +1,11 @@
+{
+    "series_id": "spy-force",
+    "year": 2006,
+    "name": "Spy Force",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2006/j3402-boom-box.json",
+        "data/releases/2006/j3405-combat-medic.json"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "casting_id": "07-cadillac-escalade",
+    "name": "'07 Cadillac Escalade",
+    "description": {
+        "en-us": "For other uses, see Cadillac Escalade (disambiguation).\\n\\n'07 Cadillac Escalade Debut series 2006 First Editions Produced 2006 – 2014 Designer Jun Imai Number J3275",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2006/j3275-07-cadillac-escalade.json",
+        "data/releases/2006/j3275-07-cadillac-escalade-v2.json",
+        "data/releases/2006/j3275-07-cadillac-escalade-v3.json",
+        "data/releases/2006/l4691-07-cadillac-escalade.json",
+        "data/releases/2007/k7571-07-cadillac-escalade.json",
+        "data/releases/2008/m6931-07-cadillac-escalade.json",
+        "data/releases/2008/m6931-07-cadillac-escalade-v2.json",
+        "data/releases/2008/m6931-07-cadillac-escalade-v3.json",
+        "data/releases/2009/n4075-07-cadillac-escalade.json",
+        "data/releases/2009/p2853-07-cadillac-escalade.json",
+        "data/releases/2009/p7777-07-cadillac-escalade.json",
+        "data/releases/2010/r0970-07-cadillac-escalade.json",
+        "data/releases/2010/r7534-07-cadillac-escalade.json",
+        "data/releases/2010/r1176-07-cadillac-escalade.json",
+        "data/releases/2010/r7793-07-cadillac-escalade.json",
+        "data/releases/2011/v3898-07-cadillac-escalade.json",
+        "data/releases/2013/x1665-07-cadillac-escalade.json",
+        "data/releases/2014/bhr48-07-cadillac-escalade.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2006,
+    "manufacturer": "Cadillac"
+}

@@ -1,0 +1,14 @@
+{
+    "series_id": "tom-and-jerry",
+    "year": 2015,
+    "name": "Tom and Jerry",
+    "total_releases": 5,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2015/cmj29-cockney-cab-ii.json",
+        "data/releases/2015/cmj30-power-pipes.json",
+        "data/releases/2015/cmj31-the-gov-ner.json",
+        "data/releases/2015/cmj33-avant-garde.json",
+        "data/releases/2015/cmj33-ryura-lx.json"
+    ]
+}

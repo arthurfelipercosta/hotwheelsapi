@@ -1,0 +1,24 @@
+{
+    "release_id": "r0974-custom-volkswagen-beetle-2010",
+    "toy_number": "R0974",
+    "casting_id": "custom-volkswagen-beetle",
+    "year": 2010,
+    "series_id": "custom-car-show-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Magenta",
+        "tampo": "White, Pink & Purple graphics",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold 5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): C26, C34, C35, C36, C38, C49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/COOL_%27N_CUSTOM_BEETLE.jpg/revision/latest/scale-to-width-down/75?cb=20101023183857"
+    }
+}

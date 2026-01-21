@@ -1,0 +1,41 @@
+{
+    "casting_id": "10-camaro-ss",
+    "name": "'10 Camaro SS",
+    "description": {
+        "en-us": "'10 Camaro SS Debut series 2009 New Models Produced 2009 - Present Designer Phil Riehlman Number N4029",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4029-10-camaro-ss-v3.json",
+        "data/releases/2009/n4029-10-camaro-ss-v4.json",
+        "data/releases/2010/r7499-10-camaro-ss-v4.json",
+        "data/releases/2010/r7499-10-camaro-ss-v5.json",
+        "data/releases/2010/r7499-10-camaro-ss-v6.json",
+        "data/releases/2011/t8630-10-camaro-ss-v3.json",
+        "data/releases/2012/w4004-10-camaro-ss-v2.json",
+        "data/releases/2013/x1804-10-camaro-ss-v2.json",
+        "data/releases/2013/x2044-10-camaro-ss-v2.json",
+        "data/releases/2015/x6999-10-camaro-ss-v2.json",
+        "data/releases/2016/dhp84-10-camaro-ss-v2.json",
+        "data/releases/2011/t8630-10-camaro-ss-v4.json",
+        "data/releases/2012/v5434-10-camaro-ss-v2.json",
+        "data/releases/2012/v5703-10-camaro-ss-v2.json",
+        "data/releases/2013/x1673-10-camaro-ss-v2.json",
+        "data/releases/2014/bfc57-10-camaro-ss-v2.json",
+        "data/releases/2014/bff95-10-camaro-ss-v2.json",
+        "data/releases/2015/cdt16-10-camaro-ss-v2.json",
+        "data/releases/2016/dht01-10-camaro-ss-v2.json",
+        "data/releases/2016/dhx71-10-camaro-ss-v2.json",
+        "data/releases/2019/fyc84-10-camaro-ss-v2.json",
+        "data/releases/2019/fyg87-10-camaro-ss-v2.json",
+        "data/releases/2020/ghp52-10-camaro-ss-v2.json",
+        "data/releases/2022/hfv89-10-camaro-ss-v2.json",
+        "data/releases/2023/hkj19-10-camaro-ss-v2.json",
+        "data/releases/2024/htb63-10-camaro-ss-v2.json",
+        "data/releases/2024/htd88-10-camaro-ss-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

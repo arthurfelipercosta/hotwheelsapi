@@ -2,9 +2,28 @@
     "series_id": "hot-wheels-garage-gm",
     "year": 2011,
     "name": "Hot Wheels Garage: GM",
-    "total_releases": 1,
+    "total_releases": 20,
     "max_index": 4,
     "releases": [
-        "data/releases/2011/t8262-70-chevelle-ss-wagon.json"
+        "data/releases/2011/t8257-67-camaro.json",
+        "data/releases/2011/t8262-70-chevelle-ss-wagon.json",
+        "data/releases/2011/t8271-hot-bird.json",
+        "data/releases/2011/t8279-09-corvette-stingray-concept.json",
+        "data/releases/2011/t8286-70-monte-carlo.json",
+        "data/releases/2011/t8293-67-pontiac-gto.json",
+        "data/releases/2011/t8298-67-oldsmobile-442.json",
+        "data/releases/2011/t8307-67-camaro.json",
+        "data/releases/2011/t8308-69-camaro-convertible.json",
+        "data/releases/2011/t8314-67-oldsmobile-442.json",
+        "data/releases/2011/t8316-70-buick-gsx.json",
+        "data/releases/2011/t8318-67-pontiac-firebird-400.json",
+        "data/releases/2011/t8324-65-chevy-impala.json",
+        "data/releases/2011/t8325-09-corvette-stingray-concept.json",
+        "data/releases/2011/t8332-67-pontiac-firebird-400.json",
+        "data/releases/2011/t8334-custom-69-chevy.json",
+        "data/releases/2011/t8335-70-monte-carlo.json",
+        "data/releases/2011/t8346-69-chevelle-ss-396.json",
+        "data/releases/2011/t8364-corvette-c6r.json",
+        "data/releases/2011/v5247-67-camaro.json"
     ]
 }

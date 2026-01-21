@@ -2,10 +2,13 @@
     "series_id": "x-raycers-5-pack",
     "year": 2021,
     "name": "X-Raycers 5-Pack",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/2021/gtn39-el-viento.json",
-        "data/releases/2021/gtn39-rig-storm.json"
+        "data/releases/2021/gtn39-flash-drive.json",
+        "data/releases/2021/gtn39-pedal-de-metal.json",
+        "data/releases/2021/gtn39-rig-storm.json",
+        "data/releases/2021/gtn39-tur-bone-charged.json"
     ]
 }

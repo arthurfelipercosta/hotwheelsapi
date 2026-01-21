@@ -1,0 +1,24 @@
+{
+    "release_id": "t9720-hyundai-genesis-coupe-2011",
+    "toy_number": "T9720",
+    "casting_id": "hyundai-genesis-coupe",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 50,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Headlight details, Light Blue& Black tampos, \"ED\" in white",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "J5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): D14, D17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/HyundaiGenesis_Blue.JPG/revision/latest/scale-to-width-down/75?cb=20110613094037"
+    }
+}

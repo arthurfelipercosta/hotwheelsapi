@@ -1,0 +1,20 @@
+{
+    "series_id": "purple-and-gold",
+    "year": 2025,
+    "name": "Purple and Gold",
+    "total_releases": 11,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2025/jdm20-volkswagen-baja-bug.json",
+        "data/releases/2025/jdm21-d-muscle.json",
+        "data/releases/2025/jdm22-73-jeep-j10.json",
+        "data/releases/2025/jdm23-55-corvette.json",
+        "data/releases/2025/jdm24-muscle-and-blown.json",
+        "data/releases/2025/jdm25-baja-bison-t5.json",
+        "data/releases/2025/jdm26-custom-68-camaro.json",
+        "data/releases/2025/jdm27-mod-speeder.json",
+        "data/releases/2025/jdm28-nissan-patrol-custom.json",
+        "data/releases/2025/jdm29-classic-cobra.json",
+        "data/releases/2025/jdm31-rally-speciale.json"
+    ]
+}

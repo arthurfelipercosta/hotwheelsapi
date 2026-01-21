@@ -2,9 +2,13 @@
     "series_id": "hw-motor-show-5-pack",
     "year": 2025,
     "name": "HW Motor Show 5-Pack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2025/jbj89-ferrari-sf90-stradale.json"
+        "data/releases/2025/jbj89-17-ford-gt.json",
+        "data/releases/2025/jbj89-aston-martin-vulcan.json",
+        "data/releases/2025/jbj89-ferrari-sf90-stradale.json",
+        "data/releases/2025/jbj89-lamborghini-hurac-n-lp-610-4.json",
+        "data/releases/2025/jbj89-lotus-evija.json"
     ]
 }

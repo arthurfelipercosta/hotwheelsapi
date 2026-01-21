@@ -1,0 +1,25 @@
+{
+    "release_id": "jbk97-mini-cooper-2025",
+    "toy_number": "JBK97",
+    "casting_id": "mini-cooper",
+    "year": 2025,
+    "series_id": "mini-car-culture-2-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "White stripes across hood, \"43 C.C.\", \"LICKETY SPLIT\", and Hot Wheels logo on sides, detailed headlights & taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Heavy smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "black MiniC4SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): T45, T48A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2025CarCulture.jpg/revision/latest/scale-to-width-down/75?cb=20250102050032"
+    }
+}

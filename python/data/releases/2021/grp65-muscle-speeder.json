@@ -1,0 +1,24 @@
+{
+    "release_id": "grp65-muscle-speeder-2021",
+    "toy_number": "GRP65",
+    "casting_id": "muscle-speeder",
+    "year": 2021,
+    "series_id": "tokyo-2020-olympics",
+    "series_index": 2,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "Blue stripes, TOKYO 2020, SWIMMING, swimmer",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): P09",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Olympics_2020.jpg/revision/latest/scale-to-width-down/75?cb=20220820182448"
+    }
+}

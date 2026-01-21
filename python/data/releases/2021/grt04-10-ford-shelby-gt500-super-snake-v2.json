@@ -1,0 +1,24 @@
+{
+    "release_id": "grt04-10-ford-shelby-gt500-super-snake-2021",
+    "toy_number": "GRT04",
+    "casting_id": "10-ford-shelby-gt500-super-snake",
+    "year": 2021,
+    "series_id": "factory-500-h-p",
+    "series_index": 3,
+    "specs": {
+        "color": "Red",
+        "tampo": "Twin Blue stripes across top, Blue stripes & Shelby cobra logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Smoke)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Y5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base Code(s): N35, N38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/10_GT500_SS_Red_500hp.jpg/revision/latest/scale-to-width-down/75?cb=20201218082942"
+    }
+}

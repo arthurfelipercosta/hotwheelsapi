@@ -1,0 +1,24 @@
+{
+    "release_id": "x1848-69-ford-mustang-2013",
+    "toy_number": "X1848",
+    "casting_id": "69-ford-mustang",
+    "year": 2013,
+    "series_id": "hw-showroom-muscle-mania",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "white and gold stripes on sides and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gold",
+        "wheel_type": {
+            "0": "WLPR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F27, F28, F33",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/%2769_Ford_Mustang-2013_232.jpg/revision/latest/scale-to-width-down/75?cb=20130831110809"
+    }
+}

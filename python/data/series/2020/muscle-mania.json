@@ -2,14 +2,26 @@
     "series_id": "muscle-mania",
     "year": 2020,
     "name": "Muscle Mania",
-    "total_releases": 6,
-    "max_index": 7,
+    "total_releases": 18,
+    "max_index": 0,
     "releases": [
         "data/releases/2020/ghb32-20-ford-shelby-gt500.json",
         "data/releases/2020/ghc58-rodger-dodger-2-0.json",
+        "data/releases/2020/ghd04-18-dodge-challenger-srt-demon.json",
+        "data/releases/2020/ghd05-64-nova-wagon-gasser.json",
+        "data/releases/2020/ghd06-69-ford-mustang-boss-302.json",
+        "data/releases/2020/ghd07-70-dodge-charger-r-t.json",
+        "data/releases/2020/ghd08-84-pontiac-firebird.json",
+        "data/releases/2020/ghd09-86-monte-carlo-ss.json",
         "data/releases/2020/ghd11-custom-otto.json",
+        "data/releases/2020/ghd12-muscle-bound.json",
+        "data/releases/2020/ghf17-64-nova-wagon-gasser.json",
         "data/releases/2020/ghf62-custom-otto.json",
+        "data/releases/2020/ghg07-86-monte-carlo-ss.json",
         "data/releases/2020/ghg08-rodger-dodger-2-0.json",
+        "data/releases/2020/ghg24-18-dodge-challenger-srt-demon.json",
+        "data/releases/2020/ghg41-69-ford-mustang-boss-302.json",
+        "data/releases/2020/ghg63-64-nova-wagon-gasser.json",
         "data/releases/2020/gtd38-20-ford-shelby-gt500.json"
     ]
 }

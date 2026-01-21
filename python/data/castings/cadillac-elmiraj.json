@@ -1,0 +1,21 @@
+{
+    "casting_id": "cadillac-elmiraj",
+    "name": "Cadillac Elmiraj",
+    "description": {
+        "en-us": "Cadillac Elmiraj Debut series HW City: Street Power Produced 2015 - 2020 Designer Jeff Allison Number CFH11",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2015/cfh11-cadillac-elmiraj.json",
+        "data/releases/2015/cfl42-cadillac-elmiraj.json",
+        "data/releases/2016/dhp99-cadillac-elmiraj.json",
+        "data/releases/2017/dtx54-cadillac-elmiraj.json",
+        "data/releases/2017/dvb45-cadillac-elmiraj.json",
+        "data/releases/2019/gbb92-cadillac-elmiraj.json",
+        "data/releases/2020/ghp50-cadillac-elmiraj.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2015,
+    "manufacturer": "Cadillac"
+}

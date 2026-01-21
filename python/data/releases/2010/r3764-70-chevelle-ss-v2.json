@@ -1,0 +1,25 @@
+{
+    "release_id": "r3764-70-chevelle-ss-2010",
+    "toy_number": "R3764",
+    "casting_id": "70-chevelle-ss",
+    "year": 2010,
+    "series_id": "hot-wheels-garage",
+    "series_index": 13,
+    "specs": {
+        "color": "Metallic Red",
+        "tampo": "Black & Silver stripes with detailed trim",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Black RRE"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/RCG2010-02.jpg/revision/latest/scale-to-width-down/75?cb=20220525025222"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "t8317-65-mustang-convertible-2011",
+    "toy_number": "T8317",
+    "casting_id": "65-mustang-convertible",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-ford",
+    "series_index": 15,
+    "specs": {
+        "color": "Metallic Dark Blue",
+        "tampo": "Silver stripes on hood & trunk, Light blue stripe on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Red Line RR10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D01",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/65MustangConv_Garage.JPG/revision/latest/scale-to-width-down/75?cb=20110607090634"
+    }
+}

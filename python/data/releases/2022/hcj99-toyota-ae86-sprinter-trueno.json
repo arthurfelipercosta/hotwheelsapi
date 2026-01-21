@@ -1,0 +1,24 @@
+{
+    "release_id": "hcj99-toyota-ae86-sprinter-trueno-2022",
+    "toy_number": "HCJ99",
+    "casting_id": "toyota-ae86-sprinter-trueno",
+    "year": 2022,
+    "series_id": "car-culture-mountain-drifters",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Itasha tampos on hood, sides and rear; \"ホットホィール\", Eibach, Sparco and Falken logos on sides, \"AE-86\" Gunma license plate",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Brown MiniRR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): R10, R11, R12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/TougeAE86.jpg/revision/latest/scale-to-width-down/75?cb=20220420135822"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-racing-twin-mill",
+    "year": 2001,
+    "name": "Hot Wheels Racing: Twin Mill",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": [
+        "data/releases/2001/29504-twin-mill.json",
+        "data/releases/2001/52621-twin-mill.json",
+        "data/releases/2001/52622-twin-mill.json",
+        "data/releases/2001/52623-twin-mill.json"
+    ]
+}

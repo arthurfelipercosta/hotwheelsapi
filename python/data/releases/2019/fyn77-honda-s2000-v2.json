@@ -1,0 +1,24 @@
+{
+    "release_id": "fyn77-honda-s2000-2019",
+    "toy_number": "FYN77",
+    "casting_id": "honda-s2000",
+    "year": 2019,
+    "series_id": "car-culture-street-tuners",
+    "series_index": 4,
+    "specs": {
+        "color": "Silver",
+        "tampo": "Detailed Headlights, Detailed Taillights, Honda logo on rear & front",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black MCRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M21, M25, M29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Honda_S2000.Street_Tuners_Series.2019.JPG/revision/latest/scale-to-width-down/75?cb=20190810183927"
+    }
+}

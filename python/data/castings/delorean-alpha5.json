@@ -1,0 +1,19 @@
+{
+    "casting_id": "delorean-alpha5",
+    "name": "DeLorean Alpha5",
+    "description": {
+        "en-us": "DeLorean Alpha5 Debut series DeLorean Collector Set Produced 2023 – Present Designer Manson Cheung Number HRG98",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hrg98-delorean-alpha5.json",
+        "data/releases/2024/htb84-delorean-alpha5.json",
+        "data/releases/2024/htf78-delorean-alpha5.json",
+        "data/releases/2024/htd32-delorean-alpha5.json",
+        "data/releases/2025/jby38-delorean-alpha5.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

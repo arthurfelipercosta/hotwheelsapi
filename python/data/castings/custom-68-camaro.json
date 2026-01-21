@@ -1,0 +1,20 @@
+{
+    "casting_id": "custom-68-camaro",
+    "name": "Custom '68 Camaro",
+    "description": {
+        "en-us": "Custom '68 Camaro Debut series HW Slammed Produced 2023 – Present Designer Dwayne Vance Number HKG68",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg68-custom-68-camaro.json",
+        "data/releases/2024/htb69-custom-68-camaro.json",
+        "data/releases/2024/htd30-custom-68-camaro.json",
+        "data/releases/2025/jdm26-custom-68-camaro.json",
+        "data/releases/2025/jgj12-custom-68-camaro.json",
+        "data/releases/2026/jcb46-custom-68-camaro.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

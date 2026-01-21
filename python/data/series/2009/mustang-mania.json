@@ -2,10 +2,15 @@
     "series_id": "mustang-mania",
     "year": 2009,
     "name": "Mustang Mania",
-    "total_releases": 2,
+    "total_releases": 7,
     "max_index": 7,
     "releases": [
+        "data/releases/2009/p3520-69-ford-mustang.json",
+        "data/releases/2009/p5661-2010-ford-mustang-gt.json",
+        "data/releases/2009/p5666-2005-ford-mustang-gt.json",
         "data/releases/2009/p5667-92-ford-mustang.json",
+        "data/releases/2009/p5668-67-shelby-gt500.json",
+        "data/releases/2009/p5669-99-ford-mustang.json",
         "data/releases/2009/p5672-67-mustang.json"
     ]
 }

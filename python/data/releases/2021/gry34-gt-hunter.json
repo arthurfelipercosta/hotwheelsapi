@@ -1,0 +1,25 @@
+{
+    "release_id": "gry34-gt-hunter-2021",
+    "toy_number": "GRY34",
+    "casting_id": "gt-hunter",
+    "year": 2021,
+    "series_id": "hw-art-cars",
+    "series_index": 7,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Blueprint designs of said GT Hunter. “T” on engine hood. “GRY34” and hot wheels logo on sides.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "White tires",
+            "1": "Blue MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): N45, N48, N49",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/2021GTHunterAC1.jpg/revision/latest/scale-to-width-down/75?cb=20210301003525"
+    }
+}

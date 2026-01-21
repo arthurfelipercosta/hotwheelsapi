@@ -1,0 +1,18 @@
+{
+    "casting_id": "lotus-evora-gt4",
+    "name": "Lotus Evora GT4",
+    "description": {
+        "en-us": "Lotus Evora GT4 Debut series HW City: Street Power Produced 2013 – 2014 Designer Kevin Cao Number X1618\\n\\nThe Lotus Evora GT4 is a racing version of the Lotus Evora conforming to GT4 regulations. The car was launched in 2010; numerous iterations of the car have been raced since 2010 to varying degrees of success. The car is powered by a 3.5L Toyota V6 mated to a 6-speed sequential.",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2013/x1618-lotus-evora-gt4.json",
+        "data/releases/2013/x2049-lotus-evora-gt4.json",
+        "data/releases/2014/bfd67-lotus-evora-gt4.json",
+        "data/releases/2014/bfv63-lotus-evora-gt4.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2013,
+    "manufacturer": "Lotus"
+}

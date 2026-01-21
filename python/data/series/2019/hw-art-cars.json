@@ -2,10 +2,21 @@
     "series_id": "hw-art-cars",
     "year": 2019,
     "name": "HW Art Cars",
-    "total_releases": 2,
+    "total_releases": 13,
     "max_index": 6,
     "releases": [
+        "data/releases/2019/fyc20-56-ford-f-100-truck.json",
+        "data/releases/2019/fyc21-fast-fish.json",
+        "data/releases/2019/fyc22-baja-hauler.json",
+        "data/releases/2019/fyc23-64-buick-riviera.json",
+        "data/releases/2019/fyc24-olds-442-w-30.json",
         "data/releases/2019/fyc25-83-chevy-silverado.json",
-        "data/releases/2019/fyc26-67-ford-mustang-coupe.json"
+        "data/releases/2019/fyc26-67-ford-mustang-coupe.json",
+        "data/releases/2019/fyc27-mach-speeder.json",
+        "data/releases/2019/fyc28-64-chevy-nova-wagon.json",
+        "data/releases/2019/fyf21-64-chevy-nova-wagon.json",
+        "data/releases/2019/fyf94-67-camaro.json",
+        "data/releases/2019/fyg37-56-ford-f-100-truck.json",
+        "data/releases/2019/fyg52-64-buick-riviera.json"
     ]
 }

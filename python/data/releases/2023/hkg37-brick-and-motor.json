@@ -1,0 +1,25 @@
+{
+    "release_id": "hkg37-brick-and-motor-2023",
+    "toy_number": "HKG37",
+    "casting_id": "brick-and-motor",
+    "year": 2023,
+    "series_id": "brick-rides",
+    "series_index": 4,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow pinstriping, skull, \"B/M\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "BLOR",
+            "1": "SK5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/BrickandMotor.jpg/revision/latest/scale-to-width-down/75?cb=20230327023906"
+    }
+}

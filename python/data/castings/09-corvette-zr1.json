@@ -1,0 +1,35 @@
+{
+    "casting_id": "09-corvette-zr1",
+    "name": "'09 Corvette ZR1",
+    "description": {
+        "en-us": "'09 Corvette ZR1 Debut series 2008 New Models Produced 2008 - 2019 Designer Phil Riehlman Number L9924",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2008/l9924-09-corvette-zr1.json",
+        "data/releases/2008/l9924-09-corvette-zr1-v2.json",
+        "data/releases/2008/l9924-09-corvette-zr1-v3.json",
+        "data/releases/2008/l9924-09-corvette-zr1-v4.json",
+        "data/releases/2008/l9924-09-corvette-zr1-v5.json",
+        "data/releases/2009/p2455-09-corvette-zr1.json",
+        "data/releases/2009/p2455-09-corvette-zr1-v2.json",
+        "data/releases/2009/p2455-09-corvette-zr1-v3.json",
+        "data/releases/2009/p2455-09-corvette-zr1-v4.json",
+        "data/releases/2010/r7475-09-corvette-zr1.json",
+        "data/releases/2012/w4000-09-corvette-zr1.json",
+        "data/releases/2013/x1817-09-corvette-zr1.json",
+        "data/releases/2013/x2015-09-corvette-zr1.json",
+        "data/releases/2014/k5904-09-corvette-zr1.json",
+        "data/releases/2014/bdk72-09-corvette-zr1.json",
+        "data/releases/2015/cfh36-09-corvette-zr1.json",
+        "data/releases/2015/cfl80-09-corvette-zr1.json",
+        "data/releases/2017/x6999-09-corvette-zr1.json",
+        "data/releases/2019/x6999-09-corvette-zr1.json",
+        "data/releases/2019/x6999-09-corvette-zr1-v2.json",
+        "data/releases/2019/x6999-09-corvette-zr1-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2008,
+    "manufacturer": "Mattel"
+}

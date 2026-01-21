@@ -1,0 +1,27 @@
+{
+    "casting_id": "69-dodge-daytona",
+    "name": "'69 Dodge Daytona",
+    "description": {
+        "en-us": "'69 Dodge Daytona Debut series 2003 First Editions Produced 2003 - 2020 Designer Mark Jones Number 56372",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56372-69-dodge-daytona-v2.json",
+        "data/releases/2004/b3631-69-dodge-daytona-v2.json",
+        "data/releases/2006/j3391-69-dodge-daytona-v3.json",
+        "data/releases/2006/j3391-69-dodge-daytona-v4.json",
+        "data/releases/2007/k7637-69-dodge-daytona-v3.json",
+        "data/releases/2007/k7637-69-dodge-daytona-v4.json",
+        "data/releases/2010/r0962-69-dodge-daytona-v2.json",
+        "data/releases/2017/dtx48-69-dodge-daytona-v2.json",
+        "data/releases/2017/dvb36-69-dodge-daytona-v2.json",
+        "data/releases/2017/fbh83-69-dodge-daytona-v2.json",
+        "data/releases/2018/fjx77-69-dodge-daytona-v2.json",
+        "data/releases/2018/fkb07-69-dodge-daytona-v2.json",
+        "data/releases/2020/ghd81-69-dodge-daytona-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Dodge"
+}

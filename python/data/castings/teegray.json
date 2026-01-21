@@ -1,0 +1,33 @@
+{
+    "casting_id": "teegray",
+    "name": "Teegray",
+    "description": {
+        "en-us": "Teegray Debut series 2010 New Models Produced 2010 - Present Designer Alton Takeyasu Number R0943",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0943-teegray.json",
+        "data/releases/2010/r0943-teegray-v2.json",
+        "data/releases/2011/t8641-teegray.json",
+        "data/releases/2012/v5543-teegray.json",
+        "data/releases/2013/x6999-teegray.json",
+        "data/releases/2013/y0182-teegray.json",
+        "data/releases/2013/y0188-teegray.json",
+        "data/releases/2013/bbm44-teegray.json",
+        "data/releases/2014/bdw39-teegray.json",
+        "data/releases/2015/cdt15-teegray.json",
+        "data/releases/2016/dhp64-teegray.json",
+        "data/releases/2016/dhw57-teegray.json",
+        "data/releases/2017/dyl54-teegray.json",
+        "data/releases/2017/x6999-teegray.json",
+        "data/releases/2017/dwd18-teegray.json",
+        "data/releases/2018/x6999-teegray.json",
+        "data/releases/2018/fkx66-teegray.json",
+        "data/releases/2021/gyp16-teegray.json",
+        "data/releases/2025/jcl91-teegray.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

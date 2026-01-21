@@ -1,0 +1,24 @@
+{
+    "release_id": "jbm05-custom-datsun-240z-2025",
+    "toy_number": "JBM05",
+    "casting_id": "custom-datsun-240z",
+    "year": 2025,
+    "series_id": "track-day-collector-set",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Detailed taillights, 'GReddy' on back",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "C4SPRR"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Similar to DWH88 Base code(s): T37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/04/Custom_Datsun_240Z_Pearl_white.jpg/revision/latest/scale-to-width-down/75?cb=20250709040544"
+    }
+}

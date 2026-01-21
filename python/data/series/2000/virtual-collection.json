@@ -2,10 +2,14 @@
     "series_id": "virtual-collection",
     "year": 2000,
     "name": "Virtual Collection",
-    "total_releases": 2,
+    "total_releases": 6,
     "max_index": 0,
     "releases": [
+        "data/releases/2000/27078-cat-wheel-loader.json",
+        "data/releases/2000/27093-rodzilla.json",
         "data/releases/2000/27110-good-humor-truck.json",
-        "data/releases/2000/27110-good-humor-truck.json"
+        "data/releases/2000/27110-good-humor-truck.json",
+        "data/releases/2000/27111-fire-eater.json",
+        "data/releases/2000/27130-phaeton.json"
     ]
 }

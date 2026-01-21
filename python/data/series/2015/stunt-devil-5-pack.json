@@ -2,9 +2,12 @@
     "series_id": "stunt-devil-5-pack",
     "year": 2015,
     "name": "Stunt Devil 5-Pack",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 0,
     "releases": [
-        "data/releases/2015/cdt25-monster-dairy-delivery.json"
+        "data/releases/2015/cdt25-dirty-outlaw.json",
+        "data/releases/2015/cdt25-loop-coupe.json",
+        "data/releases/2015/cdt25-monster-dairy-delivery.json",
+        "data/releases/2015/cdt25-poison-arrow.json"
     ]
 }

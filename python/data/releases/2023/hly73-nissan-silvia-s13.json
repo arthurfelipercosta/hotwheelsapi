@@ -1,0 +1,25 @@
+{
+    "release_id": "hly73-nissan-silvia-s13-2023",
+    "toy_number": "HLY73",
+    "casting_id": "nissan-silvia-s13",
+    "year": 2023,
+    "series_id": "nissan-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Pearl White",
+        "tampo": "Blue & Red stripes, Hot Wheels Japanese Logo, \"LW\" \"AH\" \"DIMA\" \"HWGRFX\", Silvia on trunk",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Red rim",
+            "1": "Black PR5"
+        }
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): S07, S08, S12,",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/S13_nissan_5pk.jpg/revision/latest/scale-to-width-down/75?cb=20230524032355"
+    }
+}

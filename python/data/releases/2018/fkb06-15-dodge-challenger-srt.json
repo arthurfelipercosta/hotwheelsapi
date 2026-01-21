@@ -1,0 +1,24 @@
+{
+    "release_id": "fkb06-15-dodge-challenger-srt-2018",
+    "toy_number": "FKB06",
+    "casting_id": "15-dodge-challenger-srt",
+    "year": 2018,
+    "series_id": "muscle-mania",
+    "series_index": 4,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black Pinstriping on sides and roof, MOPAR badge, HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K48, K49, K51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/15_Dodge_Challenger_SRT_-_Yellow.png/revision/latest/scale-to-width-down/75?cb=20180211051338"
+    }
+}

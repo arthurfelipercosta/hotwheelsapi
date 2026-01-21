@@ -1,0 +1,19 @@
+{
+    "casting_id": "the-homer",
+    "name": "The Homer",
+    "description": {
+        "en-us": "The Homer Debut series HW City: Tooned II Produced 2014 - 2016 Designer Manson Cheung Number BDC92",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2014/bdc92-the-homer.json",
+        "data/releases/2014/bdv00-the-homer.json",
+        "data/releases/2014/blr47-the-homer.json",
+        "data/releases/2015/cfk18-the-homer.json",
+        "data/releases/2016/djf41-the-homer.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2014,
+    "manufacturer": "Mattel"
+}

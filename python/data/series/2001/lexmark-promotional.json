@@ -1,0 +1,11 @@
+{
+    "series_id": "lexmark-promotional",
+    "year": 2001,
+    "name": "Lexmark Promotional",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2001/50985-67-pontiac-gto.json",
+        "data/releases/2001/52683-67-pontiac-gto.json"
+    ]
+}

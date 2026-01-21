@@ -1,0 +1,25 @@
+{
+    "release_id": "ghg20-ford-gt-40-2020",
+    "toy_number": "GHG20",
+    "casting_id": "ford-gt-40",
+    "year": 2020,
+    "series_id": "hw-race-day",
+    "series_index": 8,
+    "specs": {
+        "color": "Spectraflame Aqua",
+        "tampo": "Orange stripe across top, '8' on sides, hood & headlights, 'Gulf', 'Autolite', 'Firestone' & HW logo on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome Rim",
+            "1": "Orange RR5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Super Treasure Hunt Base code(s): M28, M32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/FordGT40STH.jpg/revision/latest/scale-to-width-down/75?cb=20220703141342"
+    }
+}

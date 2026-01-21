@@ -1,0 +1,24 @@
+{
+    "release_id": "x2031-92-bmw-m3-2013",
+    "toy_number": "X2031",
+    "casting_id": "92-bmw-m3",
+    "year": 2013,
+    "series_id": "hw-showroom-hw-all-stars",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Blue",
+        "tampo": "BMW Classic stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "CBPR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F10, F13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/%2792_BMW_M3-2013_172_Blue.jpg/revision/latest/scale-to-width-down/75?cb=20130515171856"
+    }
+}

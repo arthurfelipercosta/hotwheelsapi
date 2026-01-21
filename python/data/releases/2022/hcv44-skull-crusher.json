@@ -1,0 +1,25 @@
+{
+    "release_id": "hcv44-skull-crusher-2022",
+    "toy_number": "HCV44",
+    "casting_id": "skull-crusher",
+    "year": 2022,
+    "series_id": "street-beasts",
+    "series_index": 1,
+    "specs": {
+        "color": "Black",
+        "tampo": "White and green teeth shapes with orange spittle inside on roof.",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Green tint",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Green",
+            "1": "White PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P35, P37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/HCV44.jpg/revision/latest/scale-to-width-down/75?cb=20211215163522"
+    }
+}

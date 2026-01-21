@@ -1,0 +1,25 @@
+{
+    "release_id": "t8310-65-mustang-2-2-fastback-2011",
+    "toy_number": "T8310",
+    "casting_id": "65-mustang-2-2-fastback",
+    "year": 2011,
+    "series_id": "hot-wheels-garage-ford",
+    "series_index": 2,
+    "specs": {
+        "color": "Metallic Grey",
+        "tampo": "Blue & Silver stripes, Light & trim details",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Grey RRC"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Named '65 Ford Mustang Fastback Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/be/65MustangFastback_Garage_Gray.JPG/revision/latest/scale-to-width-down/75?cb=20110501234558"
+    }
+}

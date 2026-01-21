@@ -2,10 +2,13 @@
     "series_id": "hw-city-tooned",
     "year": 2015,
     "name": "HW City: Tooned",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
         "data/releases/2015/cfg80-the-simpsons-family-car.json",
+        "data/releases/2015/cfh26-grease-rod.json",
+        "data/releases/2015/cfh76-the-jetsons-capsule-car.json",
+        "data/releases/2015/cfk18-the-homer.json",
         "data/releases/2015/cfk19-snoopy.json"
     ]
 }

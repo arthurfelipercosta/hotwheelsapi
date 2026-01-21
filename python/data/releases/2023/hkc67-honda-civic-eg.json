@@ -1,0 +1,24 @@
+{
+    "release_id": "hkc67-honda-civic-eg-2023",
+    "toy_number": "HKC67",
+    "casting_id": "honda-civic-eg",
+    "year": 2023,
+    "series_id": "car-culture-modern-classics",
+    "series_index": 1,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Detailed headlights and taillights, Spoon Sports livery",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Black RR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base codes: S36, S37, S38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/SpoonCivic.jpg/revision/latest/scale-to-width-down/75?cb=20231027133946"
+    }
+}

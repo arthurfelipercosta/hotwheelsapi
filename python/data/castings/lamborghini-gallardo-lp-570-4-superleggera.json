@@ -1,0 +1,33 @@
+{
+    "casting_id": "lamborghini-gallardo-lp-570-4-superleggera",
+    "name": "Lamborghini Gallardo LP 570-4 Superleggera",
+    "description": {
+        "en-us": "Lamborghini Gallardo LP 570-4 Superleggera Debut series 2011 New Models Produced 2011 - Present Designer John Violette Number T9679",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2011/t9679-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2011/t9679-lamborghini-gallardo-lp-570-4-superleggera-v2.json",
+        "data/releases/2011/v0044-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2012/v5429-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2012/v5667-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2012/w5453-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2013/x1682-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2013/x1877-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2014/bhr30-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2015/cfm38-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2016/djl19-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2016/djf55-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2017/cfm38-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2019/gbw77-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2019/fyl17-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2020/ghp62-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2022/hff49-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2023/hmg52-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2026/jhw33-lamborghini-gallardo-lp-570-4-superleggera.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2011,
+    "manufacturer": "Lamborghini"
+}

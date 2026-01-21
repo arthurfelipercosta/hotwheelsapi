@@ -1,0 +1,24 @@
+{
+    "release_id": "hcv31-18-dodge-challenger-srt-demon-2022",
+    "toy_number": "HCV31",
+    "casting_id": "18-dodge-challenger-srt-demon",
+    "year": 2022,
+    "series_id": "hw-drag-strip",
+    "series_index": 4,
+    "specs": {
+        "color": "Glossy White",
+        "tampo": "Ramchargers Challenger-inspired livery",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RSW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R17, R19, R22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/2022ML198_%28Large%29.JPG/revision/latest/scale-to-width-down/75?cb=20220807050248"
+    }
+}

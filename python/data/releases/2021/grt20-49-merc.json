@@ -1,0 +1,24 @@
+{
+    "release_id": "grt20-49-merc-2021",
+    "toy_number": "GRT20",
+    "casting_id": "49-merc",
+    "year": 2021,
+    "series_id": "convertibles",
+    "series_index": 7,
+    "specs": {
+        "color": "Green",
+        "tampo": "White patterned stripes on sides * hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "AeroDisc"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): P08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/GRT20_-_49_Merc-1.jpg/revision/latest/scale-to-width-down/75?cb=20220202171804"
+    }
+}

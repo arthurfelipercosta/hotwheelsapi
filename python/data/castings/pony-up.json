@@ -1,0 +1,37 @@
+{
+    "casting_id": "pony-up",
+    "name": "Pony-Up",
+    "description": {
+        "en-us": "Pony-Up Debut series 2002 First Editions Produced 2002 - Present Designer Mark Jones Number 52926",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2002/52926-pony-up.json",
+        "data/releases/2003/57199-pony-up.json",
+        "data/releases/2004/b3601-pony-up.json",
+        "data/releases/2004/b3601-pony-up-v2.json",
+        "data/releases/2004/b3909-pony-up.json",
+        "data/releases/2004/b3909-pony-up-v2.json",
+        "data/releases/2005/g6923-pony-up.json",
+        "data/releases/2006/j6519-pony-up.json",
+        "data/releases/2007/k7562-pony-up.json",
+        "data/releases/2008/m6988-pony-up.json",
+        "data/releases/2008/m6988-pony-up-v2.json",
+        "data/releases/2008/m6988-pony-up-v3.json",
+        "data/releases/2009/p2424-pony-up.json",
+        "data/releases/2009/p2424-pony-up-v2.json",
+        "data/releases/2011/x3217-20-pk-54886-10-pk-pony-up.json",
+        "data/releases/2013/bgj65-pony-up.json",
+        "data/releases/2013/x6999-pony-up.json",
+        "data/releases/2015/cjx89-pony-up.json",
+        "data/releases/2016/djd30-pony-up.json",
+        "data/releases/2016/djl11-pony-up.json",
+        "data/releases/2018/fkd53-pony-up.json",
+        "data/releases/2019/gbb30-pony-up.json",
+        "data/releases/2024/hrv53-pony-up.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2002,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,39 @@
+{
+    "casting_id": "power-panel",
+    "name": "Power Panel",
+    "description": {
+        "en-us": "Power Panel Debut series 2003 First Editions Produced 2003 - Present Designer Phil Riehlman Number 56380",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2003/56380-power-panel-v2.json",
+        "data/releases/2004/b3643-power-panel-v2.json",
+        "data/releases/2005/g6844-power-panel-v2.json",
+        "data/releases/2006/j3435-power-panel-v3.json",
+        "data/releases/2006/j3435-power-panel-v4.json",
+        "data/releases/2006/l1171-power-panel-v2.json",
+        "data/releases/2008/l9962-power-panel-v2.json",
+        "data/releases/2009/n4070-power-panel-v3.json",
+        "data/releases/2009/n4070-power-panel-v4.json",
+        "data/releases/2010/r3731-power-panel-v3.json",
+        "data/releases/2010/r3731-power-panel-v4.json",
+        "data/releases/2010/r7645-power-panel-v2.json",
+        "data/releases/2011/t9893-power-panel-v2.json",
+        "data/releases/2012/w4242-power-panel-v2.json",
+        "data/releases/2012/w6665-power-panel-v2.json",
+        "data/releases/2013/x1691-power-panel-v2.json",
+        "data/releases/2015/cdt17-power-panel-v2.json",
+        "data/releases/2016/dnf26-power-panel-v2.json",
+        "data/releases/2017/dwh18-power-panel-v2.json",
+        "data/releases/2018/fkv15-power-panel-v2.json",
+        "data/releases/2019/gbb25-power-panel-v2.json",
+        "data/releases/2020/gjv15-power-panel-v2.json",
+        "data/releases/2023/hkj01-power-panel-v2.json",
+        "data/releases/2023/hkk59-power-panel-v2.json",
+        "data/releases/2024/hrw35-power-panel-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2003,
+    "manufacturer": "Mattel"
+}

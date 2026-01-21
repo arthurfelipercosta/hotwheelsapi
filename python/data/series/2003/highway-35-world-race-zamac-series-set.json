@@ -2,9 +2,10 @@
     "series_id": "highway-35-world-race-zamac-series-set",
     "year": 2003,
     "name": "Highway 35 World Race Zamac Series Set",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 0,
     "releases": [
+        "data/releases/2003/ab1174-sling-shot.json",
         "data/releases/2003/b0892-deora-ii.json"
     ]
 }

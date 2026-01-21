@@ -1,0 +1,24 @@
+{
+    "release_id": "fyc34-17-acura-nsx-2019",
+    "toy_number": "FYC34",
+    "casting_id": "17-acura-nsx",
+    "year": 2019,
+    "series_id": "hw-exotics",
+    "series_index": 9,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "Detailed head & taillights, Black roof, Acura emblem on front & rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M09, M10, M11, M12, M13, M14, M15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/17_NSX_Blue_19.jpg/revision/latest/scale-to-width-down/75?cb=20190510101421"
+    }
+}

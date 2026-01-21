@@ -2,11 +2,14 @@
     "series_id": "red-lines",
     "year": 2005,
     "name": "Red Lines",
-    "total_releases": 3,
+    "total_releases": 6,
     "max_index": 3,
     "releases": [
+        "data/releases/2005/g6823-surfin-school-bus.json",
+        "data/releases/2005/g6823-surfin-school-bus.json",
         "data/releases/2005/g6825-8-crate.json",
         "data/releases/2005/g6825-8-crate.json",
-        "data/releases/2005/g6825-8-crate.json"
+        "data/releases/2005/g6825-8-crate.json",
+        "data/releases/2005/g6826-65-pontiac-bonneville.json"
     ]
 }

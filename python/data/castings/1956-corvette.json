@@ -1,0 +1,20 @@
+{
+    "casting_id": "1956-corvette",
+    "name": "1956 Corvette",
+    "description": {
+        "en-us": "1956 Corvette Debut series HW Screen Time Produced 2023 – Present Designer Fraser Campbell Number HKG52",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg52-1956-corvette.json",
+        "data/releases/2023/hkk87-1956-corvette.json",
+        "data/releases/2023/hpr54-1956-corvette.json",
+        "data/releases/2023/hrl24-1956-corvette.json",
+        "data/releases/2024/htb37-1956-corvette.json",
+        "data/releases/2025/jbl79-1956-corvette.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Mattel"
+}

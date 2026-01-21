@@ -1,0 +1,28 @@
+{
+    "casting_id": "lotus-project-m250",
+    "name": "Lotus Project M250",
+    "description": {
+        "en-us": "Lotus Project M250 Debut series 2001 First Editions Produced 2001 - 2014 Designer Mark Jones Number 28753",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2001/28753-lotus-project-m250-v2.json",
+        "data/releases/2001/53760-lotus-project-m250-v2.json",
+        "data/releases/2002/54323-lotus-project-m250-v2.json",
+        "data/releases/2003/47183-lotus-project-m250-v2.json",
+        "data/releases/2004/g7839-lotus-project-m250-v3.json",
+        "data/releases/2004/g7839-lotus-project-m250-v4.json",
+        "data/releases/2006/j8024-lotus-project-m250-v2.json",
+        "data/releases/2006/k7371-lotus-project-m250-v2.json",
+        "data/releases/2007/m3071-lotus-project-m250-v2.json",
+        "data/releases/2008/l9970-lotus-project-m250-v2.json",
+        "data/releases/2011/54886-lotus-project-m250-v2.json",
+        "data/releases/2013/x1841-lotus-project-m250-v2.json",
+        "data/releases/2013/x1990-lotus-project-m250-v2.json",
+        "data/releases/2014/bdp43-lotus-project-m250-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2001,
+    "manufacturer": "Lotus"
+}

@@ -1,0 +1,27 @@
+{
+    "release_id": "cfm28-baja-bone-shaker-2020",
+    "toy_number": "CFM28",
+    "casting_id": "baja-bone-shaker",
+    "year": 2020,
+    "series_id": "color-shifters",
+    "series_index": null,
+    "specs": {
+        "color": "Cold: Frost Blue Warm: Gray",
+        "tampo": "Frost Blue flames over frost gray (color-shifting)",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black OR6SP",
+            "2": "2023",
+            "3": "BHR15"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Baja_Bone_Shaker2._Color_Shifters_2020.jpg/revision/latest/scale-to-width-down/75?cb=20200125185336"
+    }
+}

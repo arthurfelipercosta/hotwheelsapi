@@ -2,12 +2,17 @@
     "series_id": "hw-modified",
     "year": 2023,
     "name": "HW Modified",
-    "total_releases": 6,
+    "total_releases": 11,
     "max_index": 4,
     "releases": [
+        "data/releases/2023/hkh83-1970-pontiac-firebird.json",
         "data/releases/2023/hkh84-2018-bentley-continental-gt3.json",
+        "data/releases/2023/hkh85-lb-super-silhouette-nissan-silvia-s15.json",
         "data/releases/2023/hkh86-nissan-leaf-nismo-rc-02.json",
         "data/releases/2023/hkh87-15-mazda-mx-5-miata.json",
+        "data/releases/2023/hkk47-lb-super-silhouette-nissan-silvia-s15.json",
+        "data/releases/2023/hkk48-1970-pontiac-firebird.json",
+        "data/releases/2023/hkk49-1970-pontiac-firebird.json",
         "data/releases/2023/hkk50-nissan-leaf-nismo-rc-02.json",
         "data/releases/2023/hkl27-15-mazda-mx-5-miata.json",
         "data/releases/2023/hkl45-2018-bentley-continental-gt3.json"

@@ -1,0 +1,33 @@
+{
+    "casting_id": "71-dodge-charger",
+    "name": "'71 Dodge Charger",
+    "description": {
+        "en-us": "'71 Dodge Charger Debut series 2010 New Models Produced 2010 -Present Designer Phil Riehlman Number R0956",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r0956-71-dodge-charger.json",
+        "data/releases/2010/r0956-71-dodge-charger-v2.json",
+        "data/releases/2010/r0956-71-dodge-charger-v3.json",
+        "data/releases/2010/r0956-71-dodge-charger-v4.json",
+        "data/releases/2010/r0956-71-dodge-charger-v5.json",
+        "data/releases/2010/r0956-71-dodge-charger-v6.json",
+        "data/releases/2011/t9815-71-dodge-charger.json",
+        "data/releases/2011/t9815-71-dodge-charger-v2.json",
+        "data/releases/2011/t9986-71-dodge-charger.json",
+        "data/releases/2011/v0054-71-dodge-charger.json",
+        "data/releases/2012/v5388-71-dodge-charger.json",
+        "data/releases/2014/bdk86-71-dodge-charger.json",
+        "data/releases/2015/x8699-71-dodge-charger.json",
+        "data/releases/2015/x6999-71-dodge-charger.json",
+        "data/releases/2015/x6999-71-dodge-charger-v2.json",
+        "data/releases/2020/ghd64-71-dodge-charger.json",
+        "data/releases/2022/hcw33-71-dodge-charger.json",
+        "data/releases/2022/hcy31-71-dodge-charger.json",
+        "data/releases/2022/hcx14-71-dodge-charger.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Dodge"
+}

@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-flames",
+    "year": 2021,
+    "name": "HW Flames",
+    "total_releases": 7,
+    "max_index": 1,
+    "releases": [
+        "data/releases/2021/grx56-fusionbusta.json",
+        "data/releases/2021/gtb16-mod-rod.json",
+        "data/releases/2021/gtb17-68-mercury-cougar.json",
+        "data/releases/2021/gtb18-bad-bagger.json",
+        "data/releases/2021/gtb19-52-chevy-truck.json",
+        "data/releases/2021/gtc12-mod-rod.json",
+        "data/releases/2021/gtd02-68-mercury-cougar.json"
+    ]
+}

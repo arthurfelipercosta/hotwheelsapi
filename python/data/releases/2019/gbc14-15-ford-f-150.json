@@ -1,0 +1,24 @@
+{
+    "release_id": "gbc14-15-ford-f-150-2019",
+    "toy_number": "GBC14",
+    "casting_id": "15-ford-f-150",
+    "year": 2019,
+    "series_id": "american-pickup",
+    "series_index": 4,
+    "specs": {
+        "color": "Black",
+        "tampo": "Silver & Red Stripes on side and hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Red Rim Black OR6SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/15_F150_Black_19.jpg/revision/latest/scale-to-width-down/75?cb=20190126044140"
+    }
+}

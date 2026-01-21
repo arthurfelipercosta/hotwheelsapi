@@ -1,0 +1,20 @@
+{
+    "casting_id": "tread-air",
+    "name": "Tread Air",
+    "description": {
+        "en-us": "Tread Air Debut series 2009 New Models Produced 2009 - 2015 Designer Mark Jones Number N4035",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2009/n4035-tread-air.json",
+        "data/releases/2011/t9902-tread-air.json",
+        "data/releases/2012/v5542-tread-air.json",
+        "data/releases/2013/x9857-tread-air.json",
+        "data/releases/2014/bfb32-tread-air.json",
+        "data/releases/2015/cfk55-tread-air.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2009,
+    "manufacturer": "Mattel"
+}

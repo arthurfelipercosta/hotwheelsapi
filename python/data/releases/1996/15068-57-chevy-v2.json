@@ -1,0 +1,30 @@
+{
+    "release_id": "15068-57-chevy-1996",
+    "toy_number": "15068",
+    "casting_id": "57-chevy",
+    "year": 1996,
+    "series_id": "50-s-favorites-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black & gray side molding, Hot Wheels logo on passenger side",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Brown tint",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "Grey",
+            "2": "Plastic",
+            "3": "SB",
+            "4": "Chrome",
+            "5": "Plastic",
+            "6": "3SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/57_Chevy_Yel5spCrm.JPG/revision/latest/scale-to-width-down/75?cb=20090309025009"
+    }
+}

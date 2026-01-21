@@ -1,0 +1,24 @@
+{
+    "release_id": "k7570-chrysler-300c-hemi-2007",
+    "toy_number": "K7570",
+    "casting_id": "chrysler-300c-hemi",
+    "year": 2007,
+    "series_id": "gold-rides",
+    "series_index": 1,
+    "specs": {
+        "color": "Chrome Gold",
+        "tampo": "Detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome Gold BLING"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Plastic Body Named Chrysler 300C",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/Chrysler300chemi.jpg/revision/latest/scale-to-width-down/75?cb=20090615201502"
+    }
+}

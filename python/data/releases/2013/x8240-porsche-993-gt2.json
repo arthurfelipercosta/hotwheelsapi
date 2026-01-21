@@ -1,0 +1,24 @@
+{
+    "release_id": "x8240-porsche-993-gt2-2013",
+    "toy_number": "X8240",
+    "casting_id": "porsche-993-gt2",
+    "year": 2013,
+    "series_id": "hot-wheels-boulevard",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Porsche emblem on hood, detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome & Gold RR10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F13, F14, F15",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/Gt2boulevard.jpg/revision/latest/scale-to-width-down/75?cb=20171113095533"
+    }
+}

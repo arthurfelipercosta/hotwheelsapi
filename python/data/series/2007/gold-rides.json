@@ -2,9 +2,11 @@
     "series_id": "gold-rides",
     "year": 2007,
     "name": "Gold Rides",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 3,
     "releases": [
+        "data/releases/2007/k7570-chrysler-300c-hemi.json",
+        "data/releases/2007/k7571-07-cadillac-escalade.json",
         "data/releases/2007/k7572-humvee.json"
     ]
 }

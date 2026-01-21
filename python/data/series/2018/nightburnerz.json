@@ -2,11 +2,31 @@
     "series_id": "nightburnerz",
     "year": 2018,
     "name": "Nightburnerz",
-    "total_releases": 3,
+    "total_releases": 23,
     "max_index": 9,
     "releases": [
+        "data/releases/2018/fjv41-71-porsche-911.json",
+        "data/releases/2018/fjv41-71-porsche-911.json",
+        "data/releases/2018/fjx64-custom-datsun-240z.json",
+        "data/releases/2018/fjx65-porsche-934-5.json",
         "data/releases/2018/fjx66-15-mazda-mx-5-miata.json",
+        "data/releases/2018/fjx67-95-mazda-rx-7.json",
+        "data/releases/2018/fjx68-15-mercedes-amg-gt.json",
+        "data/releases/2018/fjx68-15-mercedes-amg-gt.json",
+        "data/releases/2018/fjx69-custom-01-acura-integra-gsr.json",
+        "data/releases/2018/fjx70-96-nissan-180sx-type-x.json",
+        "data/releases/2018/fjx71-mini-cooper.json",
         "data/releases/2018/fjx72-68-corvette-gas-monkey-garage.json",
-        "data/releases/2018/fjy96-15-mazda-mx-5-miata.json"
+        "data/releases/2018/fjy95-custom-datsun-240z.json",
+        "data/releases/2018/fjy96-15-mazda-mx-5-miata.json",
+        "data/releases/2018/fjy97-95-mazda-rx-7.json",
+        "data/releases/2018/fjy98-15-mercedes-amg-gt.json",
+        "data/releases/2018/fjy99-custom-01-acura-integra-gsr.json",
+        "data/releases/2018/fkb00-96-nissan-180sx-type-x.json",
+        "data/releases/2018/fkb01-mini-cooper.json",
+        "data/releases/2018/fkb02-71-porsche-911.json",
+        "data/releases/2018/fkb47-porsche-934-5.json",
+        "data/releases/2018/fkb79-porsche-934-5.json",
+        "data/releases/2018/fkb89-custom-datsun-240z.json"
     ]
 }

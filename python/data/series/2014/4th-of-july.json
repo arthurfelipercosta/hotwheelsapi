@@ -2,9 +2,12 @@
     "series_id": "4th-of-july",
     "year": 2014,
     "name": "4th of July",
-    "total_releases": 1,
+    "total_releases": 4,
     "max_index": 3,
     "releases": [
-        "data/releases/2014/bdl65-73-pontiac-firebird.json"
+        "data/releases/2014/bdl63-nissan-350z.json",
+        "data/releases/2014/bdl64-81-camaro.json",
+        "data/releases/2014/bdl65-73-pontiac-firebird.json",
+        "data/releases/2014/bdl66-corvette-c6-convertible.json"
     ]
 }

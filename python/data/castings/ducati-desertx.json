@@ -1,0 +1,16 @@
+{
+    "casting_id": "ducati-desertx",
+    "name": "Ducati DesertX",
+    "description": {
+        "en-us": "Ducati DesertX Debut series HW Moto Produced 2023 – Present Designer Sonny Fisher Number HKG32",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg32-ducati-desertx.json",
+        "data/releases/2024/htb26-ducati-desertx.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Ducati"
+}

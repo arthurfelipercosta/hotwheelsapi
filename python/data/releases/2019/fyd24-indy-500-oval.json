@@ -1,0 +1,24 @@
+{
+    "release_id": "fyd24-indy-500-oval-2019",
+    "toy_number": "FYD24",
+    "casting_id": "indy-500-oval",
+    "year": 2019,
+    "series_id": "hw-race-day",
+    "series_index": 7,
+    "specs": {
+        "color": "Green",
+        "tampo": "Orange, Yellow & White stripes with HW logo on sides. Sponsors & '5' on top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "Chrome Red rim MC5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): L43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/Indy_500_Oval_Green_19.jpg/revision/latest/scale-to-width-down/75?cb=20190111073937"
+    }
+}

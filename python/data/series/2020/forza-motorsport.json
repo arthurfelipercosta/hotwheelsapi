@@ -2,10 +2,13 @@
     "series_id": "forza-motorsport",
     "year": 2020,
     "name": "Forza Motorsport",
-    "total_releases": 2,
+    "total_releases": 5,
     "max_index": 3,
     "releases": [
         "data/releases/2020/gjv67-15-land-rover-defender-double-cab.json",
-        "data/releases/2020/gjv69-17-audi-rs6-avant.json"
+        "data/releases/2020/gjv68-17-acura-nsx.json",
+        "data/releases/2020/gjv69-17-audi-rs6-avant.json",
+        "data/releases/2020/gjv70-ford-shelby-gt350r.json",
+        "data/releases/2020/gjv71-porsche-934-turbo-rsr.json"
     ]
 }

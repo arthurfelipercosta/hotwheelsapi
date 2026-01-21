@@ -1,0 +1,30 @@
+{
+    "release_id": "t9691-69-shelby-gt500-2011",
+    "toy_number": "T9691",
+    "casting_id": "69-shelby-gt500",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 21,
+    "specs": {
+        "color": "Red",
+        "tampo": "Yellow stripes, \"GT 500\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5",
+            "1": "Yellow stripes",
+            "2": "\"GT 500\"",
+            "3": "Detailed rear lights",
+            "4": "5SP",
+            "5": "Base Code: D05",
+            "6": "D07"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base Code(s): D05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/69ShelbyGT500_Red.JPG/revision/latest/scale-to-width-down/75?cb=20110313223349"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "gmh40-nissan-fairlady-z-2020",
+    "toy_number": "GMH40",
+    "casting_id": "nissan-fairlady-z",
+    "year": 2020,
+    "series_id": "nissan-collector-set",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Red hood & red stripes on top & both sides, \"Z\" logo on hood & both sides, Fairlady Z on the back, detailed taillights",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White RR6SPM"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): M43, M46, M50,",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/2020NissanSetfairlady.jpg/revision/latest/scale-to-width-down/75?cb=20240603033956"
+    }
+}

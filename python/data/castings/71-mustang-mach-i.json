@@ -1,0 +1,37 @@
+{
+    "casting_id": "71-mustang-mach-i",
+    "name": "'71 Mustang Mach I",
+    "description": {
+        "en-us": "'71 Mustang Mach I Debut series Hot Wheels Garage Produced 2010 - Present Designer Larry Wood Number T0398",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2010/r1788-71-mustang-mach-i-v3.json",
+        "data/releases/2010/t0398-71-mustang-mach-i-v7.json",
+        "data/releases/2010/t0398-71-mustang-mach-i-v8.json",
+        "data/releases/2010/t0398-71-mustang-mach-i-v9.json",
+        "data/releases/2011/t9797-71-mustang-mach-i-v5.json",
+        "data/releases/2011/t9797-71-mustang-mach-i-v6.json",
+        "data/releases/2011/w1571-71-mustang-mach-i-v5.json",
+        "data/releases/2011/w1571-71-mustang-mach-i-v6.json",
+        "data/releases/2012/w3804-71-mustang-mach-i-v3.json",
+        "data/releases/2013/x1802-71-mustang-mach-i-v3.json",
+        "data/releases/2014/bfd84-71-mustang-mach-i-v3.json",
+        "data/releases/2014/bff33-71-mustang-mach-i-v3.json",
+        "data/releases/2014/bdl74-71-mustang-mach-i-v3.json",
+        "data/releases/2014/bdv01-71-mustang-mach-i-v3.json",
+        "data/releases/2015/cgb73-71-mustang-mach-i-v3.json",
+        "data/releases/2016/djk92-71-mustang-mach-i-v3.json",
+        "data/releases/2018/frf42-71-mustang-mach-i-v3.json",
+        "data/releases/2018/fwn23-71-mustang-mach-i-v3.json",
+        "data/releases/2019/fyc92-71-mustang-mach-i-v3.json",
+        "data/releases/2021/grt30-71-mustang-mach-i-v3.json",
+        "data/releases/2022/hfv92-71-mustang-mach-i-v3.json",
+        "data/releases/2022/hcr21-71-mustang-mach-i-v3.json",
+        "data/releases/2025/jby52-71-mustang-mach-i-v3.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2010,
+    "manufacturer": "Mattel"
+}

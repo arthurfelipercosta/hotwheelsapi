@@ -2,9 +2,11 @@
     "series_id": "hippie-mobiles",
     "year": 2001,
     "name": "Hippie Mobiles",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 1,
     "releases": [
-        "data/releases/2001/50127-67-mustang.json"
+        "data/releases/2001/50127-67-mustang.json",
+        "data/releases/2001/50129-64-lincoln-continental.json",
+        "data/releases/2001/50130-67-pontiac-gto.json"
     ]
 }

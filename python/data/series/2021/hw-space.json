@@ -1,0 +1,16 @@
+{
+    "series_id": "hw-space",
+    "year": 2021,
+    "name": "HW Space",
+    "total_releases": 7,
+    "max_index": 2,
+    "releases": [
+        "data/releases/2021/gry73-mars-rover-curiosity.json",
+        "data/releases/2021/gry74-airuption.json",
+        "data/releases/2021/gry75-bot-wheels.json",
+        "data/releases/2021/gry76-super-van.json",
+        "data/releases/2021/gtc01-airuption.json",
+        "data/releases/2021/gtc02-bot-wheels.json",
+        "data/releases/2021/gtc91-ollie-rocket.json"
+    ]
+}

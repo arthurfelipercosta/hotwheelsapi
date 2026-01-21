@@ -1,0 +1,24 @@
+{
+    "release_id": "hkj44-2008-tesla-roadster-2023",
+    "toy_number": "HKJ44",
+    "casting_id": "2008-tesla-roadster",
+    "year": 2023,
+    "series_id": "then-and-now",
+    "series_index": 6,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Tesla logo, Black stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Black 10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): S19, S22, S23, S24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/2008TeslaRoadster.jpg/revision/latest/scale-to-width-down/75?cb=20230707052227"
+    }
+}

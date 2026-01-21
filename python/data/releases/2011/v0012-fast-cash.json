@@ -1,0 +1,24 @@
+{
+    "release_id": "v0012-fast-cash-2011",
+    "toy_number": "V0012",
+    "casting_id": "fast-cash",
+    "year": 2011,
+    "series_id": "2011-new-models",
+    "series_index": 7,
+    "specs": {
+        "color": "Red",
+        "tampo": "Red flames, Red & White Hot Wheels logo on the spoiler",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome Red OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D17, D20, D23, D24, D28",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/Fast_cash_2011_red.png/revision/latest/scale-to-width-down/75?cb=20110913234500"
+    }
+}

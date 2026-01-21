@@ -1,0 +1,14 @@
+{
+    "series_id": "speed-blur-5-pack",
+    "year": 2021,
+    "name": "Speed Blur 5‑Pack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2021/gtn45-12-ford-fiesta.json",
+        "data/releases/2021/gtn45-13-ford-mustang-gt.json",
+        "data/releases/2021/gtn45-67-jeepster-commando.json",
+        "data/releases/2021/gtn45-dune-crusher.json",
+        "data/releases/2021/gtn45-maximum-leeway.json"
+    ]
+}

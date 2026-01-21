@@ -6,21 +6,21 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2018/fjv97-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2019/fyc57-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2019/fyg47-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2020/ghc37-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2020/ghf49-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2021/grx69-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2021/gtd20-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2021/gtd56-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2022/hct49-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2022/hcw64-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2023/hly74-19-chevy-silverado-trail-boss-lt.json",
-        "data/releases/2025/hyy97-19-chevy-silverado-trail-boss-lt.json"
+        "data/releases/2018/fjv97-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2019/fyc57-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2019/fyg47-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2020/ghc37-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2020/ghf49-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2021/grx69-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2021/gtd20-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2021/gtd56-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2022/hct49-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2022/hcw64-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2023/hly74-19-chevy-silverado-trail-boss-lt-v2.json",
+        "data/releases/2025/hyy97-19-chevy-silverado-trail-boss-lt-v2.json"
     ],
     "specs": {},
     "designer": "Unknown",
     "debut_year": 2018,
-    "manufacturer": "Mattel"
+    "manufacturer": "Chevy"
 }

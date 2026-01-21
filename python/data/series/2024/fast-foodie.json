@@ -2,14 +2,15 @@
     "series_id": "fast-foodie",
     "year": 2024,
     "name": "Fast Foodie",
-    "total_releases": 6,
-    "max_index": 5,
+    "total_releases": 7,
+    "max_index": 1,
     "releases": [
         "data/releases/2024/hry88-sushi-tuner.json",
         "data/releases/2024/htb46-donut-drifter.json",
         "data/releases/2024/htb47-dessert-drifter.json",
         "data/releases/2024/htb48-good-humor-truck.json",
         "data/releases/2024/htd70-donut-drifter.json",
-        "data/releases/2024/htd87-dessert-drifter.json"
+        "data/releases/2024/htd87-dessert-drifter.json",
+        "data/releases/2024/htf25-car-de-asada.json"
     ]
 }

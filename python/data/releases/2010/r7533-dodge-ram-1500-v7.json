@@ -1,0 +1,28 @@
+{
+    "release_id": "r7533-dodge-ram-1500-2010",
+    "toy_number": "R7533",
+    "casting_id": "dodge-ram-1500",
+    "year": 2010,
+    "series_id": "hw-performance",
+    "series_index": 10,
+    "specs": {
+        "color": "Metallic Dark Red",
+        "tampo": "Black, Silver & White Graphics. \"SUPERLIFT SUSPENSION SYSTEMS\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Dark Chrome",
+        "wheel_type": {
+            "0": "OR5SP",
+            "1": "116",
+            "2": "214",
+            "3": "2010",
+            "4": "International card Base code(s):"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/DodgeRam15004x4_performance_red.JPG/revision/latest/scale-to-width-down/75?cb=20100511091215"
+    }
+}

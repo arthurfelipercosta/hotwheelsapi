@@ -2,12 +2,15 @@
     "series_id": "trea-ure-hunt",
     "year": 2011,
     "name": "Trea$ure Hunt$",
-    "total_releases": 5,
+    "total_releases": 8,
     "max_index": 12,
     "releases": [
+        "data/releases/2011/t9737-57-chevy.json",
         "data/releases/2011/t9738-58-impala.json",
+        "data/releases/2011/t9739-custom-62-chevy.json",
         "data/releases/2011/t9744-corvette-grand-sport.json",
         "data/releases/2011/t9745-71-mustang-funny-car.json",
+        "data/releases/2011/t9746-1971-buick-riviera.json",
         "data/releases/2011/t9747-datsun-240z.json",
         "data/releases/2011/t9748-80-el-camino.json"
     ]

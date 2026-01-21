@@ -1,0 +1,24 @@
+{
+    "release_id": "dhr93-chevy-silverado-2016",
+    "toy_number": "DHR93",
+    "casting_id": "chevy-silverado",
+    "year": 2016,
+    "series_id": "hw-art-cars",
+    "series_index": 10,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "Yellow, White & Black \"ARTCARS\" text on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Light Green)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Multicolor OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Retooled (front & rear bumper are part of the interior) No two wheel designs are alike Base code(s): J11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/135c.jpg/revision/latest/scale-to-width-down/75?cb=20170107203249"
+    }
+}

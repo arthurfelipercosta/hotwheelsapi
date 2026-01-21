@@ -1,0 +1,24 @@
+{
+    "release_id": "r4221-custom-41-willys-coupe-2009",
+    "toy_number": "R4221",
+    "casting_id": "custom-41-willys-coupe",
+    "year": 2009,
+    "series_id": "holiday-rods",
+    "series_index": 4,
+    "specs": {
+        "color": "Pearl Light Blue & Pearl White",
+        "tampo": "Gold pinstripe on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White Line RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): B37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/41willys_holiday_blue.JPG/revision/latest/scale-to-width-down/75?cb=20091125103904"
+    }
+}

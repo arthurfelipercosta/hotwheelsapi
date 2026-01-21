@@ -2,9 +2,19 @@
     "series_id": "slick-rides",
     "year": 2010,
     "name": "Slick Rides",
-    "total_releases": 1,
+    "total_releases": 11,
     "max_index": 8,
     "releases": [
-        "data/releases/2010/r3734-83-chevy-silverado.json"
+        "data/releases/2010/r3731-power-panel.json",
+        "data/releases/2010/r3731-power-panel.json",
+        "data/releases/2010/r3734-83-chevy-silverado.json",
+        "data/releases/2010/r3739-combat-medic.json",
+        "data/releases/2010/r3739-combat-medic.json",
+        "data/releases/2010/r3743-56-ford-f-100-truck.json",
+        "data/releases/2010/r3743-56-ford-f-100-truck.json",
+        "data/releases/2010/r3747-custom-69-volkswagen-squareback.json",
+        "data/releases/2010/r3747-custom-69-volkswagen-squareback.json",
+        "data/releases/2010/r5439-72-ford-ranchero.json",
+        "data/releases/2010/r5439-72-ford-ranchero.json"
     ]
 }

@@ -1,0 +1,19 @@
+{
+    "casting_id": "aston-martin-valhalla-concept",
+    "name": "Aston Martin Valhalla Concept",
+    "description": {
+        "en-us": "Aston Martin Valhalla Concept Debut series Car Culture: Exotic Envy Produced 2021 – Present Designer Mark Jones Number GRJ75",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2021/grj75-aston-martin-valhalla-concept.json",
+        "data/releases/2021/grl79-aston-martin-valhalla-concept.json",
+        "data/releases/2022/hcv69-aston-martin-valhalla-concept.json",
+        "data/releases/2024/hww84-aston-martin-valhalla-concept.json",
+        "data/releases/2025/jcl22-aston-martin-valhalla-concept.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2021,
+    "manufacturer": "Aston Martin"
+}

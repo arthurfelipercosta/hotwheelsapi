@@ -1,0 +1,28 @@
+{
+    "release_id": "n4034-66-ford-427-fairlane-2009",
+    "toy_number": "N4034",
+    "casting_id": "66-ford-427-fairlane",
+    "year": 2009,
+    "series_id": "2009-new-models",
+    "series_index": 31,
+    "specs": {
+        "color": "Metalflake Teal",
+        "tampo": "White Stripe, R\"Fairlane\" & GT logos, BLACK 427 IN SILVER BOX",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "5SP",
+            "1": "White Stripe",
+            "2": "\"Fairlane\" & GT logos",
+            "3": "BLACK BOX WITH SILVER CUTOUT 427",
+            "4": "Base code(s):"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/Ford_Fairlane_GT_-_09NM.jpg/revision/latest/scale-to-width-down/75?cb=20090813004808"
+    }
+}

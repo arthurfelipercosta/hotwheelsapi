@@ -1,0 +1,29 @@
+{
+    "casting_id": "cadillac-sixteen",
+    "name": "Cadillac Sixteen",
+    "description": {
+        "en-us": "Cadillac Sixteen Debut series 2004 First Editions Produced 2004 - 2013 Designer Phil Riehlman Number C2725",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2004/c2725-cadillac-sixteen.json",
+        "data/releases/2004/c2725-cadillac-sixteen-v2.json",
+        "data/releases/2004/c2725-cadillac-sixteen-v3.json",
+        "data/releases/2005/g6843-cadillac-sixteen.json",
+        "data/releases/2006/j3400-cadillac-sixteen.json",
+        "data/releases/2007/k7622-cadillac-sixteen.json",
+        "data/releases/2007/k7622s-cadillac-sixteen.json",
+        "data/releases/2008/m6987-cadillac-sixteen.json",
+        "data/releases/2008/m6987-cadillac-sixteen-v2.json",
+        "data/releases/2009/n8542-cadillac-sixteen.json",
+        "data/releases/2009/p0277-cadillac-sixteen.json",
+        "data/releases/2010/r0966-cadillac-sixteen.json",
+        "data/releases/2011/v2053-cadillac-sixteen.json",
+        "data/releases/2013/x1662-cadillac-sixteen.json",
+        "data/releases/2013/x1980-cadillac-sixteen.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2004,
+    "manufacturer": "Cadillac"
+}

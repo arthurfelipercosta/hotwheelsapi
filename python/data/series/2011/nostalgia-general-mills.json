@@ -2,9 +2,11 @@
     "series_id": "nostalgia-general-mills",
     "year": 2011,
     "name": "Nostalgia: General Mills",
-    "total_releases": 1,
+    "total_releases": 3,
     "max_index": 0,
     "releases": [
-        "data/releases/2011/v6847-70-chevelle-ss-wagon.json"
+        "data/releases/2011/v2188-custom-77-dodge-van.json",
+        "data/releases/2011/v6847-70-chevelle-ss-wagon.json",
+        "data/releases/2011/v6854-super-van.json"
     ]
 }

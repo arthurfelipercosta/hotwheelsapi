@@ -1,0 +1,36 @@
+{
+    "casting_id": "nissan-350z",
+    "name": "Nissan 350Z",
+    "description": {
+        "en-us": "Nissan 350Z Debut series 2006 First Editions Produced 2006 – Present Designer Alec Tam Number J3260",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2006/j3260-nissan-350z.json",
+        "data/releases/2006/j3260-nissan-350z-v2.json",
+        "data/releases/2006/j3260-nissan-350z-v3.json",
+        "data/releases/2006/j3260-nissan-350z-v4.json",
+        "data/releases/2006/j3260-nissan-350z-v5.json",
+        "data/releases/2006/j3260-nissan-350z-v6.json",
+        "data/releases/2006/j3260-nissan-350z-v7.json",
+        "data/releases/2007/k7627-nissan-350z.json",
+        "data/releases/2007/k7627-nissan-350z-v2.json",
+        "data/releases/2007/k7627-nissan-350z-v3.json",
+        "data/releases/2007/k7627-nissan-350z-v4.json",
+        "data/releases/2008/l9964-nissan-350z.json",
+        "data/releases/2010/r7487-nissan-350z.json",
+        "data/releases/2011/t9819-nissan-350z.json",
+        "data/releases/2011/t9950-nissan-350z.json",
+        "data/releases/2012/v5461-nissan-350z.json",
+        "data/releases/2013/x1681-nissan-350z.json",
+        "data/releases/2014/bdl63-nissan-350z.json",
+        "data/releases/2015/cjl34-nissan-350z.json",
+        "data/releases/2018/fkt55-nissan-350z.json",
+        "data/releases/2021/gtn40-nissan-350z.json",
+        "data/releases/2024/hrw74-nissan-350z.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2006,
+    "manufacturer": "Nissan"
+}

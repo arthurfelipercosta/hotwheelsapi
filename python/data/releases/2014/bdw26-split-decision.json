@@ -1,0 +1,25 @@
+{
+    "release_id": "bdw26-split-decision-2014",
+    "toy_number": "BDW26",
+    "casting_id": "split-decision",
+    "year": 2014,
+    "series_id": "high-speed-racing-wheels",
+    "series_index": 3,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Blue and Orange Stripe and Bule number \"28\", Black helmet tampo and \"Hot Wheels\" Logo",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Orange",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "HSRW (Front: Translucent Aqua with Orange number \"28\" tampo; Back: Translucent Orange with Black helmet tampo.)",
+            "1": "Silver"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F48, G22",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/SplitDecisionHSW.jpg/revision/latest/scale-to-width-down/75?cb=20250114123140"
+    }
+}

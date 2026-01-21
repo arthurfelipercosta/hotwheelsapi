@@ -1,0 +1,25 @@
+{
+    "casting_id": "batman-the-animated-series-batmobile",
+    "name": "Batman: The Animated Series Batmobile",
+    "description": {
+        "en-us": "Batman: The Animated Series Batmobile Debut series Batman Produced 2018 - Present Designer Manson Cheung Number FJV62",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2018/fjv62-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2018/fjy87-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2019/fyf90-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2021/grp63-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2022/hdh06-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2023/hlk56-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2023/hkh00-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2023/hkj76-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2024/htb23-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2024/jbx17-batman-the-animated-series-batmobile-v2.json",
+        "data/releases/2026/jhw88-batman-the-animated-series-batmobile-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2018,
+    "manufacturer": "Mattel"
+}

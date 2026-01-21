@@ -2,18 +2,30 @@
     "series_id": "hw-hot-trucks",
     "year": 2018,
     "name": "HW Hot Trucks",
-    "total_releases": 10,
+    "total_releases": 22,
     "max_index": 1,
     "releases": [
         "data/releases/2018/fjv45-15-land-rover-defender-double-cab.json",
+        "data/releases/2018/fjv47-17-jeep-wrangler.json",
+        "data/releases/2018/fjv65-87-dodge-d100.json",
         "data/releases/2018/fjv97-19-chevy-silverado-trail-boss-lt.json",
         "data/releases/2018/fjw54-mazda-repu.json",
         "data/releases/2018/fjw54-mazda-repu.json",
+        "data/releases/2018/fjw55-solid-muscle.json",
+        "data/releases/2018/fjw56-volkswagen-t2-pickup.json",
+        "data/releases/2018/fjw57-datsun-620.json",
+        "data/releases/2018/fjw58-dodge-ram-1500.json",
         "data/releases/2018/fjw59-17-ford-f-150-raptor.json",
         "data/releases/2018/fjy48-mazda-repu.json",
+        "data/releases/2018/fjy50-volkswagen-t2-pickup.json",
+        "data/releases/2018/fjy52-dodge-ram-1500.json",
         "data/releases/2018/fjy53-17-ford-f-150-raptor.json",
         "data/releases/2018/fjy54-17-ford-f-150-raptor.json",
         "data/releases/2018/fjy55-15-land-rover-defender-double-cab.json",
-        "data/releases/2018/fjy55-15-land-rover-defender-double-cab.json"
+        "data/releases/2018/fjy55-15-land-rover-defender-double-cab.json",
+        "data/releases/2018/fjy56-17-jeep-wrangler.json",
+        "data/releases/2018/fkb40-datsun-620.json",
+        "data/releases/2018/fkb76-solid-muscle.json",
+        "data/releases/2018/fkb78-datsun-620.json"
     ]
 }

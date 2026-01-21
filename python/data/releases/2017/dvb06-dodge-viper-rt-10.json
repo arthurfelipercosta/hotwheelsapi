@@ -1,0 +1,24 @@
+{
+    "release_id": "dvb06-dodge-viper-rt-10-2017",
+    "toy_number": "DVB06",
+    "casting_id": "dodge-viper-rt-10",
+    "year": 2017,
+    "series_id": "then-and-now",
+    "series_index": 9,
+    "specs": {
+        "color": "",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated tooling Base code(s): K16, K20, K21",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/Dodge-viper-rt10-17-thennow-ylw-1kpxotd.png/revision/latest/scale-to-width-down/75?cb=20171018160915"
+    }
+}

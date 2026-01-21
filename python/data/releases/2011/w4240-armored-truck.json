@@ -1,0 +1,25 @@
+{
+    "release_id": "w4240-armored-truck-2011",
+    "toy_number": "W4240",
+    "casting_id": "armored-truck",
+    "year": 2011,
+    "series_id": "batman-5-pack",
+    "series_index": null,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "Blue stripes, \"Gotham City Savings & Loan\" \"Armored Transport\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black OH5"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Updated tooling Base code(s): E11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/2011-ArmoredTruck-Gotham-Chrome.jpg/revision/latest/scale-to-width-down/75?cb=20120312082232"
+    }
+}

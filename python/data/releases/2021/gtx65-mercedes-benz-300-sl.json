@@ -1,0 +1,25 @@
+{
+    "release_id": "gtx65-mercedes-benz-300-sl-2021",
+    "toy_number": "GTX65",
+    "casting_id": "mercedes-benz-300-sl",
+    "year": 2021,
+    "series_id": "iwc-special-edition",
+    "series_index": null,
+    "specs": {
+        "color": "ZAMAC",
+        "tampo": "Black hood & stripes, #IWC RACING, white circle with \"68\" on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim",
+            "1": "Black RRSteelie"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Distributed through various sweepstakes and events Base code(s): N20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/IWC_x_HW_300SL_Zamac.jpg/revision/latest/scale-to-width-down/75?cb=20211029002418"
+    }
+}

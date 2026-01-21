@@ -1,0 +1,13 @@
+{
+    "series_id": "color-shifters",
+    "year": 2017,
+    "name": "Color Shifters",
+    "total_releases": 4,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2017/bhr19-super-stinger.json",
+        "data/releases/2017/cfm30-nitro-doorslammer.json",
+        "data/releases/2017/cfm38-lamborghini-gallardo-lp-570-4-superleggera.json",
+        "data/releases/2017/dxb08-67-camaro.json"
+    ]
+}

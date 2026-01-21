@@ -1,0 +1,24 @@
+{
+    "release_id": "hlk13-dodge-challenger-drift-car-2023",
+    "toy_number": "HLK13",
+    "casting_id": "dodge-challenger-drift-car",
+    "year": 2023,
+    "series_id": "mopar",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Navy Blue",
+        "tampo": "Red, white and blue accents, large Mopar badging on sides, \"CHALLENGER\" on rear quarterpanel",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Blue",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "White Rim PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R36, R37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/DodgeChallengerDC.JPG/revision/latest/scale-to-width-down/75?cb=20230314133412"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "casting_id": "nissan-patrol-custom",
+    "name": "Nissan Patrol Custom",
+    "description": {
+        "en-us": "Nissan Patrol Custom Debut series HW J-Imports Produced 2023 – Present Designer Dmitriy Shakhmatov Number HKG23",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2023/hkg23-nissan-patrol-custom.json",
+        "data/releases/2023/hkl46-nissan-patrol-custom.json",
+        "data/releases/2023/hkk61-nissan-patrol-custom.json",
+        "data/releases/2024/htb59-nissan-patrol-custom.json",
+        "data/releases/2024/htc89-nissan-patrol-custom.json",
+        "data/releases/2025/jdm28-nissan-patrol-custom.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2023,
+    "manufacturer": "Nissan"
+}

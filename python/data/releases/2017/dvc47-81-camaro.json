@@ -1,0 +1,24 @@
+{
+    "release_id": "dvc47-81-camaro-2017",
+    "toy_number": "DVC47",
+    "casting_id": "81-camaro",
+    "year": 2017,
+    "series_id": "camaro-fifty",
+    "series_index": 4,
+    "specs": {
+        "color": "Orange",
+        "tampo": "Black & Yellow stripes on sides & top",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Yellow & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): K27, K36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/DVC47C.JPG/revision/latest/scale-to-width-down/75?cb=20171208195847"
+    }
+}

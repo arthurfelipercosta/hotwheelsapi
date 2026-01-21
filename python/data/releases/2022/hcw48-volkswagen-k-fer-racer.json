@@ -1,0 +1,24 @@
+{
+    "release_id": "hcw48-volkswagen-k-fer-racer-2022",
+    "toy_number": "HCW48",
+    "casting_id": "volkswagen-k-fer-racer",
+    "year": 2022,
+    "series_id": "hw-contoured",
+    "series_index": 5,
+    "specs": {
+        "color": "Deep Red",
+        "tampo": "White lines, Volkswagen logo, \"44\" on sides, checkered flag design",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold RSW"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R04, R05, R06, R07, R08",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/HCW48-VW.jpg/revision/latest/scale-to-width-down/75?cb=20220507193432"
+    }
+}

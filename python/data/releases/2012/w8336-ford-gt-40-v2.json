@@ -1,0 +1,24 @@
+{
+    "release_id": "w8336-ford-gt-40-2012",
+    "toy_number": "W8336",
+    "casting_id": "ford-gt-40",
+    "year": 2012,
+    "series_id": "hot-wheels-racing-road-racer",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Midnight Blue",
+        "tampo": "Gold stripes on top and sides, headlights, '12' and Sponsors logos",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Goodyear Gold RR8SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/Ford_GT40_%28road_racers%29.jpg/revision/latest/scale-to-width-down/75?cb=20121217060442"
+    }
+}

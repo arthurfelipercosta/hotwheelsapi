@@ -1,0 +1,24 @@
+{
+    "release_id": "djl10-hw-pursuit-2016",
+    "toy_number": "DJL10",
+    "casting_id": "hw-pursuit",
+    "year": 2016,
+    "series_id": "star-wars-planets",
+    "series_index": 7,
+    "specs": {
+        "color": "Dark Green",
+        "tampo": "Endor scene on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "Chrome Green OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J22, J26",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/HWPursuitStarWars.jpg/revision/latest/scale-to-width-down/75?cb=20170221034028"
+    }
+}

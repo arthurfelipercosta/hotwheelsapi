@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-art-cars",
+    "year": 2015,
+    "name": "HW Art Cars",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2015/cfh50-hiway-hauler-2.json",
+        "data/releases/2015/cfj58-hiway-hauler-2.json"
+    ]
+}

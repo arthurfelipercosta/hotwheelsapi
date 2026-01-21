@@ -1,0 +1,24 @@
+{
+    "release_id": "fyc10-2016-bmw-m2-2019",
+    "toy_number": "FYC10",
+    "casting_id": "2016-bmw-m2",
+    "year": 2019,
+    "series_id": "factory-fresh",
+    "series_index": 1,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue, Light blue & Red stripes on sides, BMW emblem on hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M12, M13, M14, M15, M16, M18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/2016_BMW_M2._2019_Factory_Fresh_1-10.jpg/revision/latest/scale-to-width-down/75?cb=20190623215326"
+    }
+}

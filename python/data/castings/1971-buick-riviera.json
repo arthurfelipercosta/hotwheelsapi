@@ -1,0 +1,30 @@
+{
+    "casting_id": "1971-buick-riviera",
+    "name": "1971 Buick Riviera",
+    "description": {
+        "en-us": "1971 Buick Riviera Debut series 2005 First Editions: Realistix Produced 2005 - 2017 Designer Dave Weise Number G6706",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2005/g6706-1971-buick-riviera.json",
+        "data/releases/2005/g6706-1971-buick-riviera-v2.json",
+        "data/releases/2006/k4769-1971-buick-riviera.json",
+        "data/releases/2006/l5864-1971-buick-riviera.json",
+        "data/releases/2007/l4692-1971-buick-riviera.json",
+        "data/releases/2009/54866-1971-buick-riviera.json",
+        "data/releases/2011/t9731-1971-buick-riviera.json",
+        "data/releases/2011/t9746-1971-buick-riviera.json",
+        "data/releases/2015/cfh44-1971-buick-riviera.json",
+        "data/releases/2015/cfl49-1971-buick-riviera.json",
+        "data/releases/2015/dhy03-1971-buick-riviera.json",
+        "data/releases/2017/x6999-1971-buick-riviera.json",
+        "data/releases/2017/dwc52-1971-buick-riviera.json",
+        "data/releases/2006/j3428-1971-buick-riviera.json",
+        "data/releases/2012/v5520-1971-buick-riviera.json",
+        "data/releases/2012/v5579-1971-buick-riviera.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2005,
+    "manufacturer": "Buick"
+}

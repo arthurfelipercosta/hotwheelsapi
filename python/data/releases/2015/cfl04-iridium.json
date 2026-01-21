@@ -1,0 +1,25 @@
+{
+    "release_id": "cfl04-iridium-2015",
+    "toy_number": "CFL04",
+    "casting_id": "iridium",
+    "year": 2015,
+    "series_id": "hw-race-super-chromes",
+    "series_index": null,
+    "specs": {
+        "color": "Chrome",
+        "tampo": "Red, Black & Yellow stripes on sides, Black '77' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Yellow Tire",
+            "1": "Red OH5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Updated Tooling Base code(s): H20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/IridiumCFL04.jpg/revision/latest/scale-to-width-down/75?cb=20160910161620"
+    }
+}

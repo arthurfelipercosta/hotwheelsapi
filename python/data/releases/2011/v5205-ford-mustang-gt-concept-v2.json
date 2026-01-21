@@ -1,0 +1,24 @@
+{
+    "release_id": "v5205-ford-mustang-gt-concept-2011",
+    "toy_number": "V5205",
+    "casting_id": "ford-mustang-gt-concept",
+    "year": 2011,
+    "series_id": "hw-main-street",
+    "series_index": 2,
+    "specs": {
+        "color": "Gray",
+        "tampo": "White and Red stripes, Gold \"Grandview Fire Dept\"",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D24, D37",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/Ford_Mustang_GT_Concept.jpg/revision/latest/scale-to-width-down/75?cb=20241116144307"
+    }
+}

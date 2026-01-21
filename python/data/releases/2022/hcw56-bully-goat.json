@@ -1,0 +1,25 @@
+{
+    "release_id": "hcw56-bully-goat-2022",
+    "toy_number": "HCW56",
+    "casting_id": "bully-goat",
+    "year": 2022,
+    "series_id": "hw-art-cars",
+    "series_index": 1,
+    "specs": {
+        "color": "Purple",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Grey Tire",
+            "1": "Cyan TRAP5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): P30, P43, P52",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/2022_Bully_Goat_Art_Car.jpg/revision/latest/scale-to-width-down/75?cb=20220206200526"
+    }
+}

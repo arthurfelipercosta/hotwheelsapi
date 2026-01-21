@@ -1,0 +1,24 @@
+{
+    "release_id": "dty91-67-pontiac-gto-2017",
+    "toy_number": "DTY91",
+    "casting_id": "67-pontiac-gto",
+    "year": 2017,
+    "series_id": "muscle-mania",
+    "series_index": 8,
+    "specs": {
+        "color": "Black",
+        "tampo": "Yellow stripes on sides & hood",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "Yellow & Black PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J43, J48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/GTO-2017HWMM.jpg/revision/latest/scale-to-width-down/75?cb=20161211170703"
+    }
+}

@@ -2,12 +2,23 @@
     "series_id": "muscle-mania",
     "year": 2021,
     "name": "Muscle Mania",
-    "total_releases": 4,
+    "total_releases": 15,
     "max_index": 4,
     "releases": [
+        "data/releases/2021/gtb40-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2021/gtb41-67-oldsmobile-442.json",
+        "data/releases/2021/gtb42-71-plymouth-road-runner.json",
         "data/releases/2021/gtb43-87-buick-regal-gnx.json",
+        "data/releases/2021/gtb44-amc-rebel-machine.json",
         "data/releases/2021/gtb45-67-ford-mustang-coupe.json",
+        "data/releases/2021/gtb46-hot-bird.json",
+        "data/releases/2021/gtb47-68-plymouth-barracuda-formula-s.json",
+        "data/releases/2021/gtb48-classic-cobra.json",
         "data/releases/2021/gtc15-67-ford-mustang-coupe.json",
+        "data/releases/2021/gtc16-85-chevrolet-camaro-iroc-z.json",
+        "data/releases/2021/gtc98-65-ford-galaxie.json",
+        "data/releases/2021/gtd13-classic-cobra.json",
+        "data/releases/2021/gtd29-amc-rebel-machine.json",
         "data/releases/2021/gtd44-87-buick-regal-gnx.json"
     ]
 }

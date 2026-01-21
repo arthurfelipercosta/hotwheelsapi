@@ -1,0 +1,24 @@
+{
+    "release_id": "hkk13-bmw-i8-roadster-2023",
+    "toy_number": "HKK13",
+    "casting_id": "bmw-i8-roadster",
+    "year": 2023,
+    "series_id": "hw-roadsters",
+    "series_index": 10,
+    "specs": {
+        "color": "Protonic Frozen Black",
+        "tampo": "Detailed taillights, \"i8\", \"eDrive\" on rear",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Smoke tint",
+        "interior_color": "Dark Grey",
+        "wheel_type": {
+            "0": "10SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "New in Mainline Base code(s): S19, S20, S22, S24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/HKK13-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230806094728"
+    }
+}

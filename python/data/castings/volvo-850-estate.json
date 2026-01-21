@@ -1,0 +1,24 @@
+{
+    "casting_id": "volvo-850-estate",
+    "name": "Volvo 850 Estate",
+    "description": {
+        "en-us": "Volvo 850 Estate Debut series HW Race Day Produced 2020 - Present Designer Ryu Asada Number GHB52",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2020/ghb52-volvo-850-estate.json",
+        "data/releases/2020/ghd96-volvo-850-estate.json",
+        "data/releases/2021/gry26-volvo-850-estate.json",
+        "data/releases/2021/gtc62-volvo-850-estate.json",
+        "data/releases/2021/grj67-volvo-850-estate.json",
+        "data/releases/2022/hcv21-volvo-850-estate.json",
+        "data/releases/2022/hcx36-volvo-850-estate.json",
+        "data/releases/2024/hrr86-volvo-850-estate.json",
+        "data/releases/2025/jbk68-volvo-850-estate.json",
+        "data/releases/2026/jkx93-volvo-850-estate.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2020,
+    "manufacturer": "Volvo"
+}

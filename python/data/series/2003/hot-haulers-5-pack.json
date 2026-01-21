@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-haulers-5-pack",
+    "year": 2003,
+    "name": "Hot Haulers 5-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2003/57066-armored-truck.json",
+        "data/releases/2003/57066-rescue-ranger.json"
+    ]
+}

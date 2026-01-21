@@ -2,9 +2,10 @@
     "series_id": "star-spangled-2",
     "year": 2004,
     "name": "Star Spangled 2",
-    "total_releases": 1,
+    "total_releases": 2,
     "max_index": 4,
     "releases": [
+        "data/releases/2004/b3846-57-chevy.json",
         "data/releases/2004/b3847-purple-passion.json"
     ]
 }

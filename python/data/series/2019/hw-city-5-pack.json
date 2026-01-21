@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-city-5-pack",
+    "year": 2019,
+    "name": "HW City 5-Pack",
+    "total_releases": 5,
+    "max_index": 0,
+    "releases": [
+        "data/releases/2019/fly24-fire-eater.json",
+        "data/releases/2019/fly24-off-duty.json",
+        "data/releases/2019/fly24-repo-duty.json",
+        "data/releases/2019/fly24-tour-de-fast.json",
+        "data/releases/2019/fyl25-so-plowed.json"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "mystery-models-international",
+    "year": 2016,
+    "name": "Mystery Models (International)",
+    "total_releases": 4,
+    "max_index": 8,
+    "releases": [
+        "data/releases/2016/b3531-f-racer.json",
+        "data/releases/2016/cjx56-speed-spider.json",
+        "data/releases/2016/djn56-12-ford-mustang-boss-302-laguna-seca.json",
+        "data/releases/2016/djn62-fast-4wd.json"
+    ]
+}

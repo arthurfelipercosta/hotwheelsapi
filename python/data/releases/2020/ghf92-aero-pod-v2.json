@@ -1,0 +1,25 @@
+{
+    "release_id": "ghf92-aero-pod-2020",
+    "toy_number": "GHF92",
+    "casting_id": "aero-pod",
+    "year": 2020,
+    "series_id": "x-raycers",
+    "series_index": 2,
+    "specs": {
+        "color": "turquoise",
+        "tampo": "AEROPOD, skull, & rally deco",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Yellow tint",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "Yellow hub",
+            "1": "Transparent red PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/021_-Aero_Pod_%282nd_Color%29.jpg/revision/latest?cb=20200126022439"
+    }
+}

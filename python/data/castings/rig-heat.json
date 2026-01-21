@@ -1,0 +1,18 @@
+{
+    "casting_id": "rig-heat",
+    "name": "Rig Heat",
+    "description": {
+        "en-us": "Rig Heat Debut series Legends of Speed Produced 2017 - Present Designer Dmitriy Shakhmatov Number DTX13",
+        "pt-br": ""
+    },
+    "releases": [
+        "data/releases/2017/dtx13-rig-heat.json",
+        "data/releases/2018/fjw07-rig-heat.json",
+        "data/releases/2019/fyf27-rig-heat.json",
+        "data/releases/2022/hbg11-rig-heat.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": 2017,
+    "manufacturer": "Mattel"
+}

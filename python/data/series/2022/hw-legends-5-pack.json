@@ -2,9 +2,13 @@
     "series_id": "hw-legends-5-pack",
     "year": 2022,
     "name": "HW Legends 5‑Pack",
-    "total_releases": 1,
+    "total_releases": 5,
     "max_index": 0,
     "releases": [
-        "data/releases/2022/hfv82-deora-ii.json"
+        "data/releases/2022/hfv82-2-jet-z.json",
+        "data/releases/2022/hfv82-2013-hot-wheels-chevy-camaro-special-edition.json",
+        "data/releases/2022/hfv82-custom-71-el-camino.json",
+        "data/releases/2022/hfv82-deora-ii.json",
+        "data/releases/2022/hfv82-loop-coupe.json"
     ]
 }

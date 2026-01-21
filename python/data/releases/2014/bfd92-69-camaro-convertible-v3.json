@@ -1,0 +1,24 @@
+{
+    "release_id": "bfd92-69-camaro-convertible-2014",
+    "toy_number": "BFD92",
+    "casting_id": "69-camaro-convertible",
+    "year": 2014,
+    "series_id": "hw-workshop-heat-fleet",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "White and Silver flames on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/%2769_Camaro-2014_213.jpg/revision/latest/scale-to-width-down/75?cb=20140512160248"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "fjx84-boom-car-2018",
+    "toy_number": "FJX84",
+    "casting_id": "boom-car",
+    "year": 2018,
+    "series_id": "hw-fun-park",
+    "series_index": 1,
+    "specs": {
+        "color": "Green & Black",
+        "tampo": "Black stripes & 'Boom Car' on sides",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "Yellow 5SP"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J51, K28, K30, K31, K35, K36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Boomcar.jpg/revision/latest/scale-to-width-down/75?cb=20180723042236"
+    }
+}

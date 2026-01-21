@@ -2,11 +2,27 @@
     "series_id": "hw-racing",
     "year": 2010,
     "name": "HW Racing",
-    "total_releases": 3,
+    "total_releases": 19,
     "max_index": 4,
     "releases": [
+        "data/releases/2010/r7574-f1-racer.json",
+        "data/releases/2010/r7574-f1-racer.json",
+        "data/releases/2010/r7574-f1-racer.json",
+        "data/releases/2010/r7574-f1-racer.json",
+        "data/releases/2010/r7575-circle-tracker.json",
+        "data/releases/2010/r7576-custom-ford-bronco.json",
+        "data/releases/2010/r7576-custom-ford-bronco.json",
         "data/releases/2010/r7577-madfast.json",
+        "data/releases/2010/r7578-mad-propz.json",
+        "data/releases/2010/r7580-canyon-carver.json",
+        "data/releases/2010/r7580-canyon-carver.json",
+        "data/releases/2010/r7580-canyon-carver.json",
+        "data/releases/2010/r7580-canyon-carver.json",
         "data/releases/2010/r7582-ford-gt.json",
-        "data/releases/2010/r7582-ford-gt.json"
+        "data/releases/2010/r7582-ford-gt.json",
+        "data/releases/2010/r7583-mustang-funny-car.json",
+        "data/releases/2010/r7583-mustang-funny-car.json",
+        "data/releases/2010/r7583-mustang-funny-car.json",
+        "data/releases/2010/r7583-mustang-funny-car.json"
     ]
 }

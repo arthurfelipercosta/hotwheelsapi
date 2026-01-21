@@ -1,0 +1,24 @@
+{
+    "release_id": "x3366-11-dodge-charger-r-t-2011",
+    "toy_number": "X3366",
+    "casting_id": "11-dodge-charger-r-t",
+    "year": 2011,
+    "series_id": "mystery-models",
+    "series_index": 5,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "\"R/T\" & \"Dodge\" logo on doors, Black panel stripes",
+        "base_color": "",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "PR5"
+        }
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): D31, D32",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/2011DodgeChargerRT.jpg/revision/latest/scale-to-width-down/75?cb=20120125025529"
+    }
+}

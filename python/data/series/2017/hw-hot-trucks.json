@@ -2,20 +2,30 @@
     "series_id": "hw-hot-trucks",
     "year": 2017,
     "name": "HW Hot Trucks",
-    "total_releases": 12,
+    "total_releases": 22,
     "max_index": 2,
     "releases": [
+        "data/releases/2017/dtx12-baja-hauler.json",
         "data/releases/2017/dtx35-custom-56-ford-truck.json",
+        "data/releases/2017/dtx71-dodge-ram-1500.json",
         "data/releases/2017/dtx72-17-ford-f-150-raptor.json",
         "data/releases/2017/dtx73-67-chevy-c10.json",
+        "data/releases/2017/dtx74-1987-toyota-pickup-truck.json",
+        "data/releases/2017/dtx75-datsun-620.json",
         "data/releases/2017/dtx76-blazer-4-4.json",
         "data/releases/2017/dtx77-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2017/dtx78-chevy-silverado.json",
         "data/releases/2017/dvb66-blazer-4-4.json",
         "data/releases/2017/dvb67-custom-56-ford-truck.json",
+        "data/releases/2017/dvb68-baja-hauler.json",
         "data/releases/2017/dvb69-17-ford-f-150-raptor.json",
         "data/releases/2017/dvb72-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2017/dvb73-chevy-silverado.json",
         "data/releases/2017/dvc88-67-chevy-c10.json",
         "data/releases/2017/fbh82-custom-56-ford-truck.json",
-        "data/releases/2017/fdy58-1978-dodge-li-l-red-express-truck.json"
+        "data/releases/2017/fbh90-dodge-ram-1500.json",
+        "data/releases/2017/fdy58-1978-dodge-li-l-red-express-truck.json",
+        "data/releases/2017/fjv58-datsun-620.json",
+        "data/releases/2017/fkb98-baja-hauler.json"
     ]
 }

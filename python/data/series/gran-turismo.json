@@ -1,0 +1,12 @@
+{
+    "series_id": "gran-turismo",
+    "name": "Gran Turismo",
+    "total_releases": 2,
+    "max_index": 5,
+    "releases": {
+        "2024": [
+            "data/releases/2024/hrv66-20-ford-shelby-gt500.json",
+            "data/releases/2024/hrv67-20-toyota-gr-supra.json"
+        ]
+    }
+}

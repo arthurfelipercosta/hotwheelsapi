@@ -1,0 +1,11 @@
+{
+    "series_id": "race-world-beach",
+    "name": "Race World - Beach",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": {
+        "2010": [
+            "data/releases/2010/r7607-deora-ii.json"
+        ]
+    }
+}

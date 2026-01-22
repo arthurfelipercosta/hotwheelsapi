@@ -1,0 +1,12 @@
+{
+    "series_id": "red-edition",
+    "name": "Red Edition",
+    "total_releases": 2,
+    "max_index": 12,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjm57-maserati-shamal.json",
+            "data/releases/2026/jjm61-ford-mustang-mach-e-1400.json"
+        ]
+    }
+}

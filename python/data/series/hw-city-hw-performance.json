@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-city-hw-performance",
+    "name": "HW City: HW Performance",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": {
+        "2015": [
+            "data/releases/2015/cfh48-83-chevy-silverado.json",
+            "data/releases/2015/cfj96-83-chevy-silverado.json"
+        ]
+    }
+}

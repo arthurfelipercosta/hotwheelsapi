@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-garage-wayne-s-garage",
+    "name": "Hot Wheels Garage: Wayne's Garage",
+    "total_releases": 3,
+    "max_index": 21,
+    "releases": {
+        "2010": [
+            "data/releases/2010/r3785-70-chevelle-ss-wagon.json",
+            "data/releases/2010/r3785-70-chevelle-ss-wagon.json",
+            "data/releases/2010/r3785-70-chevelle-ss-wagon.json"
+        ]
+    }
+}

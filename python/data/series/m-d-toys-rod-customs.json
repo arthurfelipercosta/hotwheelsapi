@@ -1,0 +1,12 @@
+{
+    "series_id": "m-d-toys-rod-customs",
+    "name": "M&D Toys Rod & Customs",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": {
+        "1994": [
+            "data/releases/1994/9401-purple-passion.json",
+            "data/releases/1994/9404-purple-passion.json"
+        ]
+    }
+}

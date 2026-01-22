@@ -1,0 +1,11 @@
+{
+    "series_id": "replica-entertainment-the-simpsons",
+    "name": "Replica Entertainment: The Simpsons",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2018": [
+            "data/releases/2018/dwj90-the-simpsons-family-car.json"
+        ]
+    }
+}

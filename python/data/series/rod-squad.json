@@ -1,0 +1,13 @@
+{
+    "series_id": "rod-squad",
+    "name": "Rod Squad",
+    "total_releases": 6,
+    "max_index": 10,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjj76-pedal-driver.json",
+            "data/releases/2026/jjj93-mid-mill.json",
+            "data/releases/2026/jjj94-screamliner.json"
+        ]
+    }
+}

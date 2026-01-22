@@ -1,0 +1,11 @@
+{
+    "series_id": "speed-machines",
+    "name": "Speed Machines",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2012": [
+            "data/releases/2012/w2316-porsche-911-gt2.json"
+        ]
+    }
+}

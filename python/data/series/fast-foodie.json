@@ -1,0 +1,15 @@
+{
+    "series_id": "fast-foodie",
+    "name": "Fast Foodie",
+    "total_releases": 10,
+    "max_index": 5,
+    "releases": {
+        "2018": [
+            "data/releases/2018/fjx82-roller-toaster.json"
+        ],
+        "2020": [
+            "data/releases/2020/ghc08-roller-toaster.json",
+            "data/releases/2020/ghf59-roller-toaster.json"
+        ]
+    }
+}

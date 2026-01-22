@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-all-drivers-welcome",
+    "name": "HW All Drivers Welcome",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjj11-hw-braille-racer-twin-mill.json",
+            "data/releases/2026/jjj88-flippin-fast.json"
+        ]
+    }
+}

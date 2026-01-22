@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-turbo",
+    "name": "HW Turbo",
+    "total_releases": 3,
+    "max_index": 3,
+    "releases": {
+        "2024": [
+            "data/releases/2024/htc63-el-segundo-coupe.json",
+            "data/releases/2024/htd10-el-segundo-coupe.json"
+        ]
+    }
+}

@@ -6,12 +6,12 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2022/hct38-coupe-clip-v2.json",
-        "data/releases/2022/hcx09-coupe-clip-v2.json",
-        "data/releases/2023/hkj26-coupe-clip-v2.json",
-        "data/releases/2023/hkk72-coupe-clip-v2.json",
-        "data/releases/2023/hxt40-coupe-clip-v2.json",
-        "data/releases/2026/jjj55-coupe-clip-v2.json"
+        "data/releases/2022/hct38-coupe-clip.json",
+        "data/releases/2022/hcx09-coupe-clip.json",
+        "data/releases/2023/hkj26-coupe-clip.json",
+        "data/releases/2023/hkk72-coupe-clip.json",
+        "data/releases/2023/hxt40-coupe-clip.json",
+        "data/releases/2026/jjj55-coupe-clip.json"
     ],
     "specs": {},
     "designer": "Unknown",

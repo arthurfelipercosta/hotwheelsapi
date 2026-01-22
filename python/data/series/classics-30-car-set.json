@@ -1,0 +1,12 @@
+{
+    "series_id": "classics-30-car-set",
+    "name": "Classics 30-Car Set",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": {
+        "2009": [
+            "data/releases/2009/n9856-47-chevy-fleetline.json",
+            "data/releases/2009/n9856-70-dodge-hemi-challenger.json"
+        ]
+    }
+}

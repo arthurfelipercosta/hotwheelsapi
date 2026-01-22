@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-showroom",
+    "name": "HW Showroom",
+    "total_releases": 1,
+    "max_index": 5,
+    "releases": {
+        "2016": [
+            "data/releases/2016/dhp26-honda-odyssey.json"
+        ]
+    }
+}

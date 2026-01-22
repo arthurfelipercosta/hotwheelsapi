@@ -1,0 +1,12 @@
+{
+    "series_id": "retro-racers",
+    "name": "Retro Racers",
+    "total_releases": 2,
+    "max_index": 8,
+    "releases": {
+        "2023": [
+            "data/releases/2023/hkg42-porsche-911-carrera-rs-2-7.json",
+            "data/releases/2023/hkj82-porsche-911-carrera-rs-2-7.json"
+        ]
+    }
+}

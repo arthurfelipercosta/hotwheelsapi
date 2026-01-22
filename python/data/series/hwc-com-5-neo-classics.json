@@ -1,0 +1,11 @@
+{
+    "series_id": "hwc-com-5-neo-classics",
+    "name": "HWC.com 5: Neo-Classics",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": {
+        "2006": [
+            "data/releases/2006/k3381-rodger-dodger.json"
+        ]
+    }
+}

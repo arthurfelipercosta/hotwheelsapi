@@ -1,0 +1,19 @@
+{
+    "series_id": "drag-racers",
+    "name": "Drag Racers",
+    "total_releases": 9,
+    "max_index": 8,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjh47-eggshelleracer.json",
+            "data/releases/2026/jjj40-76-chevy-chevette.json",
+            "data/releases/2026/jjj41-supercharged.json",
+            "data/releases/2026/jjj64-64-dodge-330.json",
+            "data/releases/2026/jjj80-68-dodge-dart.json",
+            "data/releases/2026/jjj80-custom-72-chevy-luv.json",
+            "data/releases/2026/jjj81-honda-civic-custom.json",
+            "data/releases/2026/jjk30-pass-n-gasser.json",
+            "data/releases/2026/jjm20-honda-civic-custom.json"
+        ]
+    }
+}

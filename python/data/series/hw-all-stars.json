@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-all-stars",
+    "name": "HW All Stars",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": {
+        "2012": [
+            "data/releases/2012/v5427-porsche-911-gt2.json",
+            "data/releases/2012/w4447-porsche-911-gt2.json"
+        ]
+    }
+}

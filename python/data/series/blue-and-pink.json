@@ -1,0 +1,12 @@
+{
+    "series_id": "blue-and-pink",
+    "name": "Blue and Pink",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": {
+        "2022": [
+            "data/releases/2022/hdh59-pass-n-gasser.json",
+            "data/releases/2022/hdh62-nissan-skyline-2000gt-r.json"
+        ]
+    }
+}

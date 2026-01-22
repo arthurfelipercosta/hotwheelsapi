@@ -1,0 +1,19 @@
+{
+    "series_id": "hw-roadsters",
+    "name": "HW Roadsters",
+    "total_releases": 7,
+    "max_index": 5,
+    "releases": {
+        "2020": [
+            "data/releases/2020/ghc72-17-pagani-huayra-roadster.json",
+            "data/releases/2020/ghc73-16-lamborghini-centenario-roadster.json",
+            "data/releases/2020/ghg21-17-pagani-huayra-roadster.json",
+            "data/releases/2020/gln67-16-lamborghini-centenario-roadster.json"
+        ],
+        "2023": [
+            "data/releases/2023/hkh37-17-pagani-huayra-roadster.json",
+            "data/releases/2023/hkk08-17-pagani-huayra-roadster.json",
+            "data/releases/2023/hkl23-17-pagani-huayra-roadster.json"
+        ]
+    }
+}

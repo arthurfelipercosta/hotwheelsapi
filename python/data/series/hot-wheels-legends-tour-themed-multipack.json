@@ -1,0 +1,15 @@
+{
+    "series_id": "hot-wheels-legends-tour-themed-multipack",
+    "name": "Hot Wheels Legends Tour Themed Multipack",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": {
+        "2022": [
+            "data/releases/2022/hdh52-bone-shaker.json",
+            "data/releases/2022/hdh52-deora-ii.json"
+        ],
+        "2025": [
+            "data/releases/2025/jby78-deora-ii.json"
+        ]
+    }
+}

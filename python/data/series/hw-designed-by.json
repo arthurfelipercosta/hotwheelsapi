@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-designed-by",
+    "name": "HW Designed By",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": {
+        "2025": [
+            "data/releases/2025/hyw63-purple-passion.json",
+            "data/releases/2025/hyx55-purple-passion.json",
+            "data/releases/2025/hyx82-rd-06.json",
+            "data/releases/2025/hyy50-rd-06.json"
+        ]
+    }
+}

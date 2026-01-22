@@ -1,0 +1,25 @@
+{
+    "series_id": "classics-series-1",
+    "name": "Classics (Series 1)",
+    "total_releases": 15,
+    "max_index": 20,
+    "releases": {
+        "2005": [
+            "data/releases/2005/h7068-68-dodge-dart.json",
+            "data/releases/2005/h7068-68-dodge-dart.json",
+            "data/releases/2005/h7068-68-dodge-dart.json",
+            "data/releases/2005/h7068-68-dodge-dart.json",
+            "data/releases/2005/h7068-68-dodge-dart.json",
+            "data/releases/2005/h7068-68-dodge-dart.json",
+            "data/releases/2005/h7068-68-dodge-dart.json",
+            "data/releases/2005/h7068-68-dodge-dart.json",
+            "data/releases/2005/h7085-purple-passion.json",
+            "data/releases/2005/h7085-purple-passion.json",
+            "data/releases/2005/h7085-purple-passion.json",
+            "data/releases/2005/h7085-purple-passion.json",
+            "data/releases/2005/h7085-purple-passion.json",
+            "data/releases/2005/h7085-purple-passion.json",
+            "data/releases/2005/h7085-purple-passion.json"
+        ]
+    }
+}

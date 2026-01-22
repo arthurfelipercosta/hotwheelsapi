@@ -1,0 +1,12 @@
+{
+    "series_id": "chevy-bel-air",
+    "name": "Chevy Bel Air",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": {
+        "2022": [
+            "data/releases/2022/hcv08-59-chevy-bel-air.json",
+            "data/releases/2022/hcy43-59-chevy-bel-air.json"
+        ]
+    }
+}

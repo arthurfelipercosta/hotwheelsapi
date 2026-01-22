@@ -1,0 +1,11 @@
+{
+    "series_id": "cars-of-the-decades",
+    "name": "Cars of the Decades",
+    "total_releases": 3,
+    "max_index": 24,
+    "releases": {
+        "2011": [
+            "data/releases/2011/w1465-purple-passion.json"
+        ]
+    }
+}

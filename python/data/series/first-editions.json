@@ -1,0 +1,11 @@
+{
+    "series_id": "first-editions",
+    "name": "First Editions",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2001": [
+            "data/releases/2001/28741-la-troca.json"
+        ]
+    }
+}

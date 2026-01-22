@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-gassers",
+    "name": "HW Gassers",
+    "total_releases": 3,
+    "max_index": 5,
+    "releases": {
+        "2023": [
+            "data/releases/2023/hkh62-65-mercury-comet-cyclone.json",
+            "data/releases/2023/hkh65-pass-n-gasser.json",
+            "data/releases/2023/hkl14-65-mercury-comet-cyclone.json"
+        ]
+    }
+}

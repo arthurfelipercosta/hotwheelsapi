@@ -1,0 +1,13 @@
+{
+    "series_id": "heat-fleet",
+    "name": "Heat Fleet",
+    "total_releases": 3,
+    "max_index": 7,
+    "releases": {
+        "2011": [
+            "data/releases/2011/t9804-pass-n-gasser.json",
+            "data/releases/2011/t9804-pass-n-gasser.json",
+            "data/releases/2011/v0017-pass-n-gasser.json"
+        ]
+    }
+}

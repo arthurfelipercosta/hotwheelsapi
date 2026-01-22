@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-heavyweights",
+    "name": "HW Heavyweights",
+    "total_releases": 4,
+    "max_index": 4,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjj03-5-alarm.json",
+            "data/releases/2026/jjj04-haulerback.json",
+            "data/releases/2026/jjj27-raijin-express.json",
+            "data/releases/2026/jjj47-rapid-pulse.json"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-speed-graphics",
+    "name": "HW Speed Graphics",
+    "total_releases": 10,
+    "max_index": 10,
+    "releases": {
+        "2019": [
+            "data/releases/2019/fyd25-mazda-rx-7.json",
+            "data/releases/2019/fyd81-mazda-rx-7.json"
+        ]
+    }
+}

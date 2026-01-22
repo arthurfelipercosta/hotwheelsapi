@@ -1,0 +1,15 @@
+{
+    "series_id": "wagons",
+    "name": "Wagons",
+    "total_releases": 5,
+    "max_index": 5,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjj50-cruise-bruiser.json",
+            "data/releases/2026/jjj69-time-shifter.json",
+            "data/releases/2026/jjj70-70-chevelle-ss-wagon.json",
+            "data/releases/2026/jjj71-long-bloc.json",
+            "data/releases/2026/jjj87-8-crate.json"
+        ]
+    }
+}

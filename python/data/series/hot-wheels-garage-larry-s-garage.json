@@ -1,0 +1,13 @@
+{
+    "series_id": "hot-wheels-garage-larry-s-garage",
+    "name": "Hot Wheels Garage: Larry's Garage",
+    "total_releases": 3,
+    "max_index": 16,
+    "releases": {
+        "2010": [
+            "data/releases/2010/r3786-pass-n-gasser.json",
+            "data/releases/2010/r3786-pass-n-gasser.json",
+            "data/releases/2010/r3786-pass-n-gasser.json"
+        ]
+    }
+}

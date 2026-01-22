@@ -1,0 +1,11 @@
+{
+    "series_id": "acceleracers-racing-drones",
+    "name": "AcceleRacers: Racing Drones",
+    "total_releases": 1,
+    "max_index": 6,
+    "releases": {
+        "2005": [
+            "data/releases/2005/g8112-rd-06.json"
+        ]
+    }
+}

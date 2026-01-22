@@ -1,0 +1,12 @@
+{
+    "series_id": "whips-west-cost-customs-old-school",
+    "name": "Whips: West Cost Customs (Old School)",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": {
+        "2004": [
+            "data/releases/2004/c2673-59-chevy-bel-air.json",
+            "data/releases/2004/g7756-59-chevy-bel-air.json"
+        ]
+    }
+}

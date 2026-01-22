@@ -1,0 +1,12 @@
+{
+    "series_id": "hot-wheels-garage-ford",
+    "name": "Hot Wheels Garage: Ford",
+    "total_releases": 2,
+    "max_index": 13,
+    "releases": {
+        "2011": [
+            "data/releases/2011/t8276-65-mercury-comet-cyclone.json",
+            "data/releases/2011/t8319-65-mercury-comet-cyclone.json"
+        ]
+    }
+}

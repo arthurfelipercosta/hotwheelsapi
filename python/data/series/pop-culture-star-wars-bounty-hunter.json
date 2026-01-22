@@ -1,0 +1,11 @@
+{
+    "series_id": "pop-culture-star-wars-bounty-hunter",
+    "name": "Pop Culture: Star Wars Bounty Hunter",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2017": [
+            "data/releases/2017/dwh38-70-chevelle-ss-wagon.json"
+        ]
+    }
+}

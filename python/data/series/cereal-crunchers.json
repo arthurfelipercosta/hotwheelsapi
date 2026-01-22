@@ -1,0 +1,11 @@
+{
+    "series_id": "cereal-crunchers",
+    "name": "Cereal Crunchers",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": {
+        "2004": [
+            "data/releases/2004/b3835-8-crate.json"
+        ]
+    }
+}

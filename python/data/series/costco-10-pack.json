@@ -1,0 +1,11 @@
+{
+    "series_id": "costco-10-pack",
+    "name": "Costco 10-Pack",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2001": [
+            "data/releases/2001/29985-deora-ii.json"
+        ]
+    }
+}

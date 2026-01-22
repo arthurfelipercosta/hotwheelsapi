@@ -1,0 +1,24 @@
+{
+    "series_id": "nightspeed",
+    "name": "Nightspeed",
+    "total_releases": 14,
+    "max_index": 10,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjh87-20-ford-shelby-gt500.json",
+            "data/releases/2026/jjh88-2018-honda-civic-type-r.json",
+            "data/releases/2026/jjj07-70-dodge-hemi-challenger.json",
+            "data/releases/2026/jjj08-cupra-e-racer.json",
+            "data/releases/2026/jjj09-24-seven.json",
+            "data/releases/2026/jjj53-16-cadillac-ats-v-r.json",
+            "data/releases/2026/jjj53-lb-works-lamborghini-hurac-n-coup.json",
+            "data/releases/2026/jjj73-corvette-c7-z06.json",
+            "data/releases/2026/jjj87-20-dodge-charger-hellcat.json",
+            "data/releases/2026/jjk68-20-ford-shelby-gt500.json",
+            "data/releases/2026/jjk87-2018-honda-civic-type-r.json",
+            "data/releases/2026/jjm00-87-buick-regal-gnx.json",
+            "data/releases/2026/jjm38-70-dodge-hemi-challenger.json",
+            "data/releases/2026/jjm50-20-ford-shelby-gt500.json"
+        ]
+    }
+}

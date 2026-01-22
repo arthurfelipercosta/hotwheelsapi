@@ -1,0 +1,11 @@
+{
+    "series_id": "rocket-league-5-pack",
+    "name": "Rocket League 5-Pack",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2019": [
+            "data/releases/2019/fyl23-bone-shaker.json"
+        ]
+    }
+}

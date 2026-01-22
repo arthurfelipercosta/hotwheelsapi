@@ -1,0 +1,12 @@
+{
+    "series_id": "hwc-com-series-1",
+    "name": "HWC.com Series 1",
+    "total_releases": 2,
+    "max_index": 11,
+    "releases": {
+        "2002": [
+            "data/releases/2002/85509-deora-ii.json",
+            "data/releases/2002/85516-purple-passion.json"
+        ]
+    }
+}

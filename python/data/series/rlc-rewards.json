@@ -1,0 +1,11 @@
+{
+    "series_id": "rlc-rewards",
+    "name": "RLC Rewards",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2010": [
+            "data/releases/2010/r8409-rodger-dodger.json"
+        ]
+    }
+}

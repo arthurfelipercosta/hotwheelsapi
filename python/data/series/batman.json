@@ -1,0 +1,40 @@
+{
+    "series_id": "batman",
+    "name": "Batman",
+    "total_releases": 16,
+    "max_index": 20,
+    "releases": {
+        "2015": [
+            "data/releases/2015/dfk73-the-dark-knight-batmobile.json"
+        ],
+        "2016": [
+            "data/releases/2016/dht17-the-dark-knight-batmobile.json",
+            "data/releases/2016/dhx78-the-dark-knight-batmobile.json"
+        ],
+        "2018": [
+            "data/releases/2018/fkf40-the-dark-knight-batmobile.json"
+        ],
+        "2019": [
+            "data/releases/2019/fyb91-the-dark-knight-batmobile.json",
+            "data/releases/2019/fyf62-the-dark-knight-batmobile.json"
+        ],
+        "2022": [
+            "data/releases/2022/hct04-classic-tv-series-batmobile.json",
+            "data/releases/2022/hcw60-classic-tv-series-batmobile.json",
+            "data/releases/2022/hcx94-the-dark-knight-batmobile.json",
+            "data/releases/2022/hdh05-screamliner.json",
+            "data/releases/2022/hdk68-the-dark-knight-batmobile.json"
+        ],
+        "2023": [
+            "data/releases/2023/hlk45-the-dark-knight-batmobile.json",
+            "data/releases/2023/hlk66-the-dark-knight-batmobile.json"
+        ],
+        "2024": [
+            "data/releases/2024/hrw32-the-dark-knight-batmobile.json"
+        ],
+        "2026": [
+            "data/releases/2026/jjj21-the-dark-knight-batmobile.json",
+            "data/releases/2026/jkw93-the-dark-knight-batmobile.json"
+        ]
+    }
+}

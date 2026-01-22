@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-metro",
+    "name": "HW Metro",
+    "total_releases": 5,
+    "max_index": 10,
+    "releases": {
+        "2018": [
+            "data/releases/2018/fjw88-time-shifter.json"
+        ],
+        "2023": [
+            "data/releases/2023/hkk94-time-shifter.json"
+        ]
+    }
+}

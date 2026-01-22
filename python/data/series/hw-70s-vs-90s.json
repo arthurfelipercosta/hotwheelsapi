@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-70s-vs-90s",
+    "name": "HW: '70s vs. '90s",
+    "total_releases": 1,
+    "max_index": 10,
+    "releases": {
+        "2025": [
+            "data/releases/2025/hyy96-70-dodge-hemi-challenger.json"
+        ]
+    }
+}

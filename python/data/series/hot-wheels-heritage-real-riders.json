@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-heritage-real-riders",
+    "name": "Hot Wheels Heritage: Real Riders",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2015": [
+            "data/releases/2015/cfn94-datsun-240z.json"
+        ]
+    }
+}

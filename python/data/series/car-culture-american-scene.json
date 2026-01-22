@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-american-scene",
+    "name": "Car Culture: American Scene",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": {
+        "2022": [
+            "data/releases/2022/hck04-20-dodge-charger-hellcat.json"
+        ]
+    }
+}

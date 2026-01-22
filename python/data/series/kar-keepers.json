@@ -1,0 +1,12 @@
+{
+    "series_id": "kar-keepers",
+    "name": "Kar Keepers",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": {
+        "2007": [
+            "data/releases/2007/l1645-bone-shaker.json",
+            "data/releases/2007/l1646-bone-shaker.json"
+        ]
+    }
+}

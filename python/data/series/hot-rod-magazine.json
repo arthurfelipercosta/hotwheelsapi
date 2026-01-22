@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-rod-magazine",
+    "name": "Hot Rod Magazine",
+    "total_releases": 1,
+    "max_index": 1,
+    "releases": {
+        "2002": [
+            "data/releases/2002/54365-purple-passion.json"
+        ]
+    }
+}

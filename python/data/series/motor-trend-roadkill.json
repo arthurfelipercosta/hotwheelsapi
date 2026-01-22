@@ -1,0 +1,11 @@
+{
+    "series_id": "motor-trend-roadkill",
+    "name": "Motor Trend: Roadkill",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2020": [
+            "data/releases/2020/grf97-datsun-240z.json"
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-dirt",
+    "name": "HW Dirt",
+    "total_releases": 3,
+    "max_index": 6,
+    "releases": {
+        "2024": [
+            "data/releases/2024/htb24-mercedes-benz-unimog-1300l.json",
+            "data/releases/2024/htf05-mercedes-benz-unimog-1300l.json",
+            "data/releases/2024/htf54-mercedes-benz-unimog-1300l.json"
+        ]
+    }
+}

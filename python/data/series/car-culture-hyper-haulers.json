@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-hyper-haulers",
+    "name": "Car Culture: Hyper Haulers",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2021": [
+            "data/releases/2021/grj86-20-jeep-gladiator.json"
+        ]
+    }
+}

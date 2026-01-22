@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-j-imports",
+    "name": "Hot Wheels J-Imports",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": {
+        "2024": [
+            "data/releases/2024/hrt03-1985-honda-cr-x.json"
+        ]
+    }
+}

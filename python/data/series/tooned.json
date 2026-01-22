@@ -1,0 +1,12 @@
+{
+    "series_id": "tooned",
+    "name": "Tooned",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjh50-deora-too-nd.json",
+            "data/releases/2026/jjj95-mazda-rx-3.json"
+        ]
+    }
+}

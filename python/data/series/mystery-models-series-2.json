@@ -1,0 +1,11 @@
+{
+    "series_id": "mystery-models-series-2",
+    "name": "Mystery Models (Series 2)",
+    "total_releases": 5,
+    "max_index": 12,
+    "releases": {
+        "2021": [
+            "data/releases/2021/gtf19-electro-silhouette.json"
+        ]
+    }
+}

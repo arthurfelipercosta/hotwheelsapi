@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-terra-trek",
+    "name": "Car Culture: Terra Trek",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": {
+        "2024": [
+            "data/releases/2024/hrv91-20-jeep-gladiator.json"
+        ]
+    }
+}

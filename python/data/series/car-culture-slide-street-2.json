@@ -1,0 +1,12 @@
+{
+    "series_id": "car-culture-slide-street-2",
+    "name": "Car Culture: Slide Street 2",
+    "total_releases": 2,
+    "max_index": 2,
+    "releases": {
+        "2024": [
+            "data/releases/2024/hkc84-lb-works-lamborghini-hurac-n-coup.json",
+            "data/releases/2024/hkc86-2023-nissan-z.json"
+        ]
+    }
+}

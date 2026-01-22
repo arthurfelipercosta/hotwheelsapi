@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-tool-in-1",
+    "name": "HW Tool‑In‑1",
+    "total_releases": 1,
+    "max_index": 2,
+    "releases": {
+        "2016": [
+            "data/releases/2016/dhp62-carbonator.json"
+        ]
+    }
+}

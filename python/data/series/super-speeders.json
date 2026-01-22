@@ -1,0 +1,11 @@
+{
+    "series_id": "super-speeders",
+    "name": "Super Speeders",
+    "total_releases": 1,
+    "max_index": 10,
+    "releases": {
+        "2012": [
+            "data/releases/2012/y2611-mazda-rx-7.json"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "stars-stripes",
+    "name": "Stars & Stripes",
+    "total_releases": 2,
+    "max_index": 10,
+    "releases": {
+        "2016": [
+            "data/releases/2016/dlv23-8-crate.json",
+            "data/releases/2016/dlv30-rodger-dodger.json"
+        ]
+    }
+}

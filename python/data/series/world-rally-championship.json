@@ -1,0 +1,11 @@
+{
+    "series_id": "world-rally-championship",
+    "name": "World Rally Championship",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2005": [
+            "data/releases/2005/b9607-subaru-impreza.json"
+        ]
+    }
+}

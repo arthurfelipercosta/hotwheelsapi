@@ -1,0 +1,11 @@
+{
+    "series_id": "hwc-neo-classics-11",
+    "name": "HWC Neo-Classics 11",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2012": [
+            "data/releases/2012/y4538-custom-otto.json"
+        ]
+    }
+}

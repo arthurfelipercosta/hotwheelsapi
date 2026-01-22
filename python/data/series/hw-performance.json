@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-performance",
+    "name": "HW Performance",
+    "total_releases": 5,
+    "max_index": 8,
+    "releases": {
+        "2010": [
+            "data/releases/2010/r7529-pass-n-gasser.json",
+            "data/releases/2010/r7529-pass-n-gasser.json",
+            "data/releases/2010/r7529-pass-n-gasser.json",
+            "data/releases/2010/r7529-pass-n-gasser.json",
+            "data/releases/2010/r7529-pass-n-gasser.json"
+        ]
+    }
+}

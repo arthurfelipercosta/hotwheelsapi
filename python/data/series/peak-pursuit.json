@@ -1,0 +1,12 @@
+{
+    "series_id": "peak-pursuit",
+    "name": "Peak Pursuit",
+    "total_releases": 2,
+    "max_index": 10,
+    "releases": {
+        "2025": [
+            "data/releases/2025/hyw29-polestar-trx.json",
+            "data/releases/2025/hyw55-mcmurtry-sp-irling.json"
+        ]
+    }
+}

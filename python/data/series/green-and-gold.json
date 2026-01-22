@@ -1,0 +1,14 @@
+{
+    "series_id": "green-and-gold",
+    "name": "Green and Gold",
+    "total_releases": 4,
+    "max_index": 6,
+    "releases": {
+        "2024": [
+            "data/releases/2024/hvw98-65-mercury-comet-cyclone.json",
+            "data/releases/2024/hvx03-raijin-express.json",
+            "data/releases/2024/hvx04-87-ford-sierra-cosworth.json",
+            "data/releases/2024/hvx06-20-toyota-gr-supra.json"
+        ]
+    }
+}

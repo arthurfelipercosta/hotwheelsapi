@@ -1,0 +1,15 @@
+{
+    "series_id": "hw-the-80s",
+    "name": "HW: The '80s",
+    "total_releases": 5,
+    "max_index": 4,
+    "releases": {
+        "2023": [
+            "data/releases/2023/hkg79-87-ford-sierra-cosworth.json",
+            "data/releases/2023/hkg81-89-mazda-savanna-rx-7-fc3s.json",
+            "data/releases/2023/hkj59-87-ford-sierra-cosworth.json",
+            "data/releases/2023/hkj62-89-mazda-savanna-rx-7-fc3s.json",
+            "data/releases/2023/hkl51-87-ford-sierra-cosworth.json"
+        ]
+    }
+}

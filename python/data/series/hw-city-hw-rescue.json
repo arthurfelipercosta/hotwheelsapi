@@ -1,0 +1,20 @@
+{
+    "series_id": "hw-city-hw-rescue",
+    "name": "HW City: HW Rescue",
+    "total_releases": 6,
+    "max_index": 0,
+    "releases": {
+        "2013": [
+            "data/releases/2013/x1668-5-alarm.json",
+            "data/releases/2013/x1867-5-alarm.json"
+        ],
+        "2014": [
+            "data/releases/2014/bfc56-5-alarm.json",
+            "data/releases/2014/bff94-5-alarm.json"
+        ],
+        "2015": [
+            "data/releases/2015/cfh71-5-alarm.json",
+            "data/releases/2015/cfj69-5-alarm.json"
+        ]
+    }
+}

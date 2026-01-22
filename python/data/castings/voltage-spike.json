@@ -6,12 +6,12 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2016/dhn97-voltage-spike-v2.json",
-        "data/releases/2016/dhw67-voltage-spike-v2.json",
-        "data/releases/2017/dty09-voltage-spike-v2.json",
-        "data/releases/2017/dvb93-voltage-spike-v2.json",
-        "data/releases/2018/fkt66-voltage-spike-v2.json",
-        "data/releases/2020/ghp63-voltage-spike-v2.json"
+        "data/releases/2016/dhn97-voltage-spike.json",
+        "data/releases/2016/dhw67-voltage-spike.json",
+        "data/releases/2017/dty09-voltage-spike.json",
+        "data/releases/2017/dvb93-voltage-spike.json",
+        "data/releases/2018/fkt66-voltage-spike.json",
+        "data/releases/2020/ghp63-voltage-spike.json"
     ],
     "specs": {},
     "designer": "Unknown",

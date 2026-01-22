@@ -6,11 +6,11 @@
         "pt-br": ""
     },
     "releases": [
-        "data/releases/2016/dhp26-honda-odyssey-v2.json",
-        "data/releases/2017/dtx63-honda-odyssey-v2.json",
-        "data/releases/2018/fkd30-gdg53-honda-odyssey-v2.json",
-        "data/releases/2018/flc11-honda-odyssey-v2.json",
-        "data/releases/2018/fky45-honda-odyssey-v2.json"
+        "data/releases/2016/dhp26-honda-odyssey.json",
+        "data/releases/2017/dtx63-honda-odyssey.json",
+        "data/releases/2018/fkd30-gdg53-honda-odyssey.json",
+        "data/releases/2018/flc11-honda-odyssey.json",
+        "data/releases/2018/fky45-honda-odyssey.json"
     ],
     "specs": {},
     "designer": "Unknown",

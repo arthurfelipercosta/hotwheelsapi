@@ -1,0 +1,11 @@
+{
+    "series_id": "nostalgic-brands-dc-comics",
+    "name": "Nostalgic Brands: DC Comics",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2012": [
+            "data/releases/2012/w6668-8-crate.json"
+        ]
+    }
+}

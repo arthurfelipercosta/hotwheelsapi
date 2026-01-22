@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-city",
+    "name": "HW City",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2014": [
+            "data/releases/2014/bdw57-bone-shaker.json"
+        ]
+    }
+}

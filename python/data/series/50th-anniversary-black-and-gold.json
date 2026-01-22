@@ -1,0 +1,14 @@
+{
+    "series_id": "50th-anniversary-black-and-gold",
+    "name": "50th Anniversary Black and Gold",
+    "total_releases": 4,
+    "max_index": 5,
+    "releases": {
+        "2018": [
+            "data/releases/2018/frn34-bone-shaker.json",
+            "data/releases/2018/frn36-rodger-dodger.json",
+            "data/releases/2018/frn37-68-dodge-dart.json",
+            "data/releases/2018/frn38-64-impala.json"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "car-culture-circuit-legends",
+    "name": "Car Culture: Circuit Legends",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": {
+        "2018": [
+            "data/releases/2018/flc26-2016-ford-gt-race.json"
+        ]
+    }
+}

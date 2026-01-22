@@ -1,0 +1,12 @@
+{
+    "series_id": "batman-the-dark-knight-3-pack",
+    "name": "Batman The Dark Knight 3-Pack",
+    "total_releases": 2,
+    "max_index": 0,
+    "releases": {
+        "2013": [
+            "data/releases/2013/x7250-bone-shaker.json",
+            "data/releases/2013/x7250-the-dark-knight-batmobile.json"
+        ]
+    }
+}

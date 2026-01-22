@@ -1,0 +1,14 @@
+{
+    "series_id": "hw-getaways",
+    "name": "HW Getaways",
+    "total_releases": 4,
+    "max_index": 5,
+    "releases": {
+        "2021": [
+            "data/releases/2021/grx39-barbie-dream-camper.json",
+            "data/releases/2021/gry54-20-jeep-gladiator.json",
+            "data/releases/2021/gtc83-20-jeep-gladiator.json",
+            "data/releases/2021/gtd33-20-jeep-gladiator.json"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "dropstars",
+    "name": "Dropstars",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": {
+        "2006": [
+            "data/releases/2006/j3385-64-impala.json",
+            "data/releases/2006/j3385-64-impala.json"
+        ]
+    }
+}

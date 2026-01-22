@@ -1,0 +1,12 @@
+{
+    "series_id": "connect-cars",
+    "name": "Connect Cars",
+    "total_releases": 2,
+    "max_index": 44,
+    "releases": {
+        "2009": [
+            "data/releases/2009/n4179-64-impala.json",
+            "data/releases/2009/p2088-68-dodge-dart.json"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "wild-widebody",
+    "name": "Wild Widebody",
+    "total_releases": 2,
+    "max_index": 1,
+    "releases": {
+        "2025": [
+            "data/releases/2025/hyw38-bmw-635-csi.json",
+            "data/releases/2025/jbb84-bmw-635-csi.json"
+        ]
+    }
+}

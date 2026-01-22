@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-city-night-burnerz",
+    "name": "HW City: Night Burnerz",
+    "total_releases": 3,
+    "max_index": 0,
+    "releases": {
+        "2014": [
+            "data/releases/2014/bfc43-mazda-rx-7.json",
+            "data/releases/2014/bfc45-nissan-skyline-2000gt-r.json",
+            "data/releases/2014/bfg39-mazda-rx-7.json"
+        ]
+    }
+}

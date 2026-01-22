@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-exotics",
+    "name": "HW Exotics",
+    "total_releases": 5,
+    "max_index": 9,
+    "releases": {
+        "2022": [
+            "data/releases/2022/hcr98-hw-k-i-t-t-concept.json",
+            "data/releases/2022/hct97-lb-works-lamborghini-hurac-n-coup.json",
+            "data/releases/2022/hcy55-lb-works-lamborghini-hurac-n-coup.json"
+        ]
+    }
+}

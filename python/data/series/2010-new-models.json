@@ -1,0 +1,13 @@
+{
+    "series_id": "2010-new-models",
+    "name": "2010 New Models",
+    "total_releases": 3,
+    "max_index": 14,
+    "releases": {
+        "2010": [
+            "data/releases/2010/r0930-porsche-911-gt2.json",
+            "data/releases/2010/r0930-porsche-911-gt2.json",
+            "data/releases/2010/r0930-porsche-911-gt2.json"
+        ]
+    }
+}

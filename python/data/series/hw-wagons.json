@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-wagons",
+    "name": "HW Wagons",
+    "total_releases": 5,
+    "max_index": 3,
+    "releases": {
+        "2025": [
+            "data/releases/2025/hyy20-volvo-240-drift-wagon.json",
+            "data/releases/2025/jbb40-volvo-240-drift-wagon.json"
+        ]
+    }
+}

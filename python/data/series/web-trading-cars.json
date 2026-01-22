@@ -1,0 +1,12 @@
+{
+    "series_id": "web-trading-cars",
+    "name": "Web Trading Cars",
+    "total_releases": 2,
+    "max_index": 17,
+    "releases": {
+        "2008": [
+            "data/releases/2008/m6995-70-dodge-hemi-challenger.json",
+            "data/releases/2008/m6995-70-dodge-hemi-challenger.json"
+        ]
+    }
+}

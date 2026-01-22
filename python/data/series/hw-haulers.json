@@ -1,0 +1,13 @@
+{
+    "series_id": "hw-haulers",
+    "name": "HW Haulers",
+    "total_releases": 3,
+    "max_index": 4,
+    "releases": {
+        "2023": [
+            "data/releases/2023/hkh26-mercedes-benz-unimog-1300l.json",
+            "data/releases/2023/hkj99-mercedes-benz-unimog-1300l.json",
+            "data/releases/2023/hkk98-raijin-express.json"
+        ]
+    }
+}

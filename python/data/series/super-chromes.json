@@ -1,0 +1,16 @@
+{
+    "series_id": "super-chromes",
+    "name": "Super Chromes",
+    "total_releases": 4,
+    "max_index": 6,
+    "releases": {
+        "2016": [
+            "data/releases/2016/dhp68-x-steam.json",
+            "data/releases/2016/dhw58-x-steam.json"
+        ],
+        "2018": [
+            "data/releases/2018/fjx03-x-steam.json",
+            "data/releases/2018/fjy76-x-steam.json"
+        ]
+    }
+}

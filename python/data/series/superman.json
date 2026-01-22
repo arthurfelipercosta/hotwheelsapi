@@ -1,0 +1,11 @@
+{
+    "series_id": "superman",
+    "name": "Superman",
+    "total_releases": 1,
+    "max_index": 4,
+    "releases": {
+        "2013": [
+            "data/releases/2013/y2155-8-crate.json"
+        ]
+    }
+}

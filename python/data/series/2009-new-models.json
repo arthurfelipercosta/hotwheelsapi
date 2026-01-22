@@ -1,0 +1,17 @@
+{
+    "series_id": "2009-new-models",
+    "name": "2009 New Models",
+    "total_releases": 7,
+    "max_index": 19,
+    "releases": {
+        "2009": [
+            "data/releases/2009/n4009-5-alarm.json",
+            "data/releases/2009/n4009-5-alarm.json",
+            "data/releases/2009/n4015-mid-mill.json",
+            "data/releases/2009/n4015-mid-mill.json",
+            "data/releases/2009/n4022-70-chevelle-ss-wagon.json",
+            "data/releases/2009/n4022-70-chevelle-ss-wagon.json",
+            "data/releases/2009/n4022-70-chevelle-ss-wagon.json"
+        ]
+    }
+}

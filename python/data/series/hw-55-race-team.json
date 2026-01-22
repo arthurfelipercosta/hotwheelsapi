@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-55-race-team",
+    "name": "HW 55 Race Team",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": {
+        "2023": [
+            "data/releases/2023/hkh68-erikenstein-rod.json",
+            "data/releases/2023/hkk29-erikenstein-rod.json"
+        ]
+    }
+}

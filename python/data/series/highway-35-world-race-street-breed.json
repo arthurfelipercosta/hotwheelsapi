@@ -1,0 +1,11 @@
+{
+    "series_id": "highway-35-world-race-street-breed",
+    "name": "Highway 35 World Race: Street Breed",
+    "total_releases": 1,
+    "max_index": 11,
+    "releases": {
+        "2003": [
+            "data/releases/2003/b1063-24-seven.json"
+        ]
+    }
+}

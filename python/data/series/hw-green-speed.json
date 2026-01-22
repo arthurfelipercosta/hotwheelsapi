@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-green-speed",
+    "name": "HW Green Speed",
+    "total_releases": 5,
+    "max_index": 10,
+    "releases": {
+        "2021": [
+            "data/releases/2021/gtb23-porsche-taycan-turbo-s.json"
+        ]
+    }
+}

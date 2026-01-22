@@ -1,0 +1,14 @@
+{
+    "series_id": "modern-classics",
+    "name": "Modern Classics",
+    "total_releases": 4,
+    "max_index": 7,
+    "releases": {
+        "2008": [
+            "data/releases/2008/m0427-datsun-240z.json",
+            "data/releases/2008/m0514-83-chevy-silverado.json",
+            "data/releases/2008/m0514-83-chevy-silverado.json",
+            "data/releases/2008/mo427-datsun-240z.json"
+        ]
+    }
+}

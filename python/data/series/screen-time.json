@@ -1,0 +1,13 @@
+{
+    "series_id": "screen-time",
+    "name": "Screen Time",
+    "total_releases": 3,
+    "max_index": 3,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jjh98-hw-k-i-t-t-concept.json",
+            "data/releases/2026/jjj00-optimus-prime.json",
+            "data/releases/2026/jjj68-the-simpsons-family-car.json"
+        ]
+    }
+}

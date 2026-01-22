@@ -1,0 +1,16 @@
+{
+    "series_id": "x-raycers",
+    "name": "X‑Raycers",
+    "total_releases": 6,
+    "max_index": 9,
+    "releases": {
+        "2017": [
+            "data/releases/2017/dty09-voltage-spike.json",
+            "data/releases/2017/dty10-x-steam.json",
+            "data/releases/2017/dvb93-voltage-spike.json"
+        ],
+        "2026": [
+            "data/releases/2026/jjj01-x-steam.json"
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-id-hw-race-team",
+    "name": "Hot Wheels id: HW Race Team",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2019": [
+            "data/releases/2019/fxb21-rodger-dodger.json"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "honda-70th-anniversary",
+    "name": "Honda 70th Anniversary",
+    "total_releases": 2,
+    "max_index": 8,
+    "releases": {
+        "2018": [
+            "data/releases/2018/fkd23-gdg45-1985-honda-cr-x.json",
+            "data/releases/2018/fkd30-gdg53-honda-odyssey.json"
+        ]
+    }
+}

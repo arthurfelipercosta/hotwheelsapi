@@ -1,0 +1,11 @@
+{
+    "series_id": "international-gold-editions",
+    "name": "International Gold Editions",
+    "total_releases": 1,
+    "max_index": 0,
+    "releases": {
+        "2022": [
+            "data/releases/2022/hcw12-rodger-dodger.json"
+        ]
+    }
+}

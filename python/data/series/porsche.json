@@ -1,0 +1,13 @@
+{
+    "series_id": "porsche",
+    "name": "Porsche",
+    "total_releases": 3,
+    "max_index": 2,
+    "releases": {
+        "2020": [
+            "data/releases/2020/ghd19-96-porsche-carrera.json",
+            "data/releases/2020/ghf18-96-porsche-carrera.json",
+            "data/releases/2020/ghg59-96-porsche-carrera.json"
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "series_id": "fast-furious-series-2",
+    "name": "Fast & Furious (Series 2)",
+    "total_releases": 2,
+    "max_index": 6,
+    "releases": {
+        "2023": [
+            "data/releases/2023/hnt04-87-buick-regal-gnx.json",
+            "data/releases/2023/hnt06-69-dodge-charger-daytona.json"
+        ]
+    }
+}

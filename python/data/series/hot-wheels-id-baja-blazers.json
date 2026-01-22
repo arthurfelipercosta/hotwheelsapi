@@ -1,0 +1,11 @@
+{
+    "series_id": "hot-wheels-id-baja-blazers",
+    "name": "Hot Wheels id: Baja Blazers",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2022": [
+            "data/releases/2022/hbg31-mercedes-benz-unimog-1300l.json"
+        ]
+    }
+}

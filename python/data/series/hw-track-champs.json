@@ -1,0 +1,11 @@
+{
+    "series_id": "hw-track-champs",
+    "name": "HW Track Champs",
+    "total_releases": 1,
+    "max_index": 3,
+    "releases": {
+        "2025": [
+            "data/releases/2025/hyw49-twin-dorado.json"
+        ]
+    }
+}

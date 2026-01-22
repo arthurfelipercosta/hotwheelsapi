@@ -1,0 +1,12 @@
+{
+    "series_id": "peanuts",
+    "name": "Peanuts",
+    "total_releases": 2,
+    "max_index": 3,
+    "releases": {
+        "2017": [
+            "data/releases/2017/dwf07-bone-shaker.json",
+            "data/releases/2017/dwf08-purple-passion.json"
+        ]
+    }
+}

@@ -1,3 +1,4 @@
+import sys
 import json
 import os
 import re
@@ -24,7 +25,8 @@ def organize_batch(json_folder='json'):
     generated_files_registry = set()
 
     # Busca recursiva em subpastas
-    json_files = glob.glob(os.path.join(json_folder, "**/*.json"), recursive=True)
+    # json_files = glob.glob(os.path.join(json_folder, "**/*.json"), recursive=True) # TODAS
+    json_files = glob.glob(os.path.join(json_folder, "*.json")) # SÓ UMA PASTA
     
     if not json_files:
         print(f"❌ Nenhum arquivo JSON encontrado em '{json_folder}/'.")
@@ -168,7 +170,7 @@ def organize_batch(json_folder='json'):
                 json.dump(casting_data, f, indent=4, ensure_ascii=False)
 
             # 5. Processar Series
-            series_map = defaultdict(list)
+            series_map = defaultdict(lambda: defaultdict(list))
             for row in releases_list:
                 raw_yr = row.get('Year', '').strip()
                 s_raw = row.get('Series', '').strip()
@@ -177,81 +179,73 @@ def organize_batch(json_folder='json'):
                 yr = years[0]
                 s_name = re.sub(r'\s*\d+/\d+$', '', s_raw).strip()
                 s_id = slugify(s_name)
-                if s_id: series_map[(s_id, yr, s_name)].append(row)
+                if s_id: series_map[s_id][yr].append(row)
 
-            for (s_id, yr, s_name), rows in series_map.items():
-                series_dir = f"data/series/{yr}"
+            for s_id, years_data in series_map.items():
+                series_dir = 'data/series'  # Pasta raiz das séries (não por ano)
                 os.makedirs(series_dir, exist_ok=True)
                 series_file = os.path.join(series_dir, f'{s_id}.json')
                 
-                # Recalcula caminhos (simulado para simplificar, idealmente usaria o path real gerado acima)
-                new_releases = []
-                indices = []
-                for row in rows:
-                    t_num = row.get('Toy #', '').strip()
-                    clean_t_num = slugify(t_num)
-                    # Nota: Em casos raros de packs, pode haver divergência aqui se não rastrearmos o v2 exato
-                    # Mas para listagem geral funciona bem
-                    fname = f"{clean_t_num}-{casting_id}.json"
-                    new_releases.append(f"data/releases/{yr}/{fname.lower()}")
-                    
-                    s_raw = row.get('Series', '')
-                    m = re.search(r'(\d+)/(\d+)$', s_raw)
-                    if m: indices.append(int(m.group(1)))
-
-                final_releases = new_releases
-                total_count = len(rows)
-                
+                # Carregar dados existentes se o arquivo já existir
+                existing_data = {}
                 if os.path.exists(series_file):
                     try:
                         with open(series_file, 'r', encoding='utf-8') as f:
-                            existing = json.load(f)
-                            # Remove duplicatas mantendo ordem
-                            existing_rels = existing.get('releases', [])
-                            combined = existing_rels + [x for x in new_releases if x not in existing_rels]
-                            final_releases = sorted(combined)
-                            total_count = max(len(final_releases), existing.get('total_releases', 0))
+                            existing_data = json.load(f)
                     except: pass
-
+                
+                # Consolidar dados de todos os anos
+                all_releases = {}
+                total_count = 0
+                max_index = 0
+                series_name = ""
+                
+                for yr, rows in years_data.items():
+                    yr_str = str(yr)
+                    
+                    # Recalcula caminhos para este ano
+                    new_releases = []
+                    indices = []
+                    for row in rows:
+                        t_num = row.get('Toy #', '').strip()
+                        clean_t_num = slugify(t_num)
+                        fname = f"{clean_t_num}-{casting_id}.json"
+                        new_releases.append(f"data/releases/{yr}/{fname.lower()}")
+                        
+                        s_raw = row.get('Series', '')
+                        m = re.search(r'(\d+)/(\d+)$', s_raw)
+                        if m: indices.append(int(m.group(1)))
+                    
+                    # Combinar com dados existentes para este ano
+                    existing_year_releases = existing_data.get('releases', {}).get(yr_str, [])
+                    combined = existing_year_releases + [x for x in new_releases if x not in existing_year_releases]
+                    all_releases[yr_str] = sorted(combined)
+                    
+                    total_count += len(combined)
+                    if indices:
+                        max_index = max(max_index, max(indices))
+                    
+                    # Pegar o nome da série do primeiro row válido
+                    if not series_name and rows:
+                        series_name = re.sub(r'\s*\d+/\d+$', '', rows[0].get('Series', '')).strip()
+                
+                # Usar nome existente se disponível
+                if existing_data.get('name'):
+                    series_name = existing_data['name']
+                
                 series_data = {
                     "series_id": s_id,
-                    "year": int(yr),
-                    "name": s_name,
-                    "total_releases": total_count, 
-                    "max_index": max(indices) if indices else 0,
-                    "releases": final_releases
+                    "name": series_name,
+                    "total_releases": max(total_count, existing_data.get('total_releases', 0)),
+                    "max_index": max(max_index, existing_data.get('max_index', 0)),
+                    "releases": all_releases
                 }
 
                 with open(series_file, 'w', encoding='utf-8') as f:
                     json.dump(series_data, f, indent=4, ensure_ascii=False)
 
-            # 6. Processar Brand
-            brand_id = slugify(manufacturer)
-            brand_dir = 'data/brands'
-            os.makedirs(brand_dir, exist_ok=True)
-            brand_file = os.path.join(brand_dir, f'{brand_id}.json')
-            
-            if os.path.exists(brand_file):
-                with open(brand_file, 'r', encoding='utf-8') as f:
-                    brand_data = json.load(f)
-            else:
-                brand_data = {
-                    "brand_id": brand_id, "name": manufacturer, "country": "Unknown",
-                    "founded_year": None, "castings": [], 
-                    "description": {
-                        "en-us": f"Manufacturer of {manufacturer} vehicles.",
-                        "pt-br": f"Fabricante de veículos {manufacturer}."
-                    }
-                }
-            
-            casting_path = f"data/castings/{casting_id}.json"
-            if casting_path not in brand_data['castings']:
-                brand_data['castings'].append(casting_path)
-            
-            with open(brand_file, 'w', encoding='utf-8') as f:
-                json.dump(brand_data, f, indent=4, ensure_ascii=False)
-
     print("\n✅ Organização em lote completa!")
 
 if __name__ == "__main__":
-    organize_batch()
+    json_folder = sys.argv[1] if len(sys.argv) > 1 else 'json'
+    organize_batch(json_folder)

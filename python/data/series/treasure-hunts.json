@@ -1,0 +1,15 @@
+{
+    "series_id": "treasure-hunts",
+    "name": "Treasure Hunts",
+    "total_releases": 3,
+    "max_index": 12,
+    "releases": {
+        "2001": [
+            "data/releases/2001/50003-rodger-dodger.json"
+        ],
+        "2005": [
+            "data/releases/2005/g6736-purple-passion.json",
+            "data/releases/2005/g6744-rodger-dodger.json"
+        ]
+    }
+}

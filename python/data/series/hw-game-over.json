@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-game-over",
+    "name": "HW Game Over",
+    "total_releases": 2,
+    "max_index": 4,
+    "releases": {
+        "2019": [
+            "data/releases/2019/fyc30-bone-shaker.json",
+            "data/releases/2019/fyf59-bone-shaker.json"
+        ]
+    }
+}

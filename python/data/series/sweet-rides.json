@@ -1,0 +1,15 @@
+{
+    "series_id": "sweet-rides",
+    "name": "Sweet Rides",
+    "total_releases": 6,
+    "max_index": 5,
+    "releases": {
+        "2023": [
+            "data/releases/2023/hkg24-dessert-drifter.json",
+            "data/releases/2023/hkh20-roller-toaster.json",
+            "data/releases/2023/hkj90-dessert-drifter.json",
+            "data/releases/2023/hkj93-roller-toaster.json",
+            "data/releases/2023/hkk97-donut-drifter.json"
+        ]
+    }
+}

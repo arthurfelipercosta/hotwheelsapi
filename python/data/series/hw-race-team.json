@@ -1,0 +1,12 @@
+{
+    "series_id": "hw-race-team",
+    "name": "HW Race Team",
+    "total_releases": 2,
+    "max_index": 9,
+    "releases": {
+        "2019": [
+            "data/releases/2019/fyc76-corvette-grand-sport.json",
+            "data/releases/2019/fyg41-corvette-grand-sport.json"
+        ]
+    }
+}

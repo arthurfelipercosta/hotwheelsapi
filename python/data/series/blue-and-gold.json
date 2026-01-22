@@ -1,0 +1,12 @@
+{
+    "series_id": "blue-and-gold",
+    "name": "Blue and Gold",
+    "total_releases": 2,
+    "max_index": 6,
+    "releases": {
+        "2026": [
+            "data/releases/2026/jkx81-bone-shaker.json",
+            "data/releases/2026/jkx86-corvette-stingray.json"
+        ]
+    }
+}

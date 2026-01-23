@@ -1,207 +1,314 @@
 [
     {
-        "metadata": {
-            "name": "'17 Pagani Huayra Roadster",
-            "Debut series": "HW Exotics",
-            "image": "DTW86 - 17 Pagani Huayra Roadster-1.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/1/16/DTW86_-_17_Pagani_Huayra_Roadster-1.jpg/revision/latest/scale-to-width-down/268?cb=20210812030819"
-        },
+        "casting_id": "17-pagani-huayra-roadster",
+        "name": "'17 Pagani Huayra Roadster",
         "description": {
             "en-us": "'17 Pagani Huayra Roadster Debut series HW Exotics Produced 2017 - Present Designer Ryu Asada Number DTW86",
             "pt-br": ""
         },
+        "designer": "Ryu Asada",
+        "debut_year": 2017,
+        "manufacturer": "'17",
         "releases": [
             {
-                "Col #": "290/365",
-                "Year": "2017",
-                "Series": "HW Exotics 4/10",
-                "Color": "Metalflake Blu Carbono",
-                "Tampo": "Detailed head- & taillights",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "J5",
-                "Toy #": "DTW86",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): K16, K17, K19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/Huyra_Roadster_Blue_17.jpg/revision/latest/scale-to-width-down/75?cb=20181211233540"
+                "release_id": "2017-17-pagani-huayra-roadster-metalflake-blu-carbono-dtw86",
+                "toy_number": "DTW86",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2017,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake Blu Carbono",
+                    "tampo": "Detailed head- & taillights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "J5"
+                    },
+                    "col": "290/365"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): K16, K17, K19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/Huyra_Roadster_Blue_17.jpg/revision/latest?cb=20181211233540"
+                }
             },
             {
-                "Col #": "119/365",
-                "Year": "2018",
-                "Series": "HW Exotics 2/10",
-                "Color": "Metalflake Grigio Titanio",
-                "Tampo": "Detailed taillights, red stripe along side skirt",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Red",
-                "Wheel Type": "10SP",
-                "Toy #": "FJX98",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): K45, K50",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/%2717_Pagani_Huayra_Roadster.JPG/revision/latest/scale-to-width-down/75?cb=20180730000127"
+                "release_id": "2018-17-pagani-huayra-roadster-metalflake-grigio-titanio-fjx98",
+                "toy_number": "FJX98",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2018,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Metalflake Grigio Titanio",
+                    "tampo": "Detailed taillights, red stripe along side skirt",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "col": "119/365"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): K45, K50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/%2717_Pagani_Huayra_Roadster.JPG/revision/latest?cb=20180730000127"
+                }
             },
             {
-                "Col #": "243/365",
-                "Year": "2018",
-                "Series": "HW Exotics 2/10",
-                "Color": "Rosso Corsa",
-                "Tampo": "Detailed taillights, red stripe along side skirt",
-                "base_color": "Grey",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "10SP",
-                "Toy #": "FJY24",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): L13, L14, L16, L17",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/Huyra_Roadster_Red_18.jpg/revision/latest/scale-to-width-down/75?cb=20181216142925"
+                "release_id": "2018-17-pagani-huayra-roadster-rosso-corsa-fjy24",
+                "toy_number": "FJY24",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2018,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Rosso Corsa",
+                    "tampo": "Detailed taillights, red stripe along side skirt",
+                    "base_color": "Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "col": "243/365"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): L13, L14, L16, L17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/Huyra_Roadster_Red_18.jpg/revision/latest?cb=20181216142925"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2019",
-                "Series": "HW Exotics 5-Pack",
-                "Color": "Ossidania",
-                "Tampo": "Detailed head- & taillights, Red stripe on hood and trunk, Hot wheels logo and Pagani name on rear bumper",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold 10SP",
-                "Toy #": "FYL17",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): L50, M06, M12, M22",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Huayra2019exotics5pack.JPG/revision/latest/scale-to-width-down/75?cb=20190508082321"
+                "release_id": "2019-17-pagani-huayra-roadster-ossidania-fyl17",
+                "toy_number": "FYL17",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2019,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Ossidania",
+                    "tampo": "Detailed head- & taillights, Red stripe on hood and trunk, Hot wheels logo and Pagani name on rear bumper",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold 10SP"
+                    },
+                    "col": "243/365"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): L50, M06, M12, M22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Huayra2019exotics5pack.JPG/revision/latest?cb=20190508082321"
+                }
             },
             {
-                "Col #": "241/250",
-                "Year": "2020",
-                "Series": "HW Roadsters 5/5",
-                "Color": "Pearl Verde Firenze",
-                "Tampo": "Detailed headlights & taillights, double black stripes across top, 'Pagani' on rear bumper",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Grey 10SP",
-                "Toy #": "GHC72",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): N27, N29, N30, N32",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/Huayra_Roadster_Green_2020.jpg/revision/latest/scale-to-width-down/75?cb=20200926133636"
+                "release_id": "2020-17-pagani-huayra-roadster-pearl-verde-firenze-ghc72",
+                "toy_number": "GHC72",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2020,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Pearl Verde Firenze",
+                    "tampo": "Detailed headlights & taillights, double black stripes across top, 'Pagani' on rear bumper",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Grey 10SP"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): N27, N29, N30, N32",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/Huayra_Roadster_Green_2020.jpg/revision/latest?cb=20200926133636"
+                }
             },
             {
-                "Col #": "241/250",
-                "Year": "2020",
-                "Series": "HW Roadsters 5/5",
-                "Color": "Spectraflame Verde Firenze",
-                "Tampo": "Detailed headlights & taillights, double black stripes across top, 'Pagani' on rear bumper",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "RR10SP",
-                "Toy #": "GHG21",
-                "Country": "Malaysia",
-                "Notes": "Super Treasure Hunt Base code(s): N26, N29",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/08/PaganiSuperOpenFun.jpg/revision/latest/scale-to-width-down/75?cb=20210310232847"
+                "release_id": "2020-17-pagani-huayra-roadster-spectraflame-verde-firenze-ghg21",
+                "toy_number": "GHG21",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2020,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Spectraflame Verde Firenze",
+                    "tampo": "Detailed headlights & taillights, double black stripes across top, 'Pagani' on rear bumper",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Malaysia",
+                "notes": "Super Treasure Hunt Base code(s): N26, N29",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/08/PaganiSuperOpenFun.jpg/revision/latest?cb=20210310232847"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2021",
-                "Series": "Convertibles 9/10",
-                "Color": "Viola Dragone",
-                "Tampo": "Detailed headlights & taillights, Gold & Black striping along top",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold 10SP",
-                "Toy #": "GRT19",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): P08",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/GRT19-01.JPG/revision/latest/scale-to-width-down/75?cb=20210625093529"
+                "release_id": "2021-17-pagani-huayra-roadster-viola-dragone-grt19",
+                "toy_number": "GRT19",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2021,
+                "series_id": "convertibles",
+                "series_index": 9,
+                "specs": {
+                    "color": "Viola Dragone",
+                    "tampo": "Detailed headlights & taillights, Gold & Black striping along top",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold 10SP"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): P08",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/GRT19-01.JPG/revision/latest?cb=20210625093529"
+                }
             },
             {
-                "Col #": "013/250",
-                "Year": "2023",
-                "Series": "HW Roadsters 2/10",
-                "Color": "Bianco Benny",
-                "Tampo": "Detailed headlights & taillights, Gold & Black striping along top",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold 10SP",
-                "Toy #": "HKH37",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R33, R37",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/25/HW_%2717_Pagani_Huayra_Roadster_%282023_-_HKH37%29.jpg/revision/latest/scale-to-width-down/75?cb=20221019155728"
+                "release_id": "2023-17-pagani-huayra-roadster-bianco-benny-hkh37",
+                "toy_number": "HKH37",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Bianco Benny",
+                    "tampo": "Detailed headlights & taillights, Gold & Black striping along top",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold 10SP"
+                    },
+                    "col": "013/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R33, R37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/HW_%2717_Pagani_Huayra_Roadster_%282023_-_HKH37%29.jpg/revision/latest?cb=20221019155728"
+                }
             },
             {
-                "Col #": "013/250",
-                "Year": "2023",
-                "Series": "HW Roadsters 2/10",
-                "Color": "ZAMAC",
-                "Tampo": "Detailed headlights & taillights, Dark Pink & Black striping along top",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold 10SP",
-                "Toy #": "HKL23",
-                "Country": "Malaysia",
-                "Notes": "Walmart Exclusive Base code(s): R35, R36",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/07/Mainline_2023_%2717_Pagani_Huayra_Roadster_Zamac_Malaysia_HKL23.jpg/revision/latest/scale-to-width-down/75?cb=20230329203019"
+                "release_id": "2023-17-pagani-huayra-roadster-zamac-hkl23",
+                "toy_number": "HKL23",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "Detailed headlights & taillights, Dark Pink & Black striping along top",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold 10SP"
+                    },
+                    "col": "013/250"
+                },
+                "country": "Malaysia",
+                "notes": "Walmart Exclusive Base code(s): R35, R36",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/Mainline_2023_%2717_Pagani_Huayra_Roadster_Zamac_Malaysia_HKL23.jpg/revision/latest?cb=20230329203019"
+                }
             },
             {
-                "Col #": "013/250",
-                "Year": "2023",
-                "Series": "HW Roadsters 2/10",
-                "Color": "Metallic Blu Francia",
-                "Tampo": "Detailed headlights & taillights, gold & black striping along top, \"Huayra Roadster\" & Hot Wheels logo on rear",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Light smoke tint",
-                "Interior Color": "Gold",
-                "Wheel Type": "Gold 10SP",
-                "Toy #": "HKK08",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R51, S01, S02, S04",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/74/HKK08.jpg/revision/latest/scale-to-width-down/75?cb=20230219100336"
+                "release_id": "2023-17-pagani-huayra-roadster-metallic-blu-francia-hkk08",
+                "toy_number": "HKK08",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Metallic Blu Francia",
+                    "tampo": "Detailed headlights & taillights, gold & black striping along top, \"Huayra Roadster\" & Hot Wheels logo on rear",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Light smoke tint",
+                    "interior_color": "Gold",
+                    "wheel_type": {
+                        "0": "Gold 10SP"
+                    },
+                    "col": "013/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R51, S01, S02, S04",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/HKK08.jpg/revision/latest?cb=20230219100336"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "NFT Garage (Series 5) #44",
-                "Color": "Spectraflame Varennesite Arancione",
-                "Tampo": "Detailed headlights and taillights, black hood, white stripe down hood, \"92\" on sides",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Brown",
-                "Wheel Type": "Black, Chrome Orange Rim RR5SPM",
-                "Toy #": "HRX23",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S22",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/46/NFT_Garage_Series_5_%2717_Pagani_Huayra_Roadster_Malaysia_HRX23.jpg/revision/latest/scale-to-width-down/75?cb=20230908185803"
+                "release_id": "2023-17-pagani-huayra-roadster-spectraflame-varennesite-arancione-hrx23",
+                "toy_number": "HRX23",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2023,
+                "series_id": "nft",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Varennesite Arancione",
+                    "tampo": "Detailed headlights and taillights, black hood, white stripe down hood, \"92\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "Black, Chrome Orange Rim RR5SPM"
+                    },
+                    "col": "013/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/NFT_Garage_Series_5_%2717_Pagani_Huayra_Roadster_Malaysia_HRX23.jpg/revision/latest?cb=20230908185803"
+                }
             },
             {
-                "Col #": "101/250",
-                "Year": "2026",
-                "Series": "Exoticars 7/10",
-                "Color": "",
-                "Tampo": "",
-                "base_color": "",
-                "base_type": "",
-                "Window Color": "",
-                "Interior Color": "",
-                "Wheel Type": "",
-                "Toy #": "JJH99",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U47N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/2017Huayra.jpg/revision/latest/scale-to-width-down/75?cb=20260121131545"
+                "release_id": "2026-17-pagani-huayra-roadster-spectraflame-varennesite-arancione-jjh99",
+                "toy_number": "JJH99",
+                "casting_id": "17-pagani-huayra-roadster",
+                "year": 2026,
+                "series_id": "exoticars",
+                "series_index": 7,
+                "specs": {
+                    "color": "Spectraflame Varennesite Arancione",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "col": "101/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U47N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/2017Huayra.jpg/revision/latest?cb=20260121131545"
+                }
             }
         ]
     }

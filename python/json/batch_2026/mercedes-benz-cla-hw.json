@@ -1,31 +1,40 @@
 [
     {
-        "metadata": {
-            "name": "Mercedes-Benz CLA HW",
-            "Debut series": "Unknown",
-            "image": "Image Not Available.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
-        },
+        "casting_id": "mercedes-benz-cla-hw",
+        "name": "Mercedes-Benz CLA HW",
         "description": {
             "en-us": "Mercedes-Benz CLA HW Debut series Unknown Produced 2026 Designer Craig Callum Number JJH63",
             "pt-br": ""
         },
+        "designer": "Craig Callum",
+        "debut_year": 2026,
+        "manufacturer": "Mercedes-Benz",
         "releases": [
             {
-                "Col #": "???/250",
-                "Year": "2026",
-                "Series": "Unknown",
-                "Color": "Metalflake Denim Blue",
-                "Tampo": "Hot Wheels logo, \"68\" on sides, pink splatter, Mercedes-Benz logo on wing",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Pink tint",
-                "Interior Color": "Baby blue",
-                "Wheel Type": "E10SP & AeroDisc",
-                "Toy #": "JJH63",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-mercedes-benz-cla-hw-metalflake-denim-blue-jjh63",
+                "toy_number": "JJH63",
+                "casting_id": "mercedes-benz-cla-hw",
+                "year": 2026,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Denim Blue",
+                    "tampo": "Hot Wheels logo, \"68\" on sides, pink splatter, Mercedes-Benz logo on wing",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Pink tint",
+                    "interior_color": "Baby blue",
+                    "wheel_type": {
+                        "0": "E10SP & AeroDisc"
+                    },
+                    "col": "???/250",
+                    "notes_variations": "New Model Base code(s):"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

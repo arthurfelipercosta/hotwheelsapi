@@ -1,31 +1,41 @@
 [
     {
-        "metadata": {
-            "name": "Pagani Zonda Cinque",
-            "Debut series": "Exoticars",
-            "image": "'ToonedZonda.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%27ToonedZonda.jpg/revision/latest/scale-to-width-down/268?cb=20251015122209"
-        },
+        "casting_id": "pagani-zonda-cinque",
+        "name": "Pagani Zonda Cinque",
         "description": {
             "en-us": "Pagani Zonda Cinque Debut series Exoticars Produced 2026 – Present Designer Ronald Wong Number JJH34",
             "pt-br": ""
         },
+        "designer": "Ronald Wong",
+        "debut_year": 2026,
+        "manufacturer": "Pagani",
         "releases": [
             {
-                "Col #": "026/250",
-                "Year": "2026",
-                "Series": "Exoticars 4/10",
-                "Color": "Bianco Benny",
-                "Tampo": "Detailed headlights and trim, black accents on frunk, red stripe on frunk, roof scoop and spoiler, Horatio Pagani's signature on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Heavy smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Red chrome lip, black OH5 / 026/250 / 2026 / Exoticars 4/10 / Arancio Saint Tropez / Detailed headlights and trim, black accents on frunk, orange stripe on frunk, roof scoop and spoiler, Horatio Pagani's signature on sides / Black / Plastic / Heavy smoke tint / Orange chrome lip, black OH5 / Malaysia / New Model Base code(s):",
-                "Toy #": "JJH34",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U36N, U37N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%27ToonedZonda.jpg/revision/latest/scale-to-width-down/75?cb=20251015122209"
+                "release_id": "2026-pagani-zonda-cinque-bianco-benny-jjh34",
+                "toy_number": "JJH34",
+                "casting_id": "pagani-zonda-cinque",
+                "year": 2026,
+                "series_id": "exoticars",
+                "series_index": 4,
+                "specs": {
+                    "color": "Bianco Benny",
+                    "tampo": "Detailed headlights and trim, black accents on frunk, red stripe on frunk, roof scoop and spoiler, Horatio Pagani's signature on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Heavy smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Red chrome lip, black OH5",
+                        "1": "Orange chrome lip, black OH5"
+                    },
+                    "col": "026/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U36N, U37N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%27ToonedZonda.jpg/revision/latest?cb=20251015122209",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

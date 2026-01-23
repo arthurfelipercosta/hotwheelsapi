@@ -1,63 +1,89 @@
 [
     {
-        "metadata": {
-            "name": "Mailed It!",
-            "Debut series": "HW Art Cars",
-            "image": "MailedIt.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MailedIt.jpg/revision/latest/scale-to-width-down/268?cb=20240427105004"
-        },
+        "casting_id": "mailed-it",
+        "name": "Mailed It!",
         "description": {
             "en-us": "Mailed It! Debut series HW Art Cars Produced 2024 – Present Designer Tyler Charest Number HRY82",
             "pt-br": ""
         },
+        "designer": "Tyler Charest",
+        "debut_year": 2024,
+        "manufacturer": "Mailed",
         "releases": [
             {
-                "Col #": "164/250",
-                "Year": "2024",
-                "Series": "HW Art Cars 10/10",
-                "Color": "Metalflake dark blue",
-                "Tampo": "Red and white stripes, smoke graphics, dog graphics, \"MATTY WUZ HERE\", \"✦WOOF!✦\" on left door, \"HWPS ALWAYS ON TIME! KINDA\" on left rear panel, \"MAILED IT! GO! \" graffiti on right door, \" TC \", \"'24 ART CARS\" graffiti, \"HWPS ALWAYS ON TIME! \" on right rear panels, \"HWGRFX\" on wing, \"Y\" on roof",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "AeroDisc & DD8",
-                "Toy #": "HRY82",
-                "Country": "Malaysia",
-                "Notes": "New Model Hot Wheels: Let's Race Base code(s): T09, T11, T13",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MailedIt.jpg/revision/latest/scale-to-width-down/75?cb=20240427105004"
+                "release_id": "2024-mailed-it-metalflake-dark-blue-hry82",
+                "toy_number": "HRY82",
+                "casting_id": "mailed-it",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 10,
+                "specs": {
+                    "color": "Metalflake dark blue",
+                    "tampo": "Red and white stripes, smoke graphics, dog graphics, \"MATTY WUZ HERE\", \"✦WOOF!✦\" on left door, \"HWPS ALWAYS ON TIME! KINDA\" on left rear panel, \"MAILED IT! GO! \" graffiti on right door, \" TC \", \"'24 ART CARS\" graffiti, \"HWPS ALWAYS ON TIME! \" on right rear panels, \"HWGRFX\" on wing, \"Y\" on roof",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "AeroDisc & DD8"
+                    },
+                    "col": "164/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Hot Wheels: Let's Race Base code(s): T09, T11, T13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MailedIt.jpg/revision/latest?cb=20240427105004"
+                }
             },
             {
-                "Col #": "164/250",
-                "Year": "2024",
-                "Series": "HW Art Cars 10/10",
-                "Color": "Matte White",
-                "Tampo": "Red and blue stripes, smoke graphics, dog graphics, \"MATTY WUZ HERE\", \"✦WOOF!✦\" on left door, \"HWPS ALWAYS ON TIME! KINDA\" on left rear panel, \"MAILED IT! GO! \" graffiti on right door, \" TC \", \"'24 ART CARS\" graffiti, \"HWPS ALWAYS ON TIME! \" on right rear panels, \"HWGRFX\" on wing, \"Y\" on roof",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Black AeroDisc & DD8",
-                "Toy #": "HTD91",
-                "Country": "Malaysia",
-                "Notes": "New Model Hot Wheels: Let's Race Base code(s): T27, T28, T31",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/MailedIt2024WhiteRight.jpg/revision/latest/scale-to-width-down/75?cb=20241122204449"
+                "release_id": "2024-mailed-it-matte-white-htd91",
+                "toy_number": "HTD91",
+                "casting_id": "mailed-it",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 10,
+                "specs": {
+                    "color": "Matte White",
+                    "tampo": "Red and blue stripes, smoke graphics, dog graphics, \"MATTY WUZ HERE\", \"✦WOOF!✦\" on left door, \"HWPS ALWAYS ON TIME! KINDA\" on left rear panel, \"MAILED IT! GO! \" graffiti on right door, \" TC \", \"'24 ART CARS\" graffiti, \"HWPS ALWAYS ON TIME! \" on right rear panels, \"HWGRFX\" on wing, \"Y\" on roof",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Black AeroDisc & DD8"
+                    },
+                    "col": "164/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Hot Wheels: Let's Race Base code(s): T27, T28, T31",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/MailedIt2024WhiteRight.jpg/revision/latest?cb=20241122204449"
+                }
             },
             {
-                "Col #": "057/250",
-                "Year": "2025",
-                "Series": "HW Metro 3/5",
-                "Color": "Metalflake plum pearl",
-                "Tampo": "Yellow flames, pink highlights, \"HWGRFX\", Treasure Hunt flame logo on door, Hot Wheels logo, \" Mailed It! \", \" LUBETSKY RACING \" on sides",
-                "base_color": "Purple",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "White",
-                "Wheel Type": "Gold 5SP",
-                "Toy #": "JBC22",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race Treasure Hunt Base code(s): T41",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/LubetskyMailedIt.jpg/revision/latest/scale-to-width-down/75?cb=20241125121043"
+                "release_id": "2025-mailed-it-metalflake-plum-pearl-jbc22",
+                "toy_number": "JBC22",
+                "casting_id": "mailed-it",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake plum pearl",
+                    "tampo": "Yellow flames, pink highlights, \"HWGRFX\", Treasure Hunt flame logo on door, Hot Wheels logo, \" Mailed It! \", \" LUBETSKY RACING \" on sides",
+                    "base_color": "Purple",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Gold 5SP"
+                    },
+                    "col": "057/250"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race Treasure Hunt Base code(s): T41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/LubetskyMailedIt.jpg/revision/latest?cb=20241125121043"
+                }
             }
         ]
     }

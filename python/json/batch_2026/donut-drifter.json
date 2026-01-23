@@ -1,255 +1,404 @@
 [
     {
-        "metadata": {
-            "name": "Donut Drifter",
-            "Debut series": "Fast Foodie",
-            "image": "DonutDrifter.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/63/DonutDrifter.jpg/revision/latest/scale-to-width-down/267?cb=20210927022603"
-        },
+        "casting_id": "donut-drifter",
+        "name": "Donut Drifter",
         "description": {
             "en-us": "Donut Drifter Debut series Fast Foodie Produced 2020 - Present Designer Charlie Angulo Number GHB63",
             "pt-br": ""
         },
+        "designer": "Charlie Angulo",
+        "debut_year": 2020,
+        "manufacturer": "Donut",
         "releases": [
             {
-                "Col #": "108/250",
-                "Year": "2020",
-                "Series": "Fast Foodie 1/5",
-                "Color": "Dark Brown",
-                "Tampo": "Red, Blue Yellow & White sprinkles & HW logo on top",
-                "base_color": "Pink",
-                "base_type": "Metal",
-                "Interior Color": "Light Brown",
-                "Spoiler Color": "Pink",
-                "Wheel Type": "Yellow 5SP & Light Blue 5SP",
-                "Toy #": "GHB63",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): M43, M47, M48, M49",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/63/DonutDrifter.jpg/revision/latest/scale-to-width-down/75?cb=20210927022603"
+                "release_id": "2020-donut-drifter-dark-brown-ghb63",
+                "toy_number": "GHB63",
+                "casting_id": "donut-drifter",
+                "year": 2020,
+                "series_id": "fast",
+                "series_index": 1,
+                "specs": {
+                    "color": "Dark Brown",
+                    "tampo": "Red, Blue Yellow & White sprinkles & HW logo on top",
+                    "base_color": "Pink",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Light Brown",
+                    "wheel_type": {
+                        "0": "Yellow 5SP & Light Blue 5SP"
+                    },
+                    "col": "108/250",
+                    "spoiler_color": "Pink"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): M43, M47, M48, M49",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/DonutDrifter.jpg/revision/latest?cb=20210927022603"
+                }
             },
             {
-                "Col #": "108/250",
-                "Year": "2020",
-                "Series": "Fast Foodie 1/5",
-                "Color": "Maroon",
-                "Tampo": "Brown, Blue, Yellow & White sprinkles & HW logo on top",
-                "base_color": "Light blue",
-                "base_type": "Metal",
-                "Interior Color": "Light Brown",
-                "Spoiler Color": "Light blue",
-                "Wheel Type": "Yellow 5SP & Red 5SP",
-                "Toy #": "GHD98",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): N05, N24",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/Donut_Drifter_Vari2.jpg/revision/latest/scale-to-width-down/75?cb=20200910020913"
+                "release_id": "2020-donut-drifter-maroon-ghd98",
+                "toy_number": "GHD98",
+                "casting_id": "donut-drifter",
+                "year": 2020,
+                "series_id": "fast",
+                "series_index": 1,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "Brown, Blue, Yellow & White sprinkles & HW logo on top",
+                    "base_color": "Light blue",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Light Brown",
+                    "wheel_type": {
+                        "0": "Yellow 5SP & Red 5SP"
+                    },
+                    "col": "108/250",
+                    "spoiler_color": "Light blue"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): N05, N24",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/Donut_Drifter_Vari2.jpg/revision/latest?cb=20200910020913"
+                }
             },
             {
-                "Col #": "060/250",
-                "Year": "2021",
-                "Series": "Fast Foodie 3/5",
-                "Color": "Pink",
-                "Tampo": "Blue, & green sprinkles, White icing squiggle, HW logo on top",
-                "base_color": "Orange",
-                "base_type": "Metal",
-                "Interior Color": "White",
-                "Spoiler Color": "Blue",
-                "Wheel Type": "Turquoise 5SP",
-                "Toy #": "GRY08",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): N38, N39, N41, N43",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/13/DonutDrifter3.jpg/revision/latest/scale-to-width-down/75?cb=20210219180749"
+                "release_id": "2021-donut-drifter-pink-gry08",
+                "toy_number": "GRY08",
+                "casting_id": "donut-drifter",
+                "year": 2021,
+                "series_id": "fast",
+                "series_index": 3,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Blue, & green sprinkles, White icing squiggle, HW logo on top",
+                    "base_color": "Orange",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Turquoise 5SP"
+                    },
+                    "col": "060/250",
+                    "spoiler_color": "Blue"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): N38, N39, N41, N43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/DonutDrifter3.jpg/revision/latest?cb=20210219180749"
+                }
             },
             {
-                "Col #": "060/250",
-                "Year": "2021",
-                "Series": "Fast Foodie 3/5",
-                "Color": "Sky Blue",
-                "Tampo": "Orange & purple star sprinkles, White icing squiggle, HW logo on top",
-                "base_color": "Pink",
-                "base_type": "Metal",
-                "Interior Color": "Tan",
-                "Spoiler Color": "Orange",
-                "Wheel Type": "Yellow 5SP",
-                "Toy #": "GTB92",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): N49, P02, P04, P05, P06",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/21/DonutDrifter4ThumbNail.jpg/revision/latest/scale-to-width-down/75?cb=20210427191455"
+                "release_id": "2021-donut-drifter-sky-blue-gtb92",
+                "toy_number": "GTB92",
+                "casting_id": "donut-drifter",
+                "year": 2021,
+                "series_id": "fast",
+                "series_index": 3,
+                "specs": {
+                    "color": "Sky Blue",
+                    "tampo": "Orange & purple star sprinkles, White icing squiggle, HW logo on top",
+                    "base_color": "Pink",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "Yellow 5SP"
+                    },
+                    "col": "060/250",
+                    "spoiler_color": "Orange"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): N49, P02, P04, P05, P06",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/DonutDrifter4ThumbNail.jpg/revision/latest?cb=20210427191455"
+                }
             },
             {
-                "Col #": "060/250",
-                "Year": "2021",
-                "Series": "Red Edition 12/12",
-                "Color": "White",
-                "Tampo": "Red & pink sprinkles, pink icing",
-                "base_color": "Maroon",
-                "base_type": "Metal",
-                "Interior Color": "Red",
-                "Spoiler Color": "Maroon",
-                "Wheel Type": "Red Wheel White 5SP",
-                "Toy #": "GTD60",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): P12, P21",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/GTD60_-_Donut_Drifter-1.JPG/revision/latest/scale-to-width-down/75?cb=20211122050815"
+                "release_id": "2021-donut-drifter-white-gtd60",
+                "toy_number": "GTD60",
+                "casting_id": "donut-drifter",
+                "year": 2021,
+                "series_id": "red",
+                "series_index": 12,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Red & pink sprinkles, pink icing",
+                    "base_color": "Maroon",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "Red Wheel White 5SP"
+                    },
+                    "col": "060/250",
+                    "spoiler_color": "Maroon"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): P12, P21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/GTD60_-_Donut_Drifter-1.JPG/revision/latest?cb=20211122050815"
+                }
             },
             {
-                "Col #": "082/250",
-                "Year": "2022",
-                "Series": "Fast Foodie 4/5",
-                "Color": "Violet",
-                "Tampo": "Purple icing with shooting stars in aqua and pink deco on top",
-                "base_color": "Brown",
-                "base_type": "Metal",
-                "Interior Color": "Orange",
-                "Spoiler Color": "Orange",
-                "Wheel Type": "Pink wheel, White AeroDisc",
-                "Toy #": "HCV51",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): P45, P46, P48, P49, P50",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/af/2022_donut_drifter.jpg/revision/latest/scale-to-width-down/75?cb=20220311155343"
+                "release_id": "2022-donut-drifter-violet-hcv51",
+                "toy_number": "HCV51",
+                "casting_id": "donut-drifter",
+                "year": 2022,
+                "series_id": "fast",
+                "series_index": 4,
+                "specs": {
+                    "color": "Violet",
+                    "tampo": "Purple icing with shooting stars in aqua and pink deco on top",
+                    "base_color": "Brown",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "Pink wheel, White AeroDisc"
+                    },
+                    "col": "082/250",
+                    "spoiler_color": "Orange"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): P45, P46, P48, P49, P50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/2022_donut_drifter.jpg/revision/latest?cb=20220311155343"
+                }
             },
             {
-                "Col #": "082/250",
-                "Year": "2022",
-                "Series": "Fast Foodie 4/5",
-                "Color": "Gold",
-                "Tampo": "Mustard icing with shooting stars in aqua and pink deco on top",
-                "base_color": "Brown",
-                "base_type": "Metal",
-                "Interior Color": "Purple",
-                "Spoiler Color": "Purple",
-                "Wheel Type": "Pink wheel, White AeroDisc",
-                "Toy #": "HCX84",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R20, R21",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/84/HCX84.jpg/revision/latest/scale-to-width-down/75?cb=20220801125157"
+                "release_id": "2022-donut-drifter-gold-hcx84",
+                "toy_number": "HCX84",
+                "casting_id": "donut-drifter",
+                "year": 2022,
+                "series_id": "fast",
+                "series_index": 4,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "Mustard icing with shooting stars in aqua and pink deco on top",
+                    "base_color": "Brown",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Purple",
+                    "wheel_type": {
+                        "0": "Pink wheel, White AeroDisc"
+                    },
+                    "col": "082/250",
+                    "spoiler_color": "Purple"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R20, R21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/HCX84.jpg/revision/latest?cb=20220801125157"
+                }
             },
             {
-                "Col #": "129/250",
-                "Year": "2023",
-                "Series": "Sweet Rides 5/5",
-                "Color": "Orange",
-                "Tampo": "White swirls on top, ghost Treasure Hunt flame logo at end of swirl",
-                "base_color": "Turquoise",
-                "base_type": "Metal",
-                "Interior Color": "Pink",
-                "Spoiler Color": "Pink",
-                "Wheel Type": "White wheel, Chrome Pink 5SP (front), Chrome Orange 5SP (rear)",
-                "Toy #": "HKK97",
-                "Country": "Malaysia",
-                "Notes": "Treasure Hunt Base code(s): R49, R50, R51, R52",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/TH_Donut_Drifter_FC.jpeg/revision/latest/scale-to-width-down/75?cb=20230512231151"
+                "release_id": "2023-donut-drifter-orange-hkk97",
+                "toy_number": "HKK97",
+                "casting_id": "donut-drifter",
+                "year": 2023,
+                "series_id": "sweet",
+                "series_index": 5,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "White swirls on top, ghost Treasure Hunt flame logo at end of swirl",
+                    "base_color": "Turquoise",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "White wheel, Chrome Pink 5SP (front), Chrome Orange 5SP (rear)"
+                    },
+                    "col": "129/250",
+                    "spoiler_color": "Pink"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base code(s): R49, R50, R51, R52",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/TH_Donut_Drifter_FC.jpeg/revision/latest?cb=20230512231151"
+                }
             },
             {
-                "Col #": "150/250",
-                "Year": "2024",
-                "Series": "Fast Foodie 1/5",
-                "Color": "Green",
-                "Tampo": "Mint green icing, sprinkles",
-                "base_color": "White",
-                "base_type": "Metal",
-                "Interior Color": "Teal",
-                "Spoiler Color": "Teal",
-                "Wheel Type": "AeroDisc",
-                "Toy #": "HTB46",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race Base code(s): T05, T06, T07",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/Donut_drifter_green.jpg/revision/latest/scale-to-width-down/75?cb=20240604012917"
+                "release_id": "2024-donut-drifter-green-htb46",
+                "toy_number": "HTB46",
+                "casting_id": "donut-drifter",
+                "year": 2024,
+                "series_id": "fast",
+                "series_index": 1,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Mint green icing, sprinkles",
+                    "base_color": "White",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Teal",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "col": "150/250",
+                    "spoiler_color": "Teal"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race Base code(s): T05, T06, T07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/Donut_drifter_green.jpg/revision/latest?cb=20240604012917"
+                }
             },
             {
-                "Col #": "150/250",
-                "Year": "2024",
-                "Series": "Fast Foodie 1/5",
-                "Color": "Blue",
-                "Tampo": "Dark blue & white icing, sprinkles",
-                "base_color": "Pink metalflake",
-                "base_type": "Metal",
-                "Interior Color": "White",
-                "Spoiler Color": "White",
-                "Wheel Type": "AeroDisc",
-                "Toy #": "HTD70",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race Base code(s): T13, T22, T24, T25, T27, T28",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/HotWheelsDonutDrifter.JPG/revision/latest/scale-to-width-down/75?cb=20240911194212"
+                "release_id": "2024-donut-drifter-blue-htd70",
+                "toy_number": "HTD70",
+                "casting_id": "donut-drifter",
+                "year": 2024,
+                "series_id": "fast",
+                "series_index": 1,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Dark blue & white icing, sprinkles",
+                    "base_color": "Pink metalflake",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "col": "150/250",
+                    "spoiler_color": "White"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race Base code(s): T13, T22, T24, T25, T27, T28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/HotWheelsDonutDrifter.JPG/revision/latest?cb=20240911194212"
+                }
             },
             {
-                "Col #": "040/250",
-                "Year": "2025",
-                "Series": "Hot Wheels Let's Race 2/5",
-                "Color": "Pink",
-                "Tampo": "Blue, & green sprinkles, White icing squiggle, HW logo on top",
-                "base_color": "Orange",
-                "base_type": "Metal",
-                "Interior Color": "White",
-                "Spoiler Color": "Blue",
-                "Wheel Type": "Turquoise 5SP",
-                "Toy #": "HYW92",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race Updated base Similar to GRY08 Base code(s): T42",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/2025_Donut_Drifter.jpg/revision/latest/scale-to-width-down/75?cb=20250214232726"
+                "release_id": "2025-donut-drifter-pink-hyw92",
+                "toy_number": "HYW92",
+                "casting_id": "donut-drifter",
+                "year": 2025,
+                "series_id": "hot",
+                "series_index": 2,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Blue, & green sprinkles, White icing squiggle, HW logo on top",
+                    "base_color": "Orange",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Turquoise 5SP"
+                    },
+                    "col": "040/250",
+                    "spoiler_color": "Blue"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race Updated base Similar to GRY08 Base code(s): T42",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/2025_Donut_Drifter.jpg/revision/latest?cb=20250214232726"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Super Rigs",
-                "Color": "Dark Brown",
-                "Tampo": "Red, Blue Yellow & White sprinkles & HW logo on top",
-                "base_color": "Pink",
-                "base_type": "Metal",
-                "Interior Color": "Light Brown",
-                "Spoiler Color": "Pink",
-                "Wheel Type": "Yellow 5SP & Light Blue 5SP",
-                "Toy #": "JCM46",
-                "Country": "Thailand",
-                "Notes": "Packaged with Sweet Delivery Similar to GHB63 Base code(s): T44, T46",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/63/DonutDrifter.jpg/revision/latest/scale-to-width-down/75?cb=20210927022603"
+                "release_id": "2025-donut-drifter-dark-brown-jcm46",
+                "toy_number": "JCM46",
+                "casting_id": "donut-drifter",
+                "year": 2025,
+                "series_id": "super",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Brown",
+                    "tampo": "Red, Blue Yellow & White sprinkles & HW logo on top",
+                    "base_color": "Pink",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Light Brown",
+                    "wheel_type": {
+                        "0": "Yellow 5SP & Light Blue 5SP"
+                    },
+                    "col": "040/250",
+                    "spoiler_color": "Pink"
+                },
+                "country": "Thailand",
+                "notes": "Packaged with Sweet Delivery Similar to GHB63 Base code(s): T44, T46",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/DonutDrifter.jpg/revision/latest?cb=20210927022603"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Super Rigs",
-                "Color": "Maroon",
-                "Tampo": "Brown, Blue, Yellow & White sprinkles & HW logo on top",
-                "base_color": "Light blue",
-                "base_type": "Metal",
-                "Interior Color": "Light Brown",
-                "Spoiler Color": "Light blue",
-                "Wheel Type": "Yellow 5SP & Red transparent 5SP",
-                "Toy #": "JCM48",
-                "Country": "Malaysia",
-                "Notes": "Similar to GHD98 Base code(s): U11A, U15A, U17A",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/JCM48_Donut_Drifter_o4.jpg/revision/latest/scale-to-width-down/75?cb=20250926144839"
+                "release_id": "2025-donut-drifter-maroon-jcm48",
+                "toy_number": "JCM48",
+                "casting_id": "donut-drifter",
+                "year": 2025,
+                "series_id": "super",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "Brown, Blue, Yellow & White sprinkles & HW logo on top",
+                    "base_color": "Light blue",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Light Brown",
+                    "wheel_type": {
+                        "0": "Yellow 5SP & Red transparent 5SP"
+                    },
+                    "col": "040/250",
+                    "spoiler_color": "Light blue"
+                },
+                "country": "Malaysia",
+                "notes": "Similar to GHD98 Base code(s): U11A, U15A, U17A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/JCM48_Donut_Drifter_o4.jpg/revision/latest?cb=20250926144839"
+                }
             },
             {
-                "Col #": "054/250",
-                "Year": "2026",
-                "Series": "Sweet Rides 1/5",
-                "Color": "Teal",
-                "Tampo": "Pink glazing and white icing, Hot Wheels logo on end of icing",
-                "base_color": "Beige",
-                "base_type": "Metal",
-                "Interior Color": "Light Brown",
-                "Spoiler Color": "Orange",
-                "Wheel Type": "Teal tire & White rim AeroDisc",
-                "Toy #": "JJJ24",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U41N, U43N, U44N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/77/DonutCar.jpg/revision/latest/scale-to-width-down/75?cb=20251121094944"
+                "release_id": "2026-donut-drifter-teal-jjj24",
+                "toy_number": "JJJ24",
+                "casting_id": "donut-drifter",
+                "year": 2026,
+                "series_id": "sweet",
+                "series_index": 1,
+                "specs": {
+                    "color": "Teal",
+                    "tampo": "Pink glazing and white icing, Hot Wheels logo on end of icing",
+                    "base_color": "Beige",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Light Brown",
+                    "wheel_type": {
+                        "0": "Teal tire & White rim AeroDisc"
+                    },
+                    "col": "054/250",
+                    "spoiler_color": "Orange"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U41N, U43N, U44N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/DonutCar.jpg/revision/latest?cb=20251121094944"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2026",
-                "Series": "Color Shifters",
-                "Color": "White / Pink",
-                "Tampo": "White icing with pink sprinkles",
-                "base_color": "Sunrise",
-                "base_type": "Metal",
-                "Interior Color": "Golden tan",
-                "Spoiler Color": "Blue",
-                "Wheel Type": "Turquoise tire, White 5SP",
-                "Toy #": "JKP19",
-                "Country": "Thailand",
-                "Notes": "Base code(s): U31, U33A",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/52/JKP19_Donut_Drifter_Co1.jpg/revision/latest/scale-to-width-down/75?cb=20251110193115"
+                "release_id": "2026-donut-drifter-white-pink-jkp19",
+                "toy_number": "JKP19",
+                "casting_id": "donut-drifter",
+                "year": 2026,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "White / Pink",
+                    "tampo": "White icing with pink sprinkles",
+                    "base_color": "Sunrise",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Golden tan",
+                    "wheel_type": {
+                        "0": "Turquoise tire, White 5SP"
+                    },
+                    "col": "054/250",
+                    "spoiler_color": "Blue"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): U31, U33A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/JKP19_Donut_Drifter_Co1.jpg/revision/latest?cb=20251110193115"
+                }
             }
         ]
     }

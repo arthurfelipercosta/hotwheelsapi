@@ -1,191 +1,289 @@
 [
     {
-        "metadata": {
-            "name": "Erikenstein Rod",
-            "Debut series": "HW Hot Trucks",
-            "image": "DSC09706.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/DSC09706.jpg/revision/latest/scale-to-width-down/268?cb=20200713202322"
-        },
+        "casting_id": "erikenstein-rod",
+        "name": "Erikenstein Rod",
         "description": {
             "en-us": "Erikenstein Rod Debut series HW Hot Trucks Produced 2020 - Present Designer Eric Han Number GHB73",
             "pt-br": ""
         },
+        "designer": "Eric Han",
+        "debut_year": 2020,
+        "manufacturer": "Erikenstein",
         "releases": [
             {
-                "Col #": "165/250",
-                "Year": "2020",
-                "Series": "HW Hot Trucks 4/10",
-                "Color": "Matte \"moody\" blue",
-                "Tampo": "Golden stripes on sides & top; Gold \"52\" on side; Black & Gold \"HAN Fabrication\"",
-                "base_color": "Grey",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Tinted Chrome",
-                "Wheel Type": "Dark Gray Rim DD8",
-                "Toy #": "GHB73",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): N06, N08, N09",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/EriRod2020Quarter.jpg/revision/latest/scale-to-width-down/75?cb=20200705183320"
+                "release_id": "2020-erikenstein-rod-matte-moody-blue-ghb73",
+                "toy_number": "GHB73",
+                "casting_id": "erikenstein-rod",
+                "year": 2020,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Matte \"moody\" blue",
+                    "tampo": "Golden stripes on sides & top; Gold \"52\" on side; Black & Gold \"HAN Fabrication\"",
+                    "base_color": "Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Tinted Chrome",
+                    "wheel_type": {
+                        "0": "Dark Gray Rim DD8"
+                    },
+                    "col": "165/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): N06, N08, N09",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/EriRod2020Quarter.jpg/revision/latest?cb=20200705183320"
+                }
             },
             {
-                "Col #": "165/250",
-                "Year": "2020",
-                "Series": "HW Hot Trucks 4/10",
-                "Color": "Matte Red",
-                "Tampo": "Golden stripes on sides & top; Gold \"52\" on side; Black & Gold \"HAN Fabrication\"",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Tinted Chrome",
-                "Wheel Type": "Gold rim DD8",
-                "Toy #": "GHF14",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): N28, N32",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/ERIKENSTEIN_ROD_RED_HW_Hot_Trucks_Mini_Collection_%282020%29.png/revision/latest/scale-to-width-down/75?cb=20211206142300"
+                "release_id": "2020-erikenstein-rod-matte-red-ghf14",
+                "toy_number": "GHF14",
+                "casting_id": "erikenstein-rod",
+                "year": 2020,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Matte Red",
+                    "tampo": "Golden stripes on sides & top; Gold \"52\" on side; Black & Gold \"HAN Fabrication\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Tinted Chrome",
+                    "wheel_type": {
+                        "0": "Gold rim DD8"
+                    },
+                    "col": "165/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): N28, N32",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/ERIKENSTEIN_ROD_RED_HW_Hot_Trucks_Mini_Collection_%282020%29.png/revision/latest?cb=20211206142300"
+                }
             },
             {
-                "Col #": "120/250",
-                "Year": "2021",
-                "Series": "Rod Squad 3/5",
-                "Color": "Matte Dark Green",
-                "Tampo": "Silver Flames \"HW Motors\"",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Tinted Chrome",
-                "Wheel Type": "Chrome rim DD8",
-                "Toy #": "GRY66",
-                "Country": "Malaysia",
-                "Notes": "Base code(s) : N45, N46, N49, N50",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/21_erikenstine.JPG/revision/latest/scale-to-width-down/75?cb=20210319190052"
+                "release_id": "2021-erikenstein-rod-matte-dark-green-gry66",
+                "toy_number": "GRY66",
+                "casting_id": "erikenstein-rod",
+                "year": 2021,
+                "series_id": "rod",
+                "series_index": 3,
+                "specs": {
+                    "color": "Matte Dark Green",
+                    "tampo": "Silver Flames \"HW Motors\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Tinted Chrome",
+                    "wheel_type": {
+                        "0": "Chrome rim DD8"
+                    },
+                    "col": "120/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s) : N45, N46, N49, N50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/21_erikenstine.JPG/revision/latest?cb=20210319190052"
+                }
             },
             {
-                "Col #": "120/250",
-                "Year": "2021",
-                "Series": "Rod Squad 3/5",
-                "Color": "Purple",
-                "Tampo": "Silver Flames, \"HW Motors\"",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Tinted Chrome",
-                "Wheel Type": "DD8",
-                "Toy #": "GTD42",
-                "Country": "Malaysia",
-                "Notes": "Kroger Exclusive Base code(s): P05",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/KrogerErikenstein.jpg/revision/latest/scale-to-width-down/75?cb=20210718065304"
+                "release_id": "2021-erikenstein-rod-purple-gtd42",
+                "toy_number": "GTD42",
+                "casting_id": "erikenstein-rod",
+                "year": 2021,
+                "series_id": "rod",
+                "series_index": 3,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Silver Flames, \"HW Motors\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Tinted Chrome",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "col": "120/250"
+                },
+                "country": "Malaysia",
+                "notes": "Kroger Exclusive Base code(s): P05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/KrogerErikenstein.jpg/revision/latest?cb=20210718065304"
+                }
             },
             {
-                "Col #": "120/250",
-                "Year": "2021",
-                "Series": "Rod Squad 3/5",
-                "Color": "Ice Blue",
-                "Tampo": "Silver Flames, \"HW Motors\"",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Tinted Chrome",
-                "Wheel Type": "DD8",
-                "Toy #": "GTC59",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): P17",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/01/GTC59_Erikenstein_Rod_Loose.jpg/revision/latest/scale-to-width-down/75?cb=20210728031912"
+                "release_id": "2021-erikenstein-rod-ice-blue-gtc59",
+                "toy_number": "GTC59",
+                "casting_id": "erikenstein-rod",
+                "year": 2021,
+                "series_id": "rod",
+                "series_index": 3,
+                "specs": {
+                    "color": "Ice Blue",
+                    "tampo": "Silver Flames, \"HW Motors\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Tinted Chrome",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "col": "120/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): P17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/GTC59_Erikenstein_Rod_Loose.jpg/revision/latest?cb=20210728031912"
+                }
             },
             {
-                "Col #": "086/250",
-                "Year": "2023",
-                "Series": "HW 55 Race Team 3/5",
-                "Color": "Dark Blue",
-                "Tampo": "White stripes on hood, roof, and sides. HW logo, \"55th\", \"HWRT\" on sides",
-                "base_color": "White",
-                "base_type": "Plastic",
-                "Window Color": "Orange tint",
-                "Interior Color": "Tinted Chrome",
-                "Wheel Type": "Grey AeroDisc , OCDD8",
-                "Toy #": "HKH68",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R42, R45, R46, S02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Erikenstein2023RaceTeamBlue.jpg/revision/latest/scale-to-width-down/75?cb=20230712064015"
+                "release_id": "2023-erikenstein-rod-dark-blue-hkh68",
+                "toy_number": "HKH68",
+                "casting_id": "erikenstein-rod",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "White stripes on hood, roof, and sides. HW logo, \"55th\", \"HWRT\" on sides",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "Orange tint",
+                    "interior_color": "Tinted Chrome",
+                    "wheel_type": {
+                        "0": "Grey AeroDisc , OCDD8"
+                    },
+                    "col": "086/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R42, R45, R46, S02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Erikenstein2023RaceTeamBlue.jpg/revision/latest?cb=20230712064015"
+                }
             },
             {
-                "Col #": "086/250",
-                "Year": "2023",
-                "Series": "HW 55 Race Team 3/5",
-                "Color": "White",
-                "Tampo": "Blue stripes on hood, roof, and sides. HW logo, \"55th\", \"HWRT\" on sides",
-                "base_color": "Blue",
-                "base_type": "Plastic",
-                "Window Color": "Orange tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "AeroDisc , 5SP",
-                "Toy #": "HKK29",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S17, S19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/HKK29.jpg/revision/latest/scale-to-width-down/75?cb=20230603051113"
+                "release_id": "2023-erikenstein-rod-white-hkk29",
+                "toy_number": "HKK29",
+                "casting_id": "erikenstein-rod",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Blue stripes on hood, roof, and sides. HW logo, \"55th\", \"HWRT\" on sides",
+                    "base_color": "Blue",
+                    "base_type": "Plastic",
+                    "window_color": "Orange tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "AeroDisc , 5SP"
+                    },
+                    "col": "086/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S17, S19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/HKK29.jpg/revision/latest?cb=20230603051113"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "HW 55th Race Team 5-Pack",
-                "Color": "Dark Blue",
-                "Tampo": "White stripes on hood, roof, and sides. HW logo, \"55th\", \"HWRT\" on sides",
-                "base_color": "White",
-                "base_type": "Plastic",
-                "Window Color": "Orange tint",
-                "Interior Color": "Tinted Chrome",
-                "Wheel Type": "Grey AeroDisc , OCDD8",
-                "Toy #": "HTH34",
-                "Country": "Malaysia",
-                "Notes": "Identical to HKH68 Base code(s): S02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Erikenstein2023RaceTeamBlue.jpg/revision/latest/scale-to-width-down/75?cb=20230712064015"
+                "release_id": "2023-erikenstein-rod-dark-blue-hth34",
+                "toy_number": "HTH34",
+                "casting_id": "erikenstein-rod",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "White stripes on hood, roof, and sides. HW logo, \"55th\", \"HWRT\" on sides",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "Orange tint",
+                    "interior_color": "Tinted Chrome",
+                    "wheel_type": {
+                        "0": "Grey AeroDisc , OCDD8"
+                    },
+                    "col": "086/250"
+                },
+                "country": "Malaysia",
+                "notes": "Identical to HKH68 Base code(s): S02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Erikenstein2023RaceTeamBlue.jpg/revision/latest?cb=20230712064015"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Retro Racers 5‑Pack",
-                "Color": "Grey",
-                "Tampo": "Black & Red stripes on sides, '4', 'ErikenstienROD' 'MWG' 'HAN fabrication' on sides",
-                "base_color": "Red",
-                "base_type": "Plastic",
-                "Window Color": "Red tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Red Chrome rim, Black DD8",
-                "Toy #": "HTV50",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): T08, T14, T17, T42",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/2024-5pk_HTV50_Retro_Racers_Erikenstein_Rod_o-4.jpg/revision/latest/scale-to-width-down/75?cb=20240626155331"
+                "release_id": "2024-erikenstein-rod-grey-htv50",
+                "toy_number": "HTV50",
+                "casting_id": "erikenstein-rod",
+                "year": 2024,
+                "series_id": "retro",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "Black & Red stripes on sides, '4', 'ErikenstienROD' 'MWG' 'HAN fabrication' on sides",
+                    "base_color": "Red",
+                    "base_type": "Plastic",
+                    "window_color": "Red tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Red Chrome rim, Black DD8"
+                    },
+                    "col": "086/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): T08, T14, T17, T42",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/2024-5pk_HTV50_Retro_Racers_Erikenstein_Rod_o-4.jpg/revision/latest?cb=20240626155331"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Gold Edition",
-                "Color": "Gold",
-                "Tampo": "Black and gold accents, \"HWGRFX\" on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Gold chrome",
-                "Wheel Type": "Gold DD8",
-                "Toy #": "JCB45",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2025_Gold_Edition_Erikenstein.png/revision/latest/scale-to-width-down/75?cb=20250704071845"
+                "release_id": "2025-erikenstein-rod-gold-jcb45",
+                "toy_number": "JCB45",
+                "casting_id": "erikenstein-rod",
+                "year": 2025,
+                "series_id": "gold",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "Black and gold accents, \"HWGRFX\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gold chrome",
+                    "wheel_type": {
+                        "0": "Gold DD8"
+                    },
+                    "col": "086/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2025_Gold_Edition_Erikenstein.png/revision/latest?cb=20250704071845"
+                }
             },
             {
-                "Col #": "117/250",
-                "Year": "2026",
-                "Series": "Rod Squad 1/10",
-                "Color": "Metalflake Green",
-                "Tampo": "Yellow and black flames and Hot Wheels logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "White rim and whitewall, Black 5SP",
-                "Toy #": "JJJ75",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/61/GreenRod.jpg/revision/latest/scale-to-width-down/75?cb=20260103100517"
+                "release_id": "2026-erikenstein-rod-metalflake-green-jjj75",
+                "toy_number": "JJJ75",
+                "casting_id": "erikenstein-rod",
+                "year": 2026,
+                "series_id": "rod",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "Yellow and black flames and Hot Wheels logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "White rim and whitewall, Black 5SP"
+                    },
+                    "col": "117/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/61/GreenRod.jpg/revision/latest?cb=20260103100517"
+                }
             }
         ]
     }

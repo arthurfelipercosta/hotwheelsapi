@@ -1,79 +1,114 @@
 [
     {
-        "metadata": {
-            "name": "'67 Camaro",
-            "Debut series": "FAO Schwarz Gold Multipack",
-            "image": "'67CustomCamaro.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/%2767CustomCamaro.jpg/revision/latest/scale-to-width-down/268?cb=20230225071759"
-        },
+        "casting_id": "67-camaro",
+        "name": "'67 Camaro",
         "description": {
             "en-us": "'67 Camaro Debut series FAO Schwarz Gold Multipack Produced 2022 – Present Designer Phil Riehlman Number GWJ14",
             "pt-br": ""
         },
+        "designer": "Phil Riehlman",
+        "debut_year": 2022,
+        "manufacturer": "'67",
         "releases": [
             {
-                "Col #": "",
-                "Year": "2022",
-                "Series": "FAO Schwarz Gold Multipack",
-                "Color": "Metalflake gold",
-                "Tampo": "Goldenrod stripes on hood, trunk & sides. Hot Wheels logo on rear quarters. \"Camaro\" on front fenders. \"SS\" badge on rear. Taillights.",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Gold Chrome",
-                "Wheel Type": "Gold Chrome 5SP",
-                "Toy #": "HNB86",
-                "Country": "Malaysia",
-                "Notes": "Base code(s) : R23",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/%2767CustomCamaro.jpg/revision/latest/scale-to-width-down/75?cb=20230225071759"
+                "release_id": "2022-67-camaro-metalflake-gold-hnb86",
+                "toy_number": "HNB86",
+                "casting_id": "67-camaro",
+                "year": 2022,
+                "series_id": "fao",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake gold",
+                    "tampo": "Goldenrod stripes on hood, trunk & sides. Hot Wheels logo on rear quarters. \"Camaro\" on front fenders. \"SS\" badge on rear. Taillights.",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Gold Chrome",
+                    "wheel_type": {
+                        "0": "Gold Chrome 5SP"
+                    },
+                    "col": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s) : R23",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/%2767CustomCamaro.jpg/revision/latest?cb=20230225071759"
+                }
             },
             {
-                "Col #": "084/250",
-                "Year": "2024",
-                "Series": "HW Art Cars 3/10",
-                "Color": "Dark blue",
-                "Tampo": "White & faint white lines on sides, hood, & roof made to look like blueprint drawings of a '67 Camaro; Hot Wheels logo & \"'24 HW ART CARS\" on sides; \"R\" on roof",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome Blue & White MC5",
-                "Toy #": "HTB74",
-                "Country": "Malaysia",
-                "Notes": "New in Mainline Base code(s): S40, S43, S44, S45, S47, S49",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/ArtCarsCamaro.jpg/revision/latest/scale-to-width-down/75?cb=20240426024040"
+                "release_id": "2024-67-camaro-dark-blue-htb74",
+                "toy_number": "HTB74",
+                "casting_id": "67-camaro",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "White & faint white lines on sides, hood, & roof made to look like blueprint drawings of a '67 Camaro; Hot Wheels logo & \"'24 HW ART CARS\" on sides; \"R\" on roof",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome Blue & White MC5"
+                    },
+                    "col": "084/250"
+                },
+                "country": "Malaysia",
+                "notes": "New in Mainline Base code(s): S40, S43, S44, S45, S47, S49",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/ArtCarsCamaro.jpg/revision/latest?cb=20240426024040"
+                }
             },
             {
-                "Col #": "056/250",
-                "Year": "2026",
-                "Series": "HW Dream Garage 3/5",
-                "Color": "Metalflake Gold",
-                "Tampo": "Black graphics on hood scoop, nose and sides, black Hot Wheels logo on front fenders, silver door handles",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome rim black MC5",
-                "Toy #": "JJJ26",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U40N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/DreamCamaro.jpg/revision/latest/scale-to-width-down/75?cb=20251121095024"
+                "release_id": "2026-67-camaro-metalflake-gold-jjj26",
+                "toy_number": "JJJ26",
+                "casting_id": "67-camaro",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "Black graphics on hood scoop, nose and sides, black Hot Wheels logo on front fenders, silver door handles",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome rim black MC5"
+                    },
+                    "col": "056/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U40N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/DreamCamaro.jpg/revision/latest?cb=20251121095024"
+                }
             },
             {
-                "Col #": "056/250",
-                "Year": "2026",
-                "Series": "HW Dream Garage 3/5",
-                "Color": "Blue",
-                "Tampo": "Black on hood scoop, nose and sides, Hot Wheels logo on front fenders, silver door handles",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Silver OH5",
-                "Toy #": "JJM46",
-                "Country": "Malaysia",
-                "Notes": "Dollar Tree/Family Dollar Exclusive Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-67-camaro-blue-jjm46",
+                "toy_number": "JJM46",
+                "casting_id": "67-camaro",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Black on hood scoop, nose and sides, Hot Wheels logo on front fenders, silver door handles",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Silver OH5"
+                    },
+                    "col": "056/250"
+                },
+                "country": "Malaysia",
+                "notes": "Dollar Tree/Family Dollar Exclusive Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

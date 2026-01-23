@@ -1,31 +1,40 @@
 [
     {
-        "metadata": {
-            "name": "Lil' Mad",
-            "Debut series": "Unknown",
-            "image": "Image Not Available.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
-        },
+        "casting_id": "lil-mad",
+        "name": "Lil' Mad",
         "description": {
             "en-us": "Lil' Mad Debut series Unknown Produced 2026 Designer Brendon Vetuskey Number JJH65",
             "pt-br": ""
         },
+        "designer": "Brendon Vetuskey",
+        "debut_year": 2026,
+        "manufacturer": "Lil'",
         "releases": [
             {
-                "Col #": "???/250",
-                "Year": "2026",
-                "Series": "Unknown",
-                "Color": "Metalflake champagne",
-                "Tampo": "Blue, black, red and white accents and graphics on sides, \" VETUSKEY PARTS CO. \" on front fender, Chevrolet, Firestone, Mooneyes logos on sides, \" Lil' Mad \", \" B/GS \" on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "5SP & SK5SP",
-                "Toy #": "JJH65",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-lil-mad-metalflake-champagne-jjh65",
+                "toy_number": "JJH65",
+                "casting_id": "lil-mad",
+                "year": 2026,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake champagne",
+                    "tampo": "Blue, black, red and white accents and graphics on sides, \" VETUSKEY PARTS CO. \" on front fender, Chevrolet, Firestone, Mooneyes logos on sides, \" Lil' Mad \", \" B/GS \" on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "5SP & SK5SP"
+                    },
+                    "col": "???/250",
+                    "notes_variations": "New Model Base code(s):"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

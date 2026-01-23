@@ -1,239 +1,369 @@
 [
     {
-        "metadata": {
-            "name": "RD-06",
-            "Debut series": "AcceleRacers: Racing Drones",
-            "image": "RD06Sketch.png",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/68/RD06Sketch.png/revision/latest/scale-to-width-down/268?cb=20240414000204"
-        },
+        "casting_id": "rd-06",
+        "name": "RD-06",
         "description": {
-            "en-us": "RD-06 Debut series AcceleRacers: Racing Drones Produced 2005 - Present Designer Mark Jones and Nathan Proch Number G8112\\n\\nRD-06 is an original design by Mark Jones and Nathan Proch that first debuted under the Racing Drones segment of the AcceleRacers series in 2005 . It depicts a robotic race car with 502 HP, a C-43 J turbine engine with jet assisted launch capabilities, a carbon fiber monocoque chassis, 20\" front and 22\" back wheels. RD-06 was retooled twice; once in 2013 with no major changes and once in 2024 with the windshield made flush with the body for easier assembly.",
+            "en-us": "RD-06 Debut series AcceleRacers: Racing Drones Produced 2005 - Present Designer Mark Jones and Nathan Proch Number G8112",
             "pt-br": ""
         },
+        "designer": "Mark Jones and Nathan Proch",
+        "debut_year": 2005,
+        "manufacturer": "RD-06",
         "releases": [
             {
-                "Col. #": "",
-                "Year": "2005",
-                "Series": "AcceleRacers: Racing Drones 6/9",
-                "Color": "Black",
-                "Tampo": "Silver and green Racing Drones insignias, encrypted “RD06”",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Green tint",
-                "Interior Color": "ZAMAC",
-                "Wheel Type": "Green Tire CM5 / Green Tire CM6 / Darker Green Tire CM6 / Matte Black / Matte Black / Metal",
-                "Toy #": "G8112",
-                "Country": "Malaysia",
-                "Notes": "No name on base",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/RD-06_CM5.jpg/revision/latest/scale-to-width-down/75?cb=20210316214352"
+                "release_id": "2005-rd-06-black-g8112",
+                "toy_number": "G8112",
+                "casting_id": "rd-06",
+                "year": 2005,
+                "series_id": "acceleracers",
+                "series_index": 6,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Silver and green Racing Drones insignias, encrypted “RD06”",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Green tint",
+                    "interior_color": "ZAMAC",
+                    "wheel_type": {
+                        "0": "Green Tire CM5"
+                    },
+                    "col": ""
+                },
+                "country": "Malaysia",
+                "notes": "No name on base",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/RD-06_CM5.jpg/revision/latest?cb=20210316214352",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/1/14/RD-06.JPG/revision/latest?cb=20110417205000",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+                    "3": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Rd.jpg/revision/latest?cb=20090613144831"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2005",
-                "Series": "DVD Pack",
-                "Color": "Chrome",
-                "Tampo": "White and green Racing Drones insignias, encrypted “RD06”",
-                "base_color": "Matte Black",
-                "base_type": "Metal",
-                "Window Color": "Green tint",
-                "Interior Color": "ZAMAC",
-                "Wheel Type": "Transparent Green Rim CM6",
-                "Toy #": "73531",
-                "Country": "Malaysia",
-                "Notes": "No Cartoon Network code",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/24/AccRDVD06.jpeg/revision/latest/scale-to-width-down/75?cb=20231105054630"
+                "release_id": "2005-rd-06-chrome-73531",
+                "toy_number": "73531",
+                "casting_id": "rd-06",
+                "year": 2005,
+                "series_id": "dvd",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "White and green Racing Drones insignias, encrypted “RD06”",
+                    "base_color": "Matte Black",
+                    "base_type": "Metal",
+                    "window_color": "Green tint",
+                    "interior_color": "ZAMAC",
+                    "wheel_type": {
+                        "0": "Transparent Green Rim CM6"
+                    },
+                    "col": "Matte Black"
+                },
+                "country": "Malaysia",
+                "notes": "No Cartoon Network code",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/AccRDVD06.jpeg/revision/latest?cb=20231105054630"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2006",
-                "Series": "AcceleRacers",
-                "Color": "Matte Black",
-                "Tampo": "Silver and green Racing Drones insignias, encrypted “RD06”",
-                "base_color": "Matte Black",
-                "base_type": "Metal",
-                "Window Color": "Green tint",
-                "Interior Color": "ZAMAC",
-                "Wheel Type": "Green Tire CM6",
-                "Toy #": "K3283",
-                "Country": "Malaysia",
-                "Notes": "Identical to G8112 May have Cartoon Network code",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Rd.jpg/revision/latest/scale-to-width-down/75?cb=20090613144831"
+                "release_id": "2006-rd-06-matte-black-k3283",
+                "toy_number": "K3283",
+                "casting_id": "rd-06",
+                "year": 2006,
+                "series_id": "acceleracers",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "Silver and green Racing Drones insignias, encrypted “RD06”",
+                    "base_color": "Matte Black",
+                    "base_type": "Metal",
+                    "window_color": "Green tint",
+                    "interior_color": "ZAMAC",
+                    "wheel_type": {
+                        "0": "Green Tire CM6"
+                    },
+                    "col": "Matte Black"
+                },
+                "country": "Malaysia",
+                "notes": "Identical to G8112 May have Cartoon Network code",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Rd.jpg/revision/latest?cb=20090613144831"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2006",
-                "Series": "AcceleRacers: Realm",
-                "Color": "Purple",
-                "Tampo": "Yellow, white, and black Racing Realm lightning bolts",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Clear",
-                "Interior Color": "ZAMAC",
-                "Wheel Type": "Black Tire CM6 / Transparent Rim CM6",
-                "Toy #": "J7251",
-                "Country": "Malaysia",
-                "Notes": "May have Cartoon Network code",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Rd.purple.jpg/revision/latest/scale-to-width-down/75?cb=20090613150027"
+                "release_id": "2006-rd-06-purple-j7251",
+                "toy_number": "J7251",
+                "casting_id": "rd-06",
+                "year": 2006,
+                "series_id": "acceleracers",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Yellow, white, and black Racing Realm lightning bolts",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "ZAMAC",
+                    "wheel_type": {
+                        "0": "Black Tire CM6"
+                    },
+                    "col": "Matte Black"
+                },
+                "country": "Malaysia",
+                "notes": "May have Cartoon Network code",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Rd.purple.jpg/revision/latest?cb=20090613150027",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/J7251.jpeg/revision/latest?cb=20240722034512"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2006",
-                "Series": "Batman Blaster",
-                "Color": "Black",
-                "Tampo": "Yellow stripes & Batman logo on top",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Yellow tint",
-                "Interior Color": "ZAMAC",
-                "Wheel Type": "Yellow OH5",
-                "Toy #": "K9790",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/21/RD-06_2006_Batman_Blaster.jpg/revision/latest/scale-to-width-down/75?cb=20240510165844"
+                "release_id": "2006-rd-06-black-k9790",
+                "toy_number": "K9790",
+                "casting_id": "rd-06",
+                "year": 2006,
+                "series_id": "batman",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Yellow stripes & Batman logo on top",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Yellow tint",
+                    "interior_color": "ZAMAC",
+                    "wheel_type": {
+                        "0": "Yellow OH5"
+                    },
+                    "col": "Transparent Rim CM6"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/RD-06_2006_Batman_Blaster.jpg/revision/latest?cb=20240510165844"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2009",
-                "Series": "Color Shifters",
-                "Color": "Beige (hot), Black (cold)",
-                "Tampo": "Black & White stripes, '22' & circle flame logo on top",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Red tint",
-                "Interior Color": "ZAMAC",
-                "Wheel Type": "Red Lip OH5",
-                "Toy #": "P7765",
-                "Country": "Thailand",
-                "Notes": "Base code(s) :",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/WIN_20170527_15_32_45_Pro.jpg/revision/latest/scale-to-width-down/75?cb=20170527223531"
+                "release_id": "2009-rd-06-beige-hot-black-cold-p7765",
+                "toy_number": "P7765",
+                "casting_id": "rd-06",
+                "year": 2009,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Beige (hot), Black (cold)",
+                    "tampo": "Black & White stripes, '22' & circle flame logo on top",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Red tint",
+                    "interior_color": "ZAMAC",
+                    "wheel_type": {
+                        "0": "Red Lip OH5"
+                    },
+                    "col": "Transparent Rim CM6"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s) :",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/WIN_20170527_15_32_45_Pro.jpg/revision/latest?cb=20170527223531"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2010",
-                "Series": "Color Shifters",
-                "Color": "Light Green (hot), Red (cold)",
-                "Tampo": "Orange stripes across top",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Orange tint",
-                "Interior Color": "ZAMAC",
-                "Wheel Type": "Orange rim OH5",
-                "Toy #": "R0214",
-                "Country": "Thailand",
-                "Notes": "Base code(s) :",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2010-rd-06-light-green-hot-red-cold-r0214",
+                "toy_number": "R0214",
+                "casting_id": "rd-06",
+                "year": 2010,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Green (hot), Red (cold)",
+                    "tampo": "Orange stripes across top",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Orange tint",
+                    "interior_color": "ZAMAC",
+                    "wheel_type": {
+                        "0": "Orange rim OH5"
+                    },
+                    "col": "Transparent Rim CM6"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s) :",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2014",
-                "Series": "Double Jump Duel 5-Pack",
-                "Color": "Light Blue",
-                "Tampo": "Black & Yellow stripes and White '6' on top",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Yellow tint",
-                "Interior Color": "ZAMAC",
-                "Wheel Type": "Yellow PR5 / Chrome Gold PR5 / Base code(s) :",
-                "Toy #": "BFB25",
-                "Country": "Thailand",
-                "Notes": "Updated tooling Base code(s) : G09, G12",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/RD_06_5_pack_blue.jpg/revision/latest/scale-to-width-down/75?cb=20190330052045"
+                "release_id": "2014-rd-06-light-blue-bfb25",
+                "toy_number": "BFB25",
+                "casting_id": "rd-06",
+                "year": 2014,
+                "series_id": "double",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "Black & Yellow stripes and White '6' on top",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Yellow tint",
+                    "interior_color": "ZAMAC",
+                    "wheel_type": {
+                        "0": "Yellow PR5"
+                    },
+                    "col": "Transparent Rim CM6"
+                },
+                "country": "Thailand",
+                "notes": "Updated tooling Base code(s) : G09, G12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/RD_06_5_pack_blue.jpg/revision/latest?cb=20190330052045",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col. #": "160/250",
-                "Year": "2015",
-                "Series": "HW Race: Super Chromes",
-                "Color": "Chrome",
-                "Tampo": "Green & Black graphics on top",
-                "base_color": "Dark Green",
-                "base_type": "Metal",
-                "Window Color": "Green tint",
-                "Interior Color": "Dark Grey",
-                "Wheel Type": "Chrome Green TRAP5",
-                "Toy #": "CFL01",
-                "Country": "Malaysia",
-                "Notes": "New in Mainline Base code(s) : G50, G52, H02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/RD-062015.jpg/revision/latest/scale-to-width-down/75?cb=20160829092534"
+                "release_id": "2015-rd-06-chrome-cfl01",
+                "toy_number": "CFL01",
+                "casting_id": "rd-06",
+                "year": 2015,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Green & Black graphics on top",
+                    "base_color": "Dark Green",
+                    "base_type": "Metal",
+                    "window_color": "Green tint",
+                    "interior_color": "Dark Grey",
+                    "wheel_type": {
+                        "0": "Chrome Green TRAP5"
+                    },
+                    "col": "160/250"
+                },
+                "country": "Malaysia",
+                "notes": "New in Mainline Base code(s) : G50, G52, H02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/RD-062015.jpg/revision/latest?cb=20160829092534"
+                }
             },
             {
-                "Col. #": "160/250",
-                "Year": "2015",
-                "Series": "HW Race: Super Chromes",
-                "Color": "Chrome Gold",
-                "Tampo": "Red & Black graphics on top",
-                "base_color": "Red",
-                "base_type": "Metal",
-                "Window Color": "Red tint",
-                "Interior Color": "Dark Grey",
-                "Wheel Type": "Chrome Gold TRAP5",
-                "Toy #": "CFL95",
-                "Country": "Malaysia",
-                "Notes": "Base code(s) : H25",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HW_RD_06.jpg/revision/latest/scale-to-width-down/75?cb=20190909091811"
+                "release_id": "2015-rd-06-chrome-gold-cfl95",
+                "toy_number": "CFL95",
+                "casting_id": "rd-06",
+                "year": 2015,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome Gold",
+                    "tampo": "Red & Black graphics on top",
+                    "base_color": "Red",
+                    "base_type": "Metal",
+                    "window_color": "Red tint",
+                    "interior_color": "Dark Grey",
+                    "wheel_type": {
+                        "0": "Chrome Gold TRAP5"
+                    },
+                    "col": "160/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s) : H25",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HW_RD_06.jpg/revision/latest?cb=20190909091811"
+                }
             },
             {
-                "Col. #": "105/250",
-                "Year": "2025",
-                "Series": "HW Designed By 4/5",
-                "Color": "Black",
-                "Tampo": "Green, grey, and white “ MJ ”, alternate Racing Drones insignia, encrypted “RD06”",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Green tint",
-                "Interior Color": "Green",
-                "Wheel Type": "Grey rim, transparent green PR5",
-                "Toy #": "HYY50",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race Updated tooling Base codes(s): T38, T47, T48, T50N, T51N, U01N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/07/RD-06.jpg/revision/latest/scale-to-width-down/75?cb=20250107133019"
+                "release_id": "2025-rd-06-black-hyy50",
+                "toy_number": "HYY50",
+                "casting_id": "rd-06",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Green, grey, and white “ MJ ”, alternate Racing Drones insignia, encrypted “RD06”",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Green tint",
+                    "interior_color": "Green",
+                    "wheel_type": {
+                        "0": "Grey rim, transparent green PR5"
+                    },
+                    "col": "105/250"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race Updated tooling Base codes(s): T38, T47, T48, T50N, T51N, U01N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/RD-06.jpg/revision/latest?cb=20250107133019"
+                }
             },
             {
-                "Col. #": "105/250",
-                "Year": "2025",
-                "Series": "HW Designed By 4/5",
-                "Color": "Green",
-                "Tampo": "Black, pink, and white “ MJ ”, alternate Racing Drones insignia, encrypted “RD06”",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Grey tint",
-                "Interior Color": "Pink",
-                "Wheel Type": "Black rim, grey 5SP",
-                "Toy #": "HYX82",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U16N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/AcidTrip.jpg/revision/latest/scale-to-width-down/75?cb=20250604130729"
+                "release_id": "2025-rd-06-green-hyx82",
+                "toy_number": "HYX82",
+                "casting_id": "rd-06",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Black, pink, and white “ MJ ”, alternate Racing Drones insignia, encrypted “RD06”",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Grey tint",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "Black rim, grey 5SP"
+                    },
+                    "col": "105/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U16N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/AcidTrip.jpg/revision/latest?cb=20250604130729"
+                }
             },
             {
-                "Col. #": "006/250",
-                "Year": "2026",
-                "Series": "X-Raycers 1/5",
-                "Color": "Translucent Purple",
-                "Tampo": "Pink, purple, white, and lime green geometric shapes, \"X-RAYCERS\" on top",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Green tint",
-                "Interior Color": "Lime Green",
-                "Wheel Type": "Pink rim, transparent green PR5",
-                "Toy #": "JJH84",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U32N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/XRD-06.jpg/revision/latest/scale-to-width-down/75?cb=20251015121411"
+                "release_id": "2026-rd-06-translucent-purple-jjh84",
+                "toy_number": "JJH84",
+                "casting_id": "rd-06",
+                "year": 2026,
+                "series_id": "x-raycers",
+                "series_index": 1,
+                "specs": {
+                    "color": "Translucent Purple",
+                    "tampo": "Pink, purple, white, and lime green geometric shapes, \"X-RAYCERS\" on top",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Green tint",
+                    "interior_color": "Lime Green",
+                    "wheel_type": {
+                        "0": "Transparent green tire, chrome pink PR5"
+                    },
+                    "col": "006/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U32N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/XRD-06.jpg/revision/latest?cb=20251015121411"
+                }
             },
             {
-                "Col. #": "006/250",
-                "Year": "2026",
-                "Series": "X-Raycers 1/5",
-                "Color": "Translucent Black",
-                "Tampo": "Pink, gray, white, and lime green geometric shapes, \"X-RAYCERS\" on top",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Pink tint",
-                "Interior Color": "White",
-                "Wheel Type": "White lip DD8",
-                "Toy #": "JJK66",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/X2RD-06.jpg/revision/latest/scale-to-width-down/75?cb=20260121131212"
+                "release_id": "2026-rd-06-translucent-black-jjk66",
+                "toy_number": "JJK66",
+                "casting_id": "rd-06",
+                "year": 2026,
+                "series_id": "x-raycers",
+                "series_index": 1,
+                "specs": {
+                    "color": "Translucent Black",
+                    "tampo": "Pink, gray, white, and lime green geometric shapes, \"X-RAYCERS\" on top",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Pink tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "White lip DD8"
+                    },
+                    "col": "006/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/X2RD-06.jpg/revision/latest?cb=20260121131212"
+                }
             }
         ]
     }

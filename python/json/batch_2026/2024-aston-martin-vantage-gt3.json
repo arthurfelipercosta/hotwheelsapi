@@ -1,31 +1,40 @@
 [
     {
-        "metadata": {
-            "name": "2024 Aston Martin Vantage GT3",
-            "Debut series": "Exoticars",
-            "image": "AstonMartinVantageAMRGT3Evo.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/AstonMartinVantageAMRGT3Evo.jpg/revision/latest/scale-to-width-down/268?cb=20260121131524"
-        },
+        "casting_id": "2024-aston-martin-vantage-gt3",
+        "name": "2024 Aston Martin Vantage GT3",
         "description": {
             "en-us": "2024 Aston Martin Vantage GT3 Debut series Exoticars Produced 2026 Designer Fraser Campbell Number JJH55",
             "pt-br": ""
         },
+        "designer": "Fraser Campbell",
+        "debut_year": 2026,
+        "manufacturer": "2024",
         "releases": [
             {
-                "Col #": "125/250",
-                "Year": "2026",
-                "Series": "Exoticars 9/10",
-                "Color": "Racing Green",
-                "Tampo": "Detailed headlights, yellow stripe down hood",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Y5",
-                "Toy #": "JJH55",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s): U50N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/AstonMartinVantageAMRGT3Evo.jpg/revision/latest/scale-to-width-down/75?cb=20260121131524"
+                "release_id": "2026-2024-aston-martin-vantage-gt3-racing-green-jjh55",
+                "toy_number": "JJH55",
+                "casting_id": "2024-aston-martin-vantage-gt3",
+                "year": 2026,
+                "series_id": "exoticars",
+                "series_index": 9,
+                "specs": {
+                    "color": "Racing Green",
+                    "tampo": "Detailed headlights, yellow stripe down hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Y5"
+                    },
+                    "col": "125/250",
+                    "notes_variations": "New Model Base code(s): U50N"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/AstonMartinVantageAMRGT3Evo.jpg/revision/latest?cb=20260121131524"
+                }
             }
         ]
     }

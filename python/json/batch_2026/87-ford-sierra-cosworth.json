@@ -1,191 +1,289 @@
 [
     {
-        "metadata": {
-            "name": "'87 Ford Sierra Cosworth",
-            "Debut series": "Retro Racers",
-            "image": "'87FordSierra.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/%2787FordSierra.jpg/revision/latest/scale-to-width-down/268?cb=20211012082719"
-        },
+        "casting_id": "87-ford-sierra-cosworth",
+        "name": "'87 Ford Sierra Cosworth",
         "description": {
             "en-us": "'87 Ford Sierra Cosworth Debut series Retro Racers Produced 2022 – Present Designer Ryu Asada Number HCT21",
             "pt-br": ""
         },
+        "designer": "Ryu Asada",
+        "debut_year": 2022,
+        "manufacturer": "'87",
         "releases": [
             {
-                "Col #": "033/250",
-                "Year": "2022",
-                "Series": "Retro Racers 1/10",
-                "Color": "Black",
-                "Tampo": "Red Mattel logo on hood, Ford logos on rear fender, sponsors, \"10\", \"Ryu\" and Hot Wheels logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "10SP",
-                "Toy #": "HCT21",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): P38, P41, P40, P47",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/%2787FordSierra.jpg/revision/latest/scale-to-width-down/75?cb=20211012082719"
+                "release_id": "2022-87-ford-sierra-cosworth-black-hct21",
+                "toy_number": "HCT21",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2022,
+                "series_id": "retro",
+                "series_index": 1,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red Mattel logo on hood, Ford logos on rear fender, sponsors, \"10\", \"Ryu\" and Hot Wheels logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "col": "033/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): P38, P41, P40, P47",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/%2787FordSierra.jpg/revision/latest?cb=20211012082719"
+                }
             },
             {
-                "Col #": "033/250",
-                "Year": "2022",
-                "Series": "Retro Racers 1/10",
-                "Color": "Metalflake Blue",
-                "Tampo": "Orange Mattel logo on hood, Ford logos on rear fender, sponsors, \"10\", \"Ryu\" and Hot Wheels logo on sides",
-                "base_color": "Orange",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "10SP",
-                "Toy #": "HCW87",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): P52, R01, R02, R03, R04, R05",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/54/2022_%2787_Sierra_Cosworth_B.jpg/revision/latest/scale-to-width-down/75?cb=20251230105746"
+                "release_id": "2022-87-ford-sierra-cosworth-metalflake-blue-hcw87",
+                "toy_number": "HCW87",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2022,
+                "series_id": "retro",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Orange Mattel logo on hood, Ford logos on rear fender, sponsors, \"10\", \"Ryu\" and Hot Wheels logo on sides",
+                    "base_color": "Orange",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "col": "033/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): P52, R01, R02, R03, R04, R05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/2022_%2787_Sierra_Cosworth_B.jpg/revision/latest?cb=20251230105746"
+                }
             },
             {
-                "Col #": "002/250",
-                "Year": "2023",
-                "Series": "HW: The '80s 1/10",
-                "Color": "Red",
-                "Tampo": "\"87\", \"HWGRFX\", Castrol logos on sides and hood, \"BILSTEIN\" & \"CLONE\" on sides, white diagonals",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold LW",
-                "Toy #": "HKG79",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R33, R34, R36",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/26/HKG79-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230416051911"
+                "release_id": "2023-87-ford-sierra-cosworth-red-hkg79",
+                "toy_number": "HKG79",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "\"87\", \"HWGRFX\", Castrol logos on sides and hood, \"BILSTEIN\" & \"CLONE\" on sides, white diagonals",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold LW"
+                    },
+                    "col": "002/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R33, R34, R36",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/HKG79-LOOSE.jpg/revision/latest?cb=20230416051911"
+                }
             },
             {
-                "Col #": "002/250",
-                "Year": "2023",
-                "Series": "HW: The '80s 1/10",
-                "Color": "Yellow",
-                "Tampo": "\"87\", \"HWGRFX\", Castrol logos on sides and hood, \"BILSTEIN\" & \"CLONE\" on sides, black diagonals",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "LW",
-                "Toy #": "HKL51",
-                "Country": "Malaysia",
-                "Notes": "Kroger Exclusive Base code(s): R39",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/Kroger_Cosworth.JPG/revision/latest/scale-to-width-down/75?cb=20231231035341"
+                "release_id": "2023-87-ford-sierra-cosworth-yellow-hkl51",
+                "toy_number": "HKL51",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "\"87\", \"HWGRFX\", Castrol logos on sides and hood, \"BILSTEIN\" & \"CLONE\" on sides, black diagonals",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "LW"
+                    },
+                    "col": "002/250"
+                },
+                "country": "Malaysia",
+                "notes": "Kroger Exclusive Base code(s): R39",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/Kroger_Cosworth.JPG/revision/latest?cb=20231231035341"
+                }
             },
             {
-                "Col #": "002/250",
-                "Year": "2023",
-                "Series": "HW: The '80s 1/10",
-                "Color": "Metalflake silver",
-                "Tampo": "\"87\", \"HWGRFX\", Castrol logos on sides and hood, \"BILSTEIN\" & \"CLONE\" on sides, black diagonals",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold LW",
-                "Toy #": "HKJ59",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S09, S10, S12, S14",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/HKJ59-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230618092319"
+                "release_id": "2023-87-ford-sierra-cosworth-metalflake-silver-hkj59",
+                "toy_number": "HKJ59",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake silver",
+                    "tampo": "\"87\", \"HWGRFX\", Castrol logos on sides and hood, \"BILSTEIN\" & \"CLONE\" on sides, black diagonals",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold LW"
+                    },
+                    "col": "002/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S09, S10, S12, S14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/HKJ59-LOOSE.jpg/revision/latest?cb=20230618092319"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "Car Culture: Canyon Warriors 2/5",
-                "Color": "White",
-                "Tampo": "Detailed taillights, blue striping, black trim",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold RR10SPM",
-                "Toy #": "HKC54",
-                "Country": "Thailand",
-                "Notes": "New Die-Cast Chassis Base code(s): S23, S24",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/FordSierraRS500Cosworth.jpg/revision/latest/scale-to-width-down/75?cb=20230813135409"
+                "release_id": "2023-87-ford-sierra-cosworth-white-hkc54",
+                "toy_number": "HKC54",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2023,
+                "series_id": "car",
+                "series_index": 2,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Detailed taillights, blue striping, black trim",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold RR10SPM"
+                    },
+                    "col": "002/250"
+                },
+                "country": "Thailand",
+                "notes": "New Die-Cast Chassis Base code(s): S23, S24",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/FordSierraRS500Cosworth.jpg/revision/latest?cb=20230813135409"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Ford Car Culture 2-Pack",
-                "Color": "Red",
-                "Tampo": "\"Shell\" & Ford logo on sides, hood, & rear; \"87\" on sides & hood; Shell logo on sides; detailed headlights & taillights",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "GRR6SPM",
-                "Toy #": "HRR73",
-                "Country": "Thailand",
-                "Notes": "Came paired with '93 Ford Escort RS Cosworth Base code(s): T01, T02, T03",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/2024_Car_Culture_2-Packs_Mix1_%2787_Cosworth.jpg/revision/latest/scale-to-width-down/75?cb=20240326114810"
+                "release_id": "2024-87-ford-sierra-cosworth-red-hrr73",
+                "toy_number": "HRR73",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2024,
+                "series_id": "ford",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "\"Shell\" & Ford logo on sides, hood, & rear; \"87\" on sides & hood; Shell logo on sides; detailed headlights & taillights",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "GRR6SPM"
+                    },
+                    "col": "002/250"
+                },
+                "country": "Thailand",
+                "notes": "Came paired with '93 Ford Escort RS Cosworth Base code(s): T01, T02, T03",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/2024_Car_Culture_2-Packs_Mix1_%2787_Cosworth.jpg/revision/latest?cb=20240326114810"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Green and Gold 1/6",
-                "Color": "Metalflake teal",
-                "Tampo": "Hot Wheels logo, \"56\", yellow and black stripes on sides",
-                "base_color": "Orange Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold LW",
-                "Toy #": "HVX04",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): T07",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/66/2024-56thAnn_HVX04_%2787_Sierra_r-1.jpg/revision/latest/scale-to-width-down/75?cb=20240601052052"
+                "release_id": "2024-87-ford-sierra-cosworth-metalflake-teal-hvx04",
+                "toy_number": "HVX04",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2024,
+                "series_id": "green",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake teal",
+                    "tampo": "Hot Wheels logo, \"56\", yellow and black stripes on sides",
+                    "base_color": "Orange Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold LW"
+                    },
+                    "col": "002/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): T07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/2024-56thAnn_HVX04_%2787_Sierra_r-1.jpg/revision/latest?cb=20240601052052"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Nightburnerz 5-Pack",
-                "Color": "White",
-                "Tampo": "Dark blue stripes on hood, roof, & sides, orange stripe & gray \"87\" on hood & sides, white Ford logo, orange Hot Wheels logo & orange \"LWC Racing\" on sides.",
-                "base_color": "Blue",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Tan",
-                "Wheel Type": "White AeroDisc",
-                "Toy #": "JBJ87 JCP93",
-                "Country": "Indonesia",
-                "Notes": "Base Code(s): T37, T44I, T48I, T51I, U02I",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/20241218233241.jpg/revision/latest/scale-to-width-down/75?cb=20241219053455"
+                "release_id": "2025-87-ford-sierra-cosworth-white-jbj87-jcp93",
+                "toy_number": "JBJ87 JCP93",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2025,
+                "series_id": "nightburnerz",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Dark blue stripes on hood, roof, & sides, orange stripe & gray \"87\" on hood & sides, white Ford logo, orange Hot Wheels logo & orange \"LWC Racing\" on sides.",
+                    "base_color": "Blue",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "White AeroDisc"
+                    },
+                    "col": "002/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base Code(s): T37, T44I, T48I, T51I, U02I",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/20241218233241.jpg/revision/latest?cb=20241219053455"
+                }
             },
             {
-                "Col #": "116/250",
-                "Year": "2026",
-                "Series": "HW Euro 5/10",
-                "Color": "Pink",
-                "Tampo": "White accents, black striping, \"87\" on hood, roof and sides, Motul logo Ford wordmark on hood and sides, Goodyear logo, \" A A \" on sides",
-                "base_color": "White",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome Rim, Black LW",
-                "Toy #": "JJJ74",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1987Sierra.jpg/revision/latest/scale-to-width-down/75?cb=20260103100500"
+                "release_id": "2026-87-ford-sierra-cosworth-pink-jjj74",
+                "toy_number": "JJJ74",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "White accents, black striping, \"87\" on hood, roof and sides, Motul logo Ford wordmark on hood and sides, Goodyear logo, \" A A \" on sides",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome Rim, Black LW"
+                    },
+                    "col": "116/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/1987Sierra.jpg/revision/latest?cb=20260103100500"
+                }
             },
             {
-                "Col #": "116/250",
-                "Year": "2026",
-                "Series": "HW Euro 5/10",
-                "Color": "Spectraflame hot pink",
-                "Tampo": "White accents, black striping, \"87\" on hood, roof and sides, \"C VAUGHN \", Ford wordmark on hood and sides, Goodyear logo, \" A A \" on sides, TH logo on rear quarterpanel",
-                "base_color": "White",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "D7RR",
-                "Toy #": "JJM19",
-                "Country": "Malaysia",
-                "Notes": "Super Treasure Hunt Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-87-ford-sierra-cosworth-spectraflame-hot-pink-jjm19",
+                "toy_number": "JJM19",
+                "casting_id": "87-ford-sierra-cosworth",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Spectraflame hot pink",
+                    "tampo": "White accents, black striping, \"87\" on hood, roof and sides, \"C VAUGHN \", Ford wordmark on hood and sides, Goodyear logo, \" A A \" on sides, TH logo on rear quarterpanel",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "D7RR"
+                    },
+                    "col": "116/250"
+                },
+                "country": "Malaysia",
+                "notes": "Super Treasure Hunt Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

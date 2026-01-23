@@ -1,127 +1,191 @@
 [
     {
-        "metadata": {
-            "name": "El Segundo Coupe",
-            "Debut series": "HW Dream Garage",
-            "image": "ElSegundoCoupe.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/ElSegundoCoupe.jpg/revision/latest/scale-to-width-down/268?cb=20221216090828"
-        },
+        "casting_id": "el-segundo-coupe",
+        "name": "El Segundo Coupe",
         "description": {
             "en-us": "El Segundo Coupe Debut series HW Dream Garage Produced 2023 – Present Designer Sonny Fisher Number HKG39",
             "pt-br": ""
         },
+        "designer": "Sonny Fisher",
+        "debut_year": 2023,
+        "manufacturer": "El",
         "releases": [
             {
-                "Col #": "105/250",
-                "Year": "2023",
-                "Series": "HW Dream Garage 4/5",
-                "Color": "Metalflake gray",
-                "Tampo": "White circles on sides",
-                "base_color": "Dark chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black LW",
-                "Toy #": "HKG39",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): R46, R47, R50, R52",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/ElSegundoCoupe.jpg/revision/latest/scale-to-width-down/75?cb=20221216090828"
+                "release_id": "2023-el-segundo-coupe-metalflake-gray-hkg39",
+                "toy_number": "HKG39",
+                "casting_id": "el-segundo-coupe",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake gray",
+                    "tampo": "White circles on sides",
+                    "base_color": "Dark chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black LW"
+                    },
+                    "col": "105/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): R46, R47, R50, R52",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/ElSegundoCoupe.jpg/revision/latest?cb=20221216090828"
+                }
             },
             {
-                "Col #": "105/250",
-                "Year": "2023",
-                "Series": "HW Dream Garage 4/5",
-                "Color": "Black",
-                "Tampo": "Gold and gray pinstriping",
-                "base_color": "Gold chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Gold LW",
-                "Toy #": "HKJ96",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): S12, S13, S15",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HKJ96-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230529153124"
+                "release_id": "2023-el-segundo-coupe-black-hkj96",
+                "toy_number": "HKJ96",
+                "casting_id": "el-segundo-coupe",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Gold and gray pinstriping",
+                    "base_color": "Gold chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Gold LW"
+                    },
+                    "col": "105/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): S12, S13, S15",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HKJ96-LOOSE.jpg/revision/latest?cb=20230529153124"
+                }
             },
             {
-                "Col #": "051/250",
-                "Year": "2024",
-                "Series": "HW Turbo 1/5",
-                "Color": "Teal",
-                "Tampo": "\"68\", yellow and red striping down hood and sides, \"HWGRAFX\", \"iNTAN\" on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Gray",
-                "Wheel Type": "PR5",
-                "Toy #": "HTC63",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Unleashed 2: Turbocharged Base code(s): S36, S39, S40, S41",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/TurboCoupe.jpg/revision/latest/scale-to-width-down/75?cb=20231003122642"
+                "release_id": "2024-el-segundo-coupe-teal-htc63",
+                "toy_number": "HTC63",
+                "casting_id": "el-segundo-coupe",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Teal",
+                    "tampo": "\"68\", yellow and red striping down hood and sides, \"HWGRAFX\", \"iNTAN\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "051/250"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Unleashed 2: Turbocharged Base code(s): S36, S39, S40, S41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/TurboCoupe.jpg/revision/latest?cb=20231003122642"
+                }
             },
             {
-                "Col #": "051/250",
-                "Year": "2024",
-                "Series": "HW Turbo 1/5",
-                "Color": "Metalflake Blue",
-                "Tampo": "\"68\", gold and red striping down hood and sides, \"HWGRAFX\", \"iNTAN\" on sides",
-                "base_color": "White",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold PR5",
-                "Toy #": "HTD10",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race Base code(s): T04",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/El_Segundo_Coupe_in_Dark_Blue_2024_HotWheels_Mainline..jpg/revision/latest/scale-to-width-down/75?cb=20240510173132"
+                "release_id": "2024-el-segundo-coupe-metalflake-blue-htd10",
+                "toy_number": "HTD10",
+                "casting_id": "el-segundo-coupe",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "\"68\", gold and red striping down hood and sides, \"HWGRAFX\", \"iNTAN\" on sides",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold PR5"
+                    },
+                    "col": "051/250"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race Base code(s): T04",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/El_Segundo_Coupe_in_Dark_Blue_2024_HotWheels_Mainline..jpg/revision/latest?cb=20240510173132"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Mattel 80th Anniversary 5-Pack",
-                "Color": "Metalflake Red",
-                "Tampo": "Black \"80\" on white number circle, Hot Wheels logo, \"20\", \"25\", \"El Segundo Rally\" logo on doors, Grey pinstriping on hood and rear deck.",
-                "base_color": "Metalflake Grey",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "L4",
-                "Toy #": "JGK08",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): U121, U15I, U16I, U171, U181",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/Mattel_80_el_segundo_coupe.jpg/revision/latest/scale-to-width-down/75?cb=20250802011334"
+                "release_id": "2025-el-segundo-coupe-metalflake-red-jgk08",
+                "toy_number": "JGK08",
+                "casting_id": "el-segundo-coupe",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "Black \"80\" on white number circle, Hot Wheels logo, \"20\", \"25\", \"El Segundo Rally\" logo on doors, Grey pinstriping on hood and rear deck.",
+                    "base_color": "Metalflake Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "L4"
+                    },
+                    "col": "051/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): U121, U15I, U16I, U171, U181",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/Mattel_80_el_segundo_coupe.jpg/revision/latest?cb=20250802011334"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "HW Retro Racers 5-Pack",
-                "Color": "Yellow Pearl",
-                "Tampo": "\"25\"; Black, grey and white striping; A seto ,HW TIRES, D-yas Performance, Liew, HWGRFX logos on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Grey",
-                "Wheel Type": "Red Lip MC5 / 2025 / Color Shifters / Cold: Purple Warm: White / Purple flames, white \"68\", stripes, various logos / White / Plastic / Grey tint / Black / Grey PR5 / Thailand / Base code(s):",
-                "Toy #": "JBJ86 JBK06",
-                "Country": "Indonesia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/2025RR5-ESCoupe_%28Large%29.JPG/revision/latest/scale-to-width-down/75?cb=20250802064725"
+                "release_id": "2025-el-segundo-coupe-yellow-pearl-jbj86-jbk06",
+                "toy_number": "JBJ86 JBK06",
+                "casting_id": "el-segundo-coupe",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Pearl",
+                    "tampo": "\"25\"; Black, grey and white striping; A seto ,HW TIRES, D-yas Performance, Liew, HWGRFX logos on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Red Lip MC5",
+                        "1": "Grey PR5"
+                    },
+                    "col": "051/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/2025RR5-ESCoupe_%28Large%29.JPG/revision/latest?cb=20250802064725",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/ElSegundoHot.jpg/revision/latest?cb=20250925014410"
+                }
             },
             {
-                "Col #": "096/250",
-                "Year": "2026",
-                "Series": "HW Fan Driven 4/5",
-                "Color": "White",
-                "Tampo": "Grey, red, and orange livery on sides, front and roof, Hot Wheels logo, \"26\" and sponsors on sides",
-                "base_color": "Grey",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Red",
-                "Wheel Type": "White AeroDisc",
-                "Toy #": "JJJ57",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U44N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/RacingCoupe.jpg/revision/latest/scale-to-width-down/75?cb=20251216111033"
+                "release_id": "2026-el-segundo-coupe-white-jjj57",
+                "toy_number": "JJJ57",
+                "casting_id": "el-segundo-coupe",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Grey, red, and orange livery on sides, front and roof, Hot Wheels logo, \"26\" and sponsors on sides",
+                    "base_color": "Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "White AeroDisc"
+                    },
+                    "col": "096/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U44N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/RacingCoupe.jpg/revision/latest?cb=20251216111033"
+                }
             }
         ]
     }

@@ -1,0 +1,115 @@
+[
+    {
+        "casting_id": "92-dodge-viper-rt10",
+        "name": "'92 Dodge Viper RT/10",
+        "description": {
+            "en-us": "'92 Dodge Viper RT/10 Debut series HW Exotics Produced 2023 – Present Designer Fraser Campbell Number HKG71",
+            "pt-br": ""
+        },
+        "designer": "Fraser Campbell",
+        "debut_year": 2023,
+        "manufacturer": "'92",
+        "releases": [
+            {
+                "release_id": "2023-92-dodge-viper-rt10-viper-red-hkg71",
+                "toy_number": "HKG71",
+                "casting_id": "92-dodge-viper-rt10",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 9,
+                "specs": {
+                    "color": "Viper Red",
+                    "tampo": "Detailed headlights and taillights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "FC3"
+                    },
+                    "col": "236/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): S25, S26, S27, S28, S30",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/DodgeViperRT10.jpg/revision/latest?cb=20230826073352"
+                }
+            },
+            {
+                "release_id": "2024-92-dodge-viper-rt10-dandelion-yellow-htc24",
+                "toy_number": "HTC24",
+                "casting_id": "92-dodge-viper-rt10",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 6,
+                "specs": {
+                    "color": "Dandelion Yellow",
+                    "tampo": "Detailed headlights, \"VIPER RT/10\" badging on fenders",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gray FC3"
+                    },
+                    "col": "218/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s) : T19, T20, T21, T22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/1992DodgeViper.jpg/revision/latest?cb=20240715094545"
+                }
+            },
+            {
+                "release_id": "2025-92-dodge-viper-rt10-metallic-ruby-red-jgk09",
+                "toy_number": "JGK09",
+                "casting_id": "92-dodge-viper-rt10",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Ruby Red",
+                    "tampo": "Detailed headlights, taillights and trim, maroon accents, Hot Wheels and Mattel 80th Anniversary logos on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MM5"
+                    },
+                    "col": "218/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): U15A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/JGK09-viper.jpg/revision/latest?cb=20250922051134"
+                }
+            },
+            {
+                "release_id": "2026-92-dodge-viper-rt10-stone-white-jjm01",
+                "toy_number": "JJM01",
+                "casting_id": "92-dodge-viper-rt10",
+                "year": 2026,
+                "series_id": "drop",
+                "series_index": 2,
+                "specs": {
+                    "color": "Stone White",
+                    "tampo": "Detailed headlights, \"VIPER R/T\" badging on fender, blue striping, Treasure Hunt flame logo on doors",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "White 5SP"
+                    },
+                    "col": "029/250"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base code(s): U37N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/1992Viper.jpg/revision/latest?cb=20251015122319"
+                }
+            }
+        ]
+    }
+]

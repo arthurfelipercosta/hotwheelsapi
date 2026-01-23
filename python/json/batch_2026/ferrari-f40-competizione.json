@@ -1,79 +1,114 @@
 [
     {
-        "metadata": {
-            "name": "Ferrari F40 Competizione",
-            "Debut series": "HW Exotics",
-            "image": "FerrariF40Competizione.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/66/FerrariF40Competizione.jpg/revision/latest/scale-to-width-down/268?cb=20250423114302"
-        },
+        "casting_id": "ferrari-f40-competizione",
+        "name": "Ferrari F40 Competizione",
         "description": {
             "en-us": "Ferrari F40 Competizione Debut series HW Exotics Produced 2025 – Present Designer Shawn Moghadam Number HYW59",
             "pt-br": ""
         },
+        "designer": "Shawn Moghadam",
+        "debut_year": 2025,
+        "manufacturer": "Ferrari",
         "releases": [
             {
-                "Col #": "198/250",
-                "Year": "2025",
-                "Series": "HW Exotics 4/5",
-                "Color": "Rosso Corsa",
-                "Tampo": "Front Ferrari badge, Scuderia Ferrari emblems on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "5SP",
-                "Toy #": "HYW59",
-                "Country": "Malaysia",
-                "Notes": "New Model Base codes: U12N, U13N, U14N, U15N, U16N, U17N, U18N, U19N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/66/FerrariF40Competizione.jpg/revision/latest/scale-to-width-down/75?cb=20250423114302"
+                "release_id": "2025-ferrari-f40-competizione-rosso-corsa-hyw59",
+                "toy_number": "HYW59",
+                "casting_id": "ferrari-f40-competizione",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Rosso Corsa",
+                    "tampo": "Front Ferrari badge, Scuderia Ferrari emblems on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "198/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base codes: U12N, U13N, U14N, U15N, U16N, U17N, U18N, U19N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/FerrariF40Competizione.jpg/revision/latest?cb=20250423114302"
+                }
             },
             {
-                "Col #": "198/250",
-                "Year": "2025",
-                "Series": "HW Exotics 4/5",
-                "Color": "Giallo Modena",
-                "Tampo": "Front Ferrari badge, Scuderia Ferrari emblems on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Grey 5SP",
-                "Toy #": "JBB92",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U30N, U31N, U32N, U33N, U34N, U35N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/92/FerrariF40C.jpg/revision/latest/scale-to-width-down/75?cb=20250816102812"
+                "release_id": "2025-ferrari-f40-competizione-giallo-modena-jbb92",
+                "toy_number": "JBB92",
+                "casting_id": "ferrari-f40-competizione",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Giallo Modena",
+                    "tampo": "Front Ferrari badge, Scuderia Ferrari emblems on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Grey 5SP"
+                    },
+                    "col": "198/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U30N, U31N, U32N, U33N, U34N, U35N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/FerrariF40C.jpg/revision/latest?cb=20250816102812"
+                }
             },
             {
-                "Col #": "063/250",
-                "Year": "2026",
-                "Series": "Ferrari 3/5",
-                "Color": "Grigio Nardo",
-                "Tampo": "Detailed badging",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Gray",
-                "Wheel Type": "PR5",
-                "Toy #": "JJJ31",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U41N, U42N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/FerrariF40Comp.jpg/revision/latest/scale-to-width-down/75?cb=20251111083225"
+                "release_id": "2026-ferrari-f40-competizione-grigio-nardo-jjj31",
+                "toy_number": "JJJ31",
+                "casting_id": "ferrari-f40-competizione",
+                "year": 2026,
+                "series_id": "ferrari",
+                "series_index": 3,
+                "specs": {
+                    "color": "Grigio Nardo",
+                    "tampo": "Detailed badging",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "063/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U41N, U42N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/FerrariF40Comp.jpg/revision/latest?cb=20251111083225"
+                }
             },
             {
-                "Col #": "063/250",
-                "Year": "2026",
-                "Series": "Ferrari 3/5",
-                "Color": "Spectraflame Grigio Nardo",
-                "Tampo": "Detailed badging, TH logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "RRE",
-                "Toy #": "JJM17",
-                "Country": "Malaysia",
-                "Notes": "Super Treasure Hunt Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/NardoF40Comp.jpg/revision/latest/scale-to-width-down/75?cb=20251111083240"
+                "release_id": "2026-ferrari-f40-competizione-spectraflame-grigio-nardo-jjm17",
+                "toy_number": "JJM17",
+                "casting_id": "ferrari-f40-competizione",
+                "year": 2026,
+                "series_id": "ferrari",
+                "series_index": 3,
+                "specs": {
+                    "color": "Spectraflame Grigio Nardo",
+                    "tampo": "Detailed badging, TH logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RRE"
+                    },
+                    "col": "063/250"
+                },
+                "country": "Malaysia",
+                "notes": "Super Treasure Hunt Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/NardoF40Comp.jpg/revision/latest?cb=20251111083240"
+                }
             }
         ]
     }

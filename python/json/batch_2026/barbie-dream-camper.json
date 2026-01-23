@@ -1,79 +1,114 @@
 [
     {
-        "metadata": {
-            "name": "Barbie Dream Camper",
-            "Debut series": "HW Getaways",
-            "image": "Barbie Dream Camper 01.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Barbie_Dream_Camper_01.jpg/revision/latest/scale-to-width-down/268?cb=20201124054406"
-        },
+        "casting_id": "barbie-dream-camper",
+        "name": "Barbie Dream Camper",
         "description": {
             "en-us": "Barbie Dream Camper Debut series HW Getaways Produced 2021 - Present Designer Dmitriy Shakhmatov Number GRX39",
             "pt-br": ""
         },
+        "designer": "Dmitriy Shakhmatov",
+        "debut_year": 2021,
+        "manufacturer": "Barbie",
         "releases": [
             {
-                "Col #": "021/250",
-                "Year": "2021",
-                "Series": "HW Getaways 1/5",
-                "Color": "Pink",
-                "Tampo": "Detailed grille and headlights on front, with Barbie head badge and \"BARBIE\" license plate; Barbie logo-related graphics on sides with teal and white thin stripes",
-                "base_color": "Pink",
-                "base_type": "Metal",
-                "Window Color": "Cyan",
-                "Interior Color": "Peach",
-                "Wheel Type": "Chrome blue rim, gray DD8",
-                "Toy #": "GRX39",
-                "Country": "Malaysia",
-                "Notes": "New Model Playable in Unleashed Base code(s): N33, N35",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Barbie_Dream_Camper_01.jpg/revision/latest/scale-to-width-down/75?cb=20201124054406"
+                "release_id": "2021-barbie-dream-camper-pink-grx39",
+                "toy_number": "GRX39",
+                "casting_id": "barbie-dream-camper",
+                "year": 2021,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Detailed grille and headlights on front, with Barbie head badge and \"BARBIE\" license plate; Barbie logo-related graphics on sides with teal and white thin stripes",
+                    "base_color": "Pink",
+                    "base_type": "Metal",
+                    "window_color": "Cyan",
+                    "interior_color": "Peach",
+                    "wheel_type": {
+                        "0": "Chrome blue rim, gray DD8"
+                    },
+                    "col": "021/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Playable in Unleashed Base code(s): N33, N35",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Barbie_Dream_Camper_01.jpg/revision/latest?cb=20201124054406"
+                }
             },
             {
-                "Col #": "056/250",
-                "Year": "2022",
-                "Series": "HW Metro 7/10",
-                "Color": "Pink",
-                "Tampo": "Detailed grille and headlights on front, with Barbie head badge and Barbie wordmark license plate; Teal swirl graphics, Barbie wordmark and Barbie head logo on sides",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Cyan",
-                "Interior Color": "Teal",
-                "Wheel Type": "DD8",
-                "Toy #": "HCT79",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): P45, P46",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/Barbie_Dream_Camper_HW_Metro_2022.jpg/revision/latest/scale-to-width-down/75?cb=20231107134520"
+                "release_id": "2022-barbie-dream-camper-pink-hct79",
+                "toy_number": "HCT79",
+                "casting_id": "barbie-dream-camper",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 7,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Detailed grille and headlights on front, with Barbie head badge and Barbie wordmark license plate; Teal swirl graphics, Barbie wordmark and Barbie head logo on sides",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Cyan",
+                    "interior_color": "Teal",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "col": "056/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): P45, P46",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/Barbie_Dream_Camper_HW_Metro_2022.jpg/revision/latest?cb=20231107134520"
+                }
             },
             {
-                "Col #": "021/250",
-                "Year": "2026",
-                "Series": "Mattel 1/5",
-                "Color": "Pink",
-                "Tampo": "Detailed grille and headlights on front, with Barbie wordmark badge and \"BRBCMPR\" license plate; Landscape graphics on sides, with Barbie wordmark on front doors and pink bold stripe on window plate",
-                "base_color": "Lavender",
-                "base_type": "Metal",
-                "Window Color": "Cyan",
-                "Interior Color": "Gray",
-                "Wheel Type": "Gray lip DD8",
-                "Toy #": "JJH96",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U32N, U33N, U34N, U35N, U36N, U37N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Dreamcamper.jpg/revision/latest/scale-to-width-down/75?cb=20251018122550"
+                "release_id": "2026-barbie-dream-camper-pink-jjh96",
+                "toy_number": "JJH96",
+                "casting_id": "barbie-dream-camper",
+                "year": 2026,
+                "series_id": "mattel",
+                "series_index": 1,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Detailed grille and headlights on front, with Barbie wordmark badge and \"BRBCMPR\" license plate; Landscape graphics on sides, with Barbie wordmark on front doors and pink bold stripe on window plate",
+                    "base_color": "Lavender",
+                    "base_type": "Metal",
+                    "window_color": "Cyan",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Gray lip DD8"
+                    },
+                    "col": "021/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U32N, U33N, U34N, U35N, U36N, U37N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Dreamcamper.jpg/revision/latest?cb=20251018122550"
+                }
             },
             {
-                "Col #": "021/250",
-                "Year": "2026",
-                "Series": "Mattel 1/5",
-                "Color": "Purple",
-                "Tampo": "Detailed grille and headlights on front, with Barbie wordmark badge; Landscape graphics on sides, with Barbie wordmark on front doors and pink bold stripe on window plate",
-                "base_color": "Pink",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "Pink lip DD8",
-                "Toy #": "JJK72",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/DreamCamper.jpg/revision/latest/scale-to-width-down/75?cb=20260121131424"
+                "release_id": "2026-barbie-dream-camper-purple-jjk72",
+                "toy_number": "JJK72",
+                "casting_id": "barbie-dream-camper",
+                "year": 2026,
+                "series_id": "mattel",
+                "series_index": 1,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Detailed grille and headlights on front, with Barbie wordmark badge; Landscape graphics on sides, with Barbie wordmark on front doors and pink bold stripe on window plate",
+                    "base_color": "Pink",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Pink lip DD8"
+                    },
+                    "col": "021/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/DreamCamper.jpg/revision/latest?cb=20260121131424"
+                }
             }
         ]
     }

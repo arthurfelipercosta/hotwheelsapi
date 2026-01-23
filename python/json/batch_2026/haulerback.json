@@ -1,63 +1,89 @@
 [
     {
-        "metadata": {
-            "name": "Haulerback",
-            "Debut series": "HW Hot Trucks",
-            "image": "Haulerback.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Haulerback.jpg/revision/latest/scale-to-width-down/268?cb=20241109072044"
-        },
+        "casting_id": "haulerback",
+        "name": "Haulerback",
         "description": {
             "en-us": "Haulerback Debut series HW Hot Trucks Produced 2025 – Present Designer Dwayne Vance Number HYW17",
             "pt-br": ""
         },
+        "designer": "Dwayne Vance",
+        "debut_year": 2025,
+        "manufacturer": "Haulerback",
         "releases": [
             {
-                "Col #": "042/250",
-                "Year": "2025",
-                "Series": "HW Hot Trucks 3/10",
-                "Color": "Yellow",
-                "Tampo": "Silverback gorilla graphics, red accent striping, Hot Wheels logo, \"63\" on sides",
-                "base_color": "Matte black",
-                "base_type": "Metal",
-                "Window Color": "Red tint",
-                "Interior Color": "Dark chrome",
-                "Wheel Type": "Red chrome rim, DD8",
-                "Toy #": "HYW17",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race New Model Base code(s): T37, T39, T40",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Haulerback.jpg/revision/latest/scale-to-width-down/75?cb=20241109072044"
+                "release_id": "2025-haulerback-yellow-hyw17",
+                "toy_number": "HYW17",
+                "casting_id": "haulerback",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Silverback gorilla graphics, red accent striping, Hot Wheels logo, \"63\" on sides",
+                    "base_color": "Matte black",
+                    "base_type": "Metal",
+                    "window_color": "Red tint",
+                    "interior_color": "Dark chrome",
+                    "wheel_type": {
+                        "0": "Red DD8"
+                    },
+                    "col": "042/250"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race New Model Base code(s): T37, T39, T40",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Haulerback.jpg/revision/latest?cb=20241109072044"
+                }
             },
             {
-                "Col #": "042/250",
-                "Year": "2025",
-                "Series": "HW Hot Trucks 3/10",
-                "Color": "Seafoam",
-                "Tampo": "Silverback gorilla graphics, black accent striping, Hot Wheels logo, \"63\" on sides",
-                "base_color": "Gloss black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "DD8",
-                "Toy #": "HYX68",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race New Model Base code(s): U06N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/HaulerbackTruck.jpg/revision/latest/scale-to-width-down/75?cb=20250416122835"
+                "release_id": "2025-haulerback-seafoam-hyx68",
+                "toy_number": "HYX68",
+                "casting_id": "haulerback",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Seafoam",
+                    "tampo": "Silverback gorilla graphics, black accent striping, Hot Wheels logo, \"63\" on sides",
+                    "base_color": "Gloss black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "col": "042/250"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race New Model Base code(s): U06N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/HaulerbackTruck.jpg/revision/latest?cb=20250416122835"
+                }
             },
             {
-                "Col #": "033/250",
-                "Year": "2026",
-                "Series": "HW Heavyweights 2/5",
-                "Color": "",
-                "Tampo": "",
-                "base_color": "",
-                "base_type": "",
-                "Window Color": "",
-                "Interior Color": "",
-                "Wheel Type": "",
-                "Toy #": "JJJ04",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/52/CyberpunkTowtruck.jpg/revision/latest/scale-to-width-down/75?cb=20251015122527"
+                "release_id": "2026-haulerback-blue-jjj04",
+                "toy_number": "JJJ04",
+                "casting_id": "haulerback",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Black striping, \"HAULERBACK TOWING\", silverback gorilla graphics on sides",
+                    "base_color": "Dark gray",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Green Lip PR5"
+                    },
+                    "col": "033/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/CyberpunkTowtruck.jpg/revision/latest?cb=20251015122527"
+                }
             }
         ]
     }

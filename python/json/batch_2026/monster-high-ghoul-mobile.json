@@ -1,95 +1,144 @@
 [
     {
-        "metadata": {
-            "name": "Monster High Ghoul Mobile",
-            "Debut series": "HW Screen Time",
-            "image": "GhoulMobile.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/GhoulMobile.jpg/revision/latest/scale-to-width-down/268?cb=20230914100050"
-        },
+        "casting_id": "monster-high-ghoul-mobile",
+        "name": "Monster High Ghoul Mobile",
         "description": {
             "en-us": "Monster High Ghoul Mobile Debut series HW Screen Time Produced 2024 – Present Designer Fraser Campbell Number HRY45",
             "pt-br": ""
         },
+        "designer": "Fraser Campbell",
+        "debut_year": 2024,
+        "manufacturer": "Monster",
         "releases": [
             {
-                "Col #": "003/250",
-                "Year": "2024",
-                "Series": "HW Screen Time 1/10",
-                "Color": "Lavender",
-                "Tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Chartreuse tint",
-                "Interior Color": "Magenta",
-                "Wheel Type": "Pink Chrome 10SP",
-                "Toy #": "HRY45",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s): S32, S33, S34, S35, S39",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/GhoulMobile.jpg/revision/latest/scale-to-width-down/75?cb=20230914100050"
+                "release_id": "2024-monster-high-ghoul-mobile-lavender-hry45",
+                "toy_number": "HRY45",
+                "casting_id": "monster-high-ghoul-mobile",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Lavender",
+                    "tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Chartreuse tint",
+                    "interior_color": "Magenta",
+                    "wheel_type": {
+                        "0": "Pink Chrome 10SP"
+                    },
+                    "col": "003/250",
+                    "notes_variations": "New Model Base code(s): S32, S33, S34, S35, S39"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/GhoulMobile.jpg/revision/latest?cb=20230914100050"
+                }
             },
             {
-                "Col #": "003/250",
-                "Year": "2024",
-                "Series": "HW Screen Time 1/10",
-                "Color": "Metalflake Black",
-                "Tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Orange tint",
-                "Interior Color": "Pink",
-                "Wheel Type": "Purple Chrome 10SP",
-                "Toy #": "HTC80",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s): S50, S51",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/03/MHGM2.jpeg/revision/latest/scale-to-width-down/75?cb=20240501121028"
+                "release_id": "2024-monster-high-ghoul-mobile-metalflake-black-htc80",
+                "toy_number": "HTC80",
+                "casting_id": "monster-high-ghoul-mobile",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Black",
+                    "tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Orange tint",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "Purple Chrome 10SP"
+                    },
+                    "col": "003/250",
+                    "notes_variations": "New Model Base code(s): S47, S50, S51"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/MHGM2.jpeg/revision/latest?cb=20240501121028"
+                }
             },
             {
-                "Col #": "003/250",
-                "Year": "2025",
-                "Series": "HW Screen Time 1/10",
-                "Color": "Metalflake Purple",
-                "Tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Yellow tint",
-                "Interior Color": "Pink",
-                "Wheel Type": "Pink 10SP",
-                "Toy #": "HYW61",
-                "Country": "Malaysia",
-                "Notes / Variations": "Base code(s): T33, T35, T38",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/2025_Monster_High_Ghoul_Mobile.jpg/revision/latest/scale-to-width-down/75?cb=20250121212640"
+                "release_id": "2025-monster-high-ghoul-mobile-metalflake-purple-hyw61",
+                "toy_number": "HYW61",
+                "casting_id": "monster-high-ghoul-mobile",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "Pink 10SP"
+                    },
+                    "col": "003/250",
+                    "notes_variations": "Base code(s): T33, T35, T38"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/2025_Monster_High_Ghoul_Mobile.jpg/revision/latest?cb=20250121212640"
+                }
             },
             {
-                "Col #": "003/250",
-                "Year": "2025",
-                "Series": "HW Screen Time 1/10",
-                "Color": "Gloss Black",
-                "Tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
-                "base_color": "Purple",
-                "base_type": "Plastic",
-                "Window Color": "Orange tint",
-                "Interior Color": "Purple",
-                "Wheel Type": "Pink 10SP",
-                "Toy #": "HYX62",
-                "Country": "Malaysia",
-                "Notes / Variations": "Base code(s): U04N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/BlackGhoul.jpg/revision/latest/scale-to-width-down/75?cb=20250224121943"
+                "release_id": "2025-monster-high-ghoul-mobile-gloss-black-hyx62",
+                "toy_number": "HYX62",
+                "casting_id": "monster-high-ghoul-mobile",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Gloss Black",
+                    "tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
+                    "base_color": "Purple",
+                    "base_type": "Plastic",
+                    "window_color": "Orange tint",
+                    "interior_color": "Purple",
+                    "wheel_type": {
+                        "0": "Pink 10SP"
+                    },
+                    "col": "003/250",
+                    "notes_variations": "Base code(s): U04N"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/BlackGhoul.jpg/revision/latest?cb=20250224121943"
+                }
             },
             {
-                "Col #": "048/250",
-                "Year": "2026",
-                "Series": "Mattel 2/5",
-                "Color": "Metalflake Lavender",
-                "Tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Chartreuse tint",
-                "Interior Color": "Magenta",
-                "Wheel Type": "Pink Chrome TRAP5",
-                "Toy #": "JJJ19",
-                "Country": "Malaysia",
-                "Notes / Variations": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/88/MonsterHighCar.jpg/revision/latest/scale-to-width-down/75?cb=20251018122831"
+                "release_id": "2026-monster-high-ghoul-mobile-metalflake-lavender-jjj19",
+                "toy_number": "JJJ19",
+                "casting_id": "monster-high-ghoul-mobile",
+                "year": 2026,
+                "series_id": "mattel",
+                "series_index": 2,
+                "specs": {
+                    "color": "Metalflake Lavender",
+                    "tampo": "Detailed headlights, spider web decals around the body, Skullette logo on trunk",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Chartreuse tint",
+                    "interior_color": "Magenta",
+                    "wheel_type": {
+                        "0": "Pink Chrome TRAP5"
+                    },
+                    "col": "048/250",
+                    "notes_variations": "Base code(s):"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/MonsterHighCar.jpg/revision/latest?cb=20251018122831"
+                }
             }
         ]
     }

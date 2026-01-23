@@ -1,79 +1,116 @@
 [
     {
-        "metadata": {
-            "name": "Ferrari SF90 Stradale",
-            "Debut series": "Factory Fresh",
-            "image": "FerrariSF90Stradale.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/FerrariSF90Stradale.jpg/revision/latest/scale-to-width-down/267?cb=20250414080019"
-        },
+        "casting_id": "ferrari-sf90-stradale",
+        "name": "Ferrari SF90 Stradale",
         "description": {
             "en-us": "Ferrari SF90 Stradale Debut series Factory Fresh Produced 2025 – Present Designer Shawn Moghadam Number HYW34",
             "pt-br": ""
         },
+        "designer": "Shawn Moghadam",
+        "debut_year": 2025,
+        "manufacturer": "Ferrari",
         "releases": [
             {
-                "Col #": "191/250",
-                "Year": "2025",
-                "Series": "Factory Fresh 5/5",
-                "Color": "Rosso Corsa",
-                "Tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black PR5",
-                "Toy #": "HYW34",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U04N, U09N, U10N, U12N, U13N, U15N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/FerrariSF90Stradale.jpg/revision/latest/scale-to-width-down/75?cb=20250414080019"
+                "release_id": "2025-ferrari-sf90-stradale-rosso-corsa-hyw34",
+                "toy_number": "HYW34",
+                "casting_id": "ferrari-sf90-stradale",
+                "year": 2025,
+                "series_id": "factory",
+                "series_index": 5,
+                "specs": {
+                    "color": "Rosso Corsa",
+                    "tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "col": "191/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U04N, U09N, U10N, U12N, U13N, U15N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/FerrariSF90Stradale.jpg/revision/latest?cb=20250414080019"
+                }
             },
             {
-                "Col #": "191/250",
-                "Year": "2025",
-                "Series": "Factory Fresh 5/5",
-                "Color": "Metalflake Grigio Silverstone",
-                "Tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black PR5",
-                "Toy #": "HYY08",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U28N, U29N, U30N, U31N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/2024FerrariSF90Stradale.jpg/revision/latest/scale-to-width-down/75?cb=20250715130306"
+                "release_id": "2025-ferrari-sf90-stradale-metalflake-grigio-silverstone-hyy08",
+                "toy_number": "HYY08",
+                "casting_id": "ferrari-sf90-stradale",
+                "year": 2025,
+                "series_id": "factory",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metalflake Grigio Silverstone",
+                    "tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "col": "191/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U28N, U29N, U30N, U31N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/2024FerrariSF90Stradale.jpg/revision/latest?cb=20250715130306"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "HW Motor Show 5-Pack",
-                "Color": "Rosso Mugello",
-                "Tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "JBJ89",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): U19I, U20I, U24I, U25I",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/FioranoSF90.jpg/revision/latest/scale-to-width-down/75?cb=20251026230611"
+                "release_id": "2025-ferrari-sf90-stradale-rosso-mugello-jbj89",
+                "toy_number": "JBJ89",
+                "casting_id": "ferrari-sf90-stradale",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Rosso Mugello",
+                    "tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "191/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): U19I, U20I, U24I, U25I",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/FioranoSF90.jpg/revision/latest?cb=20251026230611"
+                }
             },
             {
-                "Col #": "041/250",
-                "Year": "2026",
-                "Series": "Ferrari 1/5",
-                "Color": "Blu Tour de France",
-                "Tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gloss Black 10SP / 041/250 / 2026 / Ferrari 1/5 / Nero Daytona / Detailed headlights and badging, Scuderia Ferrari emblem on sides / Black / Plastic / Clear / Red / Chrome Red lip, Black MC5 / Malaysia / Base code(s):",
-                "Toy #": "JJJ12",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U37N, U41N, U42N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2024FerrariSF90.jpg/revision/latest/scale-to-width-down/75?cb=20251015123146"
+                "release_id": "2026-ferrari-sf90-stradale-blu-tour-de-france-jjj12",
+                "toy_number": "JJJ12",
+                "casting_id": "ferrari-sf90-stradale",
+                "year": 2026,
+                "series_id": "ferrari",
+                "series_index": 1,
+                "specs": {
+                    "color": "Blu Tour de France",
+                    "tampo": "Detailed headlights and badging, Scuderia Ferrari emblem on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gloss Black 10SP",
+                        "1": "Chrome Red lip, Black MC5"
+                    },
+                    "col": "041/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U37N, U40N, U41N, U42N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2024FerrariSF90.jpg/revision/latest?cb=20251015123146",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

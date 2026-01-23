@@ -1,63 +1,90 @@
 [
     {
-        "metadata": {
-            "name": "Hot Wheengs",
-            "Debut series": "Fast Foodie",
-            "image": "HotWheengs.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/HotWheengs.jpg/revision/latest/scale-to-width-down/268?cb=20250416124513"
-        },
+        "casting_id": "hot-wheengs",
+        "name": "Hot Wheengs",
         "description": {
             "en-us": "Hot Wheengs Debut series Fast Foodie Produced 2025 – Present Designer Bryan Zhao Number HYW42",
             "pt-br": ""
         },
+        "designer": "Bryan Zhao",
+        "debut_year": 2025,
+        "manufacturer": "Hot",
         "releases": [
             {
-                "Col #": "197/250",
-                "Year": "2025",
-                "Series": "Fast Foodie 5/5",
-                "Color": "Red",
-                "Tampo": "Caricature of Bryan Zhao on fire on bottle, \"HOT WHEELS\" on bottle, four Scoville scale-style Hot Wheels logos, \" ZHAO BRAND \" on bottle neck",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Clear",
-                "Interior Color": "Green",
-                "Wheel Type": "Green & Chrome Red ID / Heavy smoke tint / New Model Base code(s): U04N",
-                "Toy #": "HYW42",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U09N, U10N, U11N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/HotWheengs.jpg/revision/latest/scale-to-width-down/75?cb=20250416124513"
+                "release_id": "2025-hot-wheengs-red-hyw42",
+                "toy_number": "HYW42",
+                "casting_id": "hot-wheengs",
+                "year": 2025,
+                "series_id": "fast",
+                "series_index": 5,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Caricature of Bryan Zhao on fire on bottle, \"HOT WHEELS\" on bottle, four Scoville scale-style Hot Wheels logos, \" ZHAO BRAND \" on bottle neck",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Green",
+                    "wheel_type": {
+                        "0": "Green & Chrome Red ID"
+                    },
+                    "col": "197/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U09N, U10N, U11N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/HotWheengs.jpg/revision/latest?cb=20250416124513",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Hot_Wheengs_dark_glass.jpg/revision/latest?cb=20250709031437"
+                }
             },
             {
-                "Col #": "197/250",
-                "Year": "2025",
-                "Series": "Fast Foodie 5/5",
-                "Color": "Yellow",
-                "Tampo": "Caricature of Bryan Zhao on fire on bottle, \"HOT WHEELS\" on bottle, four Scoville scale-style Hot Wheels logos, \" ZHAO BRAND \" on bottle neck",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Heavy smoke tint",
-                "Interior Color": "Red",
-                "Wheel Type": "Chrome Green rim, Red RA6",
-                "Toy #": "JBC02",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U29N, U30N, U32N, U34N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/2nd_2025_Hot_Wheengs.jpg/revision/latest/scale-to-width-down/75?cb=20251026185536"
+                "release_id": "2025-hot-wheengs-yellow-jbc02",
+                "toy_number": "JBC02",
+                "casting_id": "hot-wheengs",
+                "year": 2025,
+                "series_id": "fast",
+                "series_index": 5,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Caricature of Bryan Zhao on fire on bottle, \"HOT WHEELS\" on bottle, four Scoville scale-style Hot Wheels logos, \" ZHAO BRAND \" on bottle neck",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Heavy smoke tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "Chrome Green rim, Red RA6"
+                    },
+                    "col": "197/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U29N, U30N, U32N, U34N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/2nd_2025_Hot_Wheengs.jpg/revision/latest?cb=20251026185536"
+                }
             },
             {
-                "Col #": "081/250",
-                "Year": "2026",
-                "Series": "X-Raycers 4/5",
-                "Color": "Green",
-                "Tampo": "Flames, \" X HOT WHEENGS X-RAYCERS \" on neck, Treasure Hunt flame logo on bottle",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Green tint",
-                "Interior Color": "Red",
-                "Wheel Type": "Chrome Green rim, Red RA6",
-                "Toy #": "JJM03",
-                "Country": "Malaysia",
-                "Notes": "Treasure Hunt Base code(s): U45N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/59/HotSauce.jpg/revision/latest/scale-to-width-down/75?cb=20251216110138"
+                "release_id": "2026-hot-wheengs-green-jjm03",
+                "toy_number": "JJM03",
+                "casting_id": "hot-wheengs",
+                "year": 2026,
+                "series_id": "x-raycers",
+                "series_index": 4,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Flames, \" X HOT WHEENGS X-RAYCERS \" on neck, Treasure Hunt flame logo on bottle",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Green tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "Chrome Green rim, Red RA6"
+                    },
+                    "col": "081/250"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base code(s): U45N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/HotSauce.jpg/revision/latest?cb=20251216110138"
+                }
             }
         ]
     }

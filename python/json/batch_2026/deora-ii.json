@@ -1,927 +1,1443 @@
 [
     {
-        "metadata": {
-            "name": "Deora II",
-            "Debut series": "2000 First Editions",
-            "image": "35 Years of Speed Randy Leffingwell Deora (2).JPG",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/35_Years_of_Speed_Randy_Leffingwell_Deora_%282%29.JPG/revision/latest/scale-to-width-down/268?cb=20240723020711"
-        },
+        "casting_id": "deora-ii",
+        "name": "Deora II",
         "description": {
             "en-us": "Deora II Debut series 2000 First Editions Produced 2000 - 2010 (Original) 2011 - Present (1st retool) 2011 - Present (2nd retool) 2021 - Present (3rd retool) Designer Nathan Proch Number 24369",
             "pt-br": ""
         },
+        "designer": "Nathan Proch",
+        "debut_year": 2000,
+        "manufacturer": "Deora",
         "releases": [
             {
-                "Col. #": "065",
-                "Year": "2000",
-                "Series": "2000 First Editions 5/36",
-                "Color": "Metalflake Silver",
-                "Tampo": "Black tonneau cover",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome / Blue surf boards",
-                "Wheel Type": "5DOT / Black tonneau cover / Black tonneau cover, Hot Wheels logo on spoiler on passenger side / Choking Hazard Sticker on card / 5SP",
-                "Toy #": "24369",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/First_Edition_No_Tampo_Deora_II_-_5511cf.jpg/revision/latest/scale-to-width-down/75?cb=20090609111005"
+                "release_id": "2000-deora-ii-metalflake-silver-24369",
+                "toy_number": "24369",
+                "casting_id": "deora-ii",
+                "year": 2000,
+                "series_id": "2000",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "Black tonneau cover",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome / Blue surf boards",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "065"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/First_Edition_No_Tampo_Deora_II_-_5511cf.jpg/revision/latest?cb=20090609111005",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/20210709_211458.jpg/revision/latest?cb=20210713074351",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/3/32/2000_First_Edition_Deora_II-BBB01.jpg/revision/latest?cb=20081124205146",
+                    "3": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col. #": "243",
-                "Year": "2000",
-                "Series": "Mainline",
-                "Color": "Metalflake Blue",
-                "Tampo": "None",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / Orange surf boards",
-                "Wheel Type": "PR5",
-                "Toy #": "29300",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/2000_Open_Vamp_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124205217"
+                "release_id": "2000-deora-ii-metalflake-blue-29300",
+                "toy_number": "29300",
+                "casting_id": "deora-ii",
+                "year": 2000,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "None",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / Orange surf boards",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "243"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/2000_Open_Vamp_Deora_II-BBB01.jpg/revision/latest?cb=20081124205217"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2000",
-                "Series": "New York Toy Fair",
-                "Color": "Dark Red",
-                "Tampo": "Purple, Black & Gold stripes",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / Gold Chrome surf boards",
-                "Wheel Type": "Gold PC5",
-                "Toy #": "N/A",
-                "Country": "Malaysia",
-                "Notes": "Limited produced",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/2000_New_York_Toy_Fair_Deora_II_-_5565df.jpg/revision/latest/scale-to-width-down/75?cb=20090609124536"
+                "release_id": "2000-deora-ii-dark-red-na",
+                "toy_number": "N/A",
+                "casting_id": "deora-ii",
+                "year": 2000,
+                "series_id": "new",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Red",
+                    "tampo": "Purple, Black & Gold stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / Gold Chrome surf boards",
+                    "wheel_type": {
+                        "0": "Gold PC5"
+                    },
+                    "col": "243"
+                },
+                "country": "Malaysia",
+                "notes": "Limited produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/2000_New_York_Toy_Fair_Deora_II_-_5565df.jpg/revision/latest?cb=20090609124536"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2000",
-                "Series": "Hot Haulers 4‑Pack",
-                "Color": "Red",
-                "Tampo": "Black & Yellow graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Light Gray surf boards",
-                "Wheel Type": "5SP",
-                "Toy #": "27663",
-                "Country": "Thailand",
-                "Notes": "Toys \"R\" Us exclusive",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/2000_Hot_Haulers_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124205251"
+                "release_id": "2000-deora-ii-red-27663",
+                "toy_number": "27663",
+                "casting_id": "deora-ii",
+                "year": 2000,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Black & Yellow graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Light Gray surf boards",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "243"
+                },
+                "country": "Thailand",
+                "notes": "Toys \"R\" Us exclusive",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/2000_Hot_Haulers_Deora_II-BBB01.jpg/revision/latest?cb=20081124205251"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2000",
-                "Series": "Puerto Rico",
-                "Color": "Red",
-                "Tampo": "Puerto Rican Flag with \"Puerto Rico Isla del Encanto\" text graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Black)",
-                "Interior Color": "Chrome / Light Gray surf boards",
-                "Wheel Type": "5SP",
-                "Toy #": "29383",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/79/2000_Puerto_Rico_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124205313"
+                "release_id": "2000-deora-ii-red-29383",
+                "toy_number": "29383",
+                "casting_id": "deora-ii",
+                "year": 2000,
+                "series_id": "puerto",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Puerto Rican Flag with \"Puerto Rico Isla del Encanto\" text graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Chrome / Light Gray surf boards",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "243"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/2000_Puerto_Rico_Deora_II-BBB01.jpg/revision/latest?cb=20081124205313"
+                }
             },
             {
-                "Col. #": "152",
-                "Year": "2001",
-                "Series": "Mainline",
-                "Color": "Metalflake Dark Red",
-                "Tampo": "Black, Gold & White graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / White surf boards",
-                "Wheel Type": "5SP",
-                "Toy #": "50038",
-                "Country": "China",
-                "Notes": "Maybe rare versions with Light Pink instead of white in the Tampo's",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/2001_Open_Vamp_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124205435"
+                "release_id": "2001-deora-ii-metalflake-dark-red-50038",
+                "toy_number": "50038",
+                "casting_id": "deora-ii",
+                "year": 2001,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "Black, Gold & White graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / White surf boards",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "152"
+                },
+                "country": "China",
+                "notes": "Maybe rare versions with Light Pink instead of white in the Tampo's",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/2001_Open_Vamp_Deora_II-BBB01.jpg/revision/latest?cb=20081124205435"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2001",
-                "Series": "Skateboarders 5‑Pack",
-                "Color": "Metalflake Dark Red",
-                "Tampo": "Black, Gold & White graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome",
-                "Wheel Type": "5SP",
-                "Toy #": "50036",
-                "Country": "Thailand",
-                "Notes": "Featured in Hot Wheels: Velocity X",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/78/2001_Skateboarders_5-Pack_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124205841"
+                "release_id": "2001-deora-ii-metalflake-dark-red-50036",
+                "toy_number": "50036",
+                "casting_id": "deora-ii",
+                "year": 2001,
+                "series_id": "skateboarders",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "Black, Gold & White graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "152"
+                },
+                "country": "Thailand",
+                "notes": "Featured in Hot Wheels: Velocity X",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/2001_Skateboarders_5-Pack_Deora_II-BBB01.jpg/revision/latest?cb=20081124205841"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2001",
-                "Series": "Costco 10-Pack",
-                "Color": "Metalflake Black",
-                "Tampo": "Flames & \"Deora II\" graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Light Blue)",
-                "Interior Color": "Chrome / Black surf boards",
-                "Wheel Type": "LW",
-                "Toy #": "29985",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Sam%27s_Club_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124205902"
+                "release_id": "2001-deora-ii-metalflake-black-29985",
+                "toy_number": "29985",
+                "casting_id": "deora-ii",
+                "year": 2001,
+                "series_id": "costco",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Black",
+                    "tampo": "Flames & \"Deora II\" graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Light Blue)",
+                    "interior_color": "Chrome / Black surf boards",
+                    "wheel_type": {
+                        "0": "LW"
+                    },
+                    "col": "152"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Sam%27s_Club_Deora_II-BBB01.jpg/revision/latest?cb=20081124205902"
+                }
             },
             {
-                "Col. #": "081",
-                "Year": "2002",
-                "Series": "Star‑Spangled 3/4",
-                "Color": "Metalflake Silver",
-                "Tampo": "American Flag graphics",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / Red and Blue surf boards",
-                "Wheel Type": "5DOT",
-                "Toy #": "54391",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/2002_Star_Spangeled_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124205929"
+                "release_id": "2002-deora-ii-metalflake-silver-54391",
+                "toy_number": "54391",
+                "casting_id": "deora-ii",
+                "year": 2002,
+                "series_id": "starspangled",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "American Flag graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / Red and Blue surf boards",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "081"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/2002_Star_Spangeled_Deora_II-BBB01.jpg/revision/latest?cb=20081124205929"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2002",
-                "Series": "Hot Wheels Originals",
-                "Color": "Black",
-                "Tampo": "Red & White pinstripe graphics",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Red)",
-                "Interior Color": "Chrome / Red surf boards",
-                "Wheel Type": "RR",
-                "Toy #": "56025",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2002_HW_Originals_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124205949"
+                "release_id": "2002-deora-ii-black-56025",
+                "toy_number": "56025",
+                "casting_id": "deora-ii",
+                "year": 2002,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red & White pinstripe graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Red)",
+                    "interior_color": "Chrome / Red surf boards",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "col": "081"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2002_HW_Originals_Deora_II-BBB01.jpg/revision/latest?cb=20081124205949"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2002",
-                "Series": "HWC.com Series 1 4/23",
-                "Color": "Spectraflame Yellow",
-                "Tampo": "Chrome, Black & White graphics",
-                "base_color": "Chrome",
-                "base_type": "Metal",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / Yellow Chrome surf boards",
-                "Wheel Type": "Yellow Line DDRR",
-                "Toy #": "85509",
-                "Country": "Thailand",
-                "Notes": "10,000 produced",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/30/2002_HWC_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124210014"
+                "release_id": "2002-deora-ii-spectraflame-yellow-85509",
+                "toy_number": "85509",
+                "casting_id": "deora-ii",
+                "year": 2002,
+                "series_id": "hwccom",
+                "series_index": 4,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "Chrome, Black & White graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / Yellow Chrome surf boards",
+                    "wheel_type": {
+                        "0": "Yellow Line DDRR"
+                    },
+                    "col": "081"
+                },
+                "country": "Thailand",
+                "notes": "10,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/2002_HWC_Deora_II-BBB01.jpg/revision/latest?cb=20081124210014"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2002",
-                "Series": "Planet Hot Wheels Energy 4/6",
-                "Color": "Light Gold",
-                "Tampo": "Planet Hot Wheels graphics",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Black surf boards",
-                "Wheel Type": "5DOT",
-                "Toy #": "56251",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/2002_Planet_HW_Light_Gold_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124210041"
+                "release_id": "2002-deora-ii-light-gold-56251",
+                "toy_number": "56251",
+                "casting_id": "deora-ii",
+                "year": 2002,
+                "series_id": "planet",
+                "series_index": 4,
+                "specs": {
+                    "color": "Light Gold",
+                    "tampo": "Planet Hot Wheels graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Black surf boards",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "081"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/2002_Planet_HW_Light_Gold_Deora_II-BBB01.jpg/revision/latest?cb=20081124210041"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2002",
-                "Series": "Planet Hot Wheels Energy 4/6",
-                "Color": "Gold",
-                "Tampo": "Planet Hot Wheels graphics",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Black surf boards",
-                "Wheel Type": "5DOT",
-                "Toy #": "56251",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/11/2002_Planet_HW_Dark_Gold_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124210104"
+                "release_id": "2002-deora-ii-gold-56251",
+                "toy_number": "56251",
+                "casting_id": "deora-ii",
+                "year": 2002,
+                "series_id": "planet",
+                "series_index": 4,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "Planet Hot Wheels graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Black surf boards",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "081"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/2002_Planet_HW_Dark_Gold_Deora_II-BBB01.jpg/revision/latest?cb=20081124210104"
+                }
             },
             {
-                "Col. #": "058",
-                "Year": "2003",
-                "Series": "Wild Wave 4/5",
-                "Color": "Light Green",
-                "Tampo": "Green, Yellow & Black, \"Born to Surf!\" & various tribal graphics",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Yellow)",
-                "Interior Color": "Chrome / Black and Yellow surf boards",
-                "Wheel Type": "5DOT",
-                "Toy #": "57195",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/47/2003_Wild_Wave_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124210128"
+                "release_id": "2003-deora-ii-light-green-57195",
+                "toy_number": "57195",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "wild",
+                "series_index": 4,
+                "specs": {
+                    "color": "Light Green",
+                    "tampo": "Green, Yellow & Black, \"Born to Surf!\" & various tribal graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Yellow)",
+                    "interior_color": "Chrome / Black and Yellow surf boards",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "058"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/2003_Wild_Wave_Deora_II-BBB01.jpg/revision/latest?cb=20081124210128"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2003",
-                "Series": "Highway 35 World Race: Wave Rippers 1/35",
-                "Color": "Metalflake Dark Blue",
-                "Tampo": "Wave Rippers Team graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / White surf boards",
-                "Wheel Type": "Blue rim, White CM5",
-                "Toy #": "B0892",
-                "Country": "Thailand",
-                "Notes": "Featured in Hot Wheels Unleashed",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/83/2003_World_Race_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124210156"
+                "release_id": "2003-deora-ii-metalflake-dark-blue-b0892",
+                "toy_number": "B0892",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "highway",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "Wave Rippers Team graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / White surf boards",
+                    "wheel_type": {
+                        "0": "Blue rim, White CM5"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "Featured in Hot Wheels Unleashed",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/2003_World_Race_Deora_II-BBB01.jpg/revision/latest?cb=20081124210156"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2003",
-                "Series": "Highway 35 World Race Zamac Series Set",
-                "Color": "ZAMAC",
-                "Tampo": "None",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / White surf boards",
-                "Wheel Type": "Blue rim, White CM5",
-                "Toy #": "B0892",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/World_Race_Zamac_Deora_II_-_5697cf.jpg/revision/latest/scale-to-width-down/75?cb=20080930164942"
+                "release_id": "2003-deora-ii-zamac-b0892",
+                "toy_number": "B0892",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "highway",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "None",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / White surf boards",
+                    "wheel_type": {
+                        "0": "Blue rim, White CM5"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/World_Race_Zamac_Deora_II_-_5697cf.jpg/revision/latest?cb=20080930164942"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2003",
-                "Series": "Hall of Fame: Greatest Rides",
-                "Color": "Metalflake Silver",
-                "Tampo": "'Deora II' on wing among various detail graphics",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / Dark Blue surf boards",
-                "Wheel Type": "RRST",
-                "Toy #": "B0941",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/14/2003_Hall_of_Fame_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124210233"
+                "release_id": "2003-deora-ii-metalflake-silver-b0941",
+                "toy_number": "B0941",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "hall",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "'Deora II' on wing among various detail graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / Dark Blue surf boards",
+                    "wheel_type": {
+                        "0": "RRST"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/2003_Hall_of_Fame_Deora_II-BBB01.jpg/revision/latest?cb=20081124210233"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2003",
-                "Series": "Toy Fair",
-                "Color": "Black",
-                "Tampo": "Red, Blue & Chrome graphics",
-                "base_color": "Chrome",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Red surf boards",
-                "Wheel Type": "RR5SP",
-                "Toy #": "N/A",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/60/2003_Toy_Fair_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124210934"
+                "release_id": "2003-deora-ii-black-na",
+                "toy_number": "N/A",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "toy",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red, Blue & Chrome graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Red surf boards",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/2003_Toy_Fair_Deora_II-BBB01.jpg/revision/latest?cb=20081124210934"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2003",
-                "Series": "17th Annual Hot Wheels Collectors Convention: Hall of Fame 1/2",
-                "Color": "Chrome",
-                "Tampo": "Dark Gray and Black \"Deora II\", HW logo, \"Hall of Fame\", \"17th Annual Collector's Convention\", \"Anniversary 35\", \"1968\", \"2003\", detailed headlights and taillights",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Chrome surf boards",
-                "Wheel Type": "Red rim RR5SP",
-                "Toy #": "C1547",
-                "Country": "Thailand",
-                "Notes": "700 produced",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/17th_Collectors_Convention_Deora_close.jpg/revision/latest/scale-to-width-down/75?cb=20200602103351"
+                "release_id": "2003-deora-ii-chrome-c1547",
+                "toy_number": "C1547",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "17th",
+                "series_index": 1,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Dark Gray and Black \"Deora II\", HW logo, \"Hall of Fame\", \"17th Annual Collector's Convention\", \"Anniversary 35\", \"1968\", \"2003\", detailed headlights and taillights",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Chrome surf boards",
+                    "wheel_type": {
+                        "0": "Red rim RR5SP"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "700 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/17th_Collectors_Convention_Deora_close.jpg/revision/latest?cb=20200602103351"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2003",
-                "Series": "Hall of Fame: Grandstand Event",
-                "Color": "Chrome",
-                "Tampo": "Ghost HW graphics, 'November 11, 2003' on surf boards",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Chrome surf boards",
-                "Wheel Type": "RR5SP",
-                "Toy #": "C0700",
-                "Country": "Thailand",
-                "Notes": "200 produced, given to press at Hall of Fame Grandstand event",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Hall_of_Fame_Press_Release_Kit_Petersen_Grand_Opening_Deora_II.jpg/revision/latest/scale-to-width-down/75?cb=20220331194915"
+                "release_id": "2003-deora-ii-chrome-c0700",
+                "toy_number": "C0700",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "hall",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Ghost HW graphics, 'November 11, 2003' on surf boards",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Chrome surf boards",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "200 produced, given to press at Hall of Fame Grandstand event",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Hall_of_Fame_Press_Release_Kit_Petersen_Grand_Opening_Deora_II.jpg/revision/latest?cb=20220331194915"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2003",
-                "Series": "Hall of Fame: Grandstand Event",
-                "Color": "Spectraflame Blue",
-                "Tampo": "Light Blue & White HW graphics, 'November 11, 2003' on surf boards",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Black surf boards",
-                "Wheel Type": "RR5SP",
-                "Toy #": "C0700",
-                "Country": "Thailand",
-                "Notes": "600 produced, given to attendees at Hall of Fame Grandstand event",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/2003_Grandstand_Event_Deora_II.JPG/revision/latest/scale-to-width-down/75?cb=20080904080033"
+                "release_id": "2003-deora-ii-spectraflame-blue-c0700",
+                "toy_number": "C0700",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "hall",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "Light Blue & White HW graphics, 'November 11, 2003' on surf boards",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Black surf boards",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "600 produced, given to attendees at Hall of Fame Grandstand event",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/2003_Grandstand_Event_Deora_II.JPG/revision/latest?cb=20080904080033"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2003",
-                "Series": "Serpent Cyclone 5‑Pack",
-                "Color": "Metalflake Purple",
-                "Tampo": "Blue, Purple & White snake graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Blue 3SP",
-                "Toy #": "57078",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/2003_Serpent_Cyclone_5-Pack_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124212531"
+                "release_id": "2003-deora-ii-metalflake-purple-57078",
+                "toy_number": "57078",
+                "casting_id": "deora-ii",
+                "year": 2003,
+                "series_id": "serpent",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "Blue, Purple & White snake graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Blue 3SP"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/2003_Serpent_Cyclone_5-Pack_Deora_II-BBB01.jpg/revision/latest?cb=20081124212531"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2005",
-                "Series": "19th Annual Hot Wheels Collectors Convention",
-                "Color": "Spectraflame Copper",
-                "Tampo": "\"PROCH\" on windshield, sides, & rear, \"10\", Hot Wheels logo, and black & blue flames on sides, chrome side panel and stripe along top, 19th Annual Collectors Convention logo on roof, \"Nathan\", \"1968-2005\", and light blue pinstriping on surfboards, detailed headlights & taillights",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome / Blue Chrome surf boards",
-                "Wheel Type": "Red line DDRR",
-                "Toy #": "J7483",
-                "Country": "Thailand",
-                "Notes": "Given to attendees at Nathan Proch tribute dinner event Dinner car 2,000 produced",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/2005_Irvine_Convention_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124212607"
+                "release_id": "2005-deora-ii-spectraflame-copper-j7483",
+                "toy_number": "J7483",
+                "casting_id": "deora-ii",
+                "year": 2005,
+                "series_id": "19th",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Copper",
+                    "tampo": "\"PROCH\" on windshield, sides, & rear, \"10\", Hot Wheels logo, and black & blue flames on sides, chrome side panel and stripe along top, 19th Annual Collectors Convention logo on roof, \"Nathan\", \"1968-2005\", and light blue pinstriping on surfboards, detailed headlights & taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome / Blue Chrome surf boards",
+                    "wheel_type": {
+                        "0": "Red line DDRR"
+                    },
+                    "col": "058"
+                },
+                "country": "Thailand",
+                "notes": "Given to attendees at Nathan Proch tribute dinner event Dinner car 2,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/2005_Irvine_Convention_Deora_II-BBB01.jpg/revision/latest?cb=20081124212607"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2005",
-                "Series": "Dual Cool 5‑Pack",
-                "Color": "Light Purple",
-                "Tampo": "Gray, White & Green flame",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome",
-                "Wheel Type": "PR5 / Metalflake Silver / Cyan, Black & White graphics / Black / Plastic / Tinted (Smoke) / 10SP",
-                "Toy #": "G6912",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/03/2004_Dual_Cool_5-Pack_Pink_Deora_II-BBB01.jpg/revision/latest/scale-to-width-down/75?cb=20081124211049"
+                "release_id": "2005-deora-ii-light-purple-g6912",
+                "toy_number": "G6912",
+                "casting_id": "deora-ii",
+                "year": 2005,
+                "series_id": "dual",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Purple",
+                    "tampo": "Gray, White & Green flame",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "058"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/2004_Dual_Cool_5-Pack_Pink_Deora_II-BBB01.jpg/revision/latest?cb=20081124211049",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/2004_Dual_Cool_5-Pack_Silver_Deora_II-BBB01.jpg/revision/latest?cb=20081124211116"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2006",
-                "Series": "2 Car Launcher",
-                "Color": "Light Purple",
-                "Tampo": "Gray, White & Green flame graphics",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / Medium Green surf boards",
-                "Wheel Type": "PR5",
-                "Toy #": "H6997",
-                "Country": "China",
-                "Notes": "Featured in Hot Wheels: Track Attack",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/Deora_II_-_Power_Launcher.JPG/revision/latest/scale-to-width-down/75?cb=20081009202247"
+                "release_id": "2006-deora-ii-light-purple-h6997",
+                "toy_number": "H6997",
+                "casting_id": "deora-ii",
+                "year": 2006,
+                "series_id": "2",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Purple",
+                    "tampo": "Gray, White & Green flame graphics",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / Medium Green surf boards",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "Metalflake Silver"
+                },
+                "country": "China",
+                "notes": "Featured in Hot Wheels: Track Attack",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/Deora_II_-_Power_Launcher.JPG/revision/latest?cb=20081009202247"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2007",
-                "Series": "Octopark",
-                "Color": "Metalflake Orange",
-                "Tampo": "Red, Green, Black & Yellow tentacle graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Red)",
-                "Interior Color": "Chrome / Light Green surf boards",
-                "Wheel Type": "5SP",
-                "Toy #": "K4320",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/Octopark_Playset_Deora_II_-_5646cf.jpg/revision/latest/scale-to-width-down/75?cb=20090609113413"
+                "release_id": "2007-deora-ii-metalflake-orange-k4320",
+                "toy_number": "K4320",
+                "casting_id": "deora-ii",
+                "year": 2007,
+                "series_id": "octopark",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Orange",
+                    "tampo": "Red, Green, Black & Yellow tentacle graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Red)",
+                    "interior_color": "Chrome / Light Green surf boards",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "Metalflake Silver"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/Octopark_Playset_Deora_II_-_5646cf.jpg/revision/latest?cb=20090609113413"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2007",
-                "Series": "Octopark",
-                "Color": "Metalflake Orange",
-                "Tampo": "Red, Green, Black & Yellow tentacle graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Red)",
-                "Interior Color": "Chrome / Light Green surf boards",
-                "Wheel Type": "10SP",
-                "Toy #": "K4320",
-                "Country": "China",
-                "Notes": "Featured in Hot Wheels: Track Attack",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Deora_II_-_Octopark.JPG/revision/latest/scale-to-width-down/75?cb=20170610234321"
+                "release_id": "2007-deora-ii-metalflake-orange-k4320",
+                "toy_number": "K4320",
+                "casting_id": "deora-ii",
+                "year": 2007,
+                "series_id": "octopark",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Orange",
+                    "tampo": "Red, Green, Black & Yellow tentacle graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Red)",
+                    "interior_color": "Chrome / Light Green surf boards",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "col": "Metalflake Silver"
+                },
+                "country": "China",
+                "notes": "Featured in Hot Wheels: Track Attack",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Deora_II_-_Octopark.JPG/revision/latest?cb=20170610234321"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2008",
-                "Series": "Happy Birthday!",
-                "Color": "Metalflake Silver",
-                "Tampo": "Blue graphics on sides",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Light Blue)",
-                "Interior Color": "Chrome / Medium Blue surf boards",
-                "Wheel Type": "Blue PR5",
-                "Toy #": "N1163",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Deora_II_-_08_Birthday.JPG/revision/latest/scale-to-width-down/75?cb=20090707042554"
+                "release_id": "2008-deora-ii-metalflake-silver-n1163",
+                "toy_number": "N1163",
+                "casting_id": "deora-ii",
+                "year": 2008,
+                "series_id": "happy",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "Blue graphics on sides",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Light Blue)",
+                    "interior_color": "Chrome / Medium Blue surf boards",
+                    "wheel_type": {
+                        "0": "Blue PR5"
+                    },
+                    "col": "Metalflake Silver"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Deora_II_-_08_Birthday.JPG/revision/latest?cb=20090707042554"
+                }
             },
             {
-                "Col. #": "100/190",
-                "Year": "2009",
-                "Series": "HW Designs 4/10",
-                "Color": "Metalflake Blue",
-                "Tampo": "Flames on sides, HW logo on surf boards",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Medium Blue surf boards",
-                "Wheel Type": "OH5",
-                "Toy #": "P2420",
-                "Country": "Malaysia",
-                "Notes": "Also released on Target exclusive snowflake card Featured in Hot Wheels: Track Attack Base code(s): A42, A43",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2009_Deora_II_-_6578df.jpg/revision/latest/scale-to-width-down/75?cb=20081128234252"
+                "release_id": "2009-deora-ii-metalflake-blue-p2420",
+                "toy_number": "P2420",
+                "casting_id": "deora-ii",
+                "year": 2009,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Flames on sides, HW logo on surf boards",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Medium Blue surf boards",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "col": "100/190"
+                },
+                "country": "Malaysia",
+                "notes": "Also released on Target exclusive snowflake card Featured in Hot Wheels: Track Attack Base code(s): A42, A43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2009_Deora_II_-_6578df.jpg/revision/latest?cb=20081128234252"
+                }
             },
             {
-                "Col. #": "100/190",
-                "Year": "2009",
-                "Series": "HW Designs 4/10",
-                "Color": "Metalflake Copper",
-                "Tampo": "Flames on sides, HW logo on surf boards",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome / Dark Gray surf boards",
-                "Wheel Type": "Orange lip OH5",
-                "Toy #": "P2420",
-                "Country": "Malaysia",
-                "Notes": "Featured in Hot Wheels: Track Attack Base code(s): B17.",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/Deora_II_-_09_HW_Designs_Copper.JPG/revision/latest/scale-to-width-down/75?cb=20090513072431"
+                "release_id": "2009-deora-ii-metalflake-copper-p2420",
+                "toy_number": "P2420",
+                "casting_id": "deora-ii",
+                "year": 2009,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake Copper",
+                    "tampo": "Flames on sides, HW logo on surf boards",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome / Dark Gray surf boards",
+                    "wheel_type": {
+                        "0": "Orange lip OH5"
+                    },
+                    "col": "100/190"
+                },
+                "country": "Malaysia",
+                "notes": "Featured in Hot Wheels: Track Attack Base code(s): B17.",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/Deora_II_-_09_HW_Designs_Copper.JPG/revision/latest?cb=20090513072431"
+                }
             },
             {
-                "Col. #": "100/190",
-                "Year": "2009",
-                "Series": "HW Designs 4/10",
-                "Color": "Metalflake Purple",
-                "Tampo": "Flames on sides, HW logo on surf boards",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Orange)",
-                "Interior Color": "Chrome / Orange surf boards",
-                "Wheel Type": "OH5",
-                "Toy #": "P2420",
-                "Country": "Malaysia",
-                "Notes": "Featured in Hot Wheels: Track Attack , Walmart Exclusive Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Deora_II_-_09_HW_Designs_Purple.JPG/revision/latest/scale-to-width-down/75?cb=20090616073501"
+                "release_id": "2009-deora-ii-metalflake-purple-p2420",
+                "toy_number": "P2420",
+                "casting_id": "deora-ii",
+                "year": 2009,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "Flames on sides, HW logo on surf boards",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Orange)",
+                    "interior_color": "Chrome / Orange surf boards",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "col": "100/190"
+                },
+                "country": "Malaysia",
+                "notes": "Featured in Hot Wheels: Track Attack , Walmart Exclusive Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Deora_II_-_09_HW_Designs_Purple.JPG/revision/latest?cb=20090616073501"
+                }
             },
             {
-                "Col. #": "178/240",
-                "Year": "2010",
-                "Series": "Race World - Beach 2/4",
-                "Color": "Pearl Orange",
-                "Tampo": "Orange Pearl \"John's Surf Shop\" graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Light Blue)",
-                "Interior Color": "Chrome / Medium Blue surf boards",
-                "Wheel Type": "OH5 / 176/214 / 2010",
-                "Toy #": "R7607",
-                "Country": "Malaysia",
-                "Notes": "Featured in Hot Wheels: Track Attack Base code(s): B51, C10",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Deora_II_-_10_RW_Beach.JPG/revision/latest/scale-to-width-down/75?cb=20100219064041"
+                "release_id": "2010-deora-ii-pearl-orange-r7607",
+                "toy_number": "R7607",
+                "casting_id": "deora-ii",
+                "year": 2010,
+                "series_id": "race",
+                "series_index": 2,
+                "specs": {
+                    "color": "Pearl Orange",
+                    "tampo": "Orange Pearl \"John's Surf Shop\" graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Light Blue)",
+                    "interior_color": "Chrome / Medium Blue surf boards",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "col": "178/240"
+                },
+                "country": "Malaysia",
+                "notes": "Featured in Hot Wheels: Track Attack Base code(s): B51, C10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Deora_II_-_10_RW_Beach.JPG/revision/latest?cb=20100219064041"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2011",
-                "Series": "Creature Cars 5‑Pack",
-                "Color": "Satin Blue",
-                "Tampo": "'Piranha' & 'Surfari' on surf boards",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Orange)",
-                "Interior Color": "Chrome / Orange surf boards",
-                "Wheel Type": "Orange Y5",
-                "Toy #": "T8631",
-                "Country": "Thailand",
-                "Notes": "1st retool Base code(s): C46, D07, D08, D23",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Deora_II_2011_CC_5_%28800x600%29.jpg/revision/latest/scale-to-width-down/75?cb=20101226051457"
+                "release_id": "2011-deora-ii-satin-blue-t8631",
+                "toy_number": "T8631",
+                "casting_id": "deora-ii",
+                "year": 2011,
+                "series_id": "creature",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Blue",
+                    "tampo": "'Piranha' & 'Surfari' on surf boards",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Orange)",
+                    "interior_color": "Chrome / Orange surf boards",
+                    "wheel_type": {
+                        "0": "Orange Y5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "1st retool Base code(s): C46, D07, D08, D23",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Deora_II_2011_CC_5_%28800x600%29.jpg/revision/latest?cb=20101226051457"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2011",
-                "Series": "Color Shifters: Glow in the Dark",
-                "Color": "Cold: Dark Blue Warm: White",
-                "Tampo": "HW logo on sides",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Orange)",
-                "Interior Color": "Chrome",
-                "Wheel Type": "PR5",
-                "Toy #": "V0577",
-                "Country": "Thailand",
-                "Notes": "Glow in the dark Base code(s): C49",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/2011ColorShiftersGlowInTheDarkDeoraIICold.jpg/revision/latest/scale-to-width-down/75?cb=20110428000939"
+                "release_id": "2011-deora-ii-cold-dark-blue-warm-white-v0577",
+                "toy_number": "V0577",
+                "casting_id": "deora-ii",
+                "year": 2011,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Dark Blue Warm: White",
+                    "tampo": "HW logo on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Orange)",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Glow in the dark Base code(s): C49",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/2011ColorShiftersGlowInTheDarkDeoraIICold.jpg/revision/latest?cb=20110428000939"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2011",
-                "Series": "Color Shifters: Chromatics",
-                "Color": "Cold: Chrome Aqua Warm: Chrome",
-                "Tampo": "Flames & small HW logo on sides",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Orange)",
-                "Interior Color": "Chrome",
-                "Wheel Type": "PR5",
-                "Toy #": "W4108",
-                "Country": "Thailand",
-                "Notes": "Base code(s): E05",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Deora_II_-_HWCS_Chromatics_Warm.JPG/revision/latest/scale-to-width-down/75?cb=20120715211138"
+                "release_id": "2011-deora-ii-cold-chrome-aqua-warm-chrome-w4108",
+                "toy_number": "W4108",
+                "casting_id": "deora-ii",
+                "year": 2011,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Chrome Aqua Warm: Chrome",
+                    "tampo": "Flames & small HW logo on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Orange)",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): E05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Deora_II_-_HWCS_Chromatics_Warm.JPG/revision/latest?cb=20120715211138"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2012",
-                "Series": "Easter Eggsclusives",
-                "Color": "Maroon",
-                "Tampo": "Flames on sides, \"EASTER '12\" with Orange & Yellow",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Yellow)",
-                "Interior Color": "Chrome / Yellow surf boards",
-                "Wheel Type": "PR5",
-                "Toy #": "W4014",
-                "Country": "Thailand",
-                "Notes": "Base code(s): D49",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Deora_II_-_12_Easter_Eggclusives.JPG/revision/latest/scale-to-width-down/75?cb=20120715211542"
+                "release_id": "2012-deora-ii-maroon-w4014",
+                "toy_number": "W4014",
+                "casting_id": "deora-ii",
+                "year": 2012,
+                "series_id": "easter",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "Flames on sides, \"EASTER '12\" with Orange & Yellow",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Yellow)",
+                    "interior_color": "Chrome / Yellow surf boards",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): D49",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Deora_II_-_12_Easter_Eggclusives.JPG/revision/latest?cb=20120715211542"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2014",
-                "Series": "Mystery Models (International) 3/12",
-                "Color": "Black",
-                "Tampo": "Yellow & Orange flame graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Gold",
-                "Wheel Type": "Chrome PR5",
-                "Toy #": "BDP42",
-                "Country": "Thailand",
-                "Notes": "Base code(s): F50",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Deora2-14MM.jpg/revision/latest/scale-to-width-down/75?cb=20151118050845"
+                "release_id": "2014-deora-ii-black-bdp42",
+                "toy_number": "BDP42",
+                "casting_id": "deora-ii",
+                "year": 2014,
+                "series_id": "mystery",
+                "series_index": 3,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Yellow & Orange flame graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Gold",
+                    "wheel_type": {
+                        "0": "Chrome PR5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): F50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Deora2-14MM.jpg/revision/latest?cb=20151118050845"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2015",
-                "Series": "Happy Easter! 5/6",
-                "Color": "Light Purple",
-                "Tampo": "Black, Yellow & Orange stripes, bunny on the side with \"EASTER '15\"",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome / Orange surf boards",
-                "Wheel Type": "Yellow PR5",
-                "Toy #": "CFT97",
-                "Country": "Thailand",
-                "Notes": "Base code(s): G45",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/75/HW-2015_Happy_Easter-05-Deora_II.jpg/revision/latest/scale-to-width-down/75?cb=20150314010053"
+                "release_id": "2015-deora-ii-light-purple-cft97",
+                "toy_number": "CFT97",
+                "casting_id": "deora-ii",
+                "year": 2015,
+                "series_id": "happy",
+                "series_index": 5,
+                "specs": {
+                    "color": "Light Purple",
+                    "tampo": "Black, Yellow & Orange stripes, bunny on the side with \"EASTER '15\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome / Orange surf boards",
+                    "wheel_type": {
+                        "0": "Yellow PR5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): G45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/HW-2015_Happy_Easter-05-Deora_II.jpg/revision/latest?cb=20150314010053"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2015",
-                "Series": "Mystery Models 9/12",
-                "Color": "Satin Lime Green",
-                "Tampo": "Black, Orange & Yellow flame graphics on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "Yellow lip PR5",
-                "Toy #": "Y8127",
-                "Country": "Thailand",
-                "Notes": "Base code(s): H26",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/Deora2MM15.jpg/revision/latest/scale-to-width-down/75?cb=20150327214425"
+                "release_id": "2015-deora-ii-satin-lime-green-y8127",
+                "toy_number": "Y8127",
+                "casting_id": "deora-ii",
+                "year": 2015,
+                "series_id": "mystery",
+                "series_index": 9,
+                "specs": {
+                    "color": "Satin Lime Green",
+                    "tampo": "Black, Orange & Yellow flame graphics on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Yellow lip PR5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): H26",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/Deora2MM15.jpg/revision/latest?cb=20150327214425"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2016",
-                "Series": "Happy Halloween! 3/8",
-                "Color": "Metalflake Green",
-                "Tampo": "\"HALLOWEEN 2016\" on tentacles.",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Green tint",
-                "Interior Color": "Chrome / Black surf boards",
-                "Wheel Type": "Black rim, Clear Green J5",
-                "Toy #": "DJM41",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): J19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/65/Deora-ii-16-halloween-600pxotd.jpg/revision/latest/scale-to-width-down/75?cb=20160831000129"
+                "release_id": "2016-deora-ii-metalflake-green-djm41",
+                "toy_number": "DJM41",
+                "casting_id": "deora-ii",
+                "year": 2016,
+                "series_id": "happy",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "\"HALLOWEEN 2016\" on tentacles.",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Green tint",
+                    "interior_color": "Chrome / Black surf boards",
+                    "wheel_type": {
+                        "0": "Black rim, Clear Green J5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): J19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/Deora-ii-16-halloween-600pxotd.jpg/revision/latest?cb=20160831000129"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2017",
-                "Series": "Racing Circuit 8/10",
-                "Color": "Blue",
-                "Tampo": "HW Race Team graphics, #8",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Light blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "White lip OH5",
-                "Toy #": "DWC59",
-                "Country": "Thailand",
-                "Notes": "Base code(s): K09, K24",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/Deora-ii-17-hw-racing-circuit-600pxotd.png/revision/latest/scale-to-width-down/75?cb=20170613203944"
+                "release_id": "2017-deora-ii-blue-dwc59",
+                "toy_number": "DWC59",
+                "casting_id": "deora-ii",
+                "year": 2017,
+                "series_id": "racing",
+                "series_index": 8,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "HW Race Team graphics, #8",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "White lip OH5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): K09, K24",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/Deora-ii-17-hw-racing-circuit-600pxotd.png/revision/latest?cb=20170613203944"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2017",
-                "Series": "Despicable Me 2/6",
-                "Color": "Light Green",
-                "Tampo": "'Minion Beach' & Blue minion on sides",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Light blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "5SP",
-                "Toy #": "DWF15",
-                "Country": "Thailand",
-                "Notes": "Base code(s): K17, K14",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/31/DWF15_Deora_II_front.jpg/revision/latest/scale-to-width-down/75?cb=20171002165935"
+                "release_id": "2017-deora-ii-light-green-dwf15",
+                "toy_number": "DWF15",
+                "casting_id": "deora-ii",
+                "year": 2017,
+                "series_id": "despicable",
+                "series_index": 2,
+                "specs": {
+                    "color": "Light Green",
+                    "tampo": "'Minion Beach' & Blue minion on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): K17, K14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/DWF15_Deora_II_front.jpg/revision/latest?cb=20171002165935"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2018",
-                "Series": "Star Wars : Classics 7/8",
-                "Color": "Matte Olive Green",
-                "Tampo": "Jabba The Hutt on side",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Yellow tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Orange 5SP",
-                "Toy #": "FKD62",
-                "Country": "Thailand",
-                "Notes": "Base code(s): L02, L07",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Deora-II-Jabba.jpg/revision/latest/scale-to-width-down/75?cb=20190203025510"
+                "release_id": "2018-deora-ii-matte-olive-green-fkd62",
+                "toy_number": "FKD62",
+                "casting_id": "deora-ii",
+                "year": 2018,
+                "series_id": "star",
+                "series_index": 7,
+                "specs": {
+                    "color": "Matte Olive Green",
+                    "tampo": "Jabba The Hutt on side",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Orange 5SP"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): L02, L07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Deora-II-Jabba.jpg/revision/latest?cb=20190203025510"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2019",
-                "Series": "Wave Cravers 5‑Pack",
-                "Color": "Dark Blue",
-                "Tampo": "White stripes & 'Surf Rider' on sides & top, White wave graphics on sides",
-                "base_color": "Dark Gray",
-                "base_type": "Plastic",
-                "Window Color": "Yellow tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Yellow lip PR5",
-                "Toy #": "FYL21",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): M28",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/87/DeoraII-WC-5pk-2019.jpg/revision/latest/scale-to-width-down/75?cb=20191002012443"
+                "release_id": "2019-deora-ii-dark-blue-fyl21",
+                "toy_number": "FYL21",
+                "casting_id": "deora-ii",
+                "year": 2019,
+                "series_id": "wave",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "White stripes & 'Surf Rider' on sides & top, White wave graphics on sides",
+                    "base_color": "Dark Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Yellow lip PR5"
+                    },
+                    "col": "176/214"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): M28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/DeoraII-WC-5pk-2019.jpg/revision/latest?cb=20191002012443"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2020",
-                "Series": "2020 Legends Tour Trophy Car",
-                "Color": "Spectraflame Light Blue",
-                "Tampo": "\"HW Legends Tour\" on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Yellow tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Redline RR5SP",
-                "Toy #": "N/A",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/73/2020_Deroa_2_trophy.jpg/revision/latest/scale-to-width-down/75?cb=20230919013707"
+                "release_id": "2020-deora-ii-spectraflame-light-blue-na",
+                "toy_number": "N/A",
+                "casting_id": "deora-ii",
+                "year": 2020,
+                "series_id": "2020",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Blue",
+                    "tampo": "\"HW Legends Tour\" on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Redline RR5SP"
+                    },
+                    "col": "176/214"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/2020_Deroa_2_trophy.jpg/revision/latest?cb=20230919013707"
+                }
             },
             {
-                "Col. #": "144/250",
-                "Year": "2021",
-                "Series": "HW Dream Garage 5/5",
-                "Color": "Metalflake Blue",
-                "Tampo": "Light Blue HW Logo, Circle flame logo on side, HW logos on surf boards",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "PR5",
-                "Toy #": "GTC97",
-                "Country": "Malaysia",
-                "Notes": "2nd retool Treasure Hunt Base code(s): N49, N51, N52, P01",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/2021_HW_Dream_Garage_-_05.05_-_Deora_II_02_Editada.jpg/revision/latest/scale-to-width-down/75?cb=20210322000200"
+                "release_id": "2021-deora-ii-metalflake-blue-gtc97",
+                "toy_number": "GTC97",
+                "casting_id": "deora-ii",
+                "year": 2021,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Light Blue HW Logo, Circle flame logo on side, HW logos on surf boards",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "144/250"
+                },
+                "country": "Malaysia",
+                "notes": "2nd retool Treasure Hunt Base code(s): N49, N51, N52, P01",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/2021_HW_Dream_Garage_-_05.05_-_Deora_II_02_Editada.jpg/revision/latest?cb=20210322000200"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2022",
-                "Series": "HW Legends 5‑Pack",
-                "Color": "Metalflake Blue",
-                "Tampo": "Light Blue HW logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Light blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "10SP",
-                "Toy #": "HFV82",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): P44, R03",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/HWLegends5DeoraII.jpg/revision/latest/scale-to-width-down/75?cb=20220319045614"
+                "release_id": "2022-deora-ii-metalflake-blue-hfv82",
+                "toy_number": "HFV82",
+                "casting_id": "deora-ii",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Light Blue HW logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "col": "144/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): P44, R03",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/HWLegends5DeoraII.jpg/revision/latest?cb=20220319045614"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2022",
-                "Series": "Hot Wheels Legends Tour Themed Multipack",
-                "Color": "Black",
-                "Tampo": "Yellow & Orange flame graphics",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Gold",
-                "Wheel Type": "Gold Chrome PR5",
-                "Toy #": "HDH52",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2022-deora-ii-black-hdh52",
+                "toy_number": "HDH52",
+                "casting_id": "deora-ii",
+                "year": 2022,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Yellow & Orange flame graphics",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Gold",
+                    "wheel_type": {
+                        "0": "Gold Chrome PR5"
+                    },
+                    "col": "144/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2022",
-                "Series": "Color Shifters",
-                "Color": "Cold: Chrome Aqua Warm: Chrome",
-                "Tampo": "Flames & small HW logo on sides",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Orange tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "PR5",
-                "Toy #": "GBF58",
-                "Country": "Thailand",
-                "Notes": "Identical to W4108 Base code(s): R16, R31",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/45/Color_Shifters_Deora_II_Thailand_2022_GBF28.jpg/revision/latest/scale-to-width-down/75?cb=20220921231229"
+                "release_id": "2022-deora-ii-cold-chrome-aqua-warm-chrome-gbf58",
+                "toy_number": "GBF58",
+                "casting_id": "deora-ii",
+                "year": 2022,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Chrome Aqua Warm: Chrome",
+                    "tampo": "Flames & small HW logo on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Orange tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "144/250"
+                },
+                "country": "Thailand",
+                "notes": "Identical to W4108 Base code(s): R16, R31",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/45/Color_Shifters_Deora_II_Thailand_2022_GBF28.jpg/revision/latest?cb=20220921231229"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2022",
-                "Series": "Sean Wotherspoon",
-                "Color": "Blue (Cold) / White (Warm)",
-                "Tampo": "Various Pink, Blue, Tan & White logos, Circle flame logo",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Tan tire, Blue Chrome DD8",
-                "Toy #": "HJV83",
-                "Country": "Thailand",
-                "Notes": "Base code(s): R16, R17",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/34/2022-HJV83_Sean_Wotherspoon_Deora_II_open-4.jpg/revision/latest/scale-to-width-down/75?cb=20240313090155"
+                "release_id": "2022-deora-ii-blue-cold-white-warm-hjv83",
+                "toy_number": "HJV83",
+                "casting_id": "deora-ii",
+                "year": 2022,
+                "series_id": "sean",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue (Cold) / White (Warm)",
+                    "tampo": "Various Pink, Blue, Tan & White logos, Circle flame logo",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Tan tire, Blue Chrome DD8"
+                    },
+                    "col": "144/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): R16, R17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/2022-HJV83_Sean_Wotherspoon_Deora_II_open-4.jpg/revision/latest?cb=20240313090155"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2023",
-                "Series": "Color Reveal",
-                "Color": "Mint Green (Warm) / Purple (Cold)",
-                "Tampo": "Mint Green tear design with Purple edges, HW Logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Green tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Green lip PR5",
-                "Toy #": "HNB29",
-                "Country": "Thailand",
-                "Notes": "Coated in blue paint Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/2023_Deora_II_Color_Reveal_%28Warm%29.jpg/revision/latest/scale-to-width-down/75?cb=20230907003357"
+                "release_id": "2023-deora-ii-mint-green-warm-purple-cold-hnb29",
+                "toy_number": "HNB29",
+                "casting_id": "deora-ii",
+                "year": 2023,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Mint Green (Warm) / Purple (Cold)",
+                    "tampo": "Mint Green tear design with Purple edges, HW Logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Green tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Green lip PR5"
+                    },
+                    "col": "144/250"
+                },
+                "country": "Thailand",
+                "notes": "Coated in blue paint Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/2023_Deora_II_Color_Reveal_%28Warm%29.jpg/revision/latest?cb=20230907003357"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2023",
-                "Series": "NFT Garage: AcceleRacers #01",
-                "Color": "Spectraflame White/Blue",
-                "Tampo": "Orange, Blue, and Black stripes, \"テク\", “TEKU”, “ TWU ”, “ CLONE ”, “ JT ”, \" WASCO ”, detailed head lights and taillights",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Light blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "RR5SPM",
-                "Toy #": "HVX88",
-                "Country": "Malaysia",
-                "Notes": "2,500 produced Base code(s): S40",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/63/DeoraIINFTGarageLoose.jpeg/revision/latest/scale-to-width-down/75?cb=20240329055139"
+                "release_id": "2023-deora-ii-spectraflame-whiteblue-hvx88",
+                "toy_number": "HVX88",
+                "casting_id": "deora-ii",
+                "year": 2023,
+                "series_id": "nft",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame White/Blue",
+                    "tampo": "Orange, Blue, and Black stripes, \"テク\", “TEKU”, “ TWU ”, “ CLONE ”, “ JT ”, \" WASCO ”, detailed head lights and taillights",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "col": "144/250"
+                },
+                "country": "Malaysia",
+                "notes": "2,500 produced Base code(s): S40",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/DeoraIINFTGarageLoose.jpeg/revision/latest?cb=20240329055139"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2024",
-                "Series": "Color Reveal",
-                "Color": "Silver / Dark Green",
-                "Tampo": "Dark Gray and Silver flames",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Light blue tint",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "HXC41",
-                "Country": "Thailand",
-                "Notes": "Coated in orange paint Base code(s) : T02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/DeoraII2024ColorRevealSilver.jpeg/revision/latest/scale-to-width-down/75?cb=20241221035253"
+                "release_id": "2024-deora-ii-silver-dark-green-hxc41",
+                "toy_number": "HXC41",
+                "casting_id": "deora-ii",
+                "year": 2024,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver / Dark Green",
+                    "tampo": "Dark Gray and Silver flames",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "144/250"
+                },
+                "country": "Thailand",
+                "notes": "Coated in orange paint Base code(s) : T02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/DeoraII2024ColorRevealSilver.jpeg/revision/latest?cb=20241221035253"
+                }
             },
             {
-                "Col. #": "208/250",
-                "Year": "2024",
-                "Series": "Then and Now 4/10",
-                "Color": "Metalflake White",
-                "Tampo": "\"テク\", “TEKU”, & Hot Wheels logo on sides, Dark Blue & Orange stripes on sides & front, Silver headlights",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Light blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "OH5",
-                "Toy #": "HTC68",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race Base code(s): T08. T16, T17, T18, T19, T20, T34",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/00/TekuDeoraII.jpeg/revision/latest/scale-to-width-down/75?cb=20240613151157"
+                "release_id": "2024-deora-ii-metalflake-white-htc68",
+                "toy_number": "HTC68",
+                "casting_id": "deora-ii",
+                "year": 2024,
+                "series_id": "then",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake White",
+                    "tampo": "\"テク\", “TEKU”, & Hot Wheels logo on sides, Dark Blue & Orange stripes on sides & front, Silver headlights",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "col": "208/250"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race Base code(s): T08. T16, T17, T18, T19, T20, T34",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/TekuDeoraII.jpeg/revision/latest?cb=20240613151157"
+                }
             },
             {
-                "Col. #": "",
-                "Year": "2025",
-                "Series": "Hot Wheels Legends Tour Themed Multipack",
-                "Color": "Red",
-                "Tampo": "Black, White, Orange lines & white hw logo on sides, Chrome rear motor, Write hot wheels on tray.",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome",
-                "Wheel Type": "MM5",
-                "Toy #": "JBY78",
-                "Country": "Thailand",
-                "Notes": "Base code(s): T42, U03A",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/JBY78-deora.jpg/revision/latest/scale-to-width-down/75?cb=20250621123114"
+                "release_id": "2025-deora-ii-red-jby78",
+                "toy_number": "JBY78",
+                "casting_id": "deora-ii",
+                "year": 2025,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Black, White, Orange lines & white hw logo on sides, Chrome rear motor, Write hot wheels on tray.",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "MM5"
+                    },
+                    "col": "208/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): T42, U03A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/JBY78-deora.jpg/revision/latest?cb=20250621123114"
+                }
             },
             {
-                "Col. #": "018/250",
-                "Year": "2026",
-                "Series": "HW Fan Driven 1/5",
-                "Color": "Blue Turquoise",
-                "Tampo": "Gold, black, white, and gray accents, \"deora II\" on sides",
-                "base_color": "White",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome",
-                "Wheel Type": "White wall, white lip, black 5SP",
-                "Toy #": "JJH93",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U34N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Surfin%27Deora.jpg/revision/latest/scale-to-width-down/75?cb=20251018122510"
+                "release_id": "2026-deora-ii-blue-turquoise-jjh93",
+                "toy_number": "JJH93",
+                "casting_id": "deora-ii",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Blue Turquoise",
+                    "tampo": "Gold, black, white, and gray accents, \"deora II\" on sides",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "White wall, white lip, black 5SP"
+                    },
+                    "col": "018/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U34N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Surfin%27Deora.jpg/revision/latest?cb=20251018122510"
+                }
             },
             {
-                "Col. #": "018/250",
-                "Year": "2026",
-                "Series": "HW Fan Driven 1/5",
-                "Color": "Metalflake Pink",
-                "Tampo": "Dark pink, black, white, and gray accents, \"deora II\" on sides",
-                "base_color": "White",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Chrome",
-                "Wheel Type": "White wall, white lip, black 5SP",
-                "Toy #": "JJK70",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/PinkDeora.jpg/revision/latest/scale-to-width-down/75?cb=20260121131408"
+                "release_id": "2026-deora-ii-metalflake-pink-jjk70",
+                "toy_number": "JJK70",
+                "casting_id": "deora-ii",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Pink",
+                    "tampo": "Dark pink, black, white, and gray accents, \"deora II\" on sides",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "White wall, white lip, black 5SP"
+                    },
+                    "col": "018/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/PinkDeora.jpg/revision/latest?cb=20260121131408"
+                }
             }
         ]
     }

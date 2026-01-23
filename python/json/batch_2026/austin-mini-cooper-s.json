@@ -1,31 +1,39 @@
 [
     {
-        "metadata": {
-            "name": "Austin Mini Cooper S",
-            "Debut series": "Then and Now",
-            "image": "AustinMini.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest/scale-to-width-down/268?cb=20251213090022"
-        },
+        "casting_id": "austin-mini-cooper-s",
+        "name": "Austin Mini Cooper S",
         "description": {
             "en-us": "Austin Mini Cooper S Debut series Then and Now Produced 2026 – Present Designer Fraser Campbell Number JJH39",
             "pt-br": ""
         },
+        "designer": "Fraser Campbell",
+        "debut_year": 2026,
+        "manufacturer": "Austin",
         "releases": [
             {
-                "Col #": "071/250",
-                "Year": "2026",
-                "Series": "Then and Now 1/10",
-                "Color": "Seafoam green",
-                "Tampo": "Stripes on hood, triangles and white dot on sides, Hot Wheels and Goodyear logos on rear fender",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "AeroDisc",
-                "Toy #": "JJH39",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U40N, U42N, U43N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest/scale-to-width-down/75?cb=20251213090022"
+                "release_id": "2026-austin-mini-cooper-s-seafoam-green-jjh39",
+                "toy_number": "JJH39",
+                "casting_id": "austin-mini-cooper-s",
+                "year": 2026,
+                "series_id": "then",
+                "series_index": 1,
+                "specs": {
+                    "color": "Seafoam green",
+                    "tampo": "Stripes on hood, triangles and white dot on sides, Hot Wheels and Goodyear logos on rear fender",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "col": "071/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U40N, U42N, U43N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/AustinMini.jpg/revision/latest?cb=20251213090022"
+                }
             }
         ]
     }

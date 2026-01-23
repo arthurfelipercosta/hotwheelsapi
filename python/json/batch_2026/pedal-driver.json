@@ -1,207 +1,326 @@
 [
     {
-        "metadata": {
-            "name": "Pedal Driver",
-            "Debut series": "HW City: Surf Patrol",
-            "image": "Pedal Driver-2015 074.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Pedal_Driver-2015_074.jpg/revision/latest/scale-to-width-down/268?cb=20141230125447"
-        },
+        "casting_id": "pedal-driver",
+        "name": "Pedal Driver",
         "description": {
             "en-us": "Pedal Driver Debut series HW City: Surf Patrol Produced 2015 - Present Designer Ryu Asada Number CFG87",
             "pt-br": ""
         },
+        "designer": "Ryu Asada",
+        "debut_year": 2015,
+        "manufacturer": "Pedal",
         "releases": [
             {
-                "Col #": "074/250",
-                "Year": "2015",
-                "Series": "HW City: Surf Patrol",
-                "Color": "Red",
-                "Tampo": "White, Yellow & Dark Yellow flames on sides, HW logo on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Black",
-                "Interior Color": "Grey",
-                "Wheel Type": "SK5SP & 5SP",
-                "Toy #": "CFG87",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): G37, G40, G41, G42",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Pedal_Driver_2015_Red_-1.jpg/revision/latest/scale-to-width-down/75?cb=20250211085448"
+                "release_id": "2015-pedal-driver-red-cfg87",
+                "toy_number": "CFG87",
+                "casting_id": "pedal-driver",
+                "year": 2015,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Yellow & Dark Yellow flames on sides, HW logo on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "SK5SP & 5SP"
+                    },
+                    "col": "074/250",
+                    "steering_wheel_color": "Black"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): G37, G40, G41, G42",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Pedal_Driver_2015_Red_-1.jpg/revision/latest?cb=20250211085448"
+                }
             },
             {
-                "Col #": "074/250",
-                "Year": "2015",
-                "Series": "HW City: Surf Patrol",
-                "Color": "Aqua",
-                "Tampo": "Red & Yellow flames on sides, HW logo on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Black",
-                "Interior Color": "Grey",
-                "Wheel Type": "SK5SP & 5SP",
-                "Toy #": "CFJ66",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): H19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/59/IMG_20151122_165200.jpg/revision/latest/scale-to-width-down/75?cb=20151122230015"
+                "release_id": "2015-pedal-driver-aqua-cfj66",
+                "toy_number": "CFJ66",
+                "casting_id": "pedal-driver",
+                "year": 2015,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Aqua",
+                    "tampo": "Red & Yellow flames on sides, HW logo on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "SK5SP & 5SP"
+                    },
+                    "col": "074/250",
+                    "steering_wheel_color": "Black"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): H19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/IMG_20151122_165200.jpg/revision/latest?cb=20151122230015"
+                }
             },
             {
-                "Col #": "067/250",
-                "Year": "2016",
-                "Series": "HW Ride-Ons 2/5",
-                "Color": "Orange",
-                "Tampo": "White & Silver flames on sides, HW logo on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Black",
-                "Interior Color": "Grey",
-                "Wheel Type": "SK5SP & 5SP",
-                "Toy #": "DHP92",
-                "Country": "Malaysia",
-                "Notes": "Original tooling Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HW_Pedal-Driver_Orange_DSCF7375.jpg/revision/latest/scale-to-width-down/75?cb=20160102001856"
+                "release_id": "2016-pedal-driver-orange-dhp92",
+                "toy_number": "DHP92",
+                "casting_id": "pedal-driver",
+                "year": 2016,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "White & Silver flames on sides, HW logo on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "SK5SP & 5SP"
+                    },
+                    "col": "067/250",
+                    "steering_wheel_color": "Black"
+                },
+                "country": "Malaysia",
+                "notes": "Original tooling Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HW_Pedal-Driver_Orange_DSCF7375.jpg/revision/latest?cb=20160102001856"
+                }
             },
             {
-                "Col #": "067/250",
-                "Year": "2016",
-                "Series": "HW Ride-Ons 2/5",
-                "Color": "Black",
-                "Tampo": "Mint green on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Orange",
-                "Interior Color": "Grey",
-                "Wheel Type": "SK5SP & 5SP",
-                "Toy #": "DHW73",
-                "Country": "Malaysia",
-                "Notes": "Updated tooling Base code(s): H42, J26",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/PedalDriverDHW73Loose.jpg/revision/latest/scale-to-width-down/75?cb=20170222023118"
+                "release_id": "2016-pedal-driver-black-dhw73",
+                "toy_number": "DHW73",
+                "casting_id": "pedal-driver",
+                "year": 2016,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Mint green on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "SK5SP & 5SP"
+                    },
+                    "col": "067/250",
+                    "steering_wheel_color": "Orange"
+                },
+                "country": "Malaysia",
+                "notes": "Updated tooling Base code(s): H42, J26",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/PedalDriverDHW73Loose.jpg/revision/latest?cb=20170222023118"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2017",
-                "Series": "HW Ride-Ons 5/5",
-                "Color": "Blue",
-                "Tampo": "Yellow, Red & Grey stripes on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Red",
-                "Interior Color": "Grey",
-                "Wheel Type": "SK5SP & 5SP",
-                "Toy #": "DVD09",
-                "Country": "Malaysia",
-                "Notes": "Treasure Hunt Base code(s): K07",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/DVD09.jpg/revision/latest/scale-to-width-down/75?cb=20170807215003"
+                "release_id": "2017-pedal-driver-blue-dvd09",
+                "toy_number": "DVD09",
+                "casting_id": "pedal-driver",
+                "year": 2017,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Yellow, Red & Grey stripes on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "SK5SP & 5SP"
+                    },
+                    "col": "067/250",
+                    "steering_wheel_color": "Red"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base code(s): K07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/DVD09.jpg/revision/latest?cb=20170807215003"
+                }
             },
             {
-                "Col #": "301/365",
-                "Year": "2017",
-                "Series": "HW Ride-Ons 5/5",
-                "Color": "Lime Green",
-                "Tampo": "White, Yellow & Black stripe son sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Black",
-                "Interior Color": "Yellow",
-                "Wheel Type": "SK5SP & 5SP",
-                "Toy #": "DVC28",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): K19, K20, K23, K24",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/668C680B-9BC2-4F7A-8002-FAEE9445802D.jpeg/revision/latest/scale-to-width-down/75?cb=20180910155946"
+                "release_id": "2017-pedal-driver-lime-green-dvc28",
+                "toy_number": "DVC28",
+                "casting_id": "pedal-driver",
+                "year": 2017,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Lime Green",
+                    "tampo": "White, Yellow & Black stripe son sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "SK5SP & 5SP"
+                    },
+                    "col": "301/365",
+                    "steering_wheel_color": "Black"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): K19, K20, K23, K24",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/668C680B-9BC2-4F7A-8002-FAEE9445802D.jpeg/revision/latest?cb=20180910155946"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2018 2021 2022 2023",
-                "Series": "Super Rigs",
-                "Color": "Gloss Blue",
-                "Tampo": "Red & yellow swirls, multicolor stars",
-                "base_color": "Yellow",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Red",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Red & Yellow SK5SP & 5SP",
-                "Toy #": "FKW89",
-                "Country": "Thailand",
-                "Notes": "Packaged with Car-Nival Steamer Base code(s): L28, L48",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Pedal_Driver.jpg/revision/latest/scale-to-width-down/75?cb=20180920053925"
+                "release_id": "2017-pedal-driver-gloss-blue-fkw89",
+                "toy_number": "FKW89",
+                "casting_id": "pedal-driver",
+                "year": 2017,
+                "series_id": "super",
+                "series_index": null,
+                "specs": {
+                    "color": "Gloss Blue",
+                    "tampo": "Red & yellow swirls, multicolor stars",
+                    "base_color": "Yellow",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Red & Yellow SK5SP & 5SP"
+                    },
+                    "col": "301/365",
+                    "steering_wheel_color": "Red"
+                },
+                "country": "Thailand",
+                "notes": "Packaged with Car-Nival Steamer Base code(s): L28, L48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Pedal_Driver.jpg/revision/latest?cb=20180920053925"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2018 2020 2025",
-                "Series": "Super Rigs",
-                "Color": "Metalflake Purple",
-                "Tampo": "Green and white stripe on sides with HW logo below",
-                "base_color": "Fuchsia",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Lime Green",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Green & Chrome Purple SK5SP & 5SP",
-                "Toy #": "FKW90 JCM50",
-                "Country": "Thailand",
-                "Notes": "Came with Car-Nival Steamer Base code(s): L36, M08, N06, N12",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/C1469D7E-20C9-4977-B6B3-3C2BA8604078.jpeg/revision/latest/scale-to-width-down/75?cb=20200919002344"
+                "release_id": "2017-pedal-driver-metalflake-purple-fkw90-jcm50",
+                "toy_number": "FKW90 JCM50",
+                "casting_id": "pedal-driver",
+                "year": 2017,
+                "series_id": "super",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "Green and white stripe on sides with HW logo below",
+                    "base_color": "Fuchsia",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Green & Chrome Purple SK5SP & 5SP"
+                    },
+                    "col": "301/365",
+                    "steering_wheel_color": "Lime Green"
+                },
+                "country": "Thailand",
+                "notes": "Came with Car-Nival Steamer Base code(s): L36, M08, N06, N12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/C1469D7E-20C9-4977-B6B3-3C2BA8604078.jpeg/revision/latest?cb=20200919002344"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2018",
-                "Series": "Holiday Hot Rods 5/6",
-                "Color": "Metalflake Dark Blue",
-                "Tampo": "White, Orange & Gold Stripes",
-                "base_color": "White",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Red",
-                "Interior Color": "Golden Rod",
-                "Wheel Type": "Red / White PR5",
-                "Toy #": "FKV12",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): L27, L30",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/PEDAL_DRIVER_FKV12.jpg/revision/latest/scale-to-width-down/75?cb=20181227162737"
+                "release_id": "2018-pedal-driver-metalflake-dark-blue-fkv12",
+                "toy_number": "FKV12",
+                "casting_id": "pedal-driver",
+                "year": 2018,
+                "series_id": "holiday",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "White, Orange & Gold Stripes",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Golden Rod",
+                    "wheel_type": {
+                        "0": "Red / White PR5"
+                    },
+                    "col": "301/365",
+                    "steering_wheel_color": "Red"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): L27, L30",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/PEDAL_DRIVER_FKV12.jpg/revision/latest?cb=20181227162737"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2020",
-                "Series": "HW Fun Park 5-Pack",
-                "Color": "Yellow",
-                "Tampo": "Blue, Black & Red stripes, 'Pedal Driver' & '5' on sides",
-                "base_color": "Red",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "Blue",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome Blue 5SP",
-                "Toy #": "GHP49",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): M32, M33",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/Pedal_Driver_2020_Yellow.jpg/revision/latest/scale-to-width-down/75?cb=20250211085540"
+                "release_id": "2020-pedal-driver-yellow-ghp49",
+                "toy_number": "GHP49",
+                "casting_id": "pedal-driver",
+                "year": 2020,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Blue, Black & Red stripes, 'Pedal Driver' & '5' on sides",
+                    "base_color": "Red",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome Blue 5SP"
+                    },
+                    "col": "301/365",
+                    "steering_wheel_color": "Blue"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): M32, M33",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/Pedal_Driver_2020_Yellow.jpg/revision/latest?cb=20250211085540"
+                }
             },
             {
-                "Col #": "095/250",
-                "Year": "2025",
-                "Series": "HW Ride-Ons 4/5",
-                "Color": "Red",
-                "Tampo": "Gray stripe, white highlights, flame graphics, black accent with textured decal (stripes and Treasure Hunt flame logo), Hot Wheels logo on sides; Treasure Hunt flame logo in headlights",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Steering Wheel Color": "White",
-                "Interior Color": "Chrome",
-                "Wheel Type": "RA6",
-                "Toy #": "JBC23",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race Treasure Hunt Base code(s): T43, T44",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/86/TreasurePedal.jpg/revision/latest/scale-to-width-down/75?cb=20250113141530"
+                "release_id": "2025-pedal-driver-red-jbc23",
+                "toy_number": "JBC23",
+                "casting_id": "pedal-driver",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Gray stripe, white highlights, flame graphics, black accent with textured decal (stripes and Treasure Hunt flame logo), Hot Wheels logo on sides; Treasure Hunt flame logo in headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "RA6"
+                    },
+                    "col": "095/250",
+                    "steering_wheel_color": "White"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race Treasure Hunt Base code(s): T43, T44",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/TreasurePedal.jpg/revision/latest?cb=20250113141530"
+                }
             },
             {
-                "Col #": "118/250",
-                "Year": "2026",
-                "Series": "Rod Squad 2/10",
-                "Color": "Silver",
-                "Tampo": "",
-                "base_color": "",
-                "base_type": "",
-                "Steering Wheel Color": "",
-                "Interior Color": "",
-                "Wheel Type": "",
-                "Toy #": "JJJ76",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/26/PedalDriver.jpg/revision/latest/scale-to-width-down/75?cb=20260103100531"
+                "release_id": "2026-pedal-driver-silver-jjj76",
+                "toy_number": "JJJ76",
+                "casting_id": "pedal-driver",
+                "year": 2026,
+                "series_id": "rod",
+                "series_index": 2,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "col": "118/250",
+                    "steering_wheel_color": "White"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/PedalDriver.jpg/revision/latest?cb=20260103100531"
+                }
             }
         ]
     }

@@ -1,143 +1,214 @@
 [
     {
-        "metadata": {
-            "name": "Ford Mustang Mach-E 1400",
-            "Debut series": "HW Green Speed",
-            "image": "Mach-E1400.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Mach-E1400.jpg/revision/latest/scale-to-width-down/268?cb=20211117081457"
-        },
+        "casting_id": "ford-mustang-mach-e-1400",
+        "name": "Ford Mustang Mach-E 1400",
         "description": {
             "en-us": "Ford Mustang Mach-E 1400 Debut series HW Green Speed Produced 2022 – Present Designer Ryu Asada Number HCT06",
             "pt-br": ""
         },
+        "designer": "Ryu Asada",
+        "debut_year": 2022,
+        "manufacturer": "Ford",
         "releases": [
             {
-                "Col #": "073/250",
-                "Year": "2022",
-                "Series": "HW Green Speed 1/5",
-                "Color": "White",
-                "Tampo": "\"FORD PERFORMANCE\" on sides, Red and Gray accents, Black roof, RTR on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black Y5",
-                "Toy #": "HCT06",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): P41, P42, P43, P44, P45, P46",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Mach-E1400.jpg/revision/latest/scale-to-width-down/75?cb=20211117081457"
+                "release_id": "2022-ford-mustang-mach-e-1400-white-hct06",
+                "toy_number": "HCT06",
+                "casting_id": "ford-mustang-mach-e-1400",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "White",
+                    "tampo": "\"FORD PERFORMANCE\" on sides, Red and Gray accents, Black roof, RTR on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black Y5"
+                    },
+                    "col": "073/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): P41, P42, P43, P44, P45, P46",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Mach-E1400.jpg/revision/latest?cb=20211117081457"
+                }
             },
             {
-                "Col #": "073/250",
-                "Year": "2022",
-                "Series": "HW Green Speed 1/5",
-                "Color": "Red",
-                "Tampo": "\"FORD PERFORMANCE\" on sides, Red and Gray accents, Black roof, RTR on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black Y5",
-                "Toy #": "HCX38",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): R07, R12",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/89/HCX38-01.JPG/revision/latest/scale-to-width-down/75?cb=20220607000610"
+                "release_id": "2022-ford-mustang-mach-e-1400-red-hcx38",
+                "toy_number": "HCX38",
+                "casting_id": "ford-mustang-mach-e-1400",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "\"FORD PERFORMANCE\" on sides, Red and Gray accents, Black roof, RTR on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black Y5"
+                    },
+                    "col": "073/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): R07, R12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/HCX38-01.JPG/revision/latest?cb=20220607000610"
+                }
             },
             {
-                "Col #": "073/250",
-                "Year": "2022",
-                "Series": "HW Green Speed 1/5",
-                "Color": "ZAMAC",
-                "Tampo": "\"FORD PERFORMANCE\" on sides, Red and Gray accents, Black roof, RTR on sides, \"ZAMAC - 10 YRS\" logo on rear fenders",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Red tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black Y5",
-                "Toy #": "HCY30",
-                "Country": "Malaysia",
-                "Notes": "New Model Walmart Exclusive Base code(s): R10",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/FORD_MUSTANG_MACH-E_1400_HCY30.jpg/revision/latest/scale-to-width-down/75?cb=20221006194942"
+                "release_id": "2022-ford-mustang-mach-e-1400-zamac-hcy30",
+                "toy_number": "HCY30",
+                "casting_id": "ford-mustang-mach-e-1400",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "\"FORD PERFORMANCE\" on sides, Red and Gray accents, Black roof, RTR on sides, \"ZAMAC - 10 YRS\" logo on rear fenders",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Red tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black Y5"
+                    },
+                    "col": "073/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Walmart Exclusive Base code(s): R10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/FORD_MUSTANG_MACH-E_1400_HCY30.jpg/revision/latest?cb=20221006194942"
+                }
             },
             {
-                "Col #": "081/250",
-                "Year": "2023",
-                "Series": "HW Drag Strip 2/10",
-                "Color": "Dark Blue",
-                "Tampo": "Light Blue and Silver stripes on hood, roof, and sides, \"FORD PERFORMANCE\" on hood and sides, \"RTR\" and Hot Wheels logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black Y5",
-                "Toy #": "HKH29",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R47, R48",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HKH29.jpg/revision/latest/scale-to-width-down/75?cb=20221128044446"
+                "release_id": "2023-ford-mustang-mach-e-1400-dark-blue-hkh29",
+                "toy_number": "HKH29",
+                "casting_id": "ford-mustang-mach-e-1400",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "Light Blue and Silver stripes on hood, roof, and sides, \"FORD PERFORMANCE\" on hood and sides, \"RTR\" and Hot Wheels logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black Y5"
+                    },
+                    "col": "081/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R47, R48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HKH29.jpg/revision/latest?cb=20221128044446"
+                }
             },
             {
-                "Col #": "081/250",
-                "Year": "2023",
-                "Series": "HW Drag Strip 2/10",
-                "Color": "Blue",
-                "Tampo": "Light Blue and Silver stripes on hood, roof, and sides, \"FORD PERFORMANCE\" on hood and sides, \"RTR\" and Hot Wheels logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Dark Gray Y5",
-                "Toy #": "HKK02",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S13, S14, S17",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/HKK02-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230729083351"
+                "release_id": "2023-ford-mustang-mach-e-1400-blue-hkk02",
+                "toy_number": "HKK02",
+                "casting_id": "ford-mustang-mach-e-1400",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Light Blue and Silver stripes on hood, roof, and sides, \"FORD PERFORMANCE\" on hood and sides, \"RTR\" and Hot Wheels logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Dark Gray Y5"
+                    },
+                    "col": "081/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S13, S14, S17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/HKK02-LOOSE.jpg/revision/latest?cb=20230729083351"
+                }
             },
             {
-                "Col #": "129/250",
-                "Year": "2024",
-                "Series": "HW Green Speed 10/10",
-                "Color": "Metalflake Blue",
-                "Tampo": "Light blue pattern composed of many triangles on hood; \"FORD PERFORMANCE\" on top; \"Ford\" on hood and sides; Light blue and gold circuit board style deco, \"RTR\" and Hot Wheels logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "BPR5 & CLGPR5",
-                "Toy #": "HTF20",
-                "Country": "Malaysia",
-                "Notes": "Treasure Hunt Base code(s): S50, S51, T01",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/82/2024_Ford_Mustang_Mach-E_1400.jpg/revision/latest/scale-to-width-down/75?cb=20250128164901"
+                "release_id": "2024-ford-mustang-mach-e-1400-metalflake-blue-htf20",
+                "toy_number": "HTF20",
+                "casting_id": "ford-mustang-mach-e-1400",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 10,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Light blue pattern composed of many triangles on hood; \"FORD PERFORMANCE\" on top; \"Ford\" on hood and sides; Light blue and gold circuit board style deco, \"RTR\" and Hot Wheels logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BPR5 & CLGPR5"
+                    },
+                    "col": "129/250"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base code(s): S50, S51, T01",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/2024_Ford_Mustang_Mach-E_1400.jpg/revision/latest?cb=20250128164901"
+                }
             },
             {
-                "Col #": "008/250",
-                "Year": "2026",
-                "Series": "HW EV 2/10",
-                "Color": "Metalflake Dark Blue",
-                "Tampo": "Red, white and turquoise GTR livery",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Dark Gray E10SP",
-                "Toy #": "JJH86",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U34N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/32/MustangMach-E1400.jpg/revision/latest/scale-to-width-down/75?cb=20251015121504"
+                "release_id": "2026-ford-mustang-mach-e-1400-metalflake-dark-blue-jjh86",
+                "toy_number": "JJH86",
+                "casting_id": "ford-mustang-mach-e-1400",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "Red, white and turquoise GTR livery",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Dark Gray E10SP"
+                    },
+                    "col": "008/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U34N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/MustangMach-E1400.jpg/revision/latest?cb=20251015121504"
+                }
             },
             {
-                "Col #": "008/250",
-                "Year": "2026",
-                "Series": "Red Edition 1/12",
-                "Color": "Red",
-                "Tampo": "White, gray and black GTR livery, white \"RED\" on doors",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Dark Gray E10SP",
-                "Toy #": "JJM61",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-ford-mustang-mach-e-1400-red-jjm61",
+                "toy_number": "JJM61",
+                "casting_id": "ford-mustang-mach-e-1400",
+                "year": 2026,
+                "series_id": "red",
+                "series_index": 1,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, gray and black GTR livery, white \"RED\" on doors",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Dark Gray E10SP"
+                    },
+                    "col": "008/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

@@ -1,31 +1,40 @@
 [
     {
-        "metadata": {
-            "name": "Tooned Purple Passion",
-            "Debut series": "Unknown",
-            "image": "Image Not Available.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
-        },
+        "casting_id": "tooned-purple-passion",
+        "name": "Tooned Purple Passion",
         "description": {
             "en-us": "Tooned Purple Passion Debut series Unknown Produced 2026 Designer Bryan Zhao Number JJH54",
             "pt-br": ""
         },
+        "designer": "Bryan Zhao",
+        "debut_year": 2026,
+        "manufacturer": "Tooned",
         "releases": [
             {
-                "Col #": "?/250",
-                "Year": "2026",
-                "Series": "Unknown ?/?",
-                "Color": "Metalflake purple",
-                "Tampo": "Yellow flames, red highlights, \" ELWOOD'S GARAGE \" on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Goldenrod",
-                "Wheel Type": "AeroDisc",
-                "Toy #": "JJH54",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-tooned-purple-passion-metalflake-purple-jjh54",
+                "toy_number": "JJH54",
+                "casting_id": "tooned-purple-passion",
+                "year": 2026,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake purple",
+                    "tampo": "Yellow flames, red highlights, \" ELWOOD'S GARAGE \" on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Goldenrod",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "col": "?/250",
+                    "notes_variations": "New Model Base code(s):"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

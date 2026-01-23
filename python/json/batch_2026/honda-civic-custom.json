@@ -1,143 +1,214 @@
 [
     {
-        "metadata": {
-            "name": "Honda Civic Custom",
-            "Debut series": "HW J-Imports",
-            "image": "HondaCivicCustom.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/HondaCivicCustom.jpg/revision/latest/scale-to-width-down/268?cb=20220528090159"
-        },
+        "casting_id": "honda-civic-custom",
+        "name": "Honda Civic Custom",
         "description": {
             "en-us": "Honda Civic Custom Debut series HW J-Imports Produced 2022 – Present Designer Dmitriy Shakhmatov Number HCT11",
             "pt-br": ""
         },
+        "designer": "Dmitriy Shakhmatov",
+        "debut_year": 2022,
+        "manufacturer": "Honda",
         "releases": [
             {
-                "Col #": "204/250",
-                "Year": "2022",
-                "Series": "HW J-Imports 10/10",
-                "Color": "Sky blue",
-                "Tampo": "White, green, red, and black hood, \"42\", \"R\", \" ASADA RACE GARAGE \", \"ホットホィール”, HW logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Yellow 5SP & Mini AeroDisc",
-                "Toy #": "HCT11",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): R16, R18, R21, R22",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/HondaCivicCustom.jpg/revision/latest/scale-to-width-down/75?cb=20220528090159"
+                "release_id": "2022-honda-civic-custom-sky-blue-hct11",
+                "toy_number": "HCT11",
+                "casting_id": "honda-civic-custom",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 10,
+                "specs": {
+                    "color": "Sky blue",
+                    "tampo": "White, green, red, and black hood, \"42\", \"R\", \" ASADA RACE GARAGE \", \"ホットホィール”, HW logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Yellow 5SP & Mini AeroDisc"
+                    },
+                    "col": "204/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): R16, R18, R21, R22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/HondaCivicCustom.jpg/revision/latest?cb=20220528090159"
+                }
             },
             {
-                "Col #": "204/250",
-                "Year": "2022",
-                "Series": "HW J-Imports 10/10",
-                "Color": "Cherry red",
-                "Tampo": "White, green, red, and black hood, \"78\", \"R\", \" ASADA RACE GARAGE \", \"ホットホィール”, HW logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "White",
-                "Wheel Type": "5SP & Mini AeroDisc",
-                "Toy #": "HCX78",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): R30, R31, R33, R35",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/35/2022jimportscivic.jpeg/revision/latest/scale-to-width-down/75?cb=20240402234925"
+                "release_id": "2022-honda-civic-custom-cherry-red-hcx78",
+                "toy_number": "HCX78",
+                "casting_id": "honda-civic-custom",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 10,
+                "specs": {
+                    "color": "Cherry red",
+                    "tampo": "White, green, red, and black hood, \"78\", \"R\", \" ASADA RACE GARAGE \", \"ホットホィール”, HW logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "5SP & Mini AeroDisc"
+                    },
+                    "col": "204/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): R30, R31, R33, R35",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/2022jimportscivic.jpeg/revision/latest?cb=20240402234925"
+                }
             },
             {
-                "Col #": "172/250",
-                "Year": "2023",
-                "Series": "HW Drag Strip 7/10",
-                "Color": "White",
-                "Tampo": "Black lightning bolts, \"HW\", \"ホットホ ィール\" on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Light blue tint",
-                "Interior Color": "White",
-                "Wheel Type": "Chrome Red Rim PR5 & Black Mini AeroDisc",
-                "Toy #": "HKH33",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S10, S12, S14",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/HondaDragCivic.jpg/revision/latest/scale-to-width-down/75?cb=20230512124531"
+                "release_id": "2023-honda-civic-custom-white-hkh33",
+                "toy_number": "HKH33",
+                "casting_id": "honda-civic-custom",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 7,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black lightning bolts, \"HW\", \"ホットホ ィール\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Light blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Chrome Red Rim PR5 & Black Mini AeroDisc"
+                    },
+                    "col": "172/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S10, S12, S14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/HondaDragCivic.jpg/revision/latest?cb=20230512124531"
+                }
             },
             {
-                "Col #": "172/250",
-                "Year": "2023",
-                "Series": "HW Drag Strip 7/10",
-                "Color": "Maroon",
-                "Tampo": "Orange lightning bolts, \"HW\", \"ホットホ ィール\" on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Yellow tint",
-                "Interior Color": "Orange",
-                "Wheel Type": "Chrome Gold 10SP & 5SP",
-                "Toy #": "HKL48",
-                "Country": "Malaysia",
-                "Notes": "Kroger Exclusive Base code(s): S14",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/df/KrogerCivic.jpg/revision/latest/scale-to-width-down/75?cb=20231104142803"
+                "release_id": "2023-honda-civic-custom-maroon-hkl48",
+                "toy_number": "HKL48",
+                "casting_id": "honda-civic-custom",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 7,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "Orange lightning bolts, \"HW\", \"ホットホ ィール\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "Chrome Gold 10SP & 5SP"
+                    },
+                    "col": "172/250"
+                },
+                "country": "Malaysia",
+                "notes": "Kroger Exclusive Base code(s): S14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/KrogerCivic.jpg/revision/latest?cb=20231104142803"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Multipack Exclusive",
-                "Color": "Black",
-                "Tampo": "Red and white stripes, \"ホットホ ィール\", \"29 HWRacing\", \"Civic\", \"VTEC DOHC\", HW Logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome Red Rim Micro5SP & Chrome Red Rim RSW",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S43, S44, T11, T28",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/DragCivic.jpg/revision/latest/scale-to-width-down/75?cb=20240308074343"
+                "release_id": "2024-honda-civic-custom-black-x6999",
+                "toy_number": "X6999",
+                "casting_id": "honda-civic-custom",
+                "year": 2024,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red and white stripes, \"ホットホ ィール\", \"29 HWRacing\", \"Civic\", \"VTEC DOHC\", HW Logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome Red Rim Micro5SP & Chrome Red Rim RSW"
+                    },
+                    "col": "172/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S43, S44, T11, T28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/DragCivic.jpg/revision/latest?cb=20240308074343"
+                }
             },
             {
-                "Col #": "201/250",
-                "Year": "2025",
-                "Series": "HW Reverse Rake 5/5",
-                "Color": "Metalflake blue",
-                "Tampo": "Red and white graphics, \"Civic\" wordmark on hood and sides, \"22\", AEM logo and Michelin logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Red",
-                "Wheel Type": "L4 & MiniAeroDisc",
-                "Toy #": "JBB22",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U12N, U16N, U24N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/74/Honda_Civic_Custom_2025.jpg/revision/latest/scale-to-width-down/75?cb=20250514143424"
+                "release_id": "2025-honda-civic-custom-metalflake-blue-jbb22",
+                "toy_number": "JBB22",
+                "casting_id": "honda-civic-custom",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metalflake blue",
+                    "tampo": "Red and white graphics, \"Civic\" wordmark on hood and sides, \"22\", AEM logo and Michelin logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "L4 & MiniAeroDisc"
+                    },
+                    "col": "201/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U12N, U16N, U24N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/Honda_Civic_Custom_2025.jpg/revision/latest?cb=20250514143424"
+                }
             },
             {
-                "Col #": "151/250",
-                "Year": "2026",
-                "Series": "Drag Racers 8/10",
-                "Color": "Metalflake cyan",
-                "Tampo": "Black accents, \"59\" in red circle, \"ホットホィール\" on hood and sides, Civic wordmark, AEM, Tein logos on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "L4 / Micro5SP",
-                "Toy #": "JJJ81",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-honda-civic-custom-metalflake-cyan-jjj81",
+                "toy_number": "JJJ81",
+                "casting_id": "honda-civic-custom",
+                "year": 2026,
+                "series_id": "drag",
+                "series_index": 8,
+                "specs": {
+                    "color": "Metalflake cyan",
+                    "tampo": "Black accents, \"59\" in red circle, \"ホットホィール\" on hood and sides, Civic wordmark, AEM, Tein logos on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "L4 / Micro5SP"
+                    },
+                    "col": "151/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "151/250",
-                "Year": "2026",
-                "Series": "Drag Racers 8/10",
-                "Color": "Spectraflame cyan",
-                "Tampo": "Black accents, \"ホットホィール\", \" Super TH\" on hood and sides, Civic wordmark, \" LW \", \"59\" in red heart on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "TRR / MicroRRA",
-                "Toy #": "JJM20",
-                "Country": "Malaysia",
-                "Notes": "Super Treasure Hunt Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-honda-civic-custom-spectraflame-cyan-jjm20",
+                "toy_number": "JJM20",
+                "casting_id": "honda-civic-custom",
+                "year": 2026,
+                "series_id": "drag",
+                "series_index": 8,
+                "specs": {
+                    "color": "Spectraflame cyan",
+                    "tampo": "Black accents, \"ホットホィール\", \" Super TH\" on hood and sides, Civic wordmark, \" LW \", \"59\" in red heart on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "TRR / MicroRRA"
+                    },
+                    "col": "151/250"
+                },
+                "country": "Malaysia",
+                "notes": "Super Treasure Hunt Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

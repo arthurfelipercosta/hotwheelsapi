@@ -1,191 +1,289 @@
 [
     {
-        "metadata": {
-            "name": "'87 Buick Regal GNX",
-            "Debut series": "Fast & Furious : Motor City Muscle",
-            "image": "Buick Grand National GNX 1987 12a.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/62/Buick_Grand_National_GNX_1987_12a.jpg/revision/latest/scale-to-width-down/267?cb=20200527005320"
-        },
+        "casting_id": "87-buick-regal-gnx",
+        "name": "'87 Buick Regal GNX",
         "description": {
             "en-us": "'87 Buick Regal GNX Debut series Fast & Furious : Motor City Muscle Produced 2020 – Present Designer Mark Jones Number GJR71",
             "pt-br": ""
         },
+        "designer": "Mark Jones",
+        "debut_year": 2020,
+        "manufacturer": "'87",
         "releases": [
             {
-                "Col #": "",
-                "Year": "2020",
-                "Series": "Fast & Furious : Motor City Muscle 3/5",
-                "Color": "Black Clearcoat",
-                "Tampo": "Detailed Headlights & Taillights, Grand National emblem",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Heavy smoke tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "Black RR8DOT",
-                "Toy #": "GJR71",
-                "Country": "Thailand",
-                "Notes": "Named ' 87 Buick Grand National GNX Base code(s): N10, N12",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/62/Buick_Grand_National_GNX_1987_12a.jpg/revision/latest/scale-to-width-down/75?cb=20200527005320"
+                "release_id": "2020-87-buick-regal-gnx-black-clearcoat-gjr71",
+                "toy_number": "GJR71",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2020,
+                "series_id": "fast",
+                "series_index": 3,
+                "specs": {
+                    "color": "Black Clearcoat",
+                    "tampo": "Detailed Headlights & Taillights, Grand National emblem",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Heavy smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Black RR8DOT"
+                    },
+                    "col": ""
+                },
+                "country": "Thailand",
+                "notes": "Named ' 87 Buick Grand National GNX Base code(s): N10, N12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/Buick_Grand_National_GNX_1987_12a.jpg/revision/latest?cb=20200527005320"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2020",
-                "Series": "Car Culture: Power Trip 2/5",
-                "Color": "White Pearl",
-                "Tampo": "Detailed Headlights & Taillights, Grand National emblem",
-                "base_color": "Matte Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "Chrome Rim, Gold RR8DOT",
-                "Toy #": "GJR02",
-                "Country": "Thailand",
-                "Notes": "Base code(s): N33, N34, N35",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/62/0073thRJly1gila115pj2j31hc0u04j5.jpg/revision/latest/scale-to-width-down/75?cb=20200917064549"
+                "release_id": "2020-87-buick-regal-gnx-white-pearl-gjr02",
+                "toy_number": "GJR02",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2020,
+                "series_id": "car",
+                "series_index": 2,
+                "specs": {
+                    "color": "White Pearl",
+                    "tampo": "Detailed Headlights & Taillights, Grand National emblem",
+                    "base_color": "Matte Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Chrome Rim, Gold RR8DOT"
+                    },
+                    "col": ""
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): N33, N34, N35",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/0073thRJly1gila115pj2j31hc0u04j5.jpg/revision/latest?cb=20200917064549"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2021",
-                "Series": "Hot Wheels Boulevard #30",
-                "Color": "Metalflake Dark Gray",
-                "Tampo": "Detailed Headlights & Taillights, Grand National emblem. Red striping along sides.",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Grey",
-                "Wheel Type": "Dark Gray RR10SPM",
-                "Toy #": "GRL94",
-                "Country": "Thailand",
-                "Notes": "Base code(s): N33, N35, P09, P12",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/GRL94-01.JPG/revision/latest/scale-to-width-down/75?cb=20210529060155"
+                "release_id": "2021-87-buick-regal-gnx-metalflake-dark-gray-grl94",
+                "toy_number": "GRL94",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2021,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Gray",
+                    "tampo": "Detailed Headlights & Taillights, Grand National emblem. Red striping along sides.",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Dark Gray RR10SPM"
+                    },
+                    "col": ""
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): N33, N35, P09, P12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/GRL94-01.JPG/revision/latest?cb=20210529060155"
+                }
             },
             {
-                "Col #": "218/250",
-                "Year": "2021",
-                "Series": "Muscle Mania 4/10",
-                "Color": "Red",
-                "Tampo": "\"Black Widow Exhaust\" on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Grey MC5",
-                "Toy #": "GTB43",
-                "Country": "Malaysia",
-                "Notes": "New in Mainline Base code(s): P14, P16, P18, P20",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/04/GTB43-01.JPG/revision/latest/scale-to-width-down/75?cb=20210716075703"
+                "release_id": "2021-87-buick-regal-gnx-red-gtb43",
+                "toy_number": "GTB43",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2021,
+                "series_id": "muscle",
+                "series_index": 4,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "\"Black Widow Exhaust\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Grey MC5"
+                    },
+                    "col": "218/250"
+                },
+                "country": "Malaysia",
+                "notes": "New in Mainline Base code(s): P14, P16, P18, P20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/04/GTB43-01.JPG/revision/latest?cb=20210716075703"
+                }
             },
             {
-                "Col #": "218/250",
-                "Year": "2021",
-                "Series": "Muscle Mania 4/10",
-                "Color": "Black",
-                "Tampo": "\"Black Widow Exhaust\" on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Red",
-                "Wheel Type": "Grey MC5",
-                "Toy #": "GTD44",
-                "Country": "Malaysia",
-                "Notes": "Kroger Exclusive Base code(s): P18",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/50/87_Buick_Regal_GNX_GTD44.jpg/revision/latest/scale-to-width-down/75?cb=20210929151244"
+                "release_id": "2021-87-buick-regal-gnx-black-gtd44",
+                "toy_number": "GTD44",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2021,
+                "series_id": "muscle",
+                "series_index": 4,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "\"Black Widow Exhaust\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "Grey MC5"
+                    },
+                    "col": "218/250"
+                },
+                "country": "Malaysia",
+                "notes": "Kroger Exclusive Base code(s): P18",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/50/87_Buick_Regal_GNX_GTD44.jpg/revision/latest?cb=20210929151244"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2022",
-                "Series": "Ultra Hots 7/8",
-                "Color": "Spectraflame Deep Red",
-                "Tampo": "Detailed headlights and taillights, afterburner flame tampos, red accents",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Dark Red",
-                "Wheel Type": "Chrome Gold UH",
-                "Toy #": "HDG67",
-                "Country": "Malaysia",
-                "Notes": "Target Exclusive Base code(s): R02, R04",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Ultra_Hots_%2787_Buick_Regal_GNX_Deep_Red_HDG67_2022.jpg/revision/latest/scale-to-width-down/75?cb=20220628204626"
+                "release_id": "2022-87-buick-regal-gnx-spectraflame-deep-red-hdg67",
+                "toy_number": "HDG67",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2022,
+                "series_id": "ultra",
+                "series_index": 7,
+                "specs": {
+                    "color": "Spectraflame Deep Red",
+                    "tampo": "Detailed headlights and taillights, afterburner flame tampos, red accents",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Dark Red",
+                    "wheel_type": {
+                        "0": "Chrome Gold UH"
+                    },
+                    "col": "218/250"
+                },
+                "country": "Malaysia",
+                "notes": "Target Exclusive Base code(s): R02, R04",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Ultra_Hots_%2787_Buick_Regal_GNX_Deep_Red_HDG67_2022.jpg/revision/latest?cb=20220628204626"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2022",
-                "Series": "Replica Entertainment: Fast & Furious 2/5",
-                "Color": "Black Clearcoat",
-                "Tampo": "Detailed Headlights & Taillights, Grand National emblem",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "Black RRMag",
-                "Toy #": "HCP16",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): R08",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Premium_Entertainment_%2787_Buick_Regal_GNX_HCP16_2022.jpg/revision/latest/scale-to-width-down/75?cb=20220522191500"
+                "release_id": "2022-87-buick-regal-gnx-black-clearcoat-hcp16",
+                "toy_number": "HCP16",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2022,
+                "series_id": "replica",
+                "series_index": 2,
+                "specs": {
+                    "color": "Black Clearcoat",
+                    "tampo": "Detailed Headlights & Taillights, Grand National emblem",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Black RRMag"
+                    },
+                    "col": "218/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): R08",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Premium_Entertainment_%2787_Buick_Regal_GNX_HCP16_2022.jpg/revision/latest?cb=20220522191500"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "Fast & Furious (Series 2) 4/10",
-                "Color": "Black Clearcoat",
-                "Tampo": "Detailed trim",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black RSW / Fast & Furious 10-Pack / HNT21 / Base code(s): S01, S02",
-                "Toy #": "HNT04",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S20",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/10-Car_Box_Set_Buick_GNX.jpg/revision/latest/scale-to-width-down/75?cb=20230519120649"
+                "release_id": "2023-87-buick-regal-gnx-black-clearcoat-hnt04",
+                "toy_number": "HNT04",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2023,
+                "series_id": "fast",
+                "series_index": 4,
+                "specs": {
+                    "color": "Black Clearcoat",
+                    "tampo": "Detailed trim",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black RSW"
+                    },
+                    "col": "218/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/10-Car_Box_Set_Buick_GNX.jpg/revision/latest?cb=20230519120649"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "Run The Jewels × Hot Wheels × Volcom",
-                "Color": "Black",
-                "Tampo": "Detailed Headlights & Taillights, Grand National emblem. 'R:T.J. H.W. VLCM' on rear fenders & rear window. 'RUN THE JEWELS' window banner, Volcom logos. 'RTJ' & 'Volcom' license plates.",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "RR10SPM",
-                "Toy #": "HTT70",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): S24",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Run_The_Jewels_2023_%2787_Buick_Regal_GNX_Black_Indonesia_HTT70.jpg/revision/latest/scale-to-width-down/75?cb=20230929201248"
+                "release_id": "2023-87-buick-regal-gnx-black-htt70",
+                "toy_number": "HTT70",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2023,
+                "series_id": "run",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Detailed Headlights & Taillights, Grand National emblem. 'R:T.J. H.W. VLCM' on rear fenders & rear window. 'RUN THE JEWELS' window banner, Volcom logos. 'RTJ' & 'Volcom' license plates.",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "col": "Fast & Furious 10-Pack"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): S24",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Run_The_Jewels_2023_%2787_Buick_Regal_GNX_Black_Indonesia_HTT70.jpg/revision/latest?cb=20230929201248"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Mattel 80th Anniversary Multipack",
-                "Color": "Red",
-                "Tampo": "Detailed headlights, taillights and trim, maroon accents, Hot Wheels and Mattel 80th Anniversary logos on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "C5",
-                "Toy #": "JGK09",
-                "Country": "Thailand",
-                "Notes": "Base code(s): U22A,",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/JGK09-buick.jpg/revision/latest/scale-to-width-down/75?cb=20250922050921"
+                "release_id": "2025-87-buick-regal-gnx-red-jgk09",
+                "toy_number": "JGK09",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Detailed headlights, taillights and trim, maroon accents, Hot Wheels and Mattel 80th Anniversary logos on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "C5"
+                    },
+                    "col": "Fast & Furious 10-Pack"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): U22A,",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/JGK09-buick.jpg/revision/latest?cb=20250922050921"
+                }
             },
             {
-                "Col #": "009/250",
-                "Year": "2026",
-                "Series": "Nightspeed 1/10",
-                "Color": "Metalflake Purple",
-                "Tampo": "White bold stripes with pink pulse trim; Number 87 with embedded TH flame marking, and Hot Wheels logo on sides; pink accent on hood bulge",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Pink",
-                "Wheel Type": "White lip, black PR5",
-                "Toy #": "JJM00",
-                "Country": "Malaysia",
-                "Notes": "Treasure Hunt Base code(s): U23N, U32N, U33N, U34N, U35N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/BuickRegal.jpg/revision/latest/scale-to-width-down/75?cb=20251101092453"
+                "release_id": "2026-87-buick-regal-gnx-metalflake-purple-jjm00",
+                "toy_number": "JJM00",
+                "casting_id": "87-buick-regal-gnx",
+                "year": 2026,
+                "series_id": "nightspeed",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "White bold stripes with pink pulse trim; Number 87 with embedded TH flame marking, and Hot Wheels logo on sides; pink accent on hood bulge",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "White lip, black PR5"
+                    },
+                    "col": "009/250"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base code(s): U23N, U32N, U33N, U34N, U35N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/BuickRegal.jpg/revision/latest?cb=20251101092453"
+                }
             }
         ]
     }

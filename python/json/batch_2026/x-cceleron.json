@@ -1,31 +1,39 @@
 [
     {
-        "metadata": {
-            "name": "X-cceleron",
-            "Debut series": "Exoticars",
-            "image": "X-cceleron2.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/5/58/X-cceleron2.jpg/revision/latest/scale-to-width-down/268?cb=20251216105557"
-        },
+        "casting_id": "x-cceleron",
+        "name": "X-cceleron",
         "description": {
             "en-us": "X-cceleron Debut series Exoticars Produced 2026 – Present Designer Ronald Wong Number JJH43",
             "pt-br": ""
         },
+        "designer": "Ronald Wong",
+        "debut_year": 2026,
+        "manufacturer": "X-cceleron",
         "releases": [
             {
-                "Col #": "075/250",
-                "Year": "2026",
-                "Series": "Exoticars 6/10",
-                "Color": "White",
-                "Tampo": "Orange and blue stripes, encrypted \" RON \" in Acceleron language, \"NO STEP\", Hot Wheels logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Orange tint",
-                "Interior Color": "Navy blue",
-                "Wheel Type": "Orange Lip ID",
-                "Toy #": "JJH43",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U45N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/17/X-cceleron.jpg/revision/latest/scale-to-width-down/75?cb=20251216105543"
+                "release_id": "2026-x-cceleron-white-jjh43",
+                "toy_number": "JJH43",
+                "casting_id": "x-cceleron",
+                "year": 2026,
+                "series_id": "exoticars",
+                "series_index": 6,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Orange and blue stripes, encrypted \" RON \" in Acceleron language, \"NO STEP\", Hot Wheels logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Orange tint",
+                    "interior_color": "Navy blue",
+                    "wheel_type": {
+                        "0": "Orange Lip ID"
+                    },
+                    "col": "075/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U45N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/X-cceleron.jpg/revision/latest?cb=20251216105543"
+                }
             }
         ]
     }

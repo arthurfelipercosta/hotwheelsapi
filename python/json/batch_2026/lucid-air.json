@@ -1,95 +1,139 @@
 [
     {
-        "metadata": {
-            "name": "Lucid Air",
-            "Debut series": "HW Green Speed",
-            "image": "LucidAir.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/LucidAir.jpg/revision/latest/scale-to-width-down/268?cb=20220626122429"
-        },
+        "casting_id": "lucid-air",
+        "name": "Lucid Air",
         "description": {
             "en-us": "Lucid Air Debut series HW Green Speed Produced 2022 – Present Designer Lindsey Lee Number HCT24",
             "pt-br": ""
         },
+        "designer": "Lindsey Lee",
+        "debut_year": 2022,
+        "manufacturer": "Lucid",
         "releases": [
             {
-                "Col #": "147/250",
-                "Year": "2022",
-                "Series": "HW Green Speed 4/5",
-                "Color": "Metalflake Cosmos Silver",
-                "Tampo": "Detailed headlights, taillights and trim",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Ivory",
-                "Wheel Type": "RA6",
-                "Toy #": "HCT24",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): R03, R04, R05, R06, R09",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/LucidAir.jpg/revision/latest/scale-to-width-down/75?cb=20220626122429"
+                "release_id": "2022-lucid-air-metalflake-cosmos-silver-hct24",
+                "toy_number": "HCT24",
+                "casting_id": "lucid-air",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake Cosmos Silver",
+                    "tampo": "Detailed headlights, taillights and trim",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Ivory",
+                    "wheel_type": {
+                        "0": "RA6"
+                    },
+                    "col": "147/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): R03, R04, R05, R06, R09",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/LucidAir.jpg/revision/latest?cb=20220626122429"
+                }
             },
             {
-                "Col #": "147/250",
-                "Year": "2022",
-                "Series": "HW Green Speed 4/5",
-                "Color": "Metalflake Stellar White",
-                "Tampo": "Detailed headlights, taillights and trim",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "RA6",
-                "Toy #": "HCX40",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): R24, R27",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Lucid_Air_2022_White.jpg/revision/latest/scale-to-width-down/75?cb=20221018055930"
+                "release_id": "2022-lucid-air-metalflake-stellar-white-hcx40",
+                "toy_number": "HCX40",
+                "casting_id": "lucid-air",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake Stellar White",
+                    "tampo": "Detailed headlights, taillights and trim",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RA6"
+                    },
+                    "col": "147/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): R24, R27",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Lucid_Air_2022_White.jpg/revision/latest?cb=20221018055930"
+                }
             },
             {
-                "Col #": "097/250",
-                "Year": "2023",
-                "Series": "Factory Fresh 1/5",
-                "Color": "Metalflake Eureka Gold",
-                "Tampo": "Detailed headlights, taillights and trim",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "RA6",
-                "Toy #": "HKJ29",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R42, R44, R45",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/28/HKJ29-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230107144725"
+                "release_id": "2023-lucid-air-metalflake-eureka-gold-hkj29",
+                "toy_number": "HKJ29",
+                "casting_id": "lucid-air",
+                "year": 2023,
+                "series_id": "factory",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Eureka Gold",
+                    "tampo": "Detailed headlights, taillights and trim",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RA6"
+                    },
+                    "col": "097/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R42, R44, R45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/HKJ29-LOOSE.jpg/revision/latest?cb=20230107144725"
+                }
             },
             {
-                "Col #": "097/250",
-                "Year": "2023",
-                "Series": "Factory Fresh 1/5",
-                "Color": "Infinite Black",
-                "Tampo": "Detailed headlights, taillights and trim",
-                "base_color": "Dark Gray",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Ivory",
-                "Wheel Type": "RA6",
-                "Toy #": "HKK76",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S08, S12, S13",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/HW_-_Lucid_Air_%282023_-_HKK76%29.jpg/revision/latest/scale-to-width-down/75?cb=20230427164445"
+                "release_id": "2023-lucid-air-infinite-black-hkk76",
+                "toy_number": "HKK76",
+                "casting_id": "lucid-air",
+                "year": 2023,
+                "series_id": "factory",
+                "series_index": 1,
+                "specs": {
+                    "color": "Infinite Black",
+                    "tampo": "Detailed headlights, taillights and trim",
+                    "base_color": "Dark Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Ivory",
+                    "wheel_type": {
+                        "0": "RA6"
+                    },
+                    "col": "097/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S08, S12, S13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/HW_-_Lucid_Air_%282023_-_HKK76%29.jpg/revision/latest?cb=20230427164445"
+                }
             },
             {
-                "Col #": "059/250",
-                "Year": "2026",
-                "Series": "HW EV 6/10",
-                "Color": "Zenith Red",
-                "Tampo": "Detailed headlights, taillights and trim",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "RA6",
-                "Toy #": "JJJ28",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U42N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2022LucidAir.jpg/revision/latest/scale-to-width-down/75?cb=20251121095044"
+                "release_id": "2026-lucid-air-zenith-red-jjj28",
+                "toy_number": "JJJ28",
+                "casting_id": "lucid-air",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 6,
+                "specs": {
+                    "color": "Zenith Red",
+                    "tampo": "Detailed headlights, taillights and trim",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RA6"
+                    },
+                    "col": "059/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U42N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2022LucidAir.jpg/revision/latest?cb=20251121095044"
+                }
             }
         ]
     }

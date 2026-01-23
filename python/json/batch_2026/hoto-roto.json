@@ -1,63 +1,89 @@
 [
     {
-        "metadata": {
-            "name": "Hoto Roto",
-            "Debut series": "Rod Squad",
-            "image": "HotoRoto.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/8/87/HotoRoto.jpg/revision/latest/scale-to-width-down/268?cb=20250120090700"
-        },
+        "casting_id": "hoto-roto",
+        "name": "Hoto Roto",
         "description": {
             "en-us": "Hoto Roto Debut series Rod Squad Produced 2025 – Present Designer Bryan Zhao Number HYW33",
             "pt-br": ""
         },
+        "designer": "Bryan Zhao",
+        "debut_year": 2025,
+        "manufacturer": "Hoto",
         "releases": [
             {
-                "Col #": "158/250",
-                "Year": "2025",
-                "Series": "Rod Squad 10/10",
-                "Color": "Matte \"moody\" blue",
-                "Tampo": "Gold striping down length of body, \"ホットホィール\" on trunk, \"67\" on roof, Hot Wheels logo, \" ZHAO \", \" ATN \", \"C.\", \" FC \" on air intake",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Grey DD8 & 5SP",
-                "Toy #": "HYW33",
-                "Country": "Malaysia",
-                "Notes": "Hot Wheels Let's Race New Model Base code(s): T50, T50N, U02N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/87/HotoRoto.jpg/revision/latest/scale-to-width-down/75?cb=20250120090700"
+                "release_id": "2025-hoto-roto-matte-moody-blue-hyw33",
+                "toy_number": "HYW33",
+                "casting_id": "hoto-roto",
+                "year": 2025,
+                "series_id": "rod",
+                "series_index": 10,
+                "specs": {
+                    "color": "Matte \"moody\" blue",
+                    "tampo": "Gold striping down length of body, \"ホットホィール\" on trunk, \"67\" on roof, Hot Wheels logo, \" ZHAO \", \" ATN \", \"C.\", \" FC \" on air intake",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Grey DD8 & 5SP"
+                    },
+                    "col": "158/250"
+                },
+                "country": "Malaysia",
+                "notes": "Hot Wheels Let's Race New Model Base code(s): T50, T50N, U02N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/HotoRoto.jpg/revision/latest?cb=20250120090700"
+                }
             },
             {
-                "Col #": "158/250",
-                "Year": "2025",
-                "Series": "Rod Squad 10/10",
-                "Color": "White",
-                "Tampo": "Gold striping down length of body, \"ホットホィール\" on trunk, \"67\" on roof, Hot Wheels logo, \" ZHAO \", \" ATN \", \"C.\", \" FC \" on air intake",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "DD8 & 5SP",
-                "Toy #": "JBB74",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U22N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/CosmoHotRod.jpg/revision/latest/scale-to-width-down/75?cb=20250715130206"
+                "release_id": "2025-hoto-roto-white-jbb74",
+                "toy_number": "JBB74",
+                "casting_id": "hoto-roto",
+                "year": 2025,
+                "series_id": "rod",
+                "series_index": 10,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Gold striping down length of body, \"ホットホィール\" on trunk, \"67\" on roof, Hot Wheels logo, \" ZHAO \", \" ATN \", \"C.\", \" FC \" on air intake",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "DD8 & 5SP"
+                    },
+                    "col": "158/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U22N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/CosmoHotRod.jpg/revision/latest?cb=20250715130206"
+                }
             },
             {
-                "Col #": "079/250",
-                "Year": "2026",
-                "Series": "Compact Kings 2/10",
-                "Color": "",
-                "Tampo": "",
-                "base_color": "",
-                "base_type": "",
-                "Window Color": "",
-                "Interior Color": "",
-                "Wheel Type": "",
-                "Toy #": "JJJ44",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/57/BlackRoto.jpg/revision/latest/scale-to-width-down/75?cb=20251216110108"
+                "release_id": "2026-hoto-roto-white-jjj44",
+                "toy_number": "JJJ44",
+                "casting_id": "hoto-roto",
+                "year": 2026,
+                "series_id": "compact",
+                "series_index": 2,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "col": "079/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/BlackRoto.jpg/revision/latest?cb=20251216110108"
+                }
             }
         ]
     }

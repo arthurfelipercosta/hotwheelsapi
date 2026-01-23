@@ -1,31 +1,40 @@
 [
     {
-        "metadata": {
-            "name": "VW ID. Buzz Bomb",
-            "Debut series": "HW Euro",
-            "image": "VolkswagenID.BuzzBomb.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/VolkswagenID.BuzzBomb.jpg/revision/latest/scale-to-width-down/268?cb=20251216110548"
-        },
+        "casting_id": "vw-id-buzz-bomb",
+        "name": "VW ID. Buzz Bomb",
         "description": {
             "en-us": "VW ID. Buzz Bomb Debut series HW Euro Produced 2026 – Present Designer Fraser Campbell Number JJH46",
             "pt-br": ""
         },
+        "designer": "Fraser Campbell",
+        "debut_year": 2026,
+        "manufacturer": "VW",
         "releases": [
             {
-                "Col #": "086/250",
-                "Year": "2026",
-                "Series": "HW Euro 4/10",
-                "Color": "Candy White with pink cladding",
-                "Tampo": "Detailed headlights and trim, floral graphics, \"BUZZ BOMB\" on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Teal tint",
-                "Interior Color": "Black",
-                "Wheel Type": "TRAP5",
-                "Toy #": "JJH46",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s): U45N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/VolkswagenID.BuzzBomb.jpg/revision/latest/scale-to-width-down/75?cb=20251216110548"
+                "release_id": "2026-vw-id-buzz-bomb-candy-white-with-pink-cladding-jjh46",
+                "toy_number": "JJH46",
+                "casting_id": "vw-id-buzz-bomb",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Candy White with pink cladding",
+                    "tampo": "Detailed headlights and trim, floral graphics, \"BUZZ BOMB\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Teal tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "TRAP5"
+                    },
+                    "col": "086/250",
+                    "notes_variations": "New Model Base code(s): U45N"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/VolkswagenID.BuzzBomb.jpg/revision/latest?cb=20251216110548"
+                }
             }
         ]
     }

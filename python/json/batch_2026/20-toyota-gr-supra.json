@@ -1,239 +1,364 @@
 [
     {
-        "metadata": {
-            "name": "'20 Toyota GR Supra",
-            "Debut series": "HW Speed Graphics",
-            "image": "2021NM28 (Large).JPG",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/2021NM28_%28Large%29.JPG/revision/latest/scale-to-width-down/268?cb=20210405025159"
-        },
+        "casting_id": "20-toyota-gr-supra",
+        "name": "'20 Toyota GR Supra",
         "description": {
             "en-us": "'20 Toyota GR Supra Debut series HW Speed Graphics Produced 2021 – Present Designer Ryu Asada Number GRX20",
             "pt-br": ""
         },
+        "designer": "Ryu Asada",
+        "debut_year": 2021,
+        "manufacturer": "'20",
         "releases": [
             {
-                "Col #": "178/250",
-                "Year": "2021",
-                "Series": "HW Speed Graphics 5/10",
-                "Color": "Absolute Zero White",
-                "Tampo": "Blue stripe on side, \"GReddy\" & various other sponsor logos, headlights",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Black 10SP",
-                "Toy #": "GRX20",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): P03, P07, P08, P09, P11",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/2021NM28_%28Large%29.JPG/revision/latest/scale-to-width-down/75?cb=20210405025159"
+                "release_id": "2021-20-toyota-gr-supra-absolute-zero-white-grx20",
+                "toy_number": "GRX20",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2021,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Absolute Zero White",
+                    "tampo": "Blue stripe on side, \"GReddy\" & various other sponsor logos, headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black 10SP"
+                    },
+                    "col": "178/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): P03, P05, P07, P08, P09, P11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/2021NM28_%28Large%29.JPG/revision/latest?cb=20210405025159"
+                }
             },
             {
-                "Col #": "178/250",
-                "Year": "2021",
-                "Series": "HW Speed Graphics 5/10",
-                "Color": "Nitro Yellow",
-                "Tampo": "Black stripe on side, \"GReddy\" & various other sponsor logos, headlights",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Black 10SP",
-                "Toy #": "GTB76",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): P30, P32, P35, P36",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/GTB76-01.JPG/revision/latest/scale-to-width-down/75?cb=20211203043827"
+                "release_id": "2021-20-toyota-gr-supra-nitro-yellow-gtb76",
+                "toy_number": "GTB76",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2021,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Nitro Yellow",
+                    "tampo": "Black stripe on side, \"GReddy\" & various other sponsor logos, headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black 10SP"
+                    },
+                    "col": "178/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): P30, P32, P35, P36",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/GTB76-01.JPG/revision/latest?cb=20211203043827"
+                }
             },
             {
-                "Col #": "178/250",
-                "Year": "2021",
-                "Series": "HW Speed Graphics 5/10",
-                "Color": "Nocturnal Black",
-                "Tampo": "Black stripe on side, \"GReddy\" & various other sponsor logos, headlights",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Gray 10SP",
-                "Toy #": "HCY48",
-                "Country": "Malaysia",
-                "Notes": "New Model GameStop Exclusive Incorrectly numbered as 160 Base code(s): P35",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/GameStopSupra.jpg/revision/latest/scale-to-width-down/75?cb=20211209101954"
+                "release_id": "2021-20-toyota-gr-supra-nocturnal-black-hcy48",
+                "toy_number": "HCY48",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2021,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Nocturnal Black",
+                    "tampo": "Black stripe on side, \"GReddy\" & various other sponsor logos, headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gray 10SP"
+                    },
+                    "col": "178/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model GameStop Exclusive Incorrectly numbered as 160 Base code(s): P35",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/GameStopSupra.jpg/revision/latest?cb=20211209101954"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2021",
-                "Series": "Car Culture: Slide Street 2/5",
-                "Color": "Absolute Zero White",
-                "Tampo": "\"GReddy\" & other sponsor logos, red & black stripes, \"27\" on roof, \"Pandem\" on spoiler, detailed headlights & taillights",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "White RR5SPM",
-                "Toy #": "GRJ79",
-                "Country": "Thailand",
-                "Notes": "New die-cast chassis Base code(s): P23, P30",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/72/KenGushiSupra.jpg/revision/latest/scale-to-width-down/75?cb=20210925093856"
+                "release_id": "2021-20-toyota-gr-supra-absolute-zero-white-grj79",
+                "toy_number": "GRJ79",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2021,
+                "series_id": "car",
+                "series_index": 2,
+                "specs": {
+                    "color": "Absolute Zero White",
+                    "tampo": "\"GReddy\" & other sponsor logos, red & black stripes, \"27\" on roof, \"Pandem\" on spoiler, detailed headlights & taillights",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "White RR5SPM"
+                    },
+                    "col": "178/250"
+                },
+                "country": "Thailand",
+                "notes": "New die-cast chassis Base code(s): P23, P30",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/KenGushiSupra.jpg/revision/latest?cb=20210925093856"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2022",
-                "Series": "Hot Wheels Boulevard #52",
-                "Color": "Metalflake Pearl White",
-                "Tampo": "Detailed headlights & taillights, red & black accents, \"TOYOTA RESEARCH INSTITUTE\" all around body, Toyota Gazoo Racing logo on wing, painted exhaust tips",
-                "base_color": "Matte black",
-                "base_type": "Metal",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Black RR10SPM",
-                "Toy #": "HCR16",
-                "Country": "Thailand",
-                "Notes": "Base code(s): R19, R21, R22",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/%2720ToyotaSupra.jpg/revision/latest/scale-to-width-down/75?cb=20220716061036"
+                "release_id": "2022-20-toyota-gr-supra-metalflake-pearl-white-hcr16",
+                "toy_number": "HCR16",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2022,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Pearl White",
+                    "tampo": "Detailed headlights & taillights, red & black accents, \"TOYOTA RESEARCH INSTITUTE\" all around body, Toyota Gazoo Racing logo on wing, painted exhaust tips",
+                    "base_color": "Matte black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black RR10SPM"
+                    },
+                    "col": "178/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): R19, R21, R22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/%2720ToyotaSupra.jpg/revision/latest?cb=20220716061036"
+                }
             },
             {
-                "Col #": "241/250",
-                "Year": "2022",
-                "Series": "Then and Now 8/10",
-                "Color": "Renaissance Red",
-                "Tampo": "Detailed headlights and taillights, black diagonals",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Black 10SP",
-                "Toy #": "HCT62",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R26, R30",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/71/%2720ToyotaGRSupra.jpg/revision/latest/scale-to-width-down/75?cb=20221030060147"
+                "release_id": "2022-20-toyota-gr-supra-renaissance-red-hct62",
+                "toy_number": "HCT62",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2022,
+                "series_id": "then",
+                "series_index": 8,
+                "specs": {
+                    "color": "Renaissance Red",
+                    "tampo": "Detailed headlights and taillights, black diagonals",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black 10SP"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R26, R30",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/%2720ToyotaGRSupra.jpg/revision/latest?cb=20221030060147"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "Multipack Exclusive",
-                "Color": "Metalflake Dark Green",
-                "Tampo": "Green and White stripes on sides, detailed front",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Black 10SP",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/21/2023_Multipack_Toyota_GR_Supra.jpg/revision/latest/scale-to-width-down/75?cb=20230213012425"
+                "release_id": "2023-20-toyota-gr-supra-metalflake-dark-green-x6999",
+                "toy_number": "X6999",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2023,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Green",
+                    "tampo": "Green and White stripes on sides, detailed front",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black 10SP"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/2023_Multipack_Toyota_GR_Supra.jpg/revision/latest?cb=20230213012425"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "Multipack Exclusive",
-                "Color": "Metalflake Dark Green",
-                "Tampo": "Green and White stripes on sides, detailed front",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Black AeroDisc",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/20_Toyota_GR_Supra_multipack_aerodisc.jpg/revision/latest/scale-to-width-down/75?cb=20230912023539"
+                "release_id": "2023-20-toyota-gr-supra-metalflake-dark-green-x6999",
+                "toy_number": "X6999",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2023,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Green",
+                    "tampo": "Green and White stripes on sides, detailed front",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black AeroDisc"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/20_Toyota_GR_Supra_multipack_aerodisc.jpg/revision/latest?cb=20230912023539"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Gran Turismo 5/5",
-                "Color": "Metallic White",
-                "Tampo": "Detailed headlights and taillights, Toyota Gazoo Racing livery, \"90\" on sides",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "BP4",
-                "Toy #": "HRV67",
-                "Country": "Thailand",
-                "Notes": "Base code(s): S47, S49, S50, T01",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/Gran_Turismo_2024_%2720_Toyota_GR_Supra_White_Thailand_HRV67.jpg/revision/latest/scale-to-width-down/75?cb=20240208163216"
+                "release_id": "2024-20-toyota-gr-supra-metallic-white-hrv67",
+                "toy_number": "HRV67",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2024,
+                "series_id": "gran",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metallic White",
+                    "tampo": "Detailed headlights and taillights, Toyota Gazoo Racing livery, \"90\" on sides",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BP4"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): S47, S49, S50, T01",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/Gran_Turismo_2024_%2720_Toyota_GR_Supra_White_Thailand_HRV67.jpg/revision/latest?cb=20240208163216"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Green and Gold 3/6",
-                "Color": "Metalflake teal",
-                "Tampo": "Hot Wheels logo, \"56\", yellow and black stripes on sides, Toyota Badge & Headlights",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Light smoke tint",
-                "Interior Color": "Gold Chrome",
-                "Wheel Type": "Orange chrome 10SP",
-                "Toy #": "HVX06",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): T07, T17",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/70/2024-56thAnn_HVX06_%2720_GR_Supra_open-1.jpg/revision/latest/scale-to-width-down/75?cb=20240602122424"
+                "release_id": "2024-20-toyota-gr-supra-metalflake-teal-hvx06",
+                "toy_number": "HVX06",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2024,
+                "series_id": "green",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake teal",
+                    "tampo": "Hot Wheels logo, \"56\", yellow and black stripes on sides, Toyota Badge & Headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Light smoke tint",
+                    "interior_color": "Gold Chrome",
+                    "wheel_type": {
+                        "0": "Orange chrome 10SP"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): T07, T17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/2024-56thAnn_HVX06_%2720_GR_Supra_open-1.jpg/revision/latest?cb=20240602122424"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Track Day Collector Set",
-                "Color": "Goodwood Gray",
-                "Tampo": "Black livery on hood and top; Hot Wheels logo on sides",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Red",
-                "Wheel Type": "BRR10SPM",
-                "Toy #": "JBM05",
-                "Country": "Thailand",
-                "Notes": "Base code(s): T37, T46",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2020_Toyota_GR_Supra_Track_Day.jpg/revision/latest/scale-to-width-down/75?cb=20250208025130"
+                "release_id": "2025-20-toyota-gr-supra-goodwood-gray-jbm05",
+                "toy_number": "JBM05",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2025,
+                "series_id": "track",
+                "series_index": null,
+                "specs": {
+                    "color": "Goodwood Gray",
+                    "tampo": "Black livery on hood and top; Hot Wheels logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BRR10SPM"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): T37, T46",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2020_Toyota_GR_Supra_Track_Day.jpg/revision/latest?cb=20250208025130"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Nightburnerz 5-Pack",
-                "Color": "Metalflake Red",
-                "Tampo": "Black and white stripes, black Hot Wheels logo, Toyota Gazoo Racing logo & \"Supra\" on sides, detailed headlights & Toyota logo on front",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Tan",
-                "Wheel Type": "Chrome Lip PR5",
-                "Toy #": "JBJ87 JCP93",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): T37, T48I, T51I, U02I",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/20241218233218.jpg/revision/latest/scale-to-width-down/75?cb=20241219053457"
+                "release_id": "2025-20-toyota-gr-supra-metalflake-red-jbj87-jcp93",
+                "toy_number": "JBJ87 JCP93",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2025,
+                "series_id": "nightburnerz",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "Black and white stripes, black Hot Wheels logo, Toyota Gazoo Racing logo & \"Supra\" on sides, detailed headlights & Toyota logo on front",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): T37, T48I, T51I, T52I, U02I",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/20241218233218.jpg/revision/latest?cb=20241219053457"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Multipack Exclusive",
-                "Color": "Metalflake Blue",
-                "Tampo": "White and Red stripes, \"GReddy\" on sides, detailed front",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black 10SP",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): T43, U29N, U36N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/Toyota-GR-Supra-2025-MultipackEX.jpg/revision/latest/scale-to-width-down/75?cb=20250110010011"
+                "release_id": "2025-20-toyota-gr-supra-metalflake-blue-x6999",
+                "toy_number": "X6999",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2025,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "White and Red stripes, \"GReddy\" on sides, detailed front",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black 10SP"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): T43, U29N, U36N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/Toyota-GR-Supra-2025-MultipackEX.jpg/revision/latest?cb=20250110010011"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2026",
-                "Series": "Car Culture: Team Transport #86",
-                "Color": "Lightning Yellow",
-                "Tampo": "Detailed headlights and taillights, black & white trim, Papadakis Racing, Gazoo Racing, various sponsors",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black RR5SPM",
-                "Toy #": "JHX87",
-                "Country": "Thailand",
-                "Notes": "Base code(s): U35A",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/Aasb%C3%B8Supra.jpg/revision/latest/scale-to-width-down/75?cb=20251003154405"
+                "release_id": "2026-20-toyota-gr-supra-lightning-yellow-jhx87",
+                "toy_number": "JHX87",
+                "casting_id": "20-toyota-gr-supra",
+                "year": 2026,
+                "series_id": "car",
+                "series_index": null,
+                "specs": {
+                    "color": "Lightning Yellow",
+                    "tampo": "Detailed headlights and taillights, black & white trim, Papadakis Racing, Gazoo Racing, various sponsors",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black RR5SPM"
+                    },
+                    "col": "241/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): U35A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/Aasb%C3%B8Supra.jpg/revision/latest?cb=20251003154405"
+                }
             }
         ]
     }

@@ -1,31 +1,40 @@
 [
     {
-        "metadata": {
-            "name": "Custom '66 Toronado",
-            "Debut series": "Factory Fresh",
-            "image": "OldsToronado.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest/scale-to-width-down/268?cb=20260103100431"
-        },
+        "casting_id": "custom-66-toronado",
+        "name": "Custom '66 Toronado",
         "description": {
             "en-us": "Custom '66 Toronado Debut series Factory Fresh Produced 2026 Designer Rob Matthes Number JJH45",
             "pt-br": ""
         },
+        "designer": "Rob Matthes",
+        "debut_year": 2026,
+        "manufacturer": "Custom",
         "releases": [
             {
-                "Col #": "114/250",
-                "Year": "2026",
-                "Series": "Factory Fresh 4/5",
-                "Color": "Metalflake Target Red",
-                "Tampo": "Black gradient stripe down hood, yellow on black Hot Wheels \"66 TORO\" license plate on rear",
-                "base_color": "Dark chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Ivory",
-                "Wheel Type": "5SP",
-                "Toy #": "JJH45",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s): U47N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest/scale-to-width-down/75?cb=20260103100431"
+                "release_id": "2026-custom-66-toronado-metalflake-target-red-jjh45",
+                "toy_number": "JJH45",
+                "casting_id": "custom-66-toronado",
+                "year": 2026,
+                "series_id": "factory",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake Target Red",
+                    "tampo": "Black gradient stripe down hood, yellow on black Hot Wheels \"66 TORO\" license plate on rear",
+                    "base_color": "Dark chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Ivory",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "114/250",
+                    "notes_variations": "New Model Base code(s): U47N"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/OldsToronado.jpg/revision/latest?cb=20260103100431"
+                }
             }
         ]
     }

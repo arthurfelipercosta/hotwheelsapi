@@ -1,47 +1,64 @@
 [
     {
-        "metadata": {
-            "name": "Optimus Prime",
-            "Debut series": "HW Screen Time",
-            "image": "Optimus.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/268?cb=20250120090211"
-        },
+        "casting_id": "optimus-prime",
+        "name": "Optimus Prime",
         "description": {
             "en-us": "Optimus Prime Debut series HW Screen Time Produced 2025 – Present Designer Manson Cheung Number HYW26",
             "pt-br": ""
         },
+        "designer": "Manson Cheung",
+        "debut_year": 2025,
+        "manufacturer": "Optimus",
         "releases": [
             {
-                "Col #": "104/250",
-                "Year": "2025",
-                "Series": "HW Screen Time 6/10",
-                "Color": "Red",
-                "Tampo": "Autobots logo & silver stripes on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Heavy smoke tint",
-                "Interior Color": "Blue",
-                "Wheel Type": "RSW",
-                "Toy #": "HYW26",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): T50N, T51N, U01N, U02N, U05N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/75?cb=20250120090211"
+                "release_id": "2025-optimus-prime-red-hyw26",
+                "toy_number": "HYW26",
+                "casting_id": "optimus-prime",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 6,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Autobots logo & silver stripes on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Heavy smoke tint",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "104/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): T50N, T51N, U01N, U02N, U05N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest?cb=20250120090211"
+                }
             },
             {
-                "Col #": "027/250",
-                "Year": "2026",
-                "Series": "Screen Time 1/10",
-                "Color": "Red",
-                "Tampo": "Autobots logo & silver stripes on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Heavy smoke tint",
-                "Interior Color": "Blue",
-                "Wheel Type": "RSW",
-                "Toy #": "JJJ00",
-                "Country": "Malaysia",
-                "Notes": "Identical to HYW26 Base code(s) : U37N, U41N, U42N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest/scale-to-width-down/75?cb=20250120090211"
+                "release_id": "2026-optimus-prime-red-jjj00",
+                "toy_number": "JJJ00",
+                "casting_id": "optimus-prime",
+                "year": 2026,
+                "series_id": "screen",
+                "series_index": 1,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Autobots logo & silver stripes on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Heavy smoke tint",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "027/250"
+                },
+                "country": "Malaysia",
+                "notes": "Identical to HYW26 Base code(s) : U37N, U41N, U42N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Optimus.jpg/revision/latest?cb=20250120090211"
+                }
             }
         ]
     }

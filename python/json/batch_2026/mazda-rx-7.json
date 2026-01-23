@@ -1,415 +1,639 @@
 [
     {
-        "metadata": {
-            "name": "Mazda RX-7",
-            "Debut series": "2012 New Models",
-            "image": "2012-MazdaRX7.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/2012-MazdaRX7.jpg/revision/latest/scale-to-width-down/268?cb=20120122185149"
-        },
+        "casting_id": "mazda-rx-7",
+        "name": "Mazda RX-7",
         "description": {
             "en-us": "Mazda RX-7 Debut series 2012 New Models Produced 2012 - Present Designer Jun Imai Number V5319",
             "pt-br": ""
         },
+        "designer": "Jun Imai",
+        "debut_year": 2012,
+        "manufacturer": "Mazda",
         "releases": [
             {
-                "Col #": "031/247",
-                "Year": "2012",
-                "Series": "2012 New Models 31/50",
-                "Color": "Black",
-                "Tampo": "Red & Gold stripes, White \"20\" inside black circle, White \"B. Ozaki\" on doors",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Beige",
-                "Wheel Type": "MC5",
-                "Toy #": "V5319",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): D49, D50",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/2012-MazdaRX7.jpg/revision/latest/scale-to-width-down/75?cb=20120122185149"
+                "release_id": "2012-mazda-rx-7-black-v5319",
+                "toy_number": "V5319",
+                "casting_id": "mazda-rx-7",
+                "year": 2012,
+                "series_id": "2012",
+                "series_index": 31,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red & Gold stripes, White \"20\" inside black circle, White \"B. Ozaki\" on doors",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Beige",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "031/247"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): D49, D50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/2012-MazdaRX7.jpg/revision/latest?cb=20120122185149"
+                }
             },
             {
-                "Col #": "031/247",
-                "Year": "2012",
-                "Series": "2012 New Models 31/50",
-                "Color": "Metalflake Blue",
-                "Tampo": "Orange & White stripes, White \"20\" inside blue circle, White \"B. Ozaki\" on doors",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "White MC5",
-                "Toy #": "V5600",
-                "Country": "Smoke tint",
-                "Notes": "Base code(s): E11, E13",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/2012-MazdaRX7-Blue.jpg/revision/latest/scale-to-width-down/75?cb=20120420222034"
+                "release_id": "2012-mazda-rx-7-metalflake-blue-v5600",
+                "toy_number": "V5600",
+                "casting_id": "mazda-rx-7",
+                "year": 2012,
+                "series_id": "2012",
+                "series_index": 31,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Orange & White stripes, White \"20\" inside blue circle, White \"B. Ozaki\" on doors",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "White MC5"
+                    },
+                    "col": "031/247"
+                },
+                "country": "Smoke tint",
+                "notes": "Base code(s): E11, E13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/2012-MazdaRX7-Blue.jpg/revision/latest?cb=20120420222034"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2012",
-                "Series": "Super Speeders 10/12",
-                "Color": "Metalflake White",
-                "Tampo": "Red & Gold stripes, Black \"20\" inside White circle, Black \"B. Ozaki\" on doors",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Grey",
-                "Wheel Type": "MC5",
-                "Toy #": "Y2611",
-                "Country": "Malaysia",
-                "Notes": "Kroger Exclusive Base code(s): E26",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/Mazda_RX-7_2012_Super_Speeders.JPG/revision/latest/scale-to-width-down/75?cb=20121004234707"
+                "release_id": "2012-mazda-rx-7-metalflake-white-y2611",
+                "toy_number": "Y2611",
+                "casting_id": "mazda-rx-7",
+                "year": 2012,
+                "series_id": "super",
+                "series_index": 10,
+                "specs": {
+                    "color": "Metalflake White",
+                    "tampo": "Red & Gold stripes, Black \"20\" inside White circle, Black \"B. Ozaki\" on doors",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "031/247"
+                },
+                "country": "Malaysia",
+                "notes": "Kroger Exclusive Base code(s): E26",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/Mazda_RX-7_2012_Super_Speeders.JPG/revision/latest?cb=20121004234707"
+                }
             },
             {
-                "Col #": "022/250",
-                "Year": "2013",
-                "Series": "HW City: Night Burnerz",
-                "Color": "Silver",
-                "Tampo": "Black & Blue Stripes on Sides and Fronts",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Blue",
-                "Wheel Type": "PR5",
-                "Toy #": "X1677",
-                "Country": "Malaysia",
-                "Notes": "Treasure Hunt Base code(s): F22, F24",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/07hot_wheels_rx7_treasure_hunt-640x426.jpg/revision/latest/scale-to-width-down/75?cb=20130710070825"
+                "release_id": "2013-mazda-rx-7-silver-x1677",
+                "toy_number": "X1677",
+                "casting_id": "mazda-rx-7",
+                "year": 2013,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Black & Blue Stripes on Sides and Fronts",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "022/250"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base code(s): F22, F24",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/07hot_wheels_rx7_treasure_hunt-640x426.jpg/revision/latest?cb=20130710070825"
+                }
             },
             {
-                "Col #": "021/250",
-                "Year": "2014",
-                "Series": "HW City: Night Burnerz",
-                "Color": "Metalflake Red",
-                "Tampo": "White & Yellow stripes on sides & hood",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Grey",
-                "Wheel Type": "MC5",
-                "Toy #": "BFC43",
-                "Country": "Malaysia",
-                "Notes": "With or without Rollcage Base code(s): F39, F40, F45, F47, F48, G14",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/2014_BFC43_Mazda_RX-7.jpg/revision/latest/scale-to-width-down/75?cb=20140404231205"
+                "release_id": "2014-mazda-rx-7-metalflake-red-bfc43",
+                "toy_number": "BFC43",
+                "casting_id": "mazda-rx-7",
+                "year": 2014,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "White & Yellow stripes on sides & hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "021/250"
+                },
+                "country": "Malaysia",
+                "notes": "With or without Rollcage Base code(s): F39, F40, F45, F47, F48, G14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/2014_BFC43_Mazda_RX-7.jpg/revision/latest?cb=20140404231205"
+                }
             },
             {
-                "Col #": "021/250",
-                "Year": "2014",
-                "Series": "HW City: Night Burnerz",
-                "Color": "Yellow",
-                "Tampo": "Red & Black stripes on sides & hood",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome Lip MC5",
-                "Toy #": "BFG39",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): G32, G36",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/65/2014-021-MazdaRX-7-Yellow.jpg/revision/latest/scale-to-width-down/75?cb=20141026212540"
+                "release_id": "2014-mazda-rx-7-yellow-bfg39",
+                "toy_number": "BFG39",
+                "casting_id": "mazda-rx-7",
+                "year": 2014,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Red & Black stripes on sides & hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome Lip MC5"
+                    },
+                    "col": "021/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): G32, G36",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/2014-021-MazdaRX-7-Yellow.jpg/revision/latest?cb=20141026212540"
+                }
             },
             {
-                "Col #": "193/250",
-                "Year": "2015",
-                "Series": "HW Workshop: Speed Team",
-                "Color": "White",
-                "Tampo": "Black, Blue, Red & Yellow tampos on sides & top w/ '2', 'Mazda' & HW Logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "White",
-                "Wheel Type": "Gold Lip MC5",
-                "Toy #": "CFH91",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): G49, H02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/66/Mazda_RX-7-2015_193.jpg/revision/latest/scale-to-width-down/75?cb=20150301085531"
+                "release_id": "2015-mazda-rx-7-white-cfh91",
+                "toy_number": "CFH91",
+                "casting_id": "mazda-rx-7",
+                "year": 2015,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black, Blue, Red & Yellow tampos on sides & top w/ '2', 'Mazda' & HW Logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Gold Lip MC5"
+                    },
+                    "col": "193/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): G49, H02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/Mazda_RX-7-2015_193.jpg/revision/latest?cb=20150301085531"
+                }
             },
             {
-                "Col #": "193/250",
-                "Year": "2015",
-                "Series": "HW Workshop: Speed Team",
-                "Color": "Turquoise",
-                "Tampo": "Black, White, Red & Yellow tampos on sides & top w/ '2', 'Mazda' & HW Logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Yellow Lip MC5",
-                "Toy #": "CFK06",
-                "Country": "Malaysia",
-                "Notes": "Kmart Exclusive Base code(s): H21",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/HW-2015-193-Mazda_RX-7-SpeedTeam.jpg/revision/latest/scale-to-width-down/75?cb=20150906191633"
+                "release_id": "2015-mazda-rx-7-turquoise-cfk06",
+                "toy_number": "CFK06",
+                "casting_id": "mazda-rx-7",
+                "year": 2015,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "Black, White, Red & Yellow tampos on sides & top w/ '2', 'Mazda' & HW Logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Yellow Lip MC5"
+                    },
+                    "col": "193/250"
+                },
+                "country": "Malaysia",
+                "notes": "Kmart Exclusive Base code(s): H21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/HW-2015-193-Mazda_RX-7-SpeedTeam.jpg/revision/latest?cb=20150906191633"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2016",
-                "Series": "Multipack Exclusive",
-                "Color": "Silver",
-                "Tampo": "Black & Yellow stripes on sides & hood",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Yellow Lip MC5",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): H46, J06, J17",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/90/MazdaRX7X6999.jpg/revision/latest/scale-to-width-down/75?cb=20160120033401"
+                "release_id": "2016-mazda-rx-7-silver-x6999",
+                "toy_number": "X6999",
+                "casting_id": "mazda-rx-7",
+                "year": 2016,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Black & Yellow stripes on sides & hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Yellow Lip MC5"
+                    },
+                    "col": "193/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): H46, J06, J17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/MazdaRX7X6999.jpg/revision/latest?cb=20160120033401"
+                }
             },
             {
-                "Col #": "337/365",
-                "Year": "2017",
-                "Series": "Then and Now 4/10",
-                "Color": "Metalflake Dark Blue",
-                "Tampo": "Light Blue & Aqua stripes on hood and door stripes, Mazda and HW Logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "DVB01",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): K22, K23, K24, K28",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/83/IMG_3661.jpg/revision/latest/scale-to-width-down/75?cb=20171016135046"
+                "release_id": "2017-mazda-rx-7-metalflake-dark-blue-dvb01",
+                "toy_number": "DVB01",
+                "casting_id": "mazda-rx-7",
+                "year": 2017,
+                "series_id": "then",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "Light Blue & Aqua stripes on hood and door stripes, Mazda and HW Logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "337/365"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): K22, K23, K24, K28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/IMG_3661.jpg/revision/latest?cb=20171016135046"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2017",
-                "Series": "Then and Now 4/10",
-                "Color": "Red",
-                "Tampo": "Yellow & Orange hood and door stripes, Mazda and HW Logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Copper Lip MC5",
-                "Toy #": "FBJ12",
-                "Country": "Malaysia",
-                "Notes": "Kmart Excl: Sep 16, 2017 Base code(s): K21",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/00/SA_RX-7_Kday.jpeg/revision/latest/scale-to-width-down/75?cb=20171217022402"
+                "release_id": "2017-mazda-rx-7-red-fbj12",
+                "toy_number": "FBJ12",
+                "casting_id": "mazda-rx-7",
+                "year": 2017,
+                "series_id": "then",
+                "series_index": 4,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow & Orange hood and door stripes, Mazda and HW Logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Copper Lip MC5"
+                    },
+                    "col": "337/365"
+                },
+                "country": "Malaysia",
+                "notes": "Kmart Excl: Sep 16, 2017 Base code(s): K21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/SA_RX-7_Kday.jpeg/revision/latest?cb=20171217022402"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2018",
-                "Series": "Mystery Models (Series 1) 10/12",
-                "Color": "Yellow",
-                "Tampo": "White, Green & Black tampos on sides and top w '10', 'Mazda' & HW logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Green",
-                "Wheel Type": "Dark Gray MC5",
-                "Toy #": "FKX30",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): K39",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/20181114_090800.jpg/revision/latest/scale-to-width-down/75?cb=20181113221218"
+                "release_id": "2018-mazda-rx-7-yellow-fkx30",
+                "toy_number": "FKX30",
+                "casting_id": "mazda-rx-7",
+                "year": 2018,
+                "series_id": "mystery",
+                "series_index": 10,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "White, Green & Black tampos on sides and top w '10', 'Mazda' & HW logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Green",
+                    "wheel_type": {
+                        "0": "Dark Gray MC5"
+                    },
+                    "col": "337/365"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): K39",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/20181114_090800.jpg/revision/latest?cb=20181113221218"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2018",
-                "Series": "Multipack Exclusive",
-                "Color": "Green",
-                "Tampo": "White & Orange hood and door stripes, Mazda and HW Logo",
-                "base_color": "Grey",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "White",
-                "Wheel Type": "White 10SP",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): K49, L03, L17",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/RX7_GREEN_20_PACK_EXCLU.png/revision/latest/scale-to-width-down/75?cb=20240220155640"
+                "release_id": "2018-mazda-rx-7-green-x6999",
+                "toy_number": "X6999",
+                "casting_id": "mazda-rx-7",
+                "year": 2018,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "White & Orange hood and door stripes, Mazda and HW Logo",
+                    "base_color": "Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "White 10SP"
+                    },
+                    "col": "337/365"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): K49, L03, L17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/RX7_GREEN_20_PACK_EXCLU.png/revision/latest?cb=20240220155640"
+                }
             },
             {
-                "Col #": "167/250",
-                "Year": "2019",
-                "Series": "HW Speed Graphics 2/10",
-                "Color": "Metalflake Silver",
-                "Tampo": "Black & Red Stripes, 'MAZDA', & Koni logo, on sides and hood",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold LW",
-                "Toy #": "FYD25",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): M02, M05, M07",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/SA22_RX7_Grey_19.jpg/revision/latest/scale-to-width-down/75?cb=20190322083830"
+                "release_id": "2019-mazda-rx-7-metalflake-silver-fyd25",
+                "toy_number": "FYD25",
+                "casting_id": "mazda-rx-7",
+                "year": 2019,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "Black & Red Stripes, 'MAZDA', & Koni logo, on sides and hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold LW"
+                    },
+                    "col": "167/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): M02, M05, M07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/SA22_RX7_Grey_19.jpg/revision/latest?cb=20190322083830"
+                }
             },
             {
-                "Col #": "167/250",
-                "Year": "2019",
-                "Series": "HW Speed Graphics 2/10",
-                "Color": "Metallic Green",
-                "Tampo": "Black, Red & Yellow Stripes, 'MAZDA', & Koni logo, on sides and hood",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Yellow LW",
-                "Toy #": "FYD81",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): M19, M20",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2019_Speed_Graphics_2nd_color.jpg/revision/latest/scale-to-width-down/75?cb=20191103194536"
+                "release_id": "2019-mazda-rx-7-metallic-green-fyd81",
+                "toy_number": "FYD81",
+                "casting_id": "mazda-rx-7",
+                "year": 2019,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Metallic Green",
+                    "tampo": "Black, Red & Yellow Stripes, 'MAZDA', & Koni logo, on sides and hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Yellow LW"
+                    },
+                    "col": "167/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): M19, M20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2019_Speed_Graphics_2nd_color.jpg/revision/latest?cb=20191103194536"
+                }
             },
             {
-                "Col #": "130/250",
-                "Year": "2020",
-                "Series": "Speed Blur 5/5",
-                "Color": "Orange",
-                "Tampo": "White Stripes, White and Blue Graphics",
-                "base_color": "Dark Silver",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "White AeroDisc",
-                "Toy #": "GHD32",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): M48, M49, N01",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/09/GHD32-01.jpg/revision/latest/scale-to-width-down/75?cb=20200611100313"
+                "release_id": "2020-mazda-rx-7-orange-ghd32",
+                "toy_number": "GHD32",
+                "casting_id": "mazda-rx-7",
+                "year": 2020,
+                "series_id": "speed",
+                "series_index": 5,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "White Stripes, White and Blue Graphics",
+                    "base_color": "Dark Silver",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "White AeroDisc"
+                    },
+                    "col": "130/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): M48, M49, N01",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/GHD32-01.jpg/revision/latest?cb=20200611100313"
+                }
             },
             {
-                "Col #": "130/250",
-                "Year": "2020",
-                "Series": "Speed Blur 5/5",
-                "Color": "Spectraflame Orange",
-                "Tampo": "White Stripes, White and Blue Graphics",
-                "base_color": "Silver",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black / White RRA",
-                "Toy #": "GHG28",
-                "Country": "Malaysia",
-                "Notes": "Super Treasure Hunt Base code(s): M43",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/15/2020_Hot_Wheels_Mazda_RX_STH.jpg/revision/latest/scale-to-width-down/75?cb=20191005204635"
+                "release_id": "2020-mazda-rx-7-spectraflame-orange-ghg28",
+                "toy_number": "GHG28",
+                "casting_id": "mazda-rx-7",
+                "year": 2020,
+                "series_id": "speed",
+                "series_index": 5,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "White Stripes, White and Blue Graphics",
+                    "base_color": "Silver",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black / White RRA"
+                    },
+                    "col": "130/250"
+                },
+                "country": "Malaysia",
+                "notes": "Super Treasure Hunt Base code(s): M43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/15/2020_Hot_Wheels_Mazda_RX_STH.jpg/revision/latest?cb=20191005204635"
+                }
             },
             {
-                "Col #": "097/250",
-                "Year": "2022",
-                "Series": "HW J-Imports 1/10",
-                "Color": "Metalflake Medium Blue",
-                "Tampo": "Seafoam and Teal accents, Mazda logo on front, GReddy, Sparco and Japan Nostalgia Car logos on side",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "MC5",
-                "Toy #": "HCV76",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): P47, P48, P50",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Mazda_rx-7_2022.jpg/revision/latest/scale-to-width-down/75?cb=20220504170449"
+                "release_id": "2022-mazda-rx-7-metalflake-medium-blue-hcv76",
+                "toy_number": "HCV76",
+                "casting_id": "mazda-rx-7",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Medium Blue",
+                    "tampo": "Seafoam and Teal accents, Mazda logo on front, GReddy, Sparco and Japan Nostalgia Car logos on side",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "097/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): P47, P48, P50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Mazda_rx-7_2022.jpg/revision/latest?cb=20220504170449"
+                }
             },
             {
-                "Col #": "097/250",
-                "Year": "2022",
-                "Series": "HW J-Imports 1/10",
-                "Color": "Metalflake Dark Red",
-                "Tampo": "Gold and Orange accents, Mazda logo on front, GReddy, Sparco and Japan Nostalgia Car logos on side",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Gold LW",
-                "Toy #": "HCX24",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R19, R20",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/HCX24.jpg/revision/latest/scale-to-width-down/75?cb=20220606125733"
+                "release_id": "2022-mazda-rx-7-metalflake-dark-red-hcx24",
+                "toy_number": "HCX24",
+                "casting_id": "mazda-rx-7",
+                "year": 2022,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "Gold and Orange accents, Mazda logo on front, GReddy, Sparco and Japan Nostalgia Car logos on side",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold LW"
+                    },
+                    "col": "097/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R19, R20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/HCX24.jpg/revision/latest?cb=20220606125733"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "Japanese Car Culture Themed Multipack",
-                "Color": "Metalflake Gold",
-                "Tampo": "Black and brown stripes on hood & sides, brown \"Mazda\" and Hot Wheels logo on sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome Lip PR5",
-                "Toy #": "HLK49",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R34, R37, R45, R49, R50",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/Mazda_RX7_-_2023_Japanese_Car_Culture_Themed_Multipack.jpg/revision/latest/scale-to-width-down/75?cb=20221230112718"
+                "release_id": "2023-mazda-rx-7-metalflake-gold-hlk49",
+                "toy_number": "HLK49",
+                "casting_id": "mazda-rx-7",
+                "year": 2023,
+                "series_id": "japanese",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "Black and brown stripes on hood & sides, brown \"Mazda\" and Hot Wheels logo on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "col": "097/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R34, R37, R45, R49, R50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/Mazda_RX7_-_2023_Japanese_Car_Culture_Themed_Multipack.jpg/revision/latest?cb=20221230112718"
+                }
             },
             {
-                "Col #": "080/250",
-                "Year": "2024",
-                "Series": "HW First Response 8/10",
-                "Color": "White",
-                "Tampo": "Black stripes down sides with \"Police\", \"ホットホイール\" on up sides, black stripe on front with \"Mazda\" logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Bronze RSW",
-                "Toy #": "HTB62",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S43, S45, S47, S48",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/HTB62-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20240125160447"
+                "release_id": "2024-mazda-rx-7-white-htb62",
+                "toy_number": "HTB62",
+                "casting_id": "mazda-rx-7",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 8,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black stripes down sides with \"Police\", \"ホットホイール\" on up sides, black stripe on front with \"Mazda\" logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Bronze RSW"
+                    },
+                    "col": "080/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S43, S45, S47, S48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/HTB62-LOOSE.jpg/revision/latest?cb=20240125160447"
+                }
             },
             {
-                "Col #": "080/250",
-                "Year": "2024",
-                "Series": "HW First Response 8/10",
-                "Color": "Metalflake Silver",
-                "Tampo": "Black stripes down sides with \"Police\", \"ホットホイール\" on up sides, black stripe on front with \"Mazda\" logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome Red RSW",
-                "Toy #": "HTF61",
-                "Country": "Malaysia",
-                "Notes": "Family Dollar / Dollar Tree Exclusive Base code(s): T02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Mazda_RX7_Dollar_Tree.jpg/revision/latest/scale-to-width-down/75?cb=20240929215055"
+                "release_id": "2024-mazda-rx-7-metalflake-silver-htf61",
+                "toy_number": "HTF61",
+                "casting_id": "mazda-rx-7",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 8,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "Black stripes down sides with \"Police\", \"ホットホイール\" on up sides, black stripe on front with \"Mazda\" logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome Red RSW"
+                    },
+                    "col": "080/250"
+                },
+                "country": "Malaysia",
+                "notes": "Family Dollar / Dollar Tree Exclusive Base code(s): T02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Mazda_RX7_Dollar_Tree.jpg/revision/latest?cb=20240929215055"
+                }
             },
             {
-                "Col #": "080/250",
-                "Year": "2024",
-                "Series": "HW First Response 8/10",
-                "Color": "Black",
-                "Tampo": "White stripes down sides with \"Police\", \"ホットホイール\" on up sides, white stripe on front with \"Mazda\" logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Silver",
-                "Wheel Type": "Bronze RSW",
-                "Toy #": "HTD54",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): T16, T17, T19, T20",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/RescueRX-7.jpg/revision/latest/scale-to-width-down/75?cb=20240606130310"
+                "release_id": "2024-mazda-rx-7-black-htd54",
+                "toy_number": "HTD54",
+                "casting_id": "mazda-rx-7",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 8,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "White stripes down sides with \"Police\", \"ホットホイール\" on up sides, white stripe on front with \"Mazda\" logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Silver",
+                    "wheel_type": {
+                        "0": "Bronze RSW"
+                    },
+                    "col": "080/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): T16, T17, T19, T20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/RescueRX-7.jpg/revision/latest?cb=20240606130310"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Neon Speeders 2/8",
-                "Color": "Neon Pink",
-                "Tampo": "Detailed headlights and taillights, Sparco logo and purple & light blue graphics, and white stripes on sides and hood, \"mazda\" on sides & rear",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Light smoke tint",
-                "Interior Color": "Purple",
-                "Wheel Type": "HBNS6",
-                "Toy #": "JCB01",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): U07I, U09I, U15I",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/JCB01.jpg/revision/latest/scale-to-width-down/75?cb=20250615081820"
+                "release_id": "2025-mazda-rx-7-neon-pink-jcb01",
+                "toy_number": "JCB01",
+                "casting_id": "mazda-rx-7",
+                "year": 2025,
+                "series_id": "neon",
+                "series_index": 2,
+                "specs": {
+                    "color": "Neon Pink",
+                    "tampo": "Detailed headlights and taillights, Sparco logo and purple & light blue graphics, and white stripes on sides and hood, \"mazda\" on sides & rear",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Light smoke tint",
+                    "interior_color": "Purple",
+                    "wheel_type": {
+                        "0": "HBNS6"
+                    },
+                    "col": "080/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): U07I, U09I, U15I",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/JCB01.jpg/revision/latest?cb=20250615081820"
+                }
             },
             {
-                "Col #": "061/250",
-                "Year": "2026",
-                "Series": "HW J-Imports 2/10",
-                "Color": "Metalflake Purple",
-                "Tampo": "Pink, orange, white, and black spring deco; '7' number plates and various logos",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome rim, Black RSW",
-                "Toy #": "JJJ29",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U40N, U43N, U45N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/1978MazdaRX-7.jpg/revision/latest/scale-to-width-down/75?cb=20251121095109"
+                "release_id": "2026-mazda-rx-7-metalflake-purple-jjj29",
+                "toy_number": "JJJ29",
+                "casting_id": "mazda-rx-7",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "Pink, orange, white, and black spring deco; '7' number plates and various logos",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome rim, Black RSW"
+                    },
+                    "col": "061/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U40N, U43N, U45N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/1978MazdaRX-7.jpg/revision/latest?cb=20251121095109"
+                }
             }
         ]
     }

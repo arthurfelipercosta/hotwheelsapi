@@ -1,31 +1,40 @@
 [
     {
-        "metadata": {
-            "name": "Ferrari 12Cilindri",
-            "Debut series": "Ferrari",
-            "image": "Ferrari12Cilindri.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Ferrari12Cilindri.jpg/revision/latest/scale-to-width-down/268?cb=20251128012749"
-        },
+        "casting_id": "ferrari-12cilindri",
+        "name": "Ferrari 12Cilindri",
         "description": {
             "en-us": "Ferrari 12Cilindri Debut series Ferrari Produced 2026 – Present Designer Fraser Campbell Number JJH41",
             "pt-br": ""
         },
+        "designer": "Fraser Campbell",
+        "debut_year": 2026,
+        "manufacturer": "Ferrari",
         "releases": [
             {
-                "Col #": "094/250",
-                "Year": "2026",
-                "Series": "Ferrari 4/5",
-                "Color": "Rosso Imola",
-                "Tampo": "Detailed headlights and trim, black ornamental stripe",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Heavy smoke tint",
-                "Interior Color": "Red",
-                "Wheel Type": "RA6",
-                "Toy #": "JJH41",
-                "Country": "Malaysia",
-                "Notes / Variations": "New Model Base code(s): U46N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Ferrari12Cilindri.jpg/revision/latest/scale-to-width-down/75?cb=20251128012749"
+                "release_id": "2026-ferrari-12cilindri-rosso-imola-jjh41",
+                "toy_number": "JJH41",
+                "casting_id": "ferrari-12cilindri",
+                "year": 2026,
+                "series_id": "ferrari",
+                "series_index": 4,
+                "specs": {
+                    "color": "Rosso Imola",
+                    "tampo": "Detailed headlights and trim, black ornamental stripe",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Heavy smoke tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "RA6"
+                    },
+                    "col": "094/250",
+                    "notes_variations": "New Model Base code(s): U46N"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Ferrari12Cilindri.jpg/revision/latest?cb=20251128012749"
+                }
             }
         ]
     }

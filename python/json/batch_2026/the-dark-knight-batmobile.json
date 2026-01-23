@@ -1,463 +1,716 @@
 [
     {
-        "metadata": {
-            "name": "The Dark Knight Batmobile",
-            "Debut series": "Batman Begins",
-            "image": "Tumblerlarge.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Tumblerlarge.jpg/revision/latest/scale-to-width-down/268?cb=20081007235137"
-        },
+        "casting_id": "the-dark-knight-batmobile",
+        "name": "The Dark Knight Batmobile",
         "description": {
             "en-us": "The Dark Knight Batmobile Debut series Batman Begins Produced 2006 - Present Designer Phil Riehlman Number H6294",
             "pt-br": ""
         },
+        "designer": "Phil Riehlman",
+        "debut_year": 2006,
+        "manufacturer": "The",
         "releases": [
             {
-                "Col #": "",
-                "Year": "2005",
-                "Series": "Batman Begins",
-                "Color": "Chrome",
-                "Tampo": "No Tampos",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Blue)",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Black 5SP / 2006 / Flat Black / No Tampos / Black / Plastic / Blue tint / Also came out in the 2008 V-Drop set / Tan / Brown camouflage / Tan / Plastic / H6295",
-                "Toy #": "H6294",
-                "Country": "China",
-                "Notes": "San DIego Comic-Con Exclusive 3,000 Produced",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/48/2005_SDCC_Batmobile.jpg/revision/latest/scale-to-width-down/75?cb=20230808115127"
+                "release_id": "2005-the-dark-knight-batmobile-chrome-h6294",
+                "toy_number": "H6294",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2005,
+                "series_id": "batman",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "No Tampos",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Black 5SP"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "San DIego Comic-Con Exclusive 3,000 Produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/2005_SDCC_Batmobile.jpg/revision/latest?cb=20230808115127",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Tumbler_2005.jpg/revision/latest?cb=20111113023328",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Bat_19.jpg/revision/latest?cb=20121123024738"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2006",
-                "Series": "Gotham City Chase",
-                "Color": "Metalflake Gray",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Black 5SP",
-                "Toy #": "H6300",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/1/17/IMG_2881.JPG/revision/latest/scale-to-width-down/75?cb=20190604050648"
+                "release_id": "2006-the-dark-knight-batmobile-metalflake-gray-h6300",
+                "toy_number": "H6300",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2006,
+                "series_id": "gotham",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gray",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Black 5SP"
+                    },
+                    "col": "Tan"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/IMG_2881.JPG/revision/latest?cb=20190604050648"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2007",
-                "Series": "Gotham City 5-Pack",
-                "Color": "Flat Black",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Black 5SP",
-                "Toy #": "K6169",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Tumbler_crop.jpg/revision/latest/scale-to-width-down/75?cb=20081007234927"
+                "release_id": "2007-the-dark-knight-batmobile-flat-black-k6169",
+                "toy_number": "K6169",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2007,
+                "series_id": "gotham",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Black",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Black 5SP"
+                    },
+                    "col": "Tan"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Tumbler_crop.jpg/revision/latest?cb=20081007234927"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2008",
-                "Series": "Action Duos",
-                "Color": "Flat Black",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome Yellow",
-                "Wheel Type": "Black 5SP",
-                "Toy #": "M7514",
-                "Country": "China",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2008-the-dark-knight-batmobile-flat-black-m7514",
+                "toy_number": "M7514",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2008,
+                "series_id": "action",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Black",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome Yellow",
+                    "wheel_type": {
+                        "0": "Black 5SP"
+                    },
+                    "col": "Tan"
+                },
+                "country": "China",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2009",
-                "Series": "Color Shifters",
-                "Color": "Flat Black",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "",
-                "Interior Color": "",
-                "Wheel Type": "Black 5SP",
-                "Toy #": "R9865",
-                "Country": "",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/Darknighttumbler.jpg/revision/latest/scale-to-width-down/75?cb=20180326210030"
+                "release_id": "2009-the-dark-knight-batmobile-flat-black-r9865",
+                "toy_number": "R9865",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2009,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Black",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black 5SP"
+                    },
+                    "col": "Tan"
+                },
+                "country": "China",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/Darknighttumbler.jpg/revision/latest?cb=20180326210030"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2011",
-                "Series": "Batman 5-Pack",
-                "Color": "Flat Black",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Yellow tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome rim OR6SP & OH5",
-                "Toy #": "W4240",
-                "Country": "Thailand",
-                "Notes": "Appears in the Starter Set: Batman Edition as well. Base code(s): E11",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2011-Tumbler.jpg/revision/latest/scale-to-width-down/75?cb=20120312082205"
+                "release_id": "2011-the-dark-knight-batmobile-flat-black-w4240",
+                "toy_number": "W4240",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2011,
+                "series_id": "batman",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Black",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome rim OR6SP & OH5"
+                    },
+                    "col": "Tan"
+                },
+                "country": "Thailand",
+                "notes": "Appears in the Starter Set: Batman Edition as well. Base code(s): E11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2011-Tumbler.jpg/revision/latest?cb=20120312082205"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2013",
-                "Series": "Batman The Dark Knight 3-Pack",
-                "Color": "Flat Black",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "OR5SP & OH5",
-                "Toy #": "X7250",
-                "Country": "Thailand",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2013-the-dark-knight-batmobile-flat-black-x7250",
+                "toy_number": "X7250",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2013,
+                "series_id": "batman",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Black",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "OR5SP & OH5"
+                    },
+                    "col": "Tan"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "063/250",
-                "Year": "2014",
-                "Series": "HW City: Batman 75th Anniversary",
-                "Color": "Tan",
-                "Tampo": "Brown camouflage",
-                "base_color": "Matte Black",
-                "base_type": "Metal",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Black OR6SP & MC5",
-                "Toy #": "BFC75",
-                "Country": "Malaysia",
-                "Notes": "New in Mainline Base code(s): E50, G01, G02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Hot_wheels_2014_-_batman_tumbler_-_detail.jpg/revision/latest/scale-to-width-down/75?cb=20140123114119"
+                "release_id": "2014-the-dark-knight-batmobile-tan-bfc75",
+                "toy_number": "BFC75",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2014,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Brown camouflage",
+                    "base_color": "Matte Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Black OR6SP & MC5"
+                    },
+                    "col": "063/250"
+                },
+                "country": "Malaysia",
+                "notes": "New in Mainline Base code(s): E50, G01, G02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Hot_wheels_2014_-_batman_tumbler_-_detail.jpg/revision/latest?cb=20140123114119"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2015",
-                "Series": "Hot Wheels Entertainment: The Dark Knight Trilogy",
-                "Color": "Tan",
-                "Tampo": "Brown camouflage, Orange exhaust tip",
-                "base_color": "Matte Beige",
-                "base_type": "Metal",
-                "Window Color": "Painted Black",
-                "Interior Color": "Matte Beige",
-                "Wheel Type": "Chrome Black ORDDRR & DDRR",
-                "Toy #": "CFR16",
-                "Country": "Malaysia",
-                "Notes": "Named Tumbler Camouflage Version Base code(s): H35",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/74/2015_Batmobile_Tumbler.jpg/revision/latest/scale-to-width-down/75?cb=20260101030700"
+                "release_id": "2015-the-dark-knight-batmobile-tan-cfr16",
+                "toy_number": "CFR16",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2015,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Brown camouflage, Orange exhaust tip",
+                    "base_color": "Matte Beige",
+                    "base_type": "Metal",
+                    "window_color": "Painted Black",
+                    "interior_color": "Matte Beige",
+                    "wheel_type": {
+                        "0": "Chrome Black ORDDRR & DDRR"
+                    },
+                    "col": "063/250"
+                },
+                "country": "Malaysia",
+                "notes": "Named Tumbler Camouflage Version Base code(s): H35",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/2015_Batmobile_Tumbler.jpg/revision/latest?cb=20260101030700"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2015",
-                "Series": "Batman 3/6",
-                "Color": "Metalflake Black",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome rim OR6SP & MC5",
-                "Toy #": "DFK73",
-                "Country": "Thailand",
-                "Notes": "Named Batman Begins Batmobile Base code(s): J46, K04",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Tumbler2016.JPG/revision/latest/scale-to-width-down/75?cb=20170613071931"
+                "release_id": "2015-the-dark-knight-batmobile-metalflake-black-dfk73",
+                "toy_number": "DFK73",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2015,
+                "series_id": "batman",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake Black",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome rim OR6SP & MC5"
+                    },
+                    "col": "063/250"
+                },
+                "country": "Thailand",
+                "notes": "Named Batman Begins Batmobile Base code(s): J46, K04",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Tumbler2016.JPG/revision/latest?cb=20170613071931"
+                }
             },
             {
-                "Col #": "228/250",
-                "Year": "2016",
-                "Series": "Batman 3/5",
-                "Color": "Dark Blue",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Dark Gray rim OR6SP & MC5",
-                "Toy #": "DHX78",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): J16",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/62/BatmobileTumblerDHT17.jpg/revision/latest/scale-to-width-down/75?cb=20160608023848"
+                "release_id": "2016-the-dark-knight-batmobile-dark-blue-dhx78",
+                "toy_number": "DHX78",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2016,
+                "series_id": "batman",
+                "series_index": 3,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Dark Gray rim OR6SP & MC5"
+                    },
+                    "col": "228/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): J16",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/BatmobileTumblerDHT17.jpg/revision/latest?cb=20160608023848"
+                }
             },
             {
-                "Col #": "228/250",
-                "Year": "2016",
-                "Series": "Batman 3/5",
-                "Color": "Black",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Red tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome Red rim OR6SP & MC5",
-                "Toy #": "DHT17",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): H49, H50",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/90/The_Dark_Knight_Batmobile_%E2%80%93_Batman_3_-_16_Cx.jpg/revision/latest/scale-to-width-down/75?cb=20160312030155"
+                "release_id": "2016-the-dark-knight-batmobile-black-dht17",
+                "toy_number": "DHT17",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2016,
+                "series_id": "batman",
+                "series_index": 3,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Red tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome Red rim OR6SP & MC5"
+                    },
+                    "col": "228/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): H49, H50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/The_Dark_Knight_Batmobile_%E2%80%93_Batman_3_-_16_Cx.jpg/revision/latest?cb=20160312030155"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2017",
-                "Series": "Mystery Models 3/12",
-                "Color": "Pearl Gold",
-                "Tampo": "No Tampos",
-                "base_color": "Pearl Gold",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Pearl Gold",
-                "Wheel Type": "Gold Chrome rim OH5",
-                "Toy #": "DVY82",
-                "Country": "Malaysia",
-                "Notes": "Chase Named The Dark Knight Tumbler Base code(s): J40",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/DarkKnightTumblerY8127.jpg/revision/latest/scale-to-width-down/75?cb=20170204131302"
+                "release_id": "2017-the-dark-knight-batmobile-pearl-gold-dvy82",
+                "toy_number": "DVY82",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2017,
+                "series_id": "mystery",
+                "series_index": 3,
+                "specs": {
+                    "color": "Pearl Gold",
+                    "tampo": "No Tampos",
+                    "base_color": "Pearl Gold",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Pearl Gold",
+                    "wheel_type": {
+                        "0": "Gold Chrome rim OH5"
+                    },
+                    "col": "228/250"
+                },
+                "country": "Malaysia",
+                "notes": "Chase Named The Dark Knight Tumbler Base code(s): J40",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/DarkKnightTumblerY8127.jpg/revision/latest?cb=20170204131302"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2018",
-                "Series": "Batman 4/6",
-                "Color": "Tan",
-                "Tampo": "Brown camouflage",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Yellow tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Black OR6SP & MC5",
-                "Toy #": "FKF40",
-                "Country": "Thailand",
-                "Notes": "Named Batman Tumbler Base code(s): L04, L07",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/MATMAN_TUMBLER_FKF40.jpg/revision/latest/scale-to-width-down/75?cb=20180604180433"
+                "release_id": "2018-the-dark-knight-batmobile-tan-fkf40",
+                "toy_number": "FKF40",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2018,
+                "series_id": "batman",
+                "series_index": 4,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Brown camouflage",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Black OR6SP & MC5"
+                    },
+                    "col": "228/250"
+                },
+                "country": "Thailand",
+                "notes": "Named Batman Tumbler Base code(s): L04, L07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/MATMAN_TUMBLER_FKF40.jpg/revision/latest?cb=20180604180433"
+                }
             },
             {
-                "Col #": "153/250",
-                "Year": "2019",
-                "Series": "Batman 4/5",
-                "Color": "Blue",
-                "Tampo": "No Tampos",
-                "base_color": "Flat Black",
-                "base_type": "Metal",
-                "Window Color": "Clear",
-                "Interior Color": "Gray",
-                "Wheel Type": "Gray rim OR6SP & MC5",
-                "Toy #": "FYB91",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): M02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/94/The_Dark_Knight_Batmobile_FYB91.png/revision/latest/scale-to-width-down/75?cb=20190224205122"
+                "release_id": "2019-the-dark-knight-batmobile-blue-fyb91",
+                "toy_number": "FYB91",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2019,
+                "series_id": "batman",
+                "series_index": 4,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "No Tampos",
+                    "base_color": "Flat Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Gray rim OR6SP & MC5"
+                    },
+                    "col": "153/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): M02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/The_Dark_Knight_Batmobile_FYB91.png/revision/latest?cb=20190224205122"
+                }
             },
             {
-                "Col #": "153/250",
-                "Year": "2019",
-                "Series": "Batman 4/5",
-                "Color": "Pearl White",
-                "Tampo": "No Tampos",
-                "base_color": "Gray",
-                "base_type": "Metal",
-                "Window Color": "Purple tint",
-                "Interior Color": "Gray",
-                "Wheel Type": "Gray rim BLOR & MC5",
-                "Toy #": "FYF62",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): M19, M21",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/60/DARK_KNIGHT_FYF62.jpg/revision/latest/scale-to-width-down/75?cb=20190823210310"
+                "release_id": "2019-the-dark-knight-batmobile-pearl-white-fyf62",
+                "toy_number": "FYF62",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2019,
+                "series_id": "batman",
+                "series_index": 4,
+                "specs": {
+                    "color": "Pearl White",
+                    "tampo": "No Tampos",
+                    "base_color": "Gray",
+                    "base_type": "Metal",
+                    "window_color": "Purple tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Gray rim BLOR & MC5"
+                    },
+                    "col": "153/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): M19, M21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/DARK_KNIGHT_FYF62.jpg/revision/latest?cb=20190823210310"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2019",
-                "Series": "Hot Wheels id: Batman 03/05",
-                "Color": "Spectraflame Dark Olive Green",
-                "Tampo": "Black wash camouflage, orange highlights",
-                "base_color": "Clear",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Orange",
-                "Wheel Type": "Chrome rim, Silver ID",
-                "Toy #": "FXB26",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): M28",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/FXB26_The_Dark_Knight_Batmobile.jpg/revision/latest/scale-to-width-down/75?cb=20200114023450"
+                "release_id": "2019-the-dark-knight-batmobile-spectraflame-dark-olive-green-fxb26",
+                "toy_number": "FXB26",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2019,
+                "series_id": "hot",
+                "series_index": 3,
+                "specs": {
+                    "color": "Spectraflame Dark Olive Green",
+                    "tampo": "Black wash camouflage, orange highlights",
+                    "base_color": "Clear",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "Chrome rim, Silver ID"
+                    },
+                    "col": "153/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): M28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/FXB26_The_Dark_Knight_Batmobile.jpg/revision/latest?cb=20200114023450"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2021",
-                "Series": "Batman 5-Pack",
-                "Color": "Matte Dark Blue",
-                "Tampo": "No Tampos",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome Blue rim BLOR & MC5",
-                "Toy #": "GTN43",
-                "Country": "Indonesia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/Batmobile_5-Pack_Batman_2021.jpg/revision/latest/scale-to-width-down/75?cb=20220812161341"
+                "release_id": "2021-the-dark-knight-batmobile-matte-dark-blue-gtn43",
+                "toy_number": "GTN43",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2021,
+                "series_id": "batman",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Dark Blue",
+                    "tampo": "No Tampos",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome Blue rim BLOR & MC5"
+                    },
+                    "col": "153/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/Batmobile_5-Pack_Batman_2021.jpg/revision/latest?cb=20220812161341"
+                }
             },
             {
-                "Col #": "007/250",
-                "Year": "2022",
-                "Series": "Batman 1/5",
-                "Color": "Metalflake Dark Blue",
-                "Tampo": "Gray splatter tampos with Batman logo on roof and sides; Silver Treasure Hunt flame logo on roof and additional accents on tail area",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Dark Gray rim DD8",
-                "Toy #": "HCX94",
-                "Country": "Malaysia",
-                "Notes": "Treasure Hunt Base code(s): P34, P35",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/The_Dark_Knight_Batmobile_-_2022_TH.jpg/revision/latest/scale-to-width-down/75?cb=20220212021220"
+                "release_id": "2022-the-dark-knight-batmobile-metalflake-dark-blue-hcx94",
+                "toy_number": "HCX94",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2022,
+                "series_id": "batman",
+                "series_index": 1,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "Gray splatter tampos with Batman logo on roof and sides; Silver Treasure Hunt flame logo on roof and additional accents on tail area",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Dark Gray rim DD8"
+                    },
+                    "col": "007/250"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base code(s): P34, P35",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/The_Dark_Knight_Batmobile_-_2022_TH.jpg/revision/latest?cb=20220212021220"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2022",
-                "Series": "Batman 3/5",
-                "Color": "Tan",
-                "Tampo": "Brown camouflage",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Black OR6SP & MC5",
-                "Toy #": "HDK68",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): P39",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/73/HDK68_Carded.jpg/revision/latest/scale-to-width-down/75?cb=20220227191618"
+                "release_id": "2022-the-dark-knight-batmobile-tan-hdk68",
+                "toy_number": "HDK68",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2022,
+                "series_id": "batman",
+                "series_index": 3,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Brown camouflage",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Black OR6SP & MC5"
+                    },
+                    "col": "007/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): P39",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/HDK68_Carded.jpg/revision/latest?cb=20220227191618"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "Batman 2/5",
-                "Color": "Gray",
-                "Tampo": "Light Blue camouflage",
-                "base_color": "Gray",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black OR6SP & MC5",
-                "Toy #": "HLK45",
-                "Country": "Malaysia",
-                "Notes": "Walmart Exclusive Base code(s): R36",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HLK45.jpg/revision/latest/scale-to-width-down/75?cb=20250622085923"
+                "release_id": "2023-the-dark-knight-batmobile-gray-hlk45",
+                "toy_number": "HLK45",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2023,
+                "series_id": "batman",
+                "series_index": 2,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "Light Blue camouflage",
+                    "base_color": "Gray",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black OR6SP & MC5"
+                    },
+                    "col": "007/250"
+                },
+                "country": "Malaysia",
+                "notes": "Walmart Exclusive Base code(s): R36",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HLK45.jpg/revision/latest?cb=20250622085923"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "Batman 12/20",
-                "Color": "Metalflake Dark Blue",
-                "Tampo": "Silver camouflage, Treasure Hunt flame logo on roof",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "Dark Gray rim DD8",
-                "Toy #": "HLK66",
-                "Country": "Malaysia",
-                "Notes": "Identical to HCX94 Base code(s): S03",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/BatSER_mix3_12.jpg/revision/latest/scale-to-width-down/75?cb=20230723170303"
+                "release_id": "2023-the-dark-knight-batmobile-metalflake-dark-blue-hlk66",
+                "toy_number": "HLK66",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2023,
+                "series_id": "batman",
+                "series_index": 12,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "Silver camouflage, Treasure Hunt flame logo on roof",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Dark Gray rim DD8"
+                    },
+                    "col": "007/250"
+                },
+                "country": "Malaysia",
+                "notes": "Identical to HCX94 Base code(s): S03",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/BatSER_mix3_12.jpg/revision/latest?cb=20230723170303"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Pop Culture: The Dark Knight Trilogy",
-                "Color": "Tan",
-                "Tampo": "Brown camouflage",
-                "base_color": "Desert sand",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Black ORDDRR & DDRR",
-                "Toy #": "HXD97",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): T29",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Premium_Pop_Culture_2024_Mix_5_The_Dark_Knight_Batmobile_Tan_Indonesia_HXD97.jpg/revision/latest/scale-to-width-down/75?cb=20241016202951"
+                "release_id": "2024-the-dark-knight-batmobile-tan-hxd97",
+                "toy_number": "HXD97",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2024,
+                "series_id": "pop",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Brown camouflage",
+                    "base_color": "Desert sand",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Black ORDDRR & DDRR"
+                    },
+                    "col": "007/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): T29",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Premium_Pop_Culture_2024_Mix_5_The_Dark_Knight_Batmobile_Tan_Indonesia_HXD97.jpg/revision/latest?cb=20241016202951"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "85th Anniversary Batmobile Collection",
-                "Color": "Black",
-                "Tampo": "",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome Black ORDDRR & DDRR",
-                "Toy #": "JBX17",
-                "Country": "Indonesia",
-                "Notes": "San Diego Comic-Con Exclusive Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/SDCC_2024_85th_Anniversary_Batmobile_Collection_Indonesia_JBX17_Display.jpg/revision/latest/scale-to-width-down/75?cb=20241123141130"
+                "release_id": "2024-the-dark-knight-batmobile-black-jbx17",
+                "toy_number": "JBX17",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2024,
+                "series_id": "85th",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome Black ORDDRR & DDRR"
+                    },
+                    "col": "007/250"
+                },
+                "country": "Indonesia",
+                "notes": "San Diego Comic-Con Exclusive Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/SDCC_2024_85th_Anniversary_Batmobile_Collection_Indonesia_JBX17_Display.jpg/revision/latest?cb=20241123141130"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Batmobile Collection 5-Pack",
-                "Color": "Desert sand",
-                "Tampo": "Camouflage pattern",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Clear",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Gray ORST & S5",
-                "Toy #": "JBG93",
-                "Country": "Indonesia",
-                "Notes": "Base code(s): T16, T17",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2024-the-dark-knight-batmobile-desert-sand-jbg93",
+                "toy_number": "JBG93",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2024,
+                "series_id": "batmobile",
+                "series_index": null,
+                "specs": {
+                    "color": "Desert sand",
+                    "tampo": "Camouflage pattern",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Gray ORST & S5"
+                    },
+                    "col": "007/250"
+                },
+                "country": "Indonesia",
+                "notes": "Base code(s): T16, T17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2024",
-                "Series": "Batman 17/20",
-                "Color": "Black",
-                "Tampo": "Light Brown camouflage pattern on sides & top, red exhaust",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "",
-                "Interior Color": "",
-                "Wheel Type": "BC5",
-                "Toy #": "HRW32",
-                "Country": "Thailand",
-                "Notes": "Base code(s): T14, T19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/Batman_2024_Mix_4_The_Dark_Knight_Batmobile_Black_Thailand_HRW32.jpg/revision/latest/scale-to-width-down/75?cb=20240804204326"
+                "release_id": "2024-the-dark-knight-batmobile-black-hrw32",
+                "toy_number": "HRW32",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2024,
+                "series_id": "batman",
+                "series_index": 17,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Light Brown camouflage pattern on sides & top, red exhaust",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BC5"
+                    },
+                    "col": "007/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): T14, T19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/Batman_2024_Mix_4_The_Dark_Knight_Batmobile_Black_Thailand_HRW32.jpg/revision/latest?cb=20240804204326"
+                }
             },
             {
-                "Col #": "051/250",
-                "Year": "2026",
-                "Series": "Batman 2/5",
-                "Color": "Tan",
-                "Tampo": "Brown camouflage pattern on sides and top, Chrome details",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Grey",
-                "Wheel Type": "Grey rim, Black 5SP",
-                "Toy #": "JJJ21",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U41N, U44N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/TheTumbler.jpg/revision/latest/scale-to-width-down/75?cb=20251121094824"
+                "release_id": "2026-the-dark-knight-batmobile-tan-jjj21",
+                "toy_number": "JJJ21",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2026,
+                "series_id": "batman",
+                "series_index": 2,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Brown camouflage pattern on sides and top, Chrome details",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Grey rim, Black 5SP"
+                    },
+                    "col": "051/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U41N, U44N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/TheTumbler.jpg/revision/latest?cb=20251121094824"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2026",
-                "Series": "Batman 2/15",
-                "Color": "Ivory",
-                "Tampo": "",
-                "base_color": "",
-                "base_type": "Metal",
-                "Window Color": "",
-                "Interior Color": "",
-                "Wheel Type": "P4",
-                "Toy #": "JKW93",
-                "Country": "Thailand",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-the-dark-knight-batmobile-ivory-jkw93",
+                "toy_number": "JKW93",
+                "casting_id": "the-dark-knight-batmobile",
+                "year": 2026,
+                "series_id": "batman",
+                "series_index": 2,
+                "specs": {
+                    "color": "Ivory",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "P4"
+                    },
+                    "col": "051/250"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

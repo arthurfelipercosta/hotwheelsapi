@@ -1,319 +1,490 @@
 [
     {
-        "metadata": {
-            "name": "'59 Chevy Bel Air",
-            "Debut series": "Pride Rides",
-            "image": "2003PrideRidesBelAirmetallic.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2003PrideRidesBelAirmetallic.jpg/revision/latest/scale-to-width-down/268?cb=20230131204947"
-        },
+        "casting_id": "59-chevy-bel-air",
+        "name": "'59 Chevy Bel Air",
         "description": {
             "en-us": "'59 Chevy Bel Air Debut series Pride Rides Produced 2003 - 2013 2022 – Present (retool) Designer Larry Wood Number 57170",
             "pt-br": ""
         },
+        "designer": "Larry Wood",
+        "debut_year": 2003,
+        "manufacturer": "'59",
         "releases": [
             {
-                "Col #": "179/220",
-                "Year": "2003",
-                "Series": "Pride Rides 7/10",
-                "Color": "Metalflake Red",
-                "Tampo": "Redphin logo on sides, crown on left rear fender; Foose Design, Baer, Firestone IntelliRide Systems, Magnaflow Performance Exhaust logos on trunk",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "LW",
-                "Toy #": "57170",
-                "Country": "Malaysia",
-                "Notes": "Released on Roll Patrol card in error",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2003PrideRidesBelAirmetallic.jpg/revision/latest/scale-to-width-down/75?cb=20230131204947"
+                "release_id": "2003-59-chevy-bel-air-metalflake-red-57170",
+                "toy_number": "57170",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2003,
+                "series_id": "pride",
+                "series_index": 7,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "Redphin logo on sides, crown on left rear fender; Foose Design, Baer, Firestone IntelliRide Systems, Magnaflow Performance Exhaust logos on trunk",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "LW"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Malaysia",
+                "notes": "Released on Roll Patrol card in error",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2003PrideRidesBelAirmetallic.jpg/revision/latest?cb=20230131204947"
+                }
             },
             {
-                "Col #": "179/220",
-                "Year": "2003",
-                "Series": "Pride Rides 7/10",
-                "Color": "Red",
-                "Tampo": "Redphin logo on sides, crown on left rear fender; Foose Design, Baer, Firestone IntelliRide Systems, Magnaflow Performance Exhaust logos on trunk",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "LW",
-                "Toy #": "57170",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2003-59-chevy-bel-air-red-57170",
+                "toy_number": "57170",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2003,
+                "series_id": "pride",
+                "series_index": 7,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Redphin logo on sides, crown on left rear fender; Foose Design, Baer, Firestone IntelliRide Systems, Magnaflow Performance Exhaust logos on trunk",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "LW"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "179/220",
-                "Year": "2003",
-                "Series": "Pride Rides 7/10",
-                "Color": "Red",
-                "Tampo": "Redphin logo on sides, crown on left rear fender; Foose Design, Baer, Firestone IntelliRide Systems, Magnaflow Performance Exhaust logos on trunk",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "57170",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/06/2003PrideRidesBelAirenamel.jpg/revision/latest/scale-to-width-down/75?cb=20230131204935"
+                "release_id": "2003-59-chevy-bel-air-red-57170",
+                "toy_number": "57170",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2003,
+                "series_id": "pride",
+                "series_index": 7,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Redphin logo on sides, crown on left rear fender; Foose Design, Baer, Firestone IntelliRide Systems, Magnaflow Performance Exhaust logos on trunk",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/06/2003PrideRidesBelAirenamel.jpg/revision/latest?cb=20230131204935"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2003",
-                "Series": "Mega Metro City",
-                "Color": "Metalflake Copper",
-                "Tampo": "Black, Gold, White & Red horse tampo on sides",
-                "base_color": "Chrome Gold",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "White",
-                "Wheel Type": "Chrome Gold 5SP",
-                "Toy #": "C1036",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2003-59-chevy-bel-air-metalflake-copper-c1036",
+                "toy_number": "C1036",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2003,
+                "series_id": "mega",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Copper",
+                    "tampo": "Black, Gold, White & Red horse tampo on sides",
+                    "base_color": "Chrome Gold",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Chrome Gold 5SP"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2004",
-                "Series": "Whips: West Cost Customs (Old School)",
-                "Color": "Metallic Green",
-                "Tampo": "Silver Trim, Red Taillights, 'West Coast Customs' Logo on Rear Window",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "White",
-                "Wheel Type": "6SP BLING",
-                "Toy #": "C2673",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/ImpalaRGreen59.jpg/revision/latest/scale-to-width-down/75?cb=20081231055842"
+                "release_id": "2004-59-chevy-bel-air-metallic-green-c2673",
+                "toy_number": "C2673",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2004,
+                "series_id": "whips",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Green",
+                    "tampo": "Silver Trim, Red Taillights, 'West Coast Customs' Logo on Rear Window",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "6SP BLING"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/ImpalaRGreen59.jpg/revision/latest?cb=20081231055842"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2004",
-                "Series": "Whips: West Cost Customs (Old School)",
-                "Color": "Black",
-                "Tampo": "Purple & Maroon Tribal Scallops on side, 'West Coast Customs' Logo on Rear Window",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "White",
-                "Wheel Type": "TDBLING",
-                "Toy #": "G7756",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2004-59-chevy-bel-air-black-g7756",
+                "toy_number": "G7756",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2004,
+                "series_id": "whips",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Purple & Maroon Tribal Scallops on side, 'West Coast Customs' Logo on Rear Window",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "TDBLING"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2004",
-                "Series": "Shaman King : Yoh & Amidamaru Entertainment 2-Pack",
-                "Color": "Silver",
-                "Tampo": "Black, White, Purple, & Red Amidamaru tampos on hood and sides, \"Shaman King\" on sides,",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Blue",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome Blue LW",
-                "Toy #": "C3224",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2004-59-chevy-bel-air-silver-c3224",
+                "toy_number": "C3224",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2004,
+                "series_id": "shaman",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Black, White, Purple, & Red Amidamaru tampos on hood and sides, \"Shaman King\" on sides,",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Blue",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome Blue LW"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2005",
-                "Series": "Real Riders",
-                "Color": "Red",
-                "Tampo": "Silver trim on tail fin, window frames and hood centerline. Silver and white stripe on side",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "White",
-                "Wheel Type": "RR5SP",
-                "Toy #": "H9211",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Real_Riders_%2759_Chevy_Bel_Air_2005.jpg/revision/latest/scale-to-width-down/75?cb=20220228155941"
+                "release_id": "2005-59-chevy-bel-air-red-h9211",
+                "toy_number": "H9211",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2005,
+                "series_id": "real",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Silver trim on tail fin, window frames and hood centerline. Silver and white stripe on side",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Real_Riders_%2759_Chevy_Bel_Air_2005.jpg/revision/latest?cb=20220228155941"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2009",
-                "Series": "Cop Rods 21/26",
-                "Color": "White",
-                "Tampo": "Red, Blue, & Black stripes, Appleton Police tampos",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black, White Rim 5SP",
-                "Toy #": "N9013",
-                "Country": "Thailand",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/1959_Chevy_Bel-Air_%28Cop_Rods%29.JPG/revision/latest/scale-to-width-down/75?cb=20171219162613"
+                "release_id": "2009-59-chevy-bel-air-white-n9013",
+                "toy_number": "N9013",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2009,
+                "series_id": "cop",
+                "series_index": 21,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Red, Blue, & Black stripes, Appleton Police tampos",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black, White Rim 5SP"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/1959_Chevy_Bel-Air_%28Cop_Rods%29.JPG/revision/latest?cb=20171219162613"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2009",
-                "Series": "Fire Rods 3/26",
-                "Color": "Metalflake Red Orange",
-                "Tampo": "Black, Gold, & White flames, \"Eugene Fire & EMS\" on sides & roof, double White stripes on hood, roof with Fire badge",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "White",
-                "Wheel Type": "Gold 10SP",
-                "Toy #": "N9021",
-                "Country": "Thailand",
-                "Notes": "Toys R Us Exclusive Base code(s): A43",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/83/N9021_c_09_001.jpg/revision/latest/scale-to-width-down/75?cb=20090123030111"
+                "release_id": "2009-59-chevy-bel-air-metalflake-red-orange-n9021",
+                "toy_number": "N9021",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2009,
+                "series_id": "fire",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake Red Orange",
+                    "tampo": "Black, Gold, & White flames, \"Eugene Fire & EMS\" on sides & roof, double White stripes on hood, roof with Fire badge",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Gold 10SP"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Thailand",
+                "notes": "Toys R Us Exclusive Base code(s): A43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/N9021_c_09_001.jpg/revision/latest?cb=20090123030111"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2009",
-                "Series": "Military Rods 12/26",
-                "Color": "Satin Olive Green & Satin Black",
-                "Tampo": "Silver, Olive & Light Green \"09\" \"Military Police\" with Flames",
-                "base_color": "Olive Green",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Smoke)",
-                "Interior Color": "Gray",
-                "Wheel Type": "Y5",
-                "Toy #": "N9811",
-                "Country": "Thailand",
-                "Notes": "Base code(s): B12",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/59ChevyBelAir_MilitaryRods.JPG/revision/latest/scale-to-width-down/75?cb=20100630045521"
+                "release_id": "2009-59-chevy-bel-air-satin-olive-green-satin-black-n9811",
+                "toy_number": "N9811",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2009,
+                "series_id": "military",
+                "series_index": 12,
+                "specs": {
+                    "color": "Satin Olive Green & Satin Black",
+                    "tampo": "Silver, Olive & Light Green \"09\" \"Military Police\" with Flames",
+                    "base_color": "Olive Green",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "Y5"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): B12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/59ChevyBelAir_MilitaryRods.JPG/revision/latest?cb=20100630045521"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2012",
-                "Series": "Hot Wheels Racing: Stockcar",
-                "Color": "Pearl White",
-                "Tampo": "Red Roof, \"Firestone\" \"259\"",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Clear",
-                "Interior Color": "Red",
-                "Wheel Type": "Chrome Red Firestone DDRR",
-                "Toy #": "W8329",
-                "Country": "Thailand",
-                "Notes": "Named '59 Chevy Impala Base code(s): E20",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/HWR-Stockcar-57ChevyImpala-White.jpg/revision/latest/scale-to-width-down/75?cb=20120901205825"
+                "release_id": "2012-59-chevy-bel-air-pearl-white-w8329",
+                "toy_number": "W8329",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2012,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl White",
+                    "tampo": "Red Roof, \"Firestone\" \"259\"",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "Chrome Red Firestone DDRR"
+                    },
+                    "col": "179/220"
+                },
+                "country": "Thailand",
+                "notes": "Named '59 Chevy Impala Base code(s): E20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/HWR-Stockcar-57ChevyImpala-White.jpg/revision/latest?cb=20120901205825"
+                }
             },
             {
-                "Col #": "220/250",
-                "Year": "2013",
-                "Series": "HW Showroom: Heat Fleet",
-                "Color": "Metalflake Green",
-                "Tampo": "White & Green flames & stripes",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Green)",
-                "Interior Color": "Grey",
-                "Wheel Type": "MC5",
-                "Toy #": "X1796",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): E50, E52, F01, F02",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/%2759_Chevy_Impala-2013_220.jpg/revision/latest/scale-to-width-down/75?cb=20130216214639"
+                "release_id": "2013-59-chevy-bel-air-metalflake-green-x1796",
+                "toy_number": "X1796",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2013,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "White & Green flames & stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Green)",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "220/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): E50, E52, F01, F02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/%2759_Chevy_Impala-2013_220.jpg/revision/latest?cb=20130216214639"
+                }
             },
             {
-                "Col #": "220/250",
-                "Year": "2013",
-                "Series": "HW Showroom: Heat Fleet",
-                "Color": "Metalflake Light Blue",
-                "Tampo": "Yellow & purple flames & stripes",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Blue)",
-                "Interior Color": "Blue",
-                "Wheel Type": "MC5",
-                "Toy #": "X2025",
-                "Country": "Malaysia",
-                "Notes": "Toys R Us Exclusive Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/46a.jpg/revision/latest/scale-to-width-down/75?cb=20151201003338"
+                "release_id": "2013-59-chevy-bel-air-metalflake-light-blue-x2025",
+                "toy_number": "X2025",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2013,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "Yellow & purple flames & stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "220/250"
+                },
+                "country": "Malaysia",
+                "notes": "Toys R Us Exclusive Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/46a.jpg/revision/latest?cb=20151201003338"
+                }
             },
             {
-                "Col #": "070/250",
-                "Year": "2022",
-                "Series": "Chevy Bel Air 4/5",
-                "Color": "Pearl Pink",
-                "Tampo": "Dark Pink, Purple & Gold stripes on sides & Hood",
-                "base_color": "Gold",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Purple)",
-                "Interior Color": "Purple",
-                "Wheel Type": "Gold LW",
-                "Toy #": "HCV08",
-                "Country": "Malaysia",
-                "Notes": "Updated tooling Named '59 Chevy Impala Base code(s): P43, P44",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/59_Impala_Pink_22.jpg/revision/latest/scale-to-width-down/75?cb=20220114082225"
+                "release_id": "2022-59-chevy-bel-air-pearl-pink-hcv08",
+                "toy_number": "HCV08",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2022,
+                "series_id": "chevy",
+                "series_index": 4,
+                "specs": {
+                    "color": "Pearl Pink",
+                    "tampo": "Dark Pink, Purple & Gold stripes on sides & Hood",
+                    "base_color": "Gold",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Purple)",
+                    "interior_color": "Purple",
+                    "wheel_type": {
+                        "0": "Gold LW"
+                    },
+                    "col": "070/250"
+                },
+                "country": "Malaysia",
+                "notes": "Updated tooling Named '59 Chevy Impala Base code(s): P43, P44",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/59_Impala_Pink_22.jpg/revision/latest?cb=20220114082225"
+                }
             },
             {
-                "Col #": "070/250",
-                "Year": "2022",
-                "Series": "Chevy Bel Air 4/5",
-                "Color": "Black",
-                "Tampo": "Light Blue and Dark Blue pin striping Hood, Trunk and sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Tinted (Blue)",
-                "Interior Color": "Grey",
-                "Wheel Type": "Chrome LW",
-                "Toy #": "HCY43",
-                "Country": "Malaysia",
-                "Notes": "Dollar General Exclusive Named '59 Chevy Impala Base code(s): P44, P45",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/59_CHEVY_IMPALA_HCY43.jpg/revision/latest/scale-to-width-down/75?cb=20221006161720"
+                "release_id": "2022-59-chevy-bel-air-black-hcy43",
+                "toy_number": "HCY43",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2022,
+                "series_id": "chevy",
+                "series_index": 4,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Light Blue and Dark Blue pin striping Hood, Trunk and sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Chrome LW"
+                    },
+                    "col": "070/250"
+                },
+                "country": "Malaysia",
+                "notes": "Dollar General Exclusive Named '59 Chevy Impala Base code(s): P44, P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/59_CHEVY_IMPALA_HCY43.jpg/revision/latest?cb=20221006161720"
+                }
             },
             {
-                "Col #": "230/250",
-                "Year": "2024",
-                "Series": "HW Celebration Racers 10/10",
-                "Color": "Matte  black",
-                "Tampo": "White skull and flower design on sides and top, Dia de los Muertos on trunk, Treasure Hunt logo on each door",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Gray",
-                "Wheel Type": "White & Black Skull",
-                "Toy #": "HTB02",
-                "Country": "Malaysia",
-                "Notes": "Day of the Dead/Halloween Treasure Hunt Named '59 Chevy Impala Base code(s): T26, T28,",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/89/CelebrationImpala.jpg/revision/latest/scale-to-width-down/75?cb=20241013021328"
+                "release_id": "2024-59-chevy-bel-air-matte-black-htb02",
+                "toy_number": "HTB02",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 10,
+                "specs": {
+                    "color": "Matte  black",
+                    "tampo": "White skull and flower design on sides and top, Dia de los Muertos on trunk, Treasure Hunt logo on each door",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "White & Black Skull"
+                    },
+                    "col": "230/250"
+                },
+                "country": "Malaysia",
+                "notes": "Day of the Dead/Halloween Treasure Hunt Named '59 Chevy Impala Base code(s): T26, T28,",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/CelebrationImpala.jpg/revision/latest?cb=20241013021328"
+                }
             },
             {
-                "Col #": "044/250",
-                "Year": "2026",
-                "Series": "Layin' Low 2/5",
-                "Color": "Red",
-                "Tampo": "Black and light red lowrider graphics around the body, Hot Wheels logo on sides",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Light smoke tint",
-                "Interior Color": "White",
-                "Wheel Type": "White wall, white lip, black 5SP",
-                "Toy #": "JJJ15",
-                "Country": "Malaysia",
-                "Notes": "Named '59 Chevy Impala Base code(s): U33N, U34N, U36N, U37N, U39N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1959Impala.jpg/revision/latest/scale-to-width-down/75?cb=20251015123228"
+                "release_id": "2026-59-chevy-bel-air-red-jjj15",
+                "toy_number": "JJJ15",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2026,
+                "series_id": "layin",
+                "series_index": 2,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Black and light red lowrider graphics around the body, Hot Wheels logo on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Light smoke tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "White wall, white lip, black 5SP"
+                    },
+                    "col": "044/250"
+                },
+                "country": "Malaysia",
+                "notes": "Named '59 Chevy Impala Base code(s): U33N, U34N, U36N, U37N, U39N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1959Impala.jpg/revision/latest?cb=20251015123228"
+                }
             },
             {
-                "Col #": "044/250",
-                "Year": "2026",
-                "Series": "Layin' Low 2/5",
-                "Color": "ZAMAC",
-                "Tampo": "Blue and white lowrider graphics around the body, Hot Wheels logo on sides, ZAMAC marking on left side",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Dark blue tint",
-                "Interior Color": "White",
-                "Wheel Type": "White wall, white lip black 5SP / 044/250 / 2026 / Layin' Low 2/5 / Black and green lowrider graphics around the body, Hot Wheels logo on sides / Chrome / Plastic / Acid green tint / Malaysia / Base code(s):",
-                "Toy #": "JJM35",
-                "Country": "Malaysia",
-                "Notes": "Named '59 Chevy Impala Walmart Exclusive Base code(s): U44N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-59-chevy-bel-air-zamac-jjm35",
+                "toy_number": "JJM35",
+                "casting_id": "59-chevy-bel-air",
+                "year": 2026,
+                "series_id": "layin",
+                "series_index": 2,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "Blue and white lowrider graphics around the body, Hot Wheels logo on sides, ZAMAC marking on left side",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Dark blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "White wall, white lip black 5SP"
+                    },
+                    "col": "044/250"
+                },
+                "country": "Malaysia",
+                "notes": "Named '59 Chevy Impala Walmart Exclusive Base code(s): U44N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

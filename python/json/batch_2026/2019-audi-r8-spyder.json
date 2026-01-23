@@ -1,150 +1,248 @@
 [
     {
-        "metadata": {
-            "name": "2019 Audi R8 Spyder",
-            "Debut series": "Factory Fresh",
-            "image": "2020NM35 (Large).JPG",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/4/44/2020NM35_%28Large%29.JPG/revision/latest/scale-to-width-down/268?cb=20200531023526"
-        },
+        "casting_id": "2019-audi-r8-spyder",
+        "name": "2019 Audi R8 Spyder",
         "description": {
             "en-us": "2019 Audi R8 Spyder Debut series Factory Fresh Produced 2020 - Present Designer Ryu Asada Number GHB28",
             "pt-br": ""
         },
+        "designer": "Ryu Asada",
+        "debut_year": 2020,
+        "manufacturer": "2019",
         "releases": [
             {
-                "Col #": "175/250",
-                "Year": "2020",
-                "Series": "Factory Fresh 1/10",
-                "Color": "Ibis White",
-                "Tampo": "Detailed headlights & taillights, Audi & R8 logos, 'HWFF R8' licence plates",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "GPR5",
-                "Toy #": "GHB28",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): N08, N09, N10, N11, N19, N20",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/44/2020NM35_%28Large%29.JPG/revision/latest/scale-to-width-down/75?cb=20200531023526"
+                "release_id": "2020-2019-audi-r8-spyder-ibis-white-ghb28",
+                "toy_number": "GHB28",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2020,
+                "series_id": "factory",
+                "series_index": 1,
+                "specs": {
+                    "color": "Ibis White",
+                    "tampo": "Detailed headlights & taillights, Audi & R8 logos, 'HWFF R8' licence plates",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "GPR5"
+                    },
+                    "col": "175/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): N08, N09, N10, N11, N19, N20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/2020NM35_%28Large%29.JPG/revision/latest?cb=20200531023526"
+                }
             },
             {
-                "Col #": "175/250",
-                "Year": "2020",
-                "Series": "Factory Fresh 1/10",
-                "Color": "Dynamite Red",
-                "Tampo": "Detailed headlights & taillights, Audi & R8 logos, 'HWFF R8' license plates",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "GHF93",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): N30, N31, N32",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/GHF93-01.JPG/revision/latest/scale-to-width-down/75?cb=20210225232059"
+                "release_id": "2020-2019-audi-r8-spyder-dynamite-red-ghf93",
+                "toy_number": "GHF93",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2020,
+                "series_id": "factory",
+                "series_index": 1,
+                "specs": {
+                    "color": "Dynamite Red",
+                    "tampo": "Detailed headlights & taillights, Audi & R8 logos, 'HWFF R8' license plates",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "175/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): N30, N31, N32",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/GHF93-01.JPG/revision/latest?cb=20210225232059"
+                }
             },
             {
-                "Col #": "211/250",
-                "Year": "2021",
-                "Series": "HW Exotics 4/10",
-                "Color": "Santorini Blue",
-                "Tampo": "Detailed headlights & taillights, Audi & R8 logos, 'R8 Spyder' license plates",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "GRY87",
-                "Country": "Malaysia",
-                "Notes": "Playable in Unleashed Base code(s): P14, P16, P18, P20",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/GRY87-01.jpg/revision/latest/scale-to-width-down/75?cb=20210626142005"
+                "release_id": "2021-2019-audi-r8-spyder-santorini-blue-gry87",
+                "toy_number": "GRY87",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2021,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Santorini Blue",
+                    "tampo": "Detailed headlights & taillights, Audi & R8 logos, 'R8 Spyder' license plates",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "211/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "Playable in Unleashed Base code(s): P14, P16, P18, P20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/GRY87-01.jpg/revision/latest?cb=20210626142005"
+                }
             },
             {
-                "Col #": "211/250",
-                "Year": "2021",
-                "Series": "HW Exotics 4/10",
-                "Color": "Spectraflame Santorini Blue",
-                "Tampo": "Detailed headlights & taillights, Audi & R8 logos, 'R8 Spyder' license plates",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Black",
-                "Wheel Type": "RR5SPM",
-                "Toy #": "GTD01",
-                "Country": "Malaysia",
-                "Notes": "Super Treasure Hunt Base code(s): P12",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2019_Audi_R8_Spyder.jpg/revision/latest/scale-to-width-down/75?cb=20211114063216"
+                "release_id": "2021-2019-audi-r8-spyder-spectraflame-santorini-blue-gtd01",
+                "toy_number": "GTD01",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2021,
+                "series_id": "hw",
+                "series_index": 4,
+                "specs": {
+                    "color": "Spectraflame Santorini Blue",
+                    "tampo": "Detailed headlights & taillights, Audi & R8 logos, 'R8 Spyder' license plates",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "col": "211/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "Super Treasure Hunt Base code(s): P12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2019_Audi_R8_Spyder.jpg/revision/latest?cb=20211114063216"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2022",
-                "Series": "World Class Racers 5/5",
-                "Color": "Metalflake Daytona Grey",
-                "Tampo": "Detailed headlights and taillights, \"R8 Spyder\" license plate",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "GPR5",
-                "Toy #": "HDH26",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): R24. R26, R27",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/02/World_Class_Racers_2022_2019_Audi_R8_Spyder_HDH26.jpg/revision/latest/scale-to-width-down/75?cb=20221003231653"
+                "release_id": "2022-2019-audi-r8-spyder-metalflake-daytona-grey-hdh26",
+                "toy_number": "HDH26",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2022,
+                "series_id": "world",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metalflake Daytona Grey",
+                    "tampo": "Detailed headlights and taillights, \"R8 Spyder\" license plate",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "GPR5"
+                    },
+                    "col": "211/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): R24. R26, R27",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/World_Class_Racers_2022_2019_Audi_R8_Spyder_HDH26.jpg/revision/latest?cb=20221003231653"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2023",
-                "Series": "European Car Culture Themed Multipack",
-                "Color": "Santorini Blue",
-                "Tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "HLK51",
-                "Country": "Malaysia",
-                "Notes": "Identical to GRY87 Base code(s): S02, S14",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/AudiR8Spyder.jpg/revision/latest/scale-to-width-down/75?cb=20230404145046"
+                "release_id": "2023-2019-audi-r8-spyder-santorini-blue-hlk51",
+                "toy_number": "HLK51",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2023,
+                "series_id": "european",
+                "series_index": null,
+                "specs": {
+                    "color": "Santorini Blue",
+                    "tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "211/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "Identical to GRY87 Base code(s): S02, S14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/AudiR8Spyder.jpg/revision/latest?cb=20230404145046"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Multipack Exclusive",
-                "Color": "Vegas Yellow",
-                "Tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): T40, T41, T42, T48N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/467366891_559287353651159_5214850702376226562_n.jpg/revision/latest/scale-to-width-down/75?cb=20241220174438"
+                "release_id": "2025-2019-audi-r8-spyder-vegas-yellow-x6999",
+                "toy_number": "X6999",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2025,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Vegas Yellow",
+                    "tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "211/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): T40, T41, T42, T48N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/467366891_559287353651159_5214850702376226562_n.jpg/revision/latest?cb=20241220174438"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Multipack Exclusive",
-                "Color": "Ascari Blue",
-                "Tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "GPR5",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U11N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/2025audi_r8.jpg/revision/latest/scale-to-width-down/75?cb=20250621082512"
+                "release_id": "2025-2019-audi-r8-spyder-ascari-blue-x6999",
+                "toy_number": "X6999",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2025,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Ascari Blue",
+                    "tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "GPR5"
+                    },
+                    "col": "211/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U11N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/2025audi_r8.jpg/revision/latest?cb=20250621082512"
+                }
             },
             {
-                "Col #": "130/250",
-                "Year": "2026",
-                "Series": "Drop Tops 4/5",
-                "Color": "Mythos Black",
-                "Tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
-                "Chassis Color / Type": "Black / Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "PR5",
-                "Toy #": "JJJ84",
-                "Country": "Malaysia",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/2019AudiR8.jpg/revision/latest/scale-to-width-down/75?cb=20260105100259"
+                "release_id": "2026-2019-audi-r8-spyder-mythos-black-jjj84",
+                "toy_number": "JJJ84",
+                "casting_id": "2019-audi-r8-spyder",
+                "year": 2026,
+                "series_id": "drop",
+                "series_index": 4,
+                "specs": {
+                    "color": "Mythos Black",
+                    "tampo": "Detailed headlights, taillights and trim, \"R8 Spyder\" license plate",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "130/250",
+                    "chassis_color_type": "Black / Plastic"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/2019AudiR8.jpg/revision/latest?cb=20260105100259"
+                }
             }
         ]
     }

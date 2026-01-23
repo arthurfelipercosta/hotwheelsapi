@@ -1,47 +1,64 @@
 [
     {
-        "metadata": {
-            "name": "Twin Dorado",
-            "Debut series": "HW Track Champs",
-            "image": "TwinDorado.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/TwinDorado.jpg/revision/latest/scale-to-width-down/268?cb=20250619120503"
-        },
+        "casting_id": "twin-dorado",
+        "name": "Twin Dorado",
         "description": {
             "en-us": "Twin Dorado Debut series HW Track Champs Produced 2025 – Present Designer Fraser Campbell Number HYW49",
             "pt-br": ""
         },
+        "designer": "Fraser Campbell",
+        "debut_year": 2025,
+        "manufacturer": "Twin",
         "releases": [
             {
-                "Col #": "228/250",
-                "Year": "2025",
-                "Series": "HW Track Champs 3/5",
-                "Color": "Metalflake goldenrod",
-                "Tampo": "Blue striping, gold highlights, black bed liner, Hot Wheels logo on bed",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Blue tint",
-                "Interior Color": "Dark chrome",
-                "Wheel Type": "Gold Rim, Black MC5",
-                "Toy #": "HYW49",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U19N, U20N, U21N, U24N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/TwinDorado.jpg/revision/latest/scale-to-width-down/75?cb=20250619120503"
+                "release_id": "2025-twin-dorado-gold-hyw49",
+                "toy_number": "HYW49",
+                "casting_id": "twin-dorado",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "Metallic blue stripes with Hot wheels logo and black roof and bed liner",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Dark chrome",
+                    "wheel_type": {
+                        "0": "Gold Rim, Black MC5"
+                    },
+                    "col": "228/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U19N, U20N, U21N, U24N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/TwinDorado.jpg/revision/latest?cb=20250619120503"
+                }
             },
             {
-                "Col #": "100/250",
-                "Year": "2026",
-                "Series": "HW Starting Grid 7/10",
-                "Color": "White",
-                "Tampo": "Blue, black and red livery, \"6\", \" ATN \" and Hot Wheels logo on sides",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Blue tint",
-                "Interior Color": "Chrome",
-                "Wheel Type": "Chrome Light Blue 10SP",
-                "Toy #": "JJJ61",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U44N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/44/RacingDorado.jpg/revision/latest/scale-to-width-down/75?cb=20251216111219"
+                "release_id": "2026-twin-dorado-white-jjj61",
+                "toy_number": "JJJ61",
+                "casting_id": "twin-dorado",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 7,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Blue, black and red livery, \"6\", \" ATN \" and Hot Wheels logo on sides",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome Light Blue 10SP"
+                    },
+                    "col": "100/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U44N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/RacingDorado.jpg/revision/latest?cb=20251216111219"
+                }
             }
         ]
     }

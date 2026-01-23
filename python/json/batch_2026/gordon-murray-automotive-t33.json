@@ -1,0 +1,115 @@
+[
+    {
+        "casting_id": "gordon-murray-automotive-t33",
+        "name": "Gordon Murray Automotive T.33",
+        "description": {
+            "en-us": "Gordon Murray Automotive T.33 Debut series Factory Fresh Produced 2025 – Present Designer Fraser Campbell Number HYW23",
+            "pt-br": ""
+        },
+        "designer": "Fraser Campbell",
+        "debut_year": 2025,
+        "manufacturer": "Gordon",
+        "releases": [
+            {
+                "release_id": "2025-gordon-murray-automotive-t33-metalflake-silver-hyw23",
+                "toy_number": "HYW23",
+                "casting_id": "gordon-murray-automotive-t33",
+                "year": 2025,
+                "series_id": "factory",
+                "series_index": 4,
+                "specs": {
+                    "color": "Metalflake silver",
+                    "tampo": "Detailed headlights and taillights, GMA logo on nose, \"GORDON MURRAY AUTOMOTIVE\" rear license plate, Hot Wheels logos on sides",
+                    "base_color": "Metalflake silver",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "090/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): T44, T45, T46, T47, T48N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/GMAT.33.jpg/revision/latest?cb=20250107132758"
+                }
+            },
+            {
+                "release_id": "2025-gordon-murray-automotive-t33-light-teal-jbb70",
+                "toy_number": "JBB70",
+                "casting_id": "gordon-murray-automotive-t33",
+                "year": 2025,
+                "series_id": "factory",
+                "series_index": 4,
+                "specs": {
+                    "color": "Light teal",
+                    "tampo": "Detailed headlights and taillights, GMA logo on nose, \"GORDON MURRAY AUTOMOTIVE\" rear license plate, Hot Wheels logos on sides",
+                    "base_color": "Seafoam",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "090/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U22N, U25N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/GMAT33.jpg/revision/latest?cb=20250816102716"
+                }
+            },
+            {
+                "release_id": "2026-gordon-murray-automotive-t33-yellow-jjj62",
+                "toy_number": "JJJ62",
+                "casting_id": "gordon-murray-automotive-t33",
+                "year": 2026,
+                "series_id": "exoticars",
+                "series_index": 2,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Detailed headlights and taillights, GMA logo on nose, \"GORDON MURRAY AUTOMOTIVE\" rear license plate, Murray clan tartan badge and T.33 on rear",
+                    "base_color": "Yellow",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gray PR5"
+                    },
+                    "col": "003/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U34N, U36N, U39N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/2025GMAT.33.jpg/revision/latest?cb=20251015121316"
+                }
+            },
+            {
+                "release_id": "2026-gordon-murray-automotive-t33-dark-green-jjl44",
+                "toy_number": "JJL44",
+                "casting_id": "gordon-murray-automotive-t33",
+                "year": 2026,
+                "series_id": "exoticars",
+                "series_index": 2,
+                "specs": {
+                    "color": "Dark Green",
+                    "tampo": "Detailed headlights and taillights, GMA logo on nose, \"GORDON MURRAY AUTOMOTIVE\" rear license plate, Murray clan tartan badge and T.33 on rear",
+                    "base_color": "Green",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "003/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/T33Coupe.jpg/revision/latest?cb=20260121131139"
+                }
+            }
+        ]
+    }
+]

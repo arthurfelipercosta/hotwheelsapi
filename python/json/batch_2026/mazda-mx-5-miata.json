@@ -1,63 +1,89 @@
 [
     {
-        "metadata": {
-            "name": "Mazda MX-5 Miata",
-            "Debut series": "HW Dream Garage",
-            "image": "MazdaChimera.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MazdaChimera.jpg/revision/latest/scale-to-width-down/268?cb=20241109072114"
-        },
+        "casting_id": "mazda-mx-5-miata",
+        "name": "Mazda MX-5 Miata",
         "description": {
             "en-us": "Mazda MX-5 Miata Debut series HW Dream Garage Produced 2025 – Present Designer Chris Watson and Shawn Moghadam Number HYW18",
             "pt-br": ""
         },
+        "designer": "Chris Watson and Shawn Moghadam",
+        "debut_year": 2025,
+        "manufacturer": "Mazda",
         "releases": [
             {
-                "Col #": "001/250",
-                "Year": "2025",
-                "Series": "HW Dream Garage 2/5",
-                "Color": "Metalflake gunmetal gray",
-                "Tampo": "Detailed taillights, green accent striping, \" トフオートワークス \", Hot Wheels logo on sides, black hood striping and detailing",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Black L4",
-                "Toy #": "HYW18",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): T34, T36, T37, T38, T39, T40, T41",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MazdaChimera.jpg/revision/latest/scale-to-width-down/75?cb=20241109072114"
+                "release_id": "2025-mazda-mx-5-miata-metalflake-gunmetal-gray-hyw18",
+                "toy_number": "HYW18",
+                "casting_id": "mazda-mx-5-miata",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Metalflake gunmetal gray",
+                    "tampo": "Detailed taillights, green accent striping, \" トフオートワークス \", Hot Wheels logo on sides, black hood striping and detailing",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black L4"
+                    },
+                    "col": "001/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): T34, T36, T37, T38, T39, T40, T41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/MazdaChimera.jpg/revision/latest?cb=20241109072114"
+                }
             },
             {
-                "Col #": "001/250",
-                "Year": "2025",
-                "Series": "HW Dream Garage 2/5",
-                "Color": "Lime Green",
-                "Tampo": "Detailed taillights, black accent striping, \" トフオートワークス \", Hot Wheels logo on sides, black hood striping and detailing",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Grey",
-                "Wheel Type": "Grey L4",
-                "Toy #": "HYX57",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U02N, U04N, U05N, U06N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/GreenChimera.jpg/revision/latest/scale-to-width-down/75?cb=20250224121916"
+                "release_id": "2025-mazda-mx-5-miata-lime-green-hyx57",
+                "toy_number": "HYX57",
+                "casting_id": "mazda-mx-5-miata",
+                "year": 2025,
+                "series_id": "hw",
+                "series_index": 2,
+                "specs": {
+                    "color": "Lime Green",
+                    "tampo": "Detailed taillights, black accent striping, \" トフオートワークス \", Hot Wheels logo on sides, black hood striping and detailing",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Grey L4"
+                    },
+                    "col": "001/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U02N, U04N, U05N, U06N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/GreenChimera.jpg/revision/latest?cb=20250224121916"
+                }
             },
             {
-                "Col #": "001/250",
-                "Year": "2026",
-                "Series": "HW Dream Garage 1/5",
-                "Color": "White",
-                "Tampo": "Black, Pink and Grey Graphics on hood and sides",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Grey",
-                "Wheel Type": "White lip, black AeroDisc",
-                "Toy #": "JJJ02",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U36N, U39N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/26/CyberpunkMazda.jpg/revision/latest/scale-to-width-down/75?cb=20251015121255"
+                "release_id": "2026-mazda-mx-5-miata-white-jjj02",
+                "toy_number": "JJJ02",
+                "casting_id": "mazda-mx-5-miata",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black, Pink and Grey Graphics on hood and sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "White lip, black AeroDisc"
+                    },
+                    "col": "001/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U36N, U39N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/CyberpunkMazda.jpg/revision/latest?cb=20251015121255"
+                }
             }
         ]
     }

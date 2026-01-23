@@ -1,383 +1,595 @@
 [
     {
-        "metadata": {
-            "name": "Corvette Stingray",
-            "Debut series": "Color FX",
-            "image": "82 Corvette Stingray Grn7sp.JPG",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/82_Corvette_Stingray_Grn7sp.JPG/revision/latest/scale-to-width-down/268?cb=20090215220111"
-        },
+        "casting_id": "corvette-stingray",
+        "name": "Corvette Stingray",
         "description": {
             "en-us": "Corvette Stingray Debut series Color FX Produced 1990 - Present Designer Larry Wood Number 12030",
             "pt-br": ""
         },
+        "designer": "Larry Wood",
+        "debut_year": 1990,
+        "manufacturer": "Corvette",
         "releases": [
             {
-                "Col #": "",
-                "Year": "1995",
-                "Series": "Color FX: Super Stampers",
-                "Color": "Cold: Brown Warm: Pink",
-                "Tampo": "None",
-                "base_color": "Metalflake Silver",
-                "base_type": "Metal",
-                "Window Color": "Black opaque",
-                "Interior Color": "None",
-                "Wheel Type": "UH",
-                "Toy #": "12030",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/%2782_Corvette_Stingray_-_1994_Color_FX_Super_Stampers.jpg/revision/latest/scale-to-width-down/76?cb=20240425113046"
+                "release_id": "1995-corvette-stingray-cold-brown-warm-pink-12030",
+                "toy_number": "12030",
+                "casting_id": "corvette-stingray",
+                "year": 1995,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Brown Warm: Pink",
+                    "tampo": "None",
+                    "base_color": "Metalflake Silver",
+                    "base_type": "Metal",
+                    "window_color": "Black opaque",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "col": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/%2782_Corvette_Stingray_-_1994_Color_FX_Super_Stampers.jpg/revision/latest?cb=20240425113046"
+                }
             },
             {
-                "Col #": "",
-                "Year": "1996",
-                "Series": "Track System 5-Pack",
-                "Color": "Lime Green",
-                "Tampo": "Black tire tracks",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Orange tint",
-                "Interior Color": "none",
-                "Wheel Type": "Gold 7SP / Gold 3SP",
-                "Toy #": "13366",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/82_Corvette_Stingray_Grn7sp.JPG/revision/latest/scale-to-width-down/75?cb=20090215220111"
+                "release_id": "1996-corvette-stingray-lime-green-13366",
+                "toy_number": "13366",
+                "casting_id": "corvette-stingray",
+                "year": 1996,
+                "series_id": "track",
+                "series_index": null,
+                "specs": {
+                    "color": "Lime Green",
+                    "tampo": "Black tire tracks",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Orange tint",
+                    "interior_color": "none",
+                    "wheel_type": {
+                        "0": "Gold 7SP"
+                    },
+                    "col": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/82_Corvette_Stingray_Grn7sp.JPG/revision/latest?cb=20090215220111",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/82_Corvette_Stingray_Grn3sp.JPG/revision/latest?cb=20090215220054"
+                }
             },
             {
-                "Col #": "416",
-                "Year": "1996",
-                "Series": "Fast Food 1/4",
-                "Color": "White",
-                "Tampo": "covered with multi-colored peperoni pizza",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Black opaque",
-                "Interior Color": "none",
-                "Wheel Type": "3SP / 5SP / 7SP",
-                "Toy #": "15263",
-                "Country": "Malaysia",
-                "Notes": "Named Pizza Vette",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Corvette_Stingray_Pza3sp.JPG/revision/latest/scale-to-width-down/75?cb=20090214163452"
+                "release_id": "1996-corvette-stingray-white-15263",
+                "toy_number": "15263",
+                "casting_id": "corvette-stingray",
+                "year": 1996,
+                "series_id": "fast",
+                "series_index": 1,
+                "specs": {
+                    "color": "White",
+                    "tampo": "covered with multi-colored peperoni pizza",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Black opaque",
+                    "interior_color": "none",
+                    "wheel_type": {
+                        "0": "3SP"
+                    },
+                    "col": "416"
+                },
+                "country": "Malaysia",
+                "notes": "Named Pizza Vette",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Corvette_Stingray_Pza3sp.JPG/revision/latest?cb=20090214163452",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/2/27/Corvette_Stingray_Pza5sp.JPG/revision/latest?cb=20090214163507",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Col #": "1056",
-                "Year": "1999",
-                "Series": "Mainline",
-                "Color": "Tan",
-                "Tampo": "Orange, Black & White flames on sides & top, Hot Wheels logo on sides",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Black opaque",
-                "Interior Color": "none",
-                "Wheel Type": "Gold LW",
-                "Toy #": "24070",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/23/82_Corvette_Stingray_tan.JPG/revision/latest/scale-to-width-down/75?cb=20090215220127"
+                "release_id": "1999-corvette-stingray-tan-24070",
+                "toy_number": "24070",
+                "casting_id": "corvette-stingray",
+                "year": 1999,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Orange, Black & White flames on sides & top, Hot Wheels logo on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black opaque",
+                    "interior_color": "none",
+                    "wheel_type": {
+                        "0": "Gold LW"
+                    },
+                    "col": "1056"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/82_Corvette_Stingray_tan.JPG/revision/latest?cb=20090215220127"
+                }
             },
             {
-                "Col #": "154",
-                "Year": "2000",
-                "Series": "Mainline",
-                "Color": "Blue",
-                "Tampo": "Orange, yellow, White & Red graphics",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Black opaque",
-                "Interior Color": "none",
-                "Wheel Type": "5DOT / 3SP",
-                "Toy #": "27120",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/25/82_Corvette_Stingray_Blu.JPG/revision/latest/scale-to-width-down/75?cb=20090215220030"
+                "release_id": "2000-corvette-stingray-blue-27120",
+                "toy_number": "27120",
+                "casting_id": "corvette-stingray",
+                "year": 2000,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Orange, yellow, White & Red graphics",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black opaque",
+                    "interior_color": "none",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "154"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/82_Corvette_Stingray_Blu.JPG/revision/latest?cb=20090215220030",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/Corvette_sr_80_00_.JPG/revision/latest?cb=20170416020628"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2004",
-                "Series": "Cyborg Assault 5-Pack",
-                "Color": "Red Plastic",
-                "Tampo": "Cyborg Picture Across the Body",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Black Opaque",
-                "Interior Color": "N/A",
-                "Wheel Type": "10SP",
-                "Toy #": "B3619",
-                "Country": "China",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2004-corvette-stingray-1996-red.jpg/revision/latest/scale-to-width-down/75?cb=20180815155506"
+                "release_id": "2004-corvette-stingray-red-plastic-b3619",
+                "toy_number": "B3619",
+                "casting_id": "corvette-stingray",
+                "year": 2004,
+                "series_id": "cyborg",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Plastic",
+                    "tampo": "Cyborg Picture Across the Body",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Black Opaque",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "col": "3SP"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2004-corvette-stingray-1996-red.jpg/revision/latest?cb=20180815155506"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2006",
-                "Series": "Holiday Hotrods",
-                "Color": "Satin Blue",
-                "Tampo": "No Tampos",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Dark Tint",
-                "Interior Color": "none",
-                "Wheel Type": "Gold Chrome OH5",
-                "Toy #": "L1193",
-                "Country": "Malaysia",
-                "Notes": "",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/VetteHHotLF.jpg/revision/latest/scale-to-width-down/75?cb=20081220072032"
+                "release_id": "2006-corvette-stingray-satin-blue-l1193",
+                "toy_number": "L1193",
+                "casting_id": "corvette-stingray",
+                "year": 2006,
+                "series_id": "holiday",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Blue",
+                    "tampo": "No Tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Dark Tint",
+                    "interior_color": "none",
+                    "wheel_type": {
+                        "0": "Gold Chrome OH5"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/VetteHHotLF.jpg/revision/latest?cb=20081220072032"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2009",
-                "Series": "Color Shifters",
-                "Color": "Cold: Yellow Warm: Orange",
-                "Tampo": "Hot Wheels logo on sides and hood, number 8 on sides and hood",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Dark Blue Tint",
-                "Interior Color": "none",
-                "Wheel Type": "5SP",
-                "Toy #": "P7771",
-                "Country": "Thailand",
-                "Notes": "Base codes(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/P7771.jpg/revision/latest/scale-to-width-down/75?cb=20210321175909"
+                "release_id": "2009-corvette-stingray-cold-yellow-warm-orange-p7771",
+                "toy_number": "P7771",
+                "casting_id": "corvette-stingray",
+                "year": 2009,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Yellow Warm: Orange",
+                    "tampo": "Hot Wheels logo on sides and hood, number 8 on sides and hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Dark Blue Tint",
+                    "interior_color": "none",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Thailand",
+                "notes": "Base codes(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/P7771.jpg/revision/latest?cb=20210321175909"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2010",
-                "Series": "Color Shifters",
-                "Color": "Cold: Black Warm: White",
-                "Tampo": "\"Police\" on sides and hood, number 68 on sides and hood",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Light Blue Tint",
-                "Interior Color": "none",
-                "Wheel Type": "5SP",
-                "Toy #": "R0215",
-                "Country": "Thailand",
-                "Notes": "Base codes(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/82_Sting_CChange_Black.JPG/revision/latest/scale-to-width-down/75?cb=20240424113121"
+                "release_id": "2010-corvette-stingray-cold-black-warm-white-r0215",
+                "toy_number": "R0215",
+                "casting_id": "corvette-stingray",
+                "year": 2010,
+                "series_id": "color",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Black Warm: White",
+                    "tampo": "\"Police\" on sides and hood, number 68 on sides and hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Light Blue Tint",
+                    "interior_color": "none",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Thailand",
+                "notes": "Base codes(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/82_Sting_CChange_Black.JPG/revision/latest?cb=20240424113121"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2013",
-                "Series": "Multipack Exclusive",
-                "Color": "Burgundy",
-                "Tampo": "White & Red stripes on hood & roof",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Blue Tint",
-                "Interior Color": "None",
-                "Wheel Type": "5SP",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base codes(s): F06",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/Corvette_Stingray-2013_3-Pack.jpg/revision/latest/scale-to-width-down/75?cb=20130427145801"
+                "release_id": "2013-corvette-stingray-burgundy-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2013,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Burgundy",
+                    "tampo": "White & Red stripes on hood & roof",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue Tint",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Malaysia",
+                "notes": "Base codes(s): F06",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/Corvette_Stingray-2013_3-Pack.jpg/revision/latest?cb=20130427145801"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2014",
-                "Series": "Multipack Exclusive",
-                "Color": "Orange",
-                "Tampo": "Yellow & Gold stripes",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Smoke",
-                "Interior Color": "None",
-                "Wheel Type": "Chrome Gold OH5",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base codes(s): F40",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Corvette_sr_80_14.JPG/revision/latest/scale-to-width-down/75?cb=20170416021556"
+                "release_id": "2014-corvette-stingray-orange-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2014,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Yellow & Gold stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Smoke",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "Chrome Gold OH5"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Malaysia",
+                "notes": "Base codes(s): F40",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Corvette_sr_80_14.JPG/revision/latest?cb=20170416021556"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2015",
-                "Series": "Multipack Exclusive",
-                "Color": "Black",
-                "Tampo": "Brown Racing Stripes outlined in Yellow",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Black",
-                "Interior Color": "None",
-                "Wheel Type": "Chrome Gold OH5",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base codes(s): H19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/de/82_Corvette_Stingray_-_15_Multi-Pack_Exclusive_600pxDM.jpg/revision/latest/scale-to-width-down/75?cb=20160105050136"
+                "release_id": "2015-corvette-stingray-black-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2015,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Brown Racing Stripes outlined in Yellow",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "Chrome Gold OH5"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Malaysia",
+                "notes": "Base codes(s): H19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/82_Corvette_Stingray_-_15_Multi-Pack_Exclusive_600pxDM.jpg/revision/latest?cb=20160105050136"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2015",
-                "Series": "Multipack Exclusive",
-                "Color": "Black",
-                "Tampo": "Brown Racing Stripes outlined in Yellow",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Smoke tint",
-                "Interior Color": "None",
-                "Wheel Type": "Chrome Gold OH5",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base codes(s): H19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Stonie09-25.jpg/revision/latest/scale-to-width-down/75?cb=20250510134518"
+                "release_id": "2015-corvette-stingray-black-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2015,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Brown Racing Stripes outlined in Yellow",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Smoke tint",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "Chrome Gold OH5"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Malaysia",
+                "notes": "Base codes(s): H19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Stonie09-25.jpg/revision/latest?cb=20250510134518"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2015",
-                "Series": "Color Shifters 33/48",
-                "Color": "Cold: White Warm: Black",
-                "Tampo": "None",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Blue",
-                "Interior Color": "None",
-                "Wheel Type": "Blue OH5",
-                "Toy #": "CFM44",
-                "Country": "Thailand",
-                "Notes": "Base codes(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Corvette-stingray-2015-color-shifters-carded.jpg/revision/latest/scale-to-width-down/75?cb=20190630044024"
+                "release_id": "2015-corvette-stingray-cold-white-warm-black-cfm44",
+                "toy_number": "CFM44",
+                "casting_id": "corvette-stingray",
+                "year": 2015,
+                "series_id": "color",
+                "series_index": 33,
+                "specs": {
+                    "color": "Cold: White Warm: Black",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "Blue OH5"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Thailand",
+                "notes": "Base codes(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Corvette-stingray-2015-color-shifters-carded.jpg/revision/latest?cb=20190630044024"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2018",
-                "Series": "Multipack Exclusive",
-                "Color": "Purple",
-                "Tampo": "Black & White stripes, 'Corvette' on sides & hood",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Blue)",
-                "Interior Color": "None",
-                "Wheel Type": "Chrome rim, black MC5",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base codes(s): K36, L03, L10, L19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/2018CorvetteStingray.jpg/revision/latest/scale-to-width-down/75?cb=20180816070645"
+                "release_id": "2018-corvette-stingray-purple-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2018,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Black & White stripes, 'Corvette' on sides & hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "Chrome rim, black MC5"
+                    },
+                    "col": "3SP"
+                },
+                "country": "Malaysia",
+                "notes": "Base codes(s): K36, L03, L10, L19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/2018CorvetteStingray.jpg/revision/latest?cb=20180816070645"
+                }
             },
             {
-                "Col #": "159/250",
-                "Year": "2019",
-                "Series": "Super Chromes 5/5",
-                "Color": "Chrome",
-                "Tampo": "Red & Blue Stripes, and White stars on sides &d hood, 'super chromes' & HW logo on sides",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Red)",
-                "Interior Color": "None",
-                "Wheel Type": "Chrome rim 5SP",
-                "Toy #": "FYG03",
-                "Country": "Malaysia",
-                "Notes": "Treasure Hunt Base codes(s): L47, L51, M01",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/82_Stingray_Chrome_19.jpg/revision/latest/scale-to-width-down/75?cb=20190329082841"
+                "release_id": "2019-corvette-stingray-chrome-fyg03",
+                "toy_number": "FYG03",
+                "casting_id": "corvette-stingray",
+                "year": 2019,
+                "series_id": "super",
+                "series_index": 5,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Red & Blue Stripes, and White stars on sides &d hood, 'super chromes' & HW logo on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Red)",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "Chrome rim 5SP"
+                    },
+                    "col": "159/250"
+                },
+                "country": "Malaysia",
+                "notes": "Treasure Hunt Base codes(s): L47, L51, M01",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/82_Stingray_Chrome_19.jpg/revision/latest?cb=20190329082841"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2020",
-                "Series": "Multipack Exclusive",
-                "Color": "Blue",
-                "Tampo": "Gray Stripes & black corvette decal on sides",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Black)",
-                "Interior Color": "None",
-                "Wheel Type": "RSW",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): M38",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/82_Corvette_Stingray_-_Blue_2020_Multi.JPG/revision/latest/scale-to-width-down/75?cb=20200201173647"
+                "release_id": "2020-corvette-stingray-blue-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2020,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Gray Stripes & black corvette decal on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "159/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): M38",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/82_Corvette_Stingray_-_Blue_2020_Multi.JPG/revision/latest?cb=20200201173647"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2021",
-                "Series": "Multipack Exclusive",
-                "Color": "White",
-                "Tampo": "Blue stripes & black corvette decals on sides",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Black)",
-                "Interior Color": "None",
-                "Wheel Type": "RSW",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): N51",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/HW_CORVETTE_STINGRAY_82_Multipack_exclusive_WHITE.jpg/revision/latest/scale-to-width-down/75?cb=20210330211510"
+                "release_id": "2021-corvette-stingray-white-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2021,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Blue stripes & black corvette decals on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "159/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): N51",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/HW_CORVETTE_STINGRAY_82_Multipack_exclusive_WHITE.jpg/revision/latest?cb=20210330211510"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2022",
-                "Series": "Multipack Exclusive",
-                "Color": "Red",
-                "Tampo": "White stripes and black corvette decals on sides",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Tinted (Black)",
-                "Interior Color": "None",
-                "Wheel Type": "RSW",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): P44, R11",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/Corvette_Stingray_%281996%29_2021_Multipack_Exclusive.JPG/revision/latest/scale-to-width-down/75?cb=20220213171445"
+                "release_id": "2022-corvette-stingray-red-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2022,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White stripes and black corvette decals on sides",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "159/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): P44, R11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/Corvette_Stingray_%281996%29_2021_Multipack_Exclusive.JPG/revision/latest?cb=20220213171445"
+                }
             },
             {
-                "Col #": "109/250",
-                "Year": "2024",
-                "Series": "HW Dream Garage 5/5",
-                "Color": "Cherry Red",
-                "Tampo": "Corvette logo and dark yellow & white stripes on sides & hood, Hot Wheels logo on quarter panel",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Heavy smoke tint",
-                "Interior Color": "None",
-                "Wheel Type": "RSW",
-                "Toy #": "HTB52",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): S47, S49, S50, S51",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/49/Stingray._2024_HW_Dream_Garage%2C_Red.jpg/revision/latest/scale-to-width-down/75?cb=20240331142559"
+                "release_id": "2024-corvette-stingray-cherry-red-htb52",
+                "toy_number": "HTB52",
+                "casting_id": "corvette-stingray",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Cherry Red",
+                    "tampo": "Corvette logo and dark yellow & white stripes on sides & hood, Hot Wheels logo on quarter panel",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Heavy smoke tint",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "109/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): S47, S49, S50, S51",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/Stingray._2024_HW_Dream_Garage%2C_Red.jpg/revision/latest?cb=20240331142559"
+                }
             },
             {
-                "Col #": "109/250",
-                "Year": "2024",
-                "Series": "HW Dream Garage 5/5",
-                "Color": "Dark Blue",
-                "Tampo": "Corvette logo and blue & silver stripes on sides & hood, Hot Wheels logo on quarter panel",
-                "base_color": "Unpainted",
-                "base_type": "Metal",
-                "Window Color": "Heavy smoke tint",
-                "Interior Color": "None",
-                "Wheel Type": "RSW",
-                "Toy #": "HTD53",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): T19, T22",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/HTD53.jpg/revision/latest/scale-to-width-down/75?cb=20250529105329"
+                "release_id": "2024-corvette-stingray-dark-blue-htd53",
+                "toy_number": "HTD53",
+                "casting_id": "corvette-stingray",
+                "year": 2024,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "Corvette logo and blue & silver stripes on sides & hood, Hot Wheels logo on quarter panel",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Heavy smoke tint",
+                    "interior_color": "None",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "109/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): T19, T22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/HTD53.jpg/revision/latest?cb=20250529105329"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2025",
-                "Series": "Multipack Exclusive",
-                "Color": "Gold",
-                "Tampo": "Black & white stripe with \"Corvette\" text, HW logo",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Lip OH5",
-                "Toy #": "X6999",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): T50N, U06N, U07N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/79/2025_Multi-pack_stingray.jpg/revision/latest/scale-to-width-down/75?cb=20250425155553"
+                "release_id": "2025-corvette-stingray-gold-x6999",
+                "toy_number": "X6999",
+                "casting_id": "corvette-stingray",
+                "year": 2025,
+                "series_id": "multipack",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "Black & white stripe with \"Corvette\" text, HW logo",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Lip OH5"
+                    },
+                    "col": "109/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): T50N, U06N, U07N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/2025_Multi-pack_stingray.jpg/revision/latest?cb=20250425155553"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2026",
-                "Series": "Blue and Gold 6/6",
-                "Color": "Chrome gold",
-                "Tampo": "Hot Wheels logo, \"58\", blue stripes on sides",
-                "base_color": "Blue",
-                "base_type": "Metal",
-                "Window Color": "Blue tint",
-                "Interior Color": "",
-                "Wheel Type": "Gold Chrome AeroDisc / 2026 / White / Black, red and orange graphics and Corvette logo on hood and sides, black Hot Wheels logo on sides / Black / Metal / Smoke tint / Chrome red lip, black RSW / Base code(s):",
-                "Toy #": "JKX86",
-                "Country": "Malaysia",
-                "Notes": "Chase Base code(s): U26N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/24/JKX86_Stingray_Chase_o1.jpg/revision/latest/scale-to-width-down/75?cb=20251007083135"
+                "release_id": "2026-corvette-stingray-chrome-gold-jkx86",
+                "toy_number": "JKX86",
+                "casting_id": "corvette-stingray",
+                "year": 2026,
+                "series_id": "blue",
+                "series_index": 6,
+                "specs": {
+                    "color": "Chrome gold",
+                    "tampo": "Hot Wheels logo, \"58\", blue stripes on sides",
+                    "base_color": "Blue",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold Chrome AeroDisc",
+                        "1": "Chrome red lip, black RSW"
+                    },
+                    "col": "109/250"
+                },
+                "country": "Malaysia",
+                "notes": "Chase Base code(s): U26N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/JKX86_Stingray_Chase_o1.jpg/revision/latest?cb=20251007083135",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

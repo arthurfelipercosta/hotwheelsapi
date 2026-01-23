@@ -1,93 +1,141 @@
 [
     {
-        "metadata": {
-            "name": "Honda Odyssey",
-            "Debut series": "HW Showroom",
-            "image": "2014 Honda Odyssey-2016 115.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2014_Honda_Odyssey-2016_115.jpg/revision/latest/scale-to-width-down/268?cb=20160612160134"
-        },
+        "casting_id": "honda-odyssey",
+        "name": "Honda Odyssey",
         "description": {
             "en-us": "Honda Odyssey Debut series HW Showroom Produced 2016 - Present Designer Jun Imai Number DHP26",
             "pt-br": ""
         },
+        "designer": "Jun Imai",
+        "debut_year": 2016,
+        "manufacturer": "Honda",
         "releases": [
             {
-                "Col #": "115/250",
-                "Year": "2016",
-                "Series": "HW Showroom 5/10",
-                "Color": "White",
-                "Tampo": "Red & Blue stripes, Kaido House, & Yokohama logo on sided",
-                "base_color": "Grey",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Red",
-                "Wheel Type": "Black PR5",
-                "Toy #": "DHP26",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): J13, J14, J16, J17, J19",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2014_Honda_Odyssey-2016_115.jpg/revision/latest/scale-to-width-down/75?cb=20160612160134"
+                "release_id": "2016-honda-odyssey-white-dhp26",
+                "toy_number": "DHP26",
+                "casting_id": "honda-odyssey",
+                "year": 2016,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Red & Blue stripes, Kaido House, & Yokohama logo on sided",
+                    "base_color": "Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "col": "115/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): J13, J14, J16, J17, J19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/2014_Honda_Odyssey-2016_115.jpg/revision/latest?cb=20160612160134"
+                }
             },
             {
-                "Col #": "058/365",
-                "Year": "2017",
-                "Series": "HW Speed Graphics 7/10",
-                "Color": "Red",
-                "Tampo": "Red & Blue stripes, NGK Spark Plugs logos on sides",
-                "base_color": "Grey",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome Lip PR5",
-                "Toy #": "DTX63",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): J38, J39, J42, J43, J44, J45, J48",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Odyssey-2017HWSG.jpg/revision/latest/scale-to-width-down/75?cb=20161211170539"
+                "release_id": "2017-honda-odyssey-red-dtx63",
+                "toy_number": "DTX63",
+                "casting_id": "honda-odyssey",
+                "year": 2017,
+                "series_id": "hw",
+                "series_index": 7,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Red & Blue stripes, NGK Spark Plugs logos on sides",
+                    "base_color": "Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "col": "058/365"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): J38, J39, J42, J43, J44, J45, J48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Odyssey-2017HWSG.jpg/revision/latest?cb=20161211170539"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2018",
-                "Series": "Honda 70th Anniversary 8/8",
-                "Color": "Silver",
-                "Tampo": "Black stripes on sides and hood. \"Honda\" logo in gold on side stripes. Hot Wheels flame logo on rear quarter panel",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "Chrome Lip PR5 / ?/250 / 2026 / Unknown / Blue / Honda banner on windshield, Motul and GReddy sponsors, black \"93 BOOST TIME!\", white stripe to dots gradient, itasha -style mechanic with \"I CAN FIX THAT!\", red and blue stripes, kanji and Hot Wheels logo on sides / Black / Plastic / Smoke tint / White / White Lip AeroDisc / Malaysia / Base code(s): / Red Edition ?/12 / Honda banner on windshield, Motul and GReddy sponsors, black \"93 BOOST TIME!\", white stripe to dots gradient, itasha -style mechanic with \"I CAN FIX THAT!\", red and gray stripes, kanji, Hot Wheels logo and white \"RED\" on sides / White / Plastic / White Lip PR5 / Target Exclusive Base code(s):",
-                "Toy #": "FKD30 GDG53",
-                "Country": "Malaysia",
-                "Notes": "Base code(s) : K49, L13",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/2/22/DSC07490-0.jpg/revision/latest/scale-to-width-down/75?cb=20180421110454"
+                "release_id": "2018-honda-odyssey-silver-fkd30-gdg53",
+                "toy_number": "FKD30 GDG53",
+                "casting_id": "honda-odyssey",
+                "year": 2018,
+                "series_id": "honda",
+                "series_index": 8,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Black stripes on sides and hood. \"Honda\" logo in gold on side stripes. Hot Wheels flame logo on rear quarter panel",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5",
+                        "1": "White Lip AeroDisc",
+                        "2": "White Lip PR5"
+                    },
+                    "col": "058/365"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s) : K49, L13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/DSC07490-0.jpg/revision/latest?cb=20180421110454",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             },
             {
-                "Year": "2018",
-                "Series": "Car Culture: Cargo Carriers 5/5",
-                "Color": "Metalflake Maroon",
-                "Tampo": "Detailed head- & taillights, 'Bisimoto' in rear window",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "RREx",
-                "Toy #": "FLC11",
-                "Country": "Thailand",
-                "Notes": "Base code(s): L01, L02, L03, L04",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/CargoCarrierHon.JPG/revision/latest/scale-to-width-down/75?cb=20180415052703"
+                "release_id": "2018-honda-odyssey-metalflake-maroon-flc11",
+                "toy_number": "FLC11",
+                "casting_id": "honda-odyssey",
+                "year": 2018,
+                "series_id": "car",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metalflake Maroon",
+                    "tampo": "Detailed head- & taillights, 'Bisimoto' in rear window",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RREx"
+                    }
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): L01, L02, L03, L04",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/CargoCarrierHon.JPG/revision/latest?cb=20180415052703"
+                }
             },
             {
-                "Year": "2018",
-                "Series": "Pop Culture: Street Fighter V 5/5",
-                "Color": "Metalflake Light Purple",
-                "Tampo": "Street Fighter Logo and Character Design on sides",
-                "base_color": "Black",
-                "base_type": "Metal",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "C4SPRR",
-                "Toy #": "FKY45",
-                "Country": "Thailand",
-                "Notes": "Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/3/30/56461721-FBEE-43D3-89B8-B21449E518B0.jpeg/revision/latest/scale-to-width-down/75?cb=20190217055408"
+                "release_id": "2018-honda-odyssey-metalflake-light-purple-fky45",
+                "toy_number": "FKY45",
+                "casting_id": "honda-odyssey",
+                "year": 2018,
+                "series_id": "pop",
+                "series_index": 5,
+                "specs": {
+                    "color": "Metalflake Light Purple",
+                    "tampo": "Street Fighter Logo and Character Design on sides",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "C4SPRR"
+                    }
+                },
+                "country": "Thailand",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/56461721-FBEE-43D3-89B8-B21449E518B0.jpeg/revision/latest?cb=20190217055408"
+                }
             }
         ]
     }

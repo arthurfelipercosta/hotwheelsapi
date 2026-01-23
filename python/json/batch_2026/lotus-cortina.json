@@ -1,63 +1,89 @@
 [
     {
-        "metadata": {
-            "name": "Lotus Cortina",
-            "Debut series": "Compact Kings",
-            "image": "LotusCortina.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/7/76/LotusCortina.jpg/revision/latest/scale-to-width-down/268?cb=20250604131533"
-        },
+        "casting_id": "lotus-cortina",
+        "name": "Lotus Cortina",
         "description": {
             "en-us": "Lotus Cortina Debut series Compact Kings Produced 2025 – Present Designer Fraser Campbell Number HYW46",
             "pt-br": ""
         },
+        "designer": "Fraser Campbell",
+        "debut_year": 2025,
+        "manufacturer": "Lotus",
         "releases": [
             {
-                "Col #": "213/250",
-                "Year": "2025",
-                "Series": "Compact Kings 10/10",
-                "Color": "Ivory",
-                "Tampo": "Dark green striping, yellow accent striping, Team Lotus wordmark on doors, Lotus logo on rear, \"71\" on sides and hood",
-                "base_color": "Ivory",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Olive green",
-                "Wheel Type": "AeroDisc",
-                "Toy #": "HYW46",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U16A, U16N, U17N, U18N, U19N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/76/LotusCortina.jpg/revision/latest/scale-to-width-down/75?cb=20250604131533"
+                "release_id": "2025-lotus-cortina-ivory-hyw46",
+                "toy_number": "HYW46",
+                "casting_id": "lotus-cortina",
+                "year": 2025,
+                "series_id": "compact",
+                "series_index": 10,
+                "specs": {
+                    "color": "Ivory",
+                    "tampo": "Dark green striping, yellow accent striping, Team Lotus wordmark on doors, Lotus logo on rear, \"71\" on sides and hood",
+                    "base_color": "Ivory",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Olive green",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "col": "213/250"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U16A, U16N, U17N, U18N, U19N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/LotusCortina.jpg/revision/latest?cb=20250604131533"
+                }
             },
             {
-                "Col #": "067/250",
-                "Year": "2026",
-                "Series": "HW Euro 3/10",
-                "Color": "Satin cherry",
-                "Tampo": "Gold stripes and roof, \"63\" on hood and sides, \"TEAM HWS\" on sides, white accents, Consul wordmark on hood, Lotus logo on rear quarterpanel",
-                "base_color": "Red",
-                "base_type": "Plastic",
-                "Window Color": "Yellow tint",
-                "Interior Color": "Gold",
-                "Wheel Type": "AeroDisc",
-                "Toy #": "JJJ34",
-                "Country": "Malaysia",
-                "Notes": "Base code(s) : U41N, U42N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/9/99/1963Cortina.jpg/revision/latest/scale-to-width-down/75?cb=20251121095216"
+                "release_id": "2026-lotus-cortina-satin-cherry-jjj34",
+                "toy_number": "JJJ34",
+                "casting_id": "lotus-cortina",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Satin cherry",
+                    "tampo": "Gold stripes and roof, \"63\" on hood and sides, \"TEAM HWS\" on sides, white accents, Consul wordmark on hood, Lotus logo on rear quarterpanel",
+                    "base_color": "Red",
+                    "base_type": "Plastic",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Gold",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "col": "067/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s) : U41N, U42N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/1963Cortina.jpg/revision/latest?cb=20251121095216"
+                }
             },
             {
-                "Col #": "067/250",
-                "Year": "2026",
-                "Series": "HW Euro 3/10",
-                "Color": "Mint green",
-                "Tampo": "Olive stripes and roof, \"63\" on hood and sides, \"TEAM HWS\" on sides, white accents, Consul wordmark on hood, Lotus logo on rear quarterpanel",
-                "base_color": "Mint green",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Mint green",
-                "Wheel Type": "AeroDisc",
-                "Toy #": "JJM47",
-                "Country": "Malaysia",
-                "Notes": "Dollar Tree/Family Dollar Exclusive Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-lotus-cortina-mint-green-jjm47",
+                "toy_number": "JJM47",
+                "casting_id": "lotus-cortina",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 3,
+                "specs": {
+                    "color": "Mint green",
+                    "tampo": "Olive stripes and roof, \"63\" on hood and sides, \"TEAM HWS\" on sides, white accents, Consul wordmark on hood, Lotus logo on rear quarterpanel",
+                    "base_color": "Mint green",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Mint green",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "col": "067/250"
+                },
+                "country": "Malaysia",
+                "notes": "Dollar Tree/Family Dollar Exclusive Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

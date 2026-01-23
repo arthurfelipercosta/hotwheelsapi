@@ -1,31 +1,40 @@
 [
     {
-        "metadata": {
-            "name": "Fiat Beast of Turin",
-            "Debut series": "Unknown",
-            "image": "Image Not Available.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
-        },
+        "casting_id": "fiat-beast-of-turin",
+        "name": "Fiat Beast of Turin",
         "description": {
             "en-us": "Fiat Beast of Turin Debut series Unknown Produced 2026 Designer Unknown Number JJHxx",
             "pt-br": ""
         },
+        "designer": "Unknown",
+        "debut_year": 2026,
+        "manufacturer": "Fiat",
         "releases": [
             {
-                "Col #": "?/250",
-                "Year": "2026",
-                "Series": "Unknown ?/?",
-                "Color": "Rosso Corsa",
-                "Tampo": "White \"76\" & HW logo on sides",
-                "base_color": "Red",
-                "base_type": "Plastic",
-                "Interior Color": "Chrome gold",
-                "Steering Wheel Color": "Black",
-                "Wheel Type": "WWIM",
-                "Toy #": "JJHxx",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest/scale-to-width-down/75?cb=20151025125428"
+                "release_id": "2026-fiat-beast-of-turin-rosso-corsa-jjhxx",
+                "toy_number": "JJHxx",
+                "casting_id": "fiat-beast-of-turin",
+                "year": 2026,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Rosso Corsa",
+                    "tampo": "White \"76\" & HW logo on sides",
+                    "base_color": "Red",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "Chrome gold",
+                    "wheel_type": {
+                        "0": "WWIM"
+                    },
+                    "col": "?/250",
+                    "steering_wheel_color": "Black"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

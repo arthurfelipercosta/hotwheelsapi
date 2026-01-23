@@ -1,111 +1,165 @@
 [
     {
-        "metadata": {
-            "name": "'76 Chevy Chevette",
-            "Debut series": "Flying Customs",
-            "image": "'76ChevyChevette.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/%2776ChevyChevette.jpg/revision/latest/scale-to-width-down/268?cb=20211007025900"
-        },
+        "casting_id": "76-chevy-chevette",
+        "name": "'76 Chevy Chevette",
         "description": {
             "en-us": "'76 Chevy Chevette Debut series Flying Customs Produced 2013 - present Designer Brendon Vetuskey Number X8178",
             "pt-br": ""
         },
+        "designer": "Brendon Vetuskey",
+        "debut_year": 2013,
+        "manufacturer": "'76",
         "releases": [
             {
-                "Col #": "",
-                "Year": "2013",
-                "Series": "Flying Customs",
-                "Color": "Purple",
-                "Tampo": "Yellow & Orange flames & stripes",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Clear",
-                "Interior Color": "Silver",
-                "Wheel Type": "BW",
-                "Toy #": "X8178",
-                "Country": "Thailand",
-                "Notes": "Base code(s): F22",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/%2776ChevyChevette.jpg/revision/latest/scale-to-width-down/75?cb=20211007025900"
+                "release_id": "2013-76-chevy-chevette-purple-x8178",
+                "toy_number": "X8178",
+                "casting_id": "76-chevy-chevette",
+                "year": 2013,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Yellow & Orange flames & stripes",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Silver",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "col": ""
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): F22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/%2776ChevyChevette.jpg/revision/latest?cb=20211007025900"
+                }
             },
             {
-                "Col #": "",
-                "Year": "2014",
-                "Series": "Cool Classics 28/30",
-                "Color": "Spectrafrost Green",
-                "Tampo": "Dark green deco stripes on hood, roof and sides.",
-                "base_color": "ZAMAC",
-                "base_type": "",
-                "Window Color": "Clear",
-                "Interior Color": "Green",
-                "Wheel Type": "RSW",
-                "Toy #": "BDR49",
-                "Country": "Thailand",
-                "Notes": "Base code(s): H05",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HW-2014-Cool_Classics--28-1976_Chevy_Chevette...jpg/revision/latest/scale-to-width-down/75?cb=20150507031551"
+                "release_id": "2014-76-chevy-chevette-spectrafrost-green-bdr49",
+                "toy_number": "BDR49",
+                "casting_id": "76-chevy-chevette",
+                "year": 2014,
+                "series_id": "cool",
+                "series_index": 28,
+                "specs": {
+                    "color": "Spectrafrost Green",
+                    "tampo": "Dark green deco stripes on hood, roof and sides.",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Green",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": ""
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): H05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HW-2014-Cool_Classics--28-1976_Chevy_Chevette...jpg/revision/latest?cb=20150507031551"
+                }
             },
             {
-                "Col #": "197/250",
-                "Year": "2023",
-                "Series": "HW Drag Strip 9/10",
-                "Color": "Metalflake Red",
-                "Tampo": "Orange, Yellow, and Black stripes roof, hood, and sides. White Chevrolet logo, \"GOODYEAR\", and \"BELL\" on sides.",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "MC5 & 5SP",
-                "Toy #": "HKH35",
-                "Country": "Malaysia",
-                "Notes": "New in Mainline Base code(s): S19, S20, S21, S22, S23, S24",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/HKH35-LOOSE.jpg/revision/latest/scale-to-width-down/75?cb=20230820081305"
+                "release_id": "2023-76-chevy-chevette-metalflake-red-hkh35",
+                "toy_number": "HKH35",
+                "casting_id": "76-chevy-chevette",
+                "year": 2023,
+                "series_id": "hw",
+                "series_index": 9,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "Orange, Yellow, and Black stripes roof, hood, and sides. White Chevrolet logo, \"GOODYEAR\", and \"BELL\" on sides.",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5 & 5SP"
+                    },
+                    "col": "197/250"
+                },
+                "country": "Malaysia",
+                "notes": "New in Mainline Base code(s): S19, S20, S21, S22, S23, S24",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/HKH35-LOOSE.jpg/revision/latest?cb=20230820081305"
+                }
             },
             {
-                "Col #": "197/250",
-                "Year": "2023",
-                "Series": "Red Edition 12/12",
-                "Color": "Black",
-                "Tampo": "Red, yellow and orange stripes on sides. Various sponser tampos",
-                "base_color": "Chrome",
-                "base_type": "Plastic",
-                "Window Color": "Clear",
-                "Interior Color": "Grey",
-                "Wheel Type": "Orange chrome rim, Black MC5 & Orange 5SP",
-                "Toy #": "HKL60",
-                "Country": "Malaysia",
-                "Notes": "Target Exclusive New in Mainline Base code(s): S15, S22",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/240111095656.jpg/revision/latest/scale-to-width-down/75?cb=20240111015838"
+                "release_id": "2023-76-chevy-chevette-black-hkl60",
+                "toy_number": "HKL60",
+                "casting_id": "76-chevy-chevette",
+                "year": 2023,
+                "series_id": "red",
+                "series_index": 12,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red, yellow and orange stripes on sides. Various sponser tampos",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Orange chrome rim, Black MC5 & Orange 5SP"
+                    },
+                    "col": "197/250"
+                },
+                "country": "Malaysia",
+                "notes": "Target Exclusive New in Mainline Base code(s): S15, S22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/240111095656.jpg/revision/latest?cb=20240111015838"
+                }
             },
             {
-                "Col #": "102/250",
-                "Year": "2025",
-                "Series": "Compact Kings 3/10",
-                "Color": "Yellow",
-                "Tampo": "NHRA logo, Hot Wheels logo, and various sponsor logos on sides; red & blue stripes on sides & roof; blue stripes on hood",
-                "base_color": "Gray",
-                "base_type": "Plastic",
-                "Window Color": "Light smoke tint",
-                "Interior Color": "Black",
-                "Wheel Type": "RSW",
-                "Toy #": "HYX43",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): T43, T44, T45, T46, T47, T48, T48N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/NHRAChevette.jpg/revision/latest/scale-to-width-down/75?cb=20250111110650"
+                "release_id": "2025-76-chevy-chevette-yellow-hyx43",
+                "toy_number": "HYX43",
+                "casting_id": "76-chevy-chevette",
+                "year": 2025,
+                "series_id": "compact",
+                "series_index": 3,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "NHRA logo, Hot Wheels logo, and various sponsor logos on sides; red & blue stripes on sides & roof; blue stripes on hood",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Light smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "102/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): T43, T44, T45, T46, T47, T48, T48N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/NHRAChevette.jpg/revision/latest?cb=20250111110650"
+                }
             },
             {
-                "Col #": "076/250",
-                "Year": "2026",
-                "Series": "Drag Racers 1/10",
-                "Color": "Light Blue",
-                "Tampo": "Orange & White stripes, \"76\", Chevrolet logo, VP Racing logo, Hot Wheels logo",
-                "base_color": "Black",
-                "base_type": "Plastic",
-                "Window Color": "Light smoke tint",
-                "Interior Color": "Red",
-                "Wheel Type": "White 5SP / 076/250 / 2026 / Drag Racers 1/10 / Malaysia / Base code(s):",
-                "Toy #": "JJJ40",
-                "Country": "Malaysia",
-                "Notes": "Base code(s): U41N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/DragChevette.jpg/revision/latest/scale-to-width-down/75?cb=20251121095559"
+                "release_id": "2026-76-chevy-chevette-light-blue-jjj40",
+                "toy_number": "JJJ40",
+                "casting_id": "76-chevy-chevette",
+                "year": 2026,
+                "series_id": "drag",
+                "series_index": 1,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "Orange & White stripes, \"76\", Chevrolet logo, VP Racing logo, Hot Wheels logo",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Light smoke tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "White 5SP"
+                    },
+                    "col": "076/250"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): U41N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/DragChevette.jpg/revision/latest?cb=20251121095559",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
             }
         ]
     }

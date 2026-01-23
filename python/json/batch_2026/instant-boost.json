@@ -1,47 +1,66 @@
 [
     {
-        "metadata": {
-            "name": "Instant Boost",
-            "Debut series": "HW Starting Grid",
-            "image": "InstantBoost.jpg",
-            "image_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest/scale-to-width-down/268?cb=20250920121126"
-        },
+        "casting_id": "instant-boost",
+        "name": "Instant Boost",
         "description": {
             "en-us": "Instant Boost Debut series HW Starting Grid Produced 2026 – Present Designer Charlie Angulo Number JJH31",
             "pt-br": ""
         },
+        "designer": "Charlie Angulo",
+        "debut_year": 2026,
+        "manufacturer": "Instant",
         "releases": [
             {
-                "Col #": "022/250",
-                "Year": "2026",
-                "Series": "HW Starting Grid 1/10",
-                "Color": "White",
-                "Tampo": "\"15\", \"Instant Boost\", \"BREW - RACE - REPEAT\" on sides, \"Brewce Americano\" on top",
-                "base_color": "Almond",
-                "base_type": "Metal",
-                "Engine Color": "Chrome",
-                "Interior Color": "Coffee",
-                "Wheel Type": "Emerald & Chrome 5SP",
-                "Toy #": "JJH31",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s): U28N, U34N",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest/scale-to-width-down/75?cb=20250920121126"
+                "release_id": "2026-instant-boost-white-jjh31",
+                "toy_number": "JJH31",
+                "casting_id": "instant-boost",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "White",
+                    "tampo": "\"15\", \"Instant Boost\", \"BREW - RACE - REPEAT\", Hot Wheels logo, \"Brewce Americano\" on sides",
+                    "base_color": "Almond",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Coffee",
+                    "wheel_type": {
+                        "0": "Emerald tire 5SP"
+                    },
+                    "col": "022/250",
+                    "engine_color": "Chrome"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U28N, U34N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/InstantBoost.jpg/revision/latest?cb=20250920121126"
+                }
             },
             {
-                "Col #": "022/250",
-                "Year": "2026",
-                "Series": "HW Starting Grid 1/10",
-                "Color": "Smoke tint",
-                "Tampo": "\"15\", \"Instant Boost\", \"BREW - RACE - REPEAT\" on sides, \"Brewce Americano\" on top",
-                "base_color": "White",
-                "base_type": "Metal",
-                "Engine Color": "Brown",
-                "Interior Color": "Almond",
-                "Wheel Type": "Bronze 5SP",
-                "Toy #": "JJK73",
-                "Country": "Malaysia",
-                "Notes": "New Model Base code(s):",
-                "Photo": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/BrewceAmericano.jpg/revision/latest/scale-to-width-down/75?cb=20260121131441"
+                "release_id": "2026-instant-boost-clear-black-jjk73",
+                "toy_number": "JJK73",
+                "casting_id": "instant-boost",
+                "year": 2026,
+                "series_id": "hw",
+                "series_index": 1,
+                "specs": {
+                    "color": "Clear Black",
+                    "tampo": "\"15\", \"Instant Boost\", \"BREW - RACE - REPEAT\", Hot Wheels logo, \"Brewce Americano\" on sides",
+                    "base_color": "White",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Almond",
+                    "wheel_type": {
+                        "0": "Clear black tire, Bronze 5SP"
+                    },
+                    "col": "022/250",
+                    "engine_color": "Brown"
+                },
+                "country": "Malaysia",
+                "notes": "New Model Base code(s): U50N",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/BrewceAmericano.jpg/revision/latest?cb=20260121131441"
+                }
             }
         ]
     }

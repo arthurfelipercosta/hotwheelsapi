@@ -1,0 +1,41 @@
+{
+    "casting_id": "bugeye",
+    "name": "Bugeye",
+    "description": {
+        "en-us": "Bugeye Debut series 1971 Hot Wheels Produced 1971 - 1973 Designer Larry Wood Number 6178",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-bugeye-unknown-6178.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v2.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v3.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v4.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v5.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v6.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v7.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v8.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v9.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v10.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v11.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v12.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v13.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v14.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v15.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v16.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v17.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v18.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v19.json",
+        "../data/releases/1971/1971-bugeye-unknown-6178-v20.json",
+        "../data/releases/1973/1973-bugeye-unknown-shell05.json",
+        "../data/releases/1973/1973-bugeye-unknown-shell05-v2.json",
+        "../data/releases/1973/1973-bugeye-unknown-shell05-v3.json",
+        "../data/releases/1973/1973-bugeye-unknown-shell05-v4.json",
+        "../data/releases/1973/1973-bugeye-unknown-shell05-v5.json",
+        "../data/releases/1973/1973-bugeye-unknown-shell05-v6.json",
+        "../data/releases/1973/1973-bugeye-unknown-shell05-v7.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

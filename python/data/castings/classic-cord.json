@@ -1,0 +1,18 @@
+{
+    "casting_id": "classic-cord",
+    "name": "Classic Cord",
+    "description": {
+        "en-us": "Classic Cord Debut series 1971 Hot Wheels Produced 1971 - 1972 (Original) 2005 - 2010 ( Retool ) Designer Larry Wood Number 6472",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2005/2005-classic-cord-spectraflame-steel-blue-h2925.json",
+        "../data/releases/2006/2006-classic-cord-spectraflame-pink-k3816.json",
+        "../data/releases/2007/2007-classic-cord-dark-green-k9854.json",
+        "../data/releases/2010/2010-classic-cord-spectraflame-gold-r8395.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

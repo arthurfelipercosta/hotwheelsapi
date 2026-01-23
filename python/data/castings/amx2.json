@@ -1,0 +1,42 @@
+{
+    "casting_id": "amx2",
+    "name": "AMX/2",
+    "description": {
+        "en-us": "AMX/2 Debut series 1971 Hot Wheels Produced 1971 – 1983 Designer Paul Tam Number 6460",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-amx2-spectraflame-blue-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-green-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-light-apple-green-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-light-blue-ice-blue-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-magenta-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-purple-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-pink-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-salmon-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-rose-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-red-6460.json",
+        "../data/releases/1971/1971-amx2-spectraflame-yellow-6460.json",
+        "../data/releases/1973/1973-amx2-enamel-yellow-6977.json",
+        "../data/releases/1973/1973-amx2-enamel-dark-blue-6977.json",
+        "../data/releases/1973/1973-amx2-enamel-dark-green-6977.json",
+        "../data/releases/1973/1973-amx2-fluorescent-lime-green-6977.json",
+        "../data/releases/1973/1973-amx2-fluorescent-pink-6977.json",
+        "../data/releases/1973/1973-amx2-enamel-light-blue-6977.json",
+        "../data/releases/1973/1973-amx2-enamel-light-green-6977.json",
+        "../data/releases/1973/1973-amx2-enamel-orange-6977.json",
+        "../data/releases/1973/1973-amx2-enamel-plum-6977.json",
+        "../data/releases/1973/1973-amx2-enamel-red-6977.json",
+        "../data/releases/1975/1975-amx2-white-7654.json",
+        "../data/releases/1975/1975-amx2-white-7654-v2.json",
+        "../data/releases/1975/1975-amx2-red-7654.json",
+        "../data/releases/1983/1983-amx2-white-7654.json",
+        "../data/releases/1983/1983-amx2-white-7654-v2.json",
+        "../data/releases/1983/1983-amx2-light-blue-7654.json",
+        "../data/releases/1983/1983-amx2-blue-7654.json"
+    ],
+    "specs": {},
+    "designer": "Paul Tam",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

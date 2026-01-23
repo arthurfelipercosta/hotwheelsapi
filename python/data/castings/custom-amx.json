@@ -1,0 +1,19 @@
+{
+    "casting_id": "custom-amx",
+    "name": "Custom AMX",
+    "description": {
+        "en-us": "Custom AMX Debut series Mainline Produced 1969 (Original) 2010 - 2014 ( Retool ) Designer Ira Gilford Number 6267",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2010/2010-custom-amx-chrome-r8384.json",
+        "../data/releases/2010/2010-custom-amx-spectraflame-red-r8385.json",
+        "../data/releases/2010/2010-custom-amx-spectraflame-blue-r8386.json",
+        "../data/releases/2010/2010-custom-amx-spectraflame-purple-r8387.json",
+        "../data/releases/2014/2014-custom-amx-spectraflame-pink-blr31.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1969,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,26 @@
+{
+    "release_id": "1995-custom-mustang-24k-gold-15925",
+    "toy_number": "15925",
+    "casting_id": "custom-mustang",
+    "year": 1995,
+    "series_id": "fao",
+    "series_index": null,
+    "specs": {
+        "color": "24K Gold",
+        "tampo": "Gold \"Hot Wheels\" logo on rear window",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold WW"
+        },
+        "col": "",
+        "chassis_color_type": "Unpainted / Metal"
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/FAO24KMustang.jpg/revision/latest?cb=20090318224045"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "casting_id": "classic-36-ford-coupe",
+    "name": "Classic '36 Ford Coupe",
+    "description": {
+        "en-us": "Classic '36 Ford Coupe Debut series Mainline Produced 1969 (Original) 2005 - 2011 ( Retool ) Designer Ira Gilford Number 6253",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2005/2005-classic-36-ford-coupe-spectraflame-antifreeze-h2923.json",
+        "../data/releases/2006/2006-classic-36-ford-coupe-spectraflame-pink-k3826.json",
+        "../data/releases/2007/2007-classic-36-ford-coupe-flat-black-l2119.json",
+        "../data/releases/2011/2011-classic-36-ford-coupe-dark-blue-and-black-v0513.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1969,
+    "manufacturer": "Mattel"
+}

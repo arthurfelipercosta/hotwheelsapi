@@ -1,0 +1,13 @@
+{
+    "brand_id": "shelby",
+    "name": "Shelby",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/shelby-turbine.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Shelby vehicles.",
+        "pt-br": "Fabricante de veículos Shelby."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "casting_id": "silhouette",
+    "name": "Silhouette",
+    "description": {
+        "en-us": "Silhouette Debut series 1968 Hot Wheels Produced 1968 (original) 1993 - 1995 ( retool ) 2018 - Present (second retool) Designer Harry Bradley Brendon Vetuskey (2018 Retool ) Number 6209",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1993/1993-silhouette-metalflake-purple-10960.json",
+        "../data/releases/1993/1993-silhouette-metalflake-dark-olive-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-light-green-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-magenta-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-orange-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-gold-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-light-blue-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-aqua-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-red-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-brown-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-lavender-pink-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-lime-5715.json",
+        "../data/releases/1993/1993-silhouette-metalflake-dk-blue-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-aqua-green-turquoise-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-orange-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-yellow-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-silver-grey-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-pink-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-black-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-blue-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-burgundy-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-lt-green-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-magenta-5715.json",
+        "../data/releases/1994/1994-silhouette-metalflake-light-gray-5715.json",
+        "../data/releases/1994/1994-silhouette-maroon-5715.json",
+        "../data/releases/1995/1995-silhouette-gold-chrome-13828.json",
+        "../data/releases/2018/2018-silhouette-spectraflame-antifreeze-fnc30.json",
+        "../data/releases/2018/2018-silhouette-spectraflame-aqua-fnc23.json",
+        "../data/releases/2025/2025-silhouette-spectraflame-ruby-red-jcp66.json"
+    ],
+    "specs": {},
+    "designer": "Harry Bradley Brendon Vetuskey (2018 Retool )",
+    "debut_year": 1968,
+    "manufacturer": "Mattel"
+}

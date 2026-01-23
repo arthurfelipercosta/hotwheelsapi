@@ -1,0 +1,21 @@
+{
+    "casting_id": "the-heavies",
+    "name": "The Heavies",
+    "description": {
+        "en-us": "The Heavies series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-the-heavies-orange-9647.json",
+        "../data/releases/unknown/0-the-heavies-gray-7621.json",
+        "../data/releases/unknown/0-the-heavies-white-1337.json",
+        "../data/releases/unknown/0-the-heavies-orange-9645.json",
+        "../data/releases/unknown/0-the-heavies-white-9643.json",
+        "../data/releases/unknown/0-the-heavies-yellow-9184.json",
+        "../data/releases/unknown/0-the-heavies-white-7659.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

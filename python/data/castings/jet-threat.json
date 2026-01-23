@@ -1,0 +1,36 @@
+{
+    "casting_id": "jet-threat",
+    "name": "Jet Threat",
+    "description": {
+        "en-us": "Jet Threat Debut series 1971 Hot Wheels Produced 1971 - 1973 , 1976 - 1978 Designer Larry Wood Number 6179",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-jet-threat-spectraflame-yellow-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-light-apple-green-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-red-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-aqua-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-blue-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-green-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-lime-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-magenta-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-purple-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-rose-6179.json",
+        "../data/releases/1971/1971-jet-threat-spectraflame-gold-6179.json",
+        "../data/releases/1973/1973-jet-threat-enamel-light-blue-shell08.json",
+        "../data/releases/1973/1973-jet-threat-flourescent-dark-blue-shell08.json",
+        "../data/releases/1973/1973-jet-threat-enamel-pink-shell08.json",
+        "../data/releases/1973/1973-jet-threat-enamel-red-shell08.json",
+        "../data/releases/1973/1973-jet-threat-enamel-yellow-shell08.json",
+        "../data/releases/1973/1973-jet-threat-flourescent-green-shell08.json",
+        "../data/releases/1973/1973-jet-threat-enamel-lime-green-shell08.json",
+        "../data/releases/1976/1976-jet-threat-enamel-plum-8235.json",
+        "../data/releases/1977/1977-jet-threat-enamel-plum-8235.json",
+        "../data/releases/1978/1978-jet-threat-enamel-dark-blue-8235.json",
+        "../data/releases/1978/1978-jet-threat-enamel-dark-blue-8235-v2.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

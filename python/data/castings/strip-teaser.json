@@ -1,0 +1,30 @@
+{
+    "casting_id": "strip-teaser",
+    "name": "Strip Teaser",
+    "description": {
+        "en-us": "Strip Teaser Debut series 1971 Hot Wheels Produced 1971 - 1973 Designer Larry Wood Number 6188",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-strip-teaser-spectraflame-light-blue-6188.json",
+        "../data/releases/1971/1971-strip-teaser-spectraflame-blue-6188.json",
+        "../data/releases/1971/1971-strip-teaser-spectraflame-aqua-6188.json",
+        "../data/releases/1971/1971-strip-teaser-spectraflame-light-apple-green-6188.json",
+        "../data/releases/1971/1971-strip-teaser-spectraflame-lime-6188.json",
+        "../data/releases/1971/1971-strip-teaser-spectraflame-yellow-6188.json",
+        "../data/releases/1971/1971-strip-teaser-spectraflame-gold-6188.json",
+        "../data/releases/1971/1971-strip-teaser-spectraflame-red-6188.json",
+        "../data/releases/1971/1971-strip-teaser-spectraflame-magenta-6188.json",
+        "../data/releases/1973/1973-strip-teaser-enamel-red-shell06.json",
+        "../data/releases/1973/1973-strip-teaser-enamel-yellow-shell06.json",
+        "../data/releases/1973/1973-strip-teaser-enamel-dark-blue-shell06.json",
+        "../data/releases/1973/1973-strip-teaser-enamel-light-blue-shell06.json",
+        "../data/releases/1973/1973-strip-teaser-enamel-green-shell06.json",
+        "../data/releases/1973/1973-strip-teaser-flourescent-lime-shell06.json",
+        "../data/releases/1973/1973-strip-teaser-flourescent-pink-shell06.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

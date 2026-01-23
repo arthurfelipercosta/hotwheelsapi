@@ -1,0 +1,13 @@
+{
+    "brand_id": "mclaren",
+    "name": "Mclaren",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/mclaren-m6a.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Mclaren vehicles.",
+        "pt-br": "Fabricante de veículos Mclaren."
+    }
+}

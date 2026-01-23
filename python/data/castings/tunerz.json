@@ -1,0 +1,35 @@
+{
+    "casting_id": "tunerz",
+    "name": "Tunerz",
+    "description": {
+        "en-us": "Tunerz was a series of 1:18 scale tuner cars including extra body kits and wheels for customization. The series started as a part of the 100% Hot Wheels 1:18 Scale line, but the 100% branding was dropped after 2004.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2002/2002-tunerz-gold-56297.json",
+        "../data/releases/2002/2002-tunerz-red-55634.json",
+        "../data/releases/2002/2002-tunerz-green-56296.json",
+        "../data/releases/2003/2003-tunerz-blue-57369.json",
+        "../data/releases/2003/2003-tunerz-red-57370.json",
+        "../data/releases/2003/2003-tunerz-purple-57372.json",
+        "../data/releases/2003/2003-tunerz-red-57373.json",
+        "../data/releases/2003/2003-tunerz-blue-57374.json",
+        "../data/releases/2003/2003-tunerz-yellow-b7676.json",
+        "../data/releases/2004/2004-tunerz-black-c0898.json",
+        "../data/releases/2004/2004-tunerz-orange-c0897.json",
+        "../data/releases/2004/2004-tunerz-silver-c0899.json",
+        "../data/releases/2004/2004-tunerz-silver-c0901.json",
+        "../data/releases/2004/2004-tunerz-yellow-c0895.json",
+        "../data/releases/2004/2004-tunerz-red-c0900.json",
+        "../data/releases/2004/2004-tunerz-black-.json",
+        "../data/releases/2005/2005-tunerz-silver-b6090.json",
+        "../data/releases/2005/2005-tunerz-gold-b0901.json",
+        "../data/releases/2005/2005-tunerz-blue-c0903.json",
+        "../data/releases/2005/2005-tunerz-gold-.json",
+        "../data/releases/2005/2005-tunerz-white-b6093.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,13 @@
+{
+    "brand_id": "dodge",
+    "name": "Dodge",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/custom-charger.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Dodge vehicles.",
+        "pt-br": "Fabricante de veículos Dodge."
+    }
+}

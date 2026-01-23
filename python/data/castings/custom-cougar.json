@@ -1,0 +1,43 @@
+{
+    "casting_id": "custom-cougar",
+    "name": "Custom Cougar",
+    "description": {
+        "en-us": "Custom Cougar Debut series 1968 Hot Wheels Produced 1968 (Original) 2018 - 2025 ( Retool ) Designer Harry Bradley (Original) Mark Jones (2018 Retool) Number 6205",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1968/1968-custom-cougar-spectraflame-blue-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-lime-green-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-green-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-orange-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-olive-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-gold-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-purple-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-aqua-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-antifreeze-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-red-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-light-blue-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-brown-6205.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-brown-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-blue-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-blue-6205-v3.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-orange-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-olive-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-gold-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-red-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-aqua-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-green-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-purple-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-lime-green-6205-v2.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-blue-6205-v4.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-blue-6205-v5.json",
+        "../data/releases/1968/1968-custom-cougar-spectraflame-orange-6205-v3.json",
+        "../data/releases/2018/2018-custom-cougar-spectraflame-orange-fcm81.json",
+        "../data/releases/2018/2018-custom-cougar-spectraflame-purple-fnc23.json",
+        "../data/releases/2025/2025-custom-cougar-spectraflame-ruby-red-jcp66.json"
+    ],
+    "specs": {},
+    "designer": "Harry Bradley (Original) Mark Jones (2018 Retool)",
+    "debut_year": 1968,
+    "manufacturer": "Mattel"
+}

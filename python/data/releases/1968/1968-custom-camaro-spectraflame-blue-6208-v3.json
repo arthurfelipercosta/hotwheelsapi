@@ -1,0 +1,25 @@
+{
+    "release_id": "1968-custom-camaro-spectraflame-blue-6208-v3",
+    "toy_number": "6208",
+    "casting_id": "custom-camaro",
+    "year": 1968,
+    "series_id": "1968",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Metal",
+        "window_color": "Blue tint",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "RL"
+        },
+        "roof_color": "Black"
+    },
+    "country": "HK",
+    "notes": "Backside Blue",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/1968_Custom_Camaro_HK_Backside_Blue.jpg/revision/latest?cb=20211201194948"
+    }
+}

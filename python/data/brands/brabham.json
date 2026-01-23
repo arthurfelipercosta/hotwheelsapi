@@ -1,0 +1,13 @@
+{
+    "brand_id": "brabham",
+    "name": "Brabham",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/brabham-repco-f1.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Brabham vehicles.",
+        "pt-br": "Fabricante de veículos Brabham."
+    }
+}

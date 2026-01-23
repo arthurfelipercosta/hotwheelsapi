@@ -1,0 +1,17 @@
+{
+    "casting_id": "custom-firebird",
+    "name": "Custom Firebird",
+    "description": {
+        "en-us": "Custom Firebird Debut series Sweet Sixteen Produced 1968 (Original) 2018 - 2025 ( Retool ) Designer Harry Bradley (Original) Mark Jones ( Retool ) Number 6212",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2018/2018-custom-firebird-spectraflame-otto-blue-fcm77.json",
+        "../data/releases/2018/2018-custom-firebird-spectraflame-olive-fnc23.json",
+        "../data/releases/2025/2025-custom-firebird-spectraflame-ruby-red-jcp66.json"
+    ],
+    "specs": {},
+    "designer": "Harry Bradley (Original) Mark Jones ( Retool )",
+    "debut_year": 1968,
+    "manufacturer": "Mattel"
+}

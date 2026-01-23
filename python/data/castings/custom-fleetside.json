@@ -1,0 +1,22 @@
+{
+    "casting_id": "custom-fleetside",
+    "name": "Custom Fleetside",
+    "description": {
+        "en-us": "Custom Fleetside Debut series Sweet Sixteen Produced 1968 - 1970 (Original) 2003 - 2025 ( Retool ) Designer Harry Bradley (Original) Brendon Vetuskey ( Retool ) Number 6213",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2003/2003-custom-fleetside-spectraflame-pink-b9890.json",
+        "../data/releases/2003/2003-custom-fleetside-spectraflame-antifreeze-c4706.json",
+        "../data/releases/2004/2004-custom-fleetside-spectraflame-black-c6041.json",
+        "../data/releases/2011/2011-custom-fleetside-spectraflame-purple-c6041.json",
+        "../data/releases/2013/2013-custom-fleetside-spectraflame-yellow-y0463.json",
+        "../data/releases/2018/2018-custom-fleetside-spectraflame-dark-green-fnc23.json",
+        "../data/releases/2022/2022-custom-fleetside-spectraflame-party-pink-hgk70.json",
+        "../data/releases/2025/2025-custom-fleetside-spectraflame-ruby-red-jcp66.json"
+    ],
+    "specs": {},
+    "designer": "Harry Bradley (Original) Brendon Vetuskey ( Retool )",
+    "debut_year": 1968,
+    "manufacturer": "Mattel"
+}

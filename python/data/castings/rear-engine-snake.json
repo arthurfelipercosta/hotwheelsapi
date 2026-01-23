@@ -1,0 +1,18 @@
+{
+    "casting_id": "rear-engine-snake",
+    "name": "Rear Engine Snake",
+    "description": {
+        "en-us": "Rear Engine Snake Debut series 1972 Hot Wheels Produced 1972 Designer Larry Wood Number 5856",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1972/1972-rear-engine-snake-yellow-5956.json",
+        "../data/releases/1972/1972-rear-engine-snake-yellow-5956-v2.json",
+        "../data/releases/1972/1972-rear-engine-snake-enamel-blue-5699.json",
+        "../data/releases/1972/1972-rear-engine-snake-enamel-blue-5699-v2.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1972,
+    "manufacturer": "Mattel"
+}

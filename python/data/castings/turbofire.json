@@ -1,0 +1,30 @@
+{
+    "casting_id": "turbofire",
+    "name": "Turbofire",
+    "description": {
+        "en-us": "Turbofire Debut series 1969 Hot Wheels Produced 1969 Only Designer Ira Gilford Number 6259",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1969/1969-turbofire-unknown-6259.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v2.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v3.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v4.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v5.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v6.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v7.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v8.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v9.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v10.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v11.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v12.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v13.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v14.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v15.json",
+        "../data/releases/1969/1969-turbofire-unknown-6259-v16.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1969,
+    "manufacturer": "Mattel"
+}

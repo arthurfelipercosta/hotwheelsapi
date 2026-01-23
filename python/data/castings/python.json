@@ -1,0 +1,17 @@
+{
+    "casting_id": "python",
+    "name": "Python",
+    "description": {
+        "en-us": "Python Debut series Sweet Sixteen Produced 1968 (Original) 2018 - 2025 ( Retool ) Designer Harry Bradley (Original) Brendon Vetuskey (Cheetah Re-Tool) Number 6216",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2018/2018-python-spectraflame-red-fnc29.json",
+        "../data/releases/2018/2018-python-spectraflame-bright-orange-fnc23.json",
+        "../data/releases/2025/2025-python-spectraflame-ruby-red-jcp66.json"
+    ],
+    "specs": {},
+    "designer": "Harry Bradley (Original) Brendon Vetuskey (Cheetah Re-Tool)",
+    "debut_year": 1968,
+    "manufacturer": "Mattel"
+}

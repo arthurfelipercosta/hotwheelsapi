@@ -1,0 +1,37 @@
+{
+    "casting_id": "143-pullbax",
+    "name": "1:43 Pullbax",
+    "description": {
+        "en-us": "1:43 Pullbax [ 1 ] [ 2 ] (later 1:43 Pull Back ) was a themed series of larger scale 1:43 vehicles, first introduced in 2004 with Grand Prix series releases. In 2008 and 2009 some releases coincided with the debut of the Warner Bros. film Speed Racer and the Hot Wheels: Battle Force 5 television series. Each model had a specialized motor within.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2004/2004-143-pullbax-unknown-b6216.json",
+        "../data/releases/2004/2004-143-pullbax-unknown-c1945.json",
+        "../data/releases/2004/2004-143-pullbax-unknown-c1946.json",
+        "../data/releases/2004/2004-143-pullbax-unknown-c1947.json",
+        "../data/releases/2004/2004-143-pullbax-unknown-c1948.json",
+        "../data/releases/2004/2004-143-pullbax-unknown-c1949.json",
+        "../data/releases/2004/2004-143-pullbax-unknown-c1950.json",
+        "../data/releases/2006/2006-143-pullbax-unknown-h9979.json",
+        "../data/releases/2006/2006-143-pullbax-unknown-h9980.json",
+        "../data/releases/2006/2006-143-pullbax-unknown-h9981.json",
+        "../data/releases/2006/2006-143-pullbax-unknown-h9982.json",
+        "../data/releases/2008/2008-143-pullbax-unknown-m1011.json",
+        "../data/releases/2008/2008-143-pullbax-unknown-m1017.json",
+        "../data/releases/2008/2008-143-pullbax-unknown-n3294.json",
+        "../data/releases/2008/2008-143-pullbax-unknown-m5940.json",
+        "../data/releases/2008/2008-143-pullbax-unknown-m5941.json",
+        "../data/releases/2008/2008-143-pullbax-unknown-m5942.json",
+        "../data/releases/2008/2008-143-pullbax-unknown-m5943.json",
+        "../data/releases/2008/2008-143-pullbax-unknown-m5944.json",
+        "../data/releases/2009/2009-143-pullbax-unknown-r2960.json",
+        "../data/releases/2009/2009-143-pullbax-unknown-r2961.json",
+        "../data/releases/2009/2009-143-pullbax-unknown-r2962.json",
+        "../data/releases/2009/2009-143-pullbax-unknown-r2963.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

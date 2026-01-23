@@ -1,0 +1,32 @@
+{
+    "casting_id": "mongoose",
+    "name": "Mongoose",
+    "description": {
+        "en-us": "Mongoose Debut series 1970 Hot Wheels Produced 1970 - 1973 (Original) 1994 - 2012 (Retool) Designer Larry Wood Number 6970",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1970/1970-mongoose-red-6410.json",
+        "../data/releases/1971/1971-mongoose-dark-blue-5954.json",
+        "../data/releases/1971/1971-mongoose-light-blue-5954.json",
+        "../data/releases/1973/1973-mongoose-enamel-red-6969.json",
+        "../data/releases/1973/1973-mongoose-enamel-blue-6969.json",
+        "../data/releases/1994/1994-mongoose-metalflake-orange-12496.json",
+        "../data/releases/1994/1994-mongoose-metalflake-red-14072.json",
+        "../data/releases/1994/1994-mongoose-metalflake-orange-12496-v2.json",
+        "../data/releases/1994/1994-mongoose-metalflake-aqua-15320.json",
+        "../data/releases/1994/1994-mongoose-metalflake-red-10783.json",
+        "../data/releases/1994/1994-mongoose-metalflake-dark-red-10783.json",
+        "../data/releases/1994/1994-mongoose-metalflake-pink-10783.json",
+        "../data/releases/1994/1994-mongoose-metalflake-blue-10783.json",
+        "../data/releases/1994/1994-mongoose-dark-blue-10783.json",
+        "../data/releases/1997/1997-mongoose-gold-plated-15930.json",
+        "../data/releases/1998/1998-mongoose-purple-19744.json",
+        "../data/releases/2005/2005-mongoose-red-h9604.json",
+        "../data/releases/2012/2012-mongoose-red-w8308.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1970,
+    "manufacturer": "Mattel"
+}

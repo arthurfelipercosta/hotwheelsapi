@@ -1,0 +1,25 @@
+{
+    "release_id": "2003-custom-fleetside-spectraflame-antifreeze-c4706",
+    "toy_number": "C4706",
+    "casting_id": "custom-fleetside",
+    "year": 2003,
+    "series_id": "special",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Antifreeze",
+        "tampo": "Lime green flames",
+        "base_color": "Chrome",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "NCRL"
+        },
+        "notes_variations": "Came in a box with an Elliot Handler Bobble Head"
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/CF2003-1.jpg/revision/latest?cb=20190425081809"
+    }
+}

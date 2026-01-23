@@ -1,0 +1,17 @@
+{
+    "casting_id": "custom-police-cruiser",
+    "name": "Custom Police Cruiser",
+    "description": {
+        "en-us": "Custom Police Cruiser Debut series 1969 Hot Wheels Produced 1969 - 1970 Designer Ira Gilford Number 6269",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1969/1969-custom-police-cruiser-white-and-black-6269.json",
+        "../data/releases/1969/1969-custom-police-cruiser-black-white-6269.json",
+        "../data/releases/1970/1970-custom-police-cruiser-red-6469.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1969,
+    "manufacturer": "Mattel"
+}

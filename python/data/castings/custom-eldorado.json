@@ -1,0 +1,17 @@
+{
+    "casting_id": "custom-eldorado",
+    "name": "Custom Eldorado",
+    "description": {
+        "en-us": "Custom Eldorado Debut series Sweet Sixteen Produced 1968 (Original) 2018 - 2025 ( Retool ) Designer Harry Bradley (Original) Brendon Vetuskey ( Retool ) Number 6218",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2018/2018-custom-eldorado-spectraflame-classic-yellow-fnc23.json",
+        "../data/releases/2021/2021-custom-eldorado-spectraflame-party-pink-gxj14.json",
+        "../data/releases/2025/2025-custom-eldorado-spectraflame-ruby-red-jcp66.json"
+    ],
+    "specs": {},
+    "designer": "Harry Bradley (Original) Brendon Vetuskey ( Retool )",
+    "debut_year": 1968,
+    "manufacturer": "Mattel"
+}

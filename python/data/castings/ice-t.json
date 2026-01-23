@@ -1,0 +1,33 @@
+{
+    "casting_id": "ice-t",
+    "name": "Ice 'T'",
+    "description": {
+        "en-us": "Ice 'T' Debut series 1971 Hot Wheels Produced 1971 - 1983 (original) 2010 only ( retool ) Designer Tom Daniel (Model Kit) Larry Wood (Hot Wheels Version) Number 6184",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-ice-t-enamel-yellow-6184.json",
+        "../data/releases/1973/1973-ice-t-enamel-dark-blue-6184.json",
+        "../data/releases/1973/1973-ice-t-enamel-light-blue-6184.json",
+        "../data/releases/1973/1973-ice-t-enamel-red-6184.json",
+        "../data/releases/1973/1973-ice-t-enamel-yellow-6184.json",
+        "../data/releases/1973/1973-ice-t-enamel-light-lemon-yellow-6184.json",
+        "../data/releases/1973/1973-ice-t-enamel-flourescent-lime-green-6184.json",
+        "../data/releases/1974/1974-ice-t-enamel-light-green-6980.json",
+        "../data/releases/1974/1974-ice-t-enamel-light-green-6980-v2.json",
+        "../data/releases/1974/1974-ice-t-enamel-yellow-6980.json",
+        "../data/releases/1977/1977-ice-t-enamel-light-green-6980.json",
+        "../data/releases/1978/1978-ice-t-enamel-light-green-6980.json",
+        "../data/releases/1983/1983-ice-t-enamel-light-brown-6980.json",
+        "../data/releases/1983/1983-ice-t-enamel-yellow-6980.json",
+        "../data/releases/1983/1983-ice-t-enamel-yellow-6980-v2.json",
+        "../data/releases/1983/1983-ice-t-enamel-yellow-6980-v3.json",
+        "../data/releases/1983/1983-ice-t-enamel-blue-6980.json",
+        "../data/releases/1983/1983-ice-t-enamel-dark-green-6980.json",
+        "../data/releases/2010/2010-ice-t-spectraflame-yellow-r8403.json"
+    ],
+    "specs": {},
+    "designer": "Tom Daniel (Model Kit) Larry Wood (Hot Wheels Version)",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

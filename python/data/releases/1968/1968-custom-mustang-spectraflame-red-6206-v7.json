@@ -1,0 +1,24 @@
+{
+    "release_id": "1968-custom-mustang-spectraflame-red-6206-v7",
+    "toy_number": "6206",
+    "casting_id": "custom-mustang",
+    "year": 1968,
+    "series_id": "1968",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Red",
+        "tampo": "",
+        "base_color": "Unpainted",
+        "base_type": "Metal",
+        "window_color": "tinted blue",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "RL"
+        }
+    },
+    "country": "Hong Kong",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Custommustang1968.jpg/revision/latest?cb=20080308181019"
+    }
+}

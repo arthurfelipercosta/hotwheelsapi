@@ -1,0 +1,16 @@
+{
+    "casting_id": "racer-rig",
+    "name": "Racer Rig",
+    "description": {
+        "en-us": "Racer Rig Debut series 1971 Heavyweights Produced 1971 Designer Larry Wood & Ira Gilford Number 6194",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-racer-rig-unknown-6018.json",
+        "../data/releases/1971/1971-racer-rig-unknown-6018-v2.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood & Ira Gilford",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

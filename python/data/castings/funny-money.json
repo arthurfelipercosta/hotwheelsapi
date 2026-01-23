@@ -1,0 +1,28 @@
+{
+    "casting_id": "funny-money",
+    "name": "Funny Money",
+    "description": {
+        "en-us": "Funny Money Debut series 1972 Hot Wheels Produced 1972 - 1978 (Original) 2008 - 2013 ( Retool ) Designer Larry Wood Number 6005",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1972/1972-funny-money-grey-6005.json",
+        "../data/releases/1974/1974-funny-money-plum-7621.json",
+        "../data/releases/1975/1975-funny-money-plum-7621.json",
+        "../data/releases/1977/1977-funny-money-grey-7621.json",
+        "../data/releases/1977/1977-funny-money-grey-7621-v2.json",
+        "../data/releases/1978/1978-funny-money-grey-7621.json",
+        "../data/releases/2008/2008-funny-money-metalflake-gold-m0543.json",
+        "../data/releases/2008/2008-funny-money-metalflake-red-m1595.json",
+        "../data/releases/2008/2008-funny-money-spectraflame-pink-l8700.json",
+        "../data/releases/2009/2009-funny-money-metalflake-purple-and-silver-p8580.json",
+        "../data/releases/2009/2009-funny-money-spectraflame-bright-orange-p2134.json",
+        "../data/releases/2010/2010-funny-money-black-r7908.json",
+        "../data/releases/2010/2010-funny-money-metalflake-purple-and-silver-v0801.json",
+        "../data/releases/2013/2013-funny-money-green-x8315.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1972,
+    "manufacturer": "Mattel"
+}

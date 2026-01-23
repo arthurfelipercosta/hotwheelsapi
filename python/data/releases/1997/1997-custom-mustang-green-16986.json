@@ -1,0 +1,26 @@
+{
+    "release_id": "1997-custom-mustang-green-16986",
+    "toy_number": "16986",
+    "casting_id": "custom-mustang",
+    "year": 1997,
+    "series_id": "four",
+    "series_index": null,
+    "specs": {
+        "color": "Green",
+        "tampo": "White stripes on sides",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "Black with White seats",
+        "wheel_type": {
+            "0": "DDRRGY"
+        },
+        "col": "",
+        "chassis_color_type": "Unpainted / Metal"
+    },
+    "country": "China",
+    "notes": "Known as \"'67 Mustang\" for this release",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/Hot_wheels_67_mustang_four_decades.png/revision/latest?cb=20140509141424"
+    }
+}

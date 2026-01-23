@@ -1,0 +1,22 @@
+{
+    "casting_id": "batman-series-2015",
+    "name": "Batman Series (2015)",
+    "description": {
+        "en-us": "",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-batman-series-2015-unknown-cfg82.json",
+        "../data/releases/unknown/0-batman-series-2015-unknown-cfk20.json",
+        "../data/releases/unknown/0-batman-series-2015-unknown-cfj50.json",
+        "../data/releases/unknown/0-batman-series-2015-unknown-cfk21.json",
+        "../data/releases/unknown/0-batman-series-2015-unknown-cfl45.json",
+        "../data/releases/unknown/0-batman-series-2015-unknown-cfk22.json",
+        "../data/releases/unknown/0-batman-series-2015-unknown-cfk23.json",
+        "../data/releases/unknown/0-batman-series-2015-unknown-cfl46.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

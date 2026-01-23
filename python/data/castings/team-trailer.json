@@ -1,0 +1,16 @@
+{
+    "casting_id": "team-trailer",
+    "name": "Team Trailer",
+    "description": {
+        "en-us": "Team Trailer Debut series 1971 Heavyweights Produced 1971 Designer Ira Gilford Number 6019",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-team-trailer-spectraflame-red-6019.json",
+        "../data/releases/1971/1971-team-trailer-enamel-white-6019.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

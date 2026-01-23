@@ -1,0 +1,18 @@
+{
+    "casting_id": "rail-dragster",
+    "name": "Rail Dragster",
+    "description": {
+        "en-us": "Rail Dragster Debut series 1971 Hot Wheels Produced 1971 Designer Larry Wood Number 5952",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-rail-dragster-spectraflame-blue-5952.json",
+        "../data/releases/1971/1971-rail-dragster-spectraflame-blue-5952-v2.json",
+        "../data/releases/1971/1971-rail-dragster-enamel-white-5951.json",
+        "../data/releases/1971/1971-rail-dragster-enamel-white-5951-v2.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

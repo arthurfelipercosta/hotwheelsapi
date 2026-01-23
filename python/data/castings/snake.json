@@ -1,0 +1,33 @@
+{
+    "casting_id": "snake",
+    "name": "Snake",
+    "description": {
+        "en-us": "Snake Debut series 1970 Hot Wheels Produced 1970 – 1983 Designer Larry Wood Number 6409",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1970/1970-snake-yellow-6409.json",
+        "../data/releases/1970/1970-snake-yellow-6409-v2.json",
+        "../data/releases/1971/1971-snake-enamel-white-5953.json",
+        "../data/releases/1971/1971-snake-enamel-white-5953-v2.json",
+        "../data/releases/1973/1973-snake-enamel-yellow-6969.json",
+        "../data/releases/1973/1973-snake-enamel-white-6969.json",
+        "../data/releases/1974/1974-snake-dk-enamel-blue-7630.json",
+        "../data/releases/1974/1974-snake-dk-enamel-blue-7630-v2.json",
+        "../data/releases/1976/1976-snake-dk-enamel-blue-7630.json",
+        "../data/releases/1977/1977-snake-gold-chrome-7630.json",
+        "../data/releases/1977/1977-snake-gold-chrome-7630-v2.json",
+        "../data/releases/1978/1978-snake-gold-chrome-7630.json",
+        "../data/releases/1979/1979-snake-gold-chrome-7630.json",
+        "../data/releases/1982/1982-snake-enamel-red-7630.json",
+        "../data/releases/1983/1983-snake-enamel-green-7630.json",
+        "../data/releases/1983/1983-snake-enamel-yellow-7630.json",
+        "../data/releases/1983/1983-snake-enamel-white-7630.json",
+        "../data/releases/1983/1983-snake-enamel-plum-none.json",
+        "../data/releases/1983/1983-snake-dk-enamel-blue-none.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1970,
+    "manufacturer": "Mattel"
+}

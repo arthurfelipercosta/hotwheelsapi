@@ -1,0 +1,30 @@
+{
+    "casting_id": "throwback-series-2019",
+    "name": "Throwback Series (2019)",
+    "description": {
+        "en-us": "",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-throwback-series-2019-light-blue-gbb89.json",
+        "../data/releases/unknown/0-throwback-series-2019-blue-gbb93.json",
+        "../data/releases/unknown/0-throwback-series-2019-teal-gbb86.json",
+        "../data/releases/unknown/0-throwback-series-2019-light-gold-gbb88.json",
+        "../data/releases/unknown/0-throwback-series-2019-yellow-gbb90.json",
+        "../data/releases/unknown/0-throwback-series-2019-white-gbb91.json",
+        "../data/releases/unknown/0-throwback-series-2019-brown-gbb87.json",
+        "../data/releases/unknown/0-throwback-series-2019-light-maroon-gbb92.json",
+        "../data/releases/unknown/0-throwback-series-2019-light-blue-gbc02.json",
+        "../data/releases/unknown/0-throwback-series-2019-white-blue-gbb97.json",
+        "../data/releases/unknown/0-throwback-series-2019-metalflake-teal-gbb98.json",
+        "../data/releases/unknown/0-throwback-series-2019-orange-gbc03.json",
+        "../data/releases/unknown/0-throwback-series-2019-metalflake-olive-green-gbc00.json",
+        "../data/releases/unknown/0-throwback-series-2019-olive-green-gbb99.json",
+        "../data/releases/unknown/0-throwback-series-2019-metalflake-graphite-grey-gbc01.json",
+        "../data/releases/unknown/0-throwback-series-2019-metalflake-purple-gbb96.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

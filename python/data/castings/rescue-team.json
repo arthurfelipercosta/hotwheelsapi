@@ -1,0 +1,20 @@
+{
+    "casting_id": "rescue-team",
+    "name": "Rescue Team",
+    "description": {
+        "en-us": "The Rescue Team series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-rescue-team-red-7665.json",
+        "../data/releases/unknown/0-rescue-team-red-7650.json",
+        "../data/releases/unknown/0-rescue-team-red-2639.json",
+        "../data/releases/unknown/0-rescue-team-red-9640.json",
+        "../data/releases/unknown/0-rescue-team-white-2019.json",
+        "../data/releases/unknown/0-rescue-team-yellow-7661.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

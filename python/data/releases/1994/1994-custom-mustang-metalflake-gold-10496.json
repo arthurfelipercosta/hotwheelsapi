@@ -1,0 +1,26 @@
+{
+    "release_id": "1994-custom-mustang-metalflake-gold-10496",
+    "toy_number": "10496",
+    "casting_id": "custom-mustang",
+    "year": 1994,
+    "series_id": "vintage",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Gold",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "RL"
+        },
+        "col": "",
+        "chassis_color_type": "Unpainted / Metal"
+    },
+    "country": "China",
+    "notes": "Opening hood",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/Vintage_series_ii_gold.jpg/revision/latest?cb=20250619213338"
+    }
+}

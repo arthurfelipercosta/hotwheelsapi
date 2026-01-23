@@ -1,0 +1,31 @@
+{
+    "casting_id": "ferrari-512s",
+    "name": "Ferrari 512S",
+    "description": {
+        "en-us": "Ferrari 512S Debut series 1972 Hot Wheels Produced 1972 – 1973 Designer Paul Tam Number 6021",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-aqua-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-blue-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-gold-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-light-green-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-magenta-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-red-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-rose-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-lime-green-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-pink-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-yellow-6021.json",
+        "../data/releases/1973/1973-ferrari-512s-enamel-light-blue-na.json",
+        "../data/releases/1973/1973-ferrari-512s-enamel-dark-blue-na.json",
+        "../data/releases/1973/1973-ferrari-512s-fluorescent-lime-green-na.json",
+        "../data/releases/1973/1973-ferrari-512s-unpainted-metalflake-green-na.json",
+        "../data/releases/1973/1973-ferrari-512s-unpainted-metalflake-pink-na.json",
+        "../data/releases/1973/1973-ferrari-512s-enamel-red-na.json",
+        "../data/releases/1973/1973-ferrari-512s-enamel-yellow-na.json"
+    ],
+    "specs": {},
+    "designer": "Paul Tam",
+    "debut_year": 1972,
+    "manufacturer": "Ferrari"
+}

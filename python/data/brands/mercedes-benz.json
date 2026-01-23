@@ -1,0 +1,14 @@
+{
+    "brand_id": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/mercedes-benz-280sl.json",
+        "../data/castings/mercedes-benz-c-111.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Mercedes-Benz vehicles.",
+        "pt-br": "Fabricante de veículos Mercedes-Benz."
+    }
+}

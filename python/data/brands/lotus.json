@@ -1,0 +1,13 @@
+{
+    "brand_id": "lotus",
+    "name": "Lotus",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/lotus-turbine.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Lotus vehicles.",
+        "pt-br": "Fabricante de veículos Lotus."
+    }
+}

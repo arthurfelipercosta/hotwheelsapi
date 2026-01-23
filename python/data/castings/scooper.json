@@ -1,0 +1,26 @@
+{
+    "casting_id": "scooper",
+    "name": "Scooper",
+    "description": {
+        "en-us": "Scooper Debut series 1971 Heavyweights Produced 1971 Designer Ira Gilford Number 6193",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-scooper-spectraflame-blue-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-aqua-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-green-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-light-apple-green-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-lime-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-yellow-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-red-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-pink-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-rose-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-magenta-6193.json",
+        "../data/releases/1971/1971-scooper-spectraflame-purple-6193.json",
+        "../data/releases/1971/1971-scooper-enamel-white-6193.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,29 @@
+{
+    "casting_id": "hirakers",
+    "name": "HiRakers",
+    "description": {
+        "en-us": "The Hot Wheels HiRakers were a series of die-casts that were introduced in 1980.  The rear axles could be Raised or Lowered to increase the rake of the model.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1980/1980-hirakers-red-w-brown-fenders-1132.json",
+        "../data/releases/1983/1983-hirakers-metalflake-red-w-brown-fenders-1132.json",
+        "../data/releases/1980/1980-hirakers-orange-1131.json",
+        "../data/releases/1981/1981-hirakers-orange-1131.json",
+        "../data/releases/1982/1982-hirakers-metalflake-blue-1131.json",
+        "../data/releases/1980/1980-hirakers-red-with-white-plastic-top-1133.json",
+        "../data/releases/1983/1983-hirakers-metalflake-blue-with-white-plastic-top-1133.json",
+        "../data/releases/1980/1980-hirakers-gray-1136.json",
+        "../data/releases/1982/1982-hirakers-yellow-1136.json",
+        "../data/releases/1983/1983-hirakers-metalflake-gold-1136.json",
+        "../data/releases/1984/1984-hirakers-black-4354.json",
+        "../data/releases/1980/1980-hirakers-light-green-wyellow-wing-1134.json",
+        "../data/releases/1982/1982-hirakers-orange-wyellow-wing-1134.json",
+        "../data/releases/1980/1980-hirakers-black-1135.json",
+        "../data/releases/1982/1982-hirakers-red-1135.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

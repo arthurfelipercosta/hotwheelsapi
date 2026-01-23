@@ -1,0 +1,18 @@
+{
+    "brand_id": "ford",
+    "name": "Ford",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/classic-31-ford-woody.json",
+        "../data/castings/classic-32-ford-vicky.json",
+        "../data/castings/classic-36-ford-coupe.json",
+        "../data/castings/custom-mustang.json",
+        "../data/castings/ford-j-car.json",
+        "../data/castings/ford-mark-iv.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Ford vehicles.",
+        "pt-br": "Fabricante de veículos Ford."
+    }
+}

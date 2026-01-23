@@ -1,0 +1,25 @@
+{
+    "release_id": "1968-custom-camaro-spectraflame-aqua-6208",
+    "toy_number": "6208",
+    "casting_id": "custom-camaro",
+    "year": 1968,
+    "series_id": "1968",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Aqua",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "RL"
+        },
+        "roof_color": "Black"
+    },
+    "country": "USA",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/68_Camaro_US_Ice_Aqua.jpg/revision/latest?cb=20130216142247"
+    }
+}

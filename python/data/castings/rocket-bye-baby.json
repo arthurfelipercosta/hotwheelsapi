@@ -1,0 +1,31 @@
+{
+    "casting_id": "rocket-bye-baby",
+    "name": "Rocket-Bye-Baby",
+    "description": {
+        "en-us": "Rocket-Bye-Baby Debut series Mainline Produced 1971 - 1973 (Original) 2009 - 2010 ( Retool ) Designer Bob Lovejoy Number 6186",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-aqua-6186.json",
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-blue-6186.json",
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-green-6186.json",
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-light-apple-green-6186.json",
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-rose-6186.json",
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-red-6186.json",
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-magenta-6186.json",
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-gold-6186.json",
+        "../data/releases/1971/1971-rocket-bye-baby-spectraflame-yellow-6186.json",
+        "../data/releases/1973/1973-rocket-bye-baby-enamel-dark-blue-shell07.json",
+        "../data/releases/1973/1973-rocket-bye-baby-enamel-light-blue-shell07.json",
+        "../data/releases/1973/1973-rocket-bye-baby-fluorescent-pink-shell07.json",
+        "../data/releases/1973/1973-rocket-bye-baby-enamel-red-shell07.json",
+        "../data/releases/1973/1973-rocket-bye-baby-flourescent-light-green-shell07.json",
+        "../data/releases/1973/1973-rocket-bye-baby-enamel-light-lemon-yellow-shell07.json",
+        "../data/releases/2009/2009-rocket-bye-baby-spectraflame-antifreeze-p2140.json",
+        "../data/releases/2010/2010-rocket-bye-baby-spectraflame-pink-r8424.json"
+    ],
+    "specs": {},
+    "designer": "Bob Lovejoy",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

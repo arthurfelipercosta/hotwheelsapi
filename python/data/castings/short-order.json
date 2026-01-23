@@ -1,0 +1,29 @@
+{
+    "casting_id": "short-order",
+    "name": "Short Order",
+    "description": {
+        "en-us": "Short Order Debut series 1971 Hot Wheels Produced 1971 – 1973 Designer Howard Rees Number 6176",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-short-order-unknown-6176.json",
+        "../data/releases/1971/1971-short-order-unknown-6176-v2.json",
+        "../data/releases/1971/1971-short-order-unknown-6176-v3.json",
+        "../data/releases/1971/1971-short-order-unknown-6176-v4.json",
+        "../data/releases/1971/1971-short-order-unknown-6176-v5.json",
+        "../data/releases/1971/1971-short-order-unknown-6176-v6.json",
+        "../data/releases/1971/1971-short-order-unknown-6176-v7.json",
+        "../data/releases/1971/1971-short-order-unknown-6176-v8.json",
+        "../data/releases/1971/1971-short-order-unknown-6176-v9.json",
+        "../data/releases/1973/1973-short-order-unknown-shell01.json",
+        "../data/releases/1973/1973-short-order-unknown-shell01-v2.json",
+        "../data/releases/1973/1973-short-order-unknown-shell01-v3.json",
+        "../data/releases/1973/1973-short-order-unknown-shell01-v4.json",
+        "../data/releases/1973/1973-short-order-unknown-shell01-v5.json",
+        "../data/releases/1973/1973-short-order-unknown-shell01-v6.json"
+    ],
+    "specs": {},
+    "designer": "Howard Rees",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

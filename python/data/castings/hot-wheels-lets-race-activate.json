@@ -1,0 +1,20 @@
+{
+    "casting_id": "hot-wheels-lets-race-activate",
+    "name": "Hot Wheels Let's Race : Activate!",
+    "description": {
+        "en-us": "Hot Wheels Let's Race : Activate! is a series of 1/32 scale cars featuring vehicles featured in Hot Wheels Let's Race introduced in 2026 . Each vehicle features an \"alternate\" mode depicting itself using the powerups each of the cars use in the show, with the cars intended to be rolled to deploy their \"transformations\".",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-hot-wheels-lets-race-activate-unknown-jjx16.json",
+        "../data/releases/unknown/0-hot-wheels-lets-race-activate-unknown-jjx20.json",
+        "../data/releases/unknown/0-hot-wheels-lets-race-activate-unknown-jjx21.json",
+        "../data/releases/unknown/0-hot-wheels-lets-race-activate-unknown-jjx23.json",
+        "../data/releases/unknown/0-hot-wheels-lets-race-activate-unknown-jjx17.json",
+        "../data/releases/unknown/0-hot-wheels-lets-race-activate-unknown-jjx22.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

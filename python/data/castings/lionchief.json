@@ -1,0 +1,24 @@
+{
+    "casting_id": "lionchief",
+    "name": "LionChief",
+    "description": {
+        "en-us": "LionChief is an entry-level product line manufactured by Lionel, LLC . Trains in this line are O gauge trains done to semi-scale proportions, featuring reduced detailing compared to Lionel's other offerings and a simpler control system using a plastic handheld remote; trains in this scale are incompatible with Lionel's other command control systems. Later iterations of the system, known as LionChief Plus and LionChief Plus 2.0 , feature improved functionality, with the latter being compatible with Lionel's TMCC control system while retaining all of LionChief's other features.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2018/2018-lionchief-unknown-6-84700.json",
+        "../data/releases/2018/2018-lionchief-unknown-6-84705.json",
+        "../data/releases/2018/2018-lionchief-unknown-6-84706.json",
+        "../data/releases/2018/2018-lionchief-unknown-6-84707.json",
+        "../data/releases/2018/2018-lionchief-unknown-6-84708.json",
+        "../data/releases/2018/2018-lionchief-unknown-6-84869.json",
+        "../data/releases/2018/2018-lionchief-unknown-6-85065.json",
+        "../data/releases/2018/2018-lionchief-unknown-6-85270.json",
+        "../data/releases/2018/2018-lionchief-unknown-1928080.json",
+        "../data/releases/2018/2018-lionchief-unknown-1929080.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

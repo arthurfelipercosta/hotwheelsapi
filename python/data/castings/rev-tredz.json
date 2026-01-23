@@ -1,0 +1,36 @@
+{
+    "casting_id": "rev-tredz",
+    "name": "Rev Tredz",
+    "description": {
+        "en-us": "The Rev Tredz series first debuted in 2001 , and was a range of several different 1/43 scale gyroscope powered monster trucks. Rev Tredz utilised the same gyroscopes and some modified toolings from the Hyper Cycles series.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2001/2001-rev-tredz-unknown-89319.json",
+        "../data/releases/2001/2001-rev-tredz-unknown-89320.json",
+        "../data/releases/2001/2001-rev-tredz-unknown-89321.json",
+        "../data/releases/2001/2001-rev-tredz-unknown-89322.json",
+        "../data/releases/2001/2001-rev-tredz-unknown-89323.json",
+        "../data/releases/2001/2001-rev-tredz-unknown-89324.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-47049.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-47050.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-47051.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-47052.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-47053.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-89053.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-89054.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-89055.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-89056.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-89275.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-89276.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-47077.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-47078.json",
+        "../data/releases/2002/2002-rev-tredz-unknown-47079.json",
+        "../data/releases/2003/2003-rev-tredz-unknown-82365.json",
+        "../data/releases/2003/2003-rev-tredz-unknown-82366.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

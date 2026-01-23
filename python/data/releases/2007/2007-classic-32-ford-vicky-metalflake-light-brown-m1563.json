@@ -1,0 +1,25 @@
+{
+    "release_id": "2007-classic-32-ford-vicky-metalflake-light-brown-m1563",
+    "toy_number": "M1563",
+    "casting_id": "classic-32-ford-vicky",
+    "year": 2007,
+    "series_id": "since",
+    "series_index": 36,
+    "specs": {
+        "color": "Metalflake Light Brown",
+        "tampo": "White roof, White streak",
+        "base_color": "",
+        "base_type": "ZAMAC",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "RLBW"
+        },
+        "col": "Black"
+    },
+    "country": "Thailand",
+    "notes": "Named Ford \"Vicky\"",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/32Vicky_Since_68.png/revision/latest?cb=20240229030857"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "casting_id": "t-4-2",
+    "name": "T-4-2",
+    "description": {
+        "en-us": "T-4-2 Debut series 1971 Hot Wheels Produced 1971 Designer Larry Wood Number 6177",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-t-4-2-spectraflame-blue-6177.json",
+        "../data/releases/1971/1971-t-4-2-spectraflame-aqua-6177.json",
+        "../data/releases/1971/1971-t-4-2-spectraflame-green-6177.json",
+        "../data/releases/1971/1971-t-4-2-spectraflame-light-apple-green-6177.json",
+        "../data/releases/1971/1971-t-4-2-spectraflame-lime-6177.json",
+        "../data/releases/1971/1971-t-4-2-spectraflame-yellow-6177.json",
+        "../data/releases/1971/1971-t-4-2-spectraflame-gold-6177.json",
+        "../data/releases/1971/1971-t-4-2-spectraflame-red-6177.json",
+        "../data/releases/1971/1971-t-4-2-spectraflame-magenta-6177.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "2005-classic-36-ford-coupe-spectraflame-antifreeze-h2923",
+    "toy_number": "H2923",
+    "casting_id": "classic-36-ford-coupe",
+    "year": 2005,
+    "series_id": "hwccom",
+    "series_index": 2,
+    "specs": {
+        "color": "Spectraflame Antifreeze",
+        "tampo": "Green & light green ghost flames on sides & hood, painted headlights, \"HW MARK\" on rear California license plate",
+        "base_color": "Chrome",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "NCRL"
+        }
+    },
+    "country": "China",
+    "notes": "11,000 produced Rumble seat opens",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Ford36CoupeRF.jpg/revision/latest?cb=20081217042124"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "casting_id": "ford-j-car",
+    "name": "Ford J-Car",
+    "description": {
+        "en-us": "Ford J-Car Debut series Sweet Sixteen Produced 1968 (Original) 2010 - 2025 ( Retool ) Designer Harry Bradley Number 6214",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2010/2010-ford-j-car-spectraflame-powder-blue-r8389.json",
+        "../data/releases/2015/2015-ford-j-car-spectraflame-dark-green-blr25.json",
+        "../data/releases/2018/2018-ford-j-car-spectraflame-navy-blue-fnc23.json",
+        "../data/releases/2025/2025-ford-j-car-spectraflame-ruby-red-jcp66.json"
+    ],
+    "specs": {},
+    "designer": "Harry Bradley",
+    "debut_year": 1968,
+    "manufacturer": "Ford"
+}

@@ -1,0 +1,29 @@
+{
+    "casting_id": "key-force",
+    "name": "Key Force",
+    "description": {
+        "en-us": "Key Force was a short-lived series of transforming vehicle toys produced from 1992 to 1994 .",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1992/1992-key-force-unknown-3727.json",
+        "../data/releases/1992/1992-key-force-unknown-3704.json",
+        "../data/releases/1992/1992-key-force-unknown-1862.json",
+        "../data/releases/1992/1992-key-force-unknown-10146.json",
+        "../data/releases/1992/1992-key-force-unknown-3724.json",
+        "../data/releases/1992/1992-key-force-unknown-3703.json",
+        "../data/releases/1992/1992-key-force-unknown-1863.json",
+        "../data/releases/1992/1992-key-force-unknown-5551.json",
+        "../data/releases/1993/1993-key-force-unknown-11064.json",
+        "../data/releases/1993/1993-key-force-unknown-11066.json",
+        "../data/releases/1993/1993-key-force-unknown-11065.json",
+        "../data/releases/1993/1993-key-force-unknown-11067.json",
+        "../data/releases/1993/1993-key-force-unknown-10690.json",
+        "../data/releases/1993/1993-key-force-unknown-12035.json",
+        "../data/releases/1993/1993-key-force-unknown-10373.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

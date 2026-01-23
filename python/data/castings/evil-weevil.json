@@ -1,0 +1,27 @@
+{
+    "casting_id": "evil-weevil",
+    "name": "Evil Weevil",
+    "description": {
+        "en-us": "Evil Weevil Debut series 1971 Hot Wheels Spoilers Produced 1971 - 1972 (original) 2004 - 2009 ( retool ) Designer Paul Tam Number 6471",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-evil-weevil-spectraflame-blue-6471.json",
+        "../data/releases/1971/1971-evil-weevil-spectraflame-aqua-6471.json",
+        "../data/releases/1971/1971-evil-weevil-spectraflame-green-6471.json",
+        "../data/releases/1971/1971-evil-weevil-spectraflame-light-apple-green-6471.json",
+        "../data/releases/1971/1971-evil-weevil-spectraflame-yellow-6471.json",
+        "../data/releases/1971/1971-evil-weevil-spectraflame-red-6471.json",
+        "../data/releases/1971/1971-evil-weevil-spectraflame-magenta-6471.json",
+        "../data/releases/1971/1971-evil-weevil-spectraflame-purple-6471.json",
+        "../data/releases/2004/2004-evil-weevil-spectraflame-green-c6036.json",
+        "../data/releases/2005/2005-evil-weevil-spectraflame-blue-white-h2927.json",
+        "../data/releases/2006/2006-evil-weevil-spectraflame-blue-k4031.json",
+        "../data/releases/2008/2008-evil-weevil-spectraflame-magenta-l8691.json",
+        "../data/releases/2009/2009-evil-weevil-spectraflame-pink-p2201.json"
+    ],
+    "specs": {},
+    "designer": "Paul Tam",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,20 @@
+{
+    "casting_id": "143-corgi-collection",
+    "name": "1:43 Corgi Collection",
+    "description": {
+        "en-us": "Corgi Collection is a series of 1:43 scale models, first introduced in 1995 . All releases are Corgi Toys toolings and were previously issued by the brand under various series.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1995/1995-143-corgi-collection-unknown-91760.json",
+        "../data/releases/1995/1995-143-corgi-collection-unknown-91810.json",
+        "../data/releases/1995/1995-143-corgi-collection-unknown-91820.json",
+        "../data/releases/1995/1995-143-corgi-collection-unknown-91870.json",
+        "../data/releases/1995/1995-143-corgi-collection-unknown-91880.json",
+        "../data/releases/1995/1995-143-corgi-collection-unknown-91935.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

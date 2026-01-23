@@ -1,0 +1,15 @@
+{
+    "brand_id": "volkswagen",
+    "name": "Volkswagen",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/custom-volkswagen.json",
+        "../data/castings/volkswagen-150-scale-series.json",
+        "../data/castings/volkswagen-beach-bomb.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Volkswagen vehicles.",
+        "pt-br": "Fabricante de veículos Volkswagen."
+    }
+}

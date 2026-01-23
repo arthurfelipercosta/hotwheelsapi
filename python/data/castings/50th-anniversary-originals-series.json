@@ -1,0 +1,19 @@
+{
+    "casting_id": "50th-anniversary-originals-series",
+    "name": "50th Anniversary Originals Series",
+    "description": {
+        "en-us": "For the 50th Anniversary , Hot Wheels released several special series including the 50th Anniversary Originals Series (sometimes called 'Replica Redlines'). It features five cars in Spectraflame Paint which were packaged on a card representing the original cards from 1968 and also featured a metal Collector's Button . Each car was adorned with the 50th Anniversary logo on the side.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-50th-anniversary-originals-series-spectraflame-yellow-ftx84.json",
+        "../data/releases/unknown/0-50th-anniversary-originals-series-spectraflame-purple-ftx85.json",
+        "../data/releases/unknown/0-50th-anniversary-originals-series-spectraflame-aqua-ftx86.json",
+        "../data/releases/unknown/0-50th-anniversary-originals-series-spectraflame-red-ftx87.json",
+        "../data/releases/unknown/0-50th-anniversary-originals-series-spectraflame-green-ftx88.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

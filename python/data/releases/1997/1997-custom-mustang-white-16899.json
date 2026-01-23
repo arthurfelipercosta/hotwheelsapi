@@ -1,0 +1,26 @@
+{
+    "release_id": "1997-custom-mustang-white-16899",
+    "toy_number": "16899",
+    "casting_id": "custom-mustang",
+    "year": 1997,
+    "series_id": "van",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Blue \"Van de Kamp's\" and \"1\" tampo on sides, Fish Sticker on roof",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "5SP"
+        },
+        "col": "",
+        "chassis_color_type": "Unpainted / Metal"
+    },
+    "country": "China",
+    "notes": "Known as \"'67 Mustang\" for this release",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/VandeKampsMustang.jpg/revision/latest?cb=20090318224234"
+    }
+}

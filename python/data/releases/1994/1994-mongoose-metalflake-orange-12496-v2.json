@@ -1,0 +1,24 @@
+{
+    "release_id": "1994-mongoose-metalflake-orange-12496-v2",
+    "toy_number": "12496",
+    "casting_id": "mongoose",
+    "year": 1994,
+    "series_id": "vintage",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Orange",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "ZAMAC",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RL"
+        }
+    },
+    "country": "China",
+    "notes": "Like Vintage Series 1",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Mongoose.Vintage_Set.jpg/revision/latest?cb=20200709203653"
+    }
+}

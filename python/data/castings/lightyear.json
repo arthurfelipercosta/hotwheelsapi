@@ -1,0 +1,33 @@
+{
+    "casting_id": "lightyear",
+    "name": "Lightyear",
+    "description": {
+        "en-us": "The Lightyear series is a Hot Wheels Premium sub-series themed after Lightyear , a 2022 film regarding the origin story of Buzz Lightyear.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-lightyear-light-gray-hgw02.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgw03.json",
+        "../data/releases/unknown/0-lightyear-tyrian-purple-hgw04.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgw02-v2.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgw03-v2.json",
+        "../data/releases/unknown/0-lightyear-tyrian-purple-hgw04-v2.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgv99.json",
+        "../data/releases/unknown/0-lightyear-matte-indigo-hgw00.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgw02-v3.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgw03-v3.json",
+        "../data/releases/unknown/0-lightyear-tyrian-purple-hgw04-v3.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgv99-v2.json",
+        "../data/releases/unknown/0-lightyear-matte-indigo-hgw00-v2.json",
+        "../data/releases/unknown/0-lightyear-tyrian-purple-hgw01.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgw05.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hgw06.json",
+        "../data/releases/unknown/0-lightyear-light-gray-hhl51.json",
+        "../data/releases/unknown/0-lightyear-none-xl-01.json",
+        "../data/releases/unknown/0-lightyear-none-zurg-fighter-ship.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

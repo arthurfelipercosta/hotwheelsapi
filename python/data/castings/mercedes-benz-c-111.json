@@ -1,0 +1,40 @@
+{
+    "casting_id": "mercedes-benz-c-111",
+    "name": "Mercedes-Benz C-111",
+    "description": {
+        "en-us": "Mercedes-Benz C-111 Debut series Mainline Produced 1972 - 1978 Designer Larry Wood Number 6169",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1972/1972-mercedes-benz-c-111-spectraflame-blue-6169.json",
+        "../data/releases/1972/1972-mercedes-benz-c-111-spectraflame-aqua-6169.json",
+        "../data/releases/1972/1972-mercedes-benz-c-111-spectraflame-light-apple-green-6169.json",
+        "../data/releases/1972/1972-mercedes-benz-c-111-spectraflame-yellow-6169.json",
+        "../data/releases/1972/1972-mercedes-benz-c-111-spectraflame-gold-6169.json",
+        "../data/releases/1972/1972-mercedes-benz-c-111-spectraflame-red-6169.json",
+        "../data/releases/1972/1972-mercedes-benz-c-111-spectraflame-rose-6169.json",
+        "../data/releases/1972/1972-mercedes-benz-c-111-spectraflame-magenta-6169.json",
+        "../data/releases/1973/1973-mercedes-benz-c-111-enamel-dark-blue-6978.json",
+        "../data/releases/1973/1973-mercedes-benz-c-111-enamel-blue-6978.json",
+        "../data/releases/1973/1973-mercedes-benz-c-111-enamel-light-blue-6978.json",
+        "../data/releases/1973/1973-mercedes-benz-c-111-enamel-flourescent-light-green-6978.json",
+        "../data/releases/1973/1973-mercedes-benz-c-111-enamel-light-lemon-yellow-6978.json",
+        "../data/releases/1973/1973-mercedes-benz-c-111-enamel-flourescent-pink-6978.json",
+        "../data/releases/1973/1973-mercedes-benz-c-111-enamel-red-6978.json",
+        "../data/releases/1973/1973-mercedes-benz-c-111-enamel-red-6978-v2.json",
+        "../data/releases/1974/1974-mercedes-benz-c-111-red-6978.json",
+        "../data/releases/1974/1974-mercedes-benz-c-111-red-6978-v2.json",
+        "../data/releases/1974/1974-mercedes-benz-c-111-red-6978-v3.json",
+        "../data/releases/1974/1974-mercedes-benz-c-111-red-6978-v4.json",
+        "../data/releases/1974/1974-mercedes-benz-c-111-red-6978-v5.json",
+        "../data/releases/1975/1975-mercedes-benz-c-111-red-6978.json",
+        "../data/releases/1976/1976-mercedes-benz-c-111-red-6978.json",
+        "../data/releases/1976/1976-mercedes-benz-c-111-red-6978-v2.json",
+        "../data/releases/1977/1977-mercedes-benz-c-111-red-6978.json",
+        "../data/releases/1978/1978-mercedes-benz-c-111-red-6978.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1972,
+    "manufacturer": "Mercedes"
+}

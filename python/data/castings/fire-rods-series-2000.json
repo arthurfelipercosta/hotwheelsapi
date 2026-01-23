@@ -1,0 +1,24 @@
+{
+    "casting_id": "fire-rods-series-2000",
+    "name": "Fire Rods Series (2000)",
+    "description": {
+        "en-us": "Fire Rods were a 12 car series, the first half were released in 2000, the second in 2001, and exclusive to KB Toys",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-fire-rods-series-2000-white-red-28635.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-yellow-black-28635.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-white-red-28635-v2.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-red-white-28635.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-red-white-28644.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-red-white-28644-v2.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-red-white-28644-v3.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-red-white-28644-v4.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-red-white-28644-v5.json",
+        "../data/releases/unknown/0-fire-rods-series-2000-red-white-28644-v6.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

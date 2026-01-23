@@ -1,0 +1,15 @@
+{
+    "casting_id": "fuel-tanker",
+    "name": "Fuel Tanker",
+    "description": {
+        "en-us": "Fuel Tanker Debut series 1971 Heavyweights Produced 1971 Designer Ira Gilford Number 6018",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-fuel-tanker-enamel-white-6018.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

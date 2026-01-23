@@ -1,0 +1,16 @@
+{
+    "casting_id": "special-delivery",
+    "name": "Special Delivery",
+    "description": {
+        "en-us": "Special Delivery Debut series 1971 Hot Wheels Produced 1971 Designer Larry Wood Number 6006",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-special-delivery-spectraflame-blue-6006.json",
+        "../data/releases/1971/1971-special-delivery-spectraflame-light-blue-6006.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

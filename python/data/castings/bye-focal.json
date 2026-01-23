@@ -1,0 +1,31 @@
+{
+    "casting_id": "bye-focal",
+    "name": "Bye-Focal",
+    "description": {
+        "en-us": "Bye-Focal Debut series 1971 Hot Wheels Produced 1971 (Original) 2003 - 2007 ( Retool ) Designer Larry Wood Number 6187",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-bye-focal-spectraflame-blue-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-light-blue-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-aqua-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-green-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-light-apple-green-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-yellow-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-red-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-magenta-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-purple-6187.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-green-6187-v2.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-blue-6187-v2.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-magenta-6187-v2.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-aqua-6187-v2.json",
+        "../data/releases/1971/1971-bye-focal-spectraflame-red-6187-v2.json",
+        "../data/releases/2003/2003-bye-focal-chrome-b2199.json",
+        "../data/releases/2005/2005-bye-focal-spectraflame-pink-h9272.json",
+        "../data/releases/2007/2007-bye-focal-spectraflame-light-blue-l2112.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

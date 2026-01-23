@@ -1,0 +1,20 @@
+{
+    "casting_id": "easter-series-2017",
+    "name": "Easter Series (2017)",
+    "description": {
+        "en-us": "The 2017 Easter Series was available at Walmart.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-easter-series-2017-purple-dwb99.json",
+        "../data/releases/unknown/0-easter-series-2017-white-dwc00.json",
+        "../data/releases/unknown/0-easter-series-2017-red-dwc01.json",
+        "../data/releases/unknown/0-easter-series-2017-yellow-dwc02.json",
+        "../data/releases/unknown/0-easter-series-2017-sky-blue-medium-purple-dwc03.json",
+        "../data/releases/unknown/0-easter-series-2017-green-dwc04.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

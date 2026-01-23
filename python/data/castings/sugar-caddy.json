@@ -1,0 +1,27 @@
+{
+    "casting_id": "sugar-caddy",
+    "name": "Sugar Caddy",
+    "description": {
+        "en-us": "Sugar Caddy Debut series The Spoilers Produced 1971 (Original) 2009 ( Retool ) Designer Ira Gilford Number 6418",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-blue-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-aqua-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-green-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-light-apple-green-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-olive-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-yellow-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-orange-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-brown-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-red-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-magenta-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-purple-6418.json",
+        "../data/releases/1971/1971-sugar-caddy-spectraflame-pink-6418.json",
+        "../data/releases/2009/2009-sugar-caddy-spectraflame-magenta-p2141.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

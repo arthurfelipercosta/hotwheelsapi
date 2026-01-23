@@ -1,0 +1,20 @@
+{
+    "casting_id": "eastwood-automobilia",
+    "name": "Eastwood Automobilia",
+    "description": {
+        "en-us": "Eastwood Automobilia is a brand of larger scale model vehicles owned by Liberty Classics based out of Dyersville, Iowa. Hot Wheels has released many products under the label since 1996 including a \"Limited Edition\" coin bank series and collaboration Lionel train car. Each 1997 coin bank included a single removable key attached to the underside that was used to retrieve coins. Later 1998 releases omitted this feature.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1996/1996-eastwood-automobilia-unknown-16554.json",
+        "../data/releases/1996/1996-eastwood-automobilia-unknown-384000.json",
+        "../data/releases/1996/1996-eastwood-automobilia-unknown-316500.json",
+        "../data/releases/1997/1997-eastwood-automobilia-unknown-406500.json",
+        "../data/releases/1997/1997-eastwood-automobilia-unknown-407000.json",
+        "../data/releases/1998/1998-eastwood-automobilia-unknown-410000.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

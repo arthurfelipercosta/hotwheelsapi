@@ -1,0 +1,24 @@
+{
+    "release_id": "1968-custom-mustang-spectraflame-watermelon-6206",
+    "toy_number": "6206",
+    "casting_id": "custom-mustang",
+    "year": 1968,
+    "series_id": "store",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Watermelon",
+        "tampo": "",
+        "base_color": "Unpainted",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "RL"
+        }
+    },
+    "country": "USA",
+    "notes": "Store Display Only",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/Daniels_Watermelon_Mustang.JPG/revision/latest?cb=20240705235155"
+    }
+}

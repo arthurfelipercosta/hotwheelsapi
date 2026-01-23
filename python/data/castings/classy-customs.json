@@ -1,0 +1,26 @@
+{
+    "casting_id": "classy-customs",
+    "name": "Classy Customs",
+    "description": {
+        "en-us": "The Classy Customs series was one of seven themes as part of what some call the \"Patch Cards\". You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch. These were produced in 1978 and 1979, and all were made in Hong Kong. Several of these models were also found on the Flying Colors cards.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-classy-customs-magenta-2511.json",
+        "../data/releases/unknown/0-classy-customs-gold-chrome-6976.json",
+        "../data/releases/unknown/0-classy-customs-light-green-6980.json",
+        "../data/releases/unknown/0-classy-customs-grey-2510.json",
+        "../data/releases/unknown/0-classy-customs-orange-9211.json",
+        "../data/releases/unknown/0-classy-customs-navy-blue-6966.json",
+        "../data/releases/unknown/0-classy-customs-red-6964.json",
+        "../data/releases/unknown/0-classy-customs-white-2018.json",
+        "../data/releases/unknown/0-classy-customs-white-9644.json",
+        "../data/releases/unknown/0-classy-customs-red-2503.json",
+        "../data/releases/unknown/0-classy-customs-light-green-9641.json",
+        "../data/releases/unknown/0-classy-customs-brown-2020.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

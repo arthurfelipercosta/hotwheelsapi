@@ -1,0 +1,25 @@
+{
+    "casting_id": "50th-anniversary-favorites",
+    "name": "50th Anniversary Favorites",
+    "description": {
+        "en-us": "In 2018, Hot Wheels celebrated their 50 th Anniversary by releasing several special series including the 50 th Anniversary Favorites . Be sure to checkout the rest on the 50 th Anniversary page.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-50th-anniversary-favorites-maroon-flf38.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-red-flf37.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-metalflake-copper-flf40.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-metalflake-dark-green-flf39.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-metalflake-blue-flf36.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-unpainted-flf41.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-red-flf42.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-magenta-flf43.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-metalflake-dark-blue-fvr87.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-pearl-yellow-flf44.json",
+        "../data/releases/unknown/0-50th-anniversary-favorites-light-blue-flf45.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "1994-mongoose-metalflake-red-10783",
+    "toy_number": "10783",
+    "casting_id": "mongoose",
+    "year": 1994,
+    "series_id": "vintage",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "ZAMAC",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RL"
+        }
+    },
+    "country": "China",
+    "notes": "Funnycar with lifting body",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/Mongoose_93_vintage_series_red_metallic.JPG/revision/latest?cb=20120116202400"
+    }
+}

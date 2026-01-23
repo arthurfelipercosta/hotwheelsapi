@@ -1,0 +1,36 @@
+{
+    "casting_id": "noodle-head",
+    "name": "Noodle Head",
+    "description": {
+        "en-us": "Noodle Head Debut series 1971 Hot Wheels Produced 1971 (original) 2011 – 2014 ( retool ) Designer Howard Rees Number 6000",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-noodle-head-spectraflame-pink-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-magenta-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-aqua-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-blue-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-light-blue-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-green-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-light-apple-green-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-red-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-salmon-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-yellow-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-gold-6000.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-green-6000-v2.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-light-apple-green-6000-v2.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-aqua-6000-v2.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-blue-6000-v2.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-red-6000-v2.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-magenta-6000-v2.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-pink-6000-v2.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-yellow-6000-v2.json",
+        "../data/releases/1971/1971-noodle-head-spectraflame-gold-6000-v2.json",
+        "../data/releases/2011/2011-noodle-head-spectraflame-orange-red-v0486.json",
+        "../data/releases/2014/2014-noodle-head-spectraflame-pink-blr46.json"
+    ],
+    "specs": {},
+    "designer": "Howard Rees",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

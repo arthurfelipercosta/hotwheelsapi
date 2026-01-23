@@ -1,0 +1,36 @@
+{
+    "casting_id": "speed-demons",
+    "name": "Speed Demons",
+    "description": {
+        "en-us": "Hot Wheels Speed Demons Series was introduced in 1986 and ran through 1989.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-speed-demons-orange-2058.json",
+        "../data/releases/unknown/0-speed-demons-red-2057.json",
+        "../data/releases/unknown/0-speed-demons-blue-2062.json",
+        "../data/releases/unknown/0-speed-demons-green-2059.json",
+        "../data/releases/unknown/0-speed-demons-yellow-2061.json",
+        "../data/releases/unknown/0-speed-demons-purple-2060.json",
+        "../data/releases/1987/1987-speed-demons-orange-2058.json",
+        "../data/releases/1987/1987-speed-demons-slightly-darker-orange-2058.json",
+        "../data/releases/1987/1987-speed-demons-red-2057.json",
+        "../data/releases/1987/1987-speed-demons-blue-2062.json",
+        "../data/releases/1988/1988-speed-demons-blue-2062.json",
+        "../data/releases/1989/1989-speed-demons-yellow-2062.json",
+        "../data/releases/1987/1987-speed-demons-green-2059.json",
+        "../data/releases/1988/1988-speed-demons-green-2059.json",
+        "../data/releases/1987/1987-speed-demons-chrome-3851.json",
+        "../data/releases/1988/1988-speed-demons-white-5028.json",
+        "../data/releases/1988/1988-speed-demons-purple-4389.json",
+        "../data/releases/1988/1988-speed-demons-purple-4389-v2.json",
+        "../data/releases/1987/1987-speed-demons-gray-3286.json",
+        "../data/releases/1987/1987-speed-demons-yellow-2061.json",
+        "../data/releases/1989/1989-speed-demons-purple-2060.json",
+        "../data/releases/1987/1987-speed-demons-gold-chrome-3852.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

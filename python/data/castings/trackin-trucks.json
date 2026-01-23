@@ -1,0 +1,38 @@
+{
+    "casting_id": "trackin-trucks",
+    "name": "Trackin' Trucks",
+    "description": {
+        "en-us": "Trackin' Trucks was a series of transport trucks and included bonus vehicles that ran after Racing Rigs and before Super Rigs . The series ran for just one year, 2013. Trackin' Trucks were noticeably smaller than other series transporters, which allowed them to run on tracks. In 2014 they were replaced by Track Stars Haulers , which used the same castings, but did not include bonus vehicles.  All were made in Malaysia.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-trackin-trucks-blue-y0179.json",
+        "../data/releases/unknown/0-trackin-trucks-bile-yellow-hot-wheels-logo-on-black-blue-background-off-track.json",
+        "../data/releases/unknown/0-trackin-trucks-black-cab-silver-trailer-y0180.json",
+        "../data/releases/unknown/0-trackin-trucks-white-black-flames-with-orange-outline-bone-shaker.json",
+        "../data/releases/unknown/0-trackin-trucks-yellow-cab-black-trailer-y0181.json",
+        "../data/releases/unknown/0-trackin-trucks-blue-with-black-checkerboard-propper-chopper.json",
+        "../data/releases/unknown/0-trackin-trucks-chrome-cab-black-red-trailer-y0182.json",
+        "../data/releases/unknown/0-trackin-trucks-white-blue-teegray.json",
+        "../data/releases/unknown/0-trackin-trucks-transparent-green-black-y0183.json",
+        "../data/releases/unknown/0-trackin-trucks-black-stripes-blue-checkerboard-orange-super-blitzen.json",
+        "../data/releases/unknown/0-trackin-trucks-gold-black-cab-gold-trailer-y0184.json",
+        "../data/releases/unknown/0-trackin-trucks-silver-red-yellow-stripes-monoposto.json",
+        "../data/releases/unknown/0-trackin-trucks-orange-y0185.json",
+        "../data/releases/unknown/0-trackin-trucks-black-28-with-white-yellow-black-hot-wheels-logos-off-track.json",
+        "../data/releases/unknown/0-trackin-trucks-red-cab-gold-trailer-y0186.json",
+        "../data/releases/unknown/0-trackin-trucks-red-spider-webs-bone-shaker.json",
+        "../data/releases/unknown/0-trackin-trucks-teal-y0187.json",
+        "../data/releases/unknown/0-trackin-trucks-black-white-gold-68-propper-chopper.json",
+        "../data/releases/unknown/0-trackin-trucks-purple-y0188.json",
+        "../data/releases/unknown/0-trackin-trucks-green-black-teegray.json",
+        "../data/releases/unknown/0-trackin-trucks-chrome-cab-chrome-orange-trailer-y0189.json",
+        "../data/releases/unknown/0-trackin-trucks-blue-flames-super-blitzen.json",
+        "../data/releases/unknown/0-trackin-trucks-blue-cab-baby-blue-trailer-y0190.json",
+        "../data/releases/unknown/0-trackin-trucks-blue-with-black-star-rectangles-monoposto.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

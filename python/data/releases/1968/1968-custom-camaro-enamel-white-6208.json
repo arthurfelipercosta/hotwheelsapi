@@ -1,0 +1,25 @@
+{
+    "release_id": "1968-custom-camaro-enamel-white-6208",
+    "toy_number": "6208",
+    "casting_id": "custom-camaro",
+    "year": 1968,
+    "series_id": "1968",
+    "series_index": null,
+    "specs": {
+        "color": "Enamel White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "RL"
+        },
+        "roof_color": "Black"
+    },
+    "country": "USA",
+    "notes": "Prototype",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/9ad4f4c46087ba09b92a1b5d7dee1e33.jpg/revision/latest?cb=20181113060015"
+    }
+}

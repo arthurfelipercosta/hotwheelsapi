@@ -1,0 +1,26 @@
+{
+    "release_id": "1996-custom-mustang-metalflake-blue-16139",
+    "toy_number": "16139",
+    "casting_id": "custom-mustang",
+    "year": 1996,
+    "series_id": "vintage",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Blue",
+        "tampo": "Race Team tampos",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "RL"
+        },
+        "col": "",
+        "chassis_color_type": "Unpainted / Metal"
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/Custom_Mustang_RT.JPG/revision/latest?cb=20081214172819"
+    }
+}

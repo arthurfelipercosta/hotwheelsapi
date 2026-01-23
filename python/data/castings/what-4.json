@@ -1,0 +1,23 @@
+{
+    "casting_id": "what-4",
+    "name": "What-4",
+    "description": {
+        "en-us": "What-4 Debut series 1971 Hot Wheels Produced 1971 - 1972 Designer Bob Lovejoy Number 6001",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-what-4-spectraflame-blue-6001.json",
+        "../data/releases/1971/1971-what-4-spectraflame-aqua-6001.json",
+        "../data/releases/1971/1971-what-4-spectraflame-green-6001.json",
+        "../data/releases/1971/1971-what-4-spectraflame-light-apple-green-6001.json",
+        "../data/releases/1971/1971-what-4-spectraflame-yellow-6001.json",
+        "../data/releases/1971/1971-what-4-spectraflame-red-6001.json",
+        "../data/releases/1971/1971-what-4-spectraflame-rose-6001.json",
+        "../data/releases/1971/1971-what-4-spectraflame-magenta-6001.json",
+        "../data/releases/1971/1971-what-4-spectraflame-purple-6001.json"
+    ],
+    "specs": {},
+    "designer": "Bob Lovejoy",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

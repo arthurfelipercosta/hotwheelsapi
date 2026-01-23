@@ -1,0 +1,41 @@
+{
+    "casting_id": "mutt-mobile",
+    "name": "Mutt Mobile",
+    "description": {
+        "en-us": "Mutt Mobile Debut series 1971 Hot Wheels Produced 1971 - 1972 (Original) 1973 (Odd Job) 1994 - 2002 ( Retool ) Designer Larry Wood Number 6185",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-mutt-mobile-spectraflame-aqua-6185.json",
+        "../data/releases/1971/1971-mutt-mobile-spectraflame-blue-6185.json",
+        "../data/releases/1971/1971-mutt-mobile-spectraflame-gold-6185.json",
+        "../data/releases/1971/1971-mutt-mobile-spectraflame-light-blue-6185.json",
+        "../data/releases/1971/1971-mutt-mobile-spectraflame-red-6185.json",
+        "../data/releases/1971/1971-mutt-mobile-spectraflame-magenta-6185.json",
+        "../data/releases/1971/1971-mutt-mobile-spectraflame-rose-6185.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-dark-blue-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-light-blue-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-dark-green-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-light-green-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-flourescent-lime-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-flourescent-pink-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-yellow-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-lemon-yellow-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-orange-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-plum-6981.json",
+        "../data/releases/1973/1973-mutt-mobile-enamel-red-6981.json",
+        "../data/releases/1994/1994-mutt-mobile-metalflake-dark-red-12496.json",
+        "../data/releases/1994/1994-mutt-mobile-metalflake-magenta-11524.json",
+        "../data/releases/1994/1994-mutt-mobile-metalflake-orange-11524.json",
+        "../data/releases/1994/1994-mutt-mobile-metalflake-light-blue-11524.json",
+        "../data/releases/1994/1994-mutt-mobile-metallic-red-11524.json",
+        "../data/releases/1995/1995-mutt-mobile-gold-chrome-13828.json",
+        "../data/releases/1996/1996-mutt-mobile-metalflake-purple-15741.json",
+        "../data/releases/1998/1998-mutt-mobile-spectraflame-blue-18860.json",
+        "../data/releases/2002/2002-mutt-mobile-spectraflame-blue-85513.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,31 @@
+{
+    "casting_id": "scool-bus",
+    "name": "S'Cool Bus",
+    "description": {
+        "en-us": "S'Cool Bus Debut series 1971 Heavyweights Produced 1971 Only (Original) 1993 - 2009 ( Retool ) Designer Tom Daniel (Model Kit) Larry Wood (Hot Wheels Version) Number 6468",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-scool-bus-yellow-6468.json",
+        "../data/releases/1993/1993-scool-bus-metalflake-gold-12496.json",
+        "../data/releases/1994/1994-scool-bus-yellow-11522.json",
+        "../data/releases/1994/1994-scool-bus-metalflake-yellow-11522.json",
+        "../data/releases/1995/1995-scool-bus-gold-chrome-13828.json",
+        "../data/releases/1995/1995-scool-bus-white-13849.json",
+        "../data/releases/1996/1996-scool-bus-yellow-15741.json",
+        "../data/releases/2000/2000-scool-bus-silver-26278.json",
+        "../data/releases/2002/2002-scool-bus-blue-56267.json",
+        "../data/releases/2003/2003-scool-bus-red-28694.json",
+        "../data/releases/2003/2003-scool-bus-red-black-85686.json",
+        "../data/releases/2005/2005-scool-bus-spectraflame-yellow-h9273.json",
+        "../data/releases/2006/2006-scool-bus-black-l5874.json",
+        "../data/releases/2006/2006-scool-bus-chrome-l5863.json",
+        "../data/releases/2006/2006-scool-bus-gold-chrome-k4753.json",
+        "../data/releases/2008/2008-scool-bus-black-m0543.json",
+        "../data/releases/2009/2009-scool-bus-spectraflame-purple-p2133.json"
+    ],
+    "specs": {},
+    "designer": "Tom Daniel (Model Kit) Larry Wood (Hot Wheels Version)",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

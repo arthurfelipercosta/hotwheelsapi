@@ -1,0 +1,22 @@
+{
+    "casting_id": "oldies-but-goodies",
+    "name": "Oldies But Goodies",
+    "description": {
+        "en-us": "The Oldies But Goodies series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-oldies-but-goodies-orange-9649.json",
+        "../data/releases/unknown/0-oldies-but-goodies-red-9638.json",
+        "../data/releases/unknown/0-oldies-but-goodies-yellow-2013.json",
+        "../data/releases/unknown/0-oldies-but-goodies-chrome-9210.json",
+        "../data/releases/unknown/0-oldies-but-goodies-light-green-2016.json",
+        "../data/releases/unknown/0-oldies-but-goodies-red-2505.json",
+        "../data/releases/unknown/0-oldies-but-goodies-yellow-2507.json",
+        "../data/releases/unknown/0-oldies-but-goodies-black-9648.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

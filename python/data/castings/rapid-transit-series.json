@@ -1,0 +1,38 @@
+{
+    "casting_id": "rapid-transit-series",
+    "name": "Rapid Transit Series",
+    "description": {
+        "en-us": "Category:Locomotives",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-rapid-transit-series-red-v0138.json",
+        "../data/releases/unknown/0-rapid-transit-series-black-v0139.json",
+        "../data/releases/unknown/0-rapid-transit-series-orange-v0140.json",
+        "../data/releases/unknown/0-rapid-transit-series-yellow-silver-v0141.json",
+        "../data/releases/unknown/0-rapid-transit-series-chrome-v0142.json",
+        "../data/releases/unknown/0-rapid-transit-series-green-v0143.json",
+        "../data/releases/unknown/0-rapid-transit-series-black-v0144.json",
+        "../data/releases/unknown/0-rapid-transit-series-turqoise-v0145.json",
+        "../data/releases/unknown/0-rapid-transit-series-blue-v0146.json",
+        "../data/releases/unknown/0-rapid-transit-series-tan-wgreen-roof-v0147.json",
+        "../data/releases/unknown/0-rapid-transit-series-red-v0148.json",
+        "../data/releases/unknown/0-rapid-transit-series-blue-v0149.json",
+        "../data/releases/unknown/0-rapid-transit-series-yellow-black-w4416.json",
+        "../data/releases/unknown/0-rapid-transit-series-black-red-w4417.json",
+        "../data/releases/unknown/0-rapid-transit-series-green-w4418.json",
+        "../data/releases/unknown/0-rapid-transit-series-yellow-w4419.json",
+        "../data/releases/unknown/0-rapid-transit-series-red-engine-brown-car-w4420.json",
+        "../data/releases/unknown/0-rapid-transit-series-chrome-w4421.json",
+        "../data/releases/unknown/0-rapid-transit-series-blue-w4422.json",
+        "../data/releases/unknown/0-rapid-transit-series-red-gray-w4423.json",
+        "../data/releases/unknown/0-rapid-transit-series-orange-w4424.json",
+        "../data/releases/unknown/0-rapid-transit-series-black-red-w4425.json",
+        "../data/releases/unknown/0-rapid-transit-series-red-grey-w4427.json",
+        "../data/releases/unknown/0-rapid-transit-series-green-black-w4426.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

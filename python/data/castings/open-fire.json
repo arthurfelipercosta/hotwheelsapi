@@ -1,0 +1,20 @@
+{
+    "casting_id": "open-fire",
+    "name": "Open Fire",
+    "description": {
+        "en-us": "Open Fire Debut series Mainline Produced 1972 (Original) 2008 ( Retool ) Designer Paul Tam Number 5881",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1972/1972-open-fire-spectraflame-gold-5881.json",
+        "../data/releases/1972/1972-open-fire-spectraflame-red-5881.json",
+        "../data/releases/1972/1972-open-fire-spectraflame-magenta-5881.json",
+        "../data/releases/1972/1972-open-fire-spectraflame-blue-5881.json",
+        "../data/releases/1972/1972-open-fire-spectraflame-yellow-5881.json",
+        "../data/releases/2008/2008-open-fire-spectraflame-dark-red-l8718.json"
+    ],
+    "specs": {},
+    "designer": "Paul Tam",
+    "debut_year": 1972,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,24 @@
+{
+    "release_id": "1968-custom-mustang-spectraflame-blue-6206",
+    "toy_number": "6206",
+    "casting_id": "custom-mustang",
+    "year": 1968,
+    "series_id": "1968",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Blue",
+        "tampo": "",
+        "base_color": "Unpainted",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "Brown",
+        "wheel_type": {
+            "0": "RL"
+        }
+    },
+    "country": "USA",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Cmustang_usa_Blue.jpg/revision/latest?cb=20130113171433"
+    }
+}

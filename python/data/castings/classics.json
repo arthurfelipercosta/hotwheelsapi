@@ -1,0 +1,38 @@
+{
+    "casting_id": "classics",
+    "name": "Classics",
+    "description": {
+        "en-us": "Hot Wheels Classics was a line of vehicles released between 1987 and 1989, and is not to be confused with Mattel's later line called Hot Wheels Classics .  The Classics line featured mostly cars from the 1920's through the 1950's and included such vehicles as '37 Bugatti and Talbot Lago and street rods such as T-Bucket and '32 Ford Delivery .  The special cards for this line featured a Rolls-Royce Phantom II .",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1989/1989-classics-maroon-2533.json",
+        "../data/releases/1989/1989-classics-yellow-7672.json",
+        "../data/releases/1989/1989-classics-yellow-7672-v2.json",
+        "../data/releases/1987/1987-classics-yellow-and-red-2526.json",
+        "../data/releases/1989/1989-classics-yellow-and-red-2526.json",
+        "../data/releases/1988/1988-classics-red-1473.json",
+        "../data/releases/1989/1989-classics-purple-3613.json",
+        "../data/releases/1989/1989-classics-yellow-2530.json",
+        "../data/releases/1987/1987-classics-metalflake-blue-1538.json",
+        "../data/releases/1989/1989-classics-metalflake-blue-1538.json",
+        "../data/releases/1989/1989-classics-turquoise-9638.json",
+        "../data/releases/1989/1989-classics-turquoise-9638-v2.json",
+        "../data/releases/1989/1989-classics-turquoise-1542.json",
+        "../data/releases/1987/1987-classics-metallic-blue-2529.json",
+        "../data/releases/1989/1989-classics-metallic-silver-1543.json",
+        "../data/releases/1988/1988-classics-red-2535.json",
+        "../data/releases/1988/1988-classics-black-5142.json",
+        "../data/releases/1988/1988-classics-black-5142-v2.json",
+        "../data/releases/1989/1989-classics-metallic-blue-3290.json",
+        "../data/releases/1989/1989-classics-white-1470.json",
+        "../data/releases/1988/1988-classics-burgandy-4741.json",
+        "../data/releases/1988/1988-classics-white-4741.json",
+        "../data/releases/1989/1989-classics-orange-7673.json",
+        "../data/releases/1989/1989-classics-yellow-7673.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

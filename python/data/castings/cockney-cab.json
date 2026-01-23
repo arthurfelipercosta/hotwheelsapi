@@ -1,0 +1,31 @@
+{
+    "casting_id": "cockney-cab",
+    "name": "Cockney Cab",
+    "description": {
+        "en-us": "Cockney Cab Debut series 1971 Hot Wheels Produced 1971 Only Designer Howard Rees Number 6466",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-cockney-cab-spectraflame-aqua-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-blue-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-light-blue-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-green-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-light-apple-green-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-pink-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-magenta-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-red-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-rose-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-yellow-6466.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-aqua-6466-v2.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-blue-6466-v2.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-green-6466-v2.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-light-apple-green-6466-v2.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-magenta-6466-v2.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-red-6466-v2.json",
+        "../data/releases/1971/1971-cockney-cab-spectraflame-yellow-6466-v2.json"
+    ],
+    "specs": {},
+    "designer": "Howard Rees",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,13 @@
+{
+    "brand_id": "maserati",
+    "name": "Maserati",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/maserati-mistral.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Maserati vehicles.",
+        "pt-br": "Fabricante de veículos Maserati."
+    }
+}

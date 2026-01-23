@@ -1,0 +1,32 @@
+{
+    "casting_id": "extreme-shoxx",
+    "name": "Extreme Shoxx",
+    "description": {
+        "en-us": "Extreme Shoxx was a short-lived series of Hot Wheels cars produced from 2014 to 2015 as part of Hot Wheels's \"Off Road\" segments. The selling point of the cars was their \"Extreme Shoxx suspension\", which featured a screw-like system which would adjust tension on a flexible plastic spring to give the cars more or less suspension depending on how the system was adjusted; this would adjust two adjusting pivoting points on the main chassis. The series did not continue beyond 2015, likely due to poor sales. 2015 releases excluding the yellow Da'Kar were not widely distributed and some unknown releases may exist.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2014/2014-extreme-shoxx-red-bgl32.json",
+        "../data/releases/2014/2014-extreme-shoxx-green-bgl33.json",
+        "../data/releases/2014/2014-extreme-shoxx-blue-bgl34.json",
+        "../data/releases/2014/2014-extreme-shoxx-blue-bgl35.json",
+        "../data/releases/2014/2014-extreme-shoxx-white-bgl36.json",
+        "../data/releases/2014/2014-extreme-shoxx-orange-bgl37.json",
+        "../data/releases/2014/2014-extreme-shoxx-green-bgl38.json",
+        "../data/releases/2014/2014-extreme-shoxx-black-bgl39.json",
+        "../data/releases/2014/2014-extreme-shoxx-yellow-bgl40.json",
+        "../data/releases/2014/2014-extreme-shoxx-black-bgl41.json",
+        "../data/releases/2014/2014-extreme-shoxx-sky-blue-bgl42.json",
+        "../data/releases/2014/2014-extreme-shoxx-purple-bgl43.json",
+        "../data/releases/2015/2015-extreme-shoxx-transparent-yellow-ccj67.json",
+        "../data/releases/2015/2015-extreme-shoxx-transparent-sky-blue-cgb34.json",
+        "../data/releases/2015/2015-extreme-shoxx-blue-cgb38.json",
+        "../data/releases/2015/2015-extreme-shoxx-orange-cgb39.json",
+        "../data/releases/2015/2015-extreme-shoxx-yellow-cgb45.json",
+        "../data/releases/2015/2015-extreme-shoxx-yellow-cgb45-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

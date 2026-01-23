@@ -1,0 +1,43 @@
+{
+    "casting_id": "elite-64",
+    "name": "Elite 64",
+    "description": {
+        "en-us": "Elite 64 is a Premium-style series featuring true 1/64-scale cars. All castings feature multiple separate parts for added detail, bespoke Real Rider wheels specific to each car and may feature removable or opening parts. The line is available exclusively on HotWheelsCollectors.com , with each numbered casting priced at USD $20; a Red Line Club membership is not required to purchase the cars.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-elite-64-graphite-gray-hng51.json",
+        "../data/releases/unknown/0-elite-64-white-hgw10.json",
+        "../data/releases/unknown/0-elite-64-metallic-acapulco-blue-hgw13.json",
+        "../data/releases/unknown/0-elite-64-pearl-blue-hgw14.json",
+        "../data/releases/unknown/0-elite-64-green-cyan-hgw12.json",
+        "../data/releases/unknown/0-elite-64-nardo-gray-with-high-gloss-finish-hgw11.json",
+        "../data/releases/unknown/0-elite-64-orange-hnj58.json",
+        "../data/releases/unknown/0-elite-64-white-hnj60.json",
+        "../data/releases/unknown/0-elite-64-white-hnj59.json",
+        "../data/releases/unknown/0-elite-64-french-racing-blue-hnj62.json",
+        "../data/releases/unknown/0-elite-64-white-hwr90.json",
+        "../data/releases/unknown/0-elite-64-matte-black-hnj63.json",
+        "../data/releases/unknown/0-elite-64-white-hnj64.json",
+        "../data/releases/unknown/0-elite-64-yellow-hnj65.json",
+        "../data/releases/unknown/0-elite-64-mclaren-orange-hwg05.json",
+        "../data/releases/unknown/0-elite-64-metallic-teal-hwr91.json",
+        "../data/releases/unknown/0-elite-64-black-red-hwr94.json",
+        "../data/releases/unknown/0-elite-64-frozen-portimao-blue-hwr93.json",
+        "../data/releases/unknown/0-elite-64-glossy-white-jcv06.json",
+        "../data/releases/unknown/0-elite-64-white-jcp46.json",
+        "../data/releases/unknown/0-elite-64-gloss-white-jcp42.json",
+        "../data/releases/unknown/0-elite-64-black-jcp44.json",
+        "../data/releases/unknown/0-elite-64-rosso-corsa-jcp47.json",
+        "../data/releases/unknown/0-elite-64-pearl-white-hwr95.json",
+        "../data/releases/unknown/0-elite-64-light-blue-hwr97.json",
+        "../data/releases/unknown/0-elite-64-white-jcp43.json",
+        "../data/releases/unknown/0-elite-64-white-jnf05.json",
+        "../data/releases/unknown/0-elite-64-granite-crystal-hwr96.json",
+        "../data/releases/unknown/0-elite-64-designo-magno-night-black-jcp45.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

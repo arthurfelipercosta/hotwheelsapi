@@ -1,0 +1,26 @@
+{
+    "casting_id": "waste-wagon",
+    "name": "Waste Wagon",
+    "description": {
+        "en-us": "Waste Wagon Debut series 1971 Heavyweights Produced 1971 only Designer Ira Gilford Number 6192",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-waste-wagon-spectraflame-blue-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-aqua-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-green-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-olive-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-light-apple-green-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-lime-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-yellow-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-orange-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-copper-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-red-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-magenta-6192.json",
+        "../data/releases/1971/1971-waste-wagon-spectraflame-purple-6192.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

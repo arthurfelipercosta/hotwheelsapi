@@ -1,0 +1,22 @@
+{
+    "casting_id": "six-shooter",
+    "name": "Six Shooter",
+    "description": {
+        "en-us": "Six Shooter Debut series 1971 Hot Wheels Produced 1971 - 1972 Designer Paul Tam Number 6003",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-six-shooter-spectraflame-aqua-6003.json",
+        "../data/releases/1971/1971-six-shooter-spectraflame-blue-6003.json",
+        "../data/releases/1971/1971-six-shooter-spectraflame-light-blue-6003.json",
+        "../data/releases/1971/1971-six-shooter-spectraflame-gold-6003.json",
+        "../data/releases/1971/1971-six-shooter-spectraflame-yellow-6003.json",
+        "../data/releases/1971/1971-six-shooter-spectraflame-light-apple-green-6003.json",
+        "../data/releases/1971/1971-six-shooter-spectraflame-magenta-6003.json",
+        "../data/releases/1971/1971-six-shooter-spectraflame-red-6003.json"
+    ],
+    "specs": {},
+    "designer": "Paul Tam",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

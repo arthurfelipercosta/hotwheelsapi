@@ -1,0 +1,14 @@
+{
+    "brand_id": "chevrolet",
+    "name": "Chevrolet",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/custom-camaro.json",
+        "../data/castings/custom-corvette.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Chevrolet vehicles.",
+        "pt-br": "Fabricante de veículos Chevrolet."
+    }
+}

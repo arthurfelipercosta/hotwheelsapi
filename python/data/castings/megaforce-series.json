@@ -1,0 +1,21 @@
+{
+    "casting_id": "megaforce-series",
+    "name": "Megaforce Series",
+    "description": {
+        "en-us": "Megaforce is an action film made in 1982 directed by former stuntman Hal Needham . Mattel released a special series of Hot Wheels cars that corresponded to the movie that same year; all were made in Hong Kong. The vehicles in the movie were designed in collaboration with Mattel. Only the Megadestroyer castings were actually new; the rest were either retooled or repurposed from previous releases. All castings with the exception of the Tac-Com would see further rereleases under different names. All castings feature copyright information pertaining to a \"North Shore Investments, Ltd.\" Although the series uses Hot Wheels models, this series are not branded as Hot Wheels.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-megaforce-series-tan-5268.json",
+        "../data/releases/unknown/0-megaforce-series-black-5269.json",
+        "../data/releases/unknown/0-megaforce-series-white-5270.json",
+        "../data/releases/unknown/0-megaforce-series-white-5270-v2.json",
+        "../data/releases/unknown/0-megaforce-series-tan-5271.json",
+        "../data/releases/unknown/0-megaforce-series-olive-5272.json",
+        "../data/releases/unknown/0-megaforce-series-tan-5273.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

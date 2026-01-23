@@ -1,0 +1,43 @@
+{
+    "casting_id": "action-packs",
+    "name": "Action Packs",
+    "description": {
+        "en-us": "The Action Pack series debuted in 1997 and lasted through late 1999 . Each blister pack consisted of one to four models with multiple track accessories. Some casting and track accessory toolings were designed by Corgi Toys .",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1997/1997-action-packs-unknown-16145.json",
+        "../data/releases/1997/1997-action-packs-unknown-16146.json",
+        "../data/releases/1997/1997-action-packs-unknown-16148.json",
+        "../data/releases/1997/1997-action-packs-unknown-16149.json",
+        "../data/releases/1997/1997-action-packs-unknown-16153.json",
+        "../data/releases/1997/1997-action-packs-unknown-16154.json",
+        "../data/releases/1997/1997-action-packs-unknown-16155.json",
+        "../data/releases/1997/1997-action-packs-unknown-16156.json",
+        "../data/releases/1998/1998-action-packs-unknown-18735.json",
+        "../data/releases/1998/1998-action-packs-unknown-18736.json",
+        "../data/releases/1998/1998-action-packs-unknown-18737.json",
+        "../data/releases/1998/1998-action-packs-unknown-18738.json",
+        "../data/releases/1998/1998-action-packs-unknown-18740.json",
+        "../data/releases/1998/1998-action-packs-unknown-18741.json",
+        "../data/releases/1998/1998-action-packs-unknown-18742.json",
+        "../data/releases/1999/1999-action-packs-unknown-19396.json",
+        "../data/releases/1999/1999-action-packs-unknown-19398.json",
+        "../data/releases/1999/1999-action-packs-unknown-20868.json",
+        "../data/releases/1999/1999-action-packs-unknown-21252.json",
+        "../data/releases/1999/1999-action-packs-unknown-21253.json",
+        "../data/releases/1999/1999-action-packs-unknown-21259.json",
+        "../data/releases/1999/1999-action-packs-unknown-21260.json",
+        "../data/releases/1999/1999-action-packs-unknown-21262.json",
+        "../data/releases/1999/1999-action-packs-unknown-21532.json",
+        "../data/releases/1999/1999-action-packs-unknown-21533.json",
+        "../data/releases/1999/1999-action-packs-unknown-19397.json",
+        "../data/releases/1999/1999-action-packs-unknown-19399.json",
+        "../data/releases/1999/1999-action-packs-unknown-19400.json",
+        "../data/releases/1999/1999-action-packs-unknown-20868-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

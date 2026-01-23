@@ -1,0 +1,26 @@
+{
+    "casting_id": "hot-wheels-xl",
+    "name": "Hot Wheels XL",
+    "description": {
+        "en-us": "Hot Wheels XL is a 1:43 scale series of Hot Wheels; in essence the castings in this series are scaled up versions of mainline castings, carrying over their decos and wheels. This series was developed by Charlie Angulo .",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl09.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl10.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl06.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl03.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl13.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl12.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl04.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl05.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl07.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl08.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl11.json",
+        "../data/releases/unknown/0-hot-wheels-xl-unknown-jkl14.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,25 @@
+{
+    "release_id": "1968-custom-camaro-spectraflame-red-6208",
+    "toy_number": "6208",
+    "casting_id": "custom-camaro",
+    "year": 1968,
+    "series_id": "1968",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Red",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "RL"
+        },
+        "roof_color": "Black"
+    },
+    "country": "USA",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/68_camaro_US_Red_Black_roof_Flyin_Colors.jpg/revision/latest?cb=20130215180205"
+    }
+}

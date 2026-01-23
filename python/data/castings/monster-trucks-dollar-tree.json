@@ -1,0 +1,38 @@
+{
+    "casting_id": "monster-trucks-dollar-tree",
+    "name": "Monster Trucks (Dollar Tree)",
+    "description": {
+        "en-us": "Dollar Tree Monster Trucks is a series of Hot Wheels Monster Trucks that first debuted at select Dollar Tree and Family Dollar retail locations in 2022 at the same cost of a Mainline model. It consisted of several new castings with simple plastic pieces and pre-applied stickers or tampos meant to work on dual-lane track as basic monster truck releases function. The debut schedule of this series is unknown; assortments contain one or two new models with rereleases from prior cases. Each model is done in 1:70 scale.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2022/2022-monster-trucks-dollar-tree-unknown-hfb97.json",
+        "../data/releases/2022/2022-monster-trucks-dollar-tree-unknown-hfb98.json",
+        "../data/releases/2022/2022-monster-trucks-dollar-tree-unknown-hfb99.json",
+        "../data/releases/2022/2022-monster-trucks-dollar-tree-unknown-hfc00.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hfc01.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hjg37.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hjg38.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hjg39.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hjk00.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hjk01.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hph99.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hpj00.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hpj02.json",
+        "../data/releases/2023/2023-monster-trucks-dollar-tree-unknown-hpj03.json",
+        "../data/releases/2024/2024-monster-trucks-dollar-tree-unknown-htp23.json",
+        "../data/releases/2024/2024-monster-trucks-dollar-tree-unknown-htp24.json",
+        "../data/releases/2024/2024-monster-trucks-dollar-tree-unknown-htp25.json",
+        "../data/releases/2024/2024-monster-trucks-dollar-tree-unknown-htp26.json",
+        "../data/releases/2025/2025-monster-trucks-dollar-tree-unknown-htp24.json",
+        "../data/releases/2025/2025-monster-trucks-dollar-tree-unknown-hpj02.json",
+        "../data/releases/2025/2025-monster-trucks-dollar-tree-unknown-hfc00.json",
+        "../data/releases/2025/2025-monster-trucks-dollar-tree-unknown-htp25.json",
+        "../data/releases/2025/2025-monster-trucks-dollar-tree-unknown-hph99.json",
+        "../data/releases/2025/2025-monster-trucks-dollar-tree-unknown-hfb97.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

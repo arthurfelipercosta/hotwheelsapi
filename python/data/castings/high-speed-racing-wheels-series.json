@@ -1,0 +1,40 @@
+{
+    "casting_id": "high-speed-racing-wheels-series",
+    "name": "High Speed Racing Wheels Series",
+    "description": {
+        "en-us": "This is a list of all vehicles from the High Speed Racing Wheels Series . Produced in 2014, it was a continuation of the Team Hot Wheels High-Speed Wheel Series . All cars featured the HSRW Wheel which was unique to this series.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-yellow-bdw21.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-red-bdw25.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-orange-bdw26.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-metalflake-dark-green-bdw32.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-black-bdw33.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-dark-blue-bdw39.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-blue-bdw22.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-white-bdw28.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-metalflake-maroon-bdw30.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-orange-bdw31.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-red-black-bdw24.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-purple-bdw19.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-light-green-bdw35.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-silver-bdw38.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-dark-green-bdw27.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-red-bdw36.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-black-bdw23.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-gray-bdw40.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-na-na.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-na-na-v2.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-na-na-v3.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-na-na-v4.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-na-na-v5.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-na-na-v6.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-na-na-v7.json",
+        "../data/releases/unknown/0-high-speed-racing-wheels-series-na-na-v8.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

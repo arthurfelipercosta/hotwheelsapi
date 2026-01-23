@@ -1,0 +1,27 @@
+{
+    "casting_id": "143-battle-vehicles",
+    "name": "1:43 Battle Vehicles",
+    "description": {
+        "en-us": "The 1:43 Battle Vehicle series debuted in early 2009 through late 2011 alongside the Hot Wheels: Battle Force 5 television series. It consisted of several 1:43 scale vehicles, each with a transforming or attacking function activated by a button. Many products of this series went unreleased due to a combination of poor sales and marketing.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-p2020.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-p2021.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-p2022.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-p2023.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-p2024.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-p2025.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-r1964.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-t5924.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-t5926.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-t5927.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-t5925.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-t5928.json",
+        "../data/releases/unknown/0-143-battle-vehicles-unknown-t5929.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

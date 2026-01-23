@@ -1,0 +1,40 @@
+{
+    "casting_id": "chaparral-2g",
+    "name": "Chaparral 2G",
+    "description": {
+        "en-us": "Chaparral 2G Debut series Grand Prix Produced 1969 only (Chaparral 2G) 1974 only (Winnipeg) Designer Ira Gilford Number 6256",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-aqua-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-enamel-white-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-blue-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-red-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-brown-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-orange-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-green-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-gold-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-rose-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-olive-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-light-blue-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-lime-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-hot-pink-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-purple-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-yellow-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-magenta-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-antifreeze-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-apple-green-light-green-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-aqua-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-orange-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-red-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-blue-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-green-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-olive-6256-v2.json",
+        "../data/releases/1974/1974-chaparral-2g-yellow-7618.json",
+        "../data/releases/1974/1974-chaparral-2g-yellow-7618-v2.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1969,
+    "manufacturer": "Mattel"
+}

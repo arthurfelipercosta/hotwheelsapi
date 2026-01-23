@@ -1,0 +1,22 @@
+{
+    "casting_id": "easter-series-2014",
+    "name": "Easter Series (2014)",
+    "description": {
+        "en-us": "The 2014 Easter Series was available at Walmart.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-easter-series-2014-metallic-green-bdk99.json",
+        "../data/releases/unknown/0-easter-series-2014-metallic-teal-bdl00.json",
+        "../data/releases/unknown/0-easter-series-2014-metallic-aquamarine-bdl01.json",
+        "../data/releases/unknown/0-easter-series-2014-red-bdl02.json",
+        "../data/releases/unknown/0-easter-series-2014-white-bdl03.json",
+        "../data/releases/unknown/0-easter-series-2014-orange-bdl04.json",
+        "../data/releases/unknown/0-easter-series-2014-pink-bdl05.json",
+        "../data/releases/unknown/0-easter-series-2014-lime-green-bdl06.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

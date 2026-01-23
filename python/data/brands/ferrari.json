@@ -1,0 +1,14 @@
+{
+    "brand_id": "ferrari",
+    "name": "Ferrari",
+    "country": "Unknown",
+    "founded_year": null,
+    "castings": [
+        "../data/castings/ferrari-512s.json",
+        "../data/castings/ferrari-x-v.json"
+    ],
+    "description": {
+        "en-us": "Manufacturer of Ferrari vehicles.",
+        "pt-br": "Fabricante de veículos Ferrari."
+    }
+}

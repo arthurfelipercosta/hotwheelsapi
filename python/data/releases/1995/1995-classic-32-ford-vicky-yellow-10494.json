@@ -1,0 +1,25 @@
+{
+    "release_id": "1995-classic-32-ford-vicky-yellow-10494",
+    "toy_number": "10494",
+    "casting_id": "classic-32-ford-vicky",
+    "year": 1995,
+    "series_id": "fao",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "Black top",
+        "base_color": "Chrome",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "RLBW"
+        },
+        "col": ""
+    },
+    "country": "China",
+    "notes": "Limited to 7000",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/32_Ford_Vicky_yelbw.JPG/revision/latest?cb=20091031180711"
+    }
+}

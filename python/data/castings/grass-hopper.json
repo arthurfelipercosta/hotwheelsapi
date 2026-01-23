@@ -1,0 +1,35 @@
+{
+    "casting_id": "grass-hopper",
+    "name": "Grass Hopper",
+    "description": {
+        "en-us": "Grass Hopper Debut series 1971 Hot Wheels Produced 1971 (Original) 1974 (1st Retool ) 1975 (2nd Retool ) 1975 - 1977 (Gun Slinger) 2010 (3rd Retool as Mountain Goat) Designer Larry Wood Number 6461",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1971/1971-grass-hopper-spectraflame-light-blue-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-blue-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-aqua-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-green-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-light-apple-green-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-olive-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-yellow-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-red-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-rose-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-pink-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-salmon-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-purple-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-magenta-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-brown-6461.json",
+        "../data/releases/1971/1971-grass-hopper-spectraflame-yellow-6461-v2.json",
+        "../data/releases/1974/1974-grass-hopper-enamel-light-green-7622.json",
+        "../data/releases/1975/1975-grass-hopper-enamel-light-green-7622.json",
+        "../data/releases/1975/1975-grass-hopper-olive-7664.json",
+        "../data/releases/1976/1976-grass-hopper-olive-7664.json",
+        "../data/releases/1977/1977-grass-hopper-olive-7664.json",
+        "../data/releases/2010/2010-grass-hopper-spectraflame-antifreeze-r8393.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1971,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,22 @@
+{
+    "casting_id": "143-turbos-collection",
+    "name": "1:43 Turbos Collection",
+    "description": {
+        "en-us": "Turbos Collection is a series of 1:43 scale models, first introduced in 1996 . All releases are Corgi Toys toolings and were previously issued by the brand under the “Corgi Turbos Collection” name.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-143-turbos-collection-unknown-94210.json",
+        "../data/releases/unknown/0-143-turbos-collection-unknown-94210-v2.json",
+        "../data/releases/unknown/0-143-turbos-collection-unknown-94210-v3.json",
+        "../data/releases/unknown/0-143-turbos-collection-unknown-94210-v4.json",
+        "../data/releases/unknown/0-143-turbos-collection-unknown-94210-v5.json",
+        "../data/releases/unknown/0-143-turbos-collection-unknown-94210-v6.json",
+        "../data/releases/unknown/0-143-turbos-collection-unknown-94210-v7.json",
+        "../data/releases/unknown/0-143-turbos-collection-unknown-94210-v8.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,21 @@
+{
+    "casting_id": "battle-x",
+    "name": "Battle X",
+    "description": {
+        "en-us": "Battle X was a short-lived series of battery-powered battling toys produced in 2005 .",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/2005/2005-battle-x-unknown-g8316.json",
+        "../data/releases/2005/2005-battle-x-unknown-g8317.json",
+        "../data/releases/2005/2005-battle-x-unknown-h1303.json",
+        "../data/releases/2005/2005-battle-x-unknown-h1304.json",
+        "../data/releases/2005/2005-battle-x-unknown-g8330.json",
+        "../data/releases/2005/2005-battle-x-unknown-g8328.json",
+        "../data/releases/2005/2005-battle-x-unknown-g8334.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

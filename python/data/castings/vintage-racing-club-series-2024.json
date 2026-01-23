@@ -1,0 +1,25 @@
+{
+    "casting_id": "vintage-racing-club-series-2024",
+    "name": "Vintage Racing Club Series (2024)",
+    "description": {
+        "en-us": "The Vintage Racing Club Series is a themed series featuring \"pre-1974\" vehicles from various manufacturers decked out in racing-like decos. This series is part of Hot Wheels \" silver label \" semi-Premium series.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-white-hrv00.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-baby-blue-hrv01.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-white-hrv02.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-orca-hrv03.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-green-hrv04.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-red-hrv05.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-light-gray-hrv06.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-red-hrv07.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-yellow-hrv08.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-black-hrv09.json",
+        "../data/releases/unknown/0-vintage-racing-club-series-2024-orange-hrv10.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,26 @@
+{
+    "release_id": "1996-custom-mustang-red-16266",
+    "toy_number": "16266",
+    "casting_id": "custom-mustang",
+    "year": 1996,
+    "series_id": "100th",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Gold stripes",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "PC6"
+        },
+        "col": "",
+        "chassis_color_type": "Unpainted / Metal"
+    },
+    "country": "China",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/Custom_mustang_from_100th_anniversary_auto_set_1996.JPG/revision/latest?cb=20120417223554"
+    }
+}

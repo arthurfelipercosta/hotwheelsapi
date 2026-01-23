@@ -1,0 +1,26 @@
+{
+    "casting_id": "shogun-racers",
+    "name": "Shogun Racers",
+    "description": {
+        "en-us": "Shogun Racers Morphing Tuners™ is a series of large scale transforming cars released in 2001 . Each cars' transformation is suited to racing on a specific type of terrain. Every vehicle came with a manga styled comic and diorama base. Only 6 unique comics were made, later recolors reused the comics from the original releases.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-shogun-racers-purple-28874.json",
+        "../data/releases/unknown/0-shogun-racers-grey-28875.json",
+        "../data/releases/unknown/0-shogun-racers-red-28879.json",
+        "../data/releases/unknown/0-shogun-racers-black-28877.json",
+        "../data/releases/unknown/0-shogun-racers-yellow-28878.json",
+        "../data/releases/unknown/0-shogun-racers-silver-28876.json",
+        "../data/releases/unknown/0-shogun-racers-unknown-28874.json",
+        "../data/releases/unknown/0-shogun-racers-orange-28875.json",
+        "../data/releases/unknown/0-shogun-racers-gold-28879.json",
+        "../data/releases/unknown/0-shogun-racers-blue-28877.json",
+        "../data/releases/unknown/0-shogun-racers-green-28878.json",
+        "../data/releases/unknown/0-shogun-racers-black-28876.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

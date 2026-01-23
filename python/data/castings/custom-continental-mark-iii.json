@@ -1,0 +1,30 @@
+{
+    "casting_id": "custom-continental-mark-iii",
+    "name": "Custom Continental Mark III",
+    "description": {
+        "en-us": "Custom Continental Mark III Debut series 1969 Hot Wheels Produced 1969 (Original) 2012 ( Retool ) Designer Ira Gilford Number 6266",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-red-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-yellow-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-blue-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-aqua-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-magenta-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-apple-green-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-lime-green-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-green-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-gold-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-rose-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-orange-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-purple-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-light-blue-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-hot-pink-6266.json",
+        "../data/releases/1969/1969-custom-continental-mark-iii-spectraflame-olive-6266.json",
+        "../data/releases/2012/2012-custom-continental-mark-iii-spectraflame-red-x0538.json"
+    ],
+    "specs": {},
+    "designer": "Ira Gilford",
+    "debut_year": 1969,
+    "manufacturer": "Mattel"
+}

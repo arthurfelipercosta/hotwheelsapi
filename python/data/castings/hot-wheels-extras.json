@@ -1,0 +1,23 @@
+{
+    "casting_id": "hot-wheels-extras",
+    "name": "Hot Wheels Extras",
+    "description": {
+        "en-us": "The Extras series was released in 1983 and ended in 1984.  The models were packaged with an extra part that can be put on and taken off.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1983/1983-hot-wheels-extras-red-4342.json",
+        "../data/releases/1983/1983-hot-wheels-extras-red-4342-v2.json",
+        "../data/releases/1983/1983-hot-wheels-extras-metalflake-blue-4341.json",
+        "../data/releases/1983/1983-hot-wheels-extras-blue-4018.json",
+        "../data/releases/1984/1984-hot-wheels-extras-orange-5905.json",
+        "../data/releases/1984/1984-hot-wheels-extras-orange-5905-v2.json",
+        "../data/releases/1983/1983-hot-wheels-extras-yellow-4017.json",
+        "../data/releases/1983/1983-hot-wheels-extras-metalflake-blue-light-blue-4340.json",
+        "../data/releases/1983/1983-hot-wheels-extras-metalflake-gold-4339.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

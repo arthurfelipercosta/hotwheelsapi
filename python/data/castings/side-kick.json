@@ -1,0 +1,33 @@
+{
+    "casting_id": "side-kick",
+    "name": "Side Kick",
+    "description": {
+        "en-us": "Side Kick Debut series Mainline Produced 1972 1998 - 2011 Designer Larry Wood Number 6022",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/1972/1972-side-kick-spectraflame-blue-6022.json",
+        "../data/releases/1972/1972-side-kick-spectraflame-green-6022.json",
+        "../data/releases/1972/1972-side-kick-spectraflame-aqua-6022.json",
+        "../data/releases/1972/1972-side-kick-spectraflame-light-green-6022.json",
+        "../data/releases/1972/1972-side-kick-spectraflame-purple-6022.json",
+        "../data/releases/1972/1972-side-kick-spectraflame-magenta-6022.json",
+        "../data/releases/1972/1972-side-kick-spectraflame-gold-6022.json",
+        "../data/releases/1972/1972-side-kick-spectraflame-yellow-6022.json",
+        "../data/releases/1972/1972-side-kick-spectraflame-red-6022.json",
+        "../data/releases/1998/1998-side-kick-metallic-purple-18861.json",
+        "../data/releases/2000/2000-side-kick-metalflake-gold-29274.json",
+        "../data/releases/2001/2001-side-kick-metallic-pale-blue-50083.json",
+        "../data/releases/2001/2001-side-kick-metallic-pale-blue-50078.json",
+        "../data/releases/2002/2002-side-kick-metalflake-blue-54383.json",
+        "../data/releases/2003/2003-side-kick-black-57078.json",
+        "../data/releases/2004/2004-side-kick-yellow-c3227.json",
+        "../data/releases/2010/2010-side-kick-yellow-54886.json",
+        "../data/releases/2011/2011-side-kick-purple-w1554.json",
+        "../data/releases/2011/2011-side-kick-purple-w1554-v2.json"
+    ],
+    "specs": {},
+    "designer": "Larry Wood",
+    "debut_year": 1972,
+    "manufacturer": "Mattel"
+}

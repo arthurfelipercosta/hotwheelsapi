@@ -1,0 +1,27 @@
+{
+    "casting_id": "super-streeters",
+    "name": "Super Streeters",
+    "description": {
+        "en-us": "The Super Streeters series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-super-streeters-red-9241.json",
+        "../data/releases/unknown/0-super-streeters-gray-9241.json",
+        "../data/releases/unknown/0-super-streeters-yellow-9241.json",
+        "../data/releases/unknown/0-super-streeters-white-2504.json",
+        "../data/releases/unknown/0-super-streeters-black-2014.json",
+        "../data/releases/unknown/0-super-streeters-gray-2012.json",
+        "../data/releases/unknown/0-super-streeters-chrome-9203.json",
+        "../data/releases/unknown/0-super-streeters-chrome-9206.json",
+        "../data/releases/unknown/0-super-streeters-white-2501.json",
+        "../data/releases/unknown/0-super-streeters-black-7649.json",
+        "../data/releases/unknown/0-super-streeters-chrome-9205.json",
+        "../data/releases/unknown/0-super-streeters-yellow-2500.json",
+        "../data/releases/unknown/0-super-streeters-gray-9639.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

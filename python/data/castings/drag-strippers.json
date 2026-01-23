@@ -1,0 +1,31 @@
+{
+    "casting_id": "drag-strippers",
+    "name": "Drag Strippers",
+    "description": {
+        "en-us": "The Drag Strippers series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-drag-strippers-white-2023.json",
+        "../data/releases/unknown/0-drag-strippers-green-9120.json",
+        "../data/releases/unknown/0-drag-strippers-yellow-9186.json",
+        "../data/releases/unknown/0-drag-strippers-dark-blue-8235.json",
+        "../data/releases/unknown/0-drag-strippers-light-enamel-blue-9244.json",
+        "../data/releases/unknown/0-drag-strippers-yellow-9642.json",
+        "../data/releases/unknown/0-drag-strippers-yellow-2015.json",
+        "../data/releases/unknown/0-drag-strippers-light-green-9240.json",
+        "../data/releases/unknown/0-drag-strippers-chrome-9207.json",
+        "../data/releases/unknown/0-drag-strippers-gold-chrome-8259.json",
+        "../data/releases/unknown/0-drag-strippers-yellow-9646.json",
+        "../data/releases/unknown/0-drag-strippers-light-green-9646.json",
+        "../data/releases/unknown/0-drag-strippers-black-9242.json",
+        "../data/releases/unknown/0-drag-strippers-gold-chrome-7630.json",
+        "../data/releases/unknown/0-drag-strippers-orange-8240.json",
+        "../data/releases/unknown/0-drag-strippers-gray-2508.json",
+        "../data/releases/unknown/0-drag-strippers-gray-2508-v2.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

@@ -1,0 +1,15 @@
+{
+    "casting_id": "atomix",
+    "name": "Atomix",
+    "description": {
+        "en-us": "Hot Wheels Atomix were micro-sized versions of regular Hot Wheels that were produced between 2002 and 2005 . They were similar to the earlier Planet Micro series. In 2003 they also appeared to be included in some 2003 Mainlines . The line was created by Tara Toys. After the Atomix series, Hot Wheels did not venture into micro cars until the Worlds Smallest Hot Wheels series in 2017 .",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-atomix-unknown-j5488.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

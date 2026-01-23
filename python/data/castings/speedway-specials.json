@@ -1,0 +1,31 @@
+{
+    "casting_id": "speedway-specials",
+    "name": "Speedway Specials",
+    "description": {
+        "en-us": "The Speedway Specials series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+        "pt-br": ""
+    },
+    "releases": [
+        "../data/releases/unknown/0-speedway-specials-magenta-7662.json",
+        "../data/releases/unknown/0-speedway-specials-gray-29.json",
+        "../data/releases/unknown/0-speedway-specials-blue-54.json",
+        "../data/releases/unknown/0-speedway-specials-orange-8.json",
+        "../data/releases/unknown/0-speedway-specials-white-53.json",
+        "../data/releases/unknown/0-speedway-specials-black-43.json",
+        "../data/releases/unknown/0-speedway-specials-red-38.json",
+        "../data/releases/unknown/0-speedway-specials-dark-blue-45.json",
+        "../data/releases/unknown/0-speedway-specials-red-7.json",
+        "../data/releases/unknown/0-speedway-specials-dark-blue-21.json",
+        "../data/releases/unknown/0-speedway-specials-lemon-yellow-21.json",
+        "../data/releases/unknown/0-speedway-specials-orange-4.json",
+        "../data/releases/unknown/0-speedway-specials-red-50.json",
+        "../data/releases/unknown/0-speedway-specials-yellow-46.json",
+        "../data/releases/unknown/0-speedway-specials-yellow-38.json",
+        "../data/releases/unknown/0-speedway-specials-black-17.json",
+        "../data/releases/unknown/0-speedway-specials-red-17.json"
+    ],
+    "specs": {},
+    "designer": "Unknown",
+    "debut_year": null,
+    "manufacturer": "Mattel"
+}

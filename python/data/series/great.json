@@ -1,0 +1,8 @@
+{
+    "series_id": "great",
+    "name": "Great",
+    "description": "Hot Wheels Great Series",
+    "releases": [
+        "../data/releases/1998/1998-mongoose-purple-19744.json"
+    ]
+}

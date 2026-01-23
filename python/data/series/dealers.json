@@ -1,0 +1,15 @@
+{
+    "series_id": "dealers",
+    "name": "Dealers",
+    "description": "Hot Wheels Dealers Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16938.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16938.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16939.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16939.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16940.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16940.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16941.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16941.json"
+    ]
+}

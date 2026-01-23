@@ -1,0 +1,351 @@
+[
+    {
+        "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+        "name": "55th Anniversary Black and Yellow Series (2023)",
+        "description": {
+            "en-us": "The 2023 55th Anniversary Matte Black and Gold Series is the sixth release of the Anniversary Series , celebrating Hot Wheels' 55th Anniversary. Both mixes contain a model identifiable by their predominantly gold paint scheme; these come 1 or 2 to a case compared to other models. These are occasionally branded as \"chases\" however are not numbered 0/6.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "55th",
+        "releases": [
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlj96",
+                "toy_number": "HLJ96",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Red Hot Wheels logo, white \"55th\", red and yellow stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "FC3"
+                    },
+                    "col": "1/6",
+                    "casting_name": "'96 Nissan 180SX Type X",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R46",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/96_Nissan_180SX_Type_X_-_55th_Anniversary_Hot_Wheels_2023_loose.png/revision/latest?cb=20221117110340"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlj97",
+                "toy_number": "HLJ97",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Red Hot Wheels logo, white \"55th\", Bilstein logo, red and yellow stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold Y5"
+                    },
+                    "col": "2/6",
+                    "casting_name": "'92 BMW M3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R36, R46, R48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/92_BMW_M3_-_55th_Anniversary_Hot_Wheels_2023_loose.png/revision/latest?cb=20221117110527"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-anodized-gold-hlj98",
+                "toy_number": "HLJ98",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Anodized gold",
+                    "tampo": "Black Hot Wheels logo and \"55th\", black and red stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "3/6",
+                    "casting_name": "Volkswagen T1-GTR",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Chase Base code(s): R35",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Volkswagen_T1-GTR_-_55th_Anniversary_Hot_Wheels_2023_loose.png/revision/latest?cb=20221117110454"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlj99",
+                "toy_number": "HLJ99",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Red Hot Wheels logo, white \"55th\", Land Rover, Michelin and Castrol logos, red and yellow stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BAJA5"
+                    },
+                    "col": "4/6",
+                    "casting_name": "Range Rover Classic",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Range_Rover_Classic_-_55th_Anniversary_Hot_Wheels_2023_loose.png/revision/latest?cb=20221117110408"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlk00",
+                "toy_number": "HLK00",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Red Hot Wheels logo, white \"55th and Goodyear\", red and yellow stripes on hood and sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RSW"
+                    },
+                    "col": "5/6",
+                    "casting_name": "'66 Chevy Nova",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R35",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/66_Chevy_Nova_-_55th_Anniversary_Hot_Wheels_2023_loose.png/revision/latest?cb=20221117110557"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlk01",
+                "toy_number": "HLK01",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Red Hot Wheels logo, white \"55th\", yellow and red stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "6/6",
+                    "casting_name": "'15 Dodge Challenger SRT",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R41, R46, R48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/15_Dodge_Challenger_SRT_-_55th_Anniversary_Hot_Wheels_2023_loose.png/revision/latest?cb=20221117110628"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlk02",
+                "toy_number": "HLK02",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Hot Wheels logo, \"55th\", red and yellow stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "1/6",
+                    "casting_name": "'67 Chevy C10",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S02, S08, S18, S24",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/51/55th_Chevy_loose.JPG/revision/latest?cb=20240124175217"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlk04",
+                "toy_number": "HLK04",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Hot Wheels logo, \"55th\", yellow stripes on hood",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "2/6",
+                    "casting_name": "Twin Mill",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S08, S18",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/55th_Twin_Mill_loose.JPG/revision/latest?cb=20240124175230"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-chrome-gold-hlk05",
+                "toy_number": "HLK05",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome gold",
+                    "tampo": "Hot Wheels logo, \"55th\", red and black stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "col": "3/6",
+                    "casting_name": "Mercedes-Benz Unimog U 1300 L",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Chase Modified casting Base code(s): S08, S15, S20, S24, S28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/2023-55th_HLK05_Merceds_Unimog_1300L_Gold_open-1.jpg/revision/latest?cb=20231102031049"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlk06",
+                "toy_number": "HLK06",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Hot Wheels logo, \"55th\", red and yellow stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "J5"
+                    },
+                    "col": "4/6",
+                    "casting_name": "Porsche 993 GT2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S08, S15, S16, S18, S20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/2023-55th_BLK_YEL_HLK06_Porsche_993_GT2_HWR_Black_open-1.jpg/revision/latest?cb=20230901100528"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlk07",
+                "toy_number": "HLK07",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Hot Wheels logo, \"55th\", red and yellow stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "5/6",
+                    "casting_name": "Custom '01 Acura Integra GSR",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S08, S23",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/55th_Acura_loose.JPG/revision/latest?cb=20240124175152"
+                }
+            },
+            {
+                "release_id": "0-55th-anniversary-black-and-yellow-series-2023-matte-black-hlk08",
+                "toy_number": "HLK08",
+                "casting_id": "55th-anniversary-black-and-yellow-series-2023",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "Hot Wheels logo, \"55th\", red and yellow stripes on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "6/6",
+                    "casting_name": "'67 Camaro",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S08, S12, S22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/20240901003132.jpg/revision/latest?cb=20240901053156"
+                }
+            }
+        ]
+    }
+]

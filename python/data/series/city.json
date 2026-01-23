@@ -1,0 +1,8 @@
+{
+    "series_id": "city",
+    "name": "City",
+    "description": "Hot Wheels City Series",
+    "releases": [
+        "../data/releases/2001/2001-side-kick-metallic-pale-blue-50078.json"
+    ]
+}

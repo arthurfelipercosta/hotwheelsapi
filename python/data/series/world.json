@@ -1,0 +1,10 @@
+{
+    "series_id": "world",
+    "name": "World",
+    "description": "Hot Wheels World Series",
+    "releases": [
+        "../data/releases/2004/2004-twin-mill-metalflake-blue-c0095.json",
+        "../data/releases/2004/2004-twin-mill-metalflake-red-b8544.json",
+        "../data/releases/2004/2004-twin-mill-pearl-white-c0094.json"
+    ]
+}

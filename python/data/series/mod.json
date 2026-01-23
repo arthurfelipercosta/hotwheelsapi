@@ -1,0 +1,15 @@
+{
+    "series_id": "mod",
+    "name": "Mod",
+    "description": "Hot Wheels Mod Series",
+    "releases": [
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15238.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15238.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15239.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15239.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15240.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15240.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15242.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15242.json"
+    ]
+}

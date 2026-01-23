@@ -1,0 +1,9 @@
+{
+    "series_id": "highway",
+    "name": "Highway",
+    "description": "Hot Wheels Highway Series",
+    "releases": [
+        "../data/releases/2003/2003-twin-mill-red-b0885.json",
+        "../data/releases/2006/2006-classic-32-ford-vicky-black-j3418.json"
+    ]
+}

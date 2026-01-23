@@ -1,0 +1,15 @@
+{
+    "series_id": "sports",
+    "name": "Sports",
+    "description": "Hot Wheels Sports Series",
+    "releases": [
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15248.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15248.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15249.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15249.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15250.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15250.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15251.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15251.json"
+    ]
+}

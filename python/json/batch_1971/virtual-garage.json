@@ -1,0 +1,1842 @@
+[
+    {
+        "casting_id": "virtual-garage",
+        "name": "Virtual Garage",
+        "description": {
+            "en-us": "Virtual Garage (named NFT Garage until 2024) is a Hot Wheels series introduced in 2022 . Users of the platform may purchase non-fungible tokens (NFT) of Hot Wheels cars in packs of between three cars and ten. NFTs are divided into five rarities: Base, Rare, Premium, NFTH and Showroom, with those who receive Premium or NFTH rarity cars from these packs being able to redeem them for physical Hot Wheels models using a \"redemption token\". The series initially ran on the Worldwide Asset Exchange (WAX) platform before switching to Flow beginning with Series 4. The line was discontinued after Series 10.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Virtual",
+        "releases": [
+            {
+                "release_id": "0-virtual-garage-spectraflame-red-hlp65",
+                "toy_number": "HLP65",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "Bone Shaker",
+                    "quantity": "600",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-hugger-orange-hlp64",
+                "toy_number": "HLP64",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame hugger orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "card_id": "#14",
+                    "rarity": "Premium",
+                    "casting_name": "'18 Camaro SS",
+                    "quantity": "1,200",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/NFT_Camaro.jpg/revision/latest?cb=20240315154652"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-yellow-hlp61",
+                "toy_number": "HLP61",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRRL5SP"
+                    },
+                    "card_id": "#23",
+                    "rarity": "Premium",
+                    "casting_name": "Twin Mill",
+                    "quantity": "1,200",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-blue-hlp62",
+                "toy_number": "HLP62",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "card_id": "#30",
+                    "rarity": "Premium",
+                    "casting_name": "Rodger Dodger",
+                    "quantity": "1,200",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/06/NFT_RodgerDodger.jpg/revision/latest?cb=20240315154818"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-hugger-orange-hlp63",
+                "toy_number": "HLP63",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame hugger orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRA"
+                    },
+                    "card_id": "#40",
+                    "rarity": "Premium",
+                    "casting_name": "Mach Speeder",
+                    "quantity": "1,200",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-hugger-orange-hmy55",
+                "toy_number": "HMY55",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame hugger orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRWW5SP"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "'55 Chevy Bel Air Gasser",
+                    "quantity": "1,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-aqua-green-hmy54",
+                "toy_number": "HMY54",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame aqua green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORDDRR / MD"
+                    },
+                    "card_id": "#10",
+                    "rarity": "Premium",
+                    "casting_name": "Aristo Rat",
+                    "quantity": "1,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/NFT-AristoRat.jpg/revision/latest?cb=20240315154935"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-steel-blue-hmy52",
+                "toy_number": "HMY52",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame steel blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "card_id": "#20",
+                    "rarity": "Premium",
+                    "casting_name": "Custom Otto",
+                    "quantity": "1,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/NFT-CustomOtto.jpg/revision/latest?cb=20240315155020"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-blue-hmy53",
+                "toy_number": "HMY53",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#30",
+                    "rarity": "Premium",
+                    "casting_name": "Honda S2000",
+                    "quantity": "1,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/S2k_nft.JPG/revision/latest?cb=20240826085812"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-yellow-gold-hmy51",
+                "toy_number": "HMY51",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame yellow gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#40",
+                    "rarity": "Premium",
+                    "casting_name": "Chevrolet Corvette C8.R",
+                    "quantity": "1,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/NFT-C8R.jpg/revision/latest?cb=20240315155109"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-black-hnv32",
+                "toy_number": "HNV32",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "'16 Cadillac ATS-V R",
+                    "quantity": "1,250",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/NFT-ATSVR.jpg/revision/latest?cb=20240315155205"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-blue-hnv35",
+                "toy_number": "HNV35",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "card_id": "#13",
+                    "rarity": "Premium",
+                    "casting_name": "Bad to the Blade",
+                    "quantity": "2,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-army-green-hnv33",
+                "toy_number": "HNV33",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame army green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "card_id": "#26",
+                    "rarity": "Premium",
+                    "casting_name": "2 Jet Z",
+                    "quantity": "2,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-red-hnv34",
+                "toy_number": "HNV34",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "card_id": "#39",
+                    "rarity": "Premium",
+                    "casting_name": "'17 Acura NSX",
+                    "quantity": "2,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/NFT-NSX.jpg/revision/latest?cb=20240315155326"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-blue-hnv36",
+                "toy_number": "HNV36",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRHW5SP"
+                    },
+                    "card_id": "#51",
+                    "rarity": "Premium",
+                    "casting_name": "'77 Pontiac Firebird T/A",
+                    "quantity": "2,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/NFT-Firebird.jpg/revision/latest?cb=20240315155356"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-steel-blue-hpm58",
+                "toy_number": "HPM58",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame steel blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "McLaren F1 GTR",
+                    "quantity": "1,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/NFT-F1GTR.jpg/revision/latest?cb=20240315155456"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-black-hpm55",
+                "toy_number": "HPM55",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#29",
+                    "rarity": "Premium",
+                    "casting_name": "Pagani Huayra",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/NFT-Huayra.jpg/revision/latest?cb=20240315155547"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-red-hpm56",
+                "toy_number": "HPM56",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "card_id": "#30",
+                    "rarity": "Premium",
+                    "casting_name": "'82 Cadillac Seville",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/NFT-Seville.jpg/revision/latest?cb=20240315155636"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-blue-hpm54",
+                "toy_number": "HPM54",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "card_id": "#44",
+                    "rarity": "Premium",
+                    "casting_name": "'69 COPO Corvette",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/NFT-COPOCorvette.jpg/revision/latest?cb=20240315155725"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-blue-hpm57",
+                "toy_number": "HPM57",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORRRE"
+                    },
+                    "card_id": "#58",
+                    "rarity": "Premium",
+                    "casting_name": "Chevy Silverado Off Road",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/NFT-Silverado.jpg/revision/latest?cb=20240315155815"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-burnt-orange-hrx26",
+                "toy_number": "HRX26",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame burnt orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "Porsche 911 GT3 RS",
+                    "quantity": "1,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/NFT-GT3RS.jpg/revision/latest?cb=20240315155909"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-volcano-red-hrx24",
+                "toy_number": "HRX24",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Volcano Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#28",
+                    "rarity": "Premium",
+                    "casting_name": "Aston Martin Vulcan",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/NFT-Vulcan.jpg/revision/latest?cb=20240315155956"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-silverstone-green-hrx22",
+                "toy_number": "HRX22",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Silverstone Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#29",
+                    "rarity": "Premium",
+                    "casting_name": "McLaren F1",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/NFT-F1.jpg/revision/latest?cb=20240315160133"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-varennesite-arancione-hrx23",
+                "toy_number": "HRX23",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Varennesite Arancione",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "card_id": "#44",
+                    "rarity": "Premium",
+                    "casting_name": "'17 Pagani Huayra Roadster",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/NFT-HuayraRoadster.jpg/revision/latest?cb=20240315160420"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-powder-blue-hrx25",
+                "toy_number": "HRX25",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame powder blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "HWRTRR10SP"
+                    },
+                    "card_id": "#58",
+                    "rarity": "Premium",
+                    "casting_name": "'55 Chevy Panel",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/NFT-ChevyPanel.jpg/revision/latest?cb=20240315160554"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-purple-hww85",
+                "toy_number": "HWW85",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRE"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "1988 Jeep Wagoneer",
+                    "quantity": "1,750",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-brown-hww87",
+                "toy_number": "HWW87",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "card_id": "#28",
+                    "rarity": "Premium",
+                    "casting_name": "'69 Chevelle SS 396",
+                    "quantity": "3,750",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/NFT-Chevelle.jpg/revision/latest?cb=20240315160621"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-dark-blue-hww83",
+                "toy_number": "HWW83",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRSteelie"
+                    },
+                    "card_id": "#29",
+                    "rarity": "Premium",
+                    "casting_name": "'18 Dodge Challenger SRT Demon",
+                    "quantity": "3,750",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/NFT-ChallengerDemon.jpg/revision/latest?cb=20240315160731"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-british-racing-green-hww84",
+                "toy_number": "HWW84",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame British Racing Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#44",
+                    "rarity": "Premium",
+                    "casting_name": "Aston Martin Valhalla Concept",
+                    "quantity": "3,750",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/NFT-Valhalla.jpg/revision/latest?cb=20240315160814"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-red-hww86",
+                "toy_number": "HWW86",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RREURO"
+                    },
+                    "card_id": "#58",
+                    "rarity": "Premium",
+                    "casting_name": "'78 Porsche 935-78",
+                    "quantity": "3,750",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/NFT-Porsche-935-78.jpg/revision/latest?cb=20240315160909"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-zamac-hxn06",
+                "toy_number": "HXN06",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "card_id": "#7",
+                    "rarity": "ZAMAC",
+                    "casting_name": "Porsche 917KH",
+                    "quantity": "3,750",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/NFT-Porsche-917KH.jpg/revision/latest?cb=20240315160950"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-blu-astraeus-hww89",
+                "toy_number": "HWW89",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blu Astraeus",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MCRR"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "Lamborghini Aventador Coupé",
+                    "quantity": "1,750",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/Lp700nft.JPG/revision/latest?cb=20240826083825"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-rosso-dubai-hww88",
+                "toy_number": "HWW88",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Rosso Dubai",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#15",
+                    "rarity": "Premium",
+                    "casting_name": "Pagani Zonda R",
+                    "quantity": "4,275",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/NFT-ZondaR.jpg/revision/latest?cb=20240315161017"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-green-hww92",
+                "toy_number": "HWW92",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRE"
+                    },
+                    "card_id": "#29",
+                    "rarity": "Premium",
+                    "casting_name": "Datsun Bluebird Wagon (510)",
+                    "quantity": "4,275",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-forest-green-hww90",
+                "toy_number": "HWW90",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame forest green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "card_id": "#43",
+                    "rarity": "Premium",
+                    "casting_name": "'70 Dodge Power Wagon",
+                    "quantity": "4,275",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-gold-hww91",
+                "toy_number": "HWW91",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRA / DDRR"
+                    },
+                    "card_id": "#58",
+                    "rarity": "Premium",
+                    "casting_name": "Porsche 962",
+                    "quantity": "4,275",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/962_nft.JPG/revision/latest?cb=20240826084548"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-zamac-hxn07",
+                "toy_number": "HXN07",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "card_id": "#59",
+                    "rarity": "ZAMAC",
+                    "casting_name": "'64 GMC Panel",
+                    "quantity": "3,750",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-pink-jcx87",
+                "toy_number": "JCX87",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "Nissan Fairlady Z",
+                    "quantity": "1,800",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-steel-blue-jcx83",
+                "toy_number": "JCX83",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame steel blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "card_id": "#15",
+                    "rarity": "Premium",
+                    "casting_name": "'84 Audi Sport quattro",
+                    "quantity": "4,300",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/84_Audi_Sport_quattro_NFT.jpg/revision/latest?cb=20240911151400"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-black-jcx84",
+                "toy_number": "JCX84",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "card_id": "#29",
+                    "rarity": "Premium",
+                    "casting_name": "'69 Camaro",
+                    "quantity": "4,300",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Camaro_nft.JPG/revision/latest?cb=20240826092013"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-green-jcx85",
+                "toy_number": "JCX85",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRDragS / RR5SP"
+                    },
+                    "card_id": "#43",
+                    "rarity": "Premium",
+                    "casting_name": "'72 Plymouth Cuda FC",
+                    "quantity": "4,300",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-gold-jdj57",
+                "toy_number": "JDJ57",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RREURO"
+                    },
+                    "card_id": "#58",
+                    "rarity": "Premium",
+                    "casting_name": "'64 Lincoln Continental",
+                    "quantity": "4,300",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-zamac-hxn08",
+                "toy_number": "HXN08",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#59",
+                    "rarity": "ZAMAC",
+                    "casting_name": "McLaren 720S",
+                    "quantity": "3,600",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-purple-jdk57",
+                "toy_number": "JDK57",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "'72 Ford Ranchero",
+                    "quantity": "1,350",
+                    "photo_loose": "",
+                    "photo_carded": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Nft_%2772_Ford_Ranchero.jpg/revision/latest?cb=20240820050611"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-british-racing-green-jdk53",
+                "toy_number": "JDK53",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame British Racing Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SRR"
+                    },
+                    "card_id": "#16",
+                    "rarity": "Premium",
+                    "casting_name": "Jaguar Lightweight E-Type",
+                    "quantity": "4,350",
+                    "photo_loose": "",
+                    "photo_carded": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/NFT_E-type.jpg/revision/latest?cb=20250121221640"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-black-jdk55",
+                "toy_number": "JDK55",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRE"
+                    },
+                    "card_id": "#31",
+                    "rarity": "Premium",
+                    "casting_name": "'89 Porsche 944 Turbo",
+                    "quantity": "4,350",
+                    "photo_loose": "",
+                    "photo_carded": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/Virtual_Garage_944_r1t.jpg/revision/latest?cb=20250909063934"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-red-jdk56",
+                "toy_number": "JDK56",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "C4SPRR"
+                    },
+                    "card_id": "#45",
+                    "rarity": "Premium",
+                    "casting_name": "Nissan Skyline C210",
+                    "quantity": "4,350",
+                    "photo_loose": "",
+                    "photo_carded": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-zamac-hxn09",
+                "toy_number": "HXN09",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORRRBL10SP"
+                    },
+                    "card_id": "#59",
+                    "rarity": "ZAMAC",
+                    "casting_name": "Range Rover Classic",
+                    "quantity": "1,850",
+                    "photo_loose": "",
+                    "photo_carded": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-red-jgl67",
+                "toy_number": "JGL67",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#01",
+                    "rarity": "NFTH",
+                    "casting_name": "'94 Audi Avant RS2",
+                    "quantity": "3,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-black-jhg80",
+                "toy_number": "JHG80",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "card_id": "#14",
+                    "rarity": "Premium",
+                    "casting_name": "Nissan Skyline GT-R (BCNR33)",
+                    "quantity": "6,600",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-dark-blue-jgl65",
+                "toy_number": "JGL65",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "card_id": "#26",
+                    "rarity": "Premium",
+                    "casting_name": "Cupra e-Racer",
+                    "quantity": "6,600",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-zamac-hxn10",
+                "toy_number": "HXN10",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "card_id": "#38",
+                    "rarity": "ZAMAC",
+                    "casting_name": "'70 Dodge Charger R/T",
+                    "quantity": "3,100",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-pink-hww93",
+                "toy_number": "HWW93",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MCRR"
+                    },
+                    "card_id": "#01",
+                    "type": "Chrome",
+                    "casting_name": "Honda S2000",
+                    "quantity": "2,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/S2000_nft.jpg/revision/latest?cb=20240826081439"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-whiteblue-hvx88",
+                "toy_number": "HVX88",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame White/Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "card_id": "#01",
+                    "type": "AcceleCharged",
+                    "casting_name": "Deora II",
+                    "quantity": "2,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/DeoraIINFTGarageLoose.jpeg/revision/latest?cb=20240329055139"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-purple-hxv27",
+                "toy_number": "HXV27",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "card_id": "#01",
+                    "type": "Oro",
+                    "casting_name": "Lamborghini Veneno",
+                    "quantity": "6,000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/Veneno_nft.jpg/revision/latest?cb=20240826081920"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-dark-blue-jfj03",
+                "toy_number": "JFJ03",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "card_id": "#01",
+                    "type": "Chrome",
+                    "casting_name": "Nissan Skyline GT-R (BNR34)",
+                    "quantity": "7,800",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-virtual-garage-spectraflame-ice-brown-jfj04",
+                "toy_number": "JFJ04",
+                "casting_id": "virtual-garage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame ice brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "D7RR"
+                    },
+                    "card_id": "#01",
+                    "type": "Chrome",
+                    "casting_name": "Classic TV Series Batmobile",
+                    "quantity": "6,500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/NFT_batmobile.jpg/revision/latest?cb=20250304164542"
+                }
+            },
+            {
+                "release_id": "2022-virtual-garage-spectraflame-purple-hpw90",
+                "toy_number": "HPW90",
+                "casting_id": "virtual-garage",
+                "year": 2022,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Wall Chrome Gold WWDDRR"
+                    },
+                    "casting_name": "'83 Chevy Silverado",
+                    "quantity": "1,200",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/83_silverado_NFT.webp/revision/latest?cb=20230730101525"
+                }
+            },
+            {
+                "release_id": "2023-virtual-garage-spectraflame-green-hyt31",
+                "toy_number": "HYT31",
+                "casting_id": "virtual-garage",
+                "year": 2023,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold C4SPRR"
+                    },
+                    "casting_name": "Nissan Skyline 2000 GT-R",
+                    "quantity": "1,000",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2024-virtual-garage-spectraflame-blue-jdk54",
+                "toy_number": "JDK54",
+                "casting_id": "virtual-garage",
+                "year": 2024,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MCRR"
+                    },
+                    "casting_name": "Lamborghini Huracán LP610-4",
+                    "quantity": "1,000",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2024-virtual-garage-spectraflame-blue-jfj03",
+                "toy_number": "JFJ03",
+                "casting_id": "virtual-garage",
+                "year": 2024,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "casting_name": "Nissan Skyline GT-R (BNR34)",
+                    "quantity": "250",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

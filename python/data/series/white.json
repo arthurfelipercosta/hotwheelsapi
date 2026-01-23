@@ -1,0 +1,15 @@
+{
+    "series_id": "white",
+    "name": "White",
+    "description": "Hot Wheels White Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16934.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16934.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16935.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16935.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16936.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16936.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16937.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16937.json"
+    ]
+}

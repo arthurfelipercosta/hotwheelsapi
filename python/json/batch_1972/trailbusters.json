@@ -1,0 +1,1338 @@
+[
+    {
+        "casting_id": "trailbusters",
+        "name": "Trailbusters",
+        "description": {
+            "en-us": "Hot Wheels Trailbusters was a line of vehicles released between 1987 and 1989.  The special cards for this line featured a Gulch Stepper.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Trailbusters",
+        "releases": [
+            {
+                "release_id": "1987-trailbusters-black-4360",
+                "toy_number": "4360",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Baja Breaker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Opening  hood",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/1984_Baja_breaker_Black_BW.jpg/revision/latest?cb=20130210040656"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-black-4360-v2",
+                "toy_number": "4360",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gray Hub RR"
+                    },
+                    "model_name": "Baja Breaker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Opening hood",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/1984_Baja_breaker_black_Grey_RR.jpg/revision/latest?cb=20130210040728"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-black-4360",
+                "toy_number": "4360",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Baja Breaker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Sealed hood",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Baja_Breaker_BlkBWClsd.JPG/revision/latest?cb=20090314140054"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-black-4360-v2",
+                "toy_number": "4360",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Baja Breaker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Sealed hood",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/Baja_Breaker_BlkNredct.JPG/revision/latest?cb=20090314135136"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1517",
+                "toy_number": "1517",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Baja Breaker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/2018-03-03_22.50.11.jpg/revision/latest?cb=20180305041428"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1517-v2",
+                "toy_number": "1517",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Baja Breaker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Baja_Breaker_WhtCT.JPG/revision/latest?cb=20090110204204"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-2542",
+                "toy_number": "2542",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Baja Bug",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Baja_Bug_WhtBW.JPG/revision/latest?cb=20091018123422"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-white-2542",
+                "toy_number": "2542",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Hub RR"
+                    },
+                    "model_name": "Baja Bug",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/Baja_Bug_WhtRRW.JPG/revision/latest?cb=20091018123730"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-black-5910",
+                "toy_number": "5910",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Blazer 4×4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/Blazer_4x4_BlkCT.JPG/revision/latest?cb=20090109153125"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-black-5910-v2",
+                "toy_number": "5910",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Blazer 4×4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Blazer_4x4_BlkCTS.JPG/revision/latest?cb=20090109153147"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-red-1520",
+                "toy_number": "1520",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Hub RR"
+                    },
+                    "model_name": "Bronco 4-Wheeler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Bronco-4-Wheeler_RedRRW.JPG/revision/latest?cb=20090110230435"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-white-1520",
+                "toy_number": "1520",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Bronco 4-Wheeler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/Bronco-4-Wheeler_WhtBWBlu.JPG/revision/latest?cb=20090110230607"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1520",
+                "toy_number": "1520",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Bronco 4-Wheeler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Bronco-4-Wheeler_WhtBW.JPG/revision/latest?cb=20090110230550"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1520-v2",
+                "toy_number": "1520",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Bronco 4-Wheeler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Bronco-4-Wheeler_WhtCT.JPG/revision/latest?cb=20090110230629"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-metalflake-blue-4361",
+                "toy_number": "4361",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Bywayman",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "No toolbox",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/Bywayman-12063.jpg/revision/latest?cb=20150516063805"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-metalflake-blue-4361-v2",
+                "toy_number": "4361",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Hub RR"
+                    },
+                    "model_name": "Bywayman",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "No toolbox",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Bywayman-12067.jpg/revision/latest?cb=20150516064253"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-metalflake-blue-4361",
+                "toy_number": "4361",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Bywayman",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "No toolbox",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/Bywayman_BluCT.JPG/revision/latest?cb=20081030210311"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-maroon-1518",
+                "toy_number": "1518",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Bywayman",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Bywayman_Mrn.JPG/revision/latest?cb=20090101183759"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-yellow-1516",
+                "toy_number": "1516",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Gulch Stepper",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Gulch_Stepper_YelCT.JPG/revision/latest?cb=20090111005802"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-yellow-1516-v2",
+                "toy_number": "1516",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Gulch Stepper",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/Gulch_Stepper_YelCTS.JPG/revision/latest?cb=20090111005825"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-red-1516",
+                "toy_number": "1516",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Gulch Stepper",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Gulch_Stepper_RedCT1.JPG/revision/latest?cb=20090111005605"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-red-1516-v2",
+                "toy_number": "1516",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Gulch Stepper",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/Gulch_Stepper_RedCTS.JPG/revision/latest?cb=20090111005635"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-white-2539",
+                "toy_number": "2539",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Jeep CJ-7",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Jeep_CJ7_WhtRdBW.JPG/revision/latest?cb=20091028143621"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-white-2539-v2",
+                "toy_number": "2539",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Hub RR"
+                    },
+                    "model_name": "Jeep CJ-7",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Jeep_CJ7_WhtRdRR.JPG/revision/latest?cb=20091028143622"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-metalflake-blue-2541",
+                "toy_number": "2541",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Jeep Scrambler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/Jeep_Scrambler_Blu.JPG/revision/latest?cb=20090122181209"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-metalflake-blue-2541-v2",
+                "toy_number": "2541",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Hub RR"
+                    },
+                    "model_name": "Jeep Scrambler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Jeep_Scrambler_BluRR.JPG/revision/latest?cb=20090122181226"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-metalflake-dark-red-5146",
+                "toy_number": "5146",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Jeep Scrambler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Jeep_Scrambler_Red.JPG/revision/latest?cb=20090122181241"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-metalflake-dark-red-5146",
+                "toy_number": "5146",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Jeep Scrambler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-yellow-3716",
+                "toy_number": "3716",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Monster Vette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/Monstervette_yellowct.JPG/revision/latest?cb=20091202084104"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-yellow-3716",
+                "toy_number": "3716",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Monster Vette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/45/Monster_Vette_yelCTS.JPG/revision/latest?cb=20090925031513"
+                }
+            },
+            {
+                "release_id": "1988-trailbusters-white-red-4392",
+                "toy_number": "4392",
+                "casting_id": "trailbusters",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Nissan Hardbody",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/Nissan_Harbody_WhtRd.JPG/revision/latest?cb=20090220055224"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-4392",
+                "toy_number": "4392",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Nissan Hardbody",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/Nissan_Hardbody_Wht.JPG/revision/latest?cb=20090205053238"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-4392-v2",
+                "toy_number": "4392",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Nissan Hardbody",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/Nissan_Harbody_WhtCts.JPG/revision/latest?cb=20090220055207"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-black-2534",
+                "toy_number": "2534",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Hub RR"
+                    },
+                    "model_name": "Path Beater",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Pathbeater_blackrr.JPG/revision/latest?cb=20100504103744"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-black-2534-v2",
+                "toy_number": "2534",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Wide BW"
+                    },
+                    "model_name": "Path Beater",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/Trailbusters_Path_Beater_Black_Wide_BW_Malaysia_2534.jpg/revision/latest?cb=20240324124408"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-black-2534-v3",
+                "toy_number": "2534",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Path Beater",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "International card",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/Pathbeater_blackbw.JPG/revision/latest?cb=20100504103913"
+                }
+            },
+            {
+                "release_id": "1988-trailbusters-black-5113",
+                "toy_number": "5113",
+                "casting_id": "trailbusters",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Power Plower",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Power_Plower_BlkBW.JPG/revision/latest?cb=20081222033928"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-black-5113",
+                "toy_number": "5113",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Power Plower",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/Power_Plower_BlkCT.JPG/revision/latest?cb=20081222034344"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1470",
+                "toy_number": "1470",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Street Roader",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Magenta stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Street_Roader_WhtMag.JPG/revision/latest?cb=20081220174140"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1470-v2",
+                "toy_number": "1470",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Street Roader",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Magenta stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/Street_Roader_WhtBlkCTS.JPG/revision/latest?cb=20090219165008"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1470-v3",
+                "toy_number": "1470",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Street Roader",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Pink stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1470-v4",
+                "toy_number": "1470",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Street Roader",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Black stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Street_Roader_WhtBlk.JPG/revision/latest?cb=20081220174116"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-white-1470-v5",
+                "toy_number": "1470",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Street Roader",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Black stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-yellow-3209",
+                "toy_number": "3209",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow ORCT"
+                    },
+                    "model_name": "Suzuki QuadRacer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Suzuki_Quadracer_YelCTSY.JPG/revision/latest?cb=20091115064958"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-yellow-3209",
+                "toy_number": "3209",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "YCT"
+                    },
+                    "model_name": "Suzuki QuadRacer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Suzuki_QuadracerCTY.JPG/revision/latest?cb=20091115064908"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-metalflake-silver-7530",
+                "toy_number": "7530",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Tall Ryder",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Purple stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Purple_CT_Tall_Ryder_-_6489df.jpg/revision/latest?cb=20081121171816"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-metalflake-silver-7530-v2",
+                "toy_number": "7530",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Tall Ryder",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Purple stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/1985-tall-ryder.2.jpg/revision/latest?cb=20090920164046"
+                }
+            },
+            {
+                "release_id": "1987-trailbusters-gray-7530",
+                "toy_number": "7530",
+                "casting_id": "trailbusters",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Tall Ryder",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "Purple stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/Hw_TallRyder_HongKong_OCT.jpg/revision/latest?cb=20230220144642"
+                }
+            },
+            {
+                "release_id": "1989-trailbusters-metalflake-silver-7530",
+                "toy_number": "7530",
+                "casting_id": "trailbusters",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "model_name": "Tall Ryder",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Blue stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Tall_Ryder_-_6011df.jpg/revision/latest?cb=20081021214241"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "series_id": "hwc",
+    "name": "Hwc",
+    "description": "Hot Wheels Hwc Series",
+    "releases": [
+        "../data/releases/2010/2010-grass-hopper-spectraflame-antifreeze-r8393.json",
+        "../data/releases/2012/2012-classic-31-ford-woody-spectraflame-root-beer-x0534.json",
+        "../data/releases/2018/2018-beatnik-bandit-spectraflame-light-purple-fnc23.json"
+    ]
+}

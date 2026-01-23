@@ -1,0 +1,23 @@
+{
+    "series_id": "mattel",
+    "name": "Mattel",
+    "description": "Hot Wheels Mattel Series",
+    "releases": [
+        "../data/releases/1995/1995-deora-gold-chrome-13828-v2.json",
+        "../data/releases/2025/2025-beatnik-bandit-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-barracuda-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-camaro-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-corvette-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-cougar-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-eldorado-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-firebird-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-fleetside-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-mustang-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-custom-t-bird-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-deora-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-ford-j-car-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-python-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-silhouette-spectraflame-ruby-red-jcp66.json",
+        "../data/releases/2025/2025-twin-mill-metalflake-red-jgk08.json"
+    ]
+}

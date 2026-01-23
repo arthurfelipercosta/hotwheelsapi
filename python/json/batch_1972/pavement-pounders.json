@@ -1,0 +1,3579 @@
+[
+    {
+        "casting_id": "pavement-pounders",
+        "name": "Pavement Pounders",
+        "description": {
+            "en-us": "Pavement Pounders was the name for the second series of transport trucks and included bonus vehicles that ran from late 1999 to 2003, coming after Long Haulers and before Truckin' Transporters , Racing Rigs , and Super Rigs .  See also Kool Toyz Racing Packs , Super Race Rigs and Wild Race Teams , playsets that included Pavement Pounders.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Pavement",
+        "releases": [
+            {
+                "release_id": "0-pavement-pounders-metalflake-silver-cab-purple-trailer-65867-83",
+                "toy_number": "65867-83",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver Cab, Purple Trailer",
+                    "tampo": "\"HW Top Fuel Racing\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/1999-PPArcotoys_65867-83_57Yel_CabTrkSilver_o2.jpg/revision/latest?cb=20241016214157"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-hw-logo-on-trunk-57-chevy",
+                "toy_number": "'57 Chevy",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue HW Logo on trunk",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/1999-PPArcotoys_65867-83_%2757_Yel_o1.jpg/revision/latest?cb=20241016181551"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-65867-83",
+                "toy_number": "65867-83",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Champion Spark Plugs",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Pavement_Pounder_1999_Blown_Truck_Black_65867-83.jpg/revision/latest?cb=20230210133852"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-classic-cobra",
+                "toy_number": "Classic Cobra",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Pavement_Pounder_1999_Classic_Cobra_Red_65867-83.jpg/revision/latest?cb=20230210133912"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-65867-83",
+                "toy_number": "65867-83",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Short Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-porsche-911-targa",
+                "toy_number": "Porsche 911 Targa",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Silver",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-green-cab-yellow-trailer-65867-83",
+                "toy_number": "65867-83",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Cab, Yellow Trailer",
+                    "tampo": "\"Supercycle Hot Rod Bike Shop\"",
+                    "base_color": "Chrome & Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Short Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-green-cab-yellow-trailer-scorchin-scooter",
+                "toy_number": "Scorchin' Scooter",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Cab, Yellow Trailer",
+                    "tampo": "Chrome / Metal",
+                    "base_color": "",
+                    "base_type": "MC3",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Dark Green",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/1999_pavement_pounder1.jpg/revision/latest?cb=20210812124309"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-cab-red-trailer-89850",
+                "toy_number": "89850",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Cab, Red Trailer",
+                    "tampo": "\"Bell Courage for Your Head\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-leopard-print-25th-anniversary-lamborghini-countach",
+                "toy_number": "25th Anniversary Lamborghini Countach",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Leopard Print",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "5DOT",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Pavement_Pounder_2000_Lamborghini_Car.png/revision/latest?cb=20200426045841"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-dark-grey-cab-orange-trailer-89850",
+                "toy_number": "89850",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Grey Cab, Orange Trailer",
+                    "tampo": "Accel Spark Plugs",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-orange-blue-55-chevy",
+                "toy_number": "'55 Chevy",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & Blue",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Pavement_Pounder_89850_55_Chevy_1.jpg/revision/latest?cb=20200425184427"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-cab-black-trailer-89850",
+                "toy_number": "89850",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Cab, Black Trailer",
+                    "tampo": "Checkerboard & Numbers Graphic",
+                    "base_color": "Chrome & Red",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "STAR"
+                    },
+                    "vehicles": "Short Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-checkerboard-59-caddy",
+                "toy_number": "'59 Caddy",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Checkerboard",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "LW",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/Pavement_Pounder_2000_59_Caddy_Car.jpg/revision/latest?cb=20200426045022"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-cab-purple-trailer-89850",
+                "toy_number": "89850",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver Cab, Purple Trailer",
+                    "tampo": "Flames",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/2000-PavementPounders_89850_Streamlined_Cab-Over_o2Ang.jpg/revision/latest?cb=20250921051244"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-purple-hw-logo-on-trunk-front-p-911",
+                "toy_number": "P-911",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple HW Logo on Trunk front",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "SB",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Metalflake Silver",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Pavement_Pounder_2000_Porsche_Car.jpg/revision/latest?cb=20200426044021"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-mint-trailer-89850-91",
+                "toy_number": "89850-91",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab, Mint Trailer",
+                    "tampo": "Star & Dot Grid Design",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-lines-red-gradient-55-chevy",
+                "toy_number": "'55 Chevy",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black Lines & Red Gradient",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Pavement_Pounder_89850_55_Chevy_2.jpg/revision/latest?cb=20200425184439"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-green-cab-yellow-trailer-89850-91",
+                "toy_number": "89850-91",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Cab, Yellow Trailer",
+                    "tampo": "\"Bilstein\"",
+                    "base_color": "Chrome & Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "STAR"
+                    },
+                    "vehicles": "Short Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-green-80s-camaro",
+                "toy_number": "'80s Camaro",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & Green",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Pavement_Pounder_89850_80s_Camaro.jpg/revision/latest?cb=20200425184501"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-cab-orange-trailer-89850-91",
+                "toy_number": "89850-91",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver Cab, Orange Trailer",
+                    "tampo": "\"Raybestos The Best in Brakes\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-cab-orange-trailer-ferrari-348",
+                "toy_number": "Ferrari 348",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver Cab, Orange Trailer",
+                    "tampo": "Black Plastic",
+                    "base_color": "",
+                    "base_type": "5DOT",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Metalflake Silver",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Pavement_Pounder_89850-91_Ferrari_Gold.jpg/revision/latest?cb=20200425233353"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-gold-cab-black-trailer-89850-91",
+                "toy_number": "89850-91",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Cab, Black Trailer",
+                    "tampo": "\"Custom\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-custom-with-gold-black-stripes-mazda-mx-5-miata",
+                "toy_number": "Mazda MX-5 Miata",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Custom\" with Gold & Black Stripes",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "SB",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/Pavement_Pounder_89850_Mazda_MX-5.jpg/revision/latest?cb=20200425184450"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-cab-orange-trailer-89850-92",
+                "toy_number": "89850-92",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black Cab, Orange Trailer",
+                    "tampo": "\"Pro Rally Racing\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GW"
+                    },
+                    "vehicles": "Short Nose Sleeper Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 4",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-green-blue-55-chevy",
+                "toy_number": "'55 Chevy",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green & Blue",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Metalflake Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/Pavement_Pounder_89850_55_Chevy.jpg/revision/latest?cb=20200425223025"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-cab-maroon-trailer-89850-92",
+                "toy_number": "89850-92",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver Cab, Maroon Trailer",
+                    "tampo": "\"Old Times Transport Service\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 4",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-purple-black-58-corvette-coupe",
+                "toy_number": "'58 Corvette Coupe",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple & Black",
+                    "tampo": "Grey / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Metalflake Silver",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/Pavement_Pounder_89850_58_Corvette.jpg/revision/latest?cb=20200425222922"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-green-cab-orange-trailer-89850-92",
+                "toy_number": "89850-92",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Cab, Orange Trailer",
+                    "tampo": "Bird",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 4",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-orange-bird-67-camaro",
+                "toy_number": "'67 Camaro",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange Bird",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Aqua",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Pavement_Pounder_89850_67_Camaro.jpg/revision/latest?cb=20200425223143"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-dark-blue-green-cab-orange-trailer-89850-92",
+                "toy_number": "89850-92",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue-Green Cab, Orange Trailer",
+                    "tampo": "\"Extreme Wheels\" with Checkerboard Graphic",
+                    "base_color": "Light Grey",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 4",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-checkerboard-1996-mustang-gt-coupe",
+                "toy_number": "1996 Mustang GT Coupe",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Checkerboard",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "LW",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Metalflake Red-Orange",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/Pavement_Pounder_89850_Mustang.jpg/revision/latest?cb=20200425222828"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-cab-orange-trailer-89850-93",
+                "toy_number": "89850-93",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White Cab, Orange Trailer",
+                    "tampo": "Red, Yellow, & Blue Tiles",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 5",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-orange-red-57-t-bird",
+                "toy_number": "'57 T-Bird",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "White",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Pavement_Pounder_89850-93_T-Bird_Car.jpg/revision/latest?cb=20200425233202"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-metalflake-dark-gold-89850-93",
+                "toy_number": "89850-93",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 5",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-black-dodge-viper-rt10",
+                "toy_number": "Dodge Viper RT/10",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & Black",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Metalflake Dark Gold",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Pavement_Pounder_89850_Viper.jpg/revision/latest?cb=20200425223158"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-blue-trailer-89850-93",
+                "toy_number": "89850-93",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab, Blue Trailer",
+                    "tampo": "Gold",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 5",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-blue-trailer-ferrari-348",
+                "toy_number": "Ferrari 348",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab, Blue Trailer",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Pavement_Pounder_89850_Ferrari_Black.jpg/revision/latest?cb=20200425233908"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-cab-black-trailer-89850-93",
+                "toy_number": "89850-93",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver Cab, Black Trailer",
+                    "tampo": "\"41\" with Purple, Black, Silver, & Orange",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GW"
+                    },
+                    "vehicles": "Short Nose Sleeper Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 5",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-41-red-sol-aire-cx-4",
+                "toy_number": "Sol-Aire CX-4",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"41\" & Red",
+                    "tampo": "White / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Metalflake Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Pavement_Pounder_89850-93_Sol-Aire_Car.jpg/revision/latest?cb=20200425232757"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-blue-trailer-89305",
+                "toy_number": "89305",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab, Blue Trailer",
+                    "tampo": "Red Flames",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 6",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-flames-55-chevy",
+                "toy_number": "'55 Chevy",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black Flames",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/Pavement_Pounder_89305_Car.jpg/revision/latest?cb=20200425221144"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-cab-off-white-trailer-89306",
+                "toy_number": "89306",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Cab, Off-white Trailer",
+                    "tampo": "\"Ryan Jarvis Indy EXperience\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 6",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-yellow-checkerboard-dodge-viper-rt10",
+                "toy_number": "Dodge Viper RT/10",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Yellow Checkerboard",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Pavement_Pounder_89306_Car.jpg/revision/latest?cb=20200425221155"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-green-cab-black-trailer-89307",
+                "toy_number": "89307",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Cab, Black Trailer",
+                    "tampo": "\"Rally d' Italia\" on Checkerboard Graphic",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GW"
+                    },
+                    "vehicles": "Short Nose Sleeper Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 6",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-27-red-stripes-toyota-mr2",
+                "toy_number": "Toyota MR2",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black \"27\" & Red Stripes",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "LW",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "White",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/Pavement_Pounder_89307_Car.jpg/revision/latest?cb=20200425221206"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-cab-black-trailer-89308",
+                "toy_number": "89308",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Cab, Black Trailer",
+                    "tampo": "Yellow on Purple Background",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SBTW"
+                    },
+                    "vehicles": "Long Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 6",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-purple-59-chevy-impala",
+                "toy_number": "'59 Chevy Impala",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "LW",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/Pavement_Pounder_89308_Car.jpg/revision/latest?cb=20200425233031"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-gold-cab-blue-trailer-89309",
+                "toy_number": "89309",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Cab, Blue Trailer",
+                    "tampo": "Blue Flames on Gold Background",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SBTW"
+                    },
+                    "vehicles": "Long Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 6 Treasure Hunt",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-gold-flames-scorchin-scooter",
+                "toy_number": "Scorchin' Scooter",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Flames",
+                    "tampo": "Gold / Metal",
+                    "base_color": "",
+                    "base_type": "MC3 Gold",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Pavement_Pounder_89309_Car.jpg/revision/latest?cb=20200425221228"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-cab-grey-trailer-89310",
+                "toy_number": "89310",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver Cab, Grey Trailer",
+                    "tampo": "\"Team Minotaur 31 Racer X\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 7",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-31-black-yellow-orange-flames-67-camaro",
+                "toy_number": "'67 Camaro",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"31\" & Black & Yellow-Orange Flames",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Metalflake Red-Orange",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/Pavement_Pounder_89310_Car.jpg/revision/latest?cb=20200425221442"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-cab-black-trailer-89311",
+                "toy_number": "89311",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Cab, Black Trailer",
+                    "tampo": "\"'57 Custom\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 7",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-flames-57-chevy",
+                "toy_number": "'57 Chevy",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Flames",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Pavement_Pounder_89311_Car.jpg/revision/latest?cb=20200425221238"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-blue-trailer-89312",
+                "toy_number": "89312",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab & Blue Trailer",
+                    "tampo": "\"Dead Man's Curve\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SBTW"
+                    },
+                    "vehicles": "Long Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 7",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-9-olive-green-57-t-bird-1978",
+                "toy_number": "'57 T-Bird (1978)",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"9\", Olive & Green",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/61/Pavement_Pounder_89312_Car.jpg/revision/latest?cb=20200425221250"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-cab-grey-trailer-89313",
+                "toy_number": "89313",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White Cab, Grey Trailer",
+                    "tampo": "\"30's Car Show Indiana\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 7",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-white-3-window-34",
+                "toy_number": "3-Window '34",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & White",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Green & White",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/Pavement_Pounder_89313_Car.jpg/revision/latest?cb=20200425221405"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-dark-red-cab-black-trailer-89314",
+                "toy_number": "89314",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Red Cab, Black Trailer",
+                    "tampo": "\"Steel Muscle\" with Sawblade Graphic",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 7 Treasure Hunt",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-58-corvette-coupe",
+                "toy_number": "'58 Corvette Coupe",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Pavement_Pounder_89314_Car.jpg/revision/latest?cb=20200425221418"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-silver-cab-silver-trailer-89043",
+                "toy_number": "89043",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Silver Cab, Silver Trailer",
+                    "tampo": "\"Road Pirates Racing\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6SPS"
+                    },
+                    "vehicles": "Tilt Cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 8",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Pavement_Pounder_89043_01.jpg/revision/latest?cb=20111120160932"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-red-maelstrom",
+                "toy_number": "Maelstrom",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver & Red",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/Pavement_Pounder_89043_Car.jpg/revision/latest?cb=20200425173216"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-grey-trailer-89044",
+                "toy_number": "89044",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab, Grey Trailer",
+                    "tampo": "\"Robo Willy's Repair\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "8petal"
+                    },
+                    "vehicles": "Future Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 8",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-wild-willy-racing-41-willys",
+                "toy_number": "'41 Willys",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Wild Willy Racing\"",
+                    "tampo": "Grey / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Metalflake Grey",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/Pavement_Pounder_89044_Car.jpg/revision/latest?cb=20200425173227"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-89045",
+                "toy_number": "89045",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "\"Speedy Cluck World's Fastest Chicken Delivery\"",
+                    "base_color": "Blue Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 8",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-black-haulin-40-40-ford",
+                "toy_number": "'40 Ford",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & Black \"Haulin' 40\"",
+                    "tampo": "Red / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Thailand"
+                    },
+                    "vehicles": "Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Pavement_Pounder_89045_Car.jpg/revision/latest?cb=20200425173237"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-grey-cab-blue-trailer-89046",
+                "toy_number": "89046",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey Cab, Blue Trailer",
+                    "tampo": "\"HW Skate Team\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "8petal"
+                    },
+                    "vehicles": "Future Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 8",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-orange-07-25th-anniversary-lamborghini-countach",
+                "toy_number": "25th Anniversary Lamborghini Countach",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange \"07\"",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "5DOT",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Metalflake Silver",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/Pavement_Pounder_89046_Car.jpg/revision/latest?cb=20200426172628"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-metalflake-silver-cab-red-trailer-89047",
+                "toy_number": "89047",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver Cab, Red Trailer",
+                    "tampo": "\"Shogun Racing\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 9",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/Streamlinedcabover2002.jpg/revision/latest?cb=20250215175249"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-green-gold-dragons-twin-mill-ii",
+                "toy_number": "Twin Mill II",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green & Gold Dragons",
+                    "tampo": "Gold / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP Gold",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Pavement_Pounder_89047_Car.jpg/revision/latest?cb=20200425173256"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-dark-blue-cab-black-trailer-89048",
+                "toy_number": "89048",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue Cab, Black Trailer",
+                    "tampo": "\"Midnight Run\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GW"
+                    },
+                    "vehicles": "Short Nose Sleeper Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 9",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/Shortnosesleeper2002.jpg/revision/latest?cb=20250215175154"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-gold-red-59-chevy-impala",
+                "toy_number": "'59 Chevy Impala",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold & Red",
+                    "tampo": "Gold / Plastic",
+                    "base_color": "",
+                    "base_type": "Gold LW",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Thailand"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/Pavement_Pounder_89048_Car.jpg/revision/latest?cb=20200425173306"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-metalflake-dark-red-cab-yellow-trailer-89049",
+                "toy_number": "89049",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red Cab, Yellow Trailer",
+                    "tampo": "\"Custom Muscle Bikes\" with Blue Flames",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 9",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-duncans-motorcycles-scorchin-scooter",
+                "toy_number": "Scorchin' Scooter",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Duncan's Motorcycles\"",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "MC3",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Metalflake Dark Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/Pavement_Pounder_89049_Car.jpg/revision/latest?cb=20200425173321"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-cab-white-trailer-89050",
+                "toy_number": "89050",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Cab, White Trailer",
+                    "tampo": "\"27\" with Blue, White, & Yellow Stripes",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 9",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-dynodon-tuned-with-teal-white-pikes-peak-celica",
+                "toy_number": "Pikes Peak Celica",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Dynodon Tuned\" with Teal & White",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Thailand"
+                    },
+                    "vehicles": "Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Pavement_Pounder_89050_Car.jpg/revision/latest?cb=20200425173331"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-orange-cab-tan-trailer-89342",
+                "toy_number": "89342",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange Cab & Tan Trailer",
+                    "tampo": "\"40th Desert Team Challange\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SBTW"
+                    },
+                    "vehicles": "Long Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 10 Treasure Hunt",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-flames-57-t-bird-1978",
+                "toy_number": "'57 T-Bird (1978)",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black Flames",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Orange",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Pavement_Pounder_89342_Car.jpg/revision/latest?cb=20200425172903"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-cab-yellow-trailer-89343",
+                "toy_number": "89343",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black Cab, Yellow Trailer",
+                    "tampo": "\"27\" with Black, White, & Yellow Stripes",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-dodge-viper-rt10",
+                "toy_number": "Dodge Viper RT/10",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/Pavement_Pounder_89343_Car.jpg/revision/latest?cb=20200425172921"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-burgundy-cab-cream-trailer-89344",
+                "toy_number": "89344",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Burgundy Cab, Cream Trailer",
+                    "tampo": "\"Land Speed\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SBTW"
+                    },
+                    "vehicles": "Long Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-black-57-chevy",
+                "toy_number": "'57 Chevy",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow & Black",
+                    "tampo": "Chrome / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Metalflake Dark Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Pavement_Pounder_89344_Car.jpg/revision/latest?cb=20200425172933"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-grey-trailer-89345",
+                "toy_number": "89345",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab, Grey Trailer",
+                    "tampo": "\"Shogun Racing\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-shogun-with-black-silver-flames-25th-anniversary-lamborghini-countach",
+                "toy_number": "25th Anniversary Lamborghini Countach",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Shogun\" with Black & Silver Flames",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "5DOT",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/Pavement_Pounder_89345_Car.jpg/revision/latest?cb=20200425172944"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-baby-blue-cab-black-trailer-89346",
+                "toy_number": "89346",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Baby Blue Cab, Black Trailer",
+                    "tampo": "\"Custom Muscle Bikes\" with Red Flames",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-grey-flames-on-black-background-scorchin-scooter",
+                "toy_number": "Scorchin' Scooter",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey Flames on Black Background",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "MC3",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Baby Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/Pavement_Pounder_89346_Car.jpg/revision/latest?cb=20200425172956"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-89347",
+                "toy_number": "89347",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "\"Midnight Run\"",
+                    "base_color": "Blue",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GW"
+                    },
+                    "vehicles": "Short Nose Sleeper Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-silver-stripes-toyota-mr2",
+                "toy_number": "Toyota MR2",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Silver Stripes",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "LW",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Pavement_Pounder_89347_Car.jpg/revision/latest?cb=20200426173848"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-cab-orange-trailer-89348",
+                "toy_number": "89348",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Cab, Orange Trailer",
+                    "tampo": "\"Super Enforcement\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "8petal"
+                    },
+                    "vehicles": "Future Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-cab-orange-trailer-25th-anniversary-lamborghini-countach",
+                "toy_number": "25th Anniversary Lamborghini Countach",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Cab, Orange Trailer",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "5DOT",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Grey",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-cab-blue-trailer-89349",
+                "toy_number": "89349",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White Cab, Blue Trailer",
+                    "tampo": "Gold, Blue, & White",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SBTW"
+                    },
+                    "vehicles": "Long Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "Group 11 Treasure Hunt",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-cab-blue-trailer-58-corvette-coupe",
+                "toy_number": "'58 Corvette Coupe",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White Cab, Blue Trailer",
+                    "tampo": "White / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "White",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Possible variation with different color tones",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Pavement_Pounder_89349_Car.jpg/revision/latest?cb=20200426173926"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-89350",
+                "toy_number": "89350",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red stylized \"Kustom Built\", White gradient road & cityscape design with Blue stripes, HW logo.",
+                    "base_color": "Chrome Red",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-white-flames-3-window-34",
+                "toy_number": "3-Window '34",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & White Flames",
+                    "tampo": "Chrome Red / Metal",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "China"
+                    },
+                    "vehicles": "Black & Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/PavementPoundersArtDecoCustomBuilt3Window.jpg/revision/latest?cb=20240622214609"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-89351",
+                "toy_number": "89351",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Future Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-59-chevy-impala",
+                "toy_number": "'59 Chevy Impala",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-orange-cab-black-trailer-47032",
+                "toy_number": "47032",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange Cab, Black Trailer",
+                    "tampo": "\"HWP Hot Wheels Patrol\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GW"
+                    },
+                    "vehicles": "Short Nose Sleeper Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-hwp-with-orange-paneling-pontiac-rageous",
+                "toy_number": "Pontiac Rageous",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"HWP\" with Orange Paneling",
+                    "tampo": "Grey / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Metalflake Dark Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/Pavement_Pounder_47032_Car.jpg/revision/latest?cb=20200425162531"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-blue-trailer-47033",
+                "toy_number": "47033",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab, Blue Trailer",
+                    "tampo": "Flames on Black Background",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-flames-tail-dragger",
+                "toy_number": "Tail Dragger",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Flames",
+                    "tampo": "Unpaninted / Metal",
+                    "base_color": "",
+                    "base_type": "LW",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/33/Pavement_Pounder_47033_Car.jpg/revision/latest?cb=20200425162542"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-red-cab-red-trailer-47034",
+                "toy_number": "47034",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Red Cab, Red Trailer",
+                    "tampo": "\"Sky Spy Ground Support\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6SPS"
+                    },
+                    "vehicles": "Tilt Cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-sky-spy-propper-chopper",
+                "toy_number": "Propper Chopper",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Sky Spy\"",
+                    "tampo": "Red / Plastic",
+                    "base_color": "N",
+                    "base_type": "A",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Black / Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Pavement_Pounder_47034_Car.jpg/revision/latest?cb=20200425162553"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-yellow-cab-black-trailer-47035",
+                "toy_number": "47035",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Yellow Cab, Black Trailer",
+                    "tampo": "\"Top Secret Land Carrier\"",
+                    "base_color": "Yellow",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6SPS"
+                    },
+                    "vehicles": "Tilt Cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-dc-121-jet-threat-30",
+                "toy_number": "Jet Threat 3.0",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"DC-121\"",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/Pavement_Pounder_47035_Car.jpg/revision/latest?cb=20200425162634"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-orange-cab-green-trailer-47036",
+                "toy_number": "47036",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange Cab, Green Trailer",
+                    "tampo": "\"X6 X-perimental 2002 Stealth Team\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "8petal"
+                    },
+                    "vehicles": "Future Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/2003futuretruckpavement.jpg/revision/latest?cb=20250228195622"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-x6-stealth-shadow-jet",
+                "toy_number": "Shadow Jet",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"X6 Stealth\"",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Metalflake Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/Pavement_Pounder_47036_Car.jpg/revision/latest?cb=20200425162653"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-47037",
+                "toy_number": "47037",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "\"Rock on Wheels\" with Speakers",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GW"
+                    },
+                    "vehicles": "Short Nose Sleeper Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-vip-limozeen",
+                "toy_number": "Limozeen",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"V.I.P.\"",
+                    "tampo": "ChromevPlastic",
+                    "base_color": "",
+                    "base_type": "LW",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Pavement_Pounder_47037_Car.jpg/revision/latest?cb=20200425162707"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-yellow-cab-black-trailer-47038",
+                "toy_number": "47038",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Cab, Black Trailer",
+                    "tampo": "\"Hot Wheels Desert Race Team\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SBTW"
+                    },
+                    "vehicles": "Long Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-10-roll-cage",
+                "toy_number": "Roll Cage",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"10\"",
+                    "tampo": "Silver / Metal",
+                    "base_color": "",
+                    "base_type": "SB or 5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Fluorescent Green",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Pavement_Pounder_47038_Car.jpg/revision/latest?cb=20200425162940"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-grey-cab-black-trailer-47039",
+                "toy_number": "47039",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey Cab, Black Trailer",
+                    "tampo": "\"Hot Wheels\" with Engine Graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6DOT"
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-grey-cab-black-trailer-scorchin-scooter",
+                "toy_number": "Scorchin' Scooter",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey Cab, Black Trailer",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "MC3",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Pavement_Pounder_47039_Car.jpg/revision/latest?cb=20200425163005"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-dark-green-yellow-47183",
+                "toy_number": "47183",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Green & Yellow",
+                    "tampo": "\"Warthog\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "vehicles": "Cab Forward Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 14 Full blister packaging",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-green-lotus-project-m250",
+                "toy_number": "Lotus Project M250",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Dark Green / Plastic",
+                    "base_color": "",
+                    "base_type": "PR5",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Pearlescent Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Pavement_Pounder_47183_Car.jpg/revision/latest?cb=20200425163154"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-47184",
+                "toy_number": "47184",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "\"HW Surveillance\"",
+                    "base_color": "Silver",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "8petal"
+                    },
+                    "vehicles": "Future Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 14 Full blister packaging",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-hws-lotus-esprit",
+                "toy_number": "Lotus Esprit",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"HWS\"",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Pavement_Pounder_47184_Car.jpg/revision/latest?cb=20200425163205"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-red-blue-47185",
+                "toy_number": "47185",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black, Red, & Blue",
+                    "tampo": "\"Hot Wheels\" on Red, White, & Blue Background",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "6SPS"
+                    },
+                    "vehicles": "Tilt Cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 14 Full blister packaging",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-white-stars-on-dark-blue-background-toyota-celica",
+                "toy_number": "Toyota Celica",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White Stars on Dark Blue Background",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/Pavement_Pounder_47185_Car.jpg/revision/latest?cb=20200425163217"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-cab-white-trailer-47186",
+                "toy_number": "47186",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Cab, White Trailer",
+                    "tampo": "\"Hot Wheels Road Racing\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SBTW"
+                    },
+                    "vehicles": "Long Nose Day Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 14 Full blister packaging",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-stripes-cunningham-c4r",
+                "toy_number": "Cunningham C4R",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver Stripes",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "White",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Pavement_Pounder_47186_Car.jpg/revision/latest?cb=20200425163227"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-metalflake-dark-red-cab-yellow-trailer-89049-v2",
+                "toy_number": "89049",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red Cab, Yellow Trailer",
+                    "tampo": "\"Custom Muscle Bikes\" with Blue Flames",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 14 Same as 2002 version but with new full blister packaging",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-duncans-motorcycles-scorchin-scooter-v2",
+                "toy_number": "Scorchin' Scooter",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Duncan's Motorcycles\"",
+                    "tampo": "Unpainted / Metal",
+                    "base_color": "",
+                    "base_type": "MC3",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Metalflake Dark Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/Pavement_Pounder_89049_Car.jpg/revision/latest?cb=20200425173321"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-cab-white-trailer-89050-v2",
+                "toy_number": "89050",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Cab, White Trailer",
+                    "tampo": "\"27\" with Blue, White, & Yellow Stripes",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CRTW"
+                    },
+                    "vehicles": "Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Group 14 Same as 2002 version but with new full blister packaging",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-dynodon-tuned-with-teal-white-pikes-peak-celica-v2",
+                "toy_number": "Pikes Peak Celica",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Dynodon Tuned\" with Teal & White",
+                    "tampo": "Black / Plastic",
+                    "base_color": "",
+                    "base_type": "3SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Thailand"
+                    },
+                    "vehicles": "Yellow",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Pavement_Pounder_89050_Car.jpg/revision/latest?cb=20200425173331"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-silver-89283",
+                "toy_number": "89283",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Streamlined Cabover Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "2001",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-handles-window-trim-porsche-911-targa",
+                "toy_number": "Porsche 911 Targa",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black handles & window trim",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Silver",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-47075",
+                "toy_number": "47075",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Short Nose Sleeper Cab Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "2002",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-limozeen",
+                "toy_number": "Limozeen",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Black",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-red-cab-blue-trailer-47075",
+                "toy_number": "47075",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab, Blue Trailer",
+                    "tampo": "\"Disneyland Resort\" with Magic Mickey",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "8petal"
+                    },
+                    "vehicles": "Future Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "2002",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-black-white-camaro-z-28",
+                "toy_number": "Camaro Z-28",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & White",
+                    "tampo": "Silver / Metal",
+                    "base_color": "",
+                    "base_type": "5SP",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Malaysia"
+                    },
+                    "vehicles": "Red",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/Pavement_Pounder_47075_Car.jpg/revision/latest?cb=20200426181818"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-l2545",
+                "toy_number": "L2545",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Blown Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "2006",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pavement-pounders-blue-scorchin-scooter",
+                "toy_number": "Scorchin' Scooter",
+                "casting_id": "pavement-pounders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "vehicles": "Blue",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "series_id": "holiday",
+    "name": "Holiday",
+    "description": "Hot Wheels Holiday Series",
+    "releases": [
+        "../data/releases/2009/2009-olds-442-forest-green-t2786.json",
+        "../data/releases/2009/2009-olds-442-metalflake-silver-n8566.json"
+    ]
+}

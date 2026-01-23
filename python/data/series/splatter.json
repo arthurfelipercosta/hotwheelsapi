@@ -1,0 +1,15 @@
+{
+    "series_id": "splatter",
+    "name": "Splatter",
+    "description": "Hot Wheels Splatter Series",
+    "releases": [
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15253.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15253.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15254.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15254.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15255.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15255.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15256.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15256.json"
+    ]
+}

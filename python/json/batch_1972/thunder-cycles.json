@@ -1,0 +1,894 @@
+[
+    {
+        "casting_id": "thunder-cycles",
+        "name": "Thunder Cycles",
+        "description": {
+            "en-us": "",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Thunder",
+        "releases": [
+            {
+                "release_id": "2004-thunder-cycles-red-b4542",
+                "toy_number": "B4542",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Blue Stripes #5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Hoodlum"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-red-b4543",
+                "toy_number": "B4543",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Black Cycle w Flammin Skull",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Hoodlum"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Hoodlum_Ghost_Rider.jpg/revision/latest?cb=20221008152416"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-blue-b4543",
+                "toy_number": "B4543",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "American Stripes",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Hoodlum"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-black-b4543",
+                "toy_number": "B4543",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Police",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Hoodlum"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-white-b4543",
+                "toy_number": "B4543",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Police",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Hoodlum"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-black-b4543-v2",
+                "toy_number": "B4543",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Purple Flames & White Star",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Pull-Dog"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Pull_doggy.JPG/revision/latest?cb=20210319181519"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-black-b4543-v3",
+                "toy_number": "B4543",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Green detials",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Pull-Dog"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Pull_Dog_Greeny.JPG/revision/latest?cb=20230110191315"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-yellow-b4544",
+                "toy_number": "B4544",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Blue Stripes #5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Caffiend"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/Caffiend.JPG/revision/latest?cb=20210319190200"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-orange-blue-b4544",
+                "toy_number": "B4544",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange / Blue",
+                    "tampo": "Black bike",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Caffiend"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/6/60/Caffiend_Black.jpg/revision/latest?cb=20240903120246"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-red-b4544",
+                "toy_number": "B4544",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow Flames",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Caffiend"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-green-bike-b4544",
+                "toy_number": "B4544",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Bike",
+                    "tampo": "Purple / Gold Biker",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Caffiend"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-yellow-b4546",
+                "toy_number": "B4546",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "\"HWP ENFORCEMENT\", \"2\" on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Over8"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/Over8.jpg/revision/latest?cb=20220401023613"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-sky-blue-b4548",
+                "toy_number": "B4548",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Sky blue",
+                    "tampo": "Skulls",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Over8"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-red-b4548",
+                "toy_number": "B4548",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Blue & \"01\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Over8"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/20250215_181255.jpg/revision/latest?cb=20250216001346"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-orange-b4550",
+                "toy_number": "B4550",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "\"HW RACING\", \"5\" on hood",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "ShokBlade"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/ShokBlade.jpg/revision/latest?cb=20220401023636",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-orange-grey-b4552",
+                "toy_number": "B4552",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange / Grey",
+                    "tampo": "Black Stripes",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Cyber Tooth"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-white-b4552",
+                "toy_number": "B4552",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Police",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Cyber Tooth"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/17396652309388583289968700649126.jpg/revision/latest?cb=20250216002111"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-red-bonus-pack-with-a-formula-fuelers-sold-in-single-pack",
+                "toy_number": "Bonus pack with a Formula Fuelers . Sold in single pack.",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "\"Division 705\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Cyber Tooth"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/Formula_Fuelers_Bike_Bonus.PNG/revision/latest?cb=20240508131844"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-blue-bonus-pack-with-a-formula-fuelers-sold-in-single-pack",
+                "toy_number": "Bonus pack with a Formula Fuelers . Sold in single pack.",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "White lines",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Cyber Tooth"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-enamel-white-h0447",
+                "toy_number": "H0447",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel white",
+                    "tampo": "green and black decorations",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Bone Beast"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/Image-1435868605.jpg/revision/latest?cb=20150702202325"
+                }
+            },
+            {
+                "release_id": "2004-thunder-cycles-blue-and-lime-green-h0452",
+                "toy_number": "H0452",
+                "casting_id": "thunder-cycles",
+                "year": 2004,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue and Lime Green",
+                    "tampo": "Green details",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Robo Maniax"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/Maniax_thunder.JPG/revision/latest?cb=20210319181517"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-red-h0452",
+                "toy_number": "H0452",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow stripes",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "V-Rouge"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/V-Rogue_Moto_Thunder_Cycle.jpg/revision/latest?cb=20190208222218"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-green-bike-h0452",
+                "toy_number": "H0452",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green bike",
+                    "tampo": "Grey stripes",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "V-Rouge"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-grey-bike-h0452",
+                "toy_number": "H0452",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey bike",
+                    "tampo": "Green stripes",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "V-Rouge"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/17396651205405477289010016236713.jpg/revision/latest?cb=20250216001924"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-orange-or-red-h0452",
+                "toy_number": "H0452",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange or Red",
+                    "tampo": "Blue details",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "V-Rouge"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-orange-h0452",
+                "toy_number": "H0452",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Black details & \"8\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "V-Rouge"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/17396660330075542140998729937895.jpg/revision/latest?cb=20250216003426",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/0/05/17396649335048987309077273218490.jpg/revision/latest?cb=20250216001618"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-gold-h0452",
+                "toy_number": "H0452",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "White lines & \"68\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Mohawk"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "84552-thunder-cycles-blue-h0452",
+                "toy_number": "H0452",
+                "casting_id": "thunder-cycles",
+                "year": 84552,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Flames & \"Racing One\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Bifusion"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/Bifusion_Blue.png/revision/latest?cb=20230911122839",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-black-k5132",
+                "toy_number": "K5132",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Batman decal",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Batmoto"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/Batmoto.jpg/revision/latest?cb=20190501122037"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-red-yellow-k5142",
+                "toy_number": "K5142",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red &Yellow",
+                    "tampo": "Robin decal",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Robo Maniax (Robin)"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/Thunder_Cycle_Robin.JPG/revision/latest?cb=20220526174105"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-blue-w-red-cape-k5133",
+                "toy_number": "K5133",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue w/ Red Cape",
+                    "tampo": "Superman S on cape, Yellow HW logo",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow TCW"
+                    },
+                    "casting_name": "Superman"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/ThunderCyclesSuperman.jpg/revision/latest?cb=20230706015554"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-purple-k5143",
+                "toy_number": "K5143",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Joker"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/Pull_Dog_Joker.jpg/revision/latest?cb=20220731013141"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-light-blue-k5143",
+                "toy_number": "K5143",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "Batman decal",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow TCW"
+                    },
+                    "casting_name": "Batman"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/ThunderCyclesBatmanBiFusion.jpg/revision/latest?cb=20230317002149"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-white-k5134",
+                "toy_number": "K5134",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Evil Grin",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TCW"
+                    },
+                    "casting_name": "Joker"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Joker_Evil_Grin.jpg/revision/latest?cb=20220823140021"
+                }
+            },
+            {
+                "release_id": "2006-thunder-cycles-blue-and-red-only-from-hero-cycle-duel",
+                "toy_number": "Only from Hero Cycle Duel",
+                "casting_id": "thunder-cycles",
+                "year": 2006,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue and red",
+                    "tampo": "Superman S on tail",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Robo Maniax (Superman)"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/Robo_Maniax_-_2006_-_Hero_Cycle_Duel.jpg/revision/latest?cb=20250620151022"
+                }
+            }
+        ]
+    }
+]

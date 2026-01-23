@@ -1,0 +1,2563 @@
+[
+    {
+        "casting_id": "nostalgic-brands",
+        "name": "Nostalgic Brands",
+        "description": {
+            "en-us": "Released in 2011, the Masters of the Universe series featured various characters from the hit brand.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Nostalgic",
+        "releases": [
+            {
+                "release_id": "0-nostalgic-brands-cream-with-magenta-side-steps-v6811",
+                "toy_number": "V6811",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cream with Magenta Side Steps",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RRSteelie"
+                    },
+                    "casting_name": "'29 Ford Pickup",
+                    "theme": "Orko",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/IMG_3398.jpg/revision/latest?cb=20120213114516"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-orange-beige-v6809",
+                "toy_number": "V6809",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & Beige",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Wall DDRR"
+                    },
+                    "casting_name": "'34 Ford Sedan Delivery",
+                    "theme": "Thunder Punch He-Man",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-v6808",
+                "toy_number": "V6808",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "'49 Ford C.O.E.",
+                    "theme": "Eternia Playset Box Art",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/IMG_3772.jpg/revision/latest?cb=20120213115530"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-metalflake-purple-v5229",
+                "toy_number": "V5229",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DISH"
+                    },
+                    "casting_name": "'50s Chevy Truck",
+                    "theme": "Skeletor & Panthor",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/NostalgiaMOTUtruck.jpg/revision/latest?cb=20120424144548"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-metalflake-orange-v2185",
+                "toy_number": "V2185",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DISH"
+                    },
+                    "casting_name": "'57 Buick",
+                    "theme": "Battle Armor Skeletor & Night Stalker",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/IMG_3548.jpg/revision/latest?cb=20120213114902"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-green-v5230",
+                "toy_number": "V5230",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "'59 Cadillac Funny Car",
+                    "theme": "Slime Pit Playset Box Art",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/IMG_3420.jpg/revision/latest?cb=20120213115221"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-metalflake-gold-v5231",
+                "toy_number": "V5231",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "casting_name": "Custom '77 Dodge Van",
+                    "theme": "Battle Armor He-Man & Battle Cat",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/77_Dodge_Van_-_11_MOTV.JPG/revision/latest?cb=20120104050034"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-silver-v5258",
+                "toy_number": "V5258",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "Dairy Delivery",
+                    "theme": "Battle Armor Skeletor & Land Shark",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/IMG_3762.jpg/revision/latest?cb=20120213115734"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-with-gold-top-x0808",
+                "toy_number": "X0808",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red with Gold Top",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome & Gold RR8SP"
+                    },
+                    "casting_name": "Double Demon Delivery",
+                    "theme": "Skeletor & He-Man",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Toys'R'Us 4-Pack",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/MOTU4packDemonDelivery.jpg/revision/latest?cb=20120501165106"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-rrwsp-bread-box",
+                "toy_number": "Bread Box",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRWSP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Skeletor",
+                    "theme": "Yellow",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/MOTU4packBreadBox.jpg/revision/latest?cb=20120501165218"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-line-rr5sp-deco-delivery",
+                "toy_number": "Deco Delivery",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Line RR5SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "He-Man & Battle Cat",
+                    "theme": "Black & Red",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/MOTU4packDecoDelivery.jpg/revision/latest?cb=20120501165031"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-line-rr5sp-64-gmc-panel",
+                "toy_number": "'64 GMC Panel",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Line RR5SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "He-Man",
+                    "theme": "Blue with Red Top",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/MOTU4pack64GMCPanel.jpg/revision/latest?cb=20120501164955"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-metalflake-green-v2191",
+                "toy_number": "V2191",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DISH"
+                    },
+                    "casting_name": "'50s Chevy",
+                    "theme": "Lex Luthor",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/LEXLuthorCLOSE.jpg/revision/latest?cb=20111112055414"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-purple-v6859",
+                "toy_number": "V6859",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRLW5"
+                    },
+                    "casting_name": "'56 Chevy Nomad",
+                    "theme": "Joker",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/JokerCLOSE.jpg/revision/latest?cb=20111111171400"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-blue-v6810",
+                "toy_number": "V6810",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "'64 GMC Panel",
+                    "theme": "Superman",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/SupermanCLOSE.jpg/revision/latest?cb=20111111171503"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-silver-pink-v2189",
+                "toy_number": "V2189",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver & Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "Bread Box",
+                    "theme": "Harley Quinn",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Metal base",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/HarleyQuinnCLOSER.jpg/revision/latest?cb=20111112054506"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-gold-v2187",
+                "toy_number": "V2187",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "casting_name": "'70 Chevelle SS Wagon",
+                    "theme": "The Flash",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/FlashCLOSE.jpg/revision/latest?cb=20111111171054"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-v2190",
+                "toy_number": "V2190",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRSteelie"
+                    },
+                    "casting_name": "Deco Delivery",
+                    "theme": "Wonder Woman",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/WonderWomanCLOSE.jpg/revision/latest?cb=20111111171604"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-black-v6852",
+                "toy_number": "V6852",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow Batman DISH"
+                    },
+                    "casting_name": "Double Demon Delivery",
+                    "theme": "Batman",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/BatmanCLOSE.jpg/revision/latest?cb=20111111170634"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-cab-blue-box-v2192",
+                "toy_number": "V2192",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Cab & Blue Box",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDRR"
+                    },
+                    "casting_name": "Hiway Hauler",
+                    "theme": "Bizarro",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/BizarroCLOSER.jpg/revision/latest?cb=20111112054224"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-purple-green-x0813",
+                "toy_number": "X0813",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple & Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "'59 Cadillac Funny Car",
+                    "theme": "Catwoman",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Wal-Mart 4-Pack",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/Catwoman_59_Caddy.jpg/revision/latest?cb=20120103193548"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-rrprf-custom-77-dodge-van",
+                "toy_number": "Custom '77 Dodge Van",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRPrf",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Penguin",
+                    "theme": "Black",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Penguin_Dodge_Van.jpg/revision/latest?cb=20120103193902"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-wall-ddrr-34-ford-sedan",
+                "toy_number": "'34 Ford Sedan",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White Wall DDRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Robin",
+                    "theme": "Green & Yellow",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/Robin_34_Ford.jpg/revision/latest?cb=20120103193649"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-yellow-batman-dish-50s-chevy-truck",
+                "toy_number": "'50s Chevy Truck",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Batman DISH",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Batman",
+                    "theme": "Black",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/Batman_50s_Chevy.jpg/revision/latest?cb=20120103193725"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-tan-cab-brown-crate-v5254",
+                "toy_number": "V5254",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan Cab & Brown Crate",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow Line DDRR"
+                    },
+                    "casting_name": "'51 GMC C.O.E.",
+                    "theme": "Honey Nut Cheerios",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/06/IMG_2118c_1000.jpg/revision/latest?cb=20111115003445"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-brown-v6849",
+                "toy_number": "V6849",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRMag"
+                    },
+                    "casting_name": "'57 Buick",
+                    "theme": "Cocoa Puffs",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/0418122121.jpg/revision/latest?cb=20120419020556"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-anodized-blue-v6847",
+                "toy_number": "V6847",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Anodized Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "'70 Chevelle SS Wagon",
+                    "theme": "Count Chocula",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/CountChoculaCLOSE.jpg/revision/latest?cb=20111111171020"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-orange-v6854",
+                "toy_number": "V6854",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line DDRR"
+                    },
+                    "casting_name": "'70s Van",
+                    "theme": "Wheaties",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/WheatiesCLOSE.jpg/revision/latest?cb=20111111171532"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-red-v6858",
+                "toy_number": "V6858",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "Deco Delivery",
+                    "theme": "Trix",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/IMG_2392b1000.jpg/revision/latest?cb=20111215220748"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-blue-v6848",
+                "toy_number": "V6848",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Purple White Line RRSteelie"
+                    },
+                    "casting_name": "'29 Ford Pickup",
+                    "theme": "Boo Berry",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-v6850",
+                "toy_number": "V6850",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold Line RR5SP"
+                    },
+                    "casting_name": "'49 Ford C.O.E.",
+                    "theme": "Cinnamon Toast Crunch",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/43/IMG_2401c1000.jpg/revision/latest?cb=20111215220840"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-pink-v2188",
+                "toy_number": "V2188",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRMag"
+                    },
+                    "casting_name": "Custom '77 Dodge Van",
+                    "theme": "Franken Berry",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/IMG_2098c_1000.jpg/revision/latest?cb=20111115003239"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-green-cab-red-box-v6857",
+                "toy_number": "V6857",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Cab & Red Box",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "casting_name": "Hiway Hauler",
+                    "theme": "Lucky Charms",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/IMG_3203-b.jpg/revision/latest?cb=20111206183507"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-purple-v5263",
+                "toy_number": "V5263",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Wall DDRR"
+                    },
+                    "casting_name": "'34 Ford Sedan Delivery",
+                    "theme": "Good & Plenty",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/2011_Hersheys_Real_Riders_Good_N_Plenty_34_Ford_Sedan.jpg/revision/latest?cb=20120126033227"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-v2186",
+                "toy_number": "V2186",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line DDRR"
+                    },
+                    "casting_name": "'51 GMC C.O.E.",
+                    "theme": "Mounds",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/IMG_2447c1000.jpg/revision/latest?cb=20111221032134"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-beige-v6851",
+                "toy_number": "V6851",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & Beige",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Line RRSteelie"
+                    },
+                    "casting_name": "'56 Chevy Nomad",
+                    "theme": "Whoppers",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/2011_Hersheys_Whoppers_56_Chevy_Nomad.jpg/revision/latest?cb=20120102154245"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-brown-v6853",
+                "toy_number": "V6853",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "'59 Cadillac Funny Car",
+                    "theme": "Hershey's",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/2011_Hersheys_Real_Riders_Custom_59_Cadillac_Wagon_%28Funny_Car%29.jpg/revision/latest?cb=20120126033227"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-blue-white-v6856",
+                "toy_number": "V6856",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Blue Line RR5SP"
+                    },
+                    "casting_name": "'64 GMC Panel",
+                    "theme": "Hershey's Miniatures",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/IMG_2442c1000.jpg/revision/latest?cb=20111221032105"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-v5260",
+                "toy_number": "V5260",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line DDRR"
+                    },
+                    "casting_name": "'70s Van",
+                    "theme": "Twizzlers",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/IMG_3200-b.jpg/revision/latest?cb=20111206182100"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-v6855",
+                "toy_number": "V6855",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "Dairy Delivery",
+                    "theme": "York Peppermint Patty",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/IMG_2436c1000.jpg/revision/latest?cb=20111221032037"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-orange-v5250",
+                "toy_number": "V5250",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TRR"
+                    },
+                    "casting_name": "Dream Van XGW",
+                    "theme": "Reese's",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/IMG_2456c1000.jpg/revision/latest?cb=20111221032157"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-yellow-v5256",
+                "toy_number": "V5256",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "Haulin' Gas",
+                    "theme": "Milk Duds",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/IMG_3194-b.jpg/revision/latest?cb=20111206181546"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-blue-v6861",
+                "toy_number": "V6861",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "casting_name": "Smokin' Grille",
+                    "theme": "Almond Joy",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Smokin_Grille_-_Hersheys.JPG/revision/latest?cb=20160730010102"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-w5149",
+                "toy_number": "W5149",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DISH"
+                    },
+                    "casting_name": "'34 Ford Sedan Delivery",
+                    "theme": "Hong Kong Phooey",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-purple-w5151",
+                "toy_number": "W5151",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Wall DDRR"
+                    },
+                    "casting_name": "'56 Ford F-100 Panel",
+                    "theme": "The Flintstones",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/IMG_3229c-2_1000.jpg/revision/latest?cb=20120327163449"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-metalflake-brown-w6655",
+                "toy_number": "W6655",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "casting_name": "'64 GMC Panel",
+                    "theme": "Yogi Bear",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/IMG_3218c1000.jpg/revision/latest?cb=20120322025602"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-teal-w5152",
+                "toy_number": "W5152",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Teal",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRMag"
+                    },
+                    "casting_name": "Custom '77 Dodge Van",
+                    "theme": "Scooby-Doo!",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/IMG_3226c-2_1000.jpg/revision/latest?cb=20120327163348"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-black-cab-brown-box-w5154",
+                "toy_number": "W5154",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black Cab & Brown Box",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRMag"
+                    },
+                    "casting_name": "Hiway Hauler",
+                    "theme": "Tom & Jerry",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/HBTom%26jerry.jpg/revision/latest?cb=20120422182456"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-metalflake-silver-w5150",
+                "toy_number": "W5150",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SP"
+                    },
+                    "casting_name": "Surfin' School Bus",
+                    "theme": "The Jetsons",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Plastic base",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-blue-w6636",
+                "toy_number": "W6636",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDRR"
+                    },
+                    "casting_name": "'67 Austin Mini Van",
+                    "theme": "Winnie's Taxi",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/NOSEMini.jpg/revision/latest?cb=20120422182738"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-baby-blue-w6642",
+                "toy_number": "W6642",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Baby Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORRR5SP"
+                    },
+                    "casting_name": "'67 Ford Bronco",
+                    "theme": "Lucky Lady, 13",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/NoseBRONCO.JPG/revision/latest?cb=20120419044938"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-zamac-w6673",
+                "toy_number": "W6673",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Zamac",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORDDRR"
+                    },
+                    "casting_name": "Baja Breaker",
+                    "theme": "HW12 Nose Art",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/NoseBaja2012.jpg/revision/latest?cb=20120419154303"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-silver-black-w6639",
+                "toy_number": "W6639",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRSteelie"
+                    },
+                    "casting_name": "Customized C3500",
+                    "theme": "Bonny Lass",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Metal base",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/15/NOSEC3500.jpg/revision/latest?cb=20120422182557"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-green-tan-w6640",
+                "toy_number": "W6640",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green & Tan",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "casting_name": "Dairy Delivery",
+                    "theme": "Special Delivery, Bombs Away",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/NOSEDairy.jpg/revision/latest?cb=20120422182641"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-red-stripes-w6641",
+                "toy_number": "W6641",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Red Stripes",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRLW5"
+                    },
+                    "casting_name": "Dream Van XGW",
+                    "theme": "American Beauty",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/XGW2012NoseART.jpg/revision/latest?cb=20120419050543"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-orange-w6635",
+                "toy_number": "W6635",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RRSteelie"
+                    },
+                    "casting_name": "Volkswagen Micro Bus",
+                    "theme": "Reese's Pieces",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/Nostalgia2012HERSHEYReesePieces.jpg/revision/latest?cb=20120425064743"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-dark-brown-w6644",
+                "toy_number": "W6644",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RRPrf"
+                    },
+                    "casting_name": "Super Van",
+                    "theme": "Hershey's Syrup",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Nostalgia2012HERSHEYSyrup.jpg/revision/latest?cb=20120425064708"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-metalflake-light-blue-w6647",
+                "toy_number": "W6647",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "casting_name": "Custom '69 Volkswagen Squareback",
+                    "theme": "Jolly Rancher",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/15/Nostalgia2012HERSHEYjollyrancher.jpg/revision/latest?cb=20120425064823"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-brown-w6667",
+                "toy_number": "W6667",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Line SRR"
+                    },
+                    "casting_name": "'70 Chevelle Delivery",
+                    "theme": "5th Avenue",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Nostalgia2012HERSHEY5thAvenue.jpg/revision/latest?cb=20120425065006"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-tan-w6643",
+                "toy_number": "W6643",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDRR"
+                    },
+                    "casting_name": "'63 Studebaker Champ",
+                    "theme": "Whatchamacallit",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Metal base",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/Nostalgia2012HERSHEYWhatchamacallit.jpg/revision/latest?cb=20120425064934"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-blue-white-w6645",
+                "toy_number": "W6645",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Blue Line DDRR"
+                    },
+                    "casting_name": "'71 El Camino",
+                    "theme": "PayDay",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Nostalgia2012HERSHEYPayDay.jpg/revision/latest?cb=20120425064903"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-orange-white-w6662",
+                "toy_number": "W6662",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "casting_name": "'57 Buick",
+                    "theme": "Carvel Ice Cream",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/%2757_Buick-Nostalgic_Brands.jpg/revision/latest?cb=20130303193106"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-w6663",
+                "toy_number": "W6663",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line Gold RRLW5"
+                    },
+                    "casting_name": "Bread Box",
+                    "theme": "Fudgie",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/CarvelBreadBox.jpg/revision/latest?cb=20120616042808"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-cream-chocolate-w5148",
+                "toy_number": "W5148",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cream & Chocolate",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow Line RRMag"
+                    },
+                    "casting_name": "Custom '52 Chevy",
+                    "theme": "Soft Serve Cone",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/CarvelChevy.jpg/revision/latest?cb=20120616042852"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-tan-w6646",
+                "toy_number": "W6646",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DISH"
+                    },
+                    "casting_name": "Haulin' Gas",
+                    "theme": "Flying Saucer",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Carvel_Ice_Cream_Hauling_Gas.JPG/revision/latest?cb=20150901224035"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-blue-w6660",
+                "toy_number": "W6660",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold RRMag"
+                    },
+                    "casting_name": "Ice Cream Truck",
+                    "theme": "Carvel Delivery",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/CarvelIceCreamTruck.jpg/revision/latest?cb=20120616042735"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-w6665",
+                "toy_number": "W6665",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Cookie Puss ORRR5SP"
+                    },
+                    "casting_name": "Power Panel",
+                    "theme": "Ice Cream Pie",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/2012-Nostalgia-Carvel-PowerPanel-Red.jpg/revision/latest?cb=20120622202545"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-mint-green-white-w6637",
+                "toy_number": "W6637",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Mint Green & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RRSteelie"
+                    },
+                    "casting_name": "'34 Dodge Delivery",
+                    "theme": "\"Blank Canvas\" October 8, 1938",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/The_Saturday_Evening_Post_%2734_Dodge_Delivery.jpg/revision/latest?cb=20210724232316"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-anodized-blue-w6658",
+                "toy_number": "W6658",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Anodized Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RRMag"
+                    },
+                    "casting_name": "1951 GMC C.O.E.",
+                    "theme": "\"Rosie the Riveter\" May 29, 1943",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/SEPCOE.jpg/revision/latest?cb=20120613034837"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-lime-green-w5153",
+                "toy_number": "W5153",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Lime Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold Post DDRR"
+                    },
+                    "casting_name": "'70 Chevy Blazer",
+                    "theme": "\"Gone Fishing\" July 19, 1930",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/SEPBlazer.jpg/revision/latest?cb=20120613034907"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-black-white-w6656",
+                "toy_number": "W6656",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Line DDRR"
+                    },
+                    "casting_name": "'59 Chevy Delivery",
+                    "theme": "\"100th Anniversary of Baseball\" July 8,1939",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/SEPChevy.jpg/revision/latest?cb=20120613034805"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-tan-w6654",
+                "toy_number": "W6654",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RR10SP"
+                    },
+                    "casting_name": "Dairy Delivery",
+                    "theme": "\"Tattoo Artist\" March 4, 1944",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/SEPDairy.jpg/revision/latest?cb=20120613034723"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-grey-w6657",
+                "toy_number": "W6657",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow Line RRSteelie"
+                    },
+                    "casting_name": "Volkswagen Deluxe Station Wagon",
+                    "theme": "\"Sport\" April 29, 1939",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/SEPVOLKS.jpg/revision/latest?cb=20120613034950"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-purple-black-w6653",
+                "toy_number": "W6653",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RRLW5"
+                    },
+                    "casting_name": "'56 Chevy Nomad Delivery",
+                    "theme": "KISS \"Paul Stanley\"",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/%2756_Chevy_Nomad.jpg/revision/latest?cb=20121206211032"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-grey-w5155",
+                "toy_number": "W5155",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Silver Line Black DDRR"
+                    },
+                    "casting_name": "'66 Dodge A100",
+                    "theme": "OZZY OZBOURNE",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s): E22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/Hot_Wheels_1966_Dodge_A100_Panel_Van_Ozzy_Osbourne.jpg/revision/latest?cb=20200808030910"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-matte-black-w6648",
+                "toy_number": "W6648",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DISH"
+                    },
+                    "casting_name": "'72 Ford Ranchero",
+                    "theme": "AC/DC \"Back in Black\"",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/2012-08-05-468.jpg/revision/latest?cb=20120805181910"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-brown-tan-w6674",
+                "toy_number": "W6674",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown & Tan",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red RR5SP"
+                    },
+                    "casting_name": "Anglia Panel Truck",
+                    "theme": "OZZY",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/AngliaOzzy2012.jpg/revision/latest?cb=20250730044141"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-white-black-w6649",
+                "toy_number": "W6649",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red, White & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RRPrf"
+                    },
+                    "casting_name": "'59 Chevy Delivery",
+                    "theme": "KISS \"Gene Simmons\"",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/118a.jpg/revision/latest?cb=20170219232035"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-black-w6652",
+                "toy_number": "W6652",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Line RR5SP"
+                    },
+                    "casting_name": "Deco Delivery",
+                    "theme": "AC/DC \"Highway to Hell\"",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-brown-cream-w6666",
+                "toy_number": "W6666",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown & Cream",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Line DISH"
+                    },
+                    "casting_name": "'56 Flashsider",
+                    "theme": "Plastic Man",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s): E23",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/RC-5641.jpg/revision/latest?cb=20180607012209"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-aqua-blue-w6664",
+                "toy_number": "W6664",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Aqua Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Line RRLW5"
+                    },
+                    "casting_name": "'65 Ford Ranchero",
+                    "theme": "Aquaman",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s): E23",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-purple-w6668",
+                "toy_number": "W6668",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "casting_name": "8 Crate Delivery",
+                    "theme": "Riddler",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-silver-w6669",
+                "toy_number": "W6669",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Yellow RR5SP"
+                    },
+                    "casting_name": "'59 Cadillac Funny Car",
+                    "theme": "Batgirl",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-blue-w6638",
+                "toy_number": "W6638",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Wall DDRR"
+                    },
+                    "casting_name": "'38 Dodge Airflow",
+                    "theme": "Supergirl",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New tool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/%2738_Dodge_Airflow_DC_Comics_2012.jpg/revision/latest?cb=20180921162337"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-yellow-w6659",
+                "toy_number": "W6659",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow Line Black TRR"
+                    },
+                    "casting_name": "Dream Van XGW",
+                    "theme": "Darkseid",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Dream_Van_XGW_2011.jpg/revision/latest?cb=20160721032942"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-metalflake-dark-blue-w6650",
+                "toy_number": "W6650",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRMag"
+                    },
+                    "casting_name": "GMC Motorhome",
+                    "theme": "Atari 2600",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/IMG_1700-b.jpg/revision/latest?cb=20130108195355"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-green-w6651",
+                "toy_number": "W6651",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Green Line RR5SP"
+                    },
+                    "casting_name": "Cool-One",
+                    "theme": "Centipede",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Cool-One_12Atari.JPG/revision/latest?cb=20130506060655"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-white-w6661",
+                "toy_number": "W6661",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow Line DDRR"
+                    },
+                    "casting_name": "Custom '52 Chevy",
+                    "theme": "Pong",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/P1110840.JPG/revision/latest?cb=20171010123110"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-blue-w6670",
+                "toy_number": "W6670",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Line RR5SP"
+                    },
+                    "casting_name": "'55 Chevy Panel",
+                    "theme": "Tempest",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/154a.jpg/revision/latest?cb=20160809005626"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-red-w6671",
+                "toy_number": "W6671",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DISH"
+                    },
+                    "casting_name": "'49 Ford C.O.E.",
+                    "theme": "Breakout",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/%2749_Ford_C.O.E.-2012_Atari.jpg/revision/latest?cb=20151208160819"
+                }
+            },
+            {
+                "release_id": "0-nostalgic-brands-blue-w6672",
+                "toy_number": "W6672",
+                "casting_id": "nostalgic-brands",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDRR"
+                    },
+                    "casting_name": "Fast Gassin",
+                    "theme": "Missile Command",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Fast-gassin-atari-missile-command.jpg/revision/latest?cb=20150214080736"
+                }
+            }
+        ]
+    }
+]

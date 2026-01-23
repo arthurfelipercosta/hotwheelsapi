@@ -1,0 +1,11 @@
+{
+    "series_id": "30th",
+    "name": "30Th",
+    "description": "Hot Wheels 30Th Series",
+    "releases": [
+        "../data/releases/1997/1997-custom-mustang-light-yellow-16730.json",
+        "../data/releases/1998/1998-twin-mill-spectraflame-lime-gold-18988.json",
+        "../data/releases/1998/1998-twin-mill-spectraflame-purple-18988.json",
+        "../data/releases/1998/1998-twin-mill-spectraflame-red-18988.json"
+    ]
+}

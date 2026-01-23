@@ -1,0 +1,1059 @@
+[
+    {
+        "casting_id": "hot-wheels-heritage",
+        "name": "Hot Wheels Heritage",
+        "description": {
+            "en-us": "The Hot Wheels Heritage Series was first released in 2015 to replace the ill-fated Hot Wheels Cool Classics .",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Hot",
+        "releases": [
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-dark-yellow-dmc88",
+                "toy_number": "DMC88",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "series": "01/18",
+                    "casting": "Bubble Gunner",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/HW-2015-Heritage_Series_RR_-1-Bubble_Gunner.jpg/revision/latest?cb=20150901031945"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-brown-cfn58",
+                "toy_number": "CFN58",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP & RRPrf"
+                    },
+                    "series": "02/18",
+                    "casting": "Altered Ego",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/HW-2015-Heritage_Series_RR_-2-Altered_Ego.jpg/revision/latest?cb=20150901032018"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-red-cfn94",
+                "toy_number": "CFN94",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRMD"
+                    },
+                    "series": "03/18",
+                    "casting": "Datsun 240Z",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/HW-2015-Heritage_Series-Datsun_240Z.jpg/revision/latest?cb=20150716135914"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-pearl-white-cfn92",
+                "toy_number": "CFN92",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Pearl White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RedRR"
+                    },
+                    "series": "04/18",
+                    "casting": "Datsun Bluebird 510",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/HW-2015-Heritage_Series-Datsun_Bluebird_510.jpg/revision/latest?cb=20150716135937"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-light-green-cfn95",
+                "toy_number": "CFN95",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "series": "05/18",
+                    "casting": "Hare Splitter",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Hare_Splitter-2015_Heritage_Series.jpg/revision/latest?cb=20150716153527"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-blue-cfp37",
+                "toy_number": "CFP37",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "series": "06/18",
+                    "casting": "Custom Chevy Greenbrier Sports Wagon",
+                    "wave": "Wave 1 New Casting",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/Custom_Chevy_Greenbrier_Sports_Wagon-2015_Heritage_Series_6.jpg/revision/latest?cb=20150719154900"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-white-cfn60",
+                "toy_number": "CFN60",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "series": "07/18",
+                    "casting": "Ford Transit Supervan",
+                    "wave": "Wave 1 New Casting",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/HW-2015-Heritage_Series_RR_-7-Ford_Transit_Supervan.jpg/revision/latest?cb=20151101140746"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-pearl-white-cfn61",
+                "toy_number": "CFN61",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRS"
+                    },
+                    "series": "08/18",
+                    "casting": "'56 Flashsider",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/HW-2015-Heritage_Series_RR_-8-%2756_Flashsider.jpg/revision/latest?cb=20151101140828"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-orange-cfn90",
+                "toy_number": "CFN90",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "series": "09/18",
+                    "casting": "Backwoods Bomb",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/HW-2015-Heritage_Series_RR_-9-Backwoods_Bomb.jpg/revision/latest?cb=20151101140915"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-black-cfn63",
+                "toy_number": "CFN63",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "series": "10/18",
+                    "casting": "'71 Plymouth Satellite",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/HW-2015-Heritage_Series_RR_-10-%2771_Plymouth_Satellite.jpg/revision/latest?cb=20151101140956"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-silver-cfn64",
+                "toy_number": "CFN64",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome & Black RR8SP"
+                    },
+                    "series": "11/18",
+                    "casting": "BMW 2002",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/HW-2015-Heritage_Series_RR_-11-BMW_2002.jpg/revision/latest?cb=20151101141043"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-dark-red-cfn54",
+                "toy_number": "CFN54",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORRRPrf"
+                    },
+                    "series": "12/18",
+                    "casting": "Chevy Silverado",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/HW-2015-Heritage_Series_RR_-12-Chevy_Silverado.jpg/revision/latest?cb=20151101141145"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-burnt-orange-cfn76",
+                "toy_number": "CFN76",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Burnt Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "series": "13/18",
+                    "casting": "'69 Camaro",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/HW-2015-Heritage_Series_RR_-13-%2769_Camaro.jpg/revision/latest?cb=20151201041141"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-matte-black-cfn79",
+                "toy_number": "CFN79",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRPrf"
+                    },
+                    "series": "14/18",
+                    "casting": "Neet Streeter",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/HW-2015-Heritage_Series_RR_-14-Neet_Streeter.jpg/revision/latest?cb=20151201041241"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-green-cfn80",
+                "toy_number": "CFN80",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "15/18",
+                    "casting": "Aston Martin 1963 DB5",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/HW-2015-Heritage_Series_RR_-15-Aston_Martin_1963_DB5.jpg/revision/latest?cb=20151201041329"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-white-cfn81",
+                "toy_number": "CFN81",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "series": "16/18",
+                    "casting": "'68 Oldsmobile Cutlass Convertible",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/HW-2015-Heritage_Series_RR_-16-%2768_Oldsmobile_Cutlass_Convertible.jpg/revision/latest?cb=20151201041431"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-yellow-cfn96",
+                "toy_number": "CFN96",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORDDRR"
+                    },
+                    "series": "17/18",
+                    "casting": "Texas Drive 'Em",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/Texas_Drive_Em_-_15_Heritage_RR_600pxDM.jpg/revision/latest?cb=20151113070358"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-blue-cfn62",
+                "toy_number": "CFN62",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "series": "18/18",
+                    "casting": "Porsche 917-K",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/Porsche_917K_-_15_Heritage_RR_600pxDM.jpg/revision/latest?cb=20151113070414"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-white-cfn66",
+                "toy_number": "CFN66",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "01/18",
+                    "casting": "Copper Stopper",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/HW-2015-Heritage_Series_RL-Copper_Stopper.jpg/revision/latest?cb=20150815023159"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-black-cfn67",
+                "toy_number": "CFN67",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "02/18",
+                    "casting": "Nissan Skyline H/T 2000 GT-X",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/HW-2015-Heritage_Series_RL-Nissan_Skyline_HT_2000GT-X.jpg/revision/latest?cb=20150815023142"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-silver-cfn68",
+                "toy_number": "CFN68",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "03/18",
+                    "casting": "'49 Ford F1",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/HW-2015-Heritage_Series_RL_-3-%2749_Ford_F1.jpg/revision/latest?cb=20150905041631"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-pearl-white-cfn69",
+                "toy_number": "CFN69",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "04/18",
+                    "casting": "'70 Chevelle SS Wagon",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/HW-2015-Heritage_Series_RL-%2770_Chevelle_SS_Wagon.jpg/revision/latest?cb=20150815023051"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-antifreeze-cfn70",
+                "toy_number": "CFN70",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "05/18",
+                    "casting": "'55 Chevy Bel Air Gasser",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/HW-2015-Heritage_Series_RL_-5-%2755_Chevy_Bel_Air_Gasser.jpg/revision/latest?cb=20150918024633"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-magenta-cfp10",
+                "toy_number": "CFP10",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Magenta",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "06/18",
+                    "casting": "'68 Dodge Dart",
+                    "wave": "Wave 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/HW-2015-Heritage_Series_RL_-6-%2768_Dodge_Dart.jpg/revision/latest?cb=20150918024715"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-olive-cfn84",
+                "toy_number": "CFN84",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Olive",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "07/18",
+                    "casting": "Bone Shaker",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/HW-2015-Heritage_Series_RL_-7-Bone_Shaker.jpg/revision/latest?cb=20151114174111"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-plum-cfn73",
+                "toy_number": "CFN73",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Plum",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "08/18",
+                    "casting": "Custom '56 Ford Truck",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/HW-2015-Heritage_Series_RL_-8-Custom_%2756_Ford_Truck.jpg/revision/latest?cb=20151113033659"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-blue-cfn74",
+                "toy_number": "CFN74",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "09/18",
+                    "casting": "'84 Ford Mustang SVO",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/HW-2015-Heritage_Series_RL_-9-%2784_Ford_Mustang_SVO.jpg/revision/latest?cb=20151114174131"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-pearl-white-cfn57",
+                "toy_number": "CFN57",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "10/18",
+                    "casting": "'70 Camaro",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/HW-2015-Heritage_Series_RL_-10-%2770_Camaro.jpg/revision/latest?cb=20151114174154"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-red-cfn97",
+                "toy_number": "CFN97",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "11/18",
+                    "casting": "Nissan Skyline 2000GT-R",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/HW-2015-Heritage_Series_RL_-11-Nissan_Skyline_2000GT-R.jpg/revision/latest?cb=20151113033903"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-orange-cfn77",
+                "toy_number": "CFN77",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "12/18",
+                    "casting": "'69 Mercury Cyclone",
+                    "wave": "Wave 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/HW-2015-Heritage_Series_RL_-12-%2769_Mercury_Cyclone.jpg/revision/latest?cb=20151113034227"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-black-cfn65",
+                "toy_number": "CFN65",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "13/18",
+                    "casting": "'64 Chevy Nova Station Wagon",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-white-cfn85",
+                "toy_number": "CFN85",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Redline CT"
+                    },
+                    "series": "14/18",
+                    "casting": "Chevy Blazer 4x4",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Redline_Blazer_loose.JPG/revision/latest?cb=20220920132537"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-pearl-pink-cfn86",
+                "toy_number": "CFN86",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "15/18",
+                    "casting": "Mig Rig",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Screenshot_2025-09-01_at_1.28.27_PM.png/revision/latest?cb=20250901202940"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-light-blue-cfn87",
+                "toy_number": "CFN87",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "16/18",
+                    "casting": "Custom '66 GTO Wagon",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-white-cfn88",
+                "toy_number": "CFN88",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "17/18",
+                    "casting": "Corvette C6R",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/2005-C6R-06.jpg/revision/latest?cb=20161209013757"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-heritage-metalflake-gold-cfn83",
+                "toy_number": "CFN83",
+                "casting_id": "hot-wheels-heritage",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "series": "18/18",
+                    "casting": "Long Gone",
+                    "wave": "Wave 3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/HW-2015-Heritage_Series_RL_-18-Long_Gone.jpg/revision/latest?cb=20160211031953"
+                }
+            }
+        ]
+    }
+]

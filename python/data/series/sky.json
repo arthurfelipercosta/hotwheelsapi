@@ -1,0 +1,11 @@
+{
+    "series_id": "sky",
+    "name": "Sky",
+    "description": "Hot Wheels Sky Series",
+    "releases": [
+        "../data/releases/1970/1970-deora-spectraflame-aqua-6436-v2.json",
+        "../data/releases/1970/1970-deora-spectraflame-aqua-6436.json",
+        "../data/releases/1970/1970-deora-spectraflame-purple-6436-v2.json",
+        "../data/releases/1970/1970-deora-spectraflame-purple-6436.json"
+    ]
+}

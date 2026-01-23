@@ -1,0 +1,940 @@
+[
+    {
+        "casting_id": "flippers",
+        "name": "Flippers",
+        "description": {
+            "en-us": "Flippers (later Flashmagic Flippers , conceptualized as Flipside Wheels ) was a series that debuted in 1990 . All castings were designed by Lionel , originally released as \"Lionel Revolvers\" in years prior. All models were made and manufactured by Chief Industrial Co. out of China. The series was pitched to Hot Wheels rather than a formal collaboration using a hand-drawn pitch board and mock-up prototype. Mattel omitted licensed insignias from all tampo graphics before release under Hot Wheels branding. In 1991 Mattel retooled a single model to include lights and sounds with a non-rechargeable battery for three releases and changed the name of the series to Flashmagic Flippers.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Flippers",
+        "releases": [
+            {
+                "release_id": "1990-flippers-unknown-6001",
+                "toy_number": "6001",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Double Trouble Prowl Car/Flip Master Firebird"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/Dtp1.jpeg/revision/latest?cb=20231105031302"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6002",
+                "toy_number": "6002",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Twist Turnin' 308/Revolvin' 'Vette"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Twist3.jpeg/revision/latest?cb=20231115104442"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6003",
+                "toy_number": "6003",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Rotating Racer/Twirlin’ Truck"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/Flippers_with_252.jpg/revision/latest?cb=20220615160959"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6004",
+                "toy_number": "6004",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Swivelin' Sports Car/Reversing Rod"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Ssc1.jpeg/revision/latest?cb=20231105020144"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6007",
+                "toy_number": "6007",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Swivelin' Sports Car/Reversing Rod"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Flipper2.jpeg/revision/latest?cb=20231011232543"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6008",
+                "toy_number": "6008",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Rotating Racer/Twirlin’ Truck"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Rotating_Racer_White_LTI.jpg/revision/latest?cb=20231126144839"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6009",
+                "toy_number": "6009",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Twist Turnin' 308/Revolvin' 'Vette"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/95/Black_Corvette.jpg/revision/latest?cb=20211229173245"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6010",
+                "toy_number": "6010",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Double Trouble Prowl Car/Flip Master Firebird"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/6010flippercopcar.jpg/revision/latest?cb=20250629222654"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6012",
+                "toy_number": "6012",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Cyclone Twirler/Topsy Turbine"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/6012_Indigo_military_car.JPG/revision/latest?cb=20220423212434"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6013",
+                "toy_number": "6013",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Cyclone Twirler/Topsy Turbine"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Flippers2.jpg/revision/latest?cb=20210226221419"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6015",
+                "toy_number": "6015",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Flip & Run Racer/Whirling Dervish"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Flip%26runracer.jpeg/revision/latest?cb=20231022181311"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6016",
+                "toy_number": "6016",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Nitro Turner/Flipside Downer"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Flipsidedowner6016.jpg/revision/latest?cb=20250629223310"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6019",
+                "toy_number": "6019",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Flip & Run Racer/Whirling Dervish"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Flipper0002.jpg/revision/latest?cb=20250507082024"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6017",
+                "toy_number": "6017",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Gyration Station/Spinster"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/Black_Flipper_Car.JPG/revision/latest?cb=20220521211402"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6018",
+                "toy_number": "6018",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Gyration Station/Spinster"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/Flipper0003.jpg/revision/latest?cb=20250507083034"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6020",
+                "toy_number": "6020",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Nitro Turner/Flipside Downer"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/Hwflipperhotrod.jpg/revision/latest?cb=20220120132444"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8812",
+                "toy_number": "8812",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Double Trouble Prowl Car/Flip Master Firebird"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8813",
+                "toy_number": "8813",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Twist Turnin' 308/Revolvin' 'Vette"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8814",
+                "toy_number": "8814",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Rotating Racer/Twirlin’ Truck"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8819",
+                "toy_number": "8819",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Swivelin' Sports Car/Reversing Rod"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8820",
+                "toy_number": "8820",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Swivelin' Sports Car/Reversing Rod"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8823",
+                "toy_number": "8823",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Rotating Racer/Twirlin’ Truck"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8833",
+                "toy_number": "8833",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Twist Turnin' 308/Revolvin' 'Vette"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/Flippers_208.jpg/revision/latest?cb=20231114041658"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8834",
+                "toy_number": "8834",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Double Trouble Prowl Car/Flip Master Firebird"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Flippers5.jpg/revision/latest?cb=20210226221423"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8838",
+                "toy_number": "8838",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Nitro Turner/Flipside Downer"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Miata_enjoyer_Mystery_Car_%282%29.jpg/revision/latest?cb=20240713193638"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8839",
+                "toy_number": "8839",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Gyration Station/Spinster"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8840",
+                "toy_number": "8840",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Cyclone Twirler/Topsy Turbine"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8841",
+                "toy_number": "8841",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Flip & Run Racer/Whirling Dervish"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8842",
+                "toy_number": "8842",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Flip & Run Racer/Whirling Dervish"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8854",
+                "toy_number": "8854",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Cyclone Twirler/Topsy Turbine"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8855",
+                "toy_number": "8855",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Gyration Station/Spinster"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-8857",
+                "toy_number": "8857",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Nitro Turner/Flipside Downer"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-flippers-unknown-6021",
+                "toy_number": "6021",
+                "casting_id": "flippers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Car Launcher"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/08/CarLauncher.jpeg/revision/latest?cb=20231105040644"
+                }
+            },
+            {
+                "release_id": "1991-flippers-unknown-8862",
+                "toy_number": "8862",
+                "casting_id": "flippers",
+                "year": 1991,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Flip Master Firebird/Double Trouble Prowl Car"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1991-flippers-unknown-8870",
+                "toy_number": "8870",
+                "casting_id": "flippers",
+                "year": 1991,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Flip Master Firebird/Double Trouble Prowl Car"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1991-flippers-unknown-8871",
+                "toy_number": "8871",
+                "casting_id": "flippers",
+                "year": 1991,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Flip Master Firebird/Double Trouble Prowl Car"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/Flashmagic2.jpeg/revision/latest?cb=20231022181800"
+                }
+            },
+            {
+                "release_id": "1991-flippers-unknown-6022",
+                "toy_number": "6022",
+                "casting_id": "flippers",
+                "year": 1991,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Ramp Set"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Rampset1.png/revision/latest?cb=20231115114047"
+                }
+            }
+        ]
+    }
+]

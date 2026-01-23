@@ -1,0 +1,9 @@
+{
+    "series_id": "mystery",
+    "name": "Mystery",
+    "description": "Hot Wheels Mystery Series",
+    "releases": [
+        "../data/releases/2013/2013-twin-mill-blue-bbm48.json",
+        "../data/releases/2020/2020-twin-mill-light-blue-gjm51.json"
+    ]
+}

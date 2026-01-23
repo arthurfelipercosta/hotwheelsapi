@@ -1,0 +1,9 @@
+{
+    "series_id": "19th",
+    "name": "19Th",
+    "description": "Hot Wheels 19Th Series",
+    "releases": [
+        "../data/releases/2019/2019-custom-camaro-metallic-pink-gdf70.json",
+        "../data/releases/2019/2019-custom-corvette-spectraflame-pink-gdf73.json"
+    ]
+}

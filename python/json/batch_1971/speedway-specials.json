@@ -1,0 +1,491 @@
+[
+    {
+        "casting_id": "speedway-specials",
+        "name": "Speedway Specials",
+        "description": {
+            "en-us": "The Speedway Specials series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Speedway",
+        "releases": [
+            {
+                "release_id": "0-speedway-specials-magenta-7662",
+                "toy_number": "7662",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Magenta",
+                    "tampo": "Orange, Yellow \"10\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "28",
+                    "vehicle_name": "American Victory",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/American_Victory_Magh.JPG/revision/latest?cb=20091010234525"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-gray-29",
+                "toy_number": "29",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "Red, Blue & Yellow \"BAJA BREAKER\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "2022",
+                    "vehicle_name": "Baja Breaker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/1978_Baja_breaker_grey_BW.jpg/revision/latest?cb=20130210034337"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-blue-54",
+                "toy_number": "54",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "White, Black & Yellow \"Eagle\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "2509",
+                    "vehicle_name": "Bywayman",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/45/Bywayman_LtBlBW.JPG/revision/latest?cb=20090101183707"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-orange-8",
+                "toy_number": "8",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Red, Blue and White \"442\" racing decals, blue pentagon",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "2506",
+                    "vehicle_name": "Flat Out 442",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/Flat_Out_OrgR.JPG/revision/latest?cb=20090924135822"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-white-53",
+                "toy_number": "53",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Red and Blue \"76\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "9119",
+                    "vehicle_name": "Formula 5000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/Formula_5000_WhtBWL.JPG/revision/latest?cb=20091029034011"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-black-43",
+                "toy_number": "43",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Yellow pinstripes, \"8\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "9037",
+                    "vehicle_name": "Formula P.A.C.K.",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Formula_P.A.C.K.-20905.jpg/revision/latest?cb=20150103223409"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-red-38",
+                "toy_number": "38",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow & Blue stripes on sides, 'AMC', '5' & sponsor logos on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "2502",
+                    "vehicle_name": "Greased Gremlin",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/Greased_Gremlin_BW.JPG/revision/latest?cb=20090107190017"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-dark-blue-45",
+                "toy_number": "45",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "White on hood, white \"6\", various racing decals, 6 blue stars",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "2017",
+                    "vehicle_name": "Lickety Six",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Lickety_six_thumb.JPG/revision/latest?cb=20080328171118"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-red-7",
+                "toy_number": "7",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars, White 'C111' on trunk",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "6978",
+                    "vehicle_name": "Mercedes C111",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/76_mercedes_benz_c-111_blk_base_RL.jpg/revision/latest?cb=20130131042930"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-dark-blue-21",
+                "toy_number": "21",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "Yellow, White and Green racing decals, w/\"38\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "7660",
+                    "vehicle_name": "Monte Carlo Stocker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/Torinostocker.jpg/revision/latest?cb=20080414052941"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-lemon-yellow-21",
+                "toy_number": "21",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Lemon Yellow",
+                    "tampo": "Red, White and Blue racing decals, w/\"38\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "7660",
+                    "vehicle_name": "Monte Carlo Stocker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/Monte_Stocker_lemon_yellow_1977_BW0.jpg/revision/latest?cb=20130201044538"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-orange-4",
+                "toy_number": "4",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Magenta,Orange & Dull Yellow Striped on top \"9\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "6972",
+                    "vehicle_name": "P-917",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/P-917_BW1977.jpg/revision/latest?cb=20130125141017"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-red-50",
+                "toy_number": "50",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "308 on hood",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "2021",
+                    "vehicle_name": "Race Bait 308",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/308_red.JPG/revision/latest?cb=20080328045713"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-yellow-46",
+                "toy_number": "46",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Red, White, Blue Lightning bolt & \"10\" w/ sponsor decals",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "9088",
+                    "vehicle_name": "Rock Buster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Rock_buster_flyin_color_yellow_BW.jpg/revision/latest?cb=20130206044612"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-yellow-38",
+                "toy_number": "38",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Magenta & Red, \"3\" & racing decals on back, 7 stars",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "9208",
+                    "vehicle_name": "Steam Roller",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/Steam_Roller_YelBWL.JPG/revision/latest?cb=20091029035729"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-black-17",
+                "toy_number": "17",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "White, Yellow, Orange, racing decals \"3\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "7647",
+                    "vehicle_name": "Torino Stocker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/1979_Stocker_flat_black_blue_tint_window.jpg/revision/latest?cb=20130201050543"
+                }
+            },
+            {
+                "release_id": "0-speedway-specials-red-17",
+                "toy_number": "17",
+                "casting_id": "speedway-specials",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Blue, White, Yellow, racing decals \"23\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "7647",
+                    "vehicle_name": "Torino Stocker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/15/1977_Torino_Stocker_blackwall_red_shiney.jpg/revision/latest?cb=20130201045957"
+                }
+            }
+        ]
+    }
+]

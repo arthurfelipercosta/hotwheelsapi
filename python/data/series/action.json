@@ -1,0 +1,15 @@
+{
+    "series_id": "action",
+    "name": "Action",
+    "description": "Hot Wheels Action Series",
+    "releases": [
+        "../data/releases/1987/1987-hot-wheels-by-collector-number-unknown-4059.json",
+        "../data/releases/1987/1987-hot-wheels-by-collector-number-unknown-4059.json",
+        "../data/releases/1990/1990-hot-wheels-by-collector-number-unknown-9379.json",
+        "../data/releases/1990/1990-hot-wheels-by-collector-number-unknown-9379.json",
+        "../data/releases/1990/1990-hot-wheels-by-collector-number-unknown-9380.json",
+        "../data/releases/1990/1990-hot-wheels-by-collector-number-unknown-9380.json",
+        "../data/releases/1991/1991-hot-wheels-by-collector-number-unknown-9560.json",
+        "../data/releases/1991/1991-hot-wheels-by-collector-number-unknown-9560.json"
+    ]
+}

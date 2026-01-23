@@ -1,0 +1,93 @@
+[
+    {
+        "casting_id": "python",
+        "name": "Python",
+        "description": {
+            "en-us": "Python Debut series Sweet Sixteen Produced 1968 (Original) 2018 - 2025 ( Retool ) Designer Harry Bradley (Original) Brendon Vetuskey (Cheetah Re-Tool) Number 6216",
+            "pt-br": ""
+        },
+        "designer": "Harry Bradley (Original) Brendon Vetuskey (Cheetah Re-Tool)",
+        "debut_year": 1968,
+        "manufacturer": "Python",
+        "releases": [
+            {
+                "release_id": "2018-python-spectraflame-red-fnc29",
+                "toy_number": "FNC29",
+                "casting_id": "python",
+                "year": 2018,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "Black Roof",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "",
+                    "notes_variations": "1,500 sets"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/HWC_Original_16_Cheetah.png/revision/latest?cb=20181203160400"
+                }
+            },
+            {
+                "release_id": "2018-python-spectraflame-bright-orange-fnc23",
+                "toy_number": "FNC23",
+                "casting_id": "python",
+                "year": 2018,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Bright Orange",
+                    "tampo": "Black Roof",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "",
+                    "notes_variations": "Named Cheetah"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/HWC_Original_16_Display_Set_Cheetah.jpg/revision/latest?cb=20190302005640"
+                }
+            },
+            {
+                "release_id": "2025-python-spectraflame-ruby-red-jcp66",
+                "toy_number": "JCP66",
+                "casting_id": "python",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Ruby Red",
+                    "tampo": "Black roof",
+                    "base_color": "Chromed",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "col": "",
+                    "notes_variations": "named Cheetah 4.120 Sets Production code(s): 1465EAA"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,2059 @@
+[
+    {
+        "casting_id": "auto-affinity",
+        "name": "Auto Affinity",
+        "description": {
+            "en-us": "",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Auto",
+        "releases": [
+            {
+                "release_id": "0-auto-affinity-black-g7763",
+                "toy_number": "G7763",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Cadillac Escalade",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/Cadillac_Escalade_-_BB_Black.jpg/revision/latest?cb=20090103083112"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-green-g3769",
+                "toy_number": "G3769",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Cadillac Escalade",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Cadillac_Escalade_-_BB_Green.jpg/revision/latest?cb=20090103083043"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-brown-g7767",
+                "toy_number": "G7767",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'47 Fleetside",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/Fleetline.jpg/revision/latest?cb=20100713110137"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-red-g3770",
+                "toy_number": "G3770",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'47 Fleetside",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Fleetline.red.jpg/revision/latest?cb=20100713110047"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-maroon-g3771",
+                "toy_number": "G3771",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Maroon",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'64 Impala",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/ImpalaBlvdLF.jpg/revision/latest?cb=20081231055843"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-pink-purple-g7772",
+                "toy_number": "G7772",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Pink & Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'64 Impala",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/RC-I63-02a.jpg/revision/latest?cb=20190108162119"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-black-g3772",
+                "toy_number": "G3772",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'69 Dodge Charger",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/06/69_Charger_AGENTAIR_1.jpg/revision/latest?cb=20080920020110"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-yellow-g7791",
+                "toy_number": "G7791",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'69 Dodge Charger",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/69_Charger_AGENTAIR_2.jpg/revision/latest?cb=20080920032352"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-white-black-g3765",
+                "toy_number": "G3765",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Dodge M80",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/G15_Hot_Wheels_Dodge_M80_2004_Auto_Affinity_Down_%26_Dirty_%281%29.JPG/revision/latest?cb=20190910222206"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-yellow-black-g7764",
+                "toy_number": "G7764",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Dodge M80",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Dodge_M80_-_04_Affinity_Down%26Dirty.jpg/revision/latest?cb=20090621065604"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-silver-orange-g7773",
+                "toy_number": "G7773",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver & Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "VW Bug",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/44EE26BE-10C9-4FB0-8F62-753131C8FBA7.jpeg/revision/latest?cb=20201003143642"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-white-black-g3766",
+                "toy_number": "G3766",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake White & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "VW Bug",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/52636F2E-2B71-4BC0-B372-F3ED3DA7B7BE.jpeg/revision/latest?cb=20201003143609"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-blue-white-g3767",
+                "toy_number": "G3767",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "Toyota Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/Toyota_Baja_Truck_LF.jpg/revision/latest?cb=20090102222758"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-white-black-g7768",
+                "toy_number": "G7768",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "Toyota Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Toyota-Baja-Truck-e.jpg/revision/latest?cb=20180306062755"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-light-green-g3768",
+                "toy_number": "G3768",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Meyers Manx",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Meyersmanx_dirty_green.JPG/revision/latest?cb=20100102020129"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-orange-g7792",
+                "toy_number": "G7792",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Meyers Manx",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/61/Meyersmanx_dirty_orange.JPG/revision/latest?cb=20100102020129"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-yellow-c2637",
+                "toy_number": "C2637",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Dodge Viper GTS-R",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/06_Viper_AGENTAIR_3.jpg/revision/latest?cb=20080913185446"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-green-c2638",
+                "toy_number": "C2638",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "Cadillac Cien",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-silver-c2639",
+                "toy_number": "C2639",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "Ferrari 360 Modena",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/Ferrari_360_Modena_07.JPG/revision/latest?cb=20140519154002"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-silver-c2640",
+                "toy_number": "C2640",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Mercedes SL55",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Mercedes_SL55_19.JPG/revision/latest?cb=20190307063057"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-red-g7789",
+                "toy_number": "G7789",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "C6 Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/C6_Corvette_AGENTAIR_2.jpg/revision/latest?cb=20080831012740"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-silver-g3777",
+                "toy_number": "G3777",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "C6 Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/C6_Corvette_AGENTAIR_4.jpg/revision/latest?cb=20080831012709"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-dark-green-green-g3778",
+                "toy_number": "G3778",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Green & Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "Purple Passion",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/Passion_AGENTAIR_26.jpg/revision/latest?cb=20080909155036"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-maroon-red-g7765",
+                "toy_number": "G7765",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Maroon & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "Purple Passion",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/Passion_AGENTAIR_14.jpg/revision/latest?cb=20080907200139"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-green-light-green-g3779",
+                "toy_number": "G3779",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green & Light Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "Elwoody",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/50buick.green.jpg/revision/latest?cb=20090619180823"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-brown-copper-g7770",
+                "toy_number": "G7770",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Brown & Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "Elwoody",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-yellow-g3780",
+                "toy_number": "G3780",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Lo Boy Roadster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/1933_Ford_%28G3780%29_%28yellow.jpg/revision/latest?cb=20171020005601"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-silver-b5963",
+                "toy_number": "B5963",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Lo Boy Roadster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/1933_Ford_%28B5963%29_%28silver%29.jpg/revision/latest?cb=20171020005617"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-spectraflame-blue-b5963",
+                "toy_number": "B5963",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Lo Boy Roadster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/1933_Ford_%28B5963%29_%28blue%29.jpg/revision/latest?cb=20171020005636"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-black-white-c2645",
+                "toy_number": "C2645",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Customized Chevy C3500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/2004CustomizedC3500AutoAffinty.jpg/revision/latest?cb=20181202042653"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-white-c2646",
+                "toy_number": "C2646",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "Steel Flame",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Steel_Flame_-_04_Haul%27n_Assphalt.jpg/revision/latest?cb=20090105041436"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-purple-c2647",
+                "toy_number": "C2647",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "Dodge Sidewinder",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Dodge_Sidwinder_Prpl.JPG/revision/latest?cb=20090102165438"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-red-c2648",
+                "toy_number": "C2648",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'69 Chevy Stepside",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/DSC01104.jpg/revision/latest?cb=20110526160340"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-blue-g7771",
+                "toy_number": "G7771",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Pontiac GTO",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/65_GTO_AGENTAIR_2.jpg/revision/latest?cb=20081013053943"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-silver-c2651",
+                "toy_number": "C2651",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Pontiac GTO",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/65_GTO_AGENTAIR_3.jpg/revision/latest?cb=20081013053944"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-spectraflame-blue-c2651",
+                "toy_number": "C2651",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Pontiac GTO",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/65_GTO_AGENTAIR_1.jpg/revision/latest?cb=20081013053943"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-orange-c2654",
+                "toy_number": "C2654",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'49 Merc",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-purple-g7790",
+                "toy_number": "G7790",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'49 Merc",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/49merc.jpg/revision/latest?cb=20090619155543"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-spectraflame-blue-c2654",
+                "toy_number": "C2654",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'49 Merc",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-green-c2655",
+                "toy_number": "C2655",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'49 Ford",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/ShoeBox_affinity_green.JPG/revision/latest?cb=20100418075219"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-orange-g7762",
+                "toy_number": "G7762",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'49 Ford",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/ShoeBox_affinity_orange.JPG/revision/latest?cb=20100418075220"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-light-blue-g7766",
+                "toy_number": "G7766",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'58 Thunderbird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/Ford_Thunderbird_1958_%282004_HW_Affinity%29.jpg/revision/latest?cb=20140410000151"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-white-c2656",
+                "toy_number": "C2656",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'58 Thunderbird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-spectraflame-blue-c2656",
+                "toy_number": "C2656",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'58 Thunderbird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/58fordthunderbird.jpg/revision/latest?cb=20090625181757"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-silver-c2641",
+                "toy_number": "C2641",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Chevy Chevelle",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/70Chevelle2004MotorCityMuscle.jpg/revision/latest?cb=20120107021017"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-red-white-c2649",
+                "toy_number": "C2649",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "Dodge Dart",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "RRPrf",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/06/G10_Hot_Wheels_68_Dodge_Dart_2004_Auto_Affinity_Motor_City_Muscle_RRMag_%281%29.JPG/revision/latest?cb=20190820225044"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-red-white-c2649-v2",
+                "toy_number": "C2649",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "Dodge Dart",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "RRMag",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/S6300466.JPG/revision/latest?cb=20170101013505"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-spectraflame-blue-c2649",
+                "toy_number": "C2649",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "Dodge Dart",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-gold-c2642",
+                "toy_number": "C2642",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'68 Chevy Nova",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/NovaLLoFrontGld.jpg/revision/latest?cb=20081231053525"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-red-c2643",
+                "toy_number": "C2643",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'62 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/62_Impala_AGENTAIR_4.jpg/revision/latest?cb=20081126053616"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-black-g3773",
+                "toy_number": "G3773",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "'62 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/62_Impala_AGENTAIR_2.jpg/revision/latest?cb=20081126053615"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-dark-blue-g7793",
+                "toy_number": "G7793",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "'62 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/62_Impala_AGENTAIR_1.jpg/revision/latest?cb=20081126053614"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-orange-g3773",
+                "toy_number": "G3773",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "'62 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/62_Impala_AGENTAIR_3.jpg/revision/latest?cb=20081126053616"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-white-g3774",
+                "toy_number": "G3774",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'27 Miller",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-red-silver-g7794",
+                "toy_number": "G7794",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'27 Miller",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/Miller_2.jpg/revision/latest?cb=20201230182753"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-red-g3775",
+                "toy_number": "G3775",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'69 Brawner Hawk",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Redbrawnerreece.JPG/revision/latest?cb=20190728074352"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-yellow-red-g7797",
+                "toy_number": "G7797",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'69 Brawner Hawk",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/69_Brawner_Hawk_Yellow.JPG/revision/latest?cb=20220707172024"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-blue-g7798",
+                "toy_number": "G7798",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Mustang F/C",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Mustung_funny_car.jpg/revision/latest?cb=20200528095141"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-black-g3776",
+                "toy_number": "G3776",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Mustang F/C",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/Scott_kidd_and_the_drag_machine.JPG/revision/latest?cb=20210506043518"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-white-blue-c2633",
+                "toy_number": "C2633",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake White & Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "1/4 Mile Coupe",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/MileRockinRR.jpg/revision/latest?cb=20090114064941"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-red-white-c2634",
+                "toy_number": "C2634",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'34 So-Cal Coupe",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/Th_SooFast013.jpg/revision/latest?cb=20080901001209"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-red-c2652",
+                "toy_number": "C2652",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'57 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/19/RocRod57LFmore.jpg/revision/latest?cb=20091110081035"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-spectraflame-blue-c2652",
+                "toy_number": "C2652",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "'57 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/57_chevy_auto_affimuity.jpg/revision/latest?cb=20210831042654"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-silver-black-c2636",
+                "toy_number": "C2636",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "Tire Fryer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Tire-Fryer-c.jpg/revision/latest?cb=20190824090719"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-white-yellow-g7800",
+                "toy_number": "G7800",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake White & Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Milk Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-yellow-white-c2635",
+                "toy_number": "C2635",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Yellow & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/4",
+                    "casting_name": "Milk Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-flat-gray-c2644",
+                "toy_number": "C2644",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'32 Sedan Delivery",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-steel-blue-g7796",
+                "toy_number": "G7796",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Steel Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/4",
+                    "casting_name": "'32 Sedan Delivery",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Midnightotto.jpg/revision/latest?cb=20090614111551"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-flat-gray-flat-light-gray-c2650",
+                "toy_number": "C2650",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Gray & Flat Light Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "8 Crate",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/8_Crate_-_04_Sp_Delivery_Flat_Gray.JPG/revision/latest?cb=20081216044504"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-maroon-white-g7795",
+                "toy_number": "G7795",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Maroon & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/4",
+                    "casting_name": "8 Crate",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/8_Crate_-_04_Sp_Delivery_Burgandy.JPG/revision/latest?cb=20081216044427"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-blue-white-g7799",
+                "toy_number": "G7799",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'34 Ford",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-metalflake-gold-c2653",
+                "toy_number": "C2653",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'34 Ford",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-auto-affinity-spectraflame-blue-c2653",
+                "toy_number": "C2653",
+                "casting_id": "auto-affinity",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/4",
+                    "casting_name": "'34 Ford",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "China",
+                "notes": "Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "series_id": "fire",
+    "name": "Fire",
+    "description": "Hot Wheels Fire Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15273.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15273.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15274.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15274.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15275.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15275.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15276.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15276.json"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "series_id": "car-toon",
+    "name": "Car Toon",
+    "description": "Hot Wheels Car Toon Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21333.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21333.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21334.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21334.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21335.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21335.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21336.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21336.json"
+    ]
+}

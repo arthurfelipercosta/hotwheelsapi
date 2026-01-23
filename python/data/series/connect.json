@@ -1,0 +1,8 @@
+{
+    "series_id": "connect",
+    "name": "Connect",
+    "description": "Hot Wheels Connect Series",
+    "releases": [
+        "../data/releases/2009/2009-twin-mill-red-n4163.json"
+    ]
+}

@@ -1,0 +1,855 @@
+[
+    {
+        "casting_id": "volkswagen-150-scale-series",
+        "name": "Volkswagen 1:50 Scale Series",
+        "description": {
+            "en-us": "The Volkswagen 1:50 Scale Series line was a short-lived series first released in 2008. The line featured six Volkswagen models in 1/50 scale that were highly detailed. All models came with rubber wheels with treads and featured numerous colorwaves in one year split over three different series: Off The Lot, Rat Rods and California Local.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Volkswagen",
+        "releases": [
+            {
+                "release_id": "0-volkswagen-150-scale-series-white-m4311",
+                "toy_number": "M4311",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'69 Fastback",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/Off_the_Lot_M4311_%2769_Fastback_White_1a.jpg/revision/latest?cb=20230510194021"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-red-m4318",
+                "toy_number": "M4318",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'69 Variant",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Off_the_Lot_M4318_%2769_Variant_RED_open-1.jpg/revision/latest?cb=20230719001529"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-two-tone-white-and-green-m4319",
+                "toy_number": "M4319",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two-tone White and Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'58 Panel Bus",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Off_the_Lot_M4319_%2758_Panel_Bus_White_Green_mf_1b.jpg/revision/latest?cb=20230510130904"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-black-m4320",
+                "toy_number": "M4320",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'62 Karmann Ghia",
+                    "tampos": "Detailed headlights, taillights, VW BADGE & Door handles",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/Off_the_Lot_M4320_%2762_Karmann_Ghia_Black_open-1.jpg/revision/latest?cb=20230714002914"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-two-tone-red-and-white-m4321",
+                "toy_number": "M4321",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two-tone red and white",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'67 Bus Pickup",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/Off_the_Lot_M4321_%2767_Pickup_White_Red_mf_1b.jpg/revision/latest?cb=20230510130119"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-dove-blue-powder-blue-m4326",
+                "toy_number": "M4326",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dove Blue & Powder Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'52 Beetle",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/Off_the_Lot_M4326_%2752_Beetle_Blue_Powder_1b.jpg/revision/latest?cb=20230510124734"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-dark-green-m4295",
+                "toy_number": "M4295",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'67 Bus Pickup",
+                    "tampos": "Detailed headlights and taillights, lime green accents, \"Volkswagen Überschuß\", \"Wolfsburg-Berlin-Stuttgart\" on sides",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Rat_Rods_M4295_%2767_Bus_PU_Green_open-1.jpg/revision/latest?cb=20230717124918"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-matte-green-m4299",
+                "toy_number": "M4299",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'69 Fastback",
+                    "tampos": "Detailed headlights and taillights, green accents",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/Rat_Rods_M4299_%2769_Fastback_Green_open-1.jpg/revision/latest?cb=20230731212522"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-lavender-m4301",
+                "toy_number": "M4301",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Lavender",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'62 Karmann Ghia",
+                    "tampos": "Detailed headlights and taillights, black accents",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Rat_Rods_M4301_%2762_Karmann_Ghia_Purple_open-1.jpg/revision/latest?cb=20230717143205"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-two-tone-black-and-red-m4302",
+                "toy_number": "M4302",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two-tone black and red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'58 Panel Bus",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/Rat_Rods_M4302_%2758_Panel_Bus_Black_Red_Flames_open-1.jpg/revision/latest?cb=20230719093006"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-white-m4303",
+                "toy_number": "M4303",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'67 Bus Pickup",
+                    "tampos": "Detailed headlights and taillights, red accents, \"Ambulance\" on sides and front",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/Rat_Rods_M4303_%2767_Bus_PU_White_Open-1.jpg/revision/latest?cb=20230717021041"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-midnight-navy-blue-m4304",
+                "toy_number": "M4304",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Midnight navy blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'69 Variant",
+                    "tampos": "Detailed headlights and taillights, blue accents",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-dark-blue-m4304",
+                "toy_number": "M4304",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'69 Variant",
+                    "tampos": "Detailed headlights and taillights, blue accents",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/Rat_Rods_M4304_%2769_Variant_Dark_Blue_open-COMPARE.jpg/revision/latest?cb=20230728172534"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-matte-black-m4305",
+                "toy_number": "M4305",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'52 Beetle",
+                    "tampos": "Detailed headlights and taillights, red accents",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-dark-gray-m4306",
+                "toy_number": "M4306",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'69 Fastback",
+                    "tampos": "Detailed headlights and taillights, green accents",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/51/Rat_Rods_M4306_%2769_Fastback_Grey_Green_project_open-4b.jpg/revision/latest?cb=20230724012224"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-two-tone-cream-and-goldenrod-m4307",
+                "toy_number": "M4307",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two tone cream and goldenrod",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'52 Beetle",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/27/Rat_Rods_M4307_%2752_Beetle_Gold_White_open-1.jpg/revision/latest?cb=20230719073616"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-green-m4314",
+                "toy_number": "M4314",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'62 Karmann Ghia",
+                    "tampos": "Detailed headlights and taillights, flames",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Rat_Rods_M4314_%2762_Karmann_Ghia_Green_open-1.jpg/revision/latest?cb=20230718052758"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-red-m2534",
+                "toy_number": "M2534",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CragarRR"
+                    },
+                    "model_name": "'52 Beetle",
+                    "tampos": "Detailed Trim , Headlights & VW Badge",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/California_Local_M2534_%2752_Beetle_Red_open-1a.jpg/revision/latest?cb=20230717104911"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-silver-metalflake-blue-m2536",
+                "toy_number": "M2536",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver & Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CragarRR"
+                    },
+                    "model_name": "'69 Fastback",
+                    "tampos": "Headlights, Tailights, Side Trim & Front Window Trim",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/California_Local_M2536_%2769_Fastback_Grey_Blue_open-1.jpg/revision/latest?cb=20230927030318"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-orange-metalflake-m2548",
+                "toy_number": "M2548",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange Metalflake",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CragarRR"
+                    },
+                    "model_name": "'52 Beetle",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/California_Local_M2548_%2752_Beetle_Orange_mf_open-1.jpg/revision/latest?cb=20240109174516"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-two-tone-yellow-and-black-m2549",
+                "toy_number": "M2549",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two-tone Yellow and Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CragarRR"
+                    },
+                    "model_name": "'58 Panel Bus",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/61/California_Local_M2549_%2758_Panel_Bus_Yellow_Black_open-1.jpg/revision/latest?cb=20231009095742"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-blue-white-roof-m2550",
+                "toy_number": "M2550",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & White Roof",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'62 Karmann Ghia",
+                    "tampos": "White Side decos",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/California_Local_M2550_%2762_Karmann_Ghia_Blue_White_ref-1c.jpg/revision/latest?cb=20231203140824"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-goldyellow-metalflake-black-m2551",
+                "toy_number": "M2551",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold/Yellow Metalflake & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'67 Bus Pickup",
+                    "tampos": "White Side decos",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/California_Local_M2551_%2767_Bus_PU_Gold_Black_ref-1c.png/revision/latest?cb=20230727110518"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-two-tone-blue-and-silver-m2557",
+                "toy_number": "M2557",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two-tone Blue and Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'58 Panel Bus",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Cal_Local_M2557_%2758_Bus_Panel_Blue_Silver_o-4.jpg/revision/latest?cb=20240713114418"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-silver-metalflake-m2561",
+                "toy_number": "M2561",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver Metalflake",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CragarRR"
+                    },
+                    "model_name": "'62 Karmann Ghia",
+                    "tampos": "Headlights, Signals on front & Tailights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/California_Local_M2561_%2762_Karmann_Ghia_Silver_open-1.jpg/revision/latest?cb=20230715022406"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-two-tone-orange-and-silver-m2563",
+                "toy_number": "M2563",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two-tone Orange and Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CragarRR"
+                    },
+                    "model_name": "'67 Bus Pickup",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/California_Local_M2563_%2767_Bus_Pickup_Orange_Silver_open-1.jpg/revision/latest?cb=20230714021717"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-white-m4322",
+                "toy_number": "M4322",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'62 Karmann Ghia",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/CalLocal_M4322_%2762_Ghia_White_o1.jpg/revision/latest?cb=20240928140651"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-light-blue-m4323",
+                "toy_number": "M4323",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'69 Variant",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/California_Local_M4323_%2769_Variant_Blue_mf_o-1.jpg/revision/latest?cb=20230510200028"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-maroon-metalflake-m4324",
+                "toy_number": "M4324",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon Metalflake",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'69 Fastback",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/California_Local_M4324_%2769_Fastback_Red_mf_1b.jpg/revision/latest?cb=20230510194903"
+                }
+            },
+            {
+                "release_id": "0-volkswagen-150-scale-series-two-tone-red-white-m4325",
+                "toy_number": "M4325",
+                "casting_id": "volkswagen-150-scale-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two-tone Red & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "VWRR"
+                    },
+                    "model_name": "'58 Panel Bus",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/California_Local_M4325_%2758_Panel_Burnt_Red_mf_White_open-1.jpg/revision/latest?cb=20230811044323"
+                }
+            }
+        ]
+    }
+]

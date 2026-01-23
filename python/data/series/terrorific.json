@@ -1,0 +1,15 @@
+{
+    "series_id": "terrorific",
+    "name": "Terrorific",
+    "description": "Hot Wheels Terrorific Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21325.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21325.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21326.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21326.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21327.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21327.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21328.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21328.json"
+    ]
+}

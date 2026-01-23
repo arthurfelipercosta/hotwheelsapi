@@ -1,0 +1,115 @@
+[
+    {
+        "casting_id": "hot-wheels-monster-trucks",
+        "name": "Hot Wheels Monster Trucks",
+        "description": {
+            "en-us": "The Hot Wheels Monster Trucks series was announced in summer of 2018 as a replacement for the long running Monster Jam line after Spin Master obtained the license in 2018. Also within the same year, real life versions of Bone Shaker , Bigfoot and as well as some of the other trucks were created for the Hot Wheels Monster Trucks Live tour. In 2019, 2022, 2023 and 2024, the trucks came with connect & crush cars. In 2020, the trucks came with crushable cars. In 2021, the trucks came with smashable cars.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Hot",
+        "releases": [
+            {
+                "release_id": "0-hot-wheels-monster-trucks-unknown-grh85",
+                "toy_number": "GRH85",
+                "casting_id": "hot-wheels-monster-trucks",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "'96 Chevrolet Impala SS",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting": "Sudden Stop"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/Y_u_sudden_stop.JPG/revision/latest?cb=20210413041925"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-monster-trucks-unknown-grh86",
+                "toy_number": "GRH86",
+                "casting_id": "hot-wheels-monster-trucks",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "Custom '77 Dodge Van",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting": "Blind-Sided"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Honey_i_was_blind_sided.JPG/revision/latest?cb=20210413035751"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-monster-trucks-unknown-grh87",
+                "toy_number": "GRH87",
+                "casting_id": "hot-wheels-monster-trucks",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "'84 Hurst Olds",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting": "Speed Bump"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Orange_u_gonna_speed_bump.JPG/revision/latest?cb=20210413041920"
+                }
+            },
+            {
+                "release_id": "0-hot-wheels-monster-trucks-unknown-grh88",
+                "toy_number": "GRH88",
+                "casting_id": "hot-wheels-monster-trucks",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "'71 Plymouth Satellite",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting": "Flat Iron"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/Flat_iron_black.jpg/revision/latest?cb=20210306161336"
+                }
+            }
+        ]
+    }
+]

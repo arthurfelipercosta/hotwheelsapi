@@ -1,0 +1,663 @@
+[
+    {
+        "casting_id": "classics",
+        "name": "Classics",
+        "description": {
+            "en-us": "Hot Wheels Classics was a line of vehicles released between 1987 and 1989, and is not to be confused with Mattel's later line called Hot Wheels Classics .  The Classics line featured mostly cars from the 1920's through the 1950's and included such vehicles as '37 Bugatti and Talbot Lago and street rods such as T-Bucket and '32 Ford Delivery .  The special cards for this line featured a Rolls-Royce Phantom II .",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Classics",
+        "releases": [
+            {
+                "release_id": "1989-classics-maroon-2533",
+                "toy_number": "2533",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "'31 Doozie",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/31_Doozie_Mrn.JPG/revision/latest?cb=20090114215011"
+                }
+            },
+            {
+                "release_id": "1989-classics-yellow-7672",
+                "toy_number": "7672",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "'32 Ford Delivery",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Magenta stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/%2732_Ford_Delivery_-_5360f.jpg/revision/latest?cb=20081021094552"
+                }
+            },
+            {
+                "release_id": "1989-classics-yellow-7672-v2",
+                "toy_number": "7672",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "'32 Ford Delivery",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Blue stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/32_Ford_Delivery_Yelblu.JPG/revision/latest?cb=20091021221624"
+                }
+            },
+            {
+                "release_id": "1987-classics-yellow-and-red-2526",
+                "toy_number": "2526",
+                "casting_id": "classics",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow and Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "'37 Bugatti",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Metal fenders",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/37_Bugatti_Yelww.JPG/revision/latest?cb=20091021215143"
+                }
+            },
+            {
+                "release_id": "1989-classics-yellow-and-red-2526",
+                "toy_number": "2526",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow and Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "'37 Bugatti",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Plastic fenders",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/37_Bugatti_Yelbw.JPG/revision/latest?cb=20091021215143"
+                }
+            },
+            {
+                "release_id": "1988-classics-red-1473",
+                "toy_number": "1473",
+                "casting_id": "classics",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "3-Window '34",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Large rear wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/3_Window_34-20665.jpg/revision/latest?cb=20141231060141"
+                }
+            },
+            {
+                "release_id": "1989-classics-purple-3613",
+                "toy_number": "3613",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "3-Window '34",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/3_Window_34_Prp.JPG/revision/latest?cb=20090205061125"
+                }
+            },
+            {
+                "release_id": "1989-classics-yellow-2530",
+                "toy_number": "2530",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "'40's Woodie",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Wood grain panels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/%2740%27s_Woodie_1989_Classics_-_7590df.jpg/revision/latest?cb=20090301091334"
+                }
+            },
+            {
+                "release_id": "1987-classics-metalflake-blue-1538",
+                "toy_number": "1538",
+                "casting_id": "classics",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "'57 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Emblem on sides",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/57_Chevy_BluGWw.JPG/revision/latest?cb=20090309022231"
+                }
+            },
+            {
+                "release_id": "1989-classics-metalflake-blue-1538",
+                "toy_number": "1538",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "'57 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "No emblem on sides",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/57_Chevy_BluGWwo.JPG/revision/latest?cb=20090309022250"
+                }
+            },
+            {
+                "release_id": "1989-classics-turquoise-9638",
+                "toy_number": "9638",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "'57 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Emblem on sides",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/57_Chevy_TurqWtampo.JPG/revision/latest?cb=20090309014342"
+                }
+            },
+            {
+                "release_id": "1989-classics-turquoise-9638-v2",
+                "toy_number": "9638",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "'57 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "No emblem on sides",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/57_Chevy_TrqGWwo.JPG/revision/latest?cb=20090309023822"
+                }
+            },
+            {
+                "release_id": "1989-classics-turquoise-1542",
+                "toy_number": "1542",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "'65 Mustang Convertible",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Tan interior",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/65_mustang_convertible_baby_blue_ww_malaysia_tan_interior_.JPG/revision/latest?cb=20111025222218"
+                }
+            },
+            {
+                "release_id": "1987-classics-metallic-blue-2529",
+                "toy_number": "2529",
+                "casting_id": "classics",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "Classic Caddy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/%2735_Classic_Caddy_Classics_-_5379df.jpg/revision/latest?cb=20100511063223"
+                }
+            },
+            {
+                "release_id": "1989-classics-metallic-silver-1543",
+                "toy_number": "1543",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "Classic Caddy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/35_Caddy_AGENTAIR_3.jpg/revision/latest?cb=20081030013706"
+                }
+            },
+            {
+                "release_id": "1988-classics-red-2535",
+                "toy_number": "2535",
+                "casting_id": "classics",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Classic Cobra",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "No 427 on hood",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/Cobra_redbw.JPG/revision/latest?cb=20090915040556"
+                }
+            },
+            {
+                "release_id": "1988-classics-black-5142",
+                "toy_number": "5142",
+                "casting_id": "classics",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "Mercedes 540K",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Mercedes_540K_blkww.JPG/revision/latest?cb=20091023142052"
+                }
+            },
+            {
+                "release_id": "1988-classics-black-5142-v2",
+                "toy_number": "5142",
+                "casting_id": "classics",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Mercedes 540K",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/Mercedes_540K_blkbw.JPG/revision/latest?cb=20091023142052"
+                }
+            },
+            {
+                "release_id": "1989-classics-metallic-blue-3290",
+                "toy_number": "3290",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "Rolls-Royce Phantom II",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/Rolls_Royce_Phantom_II_-_5377cf.jpg/revision/latest?cb=20090612150837"
+                }
+            },
+            {
+                "release_id": "1989-classics-white-1470",
+                "toy_number": "1470",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "model_name": "Street Roader",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Street_Roader_WhtMag.JPG/revision/latest?cb=20081220174140"
+                }
+            },
+            {
+                "release_id": "1988-classics-burgandy-4741",
+                "toy_number": "4741",
+                "casting_id": "classics",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Burgandy",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "Talbot Lago",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/Talbot_Lago_Brg.JPG/revision/latest?cb=20090319202413"
+                }
+            },
+            {
+                "release_id": "1988-classics-white-4741",
+                "toy_number": "4741",
+                "casting_id": "classics",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "Talbot Lago",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/White_Talbot_Lago_5358ef.jpg/revision/latest?cb=20081021101441"
+                }
+            },
+            {
+                "release_id": "1989-classics-orange-7673",
+                "toy_number": "7673",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "T-Bucket",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/First_Edition_T-Bucket_-_7051df.jpg/revision/latest?cb=20090111113709"
+                }
+            },
+            {
+                "release_id": "1989-classics-yellow-7673",
+                "toy_number": "7673",
+                "casting_id": "classics",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "T-Bucket",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/T-Bucket_Yel.JPG/revision/latest?cb=20090205152509"
+                }
+            }
+        ]
+    }
+]

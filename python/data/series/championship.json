@@ -1,0 +1,8 @@
+{
+    "series_id": "championship",
+    "name": "Championship",
+    "description": "Hot Wheels Championship Series",
+    "releases": [
+        "../data/releases/2004/2004-twin-mill-spectraflame-red-b8543.json"
+    ]
+}

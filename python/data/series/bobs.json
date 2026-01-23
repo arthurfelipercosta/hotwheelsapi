@@ -1,0 +1,9 @@
+{
+    "series_id": "bobs",
+    "name": "Bobs",
+    "description": "Hot Wheels Bobs Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-14975.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-14975.json"
+    ]
+}

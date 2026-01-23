@@ -1,0 +1,15 @@
+{
+    "series_id": "space",
+    "name": "Space",
+    "description": "Hot Wheels Space Series",
+    "releases": [
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-12361-v2.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-12361-v2.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15228.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15228.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15230.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15230.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-3035.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-3035.json"
+    ]
+}

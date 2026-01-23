@@ -1,0 +1,9 @@
+{
+    "series_id": "penske",
+    "name": "Penske",
+    "description": "Hot Wheels Penske Series",
+    "releases": [
+        "../data/releases/2000/2000-scool-bus-silver-26278.json",
+        "../data/releases/2003/2003-scool-bus-red-28694.json"
+    ]
+}

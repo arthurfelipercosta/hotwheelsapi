@@ -1,0 +1,3375 @@
+[
+    {
+        "casting_id": "car-culture-2-packs",
+        "name": "Car Culture 2-Packs",
+        "description": {
+            "en-us": "Car Culture 2-Packs is a premium series of 2-car packs introduced in mid-2021. These consist of two Premium cars themed to a certain assortment: one car from an existing Car Culture assortment (sometimes with minor cosmetic modifications) plus one new car. All castings are made in Thailand.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Car",
+        "releases": [
+            {
+                "release_id": "0-car-culture-2-packs-red-hbl97",
+                "toy_number": "HBL97",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "Larry Chen",
+                    "casting": "Nissan Skyline GT-R (BNR32)",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/2PackLarryChenR32.jpg/revision/latest?cb=20210817035349"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-similar-to-fyn60-base-codes-p19-nissan-skyline-gt-r-bnr32",
+                "toy_number": "Nissan Skyline GT-R (BNR32)",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Similar to FYN60 Base code(s): P19",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Black",
+                    "casting": "RRE",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/2PackHKSR32.jpg/revision/latest?cb=20210909211711"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-black-hbl98",
+                "toy_number": "HBL98",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "theme": "Borla",
+                    "casting": "'83 Chevy Silverado",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Similar to FLC22 Base code(s): P19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Siverado.png/revision/latest?cb=20220524145143"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-p19-91-gmc-syclone",
+                "toy_number": "'91 GMC Syclone",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): P19",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Black",
+                    "casting": "RR8SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Syclone16548741.png/revision/latest?cb=20220525142657"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-metallic-gray-hbl99",
+                "toy_number": "HBL99",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Mercedes-Benz",
+                    "casting": "'72 Mercedes-Benz 280 SEL 4.5",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/LQDPJxZXjLRfNHvNAZ7NAlOw3BqWMpsSxKgCkIHyzIDxAA_595_414.jpg/revision/latest?cb=20220525141434"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-similar-to-dwh66-base-codes-p19-mercedes-benz-190-e-25-16",
+                "toy_number": "Mercedes-Benz 190 E 2.5-16",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Similar to DWH66 Base code(s): P19",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Glossy black",
+                    "casting": "RRA",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/LQDPJxZXjLRfNqPNAd_NAu6w8qYIEUvzqwkCkIHzTMDxAA_750_479.jpg/revision/latest?cb=20220525144206"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hbm00",
+                "toy_number": "HBM00",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MiniC4SP"
+                    },
+                    "theme": "BRE Datsun",
+                    "casting": "'71 BRE Datsun 510",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P32",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/HBM00_-_71_BRE_Datsun_510_Blue_85-1-2.jpg/revision/latest?cb=20211210175230"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-similar-to-t8455-base-codes-p32-71-bre-datsun-510",
+                "toy_number": "'71 BRE Datsun 510",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Similar to T8455 Base code(s): P32",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "MiniC4SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/HBM00_-_71_BRE_Datsun_510_Red_46-2-2.jpg/revision/latest?cb=20211210175525"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-yellow-hbm01",
+                "toy_number": "HBM01",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MD"
+                    },
+                    "theme": "Mooneyes Volkswagen",
+                    "casting": "Volkswagen T1 Panel Bus",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to FLC14 Base code(s): P32",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/HBM01_-_Volkswagen_t1_Panel_Bus-1-2.jpg/revision/latest?cb=20220106222728"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-p32-custom-volkswagen-beetle",
+                "toy_number": "Custom Volkswagen Beetle",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): P32",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Yellow",
+                    "casting": "MD",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/HBM01_-_Custom_Volkswagen_Beetle-1-2.jpg/revision/latest?cb=20220106222426"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-black-hbm02",
+                "toy_number": "HBM02",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRA"
+                    },
+                    "theme": "Porsche 962",
+                    "casting": "Porsche 962",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to FLC29 Base code(s): P32",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/HBM02_-_Porsche_962_Advan-1-2.jpg/revision/latest?cb=20220106205724"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-p32-porsche-962",
+                "toy_number": "Porsche 962",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): P32",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/HBM02_-_Porsche_962_Valvoline-1-2.jpg/revision/latest?cb=20220106205911"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-black-hcy71",
+                "toy_number": "HCY71",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "Formula Drift / RTR",
+                    "casting": "'21 Ford Mustang RTR Spec 5",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P49",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/%2721MustangRTR.jpg/revision/latest?cb=20220415114322"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-grj80-base-codes-p49-20-ford-mustang-rtr-spec-5",
+                "toy_number": "'20 Ford Mustang RTR Spec 5",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to GRJ80 Base code(s): P49",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Black",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/%2720MustangRTR.jpg/revision/latest?cb=20220415114308"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-metalflake-silver-hcy75",
+                "toy_number": "HCY75",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "NISMO",
+                    "casting": "Nissan Skyline GT-R (BNR32)",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P49",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/LQDPJxZXjLPGoGzNAc7NA-CwgYyS6LMRRPUCkIHyRUDxAQ_992_462.jpg/revision/latest?cb=20220525142100"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-fyt10-base-codes-p49-nissan-skyline-gt-r-bnr34",
+                "toy_number": "Nissan Skyline GT-R (BNR34)",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to FYT10 Base code(s): P49",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Metalflake silver",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/LQDPJxZXjLPGnqTNAZjNA3ywPnRWonDjkgkCkIHx3cDxAA_892_408.jpg/revision/latest?cb=20220525141808"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-orange-blue-hcy76",
+                "toy_number": "HCY76",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRSteelie"
+                    },
+                    "theme": "Plymouth",
+                    "casting": "'70 Plymouth Superbird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to FYT07 Base code(s): P49",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/Superbird256841.png/revision/latest?cb=20220526142037"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-p49-70-roadrunner",
+                "toy_number": "'70 Roadrunner",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): P49",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Blue & Orange",
+                    "casting": "RRPrf",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/Roadrunner168453254.png/revision/latest?cb=20220525143916"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-black-hcy74",
+                "toy_number": "HCY74",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MD"
+                    },
+                    "theme": "Knight Rider",
+                    "casting": "K.I.T.T.",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to FVD06 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/20221206_235211.jpg/revision/latest?cb=20221231014706"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-fvd07-base-codes-karr",
+                "toy_number": "K.A.R.R.",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to FVD07 Base code(s):",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Black",
+                    "casting": "MD",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/2022_KARR.JPG/revision/latest?cb=20230116013739"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-ikazuchi-yellow-hff33",
+                "toy_number": "HFF33",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Ikazuchi Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "Nissan Z",
+                    "casting": "Nissan Z Proto",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New Die-Cast Chassis Base code(s): R09",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Z_proto_2.jpg/revision/latest?cb=20220617090345"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-flc08-base-codes-r10-nissan-fairlady-z",
+                "toy_number": "Nissan Fairlady Z",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to FLC08 Base code(s): R10",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Bright yellow",
+                    "casting": "C4SPRR",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Fair_Z_2.jpg/revision/latest?cb=20220617090345"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hcy73",
+                "toy_number": "HCY73",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8DOT"
+                    },
+                    "theme": "Group B",
+                    "casting": "Lancia Rally 037",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GJP93 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/LanciaRally037.jpg/revision/latest?cb=20221229021936"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-84-audi-sport-quattro",
+                "toy_number": "'84 Audi Sport quattro",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s):",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Audiquattro.jpg/revision/latest?cb=20221229021958"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hff31",
+                "toy_number": "HFF31",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRSteelie"
+                    },
+                    "theme": "Classic Stock Cars",
+                    "casting": "'69 Ford Torino Talladega",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R29, R30, R31",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/230131123034440.jpg/revision/latest?cb=20230212094902"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-r29-r30-r31-66-chevelle",
+                "toy_number": "'66 Chevelle",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): R29, R30, R31",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "WGYRRS",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/CHEVELLE66-2022-01B.jpg/revision/latest?cb=20230119200420"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-grigio-telesto-hff32",
+                "toy_number": "HFF32",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grigio Telesto",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "Lamborghini",
+                    "casting": "Lamborghini Aventador Coupé",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Similar to GJR43 Base code(s): R29, R30, R31",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/LamborghiniAventador.jpg/revision/latest?cb=20230317055213"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-r29-r30-r31-lamborghini-huracn-lp-610-4",
+                "toy_number": "Lamborghini Huracán LP 610-4",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): R29, R30, R31",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Blu Notte",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/2014LamborghiniHurac%C3%A1n.jpg/revision/latest?cb=20230317055227"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hff30",
+                "toy_number": "HFF30",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRA"
+                    },
+                    "theme": "Group 5",
+                    "casting": "BMW M1 Procar",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R30, R31",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Group_5_2_Car_BMW.JPG/revision/latest?cb=20230218050551"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-grm01-base-codes-r30-r31-lancia-stratos-group-5",
+                "toy_number": "Lancia Stratos Group 5",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to GRM01 Base code(s): R30, R31",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Group_5_2_Car_Lancia.JPG/revision/latest?cb=20230218050559"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-yellow-hff29",
+                "toy_number": "HFF29",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRDragS & Mini RR5SP"
+                    },
+                    "theme": "Snake and Mongoose",
+                    "casting": "'72 Plymouth Cuda FC",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Updated tooling Similar to FLF57 Base code(s): R40",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/0230212174709.jpg/revision/latest?cb=20230212095002"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-updated-tooling-similar-to-flf58-base-codes-r40-r41-plymouth-duster-funny-car",
+                "toy_number": "Plymouth Duster Funny Car",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Updated tooling Similar to FLF58 Base code(s): R40, R41",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Red",
+                    "casting": "RRDragS & Mini RR5SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/0230212174622.jpg/revision/latest?cb=20230212095028"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hcy72",
+                "toy_number": "HCY72",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "theme": "Ford GT",
+                    "casting": "'16 Ford GT Race",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Similar to GJT40 Base code(s): R40, R41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/CGRUKGTLMGTE.jpg/revision/latest?cb=20221228232808"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-r40-r41-16-ford-gt-race",
+                "toy_number": "'16 Ford GT Race",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): R40, R41",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Light blue",
+                    "casting": "RR10SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/CGRUSGTLMGTE.jpg/revision/latest?cb=20221228232823"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-abyss-black-hff97",
+                "toy_number": "HFF97",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Abyss Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "McLaren",
+                    "casting": "McLaren Senna",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R40, R42",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Car_culture_2-packs_Senna.jpg/revision/latest?cb=20250722213017"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-r40-r44-mclaren-720s",
+                "toy_number": "McLaren 720S",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): R40, R44",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Azores",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Car_culture_2-packs_720S.jpg/revision/latest?cb=20250722213952"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-red-hkf49",
+                "toy_number": "HKF49",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "theme": "Silhouettes",
+                    "casting": "Nissan Skyline Silhouette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to FYN66 Base code(s): S07, S08",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/NissanSkylineSilhouette.jpg/revision/latest?cb=20230323060529"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hcj81-base-codes-s07-s08-lb-er34-super-silhouette-nissan-skyline",
+                "toy_number": "LB-ER34 Super Silhouette Nissan Skyline",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HCJ81 Base code(s): S07, S08",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Red",
+                    "casting": "RR5SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/LBSSR34.jpg/revision/latest?cb=20230323060547"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-blue-hkf51",
+                "toy_number": "HKF51",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "theme": "Race Cars",
+                    "casting": "Pandem Subaru BRZ",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to FYN76 Base code(s): S08",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/PandemSubaruBRZ.jpg/revision/latest?cb=20230317055241"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-new-casting-base-codes-s08-lexus-rc-f-gt3",
+                "toy_number": "Lexus RC F GT3",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "New Casting Base code(s): S08",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Matte black",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/LexusRCFGT3.jpg/revision/latest?cb=20230317055304"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hkf56",
+                "toy_number": "HKF56",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRSteelie"
+                    },
+                    "theme": "Classic Muscle",
+                    "casting": "'63 Plymouth Belvedere 426 Wedge",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S07, S08, S10, S16",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/0230611174850.jpg/revision/latest?cb=20230611095057"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-similar-to-fvn72-base-codes-s07-s08-s10-s16-65-dodge-coronet",
+                "toy_number": "'65 Dodge Coronet",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Similar to FVN72 Base code(s): S07, S08, S10, S16",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Light Yellow",
+                    "casting": "DDRR & RRPrf",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/0230611174844.jpg/revision/latest?cb=20230611095057"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-black-hkf53",
+                "toy_number": "HKF53",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "HKS",
+                    "casting": "MBK Van",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GRL42 Base code(s): S29",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/MBKVan.jpg/revision/latest?cb=20231111114032"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-s29-nissan-skyline-gt-r-bcnr33",
+                "toy_number": "Nissan Skyline GT-R (BCNR33)",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): S29",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Black",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/HKSR33.jpg/revision/latest?cb=20231111114049"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-orange-hkf54",
+                "toy_number": "HKF54",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Toyota Supra",
+                    "casting": "2021 Toyota GR Supra",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GRL80 to Base code(s): S27, S29",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/11195932.jpg/revision/latest?cb=20231111120023"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-gmh41-base-codes-s27-s29-toyota-supra",
+                "toy_number": "Toyota Supra",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to GMH41 Base code(s): S27, S29",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Orange",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/1111195923.jpg/revision/latest?cb=20231111120004"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-gulf-racing-blue-hkf58",
+                "toy_number": "HKF58",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gulf Racing Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "theme": "Ford Mustang",
+                    "casting": "1969 Ford Mustang Boss 302",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GFY03 Base code(s): S27, S28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/195928.jpg/revision/latest?cb=20231111120055"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-s27-s28-s29-2014-custom-mustang",
+                "toy_number": "2014 Custom Mustang",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): S27, S28, S29",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Gulf Racing Blue",
+                    "casting": "RR5SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/11195939.jpg/revision/latest?cb=20231111120127"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hkf55",
+                "toy_number": "HKF55",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GYERREURO"
+                    },
+                    "theme": "BMW",
+                    "casting": "'73 BMW 3.0 CSL Race Car",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S39, S40",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/BMWCSL.jpg/revision/latest?cb=20231122132657"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-new-casting-base-codes-s39-s40-bmw-320-group-5",
+                "toy_number": "BMW 320 Group 5",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "New Casting Base code(s): S39, S40",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RR8SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/BMW320TurboGroup5.jpg/revision/latest?cb=20231122132710"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-indy-orange-metallic-hkf50",
+                "toy_number": "HKF50",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Indy Orange Metallic",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRLW5"
+                    },
+                    "theme": "Holden",
+                    "casting": "'73 Holden Monaro GTS",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to HCR02 Base code(s): S38, S39",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/20240327104107.jpg/revision/latest?cb=20240327024126"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-s38-s39-77-holden-torana-a9x",
+                "toy_number": "'77 Holden Torana A9X",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): S38, S39",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RR8SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/77_Holden_Torana_A9X_2PK.JPG/revision/latest?cb=20240415113536"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-blue-hkf59",
+                "toy_number": "HKF59",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Mitsubishi",
+                    "casting": "Mitsubishi Lancer Evolution VI",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GRJ89 Base code(s): S38",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/MitsubishiEvoVI.jpg/revision/latest?cb=20240107132241"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-s38-95-mitsubishi-eclipse",
+                "toy_number": "'95 Mitsubishi Eclipse",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): S38",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Red",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/MitsubishiEclipse.jpg/revision/latest?cb=20240107132339"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-ebony-metallic-hkf52",
+                "toy_number": "HKF52",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Ebony Metallic",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "theme": "Bugatti",
+                    "casting": "Bugatti Veyron",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New Die-Cast Chassis Base code(s): S47, S48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/2023-Car_Culture_2pk_HKF52_Bugatti_Veyron_open-4.jpg/revision/latest?cb=20240225040156"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-s47-s48-16-bugatti-chiron",
+                "toy_number": "'16 Bugatti Chiron",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): S47, S48",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Two-tone silver and black",
+                    "casting": "RR5SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/2023-Car_Culture_2pk_HKF52_Bugatti_Chiron_open-4.jpg/revision/latest?cb=20240226074408"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-dark-blue-hkf60",
+                "toy_number": "HKF60",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Subaru",
+                    "casting": "'16 Subaru WRX STI",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GRL97 Base code(s): S47, S48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/20240406092219.jpg/revision/latest?cb=20240406012232"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-s47-s48-subaru-impreza-wrx",
+                "toy_number": "Subaru Impreza WRX",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): S47, S48",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Silver",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/20240406092214.jpg/revision/latest?cb=20240406012232"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-metallic-silver-hyf04",
+                "toy_number": "HYF04",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MiniRR6SPM"
+                    },
+                    "theme": "Nissan",
+                    "casting": "'91 Nissan Sentra SE-R",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S47, S48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/0240406092152.jpg/revision/latest?cb=20240406012232"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-s48-s49-nissan-silvia-s13",
+                "toy_number": "Nissan Silvia (S13)",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): S48, S49",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Light green",
+                    "casting": "RR5SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/240406092207.jpg/revision/latest?cb=20240406012230"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-red-hrr73",
+                "toy_number": "HRR73",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "theme": "Ford Rally",
+                    "casting": "'87 Ford Sierra Cosworth",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T01, T02, T03, T04",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/2024_Car_Culture_2-Packs_Mix1_%2787_Cosworth.jpg/revision/latest?cb=20240326114810"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hkf17-base-codes-t02-t03-t04-93-ford-escort-rs-cosworth",
+                "toy_number": "'93 Ford Escort RS Cosworth",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HKF17 Base code(s): T02, T03, T04",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RRA",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/20240522140350.jpg/revision/latest?cb=20240522060409"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-metalflake-dark-gray-hrr75",
+                "toy_number": "HRR75",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake dark gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MiniC4SP"
+                    },
+                    "theme": "Mazda Street",
+                    "casting": "'04 Mazda Mazdaspeed Miata",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T02, T03",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/20240522140355.jpg/revision/latest?cb=20240522060407"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hcj86-base-codes-t02-t03-mazda-rx7-fc-pandem",
+                "toy_number": "Mazda RX7 FC Pandem",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HCJ86 Base code(s): T02, T03",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "MiniRR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/20240522140334.jpg/revision/latest?cb=20240522060408"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hrr76",
+                "toy_number": "HRR76",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORRRBL10SP"
+                    },
+                    "theme": "Off-Road",
+                    "casting": "'05 Toyota Land Cruiser Prado",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T02, T03, T04",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/20240420180101.jpg/revision/latest?cb=20240420100231"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-t02-t03-t04-mercedes-benz-sprinter-tourer",
+                "toy_number": "Mercedes-Benz Sprinter Tourer",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): T02, T03, T04",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Cream",
+                    "casting": "RRS",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/20240420180109.jpg/revision/latest?cb=20240420100349"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-metalflake-gold-hrr77",
+                "toy_number": "HRR77",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORRR6SPM"
+                    },
+                    "theme": "Ford Trucks",
+                    "casting": "Ford Bronco R",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T07, T09",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/20240508194129.jpg/revision/latest?cb=20240508114209"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-fyn71-base-codes-t07-t09-17-ford-f-150-raptor",
+                "toy_number": "'17 Ford F-150 Raptor",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to FYN71 Base code(s): T07, T09",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Metalflake black",
+                    "casting": "ORRR8DOT",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/20240508194135.jpg/revision/latest?cb=20240508114209"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-gulf-racing-blue-hrr81",
+                "toy_number": "HRR81",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gulf Racing Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "theme": "Italian Rally",
+                    "casting": "Lancia Rally 037",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GRK49 Base code(s): T07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/20240508194122.jpg/revision/latest?cb=20240508114200"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-t06-t09-fiat-131-abarth",
+                "toy_number": "Fiat 131 Abarth",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): T06, T09",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Gulf Racing Blue",
+                    "casting": "MiniC4SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/20240508194055.jpg/revision/latest?cb=20240508114211"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-blue-hrr83",
+                "toy_number": "HRR83",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Volkswagen",
+                    "casting": "Volkswagen Jetta MK3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/20240508194117.jpg/revision/latest?cb=20240508114203"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-grk69-base-codes-t07-volkswagen-id-r",
+                "toy_number": "Volkswagen ID R",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to GRK69 Base code(s): T07",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Black",
+                    "casting": "RRA",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/20240508194109.jpg/revision/latest?cb=20240508114208"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-hrr84",
+                "toy_number": "HRR84",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Nissan Silvia",
+                    "casting": "Nissan 240SX (S14)",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/S14_twin.JPG/revision/latest?cb=20240826091938"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-t28-nissan-silvia-s15",
+                "toy_number": "Nissan Silvia (S15)",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): T28",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RR5SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/S15_twin.JPG/revision/latest?cb=20240826092009"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-blue-hrr74",
+                "toy_number": "HRR74",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "Nissan Race Cars",
+                    "casting": "'94 Nissan Primera",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New Casting Base code(s): T28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/%2794NissanPrimera.jpg/revision/latest?cb=20240815140742"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-new-die-cast-chassis-base-codes-t28-nissan-r390-gt1",
+                "toy_number": "Nissan R390 GT1",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "New Die-Cast Chassis Base code(s): T28",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Black",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/NissanR390.jpg/revision/latest?cb=20240815140804"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-blue-hrr80",
+                "toy_number": "HRR80",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "theme": "Corvette",
+                    "casting": "Custom Corvette Stingray Coupe",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GJT41 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/-24_CUSTOM_CORVETTE_STINGRAY_COUPE_%24_FLEET_FLYER_%2825%29.jpg/revision/latest?cb=20201108002356"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-69-copo-corvette",
+                "toy_number": "'69 COPO Corvette",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s):",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RRMag",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/2024_Car_Culture_2_Pack_COPO_Corvette.jpg/revision/latest?cb=20250111073455"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-pink-hrr78",
+                "toy_number": "HRR78",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRA"
+                    },
+                    "theme": "Nissan Trucks",
+                    "casting": "1975 Datsun Sunny Truck (B120)",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T30",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/RetrowaveSunny.jpg/revision/latest?cb=20241219082614"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-fyn84-base-codes-t31-custom-93-nissan-hardbody-d21",
+                "toy_number": "Custom '93 Nissan Hardbody (D21)",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to FYN84 Base code(s): T31",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Turquoise",
+                    "casting": "RR10SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/NissanD21.jpg/revision/latest?cb=20241219082630"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-yellow-hrr82",
+                "toy_number": "HRR82",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "theme": "Porsche",
+                    "casting": "Porsche 993 GT2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Similar to X8240 Base code(s): T31",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/25_HW_Porsche_993_GT2_Front.jpg/revision/latest?cb=20250304172136"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-t31-porsche-718-cayman-gt4",
+                "toy_number": "Porsche 718 Cayman GT4",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): T31",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Agate Gray Metallic",
+                    "casting": "RR5SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Polish_20250423_050623422.jpg/revision/latest?cb=20250423030729"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-nogaro-blue-jdy32",
+                "toy_number": "JDY32",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Nogaro Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "theme": "Audi",
+                    "casting": "Audi S4 quattro",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GRJ69 Base code(s): T31, T33",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Audi_S4_Quattro_Blue.jpg/revision/latest?cb=20240911134751"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-t31-t33-audi-r8-lms",
+                "toy_number": "Audi R8 LMS",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): T31, T33",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Gray",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/Audi_r8_lms.jpg/revision/latest?cb=20240911134223"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-metalflake-light-orange-jbl06",
+                "toy_number": "JBL06",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake light orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "AMC",
+                    "casting": "'71 AMC Javelin",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T46, T47A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/JBL06-javelin.jpg/revision/latest?cb=20251110082009"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hcr38-base-codes-t47a-t49-amc-rebel-machine",
+                "toy_number": "AMC Rebel Machine",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HCR38 Base code(s): T47A, T49",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "SRR",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/JBL06-rebel.jpg/revision/latest?cb=20251110083151"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-gloss-black-jbk96",
+                "toy_number": "JBK96",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gloss black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRE"
+                    },
+                    "theme": "Nissan Silvia",
+                    "casting": "'96 Nissan 180SX Type X",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Similar to FYN78 Base code(s): T47A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/%2796Nissan180SX.jpg/revision/latest?cb=20251026131405"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-t46-t47a-nissan-sileighty",
+                "toy_number": "Nissan SilEighty",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): T46, T47A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/NissanSileighty.jpg/revision/latest?cb=20251026131431"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-red-jbk97",
+                "toy_number": "JBK97",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MiniC4SP"
+                    },
+                    "theme": "Mini",
+                    "casting": "Morris Mini",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T45, T48A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/2025CarCulture.jpg/revision/latest?cb=20250102050032"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-similar-to-hcr03-base-codes-t45-t48a-67-austin-mini-pickup",
+                "toy_number": "'67 Austin Mini Pickup",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Similar to HCR03 Base code(s): T45, T48A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "British Racing Green",
+                    "casting": "RRA",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/486801600_10162519816565482_191991796942963987_n.jpg/revision/latest?cb=20250927231312"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-rosso-siviglia-jbl02",
+                "toy_number": "JBL02",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Rosso Siviglia",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "theme": "Marcello Gandini",
+                    "casting": "Lamborghini Countach LP5000 QV",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Similar to HCK09 Base code(s): T51A, T52A, U02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/GandiniLambo.jpg/revision/latest?cb=20250224123154"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-t51a-t52a-u02-lancia-stratos-zero",
+                "toy_number": "Lancia Stratos Zero",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): T51A, T52A, U02",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Silver",
+                    "casting": "RRA",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Stratos0.jpg/revision/latest?cb=20250224123138"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-jbk99",
+                "toy_number": "JBK99",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "theme": "BMW Race Cars",
+                    "casting": "BMW 320 Group 5",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to HKF55 Base code(s): T52, U03A, U05A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/BMWGroup5.jpg/revision/latest?cb=20250224123229"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-new-casting-base-codes-u02-u05a-2001-bmw-m3-gtr",
+                "toy_number": "2001 BMW M3 GTR",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "New Casting Base code(s): U02, U05A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RREURO",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/BMWM3GTR.jpg/revision/latest?cb=20250224123211"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-yellow-jbl00",
+                "toy_number": "JBL00",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "Spoon Honda",
+                    "casting": "'99 Honda Civic Type R (EK9)",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): U02",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/SpoonEK9.jpg/revision/latest?cb=20250224123246"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hrt61-base-codes-u02-honda-civic-type-r",
+                "toy_number": "Honda Civic Type R",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HRT61 Base code(s): U02",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Yellow",
+                    "casting": "RR5SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/SpoonFL5.jpg/revision/latest?cb=20250224123303"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-red-jbk98",
+                "toy_number": "JBK98",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORRRA"
+                    },
+                    "theme": "Off-Road",
+                    "casting": "Subaru Crosstrek",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New Casting Base code(s): U22A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/SubaruCrosstrek.jpg/revision/latest?cb=20250715125533"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-grm08-base-codes-u22a-2018-toyota-4runner",
+                "toy_number": "2018 Toyota 4Runner",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to GRM08 Base code(s): U22A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Super White",
+                    "casting": "ORRR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/Toyota4RunnerTRD.jpg/revision/latest?cb=20250715125546"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-jbl01",
+                "toy_number": "JBL01",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRDragS & MiniRR5SP"
+                    },
+                    "theme": "Snake",
+                    "casting": "'72 Plymouth Cuda FC",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Similar to HCR40 Base code(s): U22A, U23A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/SnakeFC.jpg/revision/latest?cb=20250715125632"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-new-casting-base-codes-u22a-robn-pinks",
+                "toy_number": "Rob'n Pinks",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "New Casting Base code(s): U22A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Yellow",
+                    "casting": "RRDragS & Mini RRDragD",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/Robbin%27Pinks.jpg/revision/latest?cb=20250716020224"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-jbl03",
+                "toy_number": "JBL03",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "theme": "Toyota",
+                    "casting": "Toyota 2000GT",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to GRJ98 Base code(s): U21A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Toyota2000GTRace.jpg/revision/latest?cb=20250715125724"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-u22a-toyota-supra",
+                "toy_number": "Toyota Supra",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): U22A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "White",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/ToyotaSupraCustom.jpg/revision/latest?cb=20250715125706"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-pearlescent-spectre-silver-jbl04",
+                "toy_number": "JBL04",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearlescent Spectre Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Spectre",
+                    "casting": "Aston Martin DB10",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Similar to FYP63 Base code(s): U31A, U33A, U34A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/AMRDB10.jpg/revision/latest?cb=20250820130734"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-new-casting-base-codes-u31a-u33a-jaguar-c-x75",
+                "toy_number": "Jaguar C-X75",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "New Casting Base code(s): U31A, U33A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Firesand",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/JaguarC-X75.jpg/revision/latest?cb=20250820130747"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-matte-black-jbk95",
+                "toy_number": "JBK95",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Alfa Romeo",
+                    "casting": "Alfa Romeo 155 V6 TI",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): U31A, U34A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/Alfa155TI.jpg/revision/latest?cb=20250820130800"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-gjt78-base-codes-u31a-u34a-69-alfa-romeo-33-stradale",
+                "toy_number": "'69 Alfa Romeo 33 Stradale",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to GJT78 Base code(s): U31A, U34A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Rosso Alfa",
+                    "casting": "RR8SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/1969AlfaRomeo33Stradale.jpg/revision/latest?cb=20250820130814"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-white-jbl05",
+                "toy_number": "JBL05",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "theme": "Nissan GT-R",
+                    "casting": "Nissan GT-R NISMO GT3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): U31A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/NISMOGT-RGT3.jpg/revision/latest?cb=20250820130826"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-u31a-nissan-gt-r-r35",
+                "toy_number": "Nissan GT-R (R35)",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s): U31A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Millenium Jade",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/JadeR35.jpg/revision/latest?cb=20250820130850"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-red-jhw46",
+                "toy_number": "JHW46",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRSPLIT6"
+                    },
+                    "theme": "Japanese Wagons",
+                    "casting": "2005 Mitsubishi Lancer Evolution IX Wagon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New Casting Base code(s): U37A, U43A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/EvoWagon.jpg/revision/latest?cb=20251111082645"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hrv74-base-codes-u37a-u43a-2004-subaru-forester-sti",
+                "toy_number": "2004 Subaru Forester STi",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HRV74 Base code(s): U37A, U43A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "WR Blue Mica",
+                    "casting": "RR10SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/2004Forester.jpg/revision/latest?cb=20251111082701"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-plum-crazy-jhw47",
+                "toy_number": "JHW47",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Plum Crazy",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SPM"
+                    },
+                    "theme": "Dodge SRT Hellcat",
+                    "casting": "2018 Dodge Challenger SRT Demon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): U37A, U43A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/2018Demon.jpg/revision/latest?cb=20251111082716"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-new-die-cast-chassis-base-codes-u37a-u43a-2015-dodge-charger-srt",
+                "toy_number": "2015 Dodge Charger SRT",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "New Die-Cast Chassis Base code(s): U37A, U43A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "B5 Blue",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/2015Charger.jpg/revision/latest?cb=20251111082847"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-red-jhw51",
+                "toy_number": "JHW51",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "C4SPRR / RRA"
+                    },
+                    "theme": "Porsche 935",
+                    "casting": "Porsche 935",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): U37A, U43A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/Porsche935-76.jpg/revision/latest?cb=20251111082918"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hkf36-base-codes-u37a-u43a-2018-porsche-935",
+                "toy_number": "2018 Porsche 935",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HKF36 Base code(s): U37A, U43A",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Red",
+                    "casting": "RRA",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/2018Porsche935.jpg/revision/latest?cb=20251111082939"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-deep-blue-pearl-jhw49",
+                "toy_number": "JHW49",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Deep Blue Pearl",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "theme": "Volkswagen Golf",
+                    "casting": "2004 Volkswagen Golf R32",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New Casting Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hrv79-base-codes-volkswagen-golf-mk7",
+                "toy_number": "Volkswagen Golf Mk7",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HRV79 Base code(s):",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Mystic Blue Pearl",
+                    "casting": "RR6SPM",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-zamac-jhw48",
+                "toy_number": "JHW48",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "TRR"
+                    },
+                    "theme": "Back to the Future",
+                    "casting": "Back to the Future Time Machine",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to JBL65 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-identical-to-hkc20-base-codes-1987-toyota-pickup-truck",
+                "toy_number": "1987 Toyota Pickup Truck",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Identical to HKC20 Base code(s):",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Black",
+                    "casting": "GYORRRPrf",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-blue-jhw50",
+                "toy_number": "JHW50",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GYSRR"
+                    },
+                    "theme": "Ford Racers",
+                    "casting": "Custom '64 Galaxie 500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Identical to FYT15 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-car-culture-2-packs-base-codes-67-ford-anglia-racer",
+                "toy_number": "'67 Ford Anglia Racer",
+                "casting_id": "car-culture-2-packs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Base code(s):",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "theme": "Forest green",
+                    "casting": "RR8SP",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

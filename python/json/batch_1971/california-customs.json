@@ -1,0 +1,1440 @@
+[
+    {
+        "casting_id": "california-customs",
+        "name": "California Customs",
+        "description": {
+            "en-us": "California Customs Produced 1990 - 1991",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": 1990,
+        "manufacturer": "California",
+        "releases": [
+            {
+                "release_id": "0-california-customs-metalflake-blue-1299",
+                "toy_number": "1299",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Pink, White, Magenta, Fluor.Green \"34\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "car_name": "3-Window '34"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/3-Window_%2734_CCBlu.JPG/revision/latest?cb=20091010072212"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-lime-1299",
+                "toy_number": "1299",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Lime",
+                    "tampo": "Lt.Blue, Dk. blue Orange, \"34\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "car_name": "3-Window '34"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/3-Window_%2734_BrtRR.JPG/revision/latest?cb=20091010072210"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-lime-1299-v2",
+                "toy_number": "1299",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Lime",
+                    "tampo": "Lt.Blue, Dk. blue Orange, \"34\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "3-Window '34"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/3-Window_%2734_BrtYW.JPG/revision/latest?cb=20091010072211"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-lime-1299-v3",
+                "toy_number": "1299",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Lime",
+                    "tampo": "Lt.Blue, Black ,  Orange, \"34\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "3-Window '34"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/3_Window_34-20671.jpg/revision/latest?cb=20141231061242"
+                }
+            },
+            {
+                "release_id": "0-california-customs-gold-chrome-w-dark-brown-fenders-3371",
+                "toy_number": "3371",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome w/ Dark Brown fenders",
+                    "tampo": "Blue and White \"Studio Limo\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "car_name": "'35 Classic Caddy"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/%2735_Classic_Caddy_GldBlk.jpg/revision/latest?cb=20091021233820"
+                }
+            },
+            {
+                "release_id": "0-california-customs-gold-chrome-w-gold-chrome-fenders-3371",
+                "toy_number": "3371",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome w/ Gold Chrome fenders",
+                    "tampo": "Blue and White \"Studio Limo\"",
+                    "base_color": "Blue tinted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "car_name": "'35 Classic Caddy"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/%2735_Classic_Caddy_Gld.JPG/revision/latest?cb=20091021233517"
+                }
+            },
+            {
+                "release_id": "0-california-customs-turquoise-1229",
+                "toy_number": "1229",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "BW Yellow"
+                    },
+                    "car_name": "'40's Woodie"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/California_Customs_%2740%27s_Woodie_-_6185df.jpg/revision/latest?cb=20081102055715"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-yellow-1229",
+                "toy_number": "1229",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Yellow",
+                    "tampo": "yellow \"Cal Customs\" on roof",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "BW Yellow"
+                    },
+                    "car_name": "'40's Woodie"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/CalCustom.jpg/revision/latest?cb=20150708093125"
+                }
+            },
+            {
+                "release_id": "0-california-customs-bright-orange-1297",
+                "toy_number": "1297",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bright Orange",
+                    "tampo": "Pink, Blue, Silver \"'57\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Blue tint",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "car_name": "'57 Chevy"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/57_Chevy_CalCustRR.JPG/revision/latest?cb=20090309022520"
+                }
+            },
+            {
+                "release_id": "0-california-customs-purple-chrome-1305",
+                "toy_number": "1305",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple Chrome",
+                    "tampo": "Blue and Pink tampos (Cal Custom)",
+                    "base_color": "",
+                    "base_type": "Unpainted Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "Yellow Hub RR"
+                    },
+                    "car_name": "Split Window '63"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Th_63corvette009.jpg/revision/latest?cb=20080821193048"
+                }
+            },
+            {
+                "release_id": "0-california-customs-purple-chrome-1305-v2",
+                "toy_number": "1305",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple Chrome",
+                    "tampo": "Blue and Pink",
+                    "base_color": "",
+                    "base_type": "Unpainted Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "car_name": "Split Window '63"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/IMG_4801.JPG/revision/latest?cb=20220311170624"
+                }
+            },
+            {
+                "release_id": "0-california-customs-purple-chrome-1305-v3",
+                "toy_number": "1305",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple Chrome",
+                    "tampo": "Teal and Pink",
+                    "base_color": "",
+                    "base_type": "Unpainted Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "car_name": "Split Window '63"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/IMG_4800.JPG/revision/latest?cb=20220311170607"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-enamel-pink-1305",
+                "toy_number": "1305",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent enamel pink",
+                    "tampo": "Blue and Dk. yellow stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "car_name": "Split Window '63"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/IMG_4799.JPG/revision/latest?cb=20220311170136"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-green-1241",
+                "toy_number": "1241",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Green",
+                    "tampo": "Blue and White wave tampo",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear w/\"Cal Custom\" tampo",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "Yellow Hub RR"
+                    },
+                    "car_name": "'65 Mustang Convertible"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/%2765_Mustang_CalCust_RR.jpg/revision/latest?cb=20081107052918"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-green-1241-v2",
+                "toy_number": "1241",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Green",
+                    "tampo": "Black and White wave tampo",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear w/\"Cal Custom\" tampo",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "Yellow Hub TW"
+                    },
+                    "car_name": "'65 Mustang Convertible"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/GreenBlackCC.jpg/revision/latest?cb=20090310231211"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-green-1241-v3",
+                "toy_number": "1241",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Green",
+                    "tampo": "Blue and White wave tampo",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear w/\"Cal Custom\" tampo",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "Yellow Hub TW"
+                    },
+                    "car_name": "'65 Mustang Convertible"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/GreenCCTW.jpg/revision/latest?cb=20090310235139"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-orange-4980",
+                "toy_number": "4980",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Orange",
+                    "tampo": "Blue & White wave tampo",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue & Pink \"Cal Custom\" tampo",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "Blue Hub TW"
+                    },
+                    "car_name": "'65 Mustang Convertible"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/OrangeBlueCC.jpg/revision/latest?cb=20090310231300"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-orange-4980-v2",
+                "toy_number": "4980",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Orange",
+                    "tampo": "Blue & White wave tampo",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue w/ Pink \"Cal Custom\" tampo",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "Blue Hub TW"
+                    },
+                    "car_name": "'65 Mustang Convertible"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/OrangePinkCC.jpg/revision/latest?cb=20090310231348"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-pink-1238",
+                "toy_number": "1238",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Pink",
+                    "tampo": "Purple, Blue, Yellow, Black",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "N/A",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Baja Bug"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/Baja_Bug_PnkCCRR.JPG/revision/latest?cb=20091018130702"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-pink-1238-v2",
+                "toy_number": "1238",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Pink",
+                    "tampo": "Purple, Blue, Yellow, Black",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "N/A",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "car_name": "Baja Bug"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Baja_Bug_PnkCCbw.JPG/revision/latest?cb=20091018130702"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-1289",
+                "toy_number": "1289",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Orange, blue, Pink \"California Customs\"",
+                    "base_color": "",
+                    "base_type": "Unpainted Metal",
+                    "window_color": "Smoked tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "car_name": "Blown Camaro"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/Blown_Camaro_CCrr.JPG/revision/latest?cb=20090115002430"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-1289-v2",
+                "toy_number": "1289",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Orange, blue, Pink \"California Customs\"",
+                    "base_color": "",
+                    "base_type": "Unpainted Metal",
+                    "window_color": "Smoked tint",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Blown Camaro"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/Blown_Camaro_CCtw.JPG/revision/latest?cb=20090115002447"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-1289-v3",
+                "toy_number": "1289",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Orange, blue, Pink \"California Customs\"",
+                    "base_color": "",
+                    "base_type": "Unpainted Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Blown Camaro"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-california-customs-red-1289",
+                "toy_number": "1289",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Orange, blue, Pink \"California Customs\"",
+                    "base_color": "",
+                    "base_type": "Unpainted Metal",
+                    "window_color": "Smoked tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Blown Camaro"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/California_Custom_Red_Camaro.jpg/revision/latest?cb=20221005154559"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-yellow-2104",
+                "toy_number": "2104",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Yellow",
+                    "tampo": "Bright Orange, White, Blue \"3\" \"GOOD YEAR\" on wing",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Chrome",
+                    "interior_color": "unseen",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Camaro Wind"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/Camaro_Wind_AGENTAIR_2.jpg/revision/latest?cb=20081001050547"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-1296",
+                "toy_number": "1296",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black, Pink \"COBRA\" \"7\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear w/Yellow \"Cal Customs\"",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "car_name": "Classic Cobra"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Classic_Cobra_CalCus.JPG/revision/latest?cb=20090219203234"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-1296-v2",
+                "toy_number": "1296",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black, Pink \"COBRA\" \"7\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear w/Yellow \"Cal Customs\"",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "Grey RR w/ chrome lip"
+                    },
+                    "car_name": "Classic Cobra"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/Cobra_calrr.JPG/revision/latest?cb=20090915040555"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-2102",
+                "toy_number": "2102",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Blue, Pink and Light Green graphics",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "car_name": "Corvette Funny"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Corvette_Funny.jpg/revision/latest?cb=20081112181857"
+                }
+            },
+            {
+                "release_id": "0-california-customs-blue-chrome-1301",
+                "toy_number": "1301",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Chrome",
+                    "tampo": "Yellow, White, Pink \"Corvette\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "car_name": "Custom Corvette"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/27/Custom_Corvette_BluCCRR.JPG/revision/latest?cb=20091010205134"
+                }
+            },
+            {
+                "release_id": "0-california-customs-blue-chrome-1301-v2",
+                "toy_number": "1301",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Chrome",
+                    "tampo": "Yellow, White, Pink \"Corvette\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Custom Corvette"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/Custom_Corvette_BluCC.JPG/revision/latest?cb=20091010205133"
+                }
+            },
+            {
+                "release_id": "0-california-customs-chrome-purple-1302",
+                "toy_number": "1302",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome Purple",
+                    "tampo": "Pink & Yellow \"Ferrari\" \"3\"",
+                    "base_color": "",
+                    "base_type": "unpainted metal",
+                    "window_color": "Clear",
+                    "interior_color": "Red & Blue",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Ferrari_Testarrosa_PkCrm.JPG/revision/latest?cb=20081222053653"
+                }
+            },
+            {
+                "release_id": "0-california-customs-chrome-3368",
+                "toy_number": "3368",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Yellow, Pink, Black",
+                    "base_color": "Pink",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Mercedes 380 SEL"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Mercedes_380_Chrm.JPG/revision/latest?cb=20090314153317"
+                }
+            },
+            {
+                "release_id": "0-california-customs-gold-chrome-1303",
+                "toy_number": "1303",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "Orange  & Yellow",
+                    "base_color": "unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black Tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Pontiac Banshee"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Pontiac_Banshee_GldRdCal.jpg/revision/latest?cb=20081119233250"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-blue-2100",
+                "toy_number": "2100",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Blue",
+                    "tampo": "Pink & Yellow lightning tampo on sides",
+                    "base_color": "Light Blue",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Light Blue",
+                    "wheel_type": {
+                        "0": "TW Light Blue"
+                    },
+                    "car_name": "BMW 323"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/EBay_BMW_323_Convertible_California_Custom.jpg/revision/latest?cb=20100318004554"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-blue-1287",
+                "toy_number": "1287",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Blue",
+                    "tampo": "Blue, Yellow, Orange confetti",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "CT Orange"
+                    },
+                    "car_name": "Street Roader"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/43/Street_Roader_WhtBluOCC.JPG/revision/latest?cb=20090219165146"
+                }
+            },
+            {
+                "release_id": "0-california-customs-white-blue-1287-v2",
+                "toy_number": "1287",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Blue",
+                    "tampo": "Blue, Yellow, Orange confetti",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "car_name": "Street Roader"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/Street_Roader_WhtBluCC.JPG/revision/latest?cb=20090219165044"
+                }
+            },
+            {
+                "release_id": "0-california-customs-bright-green-2101",
+                "toy_number": "2101",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bright Green",
+                    "tampo": "Pink, Red, White, \"Surfs Up!\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "TW Yellow"
+                    },
+                    "car_name": "Path Beater"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Path_Beater_CCL.JPG/revision/latest?cb=20090929125022"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-10153",
+                "toy_number": "10153",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Yellow, Green, Blue, White Graphics",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "TW Pink"
+                    },
+                    "car_name": "'55 Nomad"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/55nomad.orangecc.jpg/revision/latest?cb=20090614153638"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-orange-1297",
+                "toy_number": "1297",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Orange",
+                    "tampo": "Pink, Blue, Silver \"'57\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Blue tint",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "'57 Chevy"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/57_Chevy_CalCustTW.JPG/revision/latest?cb=20090309022604"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-pink-2097",
+                "toy_number": "2097",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Pink",
+                    "tampo": "Yellow, Purple, Blue, White Graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "car_name": "'59 Caddy"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/59_CADDY_pink_CC.JPG/revision/latest?cb=20090815015940"
+                }
+            },
+            {
+                "release_id": "0-california-customs-metalflake-blue-2097",
+                "toy_number": "2097",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Light Green, White and Pink splashes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "'67 Camaro"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/%2767_Camaro_CalCust.jpg/revision/latest?cb=20081231051423"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-orange-1301",
+                "toy_number": "1301",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Orange",
+                    "tampo": "Yellow, White, Pink \"CORVETTE\" on hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Custom Corvette"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Custom_Corvette_CCtw.JPG/revision/latest?cb=20091010204911"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-1897",
+                "toy_number": "1897",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Blue & Yellow",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow & Red",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/Ferrari_Testarossa_BrtRed.JPG/revision/latest?cb=20081222052828"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-1897-v2",
+                "toy_number": "1897",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Blue & Yellow",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Red & Blue",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-1897-v3",
+                "toy_number": "1897",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Blue & Yellow",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow & Blue",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-1897-v4",
+                "toy_number": "1897",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Blue & Yellow",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow & Red",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Ferrari_Testarossa_BrtRedTW.JPG/revision/latest?cb=20081222052854"
+                }
+            },
+            {
+                "release_id": "0-california-customs-bright-pink-1897",
+                "toy_number": "1897",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bright Pink",
+                    "tampo": "Pink & Yellow \"Ferrari\" & \"3\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow & Red",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Ferrari_Testarossa-6974.jpg/revision/latest?cb=20150605054346"
+                }
+            },
+            {
+                "release_id": "0-california-customs-bright-pink-1897-v2",
+                "toy_number": "1897",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bright Pink",
+                    "tampo": "Blue & Yellow \"Ferrari\" & \"3\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow & Red",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/Ferrari_Testarossa-7980.jpg/revision/latest?cb=20150605054304"
+                }
+            },
+            {
+                "release_id": "0-california-customs-bright-pink-1897-v3",
+                "toy_number": "1897",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bright Pink",
+                    "tampo": "Blue & Yellow \"Ferrari\" & \"3\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear \"California Customs\"",
+                    "interior_color": "Yellow & Red",
+                    "wheel_type": {
+                        "0": "RR Yellow"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Ferrari_Testarossa-6976.jpg/revision/latest?cb=20150608060410"
+                }
+            },
+            {
+                "release_id": "0-california-customs-bright-pink-1897-v4",
+                "toy_number": "1897",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bright Pink",
+                    "tampo": "Blue & Yellow",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow & Red",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Ferrari Testarossa"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/Ferrari_Testarossa-7978.jpg/revision/latest?cb=20150608055808"
+                }
+            },
+            {
+                "release_id": "0-california-customs-pink-chrome-2108",
+                "toy_number": "2108",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink Chrome",
+                    "tampo": "Yellow, Red, Blue confetti",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "TW Yellow"
+                    },
+                    "car_name": "Porsche 911"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/Porsche_P-911_%28California_customs%29_Purple.jpg/revision/latest?cb=20170202080103"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-2108",
+                "toy_number": "2108",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Green, Blue, Black confetti",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "TW Yellow"
+                    },
+                    "car_name": "Porsche 911"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/Porsche_P-911_%28California_customs%29_Pink.jpg/revision/latest?cb=20170202080249"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-2108-v2",
+                "toy_number": "2108",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Green, Blue, Black confetti",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "TW Chrome"
+                    },
+                    "car_name": "Porsche 911"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Porsche_P-911_%28California_customs%29_HTF_Pink.jpg/revision/latest?cb=20170202080307"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-2105",
+                "toy_number": "2105",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Yellow, Blue, White \"2\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Yellow tint",
+                    "interior_color": "unpainted",
+                    "wheel_type": {
+                        "0": "TW"
+                    },
+                    "car_name": "Sol-Aire CX-4"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Sol_Aire_CalCstm.JPG/revision/latest?cb=20091010213744"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-orange-1470",
+                "toy_number": "1470",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Orange",
+                    "tampo": "White, Blue & Red stripes and confetti",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "clear",
+                    "interior_color": "pink",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "car_name": "Street Roader"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/be/Street_Roader_OrgClCst.jpg/revision/latest?cb=20081123211617"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-orange-1470-v2",
+                "toy_number": "1470",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Orange",
+                    "tampo": "White, Blue & Red stripes and confetti",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Pink",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "car_name": "Street Roader"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Street_Roader_OrgPkClCst.jpg/revision/latest?cb=20081123211738"
+                }
+            },
+            {
+                "release_id": "0-california-customs-fluorescent-red-2106",
+                "toy_number": "2106",
+                "casting_id": "california-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fluorescent Red",
+                    "tampo": "Yellow, Pink",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "TW Yellow"
+                    },
+                    "car_name": "Stutz Blackhawk"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Stutz_Blackhawk_CalC.JPG/revision/latest?cb=20090118035542"
+                }
+            }
+        ]
+    }
+]

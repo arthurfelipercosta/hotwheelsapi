@@ -1,0 +1,1371 @@
+[
+    {
+        "casting_id": "deora",
+        "name": "Deora",
+        "description": {
+            "en-us": "Deora Debut series Sweet Sixteen Produced 1968 - 1970 (Original) 1994 - 2025 ( Retool ) Designer Harry Bradley Number 6210",
+            "pt-br": ""
+        },
+        "designer": "Harry Bradley",
+        "debut_year": 1968,
+        "manufacturer": "Deora",
+        "releases": [
+            {
+                "release_id": "1968-deora-spectraflame-antifreeze-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Antifreeze",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Grey/White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/Antifreeze_Deora_-_6473df.jpg/revision/latest?cb=20081120012648"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-purple-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Grey/White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Purple_Deora_-_6475df.jpg/revision/latest?cb=20081120012931"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-gold-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Grey/White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/1968_Sweet_Sixteen_DEORA_Gold.jpg/revision/latest?cb=20211114124302"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-blue-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Grey/White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/Aqua_Deora_-_6474df.jpg/revision/latest?cb=20081120012759"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-aqua-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/1968_Sweet_Sixteen_DEORA_Aqua.jpg/revision/latest?cb=20211114124411"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-red-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Grey/White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/Red_Deora_-_6471df.jpg/revision/latest?cb=20081120012451"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-orange-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Grey/White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": "Playable in Hot Wheels: Turbo Racing"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/DeoraTROrange.JPG/revision/latest?cb=20180518073725"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-lime-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Lime",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/DSC_0223-1-.JPG/revision/latest?cb=20190513212513"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-gold-6210-v2",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Grey/White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": "Painted Base"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/1968_DEORA_Gold_Painted_Base.jpg/revision/latest?cb=20211223110844"
+                }
+            },
+            {
+                "release_id": "1968-deora-spectraflame-creamy-pink-6210",
+                "toy_number": "6210",
+                "casting_id": "deora",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Creamy Pink",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Grey/White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": "This may be the first of its kind to ever be found"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Red_Deora.jpg/revision/latest?cb=20181222193845"
+                }
+            },
+            {
+                "release_id": "1970-deora-spectraflame-aqua-6436",
+                "toy_number": "6436",
+                "casting_id": "deora",
+                "year": 1970,
+                "series_id": "sky",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": "Name Sky Show Deora"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/Skyshowdeora.jpg/revision/latest?cb=20080312162922"
+                }
+            },
+            {
+                "release_id": "1970-deora-spectraflame-aqua-6436-v2",
+                "toy_number": "6436",
+                "casting_id": "deora",
+                "year": 1970,
+                "series_id": "sky",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": "Name Sky Show Deora"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1970-deora-spectraflame-purple-6436",
+                "toy_number": "6436",
+                "casting_id": "deora",
+                "year": 1970,
+                "series_id": "sky",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": "Name Sky Show Deora"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1970-deora-spectraflame-purple-6436-v2",
+                "toy_number": "6436",
+                "casting_id": "deora",
+                "year": 1970,
+                "series_id": "sky",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White (?)",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "notes_variations": "Name Sky Show Deora"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-blue-12496",
+                "toy_number": "12496",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Deora.Vintage_Set.jpg/revision/latest?cb=20200709203652"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-light-blue-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Deora_BluFAO.JPG/revision/latest?cb=20091018142252"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-red-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "White HW logo",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/Deora_RedVntg.JPG/revision/latest?cb=20091018142253",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/3/38/Vintage_ii_pink_red.jpg/revision/latest?cb=20250619215246"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-brown-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-gold-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-magenta-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Magenta",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/DeoraVintage_-_25th_Anniv_Purple.jpg/revision/latest?cb=20090813011206"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-light-green-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-lime-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Lime",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Vintage_Deora_Lime.JPG/revision/latest?cb=20220901193139"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-olive-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/Vintage_ii_olive.jpg/revision/latest?cb=20250619215327"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-orange-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Vintage_ii_orange.jpg/revision/latest?cb=20250619215134"
+                }
+            },
+            {
+                "release_id": "1994-deora-metalflake-pink-10495",
+                "toy_number": "10495",
+                "casting_id": "deora",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Pink",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Vintage Series 8 Pack"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/Deora_PnkVntg.JPG/revision/latest?cb=20091018142253"
+                }
+            },
+            {
+                "release_id": "1995-deora-gold-chrome-13828",
+                "toy_number": "13828",
+                "casting_id": "deora",
+                "year": 1995,
+                "series_id": "fao",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Limited to 4000"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1995-deora-gold-chrome-13828-v2",
+                "toy_number": "13828",
+                "casting_id": "deora",
+                "year": 1995,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold RL",
+                        "1": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Gold Plated Limited to 1500"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/Gold_Deora.JPG/revision/latest?cb=20220929173719",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1996-deora-metalflake-blue-13828",
+                "toy_number": "13828",
+                "casting_id": "deora",
+                "year": 1996,
+                "series_id": "bonus",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "White, Red & Yellow \"Hot Wheels\" logo \"1\", Hot Wheels Race Team colors",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Mail in"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/Deora_-_96_Bonus_Car.jpg/revision/latest?cb=20090103224449"
+                }
+            },
+            {
+                "release_id": "1996-deora-metalflake-blue-13828-v2",
+                "toy_number": "13828",
+                "casting_id": "deora",
+                "year": 1996,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "White, Red, Yellow \"Hot Wheels\" logo \"1\", Hot Wheels Race Team colors",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Mail in"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/Deora_Race_Team.JPG/revision/latest?cb=20081231012147"
+                }
+            },
+            {
+                "release_id": "1997-deora-metalflake-blue-13828",
+                "toy_number": "13828",
+                "casting_id": "deora",
+                "year": 1997,
+                "series_id": "new",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "White, Red and Yellow \"Hot Wheels\" logo \"44\", Hot Wheels Race Team colors",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW Goodyear"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Mail in"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Toy_fair_deora.JPG/revision/latest?cb=20110928021709"
+                }
+            },
+            {
+                "release_id": "1998-deora-pink-18584",
+                "toy_number": "18584",
+                "casting_id": "deora",
+                "year": 1998,
+                "series_id": "van",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Blue and White \"Van de Kamp's\" logo",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL2"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Lime surfboards Packaged on Special Edition (50K) \"Fish-O-Saurs\" card Mail-order only"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/Deora_PnkVndekmp.JPG/revision/latest?cb=20091018142253"
+                }
+            },
+            {
+                "release_id": "1998-deora-green-18857",
+                "toy_number": "18857",
+                "casting_id": "deora",
+                "year": 1998,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Gold HW logo on right side, black bed",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL2"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Lime surfboards Packaged on Special Edition (50K) \"Fish-O-Saurs\" card Mail-order only"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/Deora9830thAnni.jpg/revision/latest?cb=20250728023233"
+                }
+            },
+            {
+                "release_id": "1998-deora-pewter-20418",
+                "toy_number": "20418",
+                "casting_id": "deora",
+                "year": 1998,
+                "series_id": "the",
+                "series_index": null,
+                "specs": {
+                    "color": "Pewter",
+                    "tampo": "",
+                    "base_color": "Pewter",
+                    "base_type": "Metal",
+                    "window_color": "Grey",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "Grey RL2"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Limited to 7,000"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/30th_Silver_Deora.jpg/revision/latest?cb=20230529143240"
+                }
+            },
+            {
+                "release_id": "2001-deora-blue-20418",
+                "toy_number": "20418",
+                "casting_id": "deora",
+                "year": 2001,
+                "series_id": "pro",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "\"99 Supergard Citgo Racing\" w/Red and White",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Limited to 7,000"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/Deorasuperguard.jpg/revision/latest?cb=20090621055219"
+                }
+            },
+            {
+                "release_id": "2001-deora-light-blue-20418",
+                "toy_number": "20418",
+                "casting_id": "deora",
+                "year": 2001,
+                "series_id": "pro",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "\"43 STP Cherrios Racing\" w/Red, Yellow and Orange",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Limited to 7,000"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Deorastp.jpg/revision/latest?cb=20090621055704"
+                }
+            },
+            {
+                "release_id": "2001-deora-yellow-black-29633-29506",
+                "toy_number": "29633 29506",
+                "casting_id": "deora",
+                "year": 2001,
+                "series_id": "pro",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow & Black",
+                    "tampo": "\"17 Dewalt Racing\" w/Silver stripe on side",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Limited to 7,000"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Deoradewalt.jpg/revision/latest?cb=20090621055800"
+                }
+            },
+            {
+                "release_id": "2001-deora-blue-29633-29506",
+                "toy_number": "29633 29506",
+                "casting_id": "deora",
+                "year": 2001,
+                "series_id": "pro",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "\"12 Mobil 1 Racing\" w/Red and White",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "col": "Pink Hw Logo",
+                    "notes_variations": "Limited to 7,000"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/Deoramobil1.jpg/revision/latest?cb=20090621055845"
+                }
+            },
+            {
+                "release_id": "2001-deora-metalflake-blue-50010",
+                "toy_number": "50010",
+                "casting_id": "deora",
+                "year": 2001,
+                "series_id": "treasure",
+                "series_index": 11,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Black, White and Red tampos, \"Treasure Hunt\" logo on rear",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Light Blue",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "011",
+                    "notes_variations": "Limited to 7,000"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Deora_-_01TH.jpg/revision/latest?cb=20090617053445"
+                }
+            },
+            {
+                "release_id": "2002-deora-metalflake-red-55007",
+                "toy_number": "55007",
+                "casting_id": "deora",
+                "year": 2002,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "Black, White, Yellow and Orange \"Cowabunga\" tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "SB"
+                    },
+                    "col": "122",
+                    "notes_variations": "Limited to 7,000"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/Cowabunga_Deora_-_6469df.jpg/revision/latest?cb=20081119191940"
+                }
+            },
+            {
+                "release_id": "2002-deora-silver-54423",
+                "toy_number": "54423",
+                "casting_id": "deora",
+                "year": 2002,
+                "series_id": "sci-fi",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "\"Return Of The Fifty Foot Moon Maiden In 3-D\" tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Chrome Blue 5DOT"
+                    },
+                    "col": "122",
+                    "notes_variations": "Without surfboards"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/50/Moon_Maiden_Deora_-_1271ef.jpg/revision/latest?cb=20090824011433"
+                }
+            },
+            {
+                "release_id": "2002-deora-silver-54423-v2",
+                "toy_number": "54423",
+                "casting_id": "deora",
+                "year": 2002,
+                "series_id": "sci-fi",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "\"Return Of The Fifty Foot Moon Maiden In 3-D\" tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Chrome Blue 5DOT"
+                    },
+                    "col": "122",
+                    "notes_variations": "Without surfboards"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/IMG_0814_1.jpg/revision/latest?cb=20090818134013"
+                }
+            },
+            {
+                "release_id": "2004-deora-black-b3798",
+                "toy_number": "B3798",
+                "casting_id": "deora",
+                "year": 2004,
+                "series_id": "roll",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Light Blue, White and Dark Blue tampo w/ 'Riptide Rescue', '9', 'Police' and Roll Patrol logo on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "3SP"
+                    },
+                    "col": "199",
+                    "notes_variations": "With 2 Light Blue surfboards"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/2004_Deora_w-_Surf_Boards.jpg/revision/latest?cb=20170913171010"
+                }
+            },
+            {
+                "release_id": "2004-deora-black-b3798-v2",
+                "toy_number": "B3798",
+                "casting_id": "deora",
+                "year": 2004,
+                "series_id": "roll",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Light Blue, White and Dark Blue tampo w/ 'Riptide Rescue', '9', 'Police' and Roll Patrol logo on sides",
+                    "base_color": "Unpainted<",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "3SP"
+                    },
+                    "col": "199",
+                    "notes_variations": "Without surfboards"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/Deora_2004_3_24.jpg/revision/latest?cb=20181208113838"
+                }
+            },
+            {
+                "release_id": "2004-deora-green-c4560",
+                "toy_number": "C4560",
+                "casting_id": "deora",
+                "year": 2004,
+                "series_id": "mutant",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Red)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "199",
+                    "notes_variations": "Without surfboards"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Deora_2004_24.jpg/revision/latest?cb=20180914105121"
+                }
+            },
+            {
+                "release_id": "2004-deora-black-g5262",
+                "toy_number": "G5262",
+                "casting_id": "deora",
+                "year": 2004,
+                "series_id": "halloween",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Gray, White, & Orange deco on sides & bed cover, 'Brain Snatchers from Planet Deora' on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Orange",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Orange Y5"
+                    },
+                    "col": "199",
+                    "notes_variations": "Without surfboards"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/04DeoraBrainsnatchers.jpg/revision/latest?cb=20250622011410"
+                }
+            },
+            {
+                "release_id": "2008-deora-pearl-white-m1567",
+                "toy_number": "M1567",
+                "casting_id": "deora",
+                "year": 2008,
+                "series_id": "since",
+                "series_index": 31,
+                "specs": {
+                    "color": "Pearl White",
+                    "tampo": "Purple and Light Blue on sides and tonneau cover",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "199",
+                    "notes_variations": "Without surfboards"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/Since_%2768_Deora_-_6603gf.jpg/revision/latest?cb=20081201065515"
+                }
+            },
+            {
+                "release_id": "2008-deora-metallic-lavender-n4608",
+                "toy_number": "N4608",
+                "casting_id": "deora",
+                "year": 2008,
+                "series_id": "since",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Lavender",
+                    "tampo": "Lilac & Purple tampos on sides & bed cover",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": "199",
+                    "notes_variations": "White surfboards"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/Deora08Since68Set.jpg/revision/latest?cb=20250728023222",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2011-deora-spectraflame-blue-v0494",
+                "toy_number": "V0494",
+                "casting_id": "deora",
+                "year": 2011,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "\"SKY SHOW\" on black and white checkered tampo on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": "199",
+                    "notes_variations": "Named Sky Show Dodge Deora Concept 2,500 produced Production code(s): 0452 WA"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/Sky_Show_Deora_2011.jpg/revision/latest?cb=20120302202312"
+                }
+            },
+            {
+                "release_id": "2015-deora-spectraflame-red-blr24",
+                "toy_number": "BLR24",
+                "casting_id": "deora",
+                "year": 2015,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "Black tonneau cover",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Light Blue Tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": "199",
+                    "notes_variations": "Limited to 2,500. Base code(s):"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/Deora-hwc-original16-600pxotd.png/revision/latest?cb=20170623175630"
+                }
+            },
+            {
+                "release_id": "2018-deora-spectraflame-yellow-china",
+                "toy_number": "China",
+                "casting_id": "deora",
+                "year": 2018,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "Tail Lights, Black Rear Bed",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": "199",
+                    "notes_variations": "Playable in Unleashed Base code(s):"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/HWC_Original_16_Display_Set_Deora.jpg/revision/latest?cb=20190302011401"
+                }
+            },
+            {
+                "release_id": "2021-deora-spectraflame-magenta-gxj06",
+                "toy_number": "GXJ06",
+                "casting_id": "deora",
+                "year": 2021,
+                "series_id": "21st",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "White Flowers, Waves and Beach Design, \"HW SURF CLUB\" on sides, \"Surf Deora\" and Nationals info on roof, Gloss tribal face under surfboards",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Light Blue) Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": "199",
+                    "notes_variations": "Named Dodge Deora Concept 4,000 produced Production code(s): 3220EAA"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/LeewayDeora.jpg/revision/latest?cb=20250709094756"
+                }
+            },
+            {
+                "release_id": "2025-deora-spectraflame-ruby-red-jcp66",
+                "toy_number": "JCP66",
+                "casting_id": "deora",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Ruby Red",
+                    "tampo": "Black bed",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "col": "199",
+                    "notes_variations": "4,120 Sets"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

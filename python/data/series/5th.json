@@ -1,0 +1,9 @@
+{
+    "series_id": "5th",
+    "name": "5Th",
+    "description": "Hot Wheels 5Th Series",
+    "releases": [
+        "../data/releases/2005/2005-bye-focal-spectraflame-pink-h9272.json",
+        "../data/releases/2005/2005-scool-bus-spectraflame-yellow-h9273.json"
+    ]
+}

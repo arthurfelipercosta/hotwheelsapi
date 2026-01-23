@@ -1,0 +1,492 @@
+[
+    {
+        "casting_id": "side-kick",
+        "name": "Side Kick",
+        "description": {
+            "en-us": "Side Kick Debut series Mainline Produced 1972 1998 - 2011 Designer Larry Wood Number 6022",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1972,
+        "manufacturer": "Side",
+        "releases": [
+            {
+                "release_id": "1972-side-kick-spectraflame-blue-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Sidekick.jpg/revision/latest?cb=20191112044541"
+                }
+            },
+            {
+                "release_id": "1972-side-kick-spectraflame-green-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/1972-SideK2_%28Large%29.JPG/revision/latest?cb=20201121121120"
+                }
+            },
+            {
+                "release_id": "1972-side-kick-spectraflame-aqua-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/Side_Kick_aqua.jpg/revision/latest?cb=20210918184220"
+                }
+            },
+            {
+                "release_id": "1972-side-kick-spectraflame-light-green-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Green",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/SideKickGrn.JPG/revision/latest?cb=20130603022201"
+                }
+            },
+            {
+                "release_id": "1972-side-kick-spectraflame-purple-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/Purple_side_kick.JPG/revision/latest?cb=20210506043512"
+                }
+            },
+            {
+                "release_id": "1972-side-kick-spectraflame-magenta-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/Side_Kick_magenta.jpg/revision/latest?cb=20210918184538"
+                }
+            },
+            {
+                "release_id": "1972-side-kick-spectraflame-gold-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/Side_Kick_gold.jpg/revision/latest?cb=20210918184706"
+                }
+            },
+            {
+                "release_id": "1972-side-kick-spectraflame-yellow-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1972-side-kick-spectraflame-red-6022",
+                "toy_number": "6022",
+                "casting_id": "side-kick",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Side_Kick_red.jpg/revision/latest?cb=20210918185105"
+                }
+            },
+            {
+                "release_id": "1998-side-kick-metallic-purple-18861",
+                "toy_number": "18861",
+                "casting_id": "side-kick",
+                "year": 1998,
+                "series_id": "hw",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Purple",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tinted clear",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Sidekick_30th_anniversary_purple.JPG/revision/latest?cb=20111016030445"
+                }
+            },
+            {
+                "release_id": "2000-side-kick-metalflake-gold-29274",
+                "toy_number": "29274",
+                "casting_id": "side-kick",
+                "year": 2000,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "Black, Red, White \"SIDE KICK\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Red tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "219"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/2000_Side_Kick.jpg/revision/latest?cb=20250926221103"
+                }
+            },
+            {
+                "release_id": "2001-side-kick-metallic-pale-blue-50083",
+                "toy_number": "50083",
+                "casting_id": "side-kick",
+                "year": 2001,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Pale Blue",
+                    "tampo": "Hot Wheels Postal Express 23",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Red tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "198"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Ca2_%284%29.jpg/revision/latest?cb=20130326025059"
+                }
+            },
+            {
+                "release_id": "2001-side-kick-metallic-pale-blue-50078",
+                "toy_number": "50078",
+                "casting_id": "side-kick",
+                "year": 2001,
+                "series_id": "city",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Pale Blue",
+                    "tampo": "Hot Wheels Postal Express 23",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Red tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "198"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Ca2_%284%29.jpg/revision/latest?cb=20130326025059"
+                }
+            },
+            {
+                "release_id": "2002-side-kick-metalflake-blue-54383",
+                "toy_number": "54383",
+                "casting_id": "side-kick",
+                "year": 2002,
+                "series_id": "red",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Black, Red, White \"Redline\" \"Hot Wheels\"",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RL 5SP"
+                    },
+                    "col": "105"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/Side_Kick_BluR.JPG/revision/latest?cb=20090930212724"
+                }
+            },
+            {
+                "release_id": "2003-side-kick-black-57078",
+                "toy_number": "57078",
+                "casting_id": "side-kick",
+                "year": 2003,
+                "series_id": "serpent",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Black, Yellow and Orange \"SC Police\" graphics",
+                    "base_color": "White",
+                    "base_type": "Plastic",
+                    "window_color": "Yellow tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "5DOT"
+                    },
+                    "col": "105"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/Side_Kick_5-Pack_-_9732df.jpg/revision/latest?cb=20090610225404",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/2/22/SideKickSerpentCyclone.jpg/revision/latest?cb=20191112045044",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2004-side-kick-yellow-c3227",
+                "toy_number": "C3227",
+                "casting_id": "side-kick",
+                "year": 2004,
+                "series_id": "yu-gi-oh",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Yu Gi Oh! graphics",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Purple",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "LW"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Side.jpg/revision/latest?cb=20090620060651"
+                }
+            },
+            {
+                "release_id": "2010-side-kick-yellow-54886",
+                "toy_number": "54886",
+                "casting_id": "side-kick",
+                "year": 2010,
+                "series_id": "10-pack",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Green, Black & White scallop design",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "col": "LW"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Sidekick_10pack.JPG/revision/latest?cb=20091220124631"
+                }
+            },
+            {
+                "release_id": "2011-side-kick-purple-w1554",
+                "toy_number": "W1554",
+                "casting_id": "side-kick",
+                "year": 2011,
+                "series_id": "the",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Orange and Yellow flames",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Orange tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "col": "LW"
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): D45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/Side_kick_2012_hot_ones_purple.JPG/revision/latest?cb=20130320141349"
+                }
+            },
+            {
+                "release_id": "2011-side-kick-purple-w1554-v2",
+                "toy_number": "W1554",
+                "casting_id": "side-kick",
+                "year": 2011,
+                "series_id": "the",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Orange and Yellow flames",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Orange tint",
+                    "interior_color": "Unpainted / Metal",
+                    "wheel_type": {
+                        "0": "RLBW"
+                    },
+                    "col": "LW"
+                },
+                "country": "Thailand",
+                "notes": "Chase Also found in Speed Pack 3 10-pack. Base code(s): D44",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/2011_Side_Kick_RL.jpeg/revision/latest?cb=20240228061305"
+                }
+            }
+        ]
+    }
+]

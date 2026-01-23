@@ -1,0 +1,11 @@
+{
+    "series_id": "super",
+    "name": "Super",
+    "description": "Hot Wheels Super Series",
+    "releases": [
+        "../data/releases/1976/1976-twin-mill-chrome-9505.json",
+        "../data/releases/1977/1977-twin-mill-chrome-9505.json",
+        "../data/releases/2006/2006-scool-bus-chrome-l5863.json",
+        "../data/releases/2006/2006-scool-bus-gold-chrome-k4753.json"
+    ]
+}

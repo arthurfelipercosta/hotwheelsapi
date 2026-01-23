@@ -1,0 +1,879 @@
+[
+    {
+        "casting_id": "hot-import-nights",
+        "name": "Hot Import Nights",
+        "description": {
+            "en-us": "The Hot Import Nights (HIN) and HIN D-Force series were two series of 1:50 scale cars produced by Hot Wheels in 2004 in cooperation with the car show company Hot Import Nights. Each series consisted of four castings, and each casting was released in three colors.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Hot",
+        "releases": [
+            {
+                "release_id": "0-hot-import-nights-metalflake-grey-g8189",
+                "toy_number": "G8189",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Grey",
+                    "tampo": "White Sponsor Logos",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Honda S2000",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/G8189_HIN.jpg/revision/latest?cb=20220718185001"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-yellow-g8191",
+                "toy_number": "G8191",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Black \"Greddy\" over Silver Slash",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mitsubishi Lancer Evolution VIII",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/G8191_HIN.jpg/revision/latest?cb=20220718182331"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-burnt-orange-g8194",
+                "toy_number": "G8194",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Burnt Orange",
+                    "tampo": "Grey Stripes",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Dodge SRT-4",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/G8194_HIN.jpg/revision/latest?cb=20220718191149"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-grey-g8195",
+                "toy_number": "G8195",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "White and Silver Stripes",
+                    "base_color": "",
+                    "base_type": "Black",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLACK"
+                    },
+                    "casting": "VW Golf",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "Base Code(s) 0175EA. Jan 17th '05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/G8195_HIN.jpg/revision/latest?cb=20220718184814"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-lime-green-g8198",
+                "toy_number": "G8198",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Lime Green",
+                    "tampo": "Black Flames",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Clear"
+                    },
+                    "casting": "Scion xB",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "Production date(s): 3134EA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/19/G8198_HIN.jpg/revision/latest?cb=20220718182427"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-metalflake-dark-grey-g8203",
+                "toy_number": "G8203",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Grey",
+                    "tampo": "Graffiti",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Scion xB",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/G8203_HIN.jpg/revision/latest?cb=20220718192742"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-brown-g8204",
+                "toy_number": "G8204",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "Silver Flames with Black Outline",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Scion xB",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/G8204_HIN.jpg/revision/latest?cb=20220718192728"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-lime-green-g8205",
+                "toy_number": "G8205",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Lime Green",
+                    "tampo": "Grey Stripes",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Dodge SRT-4",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/G8205_HIN.jpg/revision/latest?cb=20220718190132"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-black-g8206",
+                "toy_number": "G8206",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Grey \"Eibach\"",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Dodge SRT-4",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/G8206_HIN.jpg/revision/latest?cb=20220718195542"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-black-g8207",
+                "toy_number": "G8207",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red Tribal Design with Silver Outline",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mitsubishi Lancer Evolution VIII",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/G8207_HIN.jpg/revision/latest?cb=20220718185923"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-white-g8208",
+                "toy_number": "G8208",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Tan \"Greddy\" over Red Slash",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mitsubishi Lancer Evolution VIII",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/G8208_HIN.jpg/revision/latest?cb=20220718181817"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-silver-g8209",
+                "toy_number": "G8209",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Black Stripe",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Honda S2000",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/08/G8209_HIN.jpg/revision/latest?cb=20220718183029"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-white-g8209",
+                "toy_number": "G8209",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black Stripe",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Honda S2000",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "Variation",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/G8209_HIN_White.jpg/revision/latest?cb=20220718192954"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-white-g8210",
+                "toy_number": "G8210",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "White \"C-West\" over Gold Slash",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Honda S2000",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/G8210_HIN.jpg/revision/latest?cb=20220718193318"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-purple-g8217",
+                "toy_number": "G8217",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "White and Silver Stripes",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "VW Golf",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "Production date(s): 0135EA Jan 13th '05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/G8217_HIN.jpg/revision/latest?cb=20220718182537"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-yellow-g8218",
+                "toy_number": "G8218",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Black Top",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "VW Golf",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/G8218_HIN.jpg/revision/latest?cb=20220718183612"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-black-g8192",
+                "toy_number": "G8192",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Silver",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mazda RX-7",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/G8192_HIN.jpg/revision/latest?cb=20220718191747"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-burnt-orange-g8193",
+                "toy_number": "G8193",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Burnt Orange",
+                    "tampo": "Black Hot Wheels Logo",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Toyota Corolla GTS",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/G8193_HIN.jpg/revision/latest?cb=20220718183721"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-blue-g8196",
+                "toy_number": "G8196",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Gold \"DRFT\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Blue 3 Spoke"
+                    },
+                    "casting": "Nissan Silvia S15",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "Production Date(s): 3574 EA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/HINDForceS15BlueCard.jpg/revision/latest?cb=20250209093714"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-black-g8197",
+                "toy_number": "G8197",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Grey \"Eibach\"",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mazda RX-8",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/G8197_HIN.jpg/revision/latest?cb=20220718182205"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-black-g8199",
+                "toy_number": "G8199",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mazda RX-8",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-black-g8200",
+                "toy_number": "G8200",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mazda RX-8",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-silver-g8201",
+                "toy_number": "G8201",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Grey and Black",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Nissan 350Z",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/G8201_HIN.jpg/revision/latest?cb=20220718190728"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-silver-g8202",
+                "toy_number": "G8202",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Nissan 350Z",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-pink-g8211",
+                "toy_number": "G8211",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "White \"Dforce\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "3 Spoke"
+                    },
+                    "casting": "Mazda RX-7",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/G8211_HIN.jpg/revision/latest?cb=20220718192350"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-silver-g8212",
+                "toy_number": "G8212",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Blue",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mazda RX-7",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/G8212_HIN.jpg/revision/latest?cb=20220718184153"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-white-g8213",
+                "toy_number": "G8213",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black and Orange Hot Wheels Logo",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Toyota Corolla GTS",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/G8213_HIN.jpg/revision/latest?cb=20220718185255"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-metalflake-gold-g8214",
+                "toy_number": "G8214",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "White Sponsor Logos",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Toyota Corolla GTS",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/G8214_HIN.jpg/revision/latest?cb=20220718191607"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-red-g8215",
+                "toy_number": "G8215",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Black Flames",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Nissan Silvia S15",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/G8215_HIN.jpg/revision/latest?cb=20220718195117"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-pink-g8216",
+                "toy_number": "G8216",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Pink Flames",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Nissan Silvia S15",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/G8216_HIN.jpg/revision/latest?cb=20220718194832"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-red-g8219",
+                "toy_number": "G8219",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Light Red \"Eibach\"",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mazda RX-8",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/G8219_HIN.jpg/revision/latest?cb=20220718194445"
+                }
+            },
+            {
+                "release_id": "0-hot-import-nights-blue-g8220",
+                "toy_number": "G8220",
+                "casting_id": "hot-import-nights",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Black \"Rotora\" over Silver",
+                    "base_color": "",
+                    "base_type": "?",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "casting": "Mazda RX-8",
+                    "photo_packaged": "",
+                    "photo_loose": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/G8220_HIN.jpg/revision/latest?cb=20220718184542"
+                }
+            }
+        ]
+    }
+]

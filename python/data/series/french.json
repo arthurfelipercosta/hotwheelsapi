@@ -1,0 +1,11 @@
+{
+    "series_id": "french",
+    "name": "French",
+    "description": "Hot Wheels French Series",
+    "releases": [
+        "../data/releases/1983/1983-amx2-blue-7654.json",
+        "../data/releases/1983/1983-amx2-light-blue-7654.json",
+        "../data/releases/1983/1983-amx2-white-7654-v2.json",
+        "../data/releases/1983/1983-snake-dk-enamel-blue-none.json"
+    ]
+}

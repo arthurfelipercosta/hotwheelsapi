@@ -1,0 +1,2085 @@
+[
+    {
+        "casting_id": "custom-corvette",
+        "name": "Custom Corvette",
+        "description": {
+            "en-us": "Custom Corvette Debut series Sweet Sixteen Produced 1968 (Original) 2005 - 2025 ( Retool ) Designer Harry Bradley (Original) Mark Jones ( Retool ) Number 6215",
+            "pt-br": ""
+        },
+        "designer": "Harry Bradley (Original) Mark Jones ( Retool )",
+        "debut_year": 1968,
+        "manufacturer": "Custom",
+        "releases": [
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/100_2982.jpg/revision/latest?cb=20190810141319"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Dscn2532.jpg/revision/latest?cb=20230929003927"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/Redcc.jpg/revision/latest?cb=20230929003927"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-olive-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Customcorvette.jpg/revision/latest?cb=20080310204042"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-olive-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/Olivecc.jpg/revision/latest?cb=20230929012228"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-olive-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-green-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Dscn3277.jpg/revision/latest?cb=20230929012228"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-green-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/Greencham2.jpg/revision/latest?cb=20230929012228"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-green-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-blue-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/100_5521.jpg/revision/latest?cb=20201024110741"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-blue-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/Dscn3899.jpg/revision/latest?cb=20230929003927"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-blue-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Dscn2452.jpg/revision/latest?cb=20230929003926"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-rose-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Rose",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/Rosepink.jpg/revision/latest?cb=20230929003927"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-rose-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Rose",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/RLcrvette.JPG/revision/latest?cb=20130520000140"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-rose-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Rose",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-orange-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Orange2.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-orange-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/Dscn3287.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-orange-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-purple-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/100_2984.jpg/revision/latest?cb=20190810150106"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-purple-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/Dscn3860.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-purple-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-antifreeze-lime-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Antifreeze Lime",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/100_2983-0.jpg/revision/latest?cb=20190810150431"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-antifreeze-lime-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Antifreeze Lime",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Dscn4699.jpg/revision/latest?cb=20230929012228"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-antifreeze-lime-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Antifreeze Lime",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-aqua-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Aqua3.jpg/revision/latest?cb=20230929003927"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-aqua-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Dscn3621.jpg/revision/latest?cb=20230929003927"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-aqua-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-gold-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Dscn4123.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-gold-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Dscn4174.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-gold-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/14k2.jpg/revision/latest?cb=20230929012228"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-magenta-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/Magenta2.jpg/revision/latest?cb=20230929003927"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-magenta-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-magenta-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-windex-blue-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Windex Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Iceblue.jpg/revision/latest?cb=20230929005228"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-windex-blue-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Windex Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/Medblue.jpg/revision/latest?cb=20230929005228"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-windex-blue-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Windex Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-light-blue-ice-blue-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Blue / Ice Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/Dscn2449.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-light-blue-ice-blue-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Blue / Ice Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/Liteblue.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-light-blue-ice-blue-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Blue / Ice Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-yellow-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-yellow-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/Yellow2.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-yellow-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-brown-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/Dscn3617.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-brown-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Dscn3907.jpg/revision/latest?cb=20230929012229"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-brown-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "United States",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215-v7",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Cusi_corvette_68_red_hk.jpg/revision/latest?cb=20130212031236"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215-v8",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Red1long.jpg/revision/latest?cb=20230928234530"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-red-6215-v9",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/Dscn3280.jpg/revision/latest?cb=20230928234530"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-olive-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/100_2981.jpg/revision/latest?cb=20190810150937"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-olive-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/Dscn4134.jpg/revision/latest?cb=20230929001338"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-olive-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Dscn3477.jpg/revision/latest?cb=20230929001339"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-blue-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/100_2978.jpg/revision/latest?cb=20190810151232"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-blue-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/Bluelong3.jpg/revision/latest?cb=20230928235250"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-blue-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Bluehkbrn.jpg/revision/latest?cb=20230928235250"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-aqua-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Dscn3275.jpg/revision/latest?cb=20230928234842"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-aqua-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/Dsc_7640.jpg/revision/latest?cb=20230928234842"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-aqua-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-green-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/100_2979.jpg/revision/latest?cb=20190810151558"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-green-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/Dscn5064.jpg/revision/latest?cb=20230929001133"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-green-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Dscn5266.jpg/revision/latest?cb=20230929001133"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-purple-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Dscn3263.jpg/revision/latest?cb=20230929001813"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-purple-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/Dscn2530.jpg/revision/latest?cb=20230929001813"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-purple-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Dscn2747.jpg/revision/latest?cb=20230929001813"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-brown-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/100_3088.jpg/revision/latest?cb=20190810135648"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-brown-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/Brnhk1.jpg/revision/latest?cb=20230928235250"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-brown-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/Dscn2438.jpg/revision/latest?cb=20230928235250"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-orange-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/100_2977.jpg/revision/latest?cb=20190810151804"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-orange-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/Orghk.jpg/revision/latest?cb=20230929001813"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-orange-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Dscn3905.jpg/revision/latest?cb=20230929001812"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-gold-6215-v4",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/100_2980.jpg/revision/latest?cb=20190810151909"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-gold-6215-v5",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/Dscn3607.jpg/revision/latest?cb=20230929000418"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-gold-6215-v6",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champagne",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Dsc_8990.jpg/revision/latest?cb=20230929000419"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-creamy-pink-6215",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Creamy Pink",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/Cpbrn2.jpg/revision/latest?cb=20230928234530"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-creamy-pink-6215-v2",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Creamy Pink",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/Cpwht2.jpg/revision/latest?cb=20230928234529"
+                }
+            },
+            {
+                "release_id": "1968-custom-corvette-spectraflame-creamy-pink-6215-v3",
+                "toy_number": "6215",
+                "casting_id": "custom-corvette",
+                "year": 1968,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Creamy Pink",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Champange",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": ""
+                },
+                "country": "Hong Kong",
+                "notes": "exist?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2005-custom-corvette-spectraflame-pink-h2924",
+                "toy_number": "H2924",
+                "casting_id": "custom-corvette",
+                "year": 2005,
+                "series_id": "hwccom",
+                "series_index": 5,
+                "specs": {
+                    "color": "Spectraflame Pink",
+                    "tampo": "Pink ghost flames on sides & around hood, corvette emblem on hood and trunk, \"DRM CAR\" on front & rear California license plates",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "11,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/2005hwcneoclassicscustomcorvette.jpg/revision/latest?cb=20100308005002"
+                }
+            },
+            {
+                "release_id": "2007-custom-corvette-white-l2120",
+                "toy_number": "L2120",
+                "casting_id": "custom-corvette",
+                "year": 2007,
+                "series_id": "rlc",
+                "series_index": 4,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Light blue stripes on sides, front, hood, top, & trunk, light blue rear, black \"4\", RLC logo, & various sponsor logos on sides, Corvette logo on front, \"427\" on either side of hood scoop\", \"RLCRWRD\" on rear California license plate, painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Light blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "4,981 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/2007rlcrewardscustomcorvette.jpg/revision/latest?cb=20100406083740"
+                }
+            },
+            {
+                "release_id": "2018-custom-corvette-spectraflame-ice-blue-fnc23",
+                "toy_number": "FNC23",
+                "casting_id": "custom-corvette",
+                "year": 2018,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Ice Blue",
+                    "tampo": "Black Grille, Tail Lights, Black Rear Panel, Black Roof",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "1,500 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/HWC_Original_16_Display_Set_Custom_Corvette.jpg/revision/latest?cb=20190302011008"
+                }
+            },
+            {
+                "release_id": "2018-custom-corvette-spectraflame-brown-fcm79",
+                "toy_number": "FCM79",
+                "casting_id": "custom-corvette",
+                "year": 2018,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "Black grill, Tail lights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "6,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Stonie09-2.jpg/revision/latest?cb=20250426172913"
+                }
+            },
+            {
+                "release_id": "2019-custom-corvette-spectraflame-pink-gdf73",
+                "toy_number": "GDF73",
+                "casting_id": "custom-corvette",
+                "year": 2019,
+                "series_id": "19th",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Pink",
+                    "tampo": "White Stripe from hood to rear",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Light blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/2019_19th_Annual_Collectors_Nationals_RLC_Club_Exclusive_Custom_Corvette_Pink.jpg/revision/latest?cb=20200208144518"
+                }
+            },
+            {
+                "release_id": "2022-custom-corvette-spectraflame-black-hck29",
+                "toy_number": "HCK29",
+                "casting_id": "custom-corvette",
+                "year": 2022,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Black",
+                    "tampo": "Red Stripe from hood to rear",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Tinted",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "25,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/RLC_Exclusive_Custom_Corvette.jpg/revision/latest?cb=20220225090729"
+                }
+            },
+            {
+                "release_id": "2025-custom-corvette-spectraflame-ruby-red-jcp66",
+                "toy_number": "JCP66",
+                "casting_id": "custom-corvette",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Ruby Red",
+                    "tampo": "taillights",
+                    "base_color": "Chromed",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": ""
+                    }
+                },
+                "country": "China",
+                "notes": "4,120 Sets opening hood Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

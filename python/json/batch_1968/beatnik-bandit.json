@@ -1,0 +1,765 @@
+[
+    {
+        "casting_id": "beatnik-bandit",
+        "name": "Beatnik Bandit",
+        "description": {
+            "en-us": "Beatnik Bandit Debut series Sweet Sixteen Produced 1968 (Original) 1993 - 2025 ( Retool ) Designer Harry Bradley Number 6217",
+            "pt-br": ""
+        },
+        "designer": "Harry Bradley",
+        "debut_year": 1968,
+        "manufacturer": "Beatnik",
+        "releases": [
+            {
+                "release_id": "1993-beatnik-bandit-metallic-light-blue-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Light Blue",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/25thLightBlueBeatnikBandit.jpg/revision/latest?cb=20220510133958"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-magenta-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Magenta",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/25thMagnetaBeatnikBandit.jpg/revision/latest?cb=20220510133907"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-green-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Green",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/25th_ann_green.jpg/revision/latest?cb=20250620012054"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-olive-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Olive",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/1993_25th_Anniversary_Beatnik_Bandit_Olive.jpg/revision/latest?cb=20211114121418"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-lime-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Lime",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Beatnik_Bandit_Metallic_Limec.jpg/revision/latest?cb=20250117212059"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-gold-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Gold",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/25thGoldBeatnikBandit.jpg/revision/latest?cb=20250117212844"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-orange-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Orange",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/Beatnik_Bandit_VinOrgR.JPG/revision/latest?cb=20091115045658"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-brown-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Brown",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/20240530084449.jpg/revision/latest?cb=20240530004658"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-red-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Red",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/BeatnikBandit.jpg/revision/latest?cb=20250114125233"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-pink-or-lavender-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Pink or Lavender",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/25thPinkBeatnikBandit.jpg/revision/latest?cb=20250117213329"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-purple-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Purple",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/25thPurpleBeatnikBandit.jpg/revision/latest?cb=20250117213712"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-aqua-10960",
+                "toy_number": "10960",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Aqua",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "25th Anniversary 8 Pack",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Beatnik_Bandit_VintLtBluR.JPG/revision/latest?cb=20091115045659"
+                }
+            },
+            {
+                "release_id": "1993-beatnik-bandit-metallic-lime-green-5714",
+                "toy_number": "5714",
+                "casting_id": "beatnik-bandit",
+                "year": 1993,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Lime Green",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tinted",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "Is this same as Metallic Green?",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-white-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic White",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/Beatnik_Bandit_White_Vintage.jpg/revision/latest?cb=20240214024838"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-silver-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Silver",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-black-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Black",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/Beatnik-bandit-grey-1994-vintage.jpg/revision/latest?cb=20180901200005"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-turquoise-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Turquoise",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/Vintage_Beatnik_Bandit_Turqouise.jpg/revision/latest?cb=20230216181155"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-light-aqua-dark-green-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Light Aqua \\ Dark Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-blue-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-light-green-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Light Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-yellow-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Yellow",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-maroon-burgundy-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Maroon / Burgundy",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-salmon-orange-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Salmon Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-magenta-5417",
+                "toy_number": "5417",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Magenta",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1994-beatnik-bandit-metallic-light-bluepurple-12293",
+                "toy_number": "12293",
+                "casting_id": "beatnik-bandit",
+                "year": 1994,
+                "series_id": "fao",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Light Blue/Purple",
+                    "tampo": "White Hot Wheels Logo on Rear",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "Gold RL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "3,000 Produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Beatnik_Bandit_FAO.JPG/revision/latest?cb=20091102014130"
+                }
+            },
+            {
+                "release_id": "2003-beatnik-bandit-white-b0938",
+                "toy_number": "B0938",
+                "casting_id": "beatnik-bandit",
+                "year": 2003,
+                "series_id": "hall",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Orange Swirls",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "White-Wall DDRR"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Beatnik_Bandit_HoF.JPG/revision/latest?cb=20091102014130"
+                }
+            },
+            {
+                "release_id": "2012-beatnik-bandit-spectraflame-pink-y1101",
+                "toy_number": "Y1101",
+                "casting_id": "beatnik-bandit",
+                "year": 2012,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Pink",
+                    "tampo": "None",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "1,800 Produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/RLCO16-BeatnikBandit.jpg/revision/latest?cb=20150115230857"
+                }
+            },
+            {
+                "release_id": "2013-beatnik-bandit-spectraflame-light-green-blr10",
+                "toy_number": "BLR10",
+                "casting_id": "beatnik-bandit",
+                "year": 2013,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Green",
+                    "tampo": "Light green scallops on sides & top, painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White & Yellow",
+                    "wheel_type": {
+                        "0": "Redline RR5SP Redline Mini RR5SP"
+                    },
+                    "col": ""
+                },
+                "country": "Malaysia",
+                "notes": "8,100 produced Base code(s): G36",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "2018-beatnik-bandit-spectraflame-light-purple-fnc23",
+                "toy_number": "FNC23",
+                "casting_id": "beatnik-bandit",
+                "year": 2018,
+                "series_id": "hwc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Purple",
+                    "tampo": "None",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "1,500 Produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/HWC_Original_16_Display_Set_Beatnik_Bandit.jpg/revision/latest?cb=20190302005516"
+                }
+            },
+            {
+                "release_id": "2025-beatnik-bandit-spectraflame-ruby-red-jcp66",
+                "toy_number": "JCP66",
+                "casting_id": "beatnik-bandit",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Ruby Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "4.120 Sets produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

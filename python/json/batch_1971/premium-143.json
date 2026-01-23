@@ -1,0 +1,939 @@
+[
+    {
+        "casting_id": "premium-143",
+        "name": "Premium 1:43",
+        "description": {
+            "en-us": "Premium 1:43 is a Premium -style series featuring 1/43-scale cars. All castings feature multiple separate parts for added detail and bespoke Real Rider wheels specific to each car.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Premium",
+        "releases": [
+            {
+                "release_id": "0-premium-143-bianco-siderale-hmd49",
+                "toy_number": "HMD49",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bianco Siderale",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1",
+                    "casting_name": "Lamborghini Countach LPI 800-4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/LamborghiniNewCountach.jpg/revision/latest?cb=20240619141340"
+                }
+            },
+            {
+                "release_id": "0-premium-143-accelerate-yellow-hmd48",
+                "toy_number": "HMD48",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Accelerate Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2",
+                    "casting_name": "'23 Corvette Z06",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/%2723_Corvette_Z06_1-43.jpeg/revision/latest?cb=20230927122158"
+                }
+            },
+            {
+                "release_id": "0-premium-143-fighter-jet-gray-hmd45",
+                "toy_number": "HMD45",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Fighter Jet Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3",
+                    "casting_name": "2021 Ford Mustang Mach 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/2021_Ford_Mustang_Mach_1_1-43.jpeg/revision/latest?cb=20230927122329"
+                }
+            },
+            {
+                "release_id": "0-premium-143-hydro-blue-hmd46",
+                "toy_number": "HMD46",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Hydro Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4",
+                    "casting_name": "Jeep Wrangler 392 Rubicon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/Jeep_Wrangler_392_Rubicon_1-43.jpeg/revision/latest?cb=20230927122436"
+                }
+            },
+            {
+                "release_id": "0-premium-143-millennium-jade-hmd47",
+                "toy_number": "HMD47",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Millennium Jade",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "5",
+                    "casting_name": "Nissan Skyline GT-R (BNR34) V·spec II Nür with NISMO Parts‎",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/NISMOR34.jpg/revision/latest?cb=20240415120357"
+                }
+            },
+            {
+                "release_id": "0-premium-143-silver-hmd44",
+                "toy_number": "HMD44",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "6",
+                    "casting_name": "Mercedes-AMG GT3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Mercedes-AMGGT3EVO2020.jpg/revision/latest?cb=20240619141448"
+                }
+            },
+            {
+                "release_id": "0-premium-143-acapulco-blue-hwt04",
+                "toy_number": "HWT04",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Acapulco Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "7",
+                    "casting_name": "'69 Modified Ford Mustang",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/MadMuscleMustang.jpg/revision/latest?cb=20240929122058"
+                }
+            },
+            {
+                "release_id": "0-premium-143-white-hwt03",
+                "toy_number": "HWT03",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "8",
+                    "casting_name": "Porsche 911 GT3 RS",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/2023Porsche911GT3RS.jpg/revision/latest?cb=20240902102350"
+                }
+            },
+            {
+                "release_id": "0-premium-143-silver-hwt08",
+                "toy_number": "HWT08",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "9",
+                    "casting_name": "Mercedes-Benz 300 SEL 6.8 AMG",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/1-43_HWT08_Mercedes-Benz_300_SEL_6.8_AMG_o-1.jpg/revision/latest?cb=20240719052729"
+                }
+            },
+            {
+                "release_id": "0-premium-143-amplify-orange-metallic-hwt05",
+                "toy_number": "HWT05",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Amplify Orange Metallic",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "10",
+                    "casting_name": "'23 Corvette Z06",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/CorvetteC8Z06.jpg/revision/latest?cb=20241020132311"
+                }
+            },
+            {
+                "release_id": "0-premium-143-glossy-black-hwt10",
+                "toy_number": "HWT10",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Glossy black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "11",
+                    "casting_name": "Porsche Taycan Turbo S Cross Turismo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/PorscheTaycanTurismo.jpg/revision/latest?cb=20240928150545"
+                }
+            },
+            {
+                "release_id": "0-premium-143-velocity-blue-hwt09",
+                "toy_number": "HWT09",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Velocity Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "12",
+                    "casting_name": "2021 Ford Mustang Mach 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/%2721MustangMach1.jpg/revision/latest?cb=20241020132351"
+                }
+            },
+            {
+                "release_id": "0-premium-143-flame-red-hwt07",
+                "toy_number": "HWT07",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Flame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "13",
+                    "casting_name": "Ram 4×4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/%2723RamTRX.jpg/revision/latest?cb=20241020132245"
+                }
+            },
+            {
+                "release_id": "0-premium-143-papaya-orange-hwt15",
+                "toy_number": "HWT15",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Papaya Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "14",
+                    "casting_name": "1995 McLaren F1 GTR",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/1995McLarenF1GTR.jpg/revision/latest?cb=20250515121350"
+                }
+            },
+            {
+                "release_id": "0-premium-143-silver-hwt02",
+                "toy_number": "HWT02",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "15",
+                    "casting_name": "NISMO GT-R LM (1995 BCNR33)",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/27/R33LMNISMO.jpg/revision/latest?cb=20250516014341"
+                }
+            },
+            {
+                "release_id": "0-premium-143-desert-dune-metallic-hwt11",
+                "toy_number": "HWT11",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Desert Dune Metallic",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "16",
+                    "casting_name": "2000 Toyota 4Runner",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/20004Runner.jpg/revision/latest?cb=20250901102448"
+                }
+            },
+            {
+                "release_id": "0-premium-143-bayside-blue-jcm61",
+                "toy_number": "JCM61",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bayside Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "17",
+                    "casting_name": "Nissan Skyline GT-R (BNR34) V·spec II Nür",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/2002NissanSkylineGT-R.jpg/revision/latest?cb=20250515121327"
+                }
+            },
+            {
+                "release_id": "0-premium-143-metalflake-orange-hwg43",
+                "toy_number": "HWG43",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "18",
+                    "casting_name": "Custom 1970 Chevy Nova",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/%2770NovaGT.jpg/revision/latest?cb=20250515120650"
+                }
+            },
+            {
+                "release_id": "0-premium-143-matte-black-hwt13",
+                "toy_number": "HWT13",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "19",
+                    "casting_name": "Mercedes-AMG GT3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/AMGGT3RS.jpg/revision/latest?cb=20250827100914"
+                }
+            },
+            {
+                "release_id": "0-premium-143-red-hwg48",
+                "toy_number": "HWG48",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "20",
+                    "casting_name": "1970 Porsche 917",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/1970Porsche917KH.jpg/revision/latest?cb=20250516014437"
+                }
+            },
+            {
+                "release_id": "0-premium-143-stealth-grey-hwt06",
+                "toy_number": "HWT06",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Stealth Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "21",
+                    "casting_name": "Nissan Z NISMO",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/2024NissanZNISMO.jpg/revision/latest?cb=20250515120842"
+                }
+            },
+            {
+                "release_id": "0-premium-143-cumberland-grey-hwt12",
+                "toy_number": "HWT12",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cumberland Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "22",
+                    "casting_name": "1985 Aston Martin V8 Vantage",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-143-championship-white-jcn65",
+                "toy_number": "JCN65",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Championship White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "23",
+                    "casting_name": "Honda Civic TYPE R EK9",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/2000HondaCivicTypeR.jpg/revision/latest?cb=20250826115834"
+                }
+            },
+            {
+                "release_id": "0-premium-143-white-jcn72",
+                "toy_number": "JCN72",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "24",
+                    "casting_name": "Porsche 911 SC RS",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/Porsche911SCRS.jpg/revision/latest?cb=20260113095736"
+                }
+            },
+            {
+                "release_id": "0-premium-143-sarge-green-hwt19",
+                "toy_number": "HWT19",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Sarge Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "25",
+                    "casting_name": "Jeep Wrangler 392 Rubicon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-143-nitro-yellow-jcn77",
+                "toy_number": "JCN77",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Nitro Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "26",
+                    "casting_name": "Toyota Supra GR Pandem Widebody",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/ToyotaSupraPandem.jpg/revision/latest?cb=20250813123506"
+                }
+            },
+            {
+                "release_id": "0-premium-143-race-red-jcn73",
+                "toy_number": "JCN73",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Race Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "27",
+                    "casting_name": "2025 Ford Mustang GTD",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/2025MustangGTD.jpg/revision/latest?cb=20250813123518"
+                }
+            },
+            {
+                "release_id": "0-premium-143-metalflake-silver-hwt14",
+                "toy_number": "HWT14",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "28",
+                    "casting_name": "BMW M3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/BMWM3Custom.jpg/revision/latest?cb=20250813123533"
+                }
+            },
+            {
+                "release_id": "0-premium-143-arancio-apodis-jcn68",
+                "toy_number": "JCN68",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Arancio Apodis",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "29",
+                    "casting_name": "2023 Lamborghini Revuelto",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 3",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/LamborghiniRevuelto143.jpg/revision/latest?cb=20250813123548"
+                }
+            },
+            {
+                "release_id": "0-premium-143-graphite-gray-jcn69",
+                "toy_number": "JCN69",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Graphite Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "30",
+                    "casting_name": "McLaren W1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-143-black-jcn64",
+                "toy_number": "JCN64",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "31",
+                    "casting_name": "DeBerti Toyota Tacoma",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-143-racing-yellow-jcn66",
+                "toy_number": "JCN66",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Racing Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "32",
+                    "casting_name": "Porsche GT3-RS",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-143-red-jcn76",
+                "toy_number": "JCN76",
+                "casting_id": "premium-143",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "33",
+                    "casting_name": "1969 Camaro Pro Touring",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

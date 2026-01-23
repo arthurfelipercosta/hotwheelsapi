@@ -1,0 +1,16 @@
+{
+    "series_id": "real",
+    "name": "Real",
+    "description": "Hot Wheels Real Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13304.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13304.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13305.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13305.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13306.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13306.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13307.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13307.json",
+        "../data/releases/1996/1996-classic-32-ford-vicky-metallic-purple-16186.json"
+    ]
+}

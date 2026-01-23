@@ -1,0 +1,11 @@
+{
+    "series_id": "classics",
+    "name": "Classics",
+    "description": "Hot Wheels Classics Series",
+    "releases": [
+        "../data/releases/2007/2007-classic-32-ford-vicky-spectraflame-dark-blue-l0739.json",
+        "../data/releases/2007/2007-classic-32-ford-vicky-spectraflame-dark-red-l0739.json",
+        "../data/releases/2007/2007-classic-32-ford-vicky-spectraflame-gold-l0739.json",
+        "../data/releases/2007/2007-classic-32-ford-vicky-spectraflame-rootbeer-l0739.json"
+    ]
+}

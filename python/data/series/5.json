@@ -1,0 +1,11 @@
+{
+    "series_id": "5",
+    "name": "5",
+    "description": "Hot Wheels 5 Series",
+    "releases": [
+        "../data/releases/unknown/0-mario-kart-light-blue-hdb44.json",
+        "../data/releases/unknown/0-mario-kart-light-blue-hdb44.json",
+        "../data/releases/unknown/0-mario-kart-red-hdb40.json",
+        "../data/releases/unknown/0-mario-kart-red-hdb40.json"
+    ]
+}

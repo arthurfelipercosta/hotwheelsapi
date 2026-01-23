@@ -1,0 +1,3533 @@
+[
+    {
+        "casting_id": "planet-micro",
+        "name": "Planet Micro",
+        "description": {
+            "en-us": "",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Planet",
+        "releases": [
+            {
+                "release_id": "0-planet-micro-blue-18712",
+                "toy_number": "18712",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "HW Racing decals, #44",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Pontiac Grand Prix Stocker",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Planet_Micro_44.JPG/revision/latest?cb=20220630214218"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-hw-racing-decals-28-ford-f150-race-truck",
+                "toy_number": "Ford F150 Race Truck",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "HW Racing decals, #28",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Black",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Planet_Micro_28.JPG/revision/latest?cb=20220630214215"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-hw-racing-decals-hw-44-nascar-on-the-trailer-transport-truck",
+                "toy_number": "Transport Truck",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "HW Racing decals, HW #44 NASCAR on the trailer",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Blue",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/Planet_Micro_44_Truck.JPG/revision/latest?cb=20220630214218"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-19441",
+                "toy_number": "19441",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Tabasco Racing decals, #35",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Pontiac Grand Prix Stocker",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/Pro_Racing_Series_2_-_Copy_%282%29.jpg/revision/latest?cb=20230121202439"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-tabasco-racing-decals-35-pontiac-grand-prix-stocker",
+                "toy_number": "Pontiac Grand Prix Stocker",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tabasco Racing decals, #35",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Orange",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Pro_Racing_Series_2_-_Copy_%283%29.jpg/revision/latest?cb=20230121202440"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-tabasco-racing-decals-tabasco-35-nascar-on-the-trailer-transport-truck",
+                "toy_number": "Transport Truck",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tabasco Racing decals, Tabasco #35 NASCAR on the trailer",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Black",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/Pro_Racing_Series_2_-_Copy.jpg/revision/latest?cb=20230121202440"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-20414",
+                "toy_number": "20414",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Caterpillar Racing decals, #96",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Pontiac Grand Prix Stocker",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Pro_Racing_Series_3_%282%29.jpg/revision/latest?cb=20230121205237"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-caterpillar-racing-decals-caterpillar-96-nascar-on-the-trailer-big-rig",
+                "toy_number": "Big Rig",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Caterpillar Racing decals, Caterpillar #96 NASCAR on the trailer",
+                    "tampo": "Not the same casting as Transport Truck (micro)",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Black",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/Pro_Racing_Series_3_%283%29.jpg/revision/latest?cb=20230121205238"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-caterpillar-racing-decals-caterpillar-96-nascar-on-the-trailer-transport-truck",
+                "toy_number": "Transport Truck",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Caterpillar Racing decals, Caterpillar #96 NASCAR on the trailer",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Yellow",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/Pro_Racing_Series_3_%284%29.jpg/revision/latest?cb=20230121205238"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-bonus",
+                "toy_number": "Bonus!",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "\"Rescue\" decals",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Police Car",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Pro_Racing_Series_3_Extra_%282%29.jpg/revision/latest?cb=20230121205238"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-rescue-decals-westland-lynx-helicopter",
+                "toy_number": "Westland Lynx Helicopter",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Rescue\" decals",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/68/Pro_Racing_Series_3_Extra_%283%29.jpg/revision/latest?cb=20230121205238"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-race-paramedics-ambulance",
+                "toy_number": "Ambulance",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Race Paramedics\"",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Green & White",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Pro_Racing_Series_3_Extra_%284%29.jpg/revision/latest?cb=20230121205238"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-rescue-decals-pickup-truck-micro",
+                "toy_number": "Pickup Truck (micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Rescue\" decals",
+                    "tampo": "Not the same casting as Ford F150 Race Truck",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Pro_Racing_Series_3_Extra.jpg/revision/latest?cb=20230121205238"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-blue-89942",
+                "toy_number": "89942",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "HW Racing decals, #44",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Pontiac Grand Prix Stocker",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/44_planet_white.PNG/revision/latest?cb=20220701202340"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-hw-racing-decals-44-pontiac-grand-prix-stocker",
+                "toy_number": "Pontiac Grand Prix Stocker",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "HW Racing decals, #44",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "White",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/44_crabby.PNG/revision/latest?cb=20220701202337"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-hw-racing-decals-hw-44-nascar-on-the-trailer-transport-truck-v2",
+                "toy_number": "Transport Truck",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "HW Racing decals, HW #44 NASCAR on the trailer",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Blue",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": ""
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-transport-truck",
+                "toy_number": "Transport Truck",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "USA on Trailer",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Shuttle Suply Rig",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-usa-on-wing-space-shuttle",
+                "toy_number": "Space Shuttle",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "USA on Wing",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gray and Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-usa-on-wing-launch-pad-diorama-and-two-figures",
+                "toy_number": "Launch pad diorama and two figures",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "USA on Wing",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Brown and Orange",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gray-2-armadillo-with-bomb-transport-trailer",
+                "toy_number": "#2 Armadillo with Bomb Transport Trailer",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gray",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gray-asteroid-diorama-and-two-figures",
+                "toy_number": "Asteroid diorama and two figures",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Dark Blue and Bronze",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-space-shuttle",
+                "toy_number": "Space Shuttle",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gray and Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-asteroid-diorama-and-two-figures",
+                "toy_number": "Asteroid diorama and two figures",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Purple and Bronze",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-19613",
+                "toy_number": "19613",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Bulldozer",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-motor-grader",
+                "toy_number": "Motor Grader",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Bulldozer",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-front-loader",
+                "toy_number": "Front Loader",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Bulldozer",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-chrome-20678",
+                "toy_number": "20678",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Off-Highway Truck (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-chrome-scraper-planet-micro",
+                "toy_number": "Scraper (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-chrome-excavator-planet-micro",
+                "toy_number": "Excavator (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-yellow-19611",
+                "toy_number": "19611",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Silver Details",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "American La France Pumper",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-yellow-19612",
+                "toy_number": "19612",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Headlight, Taillight Tampos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "BMW Z3",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-19438",
+                "toy_number": "19438",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow & White stripes with #5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Transport Truck",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Micro_Transport_Trcuk_%283%29.JPG/revision/latest?cb=20220824212523"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-ferrari-f50-challenge-micro",
+                "toy_number": "Ferrari F50 Challenge (micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Blue",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/Micro_Ferrari_%282%29.JPG/revision/latest?cb=20220825175659"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-mercedes-slk",
+                "toy_number": "Mercedes SLK",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Maroon",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Mercedestransport.jpg/revision/latest?cb=20250705152431"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-bmw-z3",
+                "toy_number": "BMW Z3",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/Bmwz3transport.jpg/revision/latest?cb=20250705152414"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-bmw-z3-v2",
+                "toy_number": "BMW Z3",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Ferrari Logos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Transport Truck",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-ferrari-f50-challenge",
+                "toy_number": "Ferrari F50 Challenge",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Yellow",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-ferrari-f50-challenge-v2",
+                "toy_number": "Ferrari F50 Challenge",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-ferrari-f50-challenge-v3",
+                "toy_number": "Ferrari F50 Challenge",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Black",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-18714",
+                "toy_number": "18714",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Off-Highway Truck (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-scraper-planet-micro",
+                "toy_number": "Scraper (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Off-Highway Truck (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-excavator-planet-micro",
+                "toy_number": "Excavator (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Off-Highway Truck (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-19439",
+                "toy_number": "19439",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Police Helicopter (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-armored-truck-planet-micro",
+                "toy_number": "Armored Truck (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Police Helicopter (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-police-cruiser-planet-micro",
+                "toy_number": "Police Cruiser (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Police Helicopter (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-19440",
+                "toy_number": "19440",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "School Bus",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-taxicab",
+                "toy_number": "Taxicab",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "School Bus",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-tow-truck",
+                "toy_number": "Tow Truck",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "School Bus",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-18715",
+                "toy_number": "18715",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "USAF Lockheed SR-71 Blackbird",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-british-scorpion-tank",
+                "toy_number": "British Scorpion Tank",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "USAF Lockheed SR-71 Blackbird",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-westland-lynx-helicopter",
+                "toy_number": "Westland Lynx Helicopter",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "USAF Lockheed SR-71 Blackbird",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-19436",
+                "toy_number": "19436",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Black & Brown Camo",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Multi-Missile Launcher",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-high-mobility-military-vehicle",
+                "toy_number": "High-Mobility Military Vehicle",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Multi-Missile Launcher",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-chinook-ch-47d",
+                "toy_number": "Chinook CH-47D",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Multi-Missile Launcher",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-20413",
+                "toy_number": "20413",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Westland Lynx Helicopter",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-british-scorpion-tank",
+                "toy_number": "British Scorpion Tank",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Westland Lynx Helicopter",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-multi-missile-launcher",
+                "toy_number": "Multi-Missile Launcher",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Westland Lynx Helicopter",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-bonus",
+                "toy_number": "Bonus",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Chinook CH-47D",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-high-mobility-military-vehicle-micro",
+                "toy_number": "High-Mobility Military Vehicle (micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Chinook CH-47D",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-21270",
+                "toy_number": "21270",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Scorpion Tank",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-landing-craft-air-cushion",
+                "toy_number": "Landing Craft Air Cushion",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Scorpion Tank",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-chinook-ch-47d-v2",
+                "toy_number": "Chinook CH-47D",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Scorpion Tank",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-grey-bonus",
+                "toy_number": "Bonus",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "Black & Brown Camo",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Multi-Missile Launcher",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-21271",
+                "toy_number": "21271",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "County ☆ Sheriff",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Sheriff's Truck",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-red-details-red-hot-wheels-logo-ufo",
+                "toy_number": "UFO",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Red details, Red Hot Wheels logo",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Silver",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-channel-8-news-hot-wheels-logo-satellite-news-van",
+                "toy_number": "Satellite News Van",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Channel 8 News, Hot Wheels logo",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-channel-8-news-hot-wheels-logo-bonus",
+                "toy_number": "Bonus",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Channel 8 News, Hot Wheels logo",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-channel-8-news-hot-wheels-logo-high-mobility-military-vehicle-micro",
+                "toy_number": "High-Mobility Military Vehicle (micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Channel 8 News, Hot Wheels logo",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/UFO_Sheriff_Truck.JPG/revision/latest?cb=20220901230926",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-blue-high-mobility-military-vehicle-micro",
+                "toy_number": "High-Mobility Military Vehicle (micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Sheriff Tampos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Pickup Truck",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-yellow-18716",
+                "toy_number": "18716",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "American La France Aerial Ladder Truck",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-yellow-american-la-france-pumper",
+                "toy_number": "American La France Pumper",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-yellow-westland-lynx-helicopter",
+                "toy_number": "Westland Lynx Helicopter",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-20246",
+                "toy_number": "20246",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "American La France Aerial Ladder Truck",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/Planet_Micro_20246_GOLD_Ladder_Truck_o2.jpg/revision/latest?cb=20241021055516"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-windows-hoses-roof-lights-white-headlights-american-la-france-pumper",
+                "toy_number": "American La France Pumper",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black windows, Hoses Roof lights , White headlights",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Planet_Micro_20246_American_la_France_Pumper_o1.jpg/revision/latest?cb=20241021053125"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-windows-hoses-roof-lights-white-headlights-westland-lynx-helicopter",
+                "toy_number": "Westland Lynx Helicopter",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black windows, Hoses Roof lights , White headlights",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/Planet_Micro_20246_GOLD_Helicopter_o1.jpg/revision/latest?cb=20241021055030",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-windows-hoses-roof-lights-white-headlights-rescue-chopper",
+                "toy_number": "Rescue Chopper",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black windows, Hoses Roof lights , White headlights",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Ambulance",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-windows-hoses-roof-lights-white-headlights-police-cruiser",
+                "toy_number": "Police Cruiser",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black windows, Hoses Roof lights , White headlights",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Ambulance",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-chrome-20248",
+                "toy_number": "20248",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "Black seat, gas cap & Grips; Red headlight",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Honda CBR1100XX (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-red-white-details-on-sides-top-thrust-2-planet-micro",
+                "toy_number": "Thrust 2 (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black, Red & White details on sides & top",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-blue-stripe-on-sides-w-white-tgv-tgv-train-grande-vitesse-atlantique",
+                "toy_number": "TGV (Train à Grande Vitesse) Atlantique",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue stripe on sides w/ White \"TGV\"",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-grilleb-windows-white-headlights-red-roof-lights-red-white-dwtails-on-sides-shockwave-truck-planet-micro",
+                "toy_number": "Shockwave Truck (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black grilleb & windows, White headlights, Red Roof lights, Red + White Dwtails on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-windows-lights-grille-jaguar-xj220-planet-micro",
+                "toy_number": "Jaguar XJ220 (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black windows, lights & grille",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-jaguar-xj220-planet-micro",
+                "toy_number": "Jaguar XJ220 (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Black seat, gas cap & Grips; Silver headlight",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Honda CBR1100XX (Planet Micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-red-white-details-on-sides-top-thrust-2-planet-micro-v2",
+                "toy_number": "Thrust 2 (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black, Red & White details on sides & top",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Bronze",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/Thrust2micro.jpg/revision/latest?cb=20250404221430"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-blue-stripe-on-sides-w-white-tgv-tgv-atlantique",
+                "toy_number": "TGV Atlantique",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue stripe on sides w/ White \"TGV\"",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Silver",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Traingrandvitessemicro.jpg/revision/latest?cb=20250404221458"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-windows-silver-roof-lights-red-orange-details-on-sides-shockwave-truck-planet-micro",
+                "toy_number": "Shockwave Truck (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black windows, Silver Roof lights, Red + Orange Details on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Yellow & Black",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-black-windows-lights-grille-jaguar-xj220-planet-micro-v2",
+                "toy_number": "Jaguar XJ220 (Planet Micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black windows, lights & grille",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Silver",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-yellow-15438",
+                "toy_number": "15438",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Headlights, Taillights",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Mercedes SLK",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Yellowslkseries1.jpg/revision/latest?cb=20250404205238"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-headlights-taillights-porsche-boxster-spyder",
+                "toy_number": "Porsche Boxster Spyder",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Headlights, Taillights",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "White",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Microboxsterseries1.jpg/revision/latest?cb=20250404205207"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-headlights-black-engine-detail-ferrari-f50-challenge",
+                "toy_number": "Ferrari F50 Challenge",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Headlights, Black Engine detail",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/F50challengemicrored.jpg/revision/latest?cb=20250404205348"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-headlights-red-interior-bmw-z3",
+                "toy_number": "BMW Z3",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Headlights, Red Interior",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Silver",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Z3silvermicro.jpg/revision/latest?cb=20250404205315"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-headlights-taillights-light-tan-interior-jaguar-xk8",
+                "toy_number": "Jaguar XK8",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Headlights, Taillights, Light Tan interior",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Green",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Microjaguarxk8.jpg/revision/latest?cb=20250404205415"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-yellow-19435",
+                "toy_number": "19435",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Black decals",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Ferrari F50 Challenge (micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Micro_Ferrari.JPG/revision/latest?cb=20220825175716"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-orange-yellow-flames-porsche-boxster-spyder",
+                "toy_number": "Porsche Boxster Spyder",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & Yellow Flames",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Purple",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Microboxsterseries2.jpg/revision/latest?cb=20250404204756"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-orange-yellow-flames-bmw-z3-towing-jet-ski",
+                "toy_number": "BMW Z3 towing Jet Ski",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & Yellow Flames",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Purple",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-spectraflame-blue-20415",
+                "toy_number": "20415",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Mercedes SLK",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Sport_Cars_Series_3_-_Copy_%282%29.jpg/revision/latest?cb=20230602230915"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-spectraflame-blue-ferrari-f50-challenge-micro",
+                "toy_number": "Ferrari F50 Challenge (micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Spectraflame Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Sport_Cars_Series_3_-_Copy_%284%29.jpg/revision/latest?cb=20230602230915"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-spectraflame-blue-porsche-boxster",
+                "toy_number": "Porsche Boxster",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Spectraflame Purple",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/Sport_Cars_Series_3_-_Copy_%283%29.jpg/revision/latest?cb=20230602230915"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-spectraflame-blue-bmw-z3",
+                "toy_number": "BMW Z3",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Spectraflame Black",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/Sport_Cars_Series_3_-_Copy_%285%29.jpg/revision/latest?cb=20230602230915"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-spectraflame-blue-jaguar-xk8",
+                "toy_number": "Jaguar XK8",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Spectraflame Green",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/Sport_Cars_Series_3_-_Copy_%286%29.jpg/revision/latest?cb=20230602230915"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-bonus-v2",
+                "toy_number": "Bonus",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Jaguar XJ220",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Sport_Cars_Series_3_-_Copy_%287%29.jpg/revision/latest?cb=20230602230915"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-pickup-truck-micro",
+                "toy_number": "Pickup Truck (micro)",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Yellow",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Sport_Cars_Series_3_-_Copy_%288%29.jpg/revision/latest?cb=20230602230916"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-red-stock-car",
+                "toy_number": "Red Stock Car",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/Sport_Cars_Series_3_-_Copy_%289%29.jpg/revision/latest?cb=20230602230915",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-chrome-porsche-boxster-spyder",
+                "toy_number": "Porsche Boxster Spyder",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-chrome-ferrari-f50-challenge",
+                "toy_number": "Ferrari F50 Challenge",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-chrome-bmw-z3",
+                "toy_number": "BMW Z3",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-gold-chrome-jaguar-xk8",
+                "toy_number": "Jaguar XK8",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Gold Chrome",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/1/11/Microslkwhite.jpg/revision/latest?cb=20250404211621"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-porsche-boxster-spyder",
+                "toy_number": "Porsche Boxster Spyder",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Orange",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-ferrari-f50-challenge",
+                "toy_number": "Ferrari F50 Challenge",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Yellow",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-bmw-z3",
+                "toy_number": "BMW Z3",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Blue",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-jaguar-xk8",
+                "toy_number": "Jaguar XK8",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-white-jaguar-xk8-v2",
+                "toy_number": "Jaguar XK8",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "American flag & \"USA\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Lockheed Martin X-33",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "Actually a 1/64 casting and not a \"Micro\" vehicle",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/X33.JPG/revision/latest?cb=20210820034108",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-spectraflame-blue-jaguar-xk8-v2",
+                "toy_number": "Jaguar XK8",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "Christmas Racing decals, #1",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Holiday Pro Racing Car",
+                    "photo_1_loose": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Holiday_Pro_Racing_Car.jpg/revision/latest?cb=20230414204046",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-clear-23847",
+                "toy_number": "23847",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Clear",
+                    "tampo": "Green Camo",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Westland Lynx Helicopter",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/PM_Xray_heli.jpg/revision/latest?cb=20230624204555"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-camo-british-scorpion-tank",
+                "toy_number": "British Scorpion Tank",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Camo",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Clear",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/PM_Xray_tank.jpg/revision/latest?cb=20230624204555"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-green-camo-multi-missile-launcher",
+                "toy_number": "Multi-Missile Launcher",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green Camo",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Clear",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/PM_Xray_tanker.jpg/revision/latest?cb=20230624204555",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-23844",
+                "toy_number": "23844",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Ferrari logo & \"Scuderia Ferrari\" on side",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "European Hauler",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/Planet_Micro_Grand_Prix_Racers_Ferrari_%282%29.jpg/revision/latest?cb=20230621133711"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-ferrari-shell-racing-logos-indy-car",
+                "toy_number": "Indy Car",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Ferrari, Shell, & Racing logos",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/Planet_Micro_Grand_Prix_Racers_Ferrari_%283%29.jpg/revision/latest?cb=20230621133711"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-ferrari-shell-racing-logos-indy-car-v2",
+                "toy_number": "Indy Car",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Ferrari, Shell, & Racing logos",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/Planet_Micro_Grand_Prix_Racers_Ferrari_%284%29.jpg/revision/latest?cb=20230621133711",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-indy-car",
+                "toy_number": "Indy Car",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow tampos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Pickup Truck (micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-indy-car-v2",
+                "toy_number": "Indy Car",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Logo on hood",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Pickup Truck (micro)",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-blue-23850",
+                "toy_number": "23850",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "\"The Snake\" on roof",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Transport Truck",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/PM_The_Snake_Truck.jpg/revision/latest?cb=20230624203444"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-snake-racing-decals-plymouth-duster-funny-car",
+                "toy_number": "Plymouth Duster Funny Car",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Snake & Racing decals",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Yellow",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/PM_The_Snake_Yellow.jpg/revision/latest?cb=20230624203445"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-snake-ii-racing-decals-plymouth-duster-funny-car",
+                "toy_number": "Plymouth Duster Funny Car",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Snake II & Racing decals",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "White",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/PM_The_Snake_White.jpg/revision/latest?cb=20230624203445"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-red-21934",
+                "toy_number": "21934",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow Flames",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Jaguar XJ220",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "Flames",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-caterpillar-decals-caterpillar-dump-truck",
+                "toy_number": "Caterpillar Dump Truck",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Caterpillar decals",
+                    "tampo": "Construction",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Yellow",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-1-hw-racing-decals-pontiac-grand-prix-stocker",
+                "toy_number": "Pontiac Grand Prix Stocker",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "#1, HW Racing decals",
+                    "tampo": "Hot Wheels Racing",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Blue",
+                    "photo_1_loose": "​",
+                    "photo_2_boxed": "​"
+                },
+                "country": "",
+                "notes": "​",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/UptownDowntown.webp/revision/latest?cb=20240924201217"
+                }
+            },
+            {
+                "release_id": "0-planet-micro-1-hw-racing-decals-19611",
+                "toy_number": "19611",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "#1, HW Racing decals",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "set_name": "Rescue Station Micro Stacking Playset #2",
+                    "set_picture": "",
+                    "cars_included": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": ""
+                }
+            },
+            {
+                "release_id": "0-planet-micro-1-hw-racing-decals-19613",
+                "toy_number": "19613",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "#1, HW Racing decals",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "set_name": "CAT Construction Zone Micro Stacking Playset #3",
+                    "set_picture": "",
+                    "cars_included": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": ""
+                }
+            },
+            {
+                "release_id": "0-planet-micro-1-hw-racing-decals-22931",
+                "toy_number": "22931",
+                "casting_id": "planet-micro",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "#1, HW Racing decals",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "set_name": "Earthquake Disaster Site Micro Stacking Playset",
+                    "set_picture": "",
+                    "cars_included": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": ""
+                }
+            }
+        ]
+    }
+]

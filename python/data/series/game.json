@@ -1,0 +1,15 @@
+{
+    "series_id": "game",
+    "name": "Game",
+    "description": "Hot Wheels Game Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21305.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21305.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21306.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21306.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21307.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21307.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21308.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21308.json"
+    ]
+}

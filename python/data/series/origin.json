@@ -1,0 +1,8 @@
+{
+    "series_id": "origin",
+    "name": "Origin",
+    "description": "Hot Wheels Origin Series",
+    "releases": [
+        "../data/releases/2015/2015-twin-mill-spectraflame-green-cdt29.json"
+    ]
+}

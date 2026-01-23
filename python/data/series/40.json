@@ -1,0 +1,10 @@
+{
+    "series_id": "40",
+    "name": "40",
+    "description": "Hot Wheels 40 Series",
+    "releases": [
+        "../data/releases/2008/2008-funny-money-metalflake-gold-m0543.json",
+        "../data/releases/2008/2008-scool-bus-black-m0543.json",
+        "../data/releases/2008/2008-twin-mill-chrome-m0543.json"
+    ]
+}

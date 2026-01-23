@@ -1,0 +1,977 @@
+[
+    {
+        "casting_id": "steering-rigs",
+        "name": "Steering Rigs",
+        "description": {
+            "en-us": "Hot Wheels Steering Rigs was a line of detailed semi tractor and trailer sets that were released in 1981 and 1982. On the back of the trailer, there was a large wheel on top which could be used to steer the rig. See detail below:",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Steering",
+        "releases": [
+            {
+                "release_id": "1981-steering-rigs-yellow-1917",
+                "toy_number": "1917",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "GMC Hauler",
+                    "trailer_color": "Yellow",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/GMC_Hauler-24679_4.jpg/revision/latest?cb=20151013055235"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-yellow-1917-v2",
+                "toy_number": "1917",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "GMC Hauler",
+                    "trailer_color": "Yellow",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "Brighter yellow cab & trailer",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/GMC_Hauler-24677_3.jpg/revision/latest?cb=20151013055347"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-grey-1920",
+                "toy_number": "1920",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "GMC Van",
+                    "trailer_color": "Grey",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "Blue trailer door",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/GMC_Van-24684_4.jpg/revision/latest?cb=20151013054534"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-grey-1920-v2",
+                "toy_number": "1920",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "GMC Van",
+                    "trailer_color": "Grey",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "Gray trailer door",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/GMC_Van-24683_4.jpg/revision/latest?cb=20151013054325"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-blue-1918",
+                "toy_number": "1918",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Kenworth Tanker",
+                    "trailer_color": "Grey",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Steering_rigs_blue_cab.JPG/revision/latest?cb=20111025222216"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-white-1918",
+                "toy_number": "1918",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Kenworth Tanker",
+                    "trailer_color": "Grey",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "White cab with gray tanker trailer w/\"Arco\" logo on sides",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-white-1915",
+                "toy_number": "1915",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Kenworth Van",
+                    "trailer_color": "White",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "Gray trailer door",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Kenworth_Van-24687_4.jpg/revision/latest?cb=20151015060418"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-white-1915-v2",
+                "toy_number": "1915",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Kenworth Van",
+                    "trailer_color": "White",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "Red trailer door",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Kenworth_Van-24689_4.jpg/revision/latest?cb=20151015060516"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-white-1915-v3",
+                "toy_number": "1915",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Kenworth Van",
+                    "trailer_color": "White",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "White trailer door",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Kenworth_Van-24688_4.jpg/revision/latest?cb=20151015060135"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-orange-3431",
+                "toy_number": "3431",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Mack Moving Van",
+                    "trailer_color": "Orange",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Mack_Moving_Van-24686_4.jpg/revision/latest?cb=20151013053802"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-orange-1919",
+                "toy_number": "1919",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Peterbilt Hauler",
+                    "trailer_color": "Orange",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Peterbilt_Hauler-24680_4.jpg/revision/latest?cb=20151013054925"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-orange-1919-v2",
+                "toy_number": "1919",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Peterbilt Hauler",
+                    "trailer_color": "White",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "Red cab with orange gravel trailer w/\"Bob's Sand and Gravel\" on sides",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-red-1916",
+                "toy_number": "1916",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Peterbilt Tanker",
+                    "trailer_color": "White",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Peterbilt_Tanker_Cab_-_7616cf.jpg/revision/latest?cb=20090817082642"
+                }
+            },
+            {
+                "release_id": "1981-steering-rigs-red-1916-v2",
+                "toy_number": "1916",
+                "casting_id": "steering-rigs",
+                "year": 1981,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Peterbilt Tanker",
+                    "trailer_color": "White",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "Dark orange cab",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Kenworth_Tanker-24681_4.jpg/revision/latest?cb=20151018162347"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-blue-3430",
+                "toy_number": "3430",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Ford LTL Cattle Trailer",
+                    "trailer_color": "White",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/Ford_LTL_Cattle_Trailer-24691_4.jpg/revision/latest?cb=20151016223625"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-yellow-3433",
+                "toy_number": "3433",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Ford LTL Moving Van",
+                    "trailer_color": "Yellow",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Ford_LTL_Moving_Van-24690_4.jpg/revision/latest?cb=20151015055922"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-blue-3434",
+                "toy_number": "3434",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Mack Grain Trailer",
+                    "trailer_color": "Blue & Tan",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/Mack_Grain_Trailer-24695_4.jpg/revision/latest?cb=20151016223853"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-blue-3434-v2",
+                "toy_number": "3434",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Mack Grain Trailer",
+                    "trailer_color": "Blue & Tan",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/Mack_Grain_Trailer-24694_4.jpg/revision/latest?cb=20151016223934"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-red-3435",
+                "toy_number": "3435",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "White Cattle Trailer",
+                    "trailer_color": "Grey",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "Red cab & gray trailer with white, black, & yellow tampo",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/White_Cattle_Trailer-24692_4.jpg/revision/latest?cb=20151018164540"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-red-3435-v2",
+                "toy_number": "3435",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "White Cattle Trailer",
+                    "trailer_color": "Grey",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "Darker red cab & light gray trailer with white, black, & orange tampo",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/White_Cattle_Trailer-24693_4.jpg/revision/latest?cb=20151018164710"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-white-3432",
+                "toy_number": "3432",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "White Grain Trailer",
+                    "trailer_color": "Grey & Black",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/White_Grain_Trailer-24758_4.jpg/revision/latest?cb=20151023060633"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-white-3432-v2",
+                "toy_number": "3432",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "White Grain Trailer",
+                    "trailer_color": "Grey & Black",
+                    "cab_photo": "",
+                    "full_photo": "",
+                    "boxed_photo": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/White_Grain_Trailer-24696_4.jpg/revision/latest?cb=20151016224214"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-light-blue-5674",
+                "toy_number": "5674",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Ford",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/Ford_LTL_Cattle_Trailer-24691_4.jpg/revision/latest?cb=20151016223625"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-yellow-5677",
+                "toy_number": "5677",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Ford",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Ford_LTL_Moving_Van-24690_4.jpg/revision/latest?cb=20151015055922"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-gray-5673",
+                "toy_number": "5673",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "GMC",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/GMC_Van-24684_4.jpg/revision/latest?cb=20151013054534"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-yellow-5670",
+                "toy_number": "5670",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "GMC",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/GMC_Hauler-24679_4.jpg/revision/latest?cb=20151013055235"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-dark-blue-5671",
+                "toy_number": "5671",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Kenworth",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Steering_rigs_blue_cab.JPG/revision/latest?cb=20111025222216"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-white-5668",
+                "toy_number": "5668",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Kenworth",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Kenworth_Van-24687_4.jpg/revision/latest?cb=20151015060418"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-dark-blue-5678",
+                "toy_number": "5678",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Mack",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/Mack_Grain_Trailer-24695_4.jpg/revision/latest?cb=20151016223853"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-orange-5675",
+                "toy_number": "5675",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Mack",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Mack_Moving_Van-24686_4.jpg/revision/latest?cb=20151013053802"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-orange-5672",
+                "toy_number": "5672",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Peterbilt",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Peterbilt_Hauler-24680_4.jpg/revision/latest?cb=20151013054925"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-red-5669",
+                "toy_number": "5669",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Peterbilt",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Peterbilt_Tanker_Cab_-_7616cf.jpg/revision/latest?cb=20090817082642"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-red-5679",
+                "toy_number": "5679",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "White",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/White_Cattle_Trailer-24692_4.jpg/revision/latest?cb=20151018164540"
+                }
+            },
+            {
+                "release_id": "1982-steering-rigs-white-5676",
+                "toy_number": "5676",
+                "casting_id": "steering-rigs",
+                "year": 1982,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "White",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/White_Grain_Trailer-24758_4.jpg/revision/latest?cb=20151023060633"
+                }
+            }
+        ]
+    }
+]

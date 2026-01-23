@@ -1,0 +1,9 @@
+{
+    "series_id": "trail",
+    "name": "Trail",
+    "description": "Hot Wheels Trail Series",
+    "releases": [
+        "../data/releases/1989/1989-hot-wheels-by-collector-number-unknown-1517.json",
+        "../data/releases/1989/1989-hot-wheels-by-collector-number-unknown-1517.json"
+    ]
+}

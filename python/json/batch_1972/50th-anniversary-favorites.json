@@ -1,0 +1,323 @@
+[
+    {
+        "casting_id": "50th-anniversary-favorites",
+        "name": "50th Anniversary Favorites",
+        "description": {
+            "en-us": "In 2018, Hot Wheels celebrated their 50 th Anniversary by releasing several special series including the 50 th Anniversary Favorites . Be sure to checkout the rest on the 50 th Anniversary page.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "50th",
+        "releases": [
+            {
+                "release_id": "0-50th-anniversary-favorites-maroon-flf38",
+                "toy_number": "FLF38",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "col": "1/10",
+                    "casting_name": "'56 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L15, L18",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/50thfav56chev.JPG/revision/latest?cb=20180422042007"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-red-flf37",
+                "toy_number": "FLF37",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "col": "2/10",
+                    "casting_name": "'71 AMC Javelin",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L02, L07, L14, L20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/50thfavjav.JPG/revision/latest?cb=20180422042146"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-metalflake-copper-flf40",
+                "toy_number": "FLF40",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRSteelie"
+                    },
+                    "col": "3/10",
+                    "casting_name": "'60's Ford Econoline Pickup",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L02, L03, L07, L17, L18, L20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/50thfavecono.JPG/revision/latest?cb=20180422042113"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-metalflake-dark-green-flf39",
+                "toy_number": "FLF39",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SRR"
+                    },
+                    "col": "4/10",
+                    "casting_name": "Custom '69 Volkswagen Squareback",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L07, L14, L17, L18",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/50thfavvwsquare.JPG/revision/latest?cb=20180422042213"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-metalflake-blue-flf36",
+                "toy_number": "FLF36",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "C4SPRR"
+                    },
+                    "col": "5/10",
+                    "casting_name": "'71 Datsun Bluebird 510 Wagon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L02, L03, L04, L05, L09, L14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/50thfav510.JPG/revision/latest?cb=20180422042041"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-unpainted-flf41",
+                "toy_number": "FLF41",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Unpainted",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "col": "6/10",
+                    "casting_name": "Volkswagen T1 Drag Bus",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L34, L35, L37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/21_Window_Volkswagen_Drag_Bus.JPG/revision/latest?cb=20181127141044"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-red-flf42",
+                "toy_number": "FLF42",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRMag"
+                    },
+                    "col": "7/10",
+                    "casting_name": "'78 Dodge Li'l Red Express Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New Die-Cast Chassis Base code(s): L37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Dodge_Lil%27_Red_Express_Truck._Front._50th_Favorites.jpg/revision/latest?cb=20181110005852"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-magenta-flf43",
+                "toy_number": "FLF43",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Magenta",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Hoosier RRDragS & RRPrf"
+                    },
+                    "col": "8/10",
+                    "casting_name": "'55 Chevy Bel Air Gasser",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L33, L37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/%2755_Chevy_Belair_Gasser_Front_Pers.jpg/revision/latest?cb=20181101011351"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-metalflake-dark-blue-fvr87",
+                "toy_number": "FVR87",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Hoosier RRDragS & RRPrf"
+                    },
+                    "col": "8/10",
+                    "casting_name": "'55 Chevy Bel Air Gasser",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Kroger Exclusive Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/55_Chevy_Gasser_Favourites_Black.jpg/revision/latest?cb=20200716141831"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-pearl-yellow-flf44",
+                "toy_number": "FLF44",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "col": "9/10",
+                    "casting_name": "'69 Camaro",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L34, L37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/%2769_Camaro._50th_Favorites._Side.jpg/revision/latest?cb=20181110012806"
+                }
+            },
+            {
+                "release_id": "0-50th-anniversary-favorites-light-blue-flf45",
+                "toy_number": "FLF45",
+                "casting_id": "50th-anniversary-favorites",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRS"
+                    },
+                    "col": "10/10",
+                    "casting_name": "'65 Ford Galaxie",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): L32, L33, L37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/%2765_Ford_Galaxy._Gulf._Front.jpg/revision/latest?cb=20181110003310"
+                }
+            }
+        ]
+    }
+]

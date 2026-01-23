@@ -1,0 +1,11 @@
+{
+    "series_id": "red",
+    "name": "Red",
+    "description": "Hot Wheels Red Series",
+    "releases": [
+        "../data/releases/2002/2002-classic-32-ford-vicky-metalflake-purple-54382.json",
+        "../data/releases/2002/2002-side-kick-metalflake-blue-54383.json",
+        "../data/releases/unknown/0-action-racers-unknown-2415.json",
+        "../data/releases/unknown/0-action-racers-unknown-2415.json"
+    ]
+}

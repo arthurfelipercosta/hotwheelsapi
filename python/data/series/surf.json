@@ -1,0 +1,15 @@
+{
+    "series_id": "surf",
+    "name": "Surf",
+    "description": "Hot Wheels Surf Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21309.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21309.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21310.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21310.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21311.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21311.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21312.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21312.json"
+    ]
+}

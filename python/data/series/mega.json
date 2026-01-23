@@ -1,0 +1,15 @@
+{
+    "series_id": "mega",
+    "name": "Mega",
+    "description": "Hot Wheels Mega Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21321.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21321.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21322.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21322.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21323.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21323.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21324.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21324.json"
+    ]
+}

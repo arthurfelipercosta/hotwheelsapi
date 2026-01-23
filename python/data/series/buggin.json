@@ -1,0 +1,15 @@
+{
+    "series_id": "buggin",
+    "name": "Buggin",
+    "description": "Hot Wheels Buggin Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21100.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21100.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21101.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21101.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21102.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21102.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21103.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21103.json"
+    ]
+}

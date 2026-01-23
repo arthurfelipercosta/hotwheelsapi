@@ -1,0 +1,8 @@
+{
+    "series_id": "nft",
+    "name": "Nft",
+    "description": "Hot Wheels Nft Series",
+    "releases": [
+        "../data/releases/2022/2022-twin-mill-spectraflame-antifreeze-hlp61.json"
+    ]
+}

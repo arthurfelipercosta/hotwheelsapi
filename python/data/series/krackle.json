@@ -1,0 +1,15 @@
+{
+    "series_id": "krackle",
+    "name": "Krackle",
+    "description": "Hot Wheels Krackle Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13268.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13268.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13269.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13269.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13271.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13271.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-3286.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-3286.json"
+    ]
+}

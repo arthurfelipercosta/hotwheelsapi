@@ -1,0 +1,8 @@
+{
+    "series_id": "truckin",
+    "name": "Truckin",
+    "description": "Hot Wheels Truckin Series",
+    "releases": [
+        "../data/releases/2007/2007-twin-mill-metalflake-green-j3545.json"
+    ]
+}

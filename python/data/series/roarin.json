@@ -1,0 +1,15 @@
+{
+    "series_id": "roarin",
+    "name": "Roarin",
+    "description": "Hot Wheels Roarin Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13289.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13289.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13290.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13290.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13291.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13291.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13292.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13292.json"
+    ]
+}

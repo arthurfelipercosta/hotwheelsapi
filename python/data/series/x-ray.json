@@ -1,0 +1,17 @@
+{
+    "series_id": "x-ray",
+    "name": "X Ray",
+    "description": "Hot Wheels X Ray Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21104.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21104.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21105.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21105.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21106.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21106.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21107.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21107.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-24483.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-24483.json"
+    ]
+}

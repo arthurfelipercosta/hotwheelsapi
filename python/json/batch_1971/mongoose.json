@@ -1,0 +1,452 @@
+[
+    {
+        "casting_id": "mongoose",
+        "name": "Mongoose",
+        "description": {
+            "en-us": "Mongoose Debut series 1970 Hot Wheels Produced 1970 - 1973 (Original) 1994 - 2012 (Retool) Designer Larry Wood Number 6970",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1970,
+        "manufacturer": "Mongoose",
+        "releases": [
+            {
+                "release_id": "1970-mongoose-red-6410",
+                "toy_number": "6410",
+                "casting_id": "mongoose",
+                "year": 1970,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black roll cage",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "White w/ the \"Goo$e\""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Mongoosefunnycar.jpg/revision/latest?cb=20080312162751"
+                }
+            },
+            {
+                "release_id": "1971-mongoose-dark-blue-5954",
+                "toy_number": "5954",
+                "casting_id": "mongoose",
+                "year": 1971,
+                "series_id": "mongoose",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black roll cage",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Hot Wheels Logo and 'Mongoose II' on side, Red Flames on top"
+                },
+                "country": "Hong Kong",
+                "notes": "Named Mongoose II",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/Mongoose2.jpg/revision/latest?cb=20080314160737"
+                }
+            },
+            {
+                "release_id": "1971-mongoose-light-blue-5954",
+                "toy_number": "5954",
+                "casting_id": "mongoose",
+                "year": 1971,
+                "series_id": "mongoose",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black roll cage",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Hot Wheels Logo and 'Mongoose II' on side, Red Flames on top"
+                },
+                "country": "USA",
+                "notes": "Named Mongoose II",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/1971SM-MonII_%28Large%29.JPG/revision/latest?cb=20201212110316"
+                }
+            },
+            {
+                "release_id": "1973-mongoose-enamel-red-6969",
+                "toy_number": "6969",
+                "casting_id": "mongoose",
+                "year": 1973,
+                "series_id": "list",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Black roll cage",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Tom McEwen stickers"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Mongoose_1973_Red.JPG/revision/latest?cb=20180518071830"
+                }
+            },
+            {
+                "release_id": "1973-mongoose-enamel-blue-6969",
+                "toy_number": "6969",
+                "casting_id": "mongoose",
+                "year": 1973,
+                "series_id": "list",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Black roll cage",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Tom McEwen stickers"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/Mongoose.jpg/revision/latest?cb=20080413011025"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-metalflake-orange-12496",
+                "toy_number": "12496",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Vintage Series 8 Pack",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Mongoose.Vintage_Set.jpg/revision/latest?cb=20200709203653"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-metalflake-red-14072",
+                "toy_number": "14072",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body Limited Edition",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Jeremy_Mongoose_Limited.jpg/revision/latest?cb=20220219042745"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-metalflake-orange-12496-v2",
+                "toy_number": "12496",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Like Vintage Series 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Mongoose.Vintage_Set.jpg/revision/latest?cb=20200709203653"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-metalflake-aqua-15320",
+                "toy_number": "15320",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Vintage_Blue_Mongoose.JPG/revision/latest?cb=20220903172750"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-metalflake-red-10783",
+                "toy_number": "10783",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/Mongoose_93_vintage_series_red_metallic.JPG/revision/latest?cb=20120116202400"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-metalflake-dark-red-10783",
+                "toy_number": "10783",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/1993_Vintage_Series_II_Button_Blister_Card_Mongoose.jpg/revision/latest?cb=20211225131715"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-metalflake-pink-10783",
+                "toy_number": "10783",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/Jeremy_Mongoose_Pink.jpg/revision/latest?cb=20220219042754"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-metalflake-blue-10783",
+                "toy_number": "10783",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/1994_mongoose_blue.jpg/revision/latest?cb=20250620003141"
+                }
+            },
+            {
+                "release_id": "1994-mongoose-dark-blue-10783",
+                "toy_number": "10783",
+                "casting_id": "mongoose",
+                "year": 1994,
+                "series_id": "mongoose",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "Red stripes",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "1997-mongoose-gold-plated-15930",
+                "toy_number": "15930",
+                "casting_id": "mongoose",
+                "year": 1997,
+                "series_id": "jcpenny",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold plated",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold RL3"
+                    }
+                },
+                "country": "China",
+                "notes": "6,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/JCPenny_24K_Performance_Collection_II_1997_Malaysia_15930_Mongoose_Loose.jpg/revision/latest?cb=20240125205102"
+                }
+            },
+            {
+                "release_id": "1998-mongoose-purple-19744",
+                "toy_number": "19744",
+                "casting_id": "mongoose",
+                "year": 1998,
+                "series_id": "great",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "\"HEMI DUSTER\", white stripes, & various sponsor logos on sides, black hood, \"426\" on sides & hood",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "5SP"
+                    }
+                },
+                "country": "China",
+                "notes": "Target Exclusive",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Great_V-8s_1998_China_19744_Open.jpg/revision/latest?cb=20250926132245"
+                }
+            },
+            {
+                "release_id": "2005-mongoose-red-h9604",
+                "toy_number": "H9604",
+                "casting_id": "mongoose",
+                "year": 2005,
+                "series_id": "mongoose",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Mongoose paint scheme",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "RL5SP"
+                    }
+                },
+                "country": "Malaysia",
+                "notes": "Kmart Exclusive",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/Plymouth_Duster_Funny_Car_-_05_MSDragRaceSet_600pxOTD.png/revision/latest?cb=20170126061011"
+                }
+            },
+            {
+                "release_id": "2012-mongoose-red-w8308",
+                "toy_number": "W8308",
+                "casting_id": "mongoose",
+                "year": 2012,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Mongoose race deco on sides, white & blue stripes with white stars along top",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RRMag"
+                    }
+                },
+                "country": "Thailand",
+                "notes": "Base code(s): D48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/MongooseDuster.JPG/revision/latest?cb=20150320194944"
+                }
+            }
+        ]
+    }
+]

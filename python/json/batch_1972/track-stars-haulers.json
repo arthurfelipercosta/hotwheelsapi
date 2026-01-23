@@ -1,0 +1,2031 @@
+[
+    {
+        "casting_id": "track-stars-haulers",
+        "name": "Track Stars Haulers",
+        "description": {
+            "en-us": "Track Stars Haulers was the first series of transport trucks that do not include a bonus vehicle. The series was introduced in 2014, and similar to Trackin' Trucks , these noticeably smaller than other series transporters, which allowed them to run on tracks. Also in 2014, Super Rigs was launched, which returned to the sizing of previous series and retained the bonus vehicle. The line was renamed to Track Fleet in 2024.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Track",
+        "releases": [
+            {
+                "release_id": "0-track-stars-haulers-orange-bfm75",
+                "toy_number": "BFM75",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "Metalflake Purple / Metal & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "Tinted (Purple)",
+                    "interior_color": "Chrome Black",
+                    "wheel_type": {
+                        "0": "Chrome Purple PR5"
+                    },
+                    "casting_name": "Hitch N' Haul",
+                    "tampos": "Black, Silver & Purple stripes on sides, HW logo on sides of trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): G27, G28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-bfm76",
+                "toy_number": "BFM76",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Metalflake Purple / Metal & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red 5SP"
+                    },
+                    "casting_name": "Fuel & Fire",
+                    "tampos": "Black, Silver & Purple stripes on sides, HW logo on sides of trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/IMG_374_24.jpg/revision/latest?cb=20170527072606"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-white-cgj43",
+                "toy_number": "CGJ43",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & White",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "Chrome Gold",
+                    "interior_color": "Chrome Gold",
+                    "wheel_type": {
+                        "0": "Gold OH5SP"
+                    },
+                    "casting_name": "Turbo Beast",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): H48, J06",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Turbo_Beast.jpg/revision/latest?cb=20240728132859"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-bfm65",
+                "toy_number": "BFM65",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Mr. Big",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-green-bfm73",
+                "toy_number": "BFM73",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Caged Cargo",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-orange-bfm75-v2",
+                "toy_number": "BFM75",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Hitch N' Haul",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-bfm76-v2",
+                "toy_number": "BFM76",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Fuel & Fire",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-white-bfm77",
+                "toy_number": "BFM77",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & White",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Aero Blast",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-cgj45",
+                "toy_number": "CGJ45",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Custom Volkswagen Hauler",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-bfm76-v3",
+                "toy_number": "BFM76",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Fuel & Fire",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-bgk20",
+                "toy_number": "BGK20",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Road Rally",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-bgk21",
+                "toy_number": "BGK21",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Copter Chase",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-bgk22",
+                "toy_number": "BGK22",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Bone Blazers",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/7725BEA3-7A22-4E50-BE38-B767E660C022.jpeg/revision/latest?cb=20191231181758"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-purple-cgj37",
+                "toy_number": "CGJ37",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Speed Blaster",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-cgj41",
+                "toy_number": "CGJ41",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Turbo Beast",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-brown-cgj44",
+                "toy_number": "CGJ44",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Custom Volkswagen Hauler",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-translucent-green-fpc79",
+                "toy_number": "FPC79",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Translucent Green",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Speed Hauler",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-bfm61",
+                "toy_number": "BFM61",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Caged Cargo",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/P4296886.JPG/revision/latest?cb=20140531041130"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-teal-bfm63",
+                "toy_number": "BFM63",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Teal",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Hitch N' Haul",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/P4166881.JPG/revision/latest?cb=20140531040847"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-bfm64",
+                "toy_number": "BFM64",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Fuel & Fire",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/20240709102747.jpg/revision/latest?cb=20240709022851"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-neon-orange-bfm67",
+                "toy_number": "BFM67",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Neon Orange",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Racing Convoy",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Same model as Copter Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-chrome-bfm68",
+                "toy_number": "BFM68",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Bone Blazers",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/P5306904.JPG/revision/latest?cb=20140531042113"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-off-white-bfm70",
+                "toy_number": "BFM70",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Off-White",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Haulin' Heat",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-off-white-bfm70-v2",
+                "toy_number": "BFM70",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Off-White",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Haulin' Heat",
+                    "tampos": "Black & Gold circle on sides, '62' on cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Glows in the dark package variation",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-translucent-blue-bfm71",
+                "toy_number": "BFM71",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Translucent Blue",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "Gold Chrome",
+                    "interior_color": "none",
+                    "wheel_type": {
+                        "0": "Gold rim, Transparent Blue OH5"
+                    },
+                    "casting_name": "Speed Hauler",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/20240709102735.jpg/revision/latest?cb=20240709022902"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-green-bfm73-v2",
+                "toy_number": "BFM73",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Caged Cargo",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-green-black-bfm74",
+                "toy_number": "BFM74",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green & Black",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Speed Fleet",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-white-bfm77-v2",
+                "toy_number": "BFM77",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & White",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Aero Blast",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-purple-bfm78",
+                "toy_number": "BFM78",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Aero Blast",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/7015F762-FD06-4382-9499-C222DB1A6122.jpeg/revision/latest?cb=20191231230733"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-bgk21-v2",
+                "toy_number": "BGK21",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Racing Convoy",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Same model as Copter Chase",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-white-cgj43-v2",
+                "toy_number": "CGJ43",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & White",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Turbo Beast",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Turbo_Beast.jpg/revision/latest?cb=20240728132859"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-brown-cgj44-v2",
+                "toy_number": "CGJ44",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Custom Volkswagen Hauler",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-red-gmb67",
+                "toy_number": "GMB67",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Red",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Custom Volkswagen Hauler",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/VWHaulerRed.jpg/revision/latest?cb=20210124033031"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-bfm64-v2",
+                "toy_number": "BFM64",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Fuel & Fire",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-chrome-bfm68-v2",
+                "toy_number": "BFM68",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Bone Blazers",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/P5306904.JPG/revision/latest?cb=20140531042113"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-bfm69",
+                "toy_number": "BFM69",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Hiway Hauler",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/P4166882.jpg/revision/latest?cb=20140531041026"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-glow-white-bfm70",
+                "toy_number": "BFM70",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Glow White",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "Purple Tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Glow White and Purple 5SP"
+                    },
+                    "casting_name": "Haulin' Heat",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Glows in the dark",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-green-bfm72",
+                "toy_number": "BFM72",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "White / Metal & ZAMAC",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Haulin' Heat",
+                    "tampos": "White & gold 'digital' graphics & gold Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/P5306906.jpg/revision/latest?cb=20140531042617"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-orange-bfm75-v3",
+                "toy_number": "BFM75",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "Metalflake Purple / Metal & Unpainted / Metal",
+                    "base_type": "",
+                    "window_color": "Tinted (Purple)",
+                    "interior_color": "Chrome Black",
+                    "wheel_type": {
+                        "0": "Chrome Purple PR5"
+                    },
+                    "casting_name": "Hitch N' Haul",
+                    "tampos": "Black, Silver & Purple stripes on sides, HW logo on sides of trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-bgk22-v2",
+                "toy_number": "BGK22",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "Black / Plastic",
+                    "base_type": "",
+                    "window_color": "Tinted (green)",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "MC5 (Muscle)"
+                    },
+                    "casting_name": "Bone Blazers",
+                    "tampos": "Green & White flames on sides.",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/7725BEA3-7A22-4E50-BE38-B767E660C022.jpeg/revision/latest?cb=20191231181758"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-purple-cgj37-v2",
+                "toy_number": "CGJ37",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "Black / Plastic",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Speed Blaster",
+                    "tampos": "Green & White flames on sides.",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-cgj41-v2",
+                "toy_number": "CGJ41",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Black / Plastic",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Turbo Beast",
+                    "tampos": "Green & White flames on sides.",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-brown-cgj44-v3",
+                "toy_number": "CGJ44",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "",
+                    "base_color": "Black / Plastic",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Custom Volkswagen Hauler",
+                    "tampos": "Green & White flames on sides.",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-translucent-green-fpc79-v2",
+                "toy_number": "FPC79",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Translucent Green",
+                    "tampo": "",
+                    "base_color": "Black / Plastic",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Speed Hauler",
+                    "tampos": "Green & White flames on sides.",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-gkc33",
+                "toy_number": "GKC33",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "Black / Plastic",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Scania Rally Truck",
+                    "tampos": "\"M. Stewart Racing\"",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-pearl-red-black-gmb67",
+                "toy_number": "GMB67",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl Red & black",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Pearl red",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Custom Volkswagen Hauler",
+                    "tampos": "Hot Wheels logo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): N43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/VWHaulerRed.jpg/revision/latest?cb=20210124033031"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-grv11",
+                "toy_number": "GRV11",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Black / Plastic",
+                    "base_type": "",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BAJA5"
+                    },
+                    "casting_name": "Scania Rally Truck",
+                    "tampos": "\"Hot Wheels\" graffiti",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): N43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/ScaniaRallyTruck.jpg/revision/latest?cb=20210124033304"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-grv12",
+                "toy_number": "GRV12",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Yellow / Metal",
+                    "base_type": "",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Mercedes-Benz Actros",
+                    "tampos": "\"Hot Wheels\" graffiti on trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): N43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/Actros.jpg/revision/latest?cb=20210124033210"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-grv13",
+                "toy_number": "GRV13",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Black / Plastic",
+                    "base_type": "",
+                    "window_color": "Yellow tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "casting_name": "Firehouse Fueler",
+                    "tampos": "\"FIREHOUSE FUELER\" on trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/Firehouse_Fueler-loose.jpg/revision/latest?cb=20210625014531"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-grv14",
+                "toy_number": "GRV14",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Gray / Plastic & Red / Metal",
+                    "base_type": "",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "casting_name": "Mercedes-Benz Actros",
+                    "tampos": "Hot Wheels logo on trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-grv16",
+                "toy_number": "GRV16",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Black / Plastic & Gray / Metal",
+                    "base_type": "",
+                    "window_color": "Cyan tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Loco Loopster",
+                    "tampos": "\"LOCO LOOPSTER\" on trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-cgj45-v2",
+                "toy_number": "CGJ45",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Custom Volkswagen Hauler",
+                    "tampos": "Silver, White & Dark Blue flames on sides",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-hfc95",
+                "toy_number": "HFC95",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Haulin' Class",
+                    "tampos": "Silver, White & Dark Blue flames on sides",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "New casting Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-bfm65-v2",
+                "toy_number": "BFM65",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Mr. Big",
+                    "tampos": "Silver, White & Dark Blue flames on sides",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-dark-blue-hfc97",
+                "toy_number": "HFC97",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black BAJA5"
+                    },
+                    "casting_name": "Scania Rally Truck",
+                    "tampos": "Hot Wheels Off Road Chase Rig, labeled side storage doors",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-green-bfm74",
+                "toy_number": "BFM74",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Speed Fleet",
+                    "tampos": "Hot Wheels Off Road Chase Rig, labeled side storage doors",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-hfc94",
+                "toy_number": "HFC94",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Steamin' Gleamin'",
+                    "tampos": "Hot Wheels Off Road Chase Rig, labeled side storage doors",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "New casting Mix 1",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-purple-chrome-bfm78",
+                "toy_number": "BFM78",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple & Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Purple OH5"
+                    },
+                    "casting_name": "Aero Blast",
+                    "tampos": "Silver flames on trailer & cab, “Hot Wheels” on trailer & cab",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/7015F762-FD06-4382-9499-C222DB1A6122.jpeg/revision/latest?cb=20191231230733"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-hfc96",
+                "toy_number": "HFC96",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "casting_name": "Firehouse Fueler",
+                    "tampos": "Flames, \"FIREHOUSE FUELER\" and \"68\" on sides",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-hfc99",
+                "toy_number": "HFC99",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Skull"
+                    },
+                    "casting_name": "Haulin' Class",
+                    "tampos": "Flames, \"FIREHOUSE FUELER\" and \"68\" on sides",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-grv12-v2",
+                "toy_number": "GRV12",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Mercedes-Benz Actros",
+                    "tampos": "\"Hot Wheels\" graffiti on cab & trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/Actros.jpg/revision/latest?cb=20210124033210"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-gkc33-v2",
+                "toy_number": "GKC33",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Scania Rally Truck",
+                    "tampos": "\"M. Stewart Racing\"",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-green-hfc98",
+                "toy_number": "HFC98",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Steamin' Gleamin'",
+                    "tampos": "\"M. Stewart Racing\"",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-white-hmg00",
+                "toy_number": "HMG00",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WBDD8"
+                    },
+                    "casting_name": "Cyberrig",
+                    "tampos": "Neon Pink stripes and skull on cab and trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1 New Casting Base Code(s): R41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-black-hmf99",
+                "toy_number": "HMF99",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP & RA6"
+                    },
+                    "casting_name": "Rad Rider Rig",
+                    "tampos": "Gold pinstriping and skull on cab top, gold pinstriping, skull, and \"Hot Wheels\" on trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1 New Casting Base Code(s): R41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-red-hfc99-v2",
+                "toy_number": "HFC99",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Skull"
+                    },
+                    "casting_name": "Haulin' Class",
+                    "tampos": "Gold pinstriping and skull on cab top, gold pinstriping, skull, and \"Hot Wheels\" on trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1 Same as 2022 Mix 2 Base Code(s): R41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-blue-grv12-v3",
+                "toy_number": "GRV12",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Mercedes-Benz Actros",
+                    "tampos": "\"Hot Wheels\" graffiti on cab & trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1 Same as 2022 Mix 2 Base Code(s): R41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/Actros.jpg/revision/latest?cb=20210124033210"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-dark-blue-hfc97-v2",
+                "toy_number": "HFC97",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black BAJA5"
+                    },
+                    "casting_name": "Scania Rally Truck",
+                    "tampos": "Hot Wheels Off Road Chase Rig, labeled side storage doors",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1 Same as 2022 Mix 1 Base Code(s): R41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-green-hfc98-v2",
+                "toy_number": "HFC98",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Steamin' Gleamin'",
+                    "tampos": "Hot Wheels Off Road Chase Rig, labeled side storage doors",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 1 Same as 2022 Mix 2 Base Code(s): R41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-powder-blue-hmf98",
+                "toy_number": "HMF98",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Powder blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Bugcation",
+                    "tampos": "Rust, \"Hot Wheels\", Volkswagen logo on side of hauler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2 New Casting Base Code(s): S04, S07",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/BugcationHauler.jpg/revision/latest?cb=20231001064212"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-yellow-hmn35",
+                "toy_number": "HMN35",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Cyberrig",
+                    "tampos": "Black stripes and skull on cab and trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2 Base Code(s): S05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/43/20240220193907.jpg/revision/latest?cb=20240220114211"
+                }
+            },
+            {
+                "release_id": "0-track-stars-haulers-dark-red-hmn36",
+                "toy_number": "HMN36",
+                "casting_id": "track-stars-haulers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP & RA6"
+                    },
+                    "casting_name": "Rad Rider Rig",
+                    "tampos": "White pinstriping and skull on cab top, white pinstriping, skull, and \"Hot Wheels\" on trailer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Mix 2 Base Code(s): S05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,231 @@
+[
+    {
+        "casting_id": "t-4-2",
+        "name": "T-4-2",
+        "description": {
+            "en-us": "T-4-2 Debut series 1971 Hot Wheels Produced 1971 Designer Larry Wood Number 6177",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1971,
+        "manufacturer": "T-4-2",
+        "releases": [
+            {
+                "release_id": "1971-t-4-2-spectraflame-blue-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/T-4-2.jpg/revision/latest?cb=20080314161022"
+                }
+            },
+            {
+                "release_id": "1971-t-4-2-spectraflame-aqua-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/T-4-2_Aqua.jpg/revision/latest?cb=20231019210417"
+                }
+            },
+            {
+                "release_id": "1971-t-4-2-spectraflame-green-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-t-4-2-spectraflame-light-apple-green-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light 'Apple' Green",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-t-4-2-spectraflame-lime-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Lime",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-t-4-2-spectraflame-yellow-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/51/YellowT42.png/revision/latest?cb=20160107055818"
+                }
+            },
+            {
+                "release_id": "1971-t-4-2-spectraflame-gold-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Speculative",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-t-4-2-spectraflame-red-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-t-4-2-spectraflame-magenta-6177",
+                "toy_number": "6177",
+                "casting_id": "t-4-2",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

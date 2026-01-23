@@ -1,0 +1,17 @@
+{
+    "series_id": "hotwheelscollectorscom",
+    "name": "Hotwheelscollectorscom",
+    "description": "Hot Wheels Hotwheelscollectorscom Series",
+    "releases": [
+        "../data/releases/2005/2005-classic-cord-spectraflame-steel-blue-h2925.json",
+        "../data/releases/2010/2010-classic-cord-spectraflame-gold-r8395.json",
+        "../data/releases/2013/2013-custom-mustang-spectraflame-gold-y0440.json",
+        "../data/releases/2018/2018-custom-cougar-spectraflame-orange-fcm81.json",
+        "../data/releases/2018/2018-custom-cougar-spectraflame-purple-fnc23.json",
+        "../data/releases/2018/2018-custom-mustang-spectraflame-magenta-fnc23.json",
+        "../data/releases/2018/2018-custom-t-bird-spectraflame-olive-fcm75.json",
+        "../data/releases/2018/2018-custom-t-bird-spectraflame-pink-fnc23.json",
+        "../data/releases/2018/2018-silhouette-spectraflame-antifreeze-fnc30.json",
+        "../data/releases/2018/2018-silhouette-spectraflame-aqua-fnc23.json"
+    ]
+}

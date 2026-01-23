@@ -1,0 +1,11 @@
+{
+    "series_id": "generic",
+    "name": "Generic",
+    "description": "Hot Wheels Generic Series",
+    "releases": [
+        "../data/releases/unknown/0-batman-vehicles-then-and-now-series-2012-black-x4328.json",
+        "../data/releases/unknown/0-batman-vehicles-then-and-now-series-2012-black-x4328.json",
+        "../data/releases/unknown/0-batman-vehicles-then-and-now-series-2012-black-x4329.json",
+        "../data/releases/unknown/0-batman-vehicles-then-and-now-series-2012-black-x4329.json"
+    ]
+}

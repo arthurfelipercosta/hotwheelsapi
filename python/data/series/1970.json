@@ -1,0 +1,10 @@
+{
+    "series_id": "1970",
+    "name": "1970",
+    "description": "Hot Wheels 1970 Series",
+    "releases": [
+        "../data/releases/1970/1970-custom-police-cruiser-red-6469.json",
+        "../data/releases/1970/1970-snake-yellow-6409-v2.json",
+        "../data/releases/1970/1970-snake-yellow-6409.json"
+    ]
+}

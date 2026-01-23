@@ -1,0 +1,8 @@
+{
+    "series_id": "new",
+    "name": "New",
+    "description": "Hot Wheels New Series",
+    "releases": [
+        "../data/releases/1997/1997-deora-metalflake-blue-13828.json"
+    ]
+}

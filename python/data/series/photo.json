@@ -1,0 +1,15 @@
+{
+    "series_id": "photo",
+    "name": "Photo",
+    "description": "Hot Wheels Photo Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13318.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13318.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13319.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13319.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13320.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13320.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13322.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13322.json"
+    ]
+}

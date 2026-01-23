@@ -1,0 +1,415 @@
+[
+    {
+        "casting_id": "turbofire",
+        "name": "Turbofire",
+        "description": {
+            "en-us": "Turbofire Debut series 1969 Hot Wheels Produced 1969 Only Designer Ira Gilford Number 6259",
+            "pt-br": ""
+        },
+        "designer": "Ira Gilford",
+        "debut_year": 1969,
+        "manufacturer": "Turbofire",
+        "releases": [
+            {
+                "release_id": "1969-turbofire-unknown-6259",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Antifreeze"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/TurbofireAntifreeze.png/revision/latest?cb=20150531074538"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v2",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Aqua"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/TurbofireAqua.png/revision/latest?cb=20150531074645"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v3",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Blue"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/HW_Turbofire_SpecBlue_DSCF0079.jpg/revision/latest?cb=20181128154015"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v4",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Brown"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v5",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Gold"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/1969_Turbofire_Gold.jpg/revision/latest?cb=20240830033653"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v6",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Green"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/TurbofireGreen.jpg/revision/latest?cb=20230209035904"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v7",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Light 'Apple' Green"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v8",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Light Blue"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v9",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Magenta"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Turbofire_Magenta.jpg/revision/latest?cb=20201014214922"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v10",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Olive"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v11",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Orange"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/Turbofire.jpg/revision/latest?cb=20080311165143"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v12",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Pink"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v13",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Purple"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/1969HWTurbofirePurple.jpeg/revision/latest?cb=20210228153224"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v14",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Red"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Turbofire_red_1969.JPG/revision/latest?cb=20120910210747"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v15",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Red"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1969-turbofire-unknown-6259-v16",
+                "toy_number": "6259",
+                "casting_id": "turbofire",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "ZAMAC",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Rose"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/TurbofireRose.png/revision/latest?cb=20150531074406"
+                }
+            }
+        ]
+    }
+]

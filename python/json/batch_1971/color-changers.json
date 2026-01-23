@@ -1,0 +1,3407 @@
+[
+    {
+        "casting_id": "color-changers",
+        "name": "Color Changers",
+        "description": {
+            "en-us": "Color Changers Debut series Color Changers Produced 1988 - Designer Keith Hippely , Larry Wood , Jill Barad , Prodromos Papavasiliou (color changing system)",
+            "pt-br": ""
+        },
+        "designer": "Keith Hippely , Larry Wood , Jill Barad , Prodromos Papavasiliou (color changing system)",
+        "debut_year": 1988,
+        "manufacturer": "Color",
+        "releases": [
+            {
+                "release_id": "1989-color-changers-metalflake-champagne-7268",
+                "toy_number": "7268",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Champagne",
+                    "tampo": "Red \"Blazin Bug\" w/ Yellow & Blue Flames",
+                    "base_color": "",
+                    "base_type": "Metal",
+                    "window_color": "N/A",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Baja Bug",
+                    "notes_variations": "Single Pack also appears in Color Racers Single"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/1989-Automagic_Baja_Bug_Brown_mf_1.jpg/revision/latest?cb=20230422173816"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-orange-sand-7268",
+                "toy_number": "7268",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange Sand",
+                    "tampo": "Red \"Blazin Bug\" w/ Yellow & Blue flames",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "N/A",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Baja Bug",
+                    "notes_variations": "Color Racers Single"
+                },
+                "country": "Automagic No Country",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/7268_ColRace_Auto_Baja_orange_sand_ref.jpg/revision/latest?cb=20240830164459"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-7269",
+                "toy_number": "7269",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Yellow & Orange stripes, Orange Tbird logo on the hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Blue tint",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'57 T-Bird (1978)",
+                    "notes_variations": "Appears in a Automagic Single Pack & 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/57_T-Bird_PnkClrCh.JPG/revision/latest?cb=20091117071444"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-red-to-orange-7269",
+                "toy_number": "7269",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red to Orange",
+                    "tampo": "Blue & White stripes, Orange Tbird logo on the hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Blue tint",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'57 T-Bird (1978)",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/Automagic_t_bird.JPG/revision/latest?cb=20230715145437"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-green-7269",
+                "toy_number": "7269",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Jeep & Star",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Jeep CJ-7",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/Cc_jeep_1.JPG/revision/latest?cb=20210318004817"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-white-7269",
+                "toy_number": "7269",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Red Flames, Blue Lines, White \"Corvette\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Grey)",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Turns Peach Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/33/Corvette_Stingray_CCpnk.JPG/revision/latest?cb=20091116231541"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-white-peach-7269",
+                "toy_number": "7269",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White/ Peach",
+                    "tampo": "Blue Flames, Red Lines, White \"Corvette\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Grey)",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Dscn2208.jpg/revision/latest?cb=20240104201729"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-blue-7269",
+                "toy_number": "7269",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "\"Corvette\" on hood, yellow and oranges stripes, and purple flames",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Grey)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Corvette-stangray-1976-blue-color-racers-1987.jpg/revision/latest?cb=20190217060120"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-metalfalke-bluepurple-7269",
+                "toy_number": "7269",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalfalke Blue/Purple",
+                    "tampo": "\"Corvette\" on hood, yellow and oranges stripes, and purple flames",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/20221214_202945.jpg/revision/latest?cb=20221225095334"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-orange-7269",
+                "toy_number": "7269",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Blue, Red flames, Yellow \"55\" \"CHEVY\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'55 Chevy (1982)",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-tan-to-light-purple-7285",
+                "toy_number": "7285",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan to Light Purple",
+                    "tampo": "\"Police\" / \"Star Taxi\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Sheriff Patrol",
+                    "notes_variations": "Appears in a Automagic Single Pack & 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/Patrol_colortaxi.JPG/revision/latest?cb=20091202082211"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-cold-light-orangewarm-cream-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Light OrangeWarm: Cream",
+                    "tampo": "\"Ferrari\" & Stripe in DARK Yellow &\"4\".Blue & red (shows when color changes) stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White & Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Ferrari Testarossa",
+                    "notes_variations": "Appears in a Automagic Single Pack & 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Ferrari_Testarrosa_Cream.JPG/revision/latest?cb=20081222053418"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-white-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink? / White",
+                    "tampo": "Dual White/ Blue rally stripe on hood and roof, \"Ferrari\" logos on hood  \"308\" on hood both in Dark Blue, 2 \"308\" on roof",
+                    "base_color": "Metal",
+                    "base_type": "Black Gloss",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Racebait 308",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/Ferrari_308_%284059%29_HW_L1170731.JPG/revision/latest?cb=20180702191210"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-red-white-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & white",
+                    "tampo": "Dual Yellow/ Black rally stripe on hood and roof, \"308\" on hood both in Black",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Racebait 308",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Color_fx_ferrari.jpg/revision/latest?cb=20210225031827"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-orange-to-yellow-7276",
+                "toy_number": "7276",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange to Yellow",
+                    "tampo": "Red \"959\", Yellow \"Porsche\" & Blue line on the side",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Porsche 959",
+                    "notes_variations": "Appears in a Automagic Single Pack & 2-Pack & Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/CR_Porsche_959_Orange_Brite_o-4.jpg/revision/latest?cb=20240913153055"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-green-to-yellow-1486",
+                "toy_number": "1486",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green to Yellow",
+                    "tampo": "Yellow & Red",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Split Window '63",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/1991_Color_Changer.jpg/revision/latest?cb=20220409140006"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-red-to-yellowornage-1486",
+                "toy_number": "1486",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red to Yellow/Ornage",
+                    "tampo": "Red, Purple, Yellow, Orange lines, \"Camaro Z-28\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW",
+                        "1": "WW"
+                    },
+                    "name": "Camaro Z-28",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/Camaro_Z28_Pnk.JPG/revision/latest?cb=20090924003646",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/540kautomagicbp.JPG/revision/latest?cb=20210623050651"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-metallic-gray-changes-white-to-metallic-black-3969",
+                "toy_number": "3969",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Gray (Changes White to Metallic Black",
+                    "tampo": "Black, white & blue stripes. \"2\" on hood & sides, \"Turbo 300 H.P.\" twice on hood, \"Turbo 911\" on sides.",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-911",
+                    "notes_variations": "Turns Peach Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/P-911_Turbo_-_1988_Color_Racers_c.jpg/revision/latest?cb=20221231150216"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-changes-white-to-red-7268-single-pack-7479-2-pack",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink (Changes White to Red)",
+                    "tampo": "Red, white & blue stripes. \"2\" on hood & sides, \"Turbo 300 H.P.\" twice on hood, \"Turbo 911\" on sides.",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-911",
+                    "notes_variations": "Appears in a Automagic Single Pack & 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/P-911_Turbo_-_1988_Color_Racers_a.jpg/revision/latest?cb=20221231145418"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-7268-single-pack-7479-2-pack",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Dark Red, Yellow stripes. \"2\" on hood & sides, \"Turbo 300 H.P.\" twice on hood, \"Turbo 911\" on sides.",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-911",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Dark_Red_to_Pink_Yellow_stripes_911.jpg/revision/latest?cb=20240214215343"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-blue-7268-single-pack-7479-2-pack",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Blue Stripes, Yellow Arrow, Dark Blue \"Turbo\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-928",
+                    "notes_variations": "Appears in a Automagic 2-Pack Aurimat"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Screenshot_2020-02-27_at_1.11.18_PM.png/revision/latest?cb=20200227181317"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-white-7268-single-pack-7479-2-pack",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Blue Arrow, White stripes, Red \"Turbo\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-928",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/Blue_Arrow_928.jpg/revision/latest?cb=20240214215213"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-white-7268-single-pack-7479-2-pack-v2",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Silver detials",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "name": "Auburn 852",
+                    "notes_variations": "Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/Automagicauburnbps.jpg/revision/latest?cb=20210606150015"
+                }
+            },
+            {
+                "release_id": "1987-color-changers-metallic-blue-7268-single-pack-7479-2-pack",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack)",
+                "casting_id": "color-changers",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Blue",
+                    "tampo": "Yellow, Blue, Purple, \"15\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "unseen",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Aeroflash",
+                    "notes_variations": "Named Silver Bullet Appears in a Automagic 2-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/Silver_Bullet_MtBlu.JPG/revision/latest?cb=20090219235924"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-beige-pink-7275",
+                "toy_number": "7275",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Beige / Pink",
+                    "tampo": "Dual White & Blue rally stripes, Red \"31\" on hood, Beige \"31\", Red & White stripes, Blue \"Countach\" on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Issue variations Blue tint & Smoke tint",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Lamborghini Countach",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/Lamborghini_Countach_pmkClrC.JPG/revision/latest?cb=20100321044419"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-maroon-to-light-blue-to-pink-2843",
+                "toy_number": "2843",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon to Light Blue to Pink",
+                    "tampo": "None",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Delivery Truck",
+                    "notes_variations": "Appears on Color Racers II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/Delivery_colorracer.JPG/revision/latest?cb=20091118101619"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-dark-brown-warm-to-light-blue-to-tan-cold-3481",
+                "toy_number": "3481",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Brown (Warm) to Light Blue to Tan (Cold)",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Sheriff Patrol",
+                    "notes_variations": "\"75 Sheriff\" text on base Appears on Both blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Patrol_colorchange.JPG/revision/latest?cb=20091202082505"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-brown-3487",
+                "toy_number": "3487",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "None",
+                    "base_color": "Grey",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Wind Splitter",
+                    "notes_variations": "Appears on Both blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/BMW_M1_Brn.JPG/revision/latest?cb=20090314163543"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-cold-dark-blue-hot-pink-3480",
+                "toy_number": "3480",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Dark Blue Hot: Pink",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'55 Chevy (1982)",
+                    "notes_variations": "Appears on Both blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/20180520_214216.jpg/revision/latest?cb=20180520195004"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-blue-purple-3486",
+                "toy_number": "3486",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue / Purple",
+                    "tampo": "None",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Custom Corvette Convertible",
+                    "notes_variations": "Appears on Both blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/Custom_Corvette_PurpClrC.JPG/revision/latest?cb=20091010205406"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-plum-2259",
+                "toy_number": "2259",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Plum",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "name": "Talbot Lago",
+                    "notes_variations": "Came with an Ice Pen Appears on Both blisters"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-red-peach-2270",
+                "toy_number": "2270",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red / Peach",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Racebait 308",
+                    "notes_variations": "Appears on Both blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/Ferrari308_ColorRacerII_2.jpg/revision/latest?cb=20250805103848"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-purple-2255",
+                "toy_number": "2255",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Turquoise",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Lamborghini Countach",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Countach_AutomagicII.jpg/revision/latest?cb=20200902095405"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-dark-purple-2255",
+                "toy_number": "2255",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Purple",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Lamborghini Countach",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Countach_AutoMagic3.jpg/revision/latest?cb=20200910102718"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-green-to-light-green-3456",
+                "toy_number": "3456",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green to Light Green",
+                    "tampo": "None",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Rescue Ranger",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/RescueRangerAutoMagicII.jpg/revision/latest?cb=20230714195825"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-brown-3457",
+                "toy_number": "3457",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Thunderburner",
+                    "notes_variations": "Came with an Ice Pen Appears on Both blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/ThunderBurner_brnCC.JPG/revision/latest?cb=20081221022711"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-dark-blue-to-green-3457",
+                "toy_number": "3457",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue to Green",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Thunderburner",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-grey-to-orange-3457",
+                "toy_number": "3457",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey to Orange",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Thunderburner",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-cold-red-warm-orange-2252",
+                "toy_number": "2252",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Red Warm: Orange",
+                    "tampo": "None",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan & Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Ferrari Testarossa",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/AutomagicTestarossaWarm.jpg/revision/latest?cb=20230814121223"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-cold-blue-warm-teal-2253",
+                "toy_number": "2253",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Blue Warm: Teal",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Porsche 959",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/8A94BB35-4620-4D43-BCFC-179960CE3B27.JPG/revision/latest?cb=20200227184458"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-blue-to-purple-to-white-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue to Purple to White",
+                    "tampo": "Purple, Light Blue, & White lines",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "name": "Street Roader",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/Dscn6609.jpg/revision/latest?cb=20240104212940"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-green-7283",
+                "toy_number": "7283",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Light and dark green tampos, \"4x4\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "name": "Street Roader",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Suzuki_Samurai_Color_Racers.jpg/revision/latest?cb=20230714221948"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-red-or-maroon-to-orange-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red (or Maroon) to Orange",
+                    "tampo": "Blue, White Lines, Red Flames, White \"Corvette\" on hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black Tint",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/Dscn6609.jpg/revision/latest?cb=20240104212940"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-red-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow, Blue Lines, Red Flames? , Blue \"Corvette\" on hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black Tint",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Dscn2213.jpg/revision/latest?cb=20231228033303"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-red-to-orange-to-yellow-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red to Orange to Yellow",
+                    "tampo": "\"Ferrari\" & Black Stripe in DARK Red \"4\"  (shows when color changes) stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "All Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Ferrari Testarossa",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Ferrari_Testarossa_Red_CC.jpg/revision/latest?cb=20230923021640"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-beige-to-purple-7283-7285",
+                "toy_number": "7283 & 7285",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Beige to Purple",
+                    "tampo": "Yellow eagle with 4 stars",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Flame Runner",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/FlameRunnerColorRacers.jpg/revision/latest?cb=20230714202607"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-pink-7283",
+                "toy_number": "7283",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "White Lightining",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Wind Splitter",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/BMW_M1_Color_Racers.jpg/revision/latest?cb=20230714223839"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-pink-dark-red-7286",
+                "toy_number": "7286",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink / Dark Red",
+                    "tampo": "Red, White and stars and stripes on sides only",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Pontiac Fiero 2M4",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/50/Fiero_CC.JPG/revision/latest?cb=20090114182908"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-pink-7286",
+                "toy_number": "7286",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Pink, Blue, Purple Stripes",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "'57 Chevy",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/Automagics_3_7286.jpg/revision/latest?cb=20241020234346"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-grey-7286",
+                "toy_number": "7286",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "Blue, Black Stripes, White \"Mustang SVO\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Turbo Mustang",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Mustang_S.V.O._1988/revision/latest?cb=20190813170736"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-orange-red-6607",
+                "toy_number": "6607",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange-Red",
+                    "tampo": "Blue firebird on hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'80s Firebird",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/80s_Firebird_OrgCC.JPG/revision/latest?cb=20090110151952"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-white-to-black-6607",
+                "toy_number": "6607",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White to Black",
+                    "tampo": "Black, White and Blue \"Police / Taxi\" on doors \"Star Taxi\" on Hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Sheriff Patrol",
+                    "notes_variations": "Came with an Ice Pen Appears on Automagic II blister"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Blueamspbestleft.jpg/revision/latest?cb=20210605142920"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-red-white-6607",
+                "toy_number": "6607",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & white",
+                    "tampo": "Dual yellow rally stripe on hood and roof, \"308\" on hood.",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Racebait 308",
+                    "notes_variations": "Appears in a Automagic 2-Pack as well"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Color_fx_ferrari.jpg/revision/latest?cb=20210225031827"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-greyish-purple-to-turquoise-7285",
+                "toy_number": "7285",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Greyish-Purple to Turquoise",
+                    "tampo": "Blue, White & Purple snake",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Mantis",
+                    "notes_variations": "Named Speed Seeker"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Speed_Machine_Gry.JPG/revision/latest?cb=20090131003847"
+                }
+            },
+            {
+                "release_id": "1990-color-changers-pink-purple-7285",
+                "toy_number": "7285",
+                "casting_id": "color-changers",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink / Purple",
+                    "tampo": "Purple, Pink & White",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "VW Bug",
+                    "notes_variations": "Named Speed Seeker"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/1989-3pk_Color_Racers_VW_Bug_PINK_Purple_1a.jpg/revision/latest?cb=20230420052208"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-metallic-pink-to-light-pink-7267-single-pack-5600-3-pack",
+                "toy_number": "7267 (Single Pack) 5600 (3 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Pink to Light Pink",
+                    "tampo": "Orange, Blue flames, White \"55\" \"CHEVY\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'55 Chevy (1982)",
+                    "notes_variations": "Appears in a Color Racers Single & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/55_Chevy_Pnk.JPG/revision/latest?cb=20090124001749"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-orange-1440-5600-3-pack",
+                "toy_number": "1440 & 5600 (3 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Blue, Red flames, Yellow \"55\" \"CHEVY\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'55 Chevy (1982)",
+                    "notes_variations": "Appears in Automagic as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-tan-blue-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan / Blue",
+                    "tampo": "White, Black flames, White \"55\" Blue \"CHEVY\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'55 Chevy (1982)",
+                    "notes_variations": "Appears in a Color Racers Single & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Dsc_0932.jpg/revision/latest?cb=20240108011940"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-to-blue-7286",
+                "toy_number": "7286",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink to Blue",
+                    "tampo": "Pink, Blue, Purple Stripes",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "'57 Chevy",
+                    "notes_variations": "Appears in Automagic III as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-5608",
+                "toy_number": "5608",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Yellow & Orange stripes, Orange Tbird logo on the hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Blue tint",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'57 T-Bird (1978)",
+                    "notes_variations": "Appears in a Automagic Single Pack & 2-Pack Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/57_T-Bird_PnkClrCh.JPG/revision/latest?cb=20091117071444"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-purple-to-blue-5608",
+                "toy_number": "5608",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple to Blue",
+                    "tampo": "Purple & White stripes, Blue Tbird logo on the hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'57 T-Bird (1978)",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/PDickman_Color_Racers_Tbird_%281%29.jpg/revision/latest?cb=20240928235623"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-blue-5607",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Yellow \"GT\" stripes & white Mustang on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "name": "'65 Mustang Convertible",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/ColorRacer.jpg/revision/latest?cb=20090310231115"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-lime-green-to-orange-5607",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Lime Green to Orange",
+                    "tampo": "Black firebird on hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'80s Firebird",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/MVC-519S.jpg/revision/latest?cb=20090902084830"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-orange-red-5607",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange-Red",
+                    "tampo": "Blue firebird on hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'80s Firebird",
+                    "notes_variations": "Appears in Automagic III Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/80s_Firebird_OrgCC.JPG/revision/latest?cb=20090110151952"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-red-7284",
+                "toy_number": "7284",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White and Black stripes, 'Toyota' on sides",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "'82 Supra",
+                    "notes_variations": "Appears in a Color Racers Single Pack & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/82_Supra_%281988_Color_Racers%29.png/revision/latest?cb=20180119234617"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-white-to-blue-7284",
+                "toy_number": "7284",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White to Blue",
+                    "tampo": "Blue \"15\", Yellow Arrow, White Stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "unseen",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Aeroflash",
+                    "notes_variations": "Named Silver Bullet Tampo might be worn off in this image'Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/Silver_Bullet_CC.JPG/revision/latest?cb=20090219235849"
+                }
+            },
+            {
+                "release_id": "1987-color-changers-metallic-blue-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Blue",
+                    "tampo": "Yellow, Blue, Purple, \"15\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "unseen",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Aeroflash",
+                    "notes_variations": "Named Silver Bullet Appears in a Auto Magic 2-Pack' 'Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/Silver_Bullet_MtBlu.JPG/revision/latest?cb=20090219235924"
+                }
+            },
+            {
+                "release_id": "1987-color-changers-white-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Silver detials",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "name": "Auburn 852",
+                    "notes_variations": "Appears in a Automagic 2-Pack Ignore the picture, this is on a Color Racers Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/Automagicauburnbps.jpg/revision/latest?cb=20210606150015"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-brown-orange-metallic-yellow-7268-1439",
+                "toy_number": "7268 1439",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown/ Orange Metallic / Yellow",
+                    "tampo": "\"Blazin' Bug\" w/Yellow & blue flame graphics",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "N/A",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Baja Bug",
+                    "notes_variations": "Appears in a Color Racers Single Pack & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Baja_bug20.jpg/revision/latest?cb=20171113195031"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-purple-to-blue-1439",
+                "toy_number": "1439",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple to Blue",
+                    "tampo": "\"Blazin' Bug w/White & blue flame graphics",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "N/A",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Baja Bug",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/Purple_Color_Racers.jpg/revision/latest?cb=20180227173842"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pea-soup-green-5607-5608",
+                "toy_number": "5607 & 5608",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pea Soup Green",
+                    "tampo": "\"Police\" / \"Star Taxi\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Sheriff Patrol",
+                    "notes_variations": "Appears in Automagic Single Pack & 2-Pack Appears in a Color Racers Single Pack & 3 pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/Patrol_colortaxi.JPG/revision/latest?cb=20091202082211"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-yellowish-green-5607",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellowish / Green",
+                    "tampo": "Blue and Red \"4\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Thunderburner",
+                    "notes_variations": "Appears in a Color Racers Single Pack & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/ThunderBurner_CC.JPG/revision/latest?cb=20081221022638"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-metalflake-pink-5600-5605-3-pack",
+                "toy_number": "5600 & 5605 (3 Pack)",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Pink",
+                    "tampo": "Orange, Blue and White \"4\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Thunderburner",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/Thunderburner_pink.jpg/revision/latest?cb=20090902053542"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-beige-pink-7275-single-pack-5607-3-pack-5605-3-pack",
+                "toy_number": "7275 (Single Pack) 5607 (3 Pack) 5605 (3 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Beige / Pink",
+                    "tampo": "Dual White & Blue rally stripes, Red \"31\" on hood, Beige \"31\", Red & White stripes, Blue \"Countach\" on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Issue variations Blue tint & Smoke tint",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Lamborghini Countach",
+                    "notes_variations": "Appears in Automagic Single Pack Appears in a Color Racers Single & 3 pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/Lamborghini_Countach_pmkClrC.JPG/revision/latest?cb=20100321044419"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-white-1439-5607",
+                "toy_number": "1439 & 5607",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink / White",
+                    "tampo": "Dual White / Red rally stripe on hood and roof, Blue \"Ferrari\" logo on hood x2, \"308\" on hood both in Dark Blue, 308 on roof x2",
+                    "base_color": "Metal",
+                    "base_type": "Black Gloss",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Racebait 308",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/DSC06311.jpg/revision/latest?cb=20170725161853"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-white-1439-5607-v2",
+                "toy_number": "1439 & 5607",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink / White",
+                    "tampo": "Dual White/ Blue rally stripe on hood and roof, \"Ferrari\" logos on hood  \"308\" on hood both in Dark Blue, 2 \"308\" on roof",
+                    "base_color": "Metal",
+                    "base_type": "Black Gloss",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Racebait 308",
+                    "notes_variations": "Appears in a Automagic 2-PackAppears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/Ferrari_308_%284059%29_HW_L1170731.JPG/revision/latest?cb=20180702191210"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-red-white-1439-5607",
+                "toy_number": "1439 & 5607",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & white",
+                    "tampo": "Dual yellow rally stripe on hood and roof, \"308\" on hood.",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Racebait 308",
+                    "notes_variations": "Appears in a Automagic 2-Pack as well Appears in Auto Magic III Appears in Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/Color_fx_ferrari.jpg/revision/latest?cb=20210225031827"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-orange-to-brown-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange to Brown",
+                    "tampo": "Blue \"Corvette\" on hood, blue stripes, and red flames",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Dscn9847.jpg/revision/latest?cb=20231231184123"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-blue-light-blue-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue / Light Blue",
+                    "tampo": "\"Corvette\" on hood, yellow and oranges stripes, and purple flames",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Grey)",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Appears in a Automagic 2-Pack as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Corvette-stangray-1976-blue-color-racers-1987.jpg/revision/latest?cb=20190217060120"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-white-peach-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White / Peach",
+                    "tampo": "Red Flames, Blue Lines, White \"Corvette\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Grey)",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Appears in a Automagic 2-Pack as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/33/Corvette_Stingray_CCpnk.JPG/revision/latest?cb=20091116231541"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-mettallic-gold-mettallic-white-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Mettallic Gold & Mettallic White",
+                    "tampo": "Red, Blue, Yellow stripes,  \"Corvette\" on hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black Tint",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Stingray_colorchange.JPG/revision/latest?cb=20091202085547"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-brown-to-green-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown to Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Grey)",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Dsc_0932.jpg/revision/latest?cb=20240108011940"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-purple-to-white-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple to White",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Grey)",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-green-to-white-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green to White",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Grey)",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Corvette Stingray",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-yellowgreen-5608",
+                "toy_number": "5608",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow/Green",
+                    "tampo": "Mean Green, 5, red and green designs",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Path Beater",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/Path_Beater_LimeL.JPG/revision/latest?cb=20090929125023"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-green-yellow-5608",
+                "toy_number": "5608",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green / Yellow",
+                    "tampo": "Green, Red, Black \"5\" \"Mean Green\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Path Beater",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/Pathbeatercolorchanger.jpg/revision/latest?cb=20230531223835"
+                }
+            },
+            {
+                "release_id": "1987-color-changers-lime-green-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Lime Green",
+                    "tampo": "Green \"Tall Ryder\" tampos",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Black",
+                    "interior_color": "Unseen",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "name": "Tall Ryder",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/Tall_Ryder_-_6490ddf.jpg/revision/latest?cb=20081121171910"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-changes-white-to-red-7268-single-pack-7479-2-pack-3696-color-racers",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack) 3696 (Color Racers?)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink (Changes White to Red)",
+                    "tampo": "Red, white & blue stripes. \"2\" on hood & sides, \"Turbo 300 H.P.\" twice on hood, \"Turbo 911\" on sides.",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-911",
+                    "notes_variations": "Appears in a Automagic 2-Pack as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/P-911_Turbo_-_1988_Color_Racers_a.jpg/revision/latest?cb=20221231145418"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-7268-single-pack-7479-2-pack-3696-color-racers",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack) 3696 (Color Racers?)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Dark Red, Yellow stripes. \"2\" on hood & sides, \"Turbo 300 H.P.\" twice on hood, \"Turbo 911\" on sides.",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-911",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Dark_Red_to_Pink_Yellow_stripes_911.jpg/revision/latest?cb=20240214215343"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-gray-changes-white-to-black-7268-single-pack-7479-2-pack-3696-color-racers",
+                "toy_number": "7268 (Single Pack) 7479 (2 Pack) 3696 (Color Racers?)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray (Changes White to Black)",
+                    "tampo": "Black, white & blue stripes. \"2\" & \"Turbo 911\" on sides. No hood or roof tampo.",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-911",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/P-911_Turbo_-_1988_Color_Racers_b.jpg/revision/latest?cb=20221231145928"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-dark-pink-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Pink",
+                    "tampo": "Purple, white & Pink stripes. \"2\" on hood & sides, \"Turbo 300 H.P.\" twice on hood, \"Turbo 911\" on sides.",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-911",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Dsc_0932.jpg/revision/latest?cb=20240108011940"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-grey-metalflake-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey Metalflake",
+                    "tampo": "Black, white & blue stripes. \"2\" on hood.",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-911",
+                    "notes_variations": "Pictured with a Micro Hot Wheels Came from a Color Racers Collector Set"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/1990_MICRO_Color_Racers_Porsche_911_Turbo_Color_Racers_Micro_1.jpg/revision/latest?cb=20230413184444"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-red-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "'Rescue' on sides, 'Sons of Danger' on doors",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Rescue Ranger",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Rescue_Ranger-1988_Color_Racers.jpg/revision/latest?cb=20151001134509"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-red-5600-v2",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "'Rescue' on sides, 'Sons of Danger' on doors",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Rescue Ranger",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Redsiren.jpg/revision/latest?cb=20231206003917"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-green-to-yellow-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green to Yellow",
+                    "tampo": "",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Rescue Ranger",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-light-green-yellow-1486-1439",
+                "toy_number": "1486 & 1439",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Green / Yellow",
+                    "tampo": "Yellow & Red",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Split Window '63",
+                    "notes_variations": "Appears in a Automagic 2-Pack as well Appears in a Color Racers Single Pack & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/1991_Color_Changer.jpg/revision/latest?cb=20220409140006"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-salmon-to-red-1486-1439",
+                "toy_number": "1486 & 1439",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Salmon to Red",
+                    "tampo": "Orange & Red, White flames",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Split Window '63",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/19/IMG_63SplitWindow_4803.JPG/revision/latest?cb=20220311173943"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-cold-orange-warm-yellow-enamel-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Orange Warm: Yellow enamel",
+                    "tampo": "\"Ferrari\" & Stripe in DARK Yellow &\"4\".Blue & red (shows when color changes) stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White & Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Ferrari Testarossa",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/Ferrari_Testarossa_CIMG1864.JPG/revision/latest?cb=20111029105103"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-warm-red-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Warm: Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White & Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Ferrari Testarossa",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/0000a001aaaya4a95_001.jpg/revision/latest?cb=20110617190423"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-purple-to-yellow-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple to Yellow",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White & Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Ferrari Testarossa",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-cold-light-orangewarm-cream-1440",
+                "toy_number": "1440",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cold: Light OrangeWarm: Cream",
+                    "tampo": "\"Ferrari\" & Stripe in DARK Yellow &\"4\".Blue & red (shows when color changes) stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White & Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Ferrari Testarossa",
+                    "notes_variations": "Appears in a Automagic Single Pack & 2-Pack Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Ferrari_Testarrosa_Cream.JPG/revision/latest?cb=20081222053418"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-warm-pink-cream-5600",
+                "toy_number": "5600",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Warm: Pink Cream",
+                    "tampo": "Ferrari Testarossa' on hood, roof, Red & Blue",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White & Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Ferrari Testarossa",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/Ferrari_Testarossa.1989_Color_Racer_Pink_%28Cream%29.jpg/revision/latest?cb=20120916142734"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-green-7283",
+                "toy_number": "7283",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Light and dark green tampos, \"4x4\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "ORCT"
+                    },
+                    "name": "Street Roader",
+                    "notes_variations": "Appears in Automagic III Appears in a Color Racers Single Pack & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Suzuki_Samurai_Color_Racers.jpg/revision/latest?cb=20230714221948"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-red-orange-yellow-white-7285",
+                "toy_number": "7285",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Orange / Yellow / White",
+                    "tampo": "Yellow \"Inter Cooled\" & Blue \"F-3\" on top",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black Tint",
+                    "interior_color": "Yellow",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Shadow Jet",
+                    "notes_variations": "Appears in a Color Racers Single Pack & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/000_0022.JPG/revision/latest?cb=20131207041701"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-greyish-purple-7285",
+                "toy_number": "7285",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Greyish-Purple",
+                    "tampo": "Blue, White & Purple snake",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Mantis",
+                    "notes_variations": "Appears in Automagic III as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Speed_Machine_Gry.JPG/revision/latest?cb=20090131003847"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-red-to-light-blue-7285",
+                "toy_number": "7285",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red to Light Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Mantis",
+                    "notes_variations": "Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-purple-7285",
+                "toy_number": "7285",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink / Purple",
+                    "tampo": "Purple, Pink & White",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "VW Bug",
+                    "notes_variations": "Appears in Automagic III as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/1989-3pk_Color_Racers_VW_Bug_PINK_Purple_1a.jpg/revision/latest?cb=20230420052208"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-to-blue-7276",
+                "toy_number": "7276",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink to (Blue?)",
+                    "tampo": "Blue center stripes, Red stripes & Red \"959\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Porsche 959",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/Pink_Porsche_Color_Racers.jpg/revision/latest?cb=20240506114005"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-pink-7276-single-pack-5608-3-pack",
+                "toy_number": "7276 (Single Pack) 5608 (3 Pack)",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "Red \"959\", White \"Porsche\" & Blue line on the side",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Porsche 959",
+                    "notes_variations": "Appears in a Color Racers Single & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-red-to-orange-to-yellow-7276",
+                "toy_number": "7276",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red to Orange to Yellow",
+                    "tampo": "Red \"959\", Yellow \"Porsche\" & Blue line on the side",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Porsche 959",
+                    "notes_variations": "Appears in a Automagic 2-Pack Appears in a Color Racers Single Packs"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/IMG_20190618_010345.jpg/revision/latest?cb=20200210013645"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-hot-pink-5608",
+                "toy_number": "5608",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Hot Pink",
+                    "tampo": "Rare tampo \"Blue 959\" on front trunk and sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "name": "Porsche 959",
+                    "notes_variations": "Rare Tampo Appears in Color Racers 3-Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/1988-Color_Racers3pk_PINK_RAREtampo959-BLUE_o2.jpg/revision/latest?cb=20240902194648"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-green-5606-5607-5605-3-pack",
+                "toy_number": "5606 & 5607 & 5605 (3 Pack)",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Jeep & Star",
+                    "base_color": "",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Jeep CJ-7",
+                    "notes_variations": "Appears in a Automagic 2-Pack Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/Cc_jeep_1.JPG/revision/latest?cb=20210318004817"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-7283",
+                "toy_number": "7283",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "White Lightining",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Wind Splitter",
+                    "notes_variations": "Appears in Automagic III Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/BMW_M1_Color_Racers.jpg/revision/latest?cb=20230714223839"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-beige-to-green-7283-7285",
+                "toy_number": "7283 & 7285",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Beige to Green",
+                    "tampo": "Yellow eagle with 4 stars",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "N/A",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Flame Runner",
+                    "notes_variations": "Appears in Automagic III Appears in a Color Racers Single & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/FlameRunnerColorRacers.jpg/revision/latest?cb=20230714202607"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-purple-7284",
+                "toy_number": "7284",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink / Purple",
+                    "tampo": "Blue, White and Black tampos, \"3\", checkered flag on roof and hood",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Frontrunnin' Fairmont",
+                    "notes_variations": "Appears in a Color Racers Single & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/G4uyhot-wheels-front-runnin-fairmont-color-racers-blue-gre.jpg/revision/latest?cb=20130623160440"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-purple-to-red-7284",
+                "toy_number": "7284",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple to Red",
+                    "tampo": "White Bird on Hood",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Hot Bird",
+                    "notes_variations": "Appears in a Color Racers Single & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/Hot_Bird-1988_Color_Racer.jpg/revision/latest?cb=20151001140924"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-to-purple-5607",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink to Purple",
+                    "tampo": "Orange, Pink & Dark Blue \"13\" & \"GTS\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "Unseen",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Sol-Aire CX4",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/95/Sol-Aire_CX4_-_1989_Color_Racers_-_BW_Wheels%2C_Blue_Tampo_1a.JPG/revision/latest?cb=20200728201030"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-to-purple-5607-v2",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink to Purple",
+                    "tampo": "Orange, Pink & Maroon \"13\" & \"GTS\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "Unseen",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Sol-Aire CX4",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Sol-Aire_CX-4_Model_Cars_5648c416-9d46-403d-bf34-0c515f3f9fbb.png/revision/latest?cb=20200728201628"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-to-purple-5607-v3",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink to Purple",
+                    "tampo": "Orange, Pink & Dark Blue \"13\" & \"GTS\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "Unseen",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "name": "Sol-Aire CX4",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-to-purple-5607-v4",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink to Purple",
+                    "tampo": "Orange, Pink & Maroon \"13\" & \"GTS\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "Unseen",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "name": "Sol-Aire CX4",
+                    "notes_variations": "Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Sol-Aire_CX4_-_1989_Color_Racers_-_UH_Wheels%2C_Maroon_Tampo_1a.JPG/revision/latest?cb=20200728201506"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-purple-to-orange-5607",
+                "toy_number": "5607",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple to Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "name": "Talbot Lago",
+                    "notes_variations": "Appears in a Color Racers Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-grey-to-white-5608",
+                "toy_number": "5608",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey to White",
+                    "tampo": "No tampos",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "None",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Sharkruiser",
+                    "notes_variations": "Appears in a Color Racers Single Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/Sharkruiser_Color_Racers.jpg/revision/latest?cb=20240506114445"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-turquoise-to-red-1440-single-pack-5608-3-pack",
+                "toy_number": "1440 (Single Pack) 5608 (3 Pack)",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise to Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Camaro Z-28",
+                    "notes_variations": "Appears in a Color Racers Single Pack & 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-pink-dark-red-7286",
+                "toy_number": "7286",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink / Dark Red",
+                    "tampo": "Red, White and stars and stripes on sides only",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Pontiac Fiero 2M4",
+                    "notes_variations": "Appears in Automagic III as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/50/Fiero_CC.JPG/revision/latest?cb=20090114182908"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-grey-7286",
+                "toy_number": "7286",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "Blue, Black Stripes, White \"Mustang SVO\"",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "Turbo Mustang",
+                    "notes_variations": "Appears in Automagic III as well Appears in a Color Racers 3 Pack"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Mustang_S.V.O._1988/revision/latest?cb=20190813170736"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-blue-7272",
+                "toy_number": "7272",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Blue Stripes, Yellow Arrow, Dark Blue \"Turbo\"",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "name": "P-928",
+                    "notes_variations": "Appears in a Color Racers Single Pack & Automagic 2-Pack as well"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Screenshot_2020-02-27_at_1.11.18_PM.png/revision/latest?cb=20200227181317"
+                }
+            },
+            {
+                "release_id": "1988-color-changers-yellow-dirt-metalflake-2891",
+                "toy_number": "2891",
+                "casting_id": "color-changers",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow Dirt metalflake",
+                    "tampo": "No BLUE Stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "casting": "Porsche 959",
+                    "playset": "Color Change Car Wash",
+                    "notes_variations": "Italy made Release (Rare)",
+                    "photo_loose": "",
+                    "photo_package": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/1989_Color_change_Car_Wash_2891_NO_Tampo_959_o1.jpg/revision/latest?cb=20240909032412"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-yellow-metaflakes-of-dirt-2891",
+                "toy_number": "2891",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow metaflakes of Dirt",
+                    "tampo": "Blue stripes",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "casting": "Porsche 959",
+                    "playset": "Drive-It-Clean Car Wash",
+                    "notes_variations": "Italy made Release (Rare)",
+                    "photo_loose": "",
+                    "photo_package": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Porsche_959_CCugly.JPG/revision/latest?cb=20090120021553"
+                }
+            },
+            {
+                "release_id": "1989-color-changers-blue-2891",
+                "toy_number": "2891",
+                "casting_id": "color-changers",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "No Tampos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting": "Porsche 959",
+                    "playset": "Mail-In",
+                    "notes_variations": "Promotional Mail - In",
+                    "photo_loose": "",
+                    "photo_package": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1992-color-changers-light-green-dark-green-0851",
+                "toy_number": "0851",
+                "casting_id": "color-changers",
+                "year": 1992,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Green / Dark Green",
+                    "tampo": "\"WACKY 4x4 & Kool-Aid on sides",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Black",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CT"
+                    },
+                    "name": "Gulch Stepper",
+                    "notes_variations": "Baggie Promo Kool-Aid",
+                    "unknown": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/Gulch_Stepper_KolAde.JPG/revision/latest?cb=20090111005525"
+                }
+            }
+        ]
+    }
+]

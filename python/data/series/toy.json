@@ -1,0 +1,9 @@
+{
+    "series_id": "toy",
+    "name": "Toy",
+    "description": "Hot Wheels Toy Series",
+    "releases": [
+        "../data/releases/1998/1998-twin-mill-metalflake-maroon-18988.json",
+        "../data/releases/2005/2005-olds-442-spectraflame-light-blue-h7813.json"
+    ]
+}

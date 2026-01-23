@@ -1,0 +1,159 @@
+[
+    {
+        "casting_id": "open-fire",
+        "name": "Open Fire",
+        "description": {
+            "en-us": "Open Fire Debut series Mainline Produced 1972 (Original) 2008 ( Retool ) Designer Paul Tam Number 5881",
+            "pt-br": ""
+        },
+        "designer": "Paul Tam",
+        "debut_year": 1972,
+        "manufacturer": "Open",
+        "releases": [
+            {
+                "release_id": "1972-open-fire-spectraflame-gold-5881",
+                "toy_number": "5881",
+                "casting_id": "open-fire",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Light Blue",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/OPEN_FIRE_GOLD.jpg/revision/latest?cb=20100705213651"
+                }
+            },
+            {
+                "release_id": "1972-open-fire-spectraflame-red-5881",
+                "toy_number": "5881",
+                "casting_id": "open-fire",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Light Blue",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/45/Openfire.jpg/revision/latest?cb=20080315160142"
+                }
+            },
+            {
+                "release_id": "1972-open-fire-spectraflame-magenta-5881",
+                "toy_number": "5881",
+                "casting_id": "open-fire",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Light Blue",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/OPEN_FIRE_MAGENTA.jpg/revision/latest?cb=20120115202542"
+                }
+            },
+            {
+                "release_id": "1972-open-fire-spectraflame-blue-5881",
+                "toy_number": "5881",
+                "casting_id": "open-fire",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Light Blue",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Variation rare, very expensive and difficult to find.",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/OPEN_FIRE_BLUE_UNRESTORED.jpg/revision/latest?cb=20120115202541"
+                }
+            },
+            {
+                "release_id": "1972-open-fire-spectraflame-yellow-5881",
+                "toy_number": "5881",
+                "casting_id": "open-fire",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Light Blue",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Open_fire_yellow.JPG/revision/latest?cb=20210407033122"
+                }
+            },
+            {
+                "release_id": "2008-open-fire-spectraflame-dark-red-l8718",
+                "toy_number": "L8718",
+                "casting_id": "open-fire",
+                "year": 2008,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Dark Red",
+                    "tampo": "\"Gremlin\" & yellow, orange, & black flames on sides; \"Open Fire\" on rear; painted headlights, front turn signals, side markers, & taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "5,791 produced Production code(s): 3478 ME",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/OPEN_FIRE_2008.jpg/revision/latest?cb=20100619142944"
+                }
+            }
+        ]
+    }
+]

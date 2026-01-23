@@ -1,0 +1,8 @@
+{
+    "series_id": "mobil",
+    "name": "Mobil",
+    "description": "Hot Wheels Mobil Series",
+    "releases": [
+        "../data/releases/2025/2025-twin-mill-metalflake-pearl-green-bk035.json"
+    ]
+}

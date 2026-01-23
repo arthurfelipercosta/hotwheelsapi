@@ -1,0 +1,204 @@
+[
+    {
+        "casting_id": "megaforce-series",
+        "name": "Megaforce Series",
+        "description": {
+            "en-us": "Megaforce is an action film made in 1982 directed by former stuntman Hal Needham . Mattel released a special series of Hot Wheels cars that corresponded to the movie that same year; all were made in Hong Kong. The vehicles in the movie were designed in collaboration with Mattel. Only the Megadestroyer castings were actually new; the rest were either retooled or repurposed from previous releases. All castings with the exception of the Tac-Com would see further rereleases under different names. All castings feature copyright information pertaining to a \"North Shore Investments, Ltd.\" Although the series uses Hot Wheels models, this series are not branded as Hot Wheels.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Megaforce",
+        "releases": [
+            {
+                "release_id": "0-megaforce-series-tan-5268",
+                "toy_number": "5268",
+                "casting_id": "megaforce-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Brown and black lightning bolts",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BBW"
+                    },
+                    "model_name": "Megadestroyer 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New casting",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Super_Cannon_TanOrg.JPG/revision/latest?cb=20091011003824"
+                }
+            },
+            {
+                "release_id": "0-megaforce-series-black-5269",
+                "toy_number": "5269",
+                "casting_id": "megaforce-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BBW"
+                    },
+                    "model_name": "Megadestroyer 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "New casting",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Mega_force_black.jpg/revision/latest?cb=20130130173547"
+                }
+            },
+            {
+                "release_id": "0-megaforce-series-white-5270",
+                "toy_number": "5270",
+                "casting_id": "megaforce-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Red stripe on sides, red camper shell",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Personnel Carrier",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Tan interior and bike",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/67096432_10161890326685431_135714098900893696_n.jpg/revision/latest?cb=20190717183218"
+                }
+            },
+            {
+                "release_id": "0-megaforce-series-white-5270-v2",
+                "toy_number": "5270",
+                "casting_id": "megaforce-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Red stripe on sides, red camper shell",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Personnel Carrier",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Chrome interior and bike",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/Personnel_Carrier-22294.jpg/revision/latest?cb=20150401232000"
+                }
+            },
+            {
+                "release_id": "0-megaforce-series-tan-5271",
+                "toy_number": "5271",
+                "casting_id": "megaforce-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Red and brown patterns",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MFMOTO"
+                    },
+                    "model_name": "Megafighter",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Never produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Megaforce_unproduced_motorcycle_2004.jpg/revision/latest?cb=20130112170239"
+                }
+            },
+            {
+                "release_id": "0-megaforce-series-olive-5272",
+                "toy_number": "5272",
+                "casting_id": "megaforce-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Olive",
+                    "tampo": "Light green and tan camouflage",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MW"
+                    },
+                    "model_name": "Battle Tank",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/3_battle_tank_-_megaforce_1982.jpg/revision/latest?cb=20130112064049"
+                }
+            },
+            {
+                "release_id": "0-megaforce-series-tan-5273",
+                "toy_number": "5273",
+                "casting_id": "megaforce-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "Orange and dark brown lightning bolts",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BBW"
+                    },
+                    "model_name": "Tac-Com",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/1982_Tac_Com_megaforce_Tan_Flyin_colors.jpg/revision/latest?cb=20130217043005"
+                }
+            }
+        ]
+    }
+]

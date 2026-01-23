@@ -1,0 +1,15 @@
+{
+    "series_id": "pearl",
+    "name": "Pearl",
+    "description": "Hot Wheels Pearl Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13279.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13279.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13280.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13280.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13282.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13282.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13283.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13283.json"
+    ]
+}

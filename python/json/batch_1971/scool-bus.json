@@ -1,0 +1,425 @@
+[
+    {
+        "casting_id": "scool-bus",
+        "name": "S'Cool Bus",
+        "description": {
+            "en-us": "S'Cool Bus Debut series 1971 Heavyweights Produced 1971 Only (Original) 1993 - 2009 ( Retool ) Designer Tom Daniel (Model Kit) Larry Wood (Hot Wheels Version) Number 6468",
+            "pt-br": ""
+        },
+        "designer": "Tom Daniel (Model Kit) Larry Wood (Hot Wheels Version)",
+        "debut_year": 1971,
+        "manufacturer": "S'Cool",
+        "releases": [
+            {
+                "release_id": "1971-scool-bus-yellow-6468",
+                "toy_number": "6468",
+                "casting_id": "scool-bus",
+                "year": 1971,
+                "series_id": "heavyweights",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Black Stripes, '854 CI' and \"S'Cool Bus\""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/%27coolbus.jpg/revision/latest?cb=20080314161022"
+                }
+            },
+            {
+                "release_id": "1993-scool-bus-metalflake-gold-12496",
+                "toy_number": "12496",
+                "casting_id": "scool-bus",
+                "year": 1993,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "S'Cool Bus on Side",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Vintage Series 8 Pack",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/Scoolbus.Vintage_Set.jpg/revision/latest?cb=20200709203654"
+                }
+            },
+            {
+                "release_id": "1994-scool-bus-yellow-11522",
+                "toy_number": "11522",
+                "casting_id": "scool-bus",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "S'Cool Bus on Side",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/IMG_20190403_111730305.jpg/revision/latest?cb=20190403142447"
+                }
+            },
+            {
+                "release_id": "1994-scool-bus-metalflake-yellow-11522",
+                "toy_number": "11522",
+                "casting_id": "scool-bus",
+                "year": 1994,
+                "series_id": "vintage",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Yellow",
+                    "tampo": "S'Cool Bus on Side",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Funnycar with lifting body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1995-scool-bus-gold-chrome-13828",
+                "toy_number": "13828",
+                "casting_id": "scool-bus",
+                "year": 1995,
+                "series_id": "fao",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "None",
+                    "base_color": "Gold",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "Gold RL"
+                    }
+                },
+                "country": "China",
+                "notes": "Limited to 4000",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1995-scool-bus-white-13849",
+                "toy_number": "13849",
+                "casting_id": "scool-bus",
+                "year": 1995,
+                "series_id": "redline",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Green Stripe and 'Redline Spring Break' on Side",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1996-scool-bus-yellow-15741",
+                "toy_number": "15741",
+                "casting_id": "scool-bus",
+                "year": 1996,
+                "series_id": "target",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "S'Cool Bus on Side",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/Target_Retro_Wheels_Vintage_Collector_Pack_S%27Cool_Bus_China_1996_15741.jpg/revision/latest?cb=20221122220333"
+                }
+            },
+            {
+                "release_id": "2000-scool-bus-silver-26278",
+                "toy_number": "26278",
+                "casting_id": "scool-bus",
+                "year": 2000,
+                "series_id": "penske",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "'Penkse S'Cool Bus' on Side, Black Oil Splash",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "CDDRR"
+                    }
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/2000-grey-Penske-RR-carded.jpg/revision/latest?cb=20180712063429"
+                }
+            },
+            {
+                "release_id": "2002-scool-bus-blue-56267",
+                "toy_number": "56267",
+                "casting_id": "scool-bus",
+                "year": 2002,
+                "series_id": "2nd",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "White hood with 2nd Nationals logo centered on gray tampo with red & black stripes; \"2nd Nationals\",  light blue flames, yellow & red stripes, & ckeckerboard pattern on black and white stripes on sides; white roof framed by red & black stripes; painted taillights",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "RLDDRR"
+                    }
+                },
+                "country": "Thailand",
+                "notes": "4,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Collectors_Nationals_2nd_2002_S%27Cool_Bus_Blue_Thailand_56267.jpg/revision/latest?cb=20231107004655"
+                }
+            },
+            {
+                "release_id": "2003-scool-bus-red-28694",
+                "toy_number": "28694",
+                "casting_id": "scool-bus",
+                "year": 2003,
+                "series_id": "penske",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "'Penkse S'Cool Bus' on Side, Black Oil Splash",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "RR"
+                    }
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/Penske_Auto_Center_S%27Cool_Bus_Red_China_28694.jpg/revision/latest?cb=20221215120122"
+                }
+            },
+            {
+                "release_id": "2003-scool-bus-red-black-85686",
+                "toy_number": "85686",
+                "casting_id": "scool-bus",
+                "year": 2003,
+                "series_id": "mothers",
+                "series_index": 4,
+                "specs": {
+                    "color": "Red & Black",
+                    "tampo": "'2nd Nationals' on side, White hood & roof, Convention logo on hood",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Orange Engine Scoop",
+                    "wheel_type": {
+                        "0": "PR5"
+                    }
+                },
+                "country": "Thailand",
+                "notes": "Named Mom's School Bus",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/Mothers_Wax_Mom%27s_School_Bus_2003_Thailand_85686.jpg/revision/latest?cb=20230613213003"
+                }
+            },
+            {
+                "release_id": "2005-scool-bus-spectraflame-yellow-h9273",
+                "toy_number": "H9273",
+                "casting_id": "scool-bus",
+                "year": 2005,
+                "series_id": "5th",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame yellow",
+                    "tampo": "Yellow ghost flames on sides & hood, black stripes & \"S'COOL BUS\" on sides, white parachutes on rear, detailed marker lights & taillights",
+                    "base_color": "Dark Chrome",
+                    "base_type": "Metal",
+                    "window_color": "None",
+                    "interior_color": "Dark chrome",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "10,000 produced HWC.com convention series",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/S%27Cool_Bus_package_front.png/revision/latest?cb=20160316181144"
+                }
+            },
+            {
+                "release_id": "2006-scool-bus-black-l5874",
+                "toy_number": "L5874",
+                "casting_id": "scool-bus",
+                "year": 2006,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red & White flames and S'Cool Bus on Side, Red Roof",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Red Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL5SP"
+                    }
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/2006S%27CoolBusFlyingCustomsBlack.jpg/revision/latest?cb=20181227071428"
+                }
+            },
+            {
+                "release_id": "2006-scool-bus-chrome-l5863",
+                "toy_number": "L5863",
+                "casting_id": "scool-bus",
+                "year": 2006,
+                "series_id": "super",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Blue & White flames and S'Cool Bus on Side, Blue Roof",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Red Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL5SP"
+                    }
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Scoolbuschrome.jpg/revision/latest?cb=20210731151554"
+                }
+            },
+            {
+                "release_id": "2006-scool-bus-gold-chrome-k4753",
+                "toy_number": "K4753",
+                "casting_id": "scool-bus",
+                "year": 2006,
+                "series_id": "super",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "Red flames and S'Cool Bus on Side, Black Roof",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black & Red Engine Scoop",
+                    "wheel_type": {
+                        "0": "RL5SP"
+                    }
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Super_Chrome_S%27Cool_Bus.JPG/revision/latest?cb=20220922213400"
+                }
+            },
+            {
+                "release_id": "2008-scool-bus-black-m0543",
+                "toy_number": "M0543",
+                "casting_id": "scool-bus",
+                "year": 2008,
+                "series_id": "40",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Yellow Stripes, \"S'Cool Bus\" on sides, '854CI' on hood",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/40YRSSCoolBusLft.jpg/revision/latest?cb=20090607005153"
+                }
+            },
+            {
+                "release_id": "2009-scool-bus-spectraflame-purple-p2133",
+                "toy_number": "P2133",
+                "casting_id": "scool-bus",
+                "year": 2009,
+                "series_id": "rlc",
+                "series_index": 3,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "Ghost flames, Light and trim details, light purple \"S'Cool Bus\" on rear, silver parachutes",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "None",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCGY"
+                    }
+                },
+                "country": "China",
+                "notes": "4,086 Produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/SCoolBus_09Rewards.JPG/revision/latest?cb=20101115105529",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

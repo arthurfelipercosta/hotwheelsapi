@@ -1,0 +1,609 @@
+[
+    {
+        "casting_id": "speed-demons",
+        "name": "Speed Demons",
+        "description": {
+            "en-us": "Hot Wheels Speed Demons Series was introduced in 1986 and ran through 1989.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Speed",
+        "releases": [
+            {
+                "release_id": "0-speed-demons-orange-2058",
+                "toy_number": "2058",
+                "casting_id": "speed-demons",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Black spots",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Cargoyle",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/50/Cargoyle_Org.JPG/revision/latest?cb=20090113033504"
+                }
+            },
+            {
+                "release_id": "0-speed-demons-red-2057",
+                "toy_number": "2057",
+                "casting_id": "speed-demons",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow spots",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Double Demon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Double_Demon_RedUH.JPG/revision/latest?cb=20090113051145"
+                }
+            },
+            {
+                "release_id": "0-speed-demons-blue-2062",
+                "toy_number": "2062",
+                "casting_id": "speed-demons",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Light green & yellow on head",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Eevil Weevil",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Evil_Weevil_%281986%29_-_86_Speed_Demons.jpg/revision/latest?cb=20081204201704"
+                }
+            },
+            {
+                "release_id": "0-speed-demons-green-2059",
+                "toy_number": "2059",
+                "casting_id": "speed-demons",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Fangster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/Fangster_UH.JPG/revision/latest?cb=20090113031056"
+                }
+            },
+            {
+                "release_id": "0-speed-demons-yellow-2061",
+                "toy_number": "2061",
+                "casting_id": "speed-demons",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Green spots",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Turboa",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/Turboa_YelUH.JPG/revision/latest?cb=20090112010531"
+                }
+            },
+            {
+                "release_id": "0-speed-demons-purple-2060",
+                "toy_number": "2060",
+                "casting_id": "speed-demons",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "White, orange, & red on wings",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Vampyra",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Vampyra_LtPuplUH.JPG/revision/latest?cb=20090102210057"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-orange-2058",
+                "toy_number": "2058",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Black spots",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Cargoyle",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/50/Cargoyle_Org.JPG/revision/latest?cb=20090113033504"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-slightly-darker-orange-2058",
+                "toy_number": "2058",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Slightly darker orange",
+                    "tampo": "Black spots",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Cargoyle",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-red-2057",
+                "toy_number": "2057",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow spots",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Double Demon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Double_Demon_RedUH.JPG/revision/latest?cb=20090113051145"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-blue-2062",
+                "toy_number": "2062",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Light green & yellow on head",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Eevil Weevil",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Evil_Weevil_%281986%29_-_86_Speed_Demons.jpg/revision/latest?cb=20081204201704"
+                }
+            },
+            {
+                "release_id": "1988-speed-demons-blue-2062",
+                "toy_number": "2062",
+                "casting_id": "speed-demons",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Light green & yellow on head",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Eevil Weevil",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/Eevil_Wevil_BluBW.JPG/revision/latest?cb=20081211110208"
+                }
+            },
+            {
+                "release_id": "1989-speed-demons-yellow-2062",
+                "toy_number": "2062",
+                "casting_id": "speed-demons",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Purple & orange on head",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Eevil Weevil",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/Eevil_Weevil_Yel.JPG/revision/latest?cb=20090102163138"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-green-2059",
+                "toy_number": "2059",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Fangster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/Fangster_UH.JPG/revision/latest?cb=20090113031056"
+                }
+            },
+            {
+                "release_id": "1988-speed-demons-green-2059",
+                "toy_number": "2059",
+                "casting_id": "speed-demons",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Fangster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Fangster_BW.JPG/revision/latest?cb=20090113031032"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-chrome-3851",
+                "toy_number": "3851",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Red, orange, & black face and chest plate",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Phantomachine",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/Phantomachine.JPG/revision/latest?cb=20090113020639"
+                }
+            },
+            {
+                "release_id": "1988-speed-demons-white-5028",
+                "toy_number": "5028",
+                "casting_id": "speed-demons",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Ratmobile",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Ratmobile_WhtUH.JPG/revision/latest?cb=20090104183424"
+                }
+            },
+            {
+                "release_id": "1988-speed-demons-purple-4389",
+                "toy_number": "4389",
+                "casting_id": "speed-demons",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Rodzilla",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Yellow eyes",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Rodzilla_PrpUH.JPG/revision/latest?cb=20090112191315"
+                }
+            },
+            {
+                "release_id": "1988-speed-demons-purple-4389-v2",
+                "toy_number": "4389",
+                "casting_id": "speed-demons",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Rodzilla",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Red eyes",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-gray-3286",
+                "toy_number": "3286",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Sharkruiser",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Sharkruiser_PrpUH.JPG/revision/latest?cb=20090113054003"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-yellow-2061",
+                "toy_number": "2061",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Green spots",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Turboa",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/Turboa_YelUH.JPG/revision/latest?cb=20090112010531"
+                }
+            },
+            {
+                "release_id": "1989-speed-demons-purple-2060",
+                "toy_number": "2060",
+                "casting_id": "speed-demons",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "White, orange, & red on wings",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Vampyra",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Vampyra_LtPuplUH.JPG/revision/latest?cb=20090102210057"
+                }
+            },
+            {
+                "release_id": "1987-speed-demons-gold-chrome-3852",
+                "toy_number": "3852",
+                "casting_id": "speed-demons",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "Red, blue, & black face and chest plate",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Zombot",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/Zombot_GldUH.JPG/revision/latest?cb=20090113013344"
+                }
+            }
+        ]
+    }
+]

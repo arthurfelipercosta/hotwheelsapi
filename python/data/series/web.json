@@ -1,0 +1,10 @@
+{
+    "series_id": "web",
+    "name": "Web",
+    "description": "Hot Wheels Web Series",
+    "releases": [
+        "../data/releases/2008/2008-splittin-image-metalflake-pale-green-m6998.json",
+        "../data/releases/2008/2008-splittin-image-white-m6998-v2.json",
+        "../data/releases/2008/2008-splittin-image-white-m6998.json"
+    ]
+}

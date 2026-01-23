@@ -1,0 +1,717 @@
+[
+    {
+        "casting_id": "bugeye",
+        "name": "Bugeye",
+        "description": {
+            "en-us": "Bugeye Debut series 1971 Hot Wheels Produced 1971 - 1973 Designer Larry Wood Number 6178",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1971,
+        "manufacturer": "Bugeye",
+        "releases": [
+            {
+                "release_id": "1971-bugeye-unknown-6178",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Aqua",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v2",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Blue",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/71BlueBugeye.jpeg/revision/latest?cb=20250813092708"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v3",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Light Blue",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v4",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Green",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v5",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Light 'Apple' Green",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Bugeye.jpg/revision/latest?cb=20080314160521"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v6",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Magenta",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v7",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Pink",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v8",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Red",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Bugeye1971RedUSA.png/revision/latest?cb=20170818113912"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v9",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Rose",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Bugeye_Rose.jpg/revision/latest?cb=20230419200558"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v10",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Gold",
+                    "notes_variations": "Rare"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v11",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Yellow",
+                    "notes_variations": "Rare"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v12",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Orange",
+                    "notes_variations": "Very Rare, Pre-Production only"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v13",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Aqua",
+                    "notes_variations": "Very Rare, Pre-Production only"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/BugeyeAqua.jpg/revision/latest?cb=20130527225828"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v14",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Blue",
+                    "notes_variations": "Very Rare, Pre-Production only"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v15",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Green",
+                    "notes_variations": "Very Rare, Pre-Production only"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v16",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Light Green",
+                    "notes_variations": "Very Rare, Pre-Production only"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/HW_Bugeye_Light_Green.jpg/revision/latest?cb=20190726174147"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v17",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Magenta",
+                    "notes_variations": "Very Rare, Pre-Production only"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v18",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Purple",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v19",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Red",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-bugeye-unknown-6178-v20",
+                "toy_number": "6178",
+                "casting_id": "bugeye",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Yellow",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/BugeyeYel.jpg/revision/latest?cb=20130527230036"
+                }
+            },
+            {
+                "release_id": "1973-bugeye-unknown-shell05",
+                "toy_number": "Shell05",
+                "casting_id": "bugeye",
+                "year": 1973,
+                "series_id": "shell",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Fluorescent Lime",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/Bugeye-1973_Shell_Promo.Lime.jpg/revision/latest?cb=20141031140301"
+                }
+            },
+            {
+                "release_id": "1973-bugeye-unknown-shell05-v2",
+                "toy_number": "Shell05",
+                "casting_id": "bugeye",
+                "year": 1973,
+                "series_id": "shell",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Fluorescent Green",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-bugeye-unknown-shell05-v3",
+                "toy_number": "Shell05",
+                "casting_id": "bugeye",
+                "year": 1973,
+                "series_id": "shell",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Fluorescent Pink",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-bugeye-unknown-shell05-v4",
+                "toy_number": "Shell05",
+                "casting_id": "bugeye",
+                "year": 1973,
+                "series_id": "shell",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Enamel Dark Blue",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-bugeye-unknown-shell05-v5",
+                "toy_number": "Shell05",
+                "casting_id": "bugeye",
+                "year": 1973,
+                "series_id": "shell",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Enamel Light Blue",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-bugeye-unknown-shell05-v6",
+                "toy_number": "Shell05",
+                "casting_id": "bugeye",
+                "year": 1973,
+                "series_id": "shell",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Enamel Red",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-bugeye-unknown-shell05-v7",
+                "toy_number": "Shell05",
+                "casting_id": "bugeye",
+                "year": 1973,
+                "series_id": "shell",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Enamel Yellow",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Bugeye_enamel_yellow.jpg/revision/latest?cb=20210919183707"
+                }
+            }
+        ]
+    }
+]

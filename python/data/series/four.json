@@ -1,0 +1,8 @@
+{
+    "series_id": "four",
+    "name": "Four",
+    "description": "Hot Wheels Four Series",
+    "releases": [
+        "../data/releases/1997/1997-custom-mustang-green-16986.json"
+    ]
+}

@@ -1,0 +1,2850 @@
+[
+    {
+        "casting_id": "premium-collector-set",
+        "name": "Premium Collector Set",
+        "description": {
+            "en-us": "The Premium Collector Set assortment is an adult collector-focused premium set consisting of 4 vehicles in diorama-style packaging. All vehicles feature Real Riders wheels, diecast bodies and chassis.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Premium",
+        "releases": [
+            {
+                "release_id": "0-premium-collector-set-light-green-gmh40",
+                "toy_number": "GMH40",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "C4SPRR"
+                    },
+                    "casting_name": "Datsun 510 Wagon",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): M46, M50",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/2020NissanSetDatsun510.jpg/revision/latest?cb=20240603033938"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-nissan-fairlady-z",
+                "toy_number": "Nissan Fairlady Z",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): M46, M50"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/2020NissanSetfairlady.jpg/revision/latest?cb=20240603033956"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-minic4sp-nissan-laurel-2000-sgx",
+                "toy_number": "Nissan Laurel 2000 SGX",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "MiniC4SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): M46, M50"
+                    },
+                    "casting_name": "Magenta",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/2020NissanSetlaurel.jpg/revision/latest?cb=20240603034011"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr8sp-aero-lift",
+                "toy_number": "Aero Lift",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR8SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): M46, M50"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/2020NissanSetAerolift.jpg/revision/latest?cb=20240603033924"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-gmh41",
+                "toy_number": "GMH41",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "casting_name": "Volkswagen Jetta MK3",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Identical to GBW85 Base Code(s): N20",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/8393238c55b4e0644542b45848bd572.jpg/revision/latest?cb=20200917110838"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5sp-70-dodge-charger-rt",
+                "toy_number": "'70 Dodge Charger R/T",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): N20"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/33943bd52fd04d3e7278b0700353605.jpg/revision/latest?cb=20200917110856"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-toyota-supra",
+                "toy_number": "Toyota Supra",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): N20"
+                    },
+                    "casting_name": "Orange",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/021978e2835655bb1366780ff3d1284.jpg/revision/latest?cb=20200917110912"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-srr-carry-on",
+                "toy_number": "Carry On",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "SRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): N20"
+                    },
+                    "casting_name": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/24dcc3e55ed2e97aa771b722158ddf8.jpg/revision/latest?cb=20200917110926"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-black-gmh42",
+                "toy_number": "GMH42",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRDragS & Mini RR5SP"
+                    },
+                    "casting_name": "'66 Chevy Super Nova",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base Code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/71041MjI2ML._AC_SL1500_.jpg/revision/latest?cb=20200917111445"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5sp-rr5sp-55-chevy-bel-air-gasser",
+                "toy_number": "'55 Chevy Bel Air Gasser",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SP & RR5SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s):"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/71SIenZmEHL._AC_SL1500_.jpg/revision/latest?cb=20200917111457"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrdragd-rrwsp-65-mercury-comet-cyclone",
+                "toy_number": "'65 Mercury Comet Cyclone",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRDragD & RRWSP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s):"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/71QvvM%2BKpBL._AC_SL1500_.jpg/revision/latest?cb=20200917111508"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrprf-retro-rig",
+                "toy_number": "Retro Rig",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRPrf",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s):"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/71uBtQWmOjL._AC_SL1500_.jpg/revision/latest?cb=20200917111519"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-zamac-gmh43",
+                "toy_number": "GMH43",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SRR"
+                    },
+                    "casting_name": "Jaguar Lightweight E-Type",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): M32",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/Defc7a542b06fe78de13d2d2c396b8f.jpg/revision/latest?cb=20200917112156"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5spm-porsche-917kh",
+                "toy_number": "Porsche 917KH",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): M34"
+                    },
+                    "casting_name": "Gulf Racing Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/Db03dc174794bdd40f29225ae95c488.jpg/revision/latest?cb=20200917112156"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-srr-mercedes-benz-300-sl",
+                "toy_number": "Mercedes-Benz 300 SL",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "SRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): M34"
+                    },
+                    "casting_name": "Grey",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/70ec2f1770b093a54b54f111bd6c6f7.jpg/revision/latest?cb=20200917112228"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrmag-carry-on",
+                "toy_number": "Carry On",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRMAG",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): M34"
+                    },
+                    "casting_name": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/6c2037b61be582bffca73a0d8eda03a.jpg/revision/latest?cb=20200917112238"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-red-grn83",
+                "toy_number": "GRN83",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "casting_name": "'70 Dodge HEMI Challenger",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): N46",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/PonyRidesChallenger.jpg/revision/latest?cb=20210403004541"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrmag-70-camaro",
+                "toy_number": "'70 Camaro",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRMag",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): N46, N47"
+                    },
+                    "casting_name": "Yellow",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/PonyRidesCamaro.jpg/revision/latest?cb=20210403004924"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5sp-65-mustang-22-fastback",
+                "toy_number": "'65 Mustang 2+2 Fastback",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): N46, N47"
+                    },
+                    "casting_name": "Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/PonyRidesMustang.jpg/revision/latest?cb=20210403005005"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrprf-retro-rig-v2",
+                "toy_number": "Retro Rig",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRPrf",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): N46"
+                    },
+                    "casting_name": "Gold",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/PonyRidesRig.jpg/revision/latest?cb=20210403005129"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-grn86",
+                "toy_number": "GRN86",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "casting_name": "Nissan Skyline GT-R (BNR32)",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): P08",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/66/BoxSetSkylineR32.jpg/revision/latest?cb=20211103205226"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5spm-nissan-skyline-gt-r-bcnr33",
+                "toy_number": "Nissan Skyline GT-R (BCNR33)",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): P08"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/BoxSetSkylineR33.jpg/revision/latest?cb=20211103205259"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10spm-nissan-skyline-gt-r-bnr34",
+                "toy_number": "Nissan Skyline GT-R (BNR34)",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): P08"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/GRN86R34-01.JPG/revision/latest?cb=20220129025329"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrprf-retro-rig-v3",
+                "toy_number": "Retro Rig",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRPrf",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): P08"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/GRN86-01.JPG/revision/latest?cb=20220129025102"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-grn84",
+                "toy_number": "GRN84",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "casting_name": "Ford Transit Supervan",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): P21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/2021FordRT4-Transit_%28Large%29.JPG/revision/latest?cb=20211005015900"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr8sp-70-ford-escort-rs1600",
+                "toy_number": "'70 Ford Escort RS1600",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR8SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): P21"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/70_Escort_RS_1200_%281%29.jpg/revision/latest?cb=20210831230000"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr8sp-78-ford-escort-rs1800-mk2",
+                "toy_number": "'78 Ford Escort RS1800 MK2",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR8SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base Code(s): P21"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/78_Ford_Escort_RS_1800_MK2%281%29.jpg/revision/latest?cb=20210831225931"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5sp-ford-c-800",
+                "toy_number": "Ford C-800",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): P21"
+                    },
+                    "casting_name": "White & Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/2021FordRT4-C800_%28Large%29.JPG/revision/latest?cb=20211005015853"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-cream-grn85",
+                "toy_number": "GRN85",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cream",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDRR"
+                    },
+                    "casting_name": "Mercedes-Benz 300 SL",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): P31, P37, P38",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/Mercedes-Benz300SL.jpg/revision/latest?cb=20211015095859"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-sauber-mercedes-c9",
+                "toy_number": "Sauber-Mercedes C9",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base Code(s): P31, P37, P38"
+                    },
+                    "casting_name": "Silver",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/SauberC9.jpg/revision/latest?cb=20211015095958"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-mcrr-16-mercedes-amg-gt3",
+                "toy_number": "'16 Mercedes-AMG GT3",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "MCRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): P31, P37, P38"
+                    },
+                    "casting_name": "Dark gray",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/Mercedes-AMGGT3.jpg/revision/latest?cb=20211015095714"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-ddrr-carry-on",
+                "toy_number": "Carry On",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "DDRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): P31, P37, P38"
+                    },
+                    "casting_name": "Gray",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/MercedesTransporter.jpg/revision/latest?cb=20211015095610"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-black-hcp99",
+                "toy_number": "HCP99",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRLW5"
+                    },
+                    "casting_name": "1978 Dodge Li'l Red Express Truck",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):  P47, P49",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/29846515165.png/revision/latest?cb=20220610152459"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-md-custom-62-chevy-pickup",
+                "toy_number": "Custom '62 Chevy Pickup",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "MD",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s):"
+                    },
+                    "casting_name": "Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/2022-01a.jpg/revision/latest?cb=20230117003357"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrf52t-texas-drive-em",
+                "toy_number": "Texas Drive 'Em",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRF52T",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s):"
+                    },
+                    "casting_name": "Maroon",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/20220610233208.jpg/revision/latest?cb=20220610153250"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-md-horizon-hauler",
+                "toy_number": "Horizon Hauler",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "MD",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s):"
+                    },
+                    "casting_name": "Yellow",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/488964984156.png/revision/latest?cb=20220610152501"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-two-tone-french-racing-blue-and-black-hcr54",
+                "toy_number": "HCR54",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Two-tone French Racing Blue and Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "casting_name": "'16 Bugatti Chiron",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): R08",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/95/EMChiron.jpg/revision/latest?cb=20221224081858"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-koenigsegg-agera-r",
+                "toy_number": "Koenigsegg Agera R",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): R08, R11"
+                    },
+                    "casting_name": "Matte black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/EMAgera.jpg/revision/latest?cb=20221224082147"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-md-rr10spm-mclaren-speedtail",
+                "toy_number": "McLaren Speedtail",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "MD & RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Die-Cast Chassis Base Code(s): R08"
+                    },
+                    "casting_name": "Volcano Orange",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/EMSpeedtail.jpg/revision/latest?cb=20221224082406"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-ddrr-carry-on-v2",
+                "toy_number": "Carry On",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "DDRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): R08"
+                    },
+                    "casting_name": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/EMHauler.jpg/revision/latest?cb=20221224082844"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-hcr52",
+                "toy_number": "HCR52",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "casting_name": "2016 BMW M2",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "New Die-Cast Chassis Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/2022-4Set-BMWM2_%28Large%29.JPG/revision/latest?cb=20220807053641"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5spm-2001-bmw-m5-e39",
+                "toy_number": "2001 BMW M5 E39",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base Code(s):"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/51/2022-4Set-BMWM5_%28Large%29.JPG/revision/latest?cb=20220807053425"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-bmw-m3-e46",
+                "toy_number": "BMW M3 (E46)",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s):"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/2022-4Set-BMWM3_%28Large%29.JPG/revision/latest?cb=20220807053650"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrsteelie-fleet-flyer",
+                "toy_number": "Fleet Flyer",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRSteelie",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s):"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/2022-4Set-BMW-T_%28Large%29.JPG/revision/latest?cb=20220807053700"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-metalflake-navy-blue-hcr53",
+                "toy_number": "HCR53",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake navy blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MiniRR5SPM"
+                    },
+                    "casting_name": "'91 Nissan Sentra SE-R",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "New Casting Base code(s): R37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/NissanSentra.jpg/revision/latest?cb=20221106111642"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-honda-civic-eg",
+                "toy_number": "Honda Civic EG",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Identical to GJR67 Base Code(s): R37"
+                    },
+                    "casting_name": "Yellow",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/%2792HondaEG.jpg/revision/latest?cb=20221106111707"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10spm-95-toyota-celica-gt-four",
+                "toy_number": "'95 Toyota Celica GT-Four",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): R37"
+                    },
+                    "casting_name": "Super Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/ToyotaCelicaGTFour.jpg/revision/latest?cb=20221106111722"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-d7rr-fleet-street",
+                "toy_number": "Fleet Street",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "D7RR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base Code(s): R37"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/TunedStreet.jpg/revision/latest?cb=20221106111735"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-hkc15",
+                "toy_number": "HKC15",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRA"
+                    },
+                    "casting_name": "'84 Audi Sport quattro",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/1984Audiquattro.jpg/revision/latest?cb=20230424111008"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10spm-lamborghini-essenza-scv12",
+                "toy_number": "Lamborghini Essenza SCV12",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S06"
+                    },
+                    "casting_name": "Viola Aletheia",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/ViolaEssenza.jpg/revision/latest?cb=20230424111027"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-sauber-mercedes-c9-v2",
+                "toy_number": "Sauber-Mercedes C9",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S06"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/KourosC9.jpg/revision/latest?cb=20230424111044"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10sp-euro-hauler",
+                "toy_number": "Euro Hauler",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S06"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/JPSHauler.jpg/revision/latest?cb=20230424111113"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-hkc16",
+                "toy_number": "HKC16",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "casting_name": "Nissan Skyline HT 2000GT-X",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S13",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/WhiteHako.jpg/revision/latest?cb=20230909125603"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-minic4sp-nissan-skyline-c210",
+                "toy_number": "Nissan Skyline C210",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "MiniC4SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S13"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/WhiteC210.jpg/revision/latest?cb=20230909125636"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-minirr5spm-nissan-skyline-2000gt-r-lbwk",
+                "toy_number": "Nissan Skyline 2000GT-R LBWK",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "MiniRR5SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Die-Cast Chassis Base code(s): S16"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/LBKenmeri.jpg/revision/latest?cb=20230909125726"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-trr-fleet-street",
+                "toy_number": "Fleet Street",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "TRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S15"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/WhiteFleetStreet.jpg/revision/latest?cb=20230909125808"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-hkc18",
+                "toy_number": "HKC18",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR8SP"
+                    },
+                    "casting_name": "MG Metro 6R4",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S31, S33",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/Rothmans6R4.jpg/revision/latest?cb=20230909130141"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rra-lancia-delta-integrale",
+                "toy_number": "Lancia Delta Integrale",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRA",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Die-Cast Chassis Base code(s): S33"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/MartiniDelta.jpg/revision/latest?cb=20230909130223"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rreuro-ford-rs200",
+                "toy_number": "Ford RS200",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RREURO",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S33"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/FordRS200.jpg/revision/latest?cb=20230909130254"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr8sp-hw-rally-hauler",
+                "toy_number": "HW Rally Hauler",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR8SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S31, S33"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/HWRallyVan.jpg/revision/latest?cb=20230909130319"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr8sp-hw-rally-trailer",
+                "toy_number": "HW Rally Trailer",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR8SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S31, S33"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/HWRallyVanTrailer.jpg/revision/latest?cb=20230909130338"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-zamac-hkc17",
+                "toy_number": "HKC17",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRDragD & RRSteelie"
+                    },
+                    "casting_name": "Jay Leno Tank Car",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Identical to HCJ85 Base code(s): S29",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/52/BlastoleneSet.jpg/revision/latest?cb=20231111102824"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10sp-2017-ford-gt",
+                "toy_number": "2017 Ford GT",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S29"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/2017FordGT.jpg/revision/latest?cb=20231111102809"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10spm-ford-shelby-gt350r",
+                "toy_number": "Ford Shelby GT350R",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S29, S32"
+                    },
+                    "casting_name": "Oxford White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/2016FordGT350R.jpg/revision/latest?cb=20231111102753"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrsteelie-1955-mercedes-benz-blaues-wunder",
+                "toy_number": "1955 Mercedes-Benz \"Blaues Wunder\"",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRSteelie",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base code(s): S29, S36"
+                    },
+                    "casting_name": "Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/DasBlaueWunder.jpg/revision/latest?cb=20231111102841"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-hrt54",
+                "toy_number": "HRT54",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRA & RREURO"
+                    },
+                    "casting_name": "Porsche 935",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "New Die-Cast Chassis Base code(s): T03, T05, T06",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Brumos935.jpg/revision/latest?cb=20240316100202"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrlw5-1967-porsche-911-r",
+                "toy_number": "1967 Porsche 911 R",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRLW5",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base code(s): T03, T04, T05, T06"
+                    },
+                    "casting_name": "Yellow",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/Porsche911R.jpg/revision/latest?cb=20240316100217"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5spm-porsche-917-lh",
+                "toy_number": "Porsche 917 LH",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T03, T05, T06"
+                    },
+                    "casting_name": "Dark blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/Martini917LH.jpg/revision/latest?cb=20240316100231"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr8sp-volkswagen-transporter-t1-pickup",
+                "toy_number": "Volkswagen Transporter T1 Pickup",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR8SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T03, T04, T06"
+                    },
+                    "casting_name": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/PorschePickup.jpg/revision/latest?cb=20240316100244"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-teal-hrt53",
+                "toy_number": "HRT53",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Teal",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RRA"
+                    },
+                    "casting_name": "Pandem Subaru BRZ",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T07, T11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/20240510113656.jpg/revision/latest?cb=20240510033738"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-c4sprr-nissan-maxima-drift-car",
+                "toy_number": "Nissan Maxima Drift Car",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "C4SPRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Die-Cast Chassis Base code(s): T07, T12"
+                    },
+                    "casting_name": "Orange",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/20240510113702.jpg/revision/latest?cb=20240510033738"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-c4sprr-custom-datsun-240z",
+                "toy_number": "Custom Datsun 240Z",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "C4SPRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T07, T12"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/20240510113720.jpg/revision/latest?cb=20240510033738"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-fleet-street",
+                "toy_number": "Fleet Street",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T07, T12"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/20240510113715.jpg/revision/latest?cb=20240510033736"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-black-hrt52",
+                "toy_number": "HRT52",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SRR"
+                    },
+                    "casting_name": "BRE Datsun 620",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/20240801100506.jpg/revision/latest?cb=20240801020628"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-c4sprr-bre-datsun-510-wagon",
+                "toy_number": "BRE Datsun 510 Wagon",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "C4SPRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T20"
+                    },
+                    "casting_name": "Teal",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/20240801100519.jpg/revision/latest?cb=20240801020628"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-1991-bre-nissan-sentra-se-r",
+                "toy_number": "1991 BRE Nissan Sentra SE-R",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T21"
+                    },
+                    "casting_name": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/20240801100524.jpg/revision/latest?cb=20240801020628"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrsteelie-bre-sakura-sprinter",
+                "toy_number": "BRE Sakura Sprinter",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRSteelie",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T21"
+                    },
+                    "casting_name": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/20240801100528.jpg/revision/latest?cb=20240801020628"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-white-hrt51",
+                "toy_number": "HRT51",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RREURO"
+                    },
+                    "casting_name": "Toyota Stout Drift Truck",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "New Casting Base code(s): T32",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/ToyotaStout.jpg/revision/latest?cb=20240929121816"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr8sp-citron-h-van",
+                "toy_number": "Citroën H Van",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR8SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T30, T32"
+                    },
+                    "casting_name": "Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/Citro%C3%ABnHVan.jpg/revision/latest?cb=20240929121721"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-none-classic-hydroplane",
+                "toy_number": "Classic Hydroplane",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "None",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T32, T33"
+                    },
+                    "casting_name": "Yellow",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/ClassicHydroplane.jpg/revision/latest?cb=20240929121741"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrsteelie-speed-waze",
+                "toy_number": "Speed Waze",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRSteelie",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T31, T32"
+                    },
+                    "casting_name": "Yellow",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/MoonWaze.jpg/revision/latest?cb=20240929121757"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-goodwood-gray-jbm05",
+                "toy_number": "JBM05",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Goodwood Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "casting_name": "2020 Toyota GR Supra",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T37, T46",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2020_Toyota_GR_Supra_Track_Day.jpg/revision/latest?cb=20250208025130"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rreuro-porsche-9345",
+                "toy_number": "Porsche 934.5",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RREURO",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T37"
+                    },
+                    "casting_name": "Orange",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-c4sprr-custom-datsun-240z-v2",
+                "toy_number": "Custom Datsun 240Z",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "C4SPRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Identical to DWH88 Base code(s): T37"
+                    },
+                    "casting_name": "Pearl White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/04/Custom_Datsun_240Z_Pearl_white.jpg/revision/latest?cb=20250709040544"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-srr-horizon-hauler",
+                "toy_number": "Horizon Hauler",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "SRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T37"
+                    },
+                    "casting_name": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-black-jbm06",
+                "toy_number": "JBM06",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "casting_name": "Porsche 962",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Identical to FLC29 Base code(s): T48A, T51, U06A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/Nova962.jpg/revision/latest?cb=20250219120343"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr8sp-nissan-skyline-2000gt-r-lbwk",
+                "toy_number": "Nissan Skyline 2000GT-R LBWK",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR8SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T51, U06A"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/ADVANKenmeri.jpg/revision/latest?cb=20250219120358"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr6spm-1995-toyota-mr2-trd-2000-gt",
+                "toy_number": "1995 Toyota MR2 TRD 2000 GT",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR6SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base code(s): T52, U06A"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/ToyotaMR2.jpg/revision/latest?cb=20250219120410"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-c4sprr-aero-lift",
+                "toy_number": "Aero Lift",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "C4SPRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): T51, U06A"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/ADVANLift.jpg/revision/latest?cb=20250219120422"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-brilliant-silver-metallic-jbm07",
+                "toy_number": "JBM07",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brilliant Silver Metallic",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SPM"
+                    },
+                    "casting_name": "1997 Mercedes-Benz CLK-GTR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Identical to HKF46 Base code(s): U12A, U13A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/1997CLKGTR.jpg/revision/latest?cb=20250518124818"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10spm-1997-porsche-911-gt1",
+                "toy_number": "1997 Porsche 911 GT1",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base code(s): U12A, U13A"
+                    },
+                    "casting_name": "Arctic Silver",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/Porsche911GT1.jpg/revision/latest?cb=20250518124845"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr5spm-mclaren-f1",
+                "toy_number": "McLaren F1",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR5SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): U12A, U13A"
+                    },
+                    "casting_name": "Magnesium Silver",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/1997McLarenF1.jpg/revision/latest?cb=20250518124831"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rra-fleet-street",
+                "toy_number": "Fleet Street",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRA",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): U13A"
+                    },
+                    "casting_name": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/FleetHauler.jpg/revision/latest?cb=20250518124804"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-championship-white-jbm08",
+                "toy_number": "JBM08",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Championship White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR6SPM"
+                    },
+                    "casting_name": "1999 Honda Civic TYPE R",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): U31A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/1999EK9R.jpg/revision/latest?cb=20250825114023"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10spm-2003-honda-nsx-r",
+                "toy_number": "2003 Honda NSX-R",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Identical to HCK00 Base code(s): U31A"
+                    },
+                    "casting_name": "Championship White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/2003NSXR.jpg/revision/latest?cb=20250825114036"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10spm-2020-honda-s2000-20th-anniversary",
+                "toy_number": "2020 Honda S2000 20th Anniversary",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base code(s): U30A"
+                    },
+                    "casting_name": "Championship White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/HondaS200020th.jpg/revision/latest?cb=20250825114047"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-ddrr-sakura-sprinter",
+                "toy_number": "Sakura Sprinter",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "DDRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): U31A"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/HondaHauler.jpg/revision/latest?cb=20250825114059"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-metalflake-gold-jhw42",
+                "toy_number": "JHW42",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORRR8DOT / RR8DOT"
+                    },
+                    "casting_name": "Meyers Manx",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Identical to HRT57 Base code(s): U42A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/GoldieManx.jpg/revision/latest?cb=20251121101447"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-orrrbl10sp-1957-jeep-fc",
+                "toy_number": "1957 Jeep FC",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ORRRBL10SP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base code(s): U42A"
+                    },
+                    "casting_name": "Celadon",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/1957FC.jpg/revision/latest?cb=20251121101505"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rrpickup-toyota-land-cruiser-fj43",
+                "toy_number": "Toyota Land Cruiser FJ43",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RRPICKUP",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): U42A"
+                    },
+                    "casting_name": "Orange",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/LCFJ43.jpg/revision/latest?cb=20251121101525"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-srr-horizon-hauler-v2",
+                "toy_number": "Horizon Hauler",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "SRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): U42A"
+                    },
+                    "casting_name": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/OffRoadHauler.jpg/revision/latest?cb=20251121101543"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-gulf-racing-blue-jhw43",
+                "toy_number": "JHW43",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gulf Racing Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR10SP"
+                    },
+                    "casting_name": "Ford GT-40",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-rr10spm-1997-mclaren-f1-gtr",
+                "toy_number": "1997 McLaren F1 GTR",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "RR10SPM",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "New Casting Base code(s):"
+                    },
+                    "casting_name": "Gulf Racing Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-c4sprr-ford-transit-supervan",
+                "toy_number": "Ford Transit Supervan",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "C4SPRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Identical to FLC13 Base code(s):"
+                    },
+                    "casting_name": "Gulf Racing Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-premium-collector-set-trr-fleet-street-v2",
+                "toy_number": "Fleet Street",
+                "casting_id": "premium-collector-set",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "TRR",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting_name": "Gulf Racing Blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "series_id": "herfys",
+    "name": "Herfys",
+    "description": "Hot Wheels Herfys Series",
+    "releases": [
+        "../data/releases/1975/1975-amx2-white-7654-v2.json"
+    ]
+}

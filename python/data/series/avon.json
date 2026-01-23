@@ -1,0 +1,8 @@
+{
+    "series_id": "avon",
+    "name": "Avon",
+    "description": "Hot Wheels Avon Series",
+    "releases": [
+        "../data/releases/2000/2000-classic-32-ford-vicky-dark-red-27797.json"
+    ]
+}

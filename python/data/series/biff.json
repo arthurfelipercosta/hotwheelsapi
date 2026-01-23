@@ -1,0 +1,15 @@
+{
+    "series_id": "biff",
+    "name": "Biff",
+    "description": "Hot Wheels Biff Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16914.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16914.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16915.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16915.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16916.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16916.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16917.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16917.json"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "series_id": "target",
+    "name": "Target",
+    "description": "Hot Wheels Target Series",
+    "releases": [
+        "../data/releases/1996/1996-mutt-mobile-metalflake-purple-15741.json",
+        "../data/releases/1996/1996-scool-bus-yellow-15741.json"
+    ]
+}

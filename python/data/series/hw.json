@@ -1,0 +1,17 @@
+{
+    "series_id": "hw",
+    "name": "Hw",
+    "description": "Hot Wheels Hw Series",
+    "releases": [
+        "../data/releases/1998/1998-side-kick-metallic-purple-18861.json",
+        "../data/releases/2012/2012-olds-442-pearl-white-v5449.json",
+        "../data/releases/2014/2014-twin-mill-metalflake-pearl-green-bff00.json",
+        "../data/releases/2014/2014-twin-mill-metalflake-red-bfv54.json",
+        "../data/releases/2014/2014-twin-mill-spectraflame-dark-green-bff35.json",
+        "../data/releases/2018/2018-twin-mill-metalflake-blue-fjy51.json",
+        "../data/releases/2018/2018-twin-mill-red-fjx99.json",
+        "../data/releases/2019/2019-twin-mill-satin-gold-fyf95.json",
+        "../data/releases/2021/2021-twin-mill-blue-gry10.json",
+        "../data/releases/2021/2021-twin-mill-blue-gtn38.json"
+    ]
+}

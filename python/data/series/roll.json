@@ -1,0 +1,9 @@
+{
+    "series_id": "roll",
+    "name": "Roll",
+    "description": "Hot Wheels Roll Series",
+    "releases": [
+        "../data/releases/2004/2004-deora-black-b3798-v2.json",
+        "../data/releases/2004/2004-deora-black-b3798.json"
+    ]
+}

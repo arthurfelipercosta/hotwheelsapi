@@ -1,0 +1,9 @@
+{
+    "series_id": "list",
+    "name": "List",
+    "description": "Hot Wheels List Series",
+    "releases": [
+        "../data/releases/1973/1973-mongoose-enamel-blue-6969.json",
+        "../data/releases/1973/1973-mongoose-enamel-red-6969.json"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "series_id": "fast",
+    "name": "Fast",
+    "description": "Hot Wheels Fast Series",
+    "releases": [
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15264.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15264.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15265.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15265.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15266.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15266.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15263.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15263.json"
+    ]
+}

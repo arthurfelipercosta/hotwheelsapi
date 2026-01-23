@@ -1,0 +1,10 @@
+{
+    "series_id": "rebel",
+    "name": "Rebel",
+    "description": "Hot Wheels Rebel Series",
+    "releases": [
+        "../data/releases/2009/2009-classic-32-ford-vicky-metalflake-blue-gray-p2458.json",
+        "../data/releases/2009/2009-classic-32-ford-vicky-metalflake-brown-p2458-v2.json",
+        "../data/releases/2009/2009-classic-32-ford-vicky-metalflake-brown-p2458.json"
+    ]
+}

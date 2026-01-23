@@ -1,0 +1,211 @@
+[
+    {
+        "casting_id": "the-heavies",
+        "name": "The Heavies",
+        "description": {
+            "en-us": "The Heavies series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "The",
+        "releases": [
+            {
+                "release_id": "0-the-heavies-orange-9647",
+                "toy_number": "9647",
+                "casting_id": "the-heavies",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Yellow & Blue flames on hood",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "33",
+                    "vehicle_name": "'56 Hi-Tail Hauler",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/%2756_Hi-Tail_Hauler_OrgBW.JPG/revision/latest?cb=20090113061930"
+                }
+            },
+            {
+                "release_id": "0-the-heavies-gray-7621",
+                "toy_number": "7621",
+                "casting_id": "the-heavies",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "Yellow/white/blue BRINK'S on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "10",
+                    "vehicle_name": "Funny Money",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Funny_Money_GryL.JPG/revision/latest?cb=20091028224931"
+                }
+            },
+            {
+                "release_id": "0-the-heavies-white-1337",
+                "toy_number": "1337",
+                "casting_id": "the-heavies",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Purple, Black & Orange, \"Geoffrey\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "99",
+                    "vehicle_name": "Geoffrey's Pick Up",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Bywayman_Geofry.JPG/revision/latest?cb=20081030210518"
+                }
+            },
+            {
+                "release_id": "0-the-heavies-orange-9645",
+                "toy_number": "9645",
+                "casting_id": "the-heavies",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "\"Palm Beach\" w/Blue, White & Yellow",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "25",
+                    "vehicle_name": "GMC Motor Home",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Chrome plastic base",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/GMC_Motorhome_Org.JPG/revision/latest?cb=20090107232258"
+                }
+            },
+            {
+                "release_id": "0-the-heavies-white-9643",
+                "toy_number": "9643",
+                "casting_id": "the-heavies",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Blue & Red stripes, \"US Mail\" & logo",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "20",
+                    "vehicle_name": "Letter Getter",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/Letter_Getter_-_3108ff.jpg/revision/latest?cb=20090106075215"
+                }
+            },
+            {
+                "release_id": "0-the-heavies-yellow-9184",
+                "toy_number": "9184",
+                "casting_id": "the-heavies",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "White, Black & Red \"Maxi Taxi\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "48",
+                    "vehicle_name": "Maxi Taxi",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/Maxi_Taxi_BWR.JPG/revision/latest?cb=20091114191638"
+                }
+            },
+            {
+                "release_id": "0-the-heavies-white-7659",
+                "toy_number": "7659",
+                "casting_id": "the-heavies",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Blue & Yellow \"Larry's towing\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "26",
+                    "vehicle_name": "Ramblin' Wrecker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/1977_Ramblin%27_wrecker_BW_smoked_glass_Fcolor.jpg/revision/latest?cb=20130217044135"
+                }
+            }
+        ]
+    }
+]

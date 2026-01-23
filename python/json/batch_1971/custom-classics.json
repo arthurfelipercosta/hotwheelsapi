@@ -1,0 +1,2226 @@
+[
+    {
+        "casting_id": "custom-classics",
+        "name": "Custom Classics",
+        "description": {
+            "en-us": "The Custom Classics line was first released in 2007. The line featured models in the 1/50 scale that were highly detailed. All models came with rubber wheels that had treads. The reason this line didn't run very long is probably the over-use of some castings. Some cars were used eight times in one year. Sometimes even multiple times in a series.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Custom",
+        "releases": [
+            {
+                "release_id": "0-custom-classics-spectraflame-black-l0120",
+                "toy_number": "L0120",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "10SPCCRR"
+                    },
+                    "series": "1/9",
+                    "model_name": "'64 Ford Galaxie 500",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/%2764_Ford_Galaxie_500_thumb.jpg/revision/latest?cb=20140325155952"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-red-l0117",
+                "toy_number": "L0117",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MSPCCRR"
+                    },
+                    "series": "2/9",
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "Spectraflame White roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/%2757_Chevy_Bel_Air_thumb.jpg/revision/latest?cb=20140325160021"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-green-l0121",
+                "toy_number": "L0121",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDCCRR"
+                    },
+                    "series": "3/9",
+                    "model_name": "'68 Cadillac",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/%2768_Cadillac_thumb.jpg/revision/latest?cb=20140325160050"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-silver-l0122",
+                "toy_number": "L0122",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR1"
+                    },
+                    "series": "4/9",
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/90/%2759_Chevy_Impala_thumb.jpg/revision/latest?cb=20140325160113"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-dark-blue-l0118",
+                "toy_number": "L0118",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR2"
+                    },
+                    "series": "5/9",
+                    "model_name": "'65 Buick Riviera",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/%2765_Buick_Riviera_thumb.jpg/revision/latest?cb=20140325160137"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-green-l0199",
+                "toy_number": "L0199",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR3"
+                    },
+                    "series": "6/9",
+                    "model_name": "'62 Pontiac Bonneville",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/%2762_Pontiac_Bonneville_thumb.jpg/revision/latest?cb=20140325160323"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-white-spectraflame-red-l0124",
+                "toy_number": "L0124",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame  White & Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black WWCCRR"
+                    },
+                    "series": "7/9",
+                    "model_name": "Ford Model A",
+                    "tampos": "White grill, Silver headlights & drivetrain"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/Ford_Model_A_thumb.jpg/revision/latest?cb=20140325143349"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-black-l0125",
+                "toy_number": "L0125",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red WWCCRR"
+                    },
+                    "series": "8/9",
+                    "model_name": "'32 Ford Sedan",
+                    "tampos": "Red grille & suspension, Silver headlights, gas tank & drivetrain, White & Red pinstriping"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/%2732_Ford_Sedan_thumb.jpg/revision/latest?cb=20140325134900"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-red-l0123",
+                "toy_number": "L0123",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RORCCRR"
+                    },
+                    "series": "9/9",
+                    "model_name": "Hot Wheels Bone Shaker",
+                    "tampos": "Red engine covers"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Boneshaker_thumb.jpg/revision/latest?cb=20140325155741"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-black-spectraflame-white-l0143",
+                "toy_number": "L0143",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Black & Spectraflame White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR1"
+                    },
+                    "series": "1/9",
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/%2759_Chevy_Impala_2_thumb.jpg/revision/latest?cb=20140325162634"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-yellow-l0144",
+                "toy_number": "L0144",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MSPCCRR"
+                    },
+                    "series": "2/9",
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "Spectraflame White roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/%2757_Chevy_Bel_Air_2_thumb.jpg/revision/latest?cb=20140325162711"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-red-l0145",
+                "toy_number": "L0145",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR2"
+                    },
+                    "series": "3/9",
+                    "model_name": "'65 Buick Riviera",
+                    "tampos": "Yellow pinstripes"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/%2765_Buick_Riviera_2_thumb.jpg/revision/latest?cb=20140325162740"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-blue-spectraflame-dark-blue-l0146",
+                "toy_number": "L0146",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue & Spectraflame Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR3"
+                    },
+                    "series": "4/9",
+                    "model_name": "'62 Pontiac Bonneville",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/%2762_Pontiac_Bonneville_2_thumb.jpg/revision/latest?cb=20140325162807"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-green-l0147",
+                "toy_number": "L0147",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "10SPCCRR1"
+                    },
+                    "series": "5/9",
+                    "model_name": "'64 Ford Galaxie 500",
+                    "tampos": "Green flames"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/%2764_Ford_Galaxie_500_2_thumb.jpg/revision/latest?cb=20140325162836"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-light-blue-l0148",
+                "toy_number": "L0148",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDCCRR"
+                    },
+                    "series": "6/9",
+                    "model_name": "'68 Cadillac",
+                    "tampos": "Black flames"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/%2768_Cadillac_2_thumb.jpg/revision/latest?cb=20140325162907"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-black-spectraflame-purple-l2074",
+                "toy_number": "L2074",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Black & Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PORCCRR"
+                    },
+                    "series": "7/9",
+                    "model_name": "Hot Wheels Bone Shaker",
+                    "tampos": "Purple engine covers, White skull on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Bone_Shaker_2_thumb.jpg/revision/latest?cb=20140325163012"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-silver-l2075",
+                "toy_number": "L2075",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red WWCCRR"
+                    },
+                    "series": "8/9",
+                    "model_name": "'32 Ford Sedan",
+                    "tampos": "Red grille & suspension, Silver headlights, gas tank & drivetrain, White & Red pinstriping"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/%2732_Ford_Sedan_1_thumb.jpg/revision/latest?cb=20140325135525"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-dark-red-l0151",
+                "toy_number": "L0151",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold CCRR"
+                    },
+                    "series": "9/9",
+                    "model_name": "Ford Model A",
+                    "tampos": "Black grille &  Silver headlights & drivetrain"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/Ford_Model_A_2_thumb.jpg/revision/latest?cb=20140325151324"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-white-l0153",
+                "toy_number": "L0153",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold 10SPCCRR2"
+                    },
+                    "series": "1/7",
+                    "model_name": "'64 Lincoln Continental",
+                    "tampos": "Gold pinstripes"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/%2764_Lincoln_Continental_thumb.jpg/revision/latest?cb=20140325175231"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-red-l0154",
+                "toy_number": "L0154",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR3"
+                    },
+                    "series": "2/7",
+                    "model_name": "'62 Pontiac Bonneville",
+                    "tampos": "Satin White roof & Black pinstripes"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/%2762_Pontiac_Bonneville_3_thumb.jpg/revision/latest?cb=20140325180106"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-brown-satin-dark-blue-l0155",
+                "toy_number": "L0155",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Brown & Satin Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR2"
+                    },
+                    "series": "3/7",
+                    "model_name": "'65 Buick Riviera",
+                    "tampos": "Gold pinstripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/%2765_Buick_Riviera_3_thumb.jpg/revision/latest?cb=20140325180214"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-dark-blue-l0156",
+                "toy_number": "L0156",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDCCRR"
+                    },
+                    "series": "4/7",
+                    "model_name": "'68 Cadillac",
+                    "tampos": "Beige pinstripes"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/%2768_Cadillac_3_thumb.jpg/revision/latest?cb=20140325180244"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-white-blue-l0142",
+                "toy_number": "L0142",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin White & Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome WWCCRR"
+                    },
+                    "series": "5/7",
+                    "model_name": "Bone Shaker",
+                    "tampos": "Blue engine covers"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Bone_Shaker_3_thumb.jpg/revision/latest?cb=20140325180326"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-white-l0167",
+                "toy_number": "L0167",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red WWCCRR with Silver inner rim"
+                    },
+                    "series": "6/7",
+                    "model_name": "'32 Ford Sedan",
+                    "tampos": "Black grille & suspension, Silver headlights, gas tank & drivetrain, Red pinstriping, painted inner rims"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/%2732_Ford_Sedan_2_thumb.jpg/revision/latest?cb=20140325140752"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-green-l0142",
+                "toy_number": "L0142",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Green WWCCRR"
+                    },
+                    "series": "7/7",
+                    "model_name": "'32 Ford Sedan",
+                    "tampos": "Black grille & suspension, Silver headlights, gas tank & drivetrain, Black pinstriping"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/27/%2732_Ford_Sedan_6_thumb.jpg/revision/latest?cb=20140325150257"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-red-satin-orange-l0157",
+                "toy_number": "L0157",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Red & Satin Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Orange 8SPCCRR"
+                    },
+                    "series": "1/7",
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "Black & White \"31\" and sponsor logos"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/%2759_Chevy_Impala_3_thumb.jpg/revision/latest?cb=20140325182754"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-beige-satin-brown-l0158",
+                "toy_number": "L0158",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Beige & Satin Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Beige WCCRR"
+                    },
+                    "series": "2/7",
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "Black & White \"57\" and sponsor logos"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/%2757_Chevy_Bel_Air_3_thumb.jpg/revision/latest?cb=20140325182948"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-black-satin-white-l0159",
+                "toy_number": "L0159",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Black & Satin White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red 8SPCCRR"
+                    },
+                    "series": "3/7",
+                    "model_name": "'64 Ford Galaxie 500",
+                    "tampos": "Red & White \"28\" and sponsor logos, White \"Edelbrock\""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/%2764_Ford_Galaxie_500_3_thumb.jpg/revision/latest?cb=20140325183041"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-yellow-l0161",
+                "toy_number": "L0161",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White 8SPCCRR"
+                    },
+                    "series": "4/7",
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "Black & White \"16\" and sponsor logos"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/%2757_Chevy_Bel_Air_4_thumb.jpg/revision/latest?cb=20140325183236"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-white-satin-light-green-l0162",
+                "toy_number": "L0162",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin White & Satin Light Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Green WCCRR"
+                    },
+                    "series": "5/7",
+                    "model_name": "'64 Ford Galaxie 500",
+                    "tampos": "White & Light Green \"22\" and sponsor logos"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%2764_Ford_Galaxie_500_4_thumb.jpg/revision/latest?cb=20140325183306"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-white-l0163",
+                "toy_number": "L0163",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Blue 8SPCCRR"
+                    },
+                    "series": "6/7",
+                    "model_name": "'62 Pontiac Bonneville",
+                    "tampos": "Sponsor logos and Red \"Clay Smith Cams\""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/%2762_Pontiac_Bonneville_4_thumb.jpg/revision/latest?cb=20140325183401"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-blue-satin-white-l4533",
+                "toy_number": "L4533",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Blue & Satin White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White 8SPCCRR"
+                    },
+                    "series": "7/7",
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "Black & White \"66\" and sponsor logos"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/%2759_Chevy_Impala_4_thumb.jpg/revision/latest?cb=20140325183541"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-purple-l0127",
+                "toy_number": "L0127",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDCCRR"
+                    },
+                    "series": "1/4",
+                    "model_name": "'68 Cadillac",
+                    "tampos": "Purple pinstripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/%2768_Cadillac_4_thumb.jpg/revision/latest?cb=20140325184706"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-orange-l0128",
+                "toy_number": "L0128",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR3"
+                    },
+                    "series": "2/4",
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "Black pinstripes and Silver stripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/%2759_Chevy_Impala_5_thumb.jpg/revision/latest?cb=20140325184847"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-brown-l0129",
+                "toy_number": "L0129",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "10SPCCRR1"
+                    },
+                    "series": "3/4",
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "Black flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/%2757_Chevy_Bel_Air_5_thumb.jpg/revision/latest?cb=20140325184943"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-brown-l0133",
+                "toy_number": "L0133",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Green WWCCRR"
+                    },
+                    "series": "4/4",
+                    "model_name": "Hot Wheels Bone Shaker",
+                    "tampos": "Black engine covers"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Bone_Shaker_4_thumb.jpg/revision/latest?cb=20140325185015"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-black-l0152",
+                "toy_number": "L0152",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR3"
+                    },
+                    "series": "1/5",
+                    "model_name": "'59 Cadillac Convertible",
+                    "tampos": "Yellow & Red flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/%2759_Cadillac_Convertible_thumb.jpg/revision/latest?cb=20140325185820"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-yellow-l0164",
+                "toy_number": "L0164",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow WWCCRR"
+                    },
+                    "series": "2/5",
+                    "model_name": "Hot Wheels Bone Shaker",
+                    "tampos": "White flame-like decals on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Bone_Shaker_5_thumb.jpg/revision/latest?cb=20140325190109"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-pink-l0165",
+                "toy_number": "L0165",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red WWCCRR"
+                    },
+                    "series": "3/5",
+                    "model_name": "'32 Ford Sedan",
+                    "tampos": "White flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/%2732_Ford_Sedan_3_thumb.jpg/revision/latest?cb=20140325141254"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-green-satin-white-l0173",
+                "toy_number": "L0173",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Green & Satin White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold 5SPCCRR2"
+                    },
+                    "series": "1/5",
+                    "model_name": "'68 Cadillac",
+                    "tampos": "Blue-ish stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/%2768_Cadillac_5_thumb.jpg/revision/latest?cb=20140326115534"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-light-red-l0169",
+                "toy_number": "L0169",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Light Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "10SPCCRR2"
+                    },
+                    "series": "2/5",
+                    "model_name": "'59 Cadillac Convertible",
+                    "tampos": "Dark Red stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/%2759_Cadillac_Convertible_2_thumb.jpg/revision/latest?cb=20140326115620"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-orange-satin-beige-l4534",
+                "toy_number": "L4534",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Orange & Satin Beige",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDCCRR"
+                    },
+                    "series": "3/5",
+                    "model_name": "'65 Buick Riviera",
+                    "tampos": "Beige stripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/%2765_Buick_Riviera_4_thumb.jpg/revision/latest?cb=20140326115645"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-dark-red-l4535",
+                "toy_number": "L4535",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold 5SPCCRR2"
+                    },
+                    "series": "4/5",
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "Gold stripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/%2759_Chevy_Impala_6_thumb.jpg/revision/latest?cb=20140326115712"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-satin-green-l0162",
+                "toy_number": "L0162",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Satin Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MSPCCRR"
+                    },
+                    "series": "5/5",
+                    "model_name": "'65 Buick Riviera",
+                    "tampos": "White flower pattern on sides and hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/%2765_Buick_Riviera_5_thumb.jpg/revision/latest?cb=20140326115738"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-dark-blue-spectraflame-white-l0160",
+                "toy_number": "L0160",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Dark Blue & Spectraflame White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome WWCCRR"
+                    },
+                    "series": "1/9",
+                    "model_name": "Ford Model A",
+                    "tampos": "Silver grille & headlights"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Ford_Model_A_3_thumb.jpg/revision/latest?cb=20140325151914"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-light-green-metalflake-dark-green-l0130",
+                "toy_number": "L0130",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Green & Metalflake Dark Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "10SPCCRR1"
+                    },
+                    "series": "2/9",
+                    "model_name": "'64 Ford Galaxie 500",
+                    "tampos": "Dark Green stripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/%2764_Ford_Galaxie_500_5_thumb.jpg/revision/latest?cb=20140326121652"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-light-blue-l0132",
+                "toy_number": "L0132",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR3"
+                    },
+                    "series": "3/9",
+                    "model_name": "'62 Pontiac Bonneville",
+                    "tampos": "Silver stripe on sides & Silver stripes around wheel arches"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/%2762_Pontiac_Bonneville_5_thumb.jpg/revision/latest?cb=20140326121719"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-white-l0170",
+                "toy_number": "L0170",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDCCRR"
+                    },
+                    "series": "4/9",
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "White flames on sides & hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/%2757_Chevy_Bel_Air_6_thumb.jpg/revision/latest?cb=20140326121753"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-black-l0140",
+                "toy_number": "L0140",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR2"
+                    },
+                    "series": "5/9",
+                    "model_name": "'65 Buick Riviera",
+                    "tampos": "Red stripes on sides & across top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/%2765_Buick_Riviera_6_thumb.jpg/revision/latest?cb=20140326121821"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-dark-blue-l0134",
+                "toy_number": "L0134",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "10SPCCRR1"
+                    },
+                    "series": "6/9",
+                    "model_name": "'64 Ford Galaxie 500",
+                    "tampos": "Yellow flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/%2764_Ford_Galaxie_500_6_thumb.jpg/revision/latest?cb=20140326121848"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-red-l0135",
+                "toy_number": "L0135",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DDCCRR"
+                    },
+                    "series": "7/9",
+                    "model_name": "'68 Cadillac",
+                    "tampos": "White flames on sides & hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/%2768_Cadillac_6_thumb.jpg/revision/latest?cb=20140326121924"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-green-l0168",
+                "toy_number": "L0168",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome CCRR"
+                    },
+                    "series": "8/9",
+                    "model_name": "Ford Model A",
+                    "tampos": "Silver grille & headlights, Black flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Ford_Model_A_4_thumb.jpg/revision/latest?cb=20140325152317"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-brown-l0166",
+                "toy_number": "L0166",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR1"
+                    },
+                    "series": "9/9",
+                    "model_name": "'68 Cadillac",
+                    "tampos": "White stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/%2768_Cadillac_7_thumb.jpg/revision/latest?cb=20140326122015"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-black-off-white-l7852",
+                "toy_number": "L7852",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Off-White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome CSCRR2"
+                    },
+                    "model_name": "'57 Chevy",
+                    "tampos": "Yellow & Red flames on sides, Red \"Flagster Bank\" on trunk & '57 Chevy w/ \"Woodward Dream Cruise\" on roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/1-50_L7852_Woodward_Dream_Cruise_%2757_Chevy_open-1.jpg/revision/latest?cb=20230919105234"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-red-m2453",
+                "toy_number": "M2453",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SDCCRR"
+                    },
+                    "model_name": "'62 Pontiac Bonneville",
+                    "tampos": "Silver stripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/%2762_Pontiac_Bonneville_6_thumb.jpg/revision/latest?cb=20140326125824"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-silver-white-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "CCRR"
+                    },
+                    "model_name": "'70 Dodge A100",
+                    "tampos": "\"Dodge\" on sides & Silver headlights"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/%2770_Dodge_A100_thumb.jpg/revision/latest?cb=20140326125902"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-red-cream-m2494",
+                "toy_number": "M2494",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red & Cream",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SDCCRR"
+                    },
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "Silver Trim"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/59ChevyImpalaRed.jpg/revision/latest?cb=20230621013620"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-black-gold-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "LPWWDDCCRR"
+                    },
+                    "model_name": "'49 Mercury",
+                    "tampos": "Silver Trim"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-custom-classics--",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "?",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "?"
+                    },
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "?"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-light-blue-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SDCCRR"
+                    },
+                    "model_name": "'68 Cadillac",
+                    "tampos": "White Roof, Silver Trim"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-matte-grey-matte-orange-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Grey & Matte Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "OORCCRR"
+                    },
+                    "model_name": "Bone Shaker",
+                    "tampos": "Black \"A/G\" and Black & White \"Gas Fink\""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/Bone_Shaker_6_thumb.jpg/revision/latest?cb=20140326130557"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-green-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome T5SPCCRR"
+                    },
+                    "model_name": "'41 Willys",
+                    "tampos": "Black & White \"435\" & sponsor logos on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/%2741_Willys_thumb.jpg/revision/latest?cb=20140326130928"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-matte-black-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Grey T5SPCCRR"
+                    },
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "White sponsor logos on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/%2757_Chevy_Bel_Air_7_thumb.jpg/revision/latest?cb=20140326131116"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-gold-spectraflame-red-m2522",
+                "toy_number": "M2522",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold & Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Grey CCRR"
+                    },
+                    "model_name": "Bone Shaker",
+                    "tampos": "Gold \"Bucket of Blood\" on sides & White panel outlines"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/Bone_Shaker_7_thumb.jpg/revision/latest?cb=20140326131449"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-matte-orange-green-m2524",
+                "toy_number": "M2524",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Orange & Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Grey T5SPCCRR"
+                    },
+                    "model_name": "'41 Willys",
+                    "tampos": "Green \"Rusty Hook\" on sides & sponsor logos"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/%2741_Willys_2_thumb.jpg/revision/latest?cb=20140326131610"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-matte-blue-m2519",
+                "toy_number": "M2519",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Grey T5SPCCRR"
+                    },
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "Blue \"Blue Velvet\" on sides & sponsor logos"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/%2757_Chevy_Bel_Air_8_thumb.jpg/revision/latest?cb=20140326131717"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-dark-red-m2525",
+                "toy_number": "M2525",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome CCRR"
+                    },
+                    "model_name": "'32 Ford Sedan",
+                    "tampos": "Red \"Cherry Baby\" on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/%2732_Ford_Sedan_4_thumb.jpg/revision/latest?cb=20140325142157"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-red-m2440",
+                "toy_number": "M2440",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW3SPCCRR"
+                    },
+                    "model_name": "'49 Mercury",
+                    "tampos": "Black flames on sides & Silver headlights"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/%2749_Mercury_thumb.jpg/revision/latest?cb=20140326134545"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-yellow-m2441",
+                "toy_number": "M2441",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "YORCCRR"
+                    },
+                    "model_name": "'27 Ford Model T",
+                    "tampos": "Black flames on sides & trunk"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/%2727_Ford_Model_T_thumb.jpg/revision/latest?cb=20140326134717"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-blue-m2444",
+                "toy_number": "M2444",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome WWCCRR"
+                    },
+                    "model_name": "'56 Ford F-100",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/%2756_Ford_F-100_thumb.jpg/revision/latest?cb=20140326134855"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-red-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome WWCCRR"
+                    },
+                    "model_name": "'56 Ford F-100",
+                    "tampos": "White stripe across top & White & Black flames across top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/%2756_Ford_F-100_2_thumb.jpg/revision/latest?cb=20140326134929"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-green-metalflake-silver-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green & Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR1"
+                    },
+                    "model_name": "'41 Willys",
+                    "tampos": "Silver flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/%2741_Willys_3_thumb.jpg/revision/latest?cb=20140326135140"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-red-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR1"
+                    },
+                    "model_name": "'70 Dodge A100",
+                    "tampos": "White & Yellow flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/%2770_Dodge_A100_2_thumb.jpg/revision/latest?cb=20140326135214"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-black-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WWDDCCRR"
+                    },
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "White flames on hood & sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/%2759_Chevy_Impala_7_thumb.jpg/revision/latest?cb=20140326135952"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-silver-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "YORCCRR"
+                    },
+                    "model_name": "'27 Ford Model T",
+                    "tampos": "White & Blue stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/%2727_Ford_Model_T_2_thumb.jpg/revision/latest?cb=20140326140018"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-blue-m2520",
+                "toy_number": "M2520",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "LPWWDDCCRR"
+                    },
+                    "model_name": "'49 Mercury",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/%2749_Mercury_2_thumb.jpg/revision/latest?cb=20140326140041"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-baby-blue-metalflake-white-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Baby Blue & Metalflake White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "SDCCRR"
+                    },
+                    "model_name": "'57 Chevy Bel Air",
+                    "tampos": "None"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/%2757_Chevy_Bel_Air_9_thumb.jpg/revision/latest?cb=20140326140733"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-silver--v2",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR1"
+                    },
+                    "model_name": "'62 Pontiac Bonneville",
+                    "tampos": "Yellow decos across top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/%2762_Pontiac_Bonneville_7_thumb.jpg/revision/latest?cb=20140326140922"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-light-blue-metalflake-blue-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue & Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR2"
+                    },
+                    "model_name": "'59 Chevy Impala",
+                    "tampos": "Light Blue stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/%2759_Chevy_Impala_8_thumb.jpg/revision/latest?cb=20140326141156"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-blue-metalflake-dark-blue-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue & Metalflake Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "LPWWDDCCRR"
+                    },
+                    "model_name": "'49 Mercury",
+                    "tampos": "Light Blue flames on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/%2749_Mercury_3_thumb.jpg/revision/latest?cb=20140326141313"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-dark-red-spectraflame-orange-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Dark Red & Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WWDDCCRR"
+                    },
+                    "model_name": "'70 Dodge A100",
+                    "tampos": "Silver headlights"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/%2770_Dodge_A100_3_thumb.jpg/revision/latest?cb=20140326141349"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-spectraflame-purple-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Orange CCRR"
+                    },
+                    "model_name": "'32 Ford Sedan",
+                    "tampos": "Purple grille & suspension, gas tank & drivetrain, Orange \"Grape Scott\" on sides, \"13 A/G\" on rear windows"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/%2732_Ford_Sedan_5_thumb.jpg/revision/latest?cb=20140325142851"
+                }
+            },
+            {
+                "release_id": "0-custom-classics-metalflake-white-",
+                "toy_number": "?",
+                "casting_id": "custom-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SPCCRR1"
+                    },
+                    "model_name": "'70 Dodge A100",
+                    "tampos": "Red & Blue stripe on sides, White stars & \"Hot Wheels Racing Team\""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/%2770_Dodge_A100_4_thumb.jpg/revision/latest?cb=20140326141523"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+{
+    "series_id": "international",
+    "name": "International",
+    "description": "Hot Wheels International Series",
+    "releases": [
+        "../data/releases/1983/1983-snake-enamel-green-7630.json",
+        "../data/releases/1983/1983-snake-enamel-white-7630.json",
+        "../data/releases/1983/1983-snake-enamel-yellow-7630.json"
+    ]
+}

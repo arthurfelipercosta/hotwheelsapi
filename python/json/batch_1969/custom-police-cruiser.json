@@ -1,0 +1,93 @@
+[
+    {
+        "casting_id": "custom-police-cruiser",
+        "name": "Custom Police Cruiser",
+        "description": {
+            "en-us": "Custom Police Cruiser Debut series 1969 Hot Wheels Produced 1969 - 1970 Designer Ira Gilford Number 6269",
+            "pt-br": ""
+        },
+        "designer": "Ira Gilford",
+        "debut_year": 1969,
+        "manufacturer": "Custom",
+        "releases": [
+            {
+                "release_id": "1969-custom-police-cruiser-white-and-black-6269",
+                "toy_number": "6269",
+                "casting_id": "custom-police-cruiser",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "White and Black",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "\"Police\"  Painted on door",
+                    "notes_variations": "The first ones had Painted front and black fenders (black). There were also prototypes where it was blue paint instead of black."
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/43/Custompolice.jpg/revision/latest?cb=20080311164857"
+                }
+            },
+            {
+                "release_id": "1969-custom-police-cruiser-black-white-6269",
+                "toy_number": "6269",
+                "casting_id": "custom-police-cruiser",
+                "year": 1969,
+                "series_id": "1969",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & White",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "\"Police\" Painted on door",
+                    "notes_variations": "Red Transparent light and Solid Red Light No Price Difference"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/DSC_0215-1-.jpg/revision/latest?cb=20190509215930"
+                }
+            },
+            {
+                "release_id": "1970-custom-police-cruiser-red-6469",
+                "toy_number": "6469",
+                "casting_id": "custom-police-cruiser",
+                "year": 1970,
+                "series_id": "1970",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "White \"Chief\" on doors, and \"Fire Dept.\" on trunk",
+                    "notes_variations": "Also came out in a Dark Red Named Fire Chief Cruiser"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/FireChiefCruiser1970.png/revision/latest?cb=20151211090002"
+                }
+            }
+        ]
+    }
+]

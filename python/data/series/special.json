@@ -1,0 +1,8 @@
+{
+    "series_id": "special",
+    "name": "Special",
+    "description": "Hot Wheels Special Series",
+    "releases": [
+        "../data/releases/2003/2003-custom-fleetside-spectraflame-antifreeze-c4706.json"
+    ]
+}

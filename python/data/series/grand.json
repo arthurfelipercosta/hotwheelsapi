@@ -1,0 +1,31 @@
+{
+    "series_id": "grand",
+    "name": "Grand",
+    "description": "Hot Wheels Grand Series",
+    "releases": [
+        "../data/releases/1969/1969-chaparral-2g-enamel-white-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-antifreeze-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-apple-green-light-green-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-aqua-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-aqua-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-blue-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-blue-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-brown-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-gold-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-green-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-green-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-hot-pink-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-light-blue-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-lime-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-magenta-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-olive-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-olive-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-orange-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-orange-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-purple-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-red-6256-v2.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-red-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-rose-6256.json",
+        "../data/releases/1969/1969-chaparral-2g-spectraflame-yellow-6256.json"
+    ]
+}

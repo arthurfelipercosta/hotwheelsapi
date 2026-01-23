@@ -1,0 +1,8 @@
+{
+    "series_id": "retro",
+    "name": "Retro",
+    "description": "Hot Wheels Retro Series",
+    "releases": [
+        "../data/releases/2016/2016-twin-mill-metalflake-yellow-orange-dnf17.json"
+    ]
+}

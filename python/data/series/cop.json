@@ -1,0 +1,8 @@
+{
+    "series_id": "cop",
+    "name": "Cop",
+    "description": "Hot Wheels Cop Series",
+    "releases": [
+        "../data/releases/1999/1999-classic-32-ford-vicky-white-23444.json"
+    ]
+}

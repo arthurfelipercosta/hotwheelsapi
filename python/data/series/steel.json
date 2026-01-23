@@ -1,0 +1,15 @@
+{
+    "series_id": "steel",
+    "name": "Steel",
+    "description": "Hot Wheels Steel Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13272.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13272.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13274.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13274.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13276.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13276.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13277.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13277.json"
+    ]
+}

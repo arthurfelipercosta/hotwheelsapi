@@ -1,0 +1,15 @@
+{
+    "series_id": "pinstripe",
+    "name": "Pinstripe",
+    "description": "Hot Wheels Pinstripe Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21301.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21301.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21302.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21302.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21303.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21303.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21304.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21304.json"
+    ]
+}

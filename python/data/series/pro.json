@@ -1,0 +1,11 @@
+{
+    "series_id": "pro",
+    "name": "Pro",
+    "description": "Hot Wheels Pro Series",
+    "releases": [
+        "../data/releases/2001/2001-deora-blue-20418.json",
+        "../data/releases/2001/2001-deora-blue-29633-29506.json",
+        "../data/releases/2001/2001-deora-light-blue-20418.json",
+        "../data/releases/2001/2001-deora-yellow-black-29633-29506.json"
+    ]
+}

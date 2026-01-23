@@ -1,0 +1,15 @@
+{
+    "series_id": "flyin",
+    "name": "Flyin",
+    "description": "Hot Wheels Flyin Series",
+    "releases": [
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18803.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18803.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18804.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18804.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18805.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18805.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18806.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18806.json"
+    ]
+}

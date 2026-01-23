@@ -1,0 +1,15 @@
+{
+    "series_id": "tropicool",
+    "name": "Tropicool",
+    "description": "Hot Wheels Tropicool Series",
+    "releases": [
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18775.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18775.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18776.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18776.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18777.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18777.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18778.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18778.json"
+    ]
+}

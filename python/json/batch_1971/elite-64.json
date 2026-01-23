@@ -1,0 +1,827 @@
+[
+    {
+        "casting_id": "elite-64",
+        "name": "Elite 64",
+        "description": {
+            "en-us": "Elite 64 is a Premium-style series featuring true 1/64-scale cars. All castings feature multiple separate parts for added detail, bespoke Real Rider wheels specific to each car and may feature removable or opening parts. The line is available exclusively on HotWheelsCollectors.com , with each numbered casting priced at USD $20; a Red Line Club membership is not required to purchase the cars.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Elite",
+        "releases": [
+            {
+                "release_id": "0-elite-64-graphite-gray-hng51",
+                "toy_number": "HNG51",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Graphite gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1",
+                    "casting_name": "Mercedes-Benz 300 SL",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 2282EAA, 2312EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/Mercedes-Benz300SLRacing.jpg/revision/latest?cb=20230402215033"
+                }
+            },
+            {
+                "release_id": "0-elite-64-white-hgw10",
+                "toy_number": "HGW10",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2",
+                    "casting_name": "1996 Toyota Chaser JZX100",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 2512EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/ToyotaChaser.jpg/revision/latest?cb=20230225071822"
+                }
+            },
+            {
+                "release_id": "0-elite-64-metallic-acapulco-blue-hgw13",
+                "toy_number": "HGW13",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Acapulco Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3",
+                    "casting_name": "Modified '69 Ford Mustang",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 0053EAA, 0103EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/Modified%2769FordMustang.jpg/revision/latest?cb=20230926102801"
+                }
+            },
+            {
+                "release_id": "0-elite-64-pearl-blue-hgw14",
+                "toy_number": "HGW14",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4",
+                    "casting_name": "LBWK Lamborghini Aventador LP 700-4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 1243EAA, 1293EAA, 1323EAA, 1433EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/LBWKLamborghiniAventador.jpg/revision/latest?cb=20230816064417"
+                }
+            },
+            {
+                "release_id": "0-elite-64-green-cyan-hgw12",
+                "toy_number": "HGW12",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green-cyan",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "5",
+                    "casting_name": "Land Rover Defender 90 Pickup",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 0833EAA, 0963EAA, 1003EAA, 1073EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/LandRoverDefender90Pickup.jpg/revision/latest?cb=20231031112658"
+                }
+            },
+            {
+                "release_id": "0-elite-64-nardo-gray-with-high-gloss-finish-hgw11",
+                "toy_number": "HGW11",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Nardo Gray with high gloss finish",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "6",
+                    "casting_name": "Audi RS 7 Sportback",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 2073EAA, 2163EAA, 2213EAA, 2333EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/%2721AudiRS7SportbackCustom.jpg/revision/latest?cb=20240410094116"
+                }
+            },
+            {
+                "release_id": "0-elite-64-orange-hnj58",
+                "toy_number": "HNJ58",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "7",
+                    "casting_name": "Porsche 928 Safari",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 3083EAA, 3343EAA, 3543EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/PorscheSafari.jpg/revision/latest?cb=20240619140701"
+                }
+            },
+            {
+                "release_id": "0-elite-64-white-hnj60",
+                "toy_number": "HNJ60",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "8",
+                    "casting_name": "1990 BMW 318i Touring",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 0924EAA, 0994EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/1990BMW318iTouring2.jpg/revision/latest?cb=20241125120259"
+                }
+            },
+            {
+                "release_id": "0-elite-64-white-hnj59",
+                "toy_number": "HNJ59",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "9",
+                    "casting_name": "Pandem Datsun 280ZX",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 3573YY, 3643YY, 0194YY, 0304YY, 0534YY, 0604YY, 0644YY, 0684YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/Pandem280ZX.jpg/revision/latest?cb=20240716122434"
+                }
+            },
+            {
+                "release_id": "0-elite-64-french-racing-blue-hnj62",
+                "toy_number": "HNJ62",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "French Racing Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "10",
+                    "casting_name": "Bugatti Type 59",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 0134EAA, 0224EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/BugattiT59.jpg/revision/latest?cb=20241116083444"
+                }
+            },
+            {
+                "release_id": "0-elite-64-white-hwr90",
+                "toy_number": "HWR90",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "11",
+                    "casting_name": "1989 Toyota HiLux Stadium Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 1734EAA, 1764EAA, 1774EAA, 1834EAA, 2944EA, 2114EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/ToyotaStadiumTruck.jpg/revision/latest?cb=20250201090934"
+                }
+            },
+            {
+                "release_id": "0-elite-64-matte-black-hnj63",
+                "toy_number": "HNJ63",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Haulers",
+                    "casting_name": "Freightliner Cascadia",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 1384EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/FreightlinerCascadia.jpg/revision/latest?cb=20241201073035"
+                }
+            },
+            {
+                "release_id": "0-elite-64-white-hnj64",
+                "toy_number": "HNJ64",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Mod Shop",
+                    "casting_name": "'17 Toyota Tacoma",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 0544EAA, 0554EAA, 0724EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/2017ToyotaTacoma.jpg/revision/latest?cb=20240815141002"
+                }
+            },
+            {
+                "release_id": "0-elite-64-yellow-hnj65",
+                "toy_number": "HNJ65",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Mod Shop",
+                    "casting_name": "'94 Land Rover Discovery",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 1354EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/%2794LandRoverDiscovery.jpg/revision/latest?cb=20241127110345"
+                }
+            },
+            {
+                "release_id": "0-elite-64-mclaren-orange-hwg05",
+                "toy_number": "HWG05",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "McLaren Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "12",
+                    "casting_name": "McLaren M6GT",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 2584YY, 2774YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/McLarenM6GT.jpg/revision/latest?cb=20250222090507"
+                }
+            },
+            {
+                "release_id": "0-elite-64-metallic-teal-hwr91",
+                "toy_number": "HWR91",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic teal",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "13",
+                    "casting_name": "Aston Martin Valkyrie",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 3214YY, 3274YY, 3294YY, 3364YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/AstonMartinValkyrie.jpg/revision/latest?cb=20250322092320"
+                }
+            },
+            {
+                "release_id": "0-elite-64-black-red-hwr94",
+                "toy_number": "HWR94",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "14",
+                    "casting_name": "Porsche 911 GT2 EVO 993",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 3534YY, 3604YY, 3614YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/Porsche911GT2Evo.jpg/revision/latest?cb=20250419083619"
+                }
+            },
+            {
+                "release_id": "0-elite-64-frozen-portimao-blue-hwr93",
+                "toy_number": "HWR93",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Frozen Portimao Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "15",
+                    "casting_name": "BMW M3 Touring",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 0555YY, 0585YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/BMWM3Touring.jpg/revision/latest?cb=20250913091315"
+                }
+            },
+            {
+                "release_id": "0-elite-64-glossy-white-jcv06",
+                "toy_number": "JCV06",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Glossy white",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "16",
+                    "casting_name": "Toyota Corolla Levin (AE86) Custom",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 0085YY, 0095YY, 0485YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/DaiAE86R.jpg/revision/latest?cb=20250719090714"
+                }
+            },
+            {
+                "release_id": "0-elite-64-white-jcp46",
+                "toy_number": "JCP46",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "17",
+                    "casting_name": "Porsche 963",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 1865YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/Porsche963.jpg/revision/latest?cb=20251123103633"
+                }
+            },
+            {
+                "release_id": "0-elite-64-gloss-white-jcp42",
+                "toy_number": "JCP42",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gloss White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "18",
+                    "casting_name": "1975 BMW 3.0 CSL Race",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 2435YY, 2615YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/1975BMWCSL.jpg/revision/latest?cb=20251213085556"
+                }
+            },
+            {
+                "release_id": "0-elite-64-black-jcp44",
+                "toy_number": "JCP44",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "19",
+                    "casting_name": "Radford Type 62-2 Pikes Peak",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 3045YY, 3105YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/RadfordPikesPeak.jpg/revision/latest?cb=20260110124913"
+                }
+            },
+            {
+                "release_id": "0-elite-64-rosso-corsa-jcp47",
+                "toy_number": "JCP47",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Rosso Corsa",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "20",
+                    "casting_name": "1967 Ferrari 330 P4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 2865YY, 2945YY",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/Ferrari330P4.jpg/revision/latest?cb=20260103095716"
+                }
+            },
+            {
+                "release_id": "0-elite-64-pearl-white-hwr95",
+                "toy_number": "HWR95",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pearl white",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Haulers",
+                    "casting_name": "Scania 770 S",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 0035EAA, 0085EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/Scania770SHighline.jpg/revision/latest?cb=20250616110000"
+                }
+            },
+            {
+                "release_id": "0-elite-64-light-blue-hwr97",
+                "toy_number": "HWR97",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Mod Shop",
+                    "casting_name": "1982 Custom Toyota Land Cruiser FJ45 Troopy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s): 1645EAA, 1695EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/Troopy.jpg/revision/latest?cb=20251101091201"
+                }
+            },
+            {
+                "release_id": "0-elite-64-white-jcp43",
+                "toy_number": "JCP43",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Unknown",
+                    "casting_name": "Mazda RX-7 Liberty Walk",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-elite-64-white-jnf05",
+                "toy_number": "JNF05",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Unknown",
+                    "casting_name": "Mercedes-Benz 300 SL",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-elite-64-granite-crystal-hwr96",
+                "toy_number": "HWR96",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Granite Crystal",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Mod Shop",
+                    "casting_name": "'24 Jeep Gladiator",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-elite-64-designo-magno-night-black-jcp45",
+                "toy_number": "JCP45",
+                "casting_id": "elite-64",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Designo Magno Night Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "Mod Shop",
+                    "casting_name": "Mercedes-Benz AMG G 63 6×6",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+{
+    "series_id": "tattoo",
+    "name": "Tattoo",
+    "description": "Hot Wheels Tattoo Series",
+    "releases": [
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18767.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18767.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18768.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18768.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18769.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18769.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18770.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18770.json"
+    ]
+}

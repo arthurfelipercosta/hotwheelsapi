@@ -1,0 +1,8 @@
+{
+    "series_id": "team",
+    "name": "Team",
+    "description": "Hot Wheels Team Series",
+    "releases": [
+        "../data/releases/2016/2016-twin-mill-spectraflame-green-dft70.json"
+    ]
+}

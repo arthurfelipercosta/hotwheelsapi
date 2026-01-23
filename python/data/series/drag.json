@@ -1,0 +1,10 @@
+{
+    "series_id": "drag",
+    "name": "Drag",
+    "description": "Hot Wheels Drag Series",
+    "releases": [
+        "../data/releases/1978/1978-jet-threat-enamel-dark-blue-8235-v2.json",
+        "../data/releases/1978/1978-snake-gold-chrome-7630.json",
+        "../data/releases/1978/1978-twin-mill-orange-8240.json"
+    ]
+}

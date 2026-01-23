@@ -1,0 +1,15 @@
+{
+    "series_id": "classic",
+    "name": "Classic",
+    "description": "Hot Wheels Classic Series",
+    "releases": [
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21329.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21329.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21330.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21330.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21331.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21331.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21332.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21332.json"
+    ]
+}

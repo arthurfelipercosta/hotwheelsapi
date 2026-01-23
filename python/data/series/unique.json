@@ -1,0 +1,9 @@
+{
+    "series_id": "unique",
+    "name": "Unique",
+    "description": "Hot Wheels Unique Series",
+    "releases": [
+        "../data/releases/unknown/0-action-racers-salmonberry-2598.json",
+        "../data/releases/unknown/0-action-racers-salmonberry-2598.json"
+    ]
+}

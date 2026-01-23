@@ -1,0 +1,15 @@
+{
+    "series_id": "the",
+    "name": "The",
+    "description": "Hot Wheels The Series",
+    "releases": [
+        "../data/releases/1978/1978-funny-money-grey-7621.json",
+        "../data/releases/1998/1998-deora-pewter-20418.json",
+        "../data/releases/2011/2011-side-kick-purple-w1554-v2.json",
+        "../data/releases/2011/2011-side-kick-purple-w1554.json",
+        "../data/releases/2011/2011-twin-mill-brown-w1559-v2.json",
+        "../data/releases/2011/2011-twin-mill-brown-w1559.json",
+        "../data/releases/unknown/0-batman-vehicles-then-and-now-series-2012-matte-black-x4324.json",
+        "../data/releases/unknown/0-batman-vehicles-then-and-now-series-2012-matte-black-x4324.json"
+    ]
+}

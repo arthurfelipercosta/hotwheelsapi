@@ -1,0 +1,15 @@
+{
+    "series_id": "blue",
+    "name": "Blue",
+    "description": "Hot Wheels Blue Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16946.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16946.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16947.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16947.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16948.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16948.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16949.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16949.json"
+    ]
+}

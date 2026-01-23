@@ -1,0 +1,509 @@
+[
+    {
+        "casting_id": "snake",
+        "name": "Snake",
+        "description": {
+            "en-us": "Snake Debut series 1970 Hot Wheels Produced 1970 – 1983 Designer Larry Wood Number 6409",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1970,
+        "manufacturer": "Snake",
+        "releases": [
+            {
+                "release_id": "1970-snake-yellow-6409",
+                "toy_number": "6409",
+                "casting_id": "snake",
+                "year": 1970,
+                "series_id": "1970",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "White sticker w/ 'Snake' on sides",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Snakefunnycar.jpg/revision/latest?cb=20080312162923"
+                }
+            },
+            {
+                "release_id": "1970-snake-yellow-6409-v2",
+                "toy_number": "6409",
+                "casting_id": "snake",
+                "year": 1970,
+                "series_id": "1970",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "White sticker w/ 'Snake' on sides",
+                    "notes_variations": ""
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Snakefunnycar.jpg/revision/latest?cb=20080312162923"
+                }
+            },
+            {
+                "release_id": "1971-snake-enamel-white-5953",
+                "toy_number": "5953",
+                "casting_id": "snake",
+                "year": 1971,
+                "series_id": "mongoose",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Hot Wheels Logo and 'Snake II' on side, Red Flames on top",
+                    "notes_variations": "Blue Tinted Window"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/1971-snaKE_2_5953_HK_Don_sNaKe_Prudhomme_White.jpg/revision/latest?cb=20230422133636"
+                }
+            },
+            {
+                "release_id": "1971-snake-enamel-white-5953-v2",
+                "toy_number": "5953",
+                "casting_id": "snake",
+                "year": 1971,
+                "series_id": "mongoose",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Hot Wheels Logo and 'Snake II' on side, Red Flames on top",
+                    "notes_variations": "Blue Tinted Window"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Snake2.jpg/revision/latest?cb=20080314160742"
+                }
+            },
+            {
+                "release_id": "1973-snake-enamel-yellow-6969",
+                "toy_number": "6969",
+                "casting_id": "snake",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Hot Wheels Logo and 'Snake II' on side, Red Flames on top",
+                    "notes_variations": "Blue Tinted Window"
+                },
+                "country": "HK",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/Snake.jpg/revision/latest?cb=20080413012641"
+                }
+            },
+            {
+                "release_id": "1973-snake-enamel-white-6969",
+                "toy_number": "6969",
+                "casting_id": "snake",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Hot Wheels Logo and 'Snake II' on side, Red Flames on top",
+                    "notes_variations": "Blue Tinted Window"
+                },
+                "country": "HK",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Snake_II_1973_White.jpg/revision/latest?cb=20211005074432"
+                }
+            },
+            {
+                "release_id": "1974-snake-dk-enamel-blue-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1974,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Dk. Enamel Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Light Green, Orange, Yellow \"FLYING COLORS\"",
+                    "notes_variations": "Named Top Eliminator Capped Rear wheels"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/Top_Elem_early_1974.JPG/revision/latest?cb=20130122061051"
+                }
+            },
+            {
+                "release_id": "1974-snake-dk-enamel-blue-7630-v2",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1974,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Dk. Enamel Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Light Green, Orange, Yellow \"FLYING COLORS\"",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/Top_Elem_Dk_Blue_1976_RL.jpg/revision/latest?cb=20130122055942"
+                }
+            },
+            {
+                "release_id": "1976-snake-dk-enamel-blue-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1976,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Dk. Enamel Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Light Green, Orange, Yellow \"FLYING COLORS\"",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/Top_Elem_Dk_Blue_1976_RL.jpg/revision/latest?cb=20130122055942"
+                }
+            },
+            {
+                "release_id": "1977-snake-gold-chrome-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1977,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Red, Purple, Blue \"HEMI HAULER\"",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/Hemi_Hauler_Redline.jpg/revision/latest?cb=20100103071640"
+                }
+            },
+            {
+                "release_id": "1977-snake-gold-chrome-7630-v2",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1977,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "Red, Purple, Blue \"HEMI HAULER\"",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Top_Elem_Gold_BW_1977.jpg/revision/latest?cb=20130122060407"
+                }
+            },
+            {
+                "release_id": "1978-snake-gold-chrome-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1978,
+                "series_id": "drag",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "Red, Purple, Blue \"HEMI HAULER\" \"AC\" Logo rear fender",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/Top_Eliminator_1977.jpeg/revision/latest?cb=20241220155153"
+                }
+            },
+            {
+                "release_id": "1979-snake-gold-chrome-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1979,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "Red, Purple, Blue \"HEMI HAULER\" \"AC\" Logo rear fender",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/1978-79_Top_Eliminator.jpeg/revision/latest?cb=20241209040629"
+                }
+            },
+            {
+                "release_id": "1982-snake-enamel-red-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1982,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "Yellow, Black, White \"Radical Racer& 301\"",
+                    "notes_variations": "Named Top Eliminator on card & base"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Top_Elem_Red_BW_1982.jpg/revision/latest?cb=20130122062020"
+                }
+            },
+            {
+                "release_id": "1983-snake-enamel-green-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1983,
+                "series_id": "international",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "Yellow, Black, White \"Radical Racer& 301\"",
+                    "notes_variations": "Named Top Eliminator Only available in Italy"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/be/Italiantopeliminator.jpg/revision/latest?cb=20120517035120"
+                }
+            },
+            {
+                "release_id": "1983-snake-enamel-yellow-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1983,
+                "series_id": "international",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "Yellow, Black, White \"Radical Racer& 301\"",
+                    "notes_variations": "Named Top Eliminator Only available in Italy"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1983-snake-enamel-white-7630",
+                "toy_number": "7630",
+                "casting_id": "snake",
+                "year": 1983,
+                "series_id": "international",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "Yellow, Black, White \"Radical Racer& 301\"",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "France",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1983-snake-enamel-plum-none",
+                "toy_number": "None",
+                "casting_id": "snake",
+                "year": 1983,
+                "series_id": "speed",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Plum",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "None",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/TopElim1983.jpg/revision/latest?cb=20220512161743"
+                }
+            },
+            {
+                "release_id": "1983-snake-dk-enamel-blue-none",
+                "toy_number": "None",
+                "casting_id": "snake",
+                "year": 1983,
+                "series_id": "french",
+                "series_index": null,
+                "specs": {
+                    "color": "Dk. Enamel Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "sticker": "Light Green, Orange, Yellow \"FLYING COLORS\"",
+                    "notes_variations": "Named Top Eliminator"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/A_French_Snake.JPG/revision/latest?cb=20231101190017"
+                }
+            }
+        ]
+    }
+]

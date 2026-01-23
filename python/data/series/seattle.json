@@ -1,0 +1,9 @@
+{
+    "series_id": "seattle",
+    "name": "Seattle",
+    "description": "Hot Wheels Seattle Series",
+    "releases": [
+        "../data/releases/1995/1995-custom-mustang-black-13846.json",
+        "../data/releases/1996/1996-custom-mustang-metalflake-blue-14990.json"
+    ]
+}

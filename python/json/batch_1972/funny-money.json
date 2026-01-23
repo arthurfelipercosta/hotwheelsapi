@@ -1,0 +1,371 @@
+[
+    {
+        "casting_id": "funny-money",
+        "name": "Funny Money",
+        "description": {
+            "en-us": "Funny Money Debut series 1972 Hot Wheels Produced 1972 - 1978 (Original) 2008 - 2013 ( Retool ) Designer Larry Wood Number 6005",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1972,
+        "manufacturer": "Funny",
+        "releases": [
+            {
+                "release_id": "1972-funny-money-grey-6005",
+                "toy_number": "6005",
+                "casting_id": "funny-money",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "\"Funny Money Truck\" on sides with orange bumper",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/Funnymoney.jpg/revision/latest?cb=20080315160140"
+                }
+            },
+            {
+                "release_id": "1974-funny-money-plum-7621",
+                "toy_number": "7621",
+                "casting_id": "funny-money",
+                "year": 1974,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Plum",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow, green, orange flower tampo on sides. No plastic bumper for this or subsequent releases",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Funny_Money_PrplL.JPG/revision/latest?cb=20091028224932"
+                }
+            },
+            {
+                "release_id": "1975-funny-money-plum-7621",
+                "toy_number": "7621",
+                "casting_id": "funny-money",
+                "year": 1975,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Plum",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow, green, orange flower tampo on sides. No plastic bumper for this or subsequent releases",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/20220929_180820.jpg/revision/latest?cb=20220930030256"
+                }
+            },
+            {
+                "release_id": "1977-funny-money-grey-7621",
+                "toy_number": "7621",
+                "casting_id": "funny-money",
+                "year": 1977,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow/white/blue BRINK'S tampo on sides",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Funny_Money_1977.jpg/revision/latest?cb=20241020233914"
+                }
+            },
+            {
+                "release_id": "1977-funny-money-grey-7621-v2",
+                "toy_number": "7621",
+                "casting_id": "funny-money",
+                "year": 1977,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "stickers": "Yellow/white/blue BRINK'S tampo on sides",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Funny_Money_GryL.JPG/revision/latest?cb=20091028224931"
+                }
+            },
+            {
+                "release_id": "1978-funny-money-grey-7621",
+                "toy_number": "7621",
+                "casting_id": "funny-money",
+                "year": 1978,
+                "series_id": "the",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "stickers": "Yellow/white/blue BRINK'S tampo on sides",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Funny_Money_GryL.JPG/revision/latest?cb=20091028224931"
+                }
+            },
+            {
+                "release_id": "2008-funny-money-metalflake-gold-m0543",
+                "toy_number": "M0543",
+                "casting_id": "funny-money",
+                "year": 2008,
+                "series_id": "40",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gold",
+                    "tampo": "Gold, orange, and black tampos with 'Funny Money' on sides",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "RL2"
+                    },
+                    "notes_variations": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/40YRSFunnyMoneyLft.jpg/revision/latest?cb=20090607004734"
+                }
+            },
+            {
+                "release_id": "2008-funny-money-metalflake-red-m1595",
+                "toy_number": "M1595",
+                "casting_id": "funny-money",
+                "year": 2008,
+                "series_id": "since",
+                "series_index": 9,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "Silver and red tampos with red flames on top",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL2"
+                    },
+                    "notes_variations": ""
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/08/Funny_Money.jpg/revision/latest?cb=20171221164202"
+                }
+            },
+            {
+                "release_id": "2008-funny-money-spectraflame-pink-l8700",
+                "toy_number": "L8700",
+                "casting_id": "funny-money",
+                "year": 2008,
+                "series_id": "22nd",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Pink",
+                    "tampo": "Pink and white tampos on sides and hood and \"Funny Money\" on side doors",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "notes_variations": "RLC Party"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/2008_22nd_Annual_Collectors_Convention_Funny_Money.jpg/revision/latest?cb=20200521134221"
+                }
+            },
+            {
+                "release_id": "2009-funny-money-metalflake-purple-and-silver-p8580",
+                "toy_number": "P8580",
+                "casting_id": "funny-money",
+                "year": 2009,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple and silver",
+                    "tampo": "Multi-colored fusion graphics, \"Nik L Nip\" on hood, and \"Nik L Nip\" tampos on doors",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "White Wall 5SP"
+                    },
+                    "notes_variations": "Base code(s): B32"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/P1040641c_edit.jpg/revision/latest?cb=20100419020412"
+                }
+            },
+            {
+                "release_id": "2009-funny-money-spectraflame-bright-orange-p2134",
+                "toy_number": "P2134",
+                "casting_id": "funny-money",
+                "year": 2009,
+                "series_id": "rlc",
+                "series_index": 4,
+                "specs": {
+                    "color": "Spectraflame bright orange",
+                    "tampo": "\"FUNNY MONEY\" & Hot Wheels logo on sides; RLC logo on rear bumper",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "N/A",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "CDDRR"
+                    },
+                    "notes_variations": "3,712 produced"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/RLC_2009_Funny_Money_Orange_China_P2134.jpg/revision/latest?cb=20231018203010"
+                }
+            },
+            {
+                "release_id": "2010-funny-money-black-r7908",
+                "toy_number": "R7908",
+                "casting_id": "funny-money",
+                "year": 2010,
+                "series_id": "clover",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Green flames outlined in Gold",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold Chrome 5SP"
+                    },
+                    "notes_variations": "Walmart Exclusive Base code(s):"
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/FunnyMoney_10clover.JPG/revision/latest?cb=20100503101258"
+                }
+            },
+            {
+                "release_id": "2010-funny-money-metalflake-purple-and-silver-v0801",
+                "toy_number": "V0801",
+                "casting_id": "funny-money",
+                "year": 2010,
+                "series_id": "sweet",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple and silver",
+                    "tampo": "Multi-colored fusion graphics, \"Nik L Nip\" on hood, and \"Nik L Nip\" tampos on doors",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "White Wall 5SP"
+                    },
+                    "notes_variations": "Base code(s):"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/P1040641c_edit.jpg/revision/latest?cb=20100419020412"
+                }
+            },
+            {
+                "release_id": "2013-funny-money-green-x8315",
+                "toy_number": "X8315",
+                "casting_id": "funny-money",
+                "year": 2013,
+                "series_id": "pop",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Tasmanian Devil tampos",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "N/A",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RRMAG"
+                    },
+                    "notes_variations": "Base code(s): E42"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/HW-Looney_Toons-Funny_Money.jpg/revision/latest?cb=20131217021920"
+                }
+            }
+        ]
+    }
+]

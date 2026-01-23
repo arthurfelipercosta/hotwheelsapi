@@ -1,0 +1,183 @@
+[
+    {
+        "casting_id": "rescue-team",
+        "name": "Rescue Team",
+        "description": {
+            "en-us": "The Rescue Team series was one of seven themes as part of what some call the \"Patch Cards\".  You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch.  These were produced in 1978 and 1979, and all were made in Hong Kong.  Several of these models were also found on the Flying Colors cards.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Rescue",
+        "releases": [
+            {
+                "release_id": "0-rescue-team-red-7665",
+                "toy_number": "7665",
+                "casting_id": "rescue-team",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow & White \"Fire Dept\" on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "22",
+                    "vehicle_name": "Chief's Special",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Chiefsspecial2.jpg/revision/latest?cb=20250710221520"
+                }
+            },
+            {
+                "release_id": "0-rescue-team-red-7650",
+                "toy_number": "7650",
+                "casting_id": "rescue-team",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow and White \"50\" and \"Emergency Unit\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "23",
+                    "vehicle_name": "Emergency Squad",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/Emergency_Squad_1977_-_0123df.jpg/revision/latest?cb=20090107194058"
+                }
+            },
+            {
+                "release_id": "0-rescue-team-red-2639",
+                "toy_number": "2639",
+                "casting_id": "rescue-team",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Yellow, Black, & White \"Fire Chief\" & White \"5\" on doors",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "22",
+                    "vehicle_name": "Fire Chaser",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Fire_Chaser_5.JPG/revision/latest?cb=20091031193449"
+                }
+            },
+            {
+                "release_id": "0-rescue-team-red-9640",
+                "toy_number": "9640",
+                "casting_id": "rescue-team",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Black & Yellow deco, \"51\" & Shield on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "11",
+                    "vehicle_name": "Fire-Eater",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/43/Fire_Eater_RedBW.JPG/revision/latest?cb=20090210052743"
+                }
+            },
+            {
+                "release_id": "0-rescue-team-white-2019",
+                "toy_number": "2019",
+                "casting_id": "rescue-team",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "\"Highway Patrol\" on sides, \"12\" on sides and top",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "1",
+                    "vehicle_name": "Highway Patrol",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Highway_patrol_2.JPG/revision/latest?cb=20080404070604"
+                }
+            },
+            {
+                "release_id": "0-rescue-team-yellow-7661",
+                "toy_number": "7661",
+                "casting_id": "rescue-team",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Red & Yellow \"Paramedic\" & \"Ambulance\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "27",
+                    "vehicle_name": "Paramedic",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Supervan_YelBWR.JPG/revision/latest?cb=20091119002032"
+                }
+            }
+        ]
+    }
+]

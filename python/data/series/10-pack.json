@@ -1,0 +1,9 @@
+{
+    "series_id": "10-pack",
+    "name": "10 Pack",
+    "description": "Hot Wheels 10 Pack Series",
+    "releases": [
+        "../data/releases/2008/2008-twin-mill-blue-n8256.json",
+        "../data/releases/2010/2010-side-kick-yellow-54886.json"
+    ]
+}

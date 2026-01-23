@@ -1,0 +1,15 @@
+{
+    "series_id": "phantom",
+    "name": "Phantom",
+    "description": "Hot Wheels Phantom Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16902.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16902.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16903.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16903.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16904.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16904.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16905.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16905.json"
+    ]
+}

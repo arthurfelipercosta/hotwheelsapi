@@ -1,0 +1,15 @@
+{
+    "series_id": "heat",
+    "name": "Heat",
+    "description": "Hot Wheels Heat Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15785.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-15785.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16911.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16911.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16912.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16912.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16913.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16913.json"
+    ]
+}

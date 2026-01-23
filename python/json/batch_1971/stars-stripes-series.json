@@ -1,0 +1,1219 @@
+[
+    {
+        "casting_id": "stars-stripes-series",
+        "name": "Stars & Stripes Series",
+        "description": {
+            "en-us": "The Stars & Stripes Series is a series of 10 cars dedicated to the USA. It is aimed at the card collector, with the cards of the 10 cars representing a puzzle that shows the American flag with America's national symbol the Bald Eagle. The following vehicles were used in the 2016 Stars & Stripes Series :",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Stars",
+        "releases": [
+            {
+                "release_id": "0-stars-stripes-series-red-white-dlv22",
+                "toy_number": "DLV22",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold PR5"
+                    },
+                    "col": "01/10",
+                    "casting_name": "'70 Ford Torino",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): H41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/70-Ford-Torino-m.jpg/revision/latest?cb=20190330164554"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-red-dlv26",
+                "toy_number": "DLV26",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Blue 5SP"
+                    },
+                    "col": "02/10",
+                    "casting_name": "Fire-Eater",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): H51",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/Fire-Eater-z.jpg/revision/latest?cb=20190330164618"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-white-dlv24",
+                "toy_number": "DLV24",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "OH5SP"
+                    },
+                    "col": "03/10",
+                    "casting_name": "'65 Mustang",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): H51",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/1965-Mustang-t.jpg/revision/latest?cb=20190330164656"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metalflake-blue-dlv20",
+                "toy_number": "DLV20",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "04/10",
+                    "casting_name": "Custom '77 Dodge Van",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Custom_77_Dodge_Van_-_16_Stars_%26_Stripes_600pxDM.jpg/revision/latest?cb=20160309070328"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metalflake-grey-dlv29",
+                "toy_number": "DLV29",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red PR5"
+                    },
+                    "col": "05/10",
+                    "casting_name": "Camaro Z28",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s):  J05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Camaro-z28.jpg/revision/latest?cb=20180815055125"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-white-red-dlv21",
+                "toy_number": "DLV21",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red 5SP"
+                    },
+                    "col": "06/10",
+                    "casting_name": "'71 Plymouth Satellite",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): H52",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/HW_71_Plymouth_Satellite_Wagon_-_DLV21.jpeg/revision/latest?cb=20190207000403"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metalflake-silver-dark-blue-dlv25",
+                "toy_number": "DLV25",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver & Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red 5SP"
+                    },
+                    "col": "07/10",
+                    "casting_name": "Hiway Hauler 2",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/Hiway_Hauler_2_-_15_Stars%26Stripes_600pxOTD.jpg/revision/latest?cb=20160614045826"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metalflake-dark-red-white-dlv23",
+                "toy_number": "DLV23",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "08/10",
+                    "casting_name": "8 Crate",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/8_Crate_-_16_Stars%26Stripes_600pxDM.jpg/revision/latest?cb=20160322032915"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-dark-blue-dlv27",
+                "toy_number": "DLV27",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "09/10",
+                    "casting_name": "Chevrolet C10",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/67-Chevy-C10-f.jpg/revision/latest?cb=20190330164718"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-blue-dlv30",
+                "toy_number": "DLV30",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black 5SP"
+                    },
+                    "col": "10/10",
+                    "casting_name": "Rodger Dodger",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Rodger-Dodger-au.jpg/revision/latest?cb=20190330164754"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-white-fkv89",
+                "toy_number": "FKV89",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black (Red Rim) ST8"
+                    },
+                    "col": "1/10",
+                    "casting_name": "'71 El Camino",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/IMG_1399.jpg/revision/latest?cb=20180913181114"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-red-fkv88",
+                "toy_number": "FKV88",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold 5SP"
+                    },
+                    "col": "2/10",
+                    "casting_name": "'67 Chevy C10",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/85/IMG_1400.jpg/revision/latest?cb=20180913181142"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-blue-fkv84",
+                "toy_number": "FKV84",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "3/10",
+                    "casting_name": "'66 Chevy Nova",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/IMG_1401.jpg/revision/latest?cb=20180913181209"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-red-fkv82",
+                "toy_number": "FKV82",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome im, Black MC5"
+                    },
+                    "col": "4/10",
+                    "casting_name": "'65 Mustang 2+2 Fastback",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/IMG_1402.jpg/revision/latest?cb=20180913181234"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-blue-fkv81",
+                "toy_number": "FKV81",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red 5SP"
+                    },
+                    "col": "5/10",
+                    "casting_name": "Custom '56 Ford Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/IMG_1403.jpg/revision/latest?cb=20180913181302"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-white-fkv85",
+                "toy_number": "FKV85",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red 5SP"
+                    },
+                    "col": "6/10",
+                    "casting_name": "'67 Pontiac GTO Convertible",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/IMG_1404.jpg/revision/latest?cb=20180913181324"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-blue-fkv87",
+                "toy_number": "FKV87",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "7/10",
+                    "casting_name": "'69 Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/IMG_1405.jpg/revision/latest?cb=20180913181350"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-black-fkv83",
+                "toy_number": "FKV83",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "8/10",
+                    "casting_name": "'69 Dodge Charger",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/IMG_1406.jpg/revision/latest?cb=20180913181417"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-maroon-fkv86",
+                "toy_number": "FKV86",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold Chrome 5SP"
+                    },
+                    "col": "9/10",
+                    "casting_name": "'69 Dodge Coronet Super Bee",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/68/IMG_1407.jpg/revision/latest?cb=20180913181454"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-silver-fkv90",
+                "toy_number": "FKV90",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black (Red Chrome Rim) PR5"
+                    },
+                    "col": "10/10",
+                    "casting_name": "'77 Pontiac Firebird T/A",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/IMG_1408.jpg/revision/latest?cb=20180913181518"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-white-gjw77",
+                "toy_number": "GJW77",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red Rim, Black ST8"
+                    },
+                    "col": "01/10",
+                    "casting_name": "AMC Javelin AMX",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N10, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/GJW77-01.JPG/revision/latest?cb=20200622023212"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-gloss-black-gjw78",
+                "toy_number": "GJW78",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gloss Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Rim, Black OH5"
+                    },
+                    "col": "02/10",
+                    "casting_name": "'71 Plymouth Hemi 'Cuda",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14, N27",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/GJW78-01.JPG/revision/latest?cb=20200622045058"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metallic-red-gpj31",
+                "toy_number": "GPJ31",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold PR5"
+                    },
+                    "col": "03/10",
+                    "casting_name": "'64 Pontiac GTO",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/GPJ31-01.jpg/revision/latest?cb=20200623114246"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-silver-gjw82",
+                "toy_number": "GJW82",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red Rim, Black ST8"
+                    },
+                    "col": "04/10",
+                    "casting_name": "'68 Hemi Barracuda",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/GJW82-01.JPG/revision/latest?cb=20200622043316"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-gloss-blue-gjw83",
+                "toy_number": "GJW83",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gloss Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold OR5SP"
+                    },
+                    "col": "05/10",
+                    "casting_name": "Chevy Blazer 4x4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/IMG_0628.JPG/revision/latest?cb=20200822012534"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-silver-gjw79",
+                "toy_number": "GJW79",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red Rim, Black ST8"
+                    },
+                    "col": "06/10",
+                    "casting_name": "'68 El Camino",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/Stars_%26_Stripes_Series_20_Camino_loose.JPG/revision/latest?cb=20220926034428"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-gloss-red-gjw75",
+                "toy_number": "GJW75",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gloss Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold PR5"
+                    },
+                    "col": "07/10",
+                    "casting_name": "'70 Chevy Camaro RS",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/GJW75-01.JPG/revision/latest?cb=20200622023218"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-purple-gjw81",
+                "toy_number": "GJW81",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold 5SP"
+                    },
+                    "col": "08/10",
+                    "casting_name": "Plymouth Duster Thruster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Stars_%26_Stripes_Series_20_Duster.JPG/revision/latest?cb=20220926034431"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metallic-red-gjw80",
+                "toy_number": "GJW80",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold 5SP"
+                    },
+                    "col": "09/10",
+                    "casting_name": "'68 Plymouth Barracuda Super Stock Hemi",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/GJW80-01.JPG/revision/latest?cb=20200622043311"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-gloss-white-gjw74",
+                "toy_number": "GJW74",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gloss White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold 5SP"
+                    },
+                    "col": "10/10",
+                    "casting_name": "'68 Mercury Cougar",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): N09, N14",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/GJW74-01.JPG/revision/latest?cb=20200622024719"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-white-hdh33",
+                "toy_number": "HDH33",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black w Chrome Rim DD8"
+                    },
+                    "series": "1/8",
+                    "casting_name": "'65 Ford Ranchero",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/65_Ford_Ranchero.jpg/revision/latest?cb=20220225195931"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metalflake-gray-hdh32",
+                "toy_number": "HDH32",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black w Gold Chrome Rim 5SP"
+                    },
+                    "series": "2/8",
+                    "casting_name": "'67 Pontiac GTO",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/67_Pontiac_GTO_Stars_%26_Stripes.jpg/revision/latest?cb=20220225200545"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metalflake-navy-blue-hdh36",
+                "toy_number": "HDH36",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake navy blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold Chrome MC5"
+                    },
+                    "series": "3/8",
+                    "casting_name": "'71 Dodge Challenger",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/71_Dodge_Challenger.jpg/revision/latest?cb=20220225184927"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-white-hdh29",
+                "toy_number": "HDH29",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold PR5"
+                    },
+                    "series": "4/8",
+                    "casting_name": "'84 Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/84_Corvette.jpg/revision/latest?cb=20220225183540"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-black-hdh30",
+                "toy_number": "HDH30",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black w White Rim MC5"
+                    },
+                    "series": "5/8",
+                    "casting_name": "1984 Pontiac Firebird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/1984_Pontiac_Firebird.jpg/revision/latest?cb=20220225181923"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-blue-hdh31",
+                "toy_number": "HDH31",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black w White Rim PR5"
+                    },
+                    "series": "6/8",
+                    "casting_name": "2018 Ford Mustang GT",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/2018_Ford_Mustang_GT_hw_Stars_%26_Stripes.jpg/revision/latest?cb=20220225193915"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metalflake-red-hdh34",
+                "toy_number": "HDH34",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "series": "7/8",
+                    "casting_name": "Custom '56 Ford Truck",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/StarsAndStripesCustom56Ford.jpeg/revision/latest?cb=20220826205532"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-glossy-red-hdh35",
+                "toy_number": "HDH35",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Glossy red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RA6"
+                    },
+                    "series": "8/8",
+                    "casting_name": "Muscle Speeder",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): P45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/Stars_Stripes_Muscle_Speeder.JPG/revision/latest?cb=20221102141211"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-red-hrw62",
+                "toy_number": "HRW62",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Detailed headlights and taillights, blue and white accents, \"SRT\" on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MM5"
+                    },
+                    "series": "1/5",
+                    "casting_name": "2013 SRT Viper",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T06",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/HRW62.jpg/revision/latest?cb=20250122195525"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-dark-blue-hrw63",
+                "toy_number": "HRW63",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "Detailed headlights and taillights, American flag graphics on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MM5"
+                    },
+                    "series": "2/5",
+                    "casting_name": "2013 COPO Camaro",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T06",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/HRW63.jpg/revision/latest?cb=20250123045924"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-metalflake-silver-hrw64",
+                "toy_number": "HRW64",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake silver",
+                    "tampo": "Detailed headlights and taillights, red and blue accents, MOPAR logo on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MM5"
+                    },
+                    "series": "3/5",
+                    "casting_name": "2018 Dodge Challenger SRT Demon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T06",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/HRW64.jpg/revision/latest?cb=20250121155610"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-white-hrw65",
+                "toy_number": "HRW65",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Detailed headlights and taillights, red and blue accents, Ford logo on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MM5"
+                    },
+                    "series": "4/5",
+                    "casting_name": "2020 Ford Shelby GT500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T06, T28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/HRW65.jpg/revision/latest?cb=20250302141217"
+                }
+            },
+            {
+                "release_id": "0-stars-stripes-series-dark-red-hrw66",
+                "toy_number": "HRW66",
+                "casting_id": "stars-stripes-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark red",
+                    "tampo": "Detailed headlights and taillights, red and blue accents, Hot Wheels logo on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MM5"
+                    },
+                    "series": "5/5",
+                    "casting_name": "2020 Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "Base code(s): T06",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/HRW66.jpg/revision/latest?cb=20250121193046"
+                }
+            }
+        ]
+    }
+]

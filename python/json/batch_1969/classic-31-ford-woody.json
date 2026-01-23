@@ -1,0 +1,40 @@
+[
+    {
+        "casting_id": "classic-31-ford-woody",
+        "name": "Classic '31 Ford Woody",
+        "description": {
+            "en-us": "Classic '31 Ford Woody Debut series 1969 Hot Wheels Produced 1969 (Original) 2012 ( Retool ) Designer Ira Gilford Number 6251",
+            "pt-br": ""
+        },
+        "designer": "Ira Gilford",
+        "debut_year": 1969,
+        "manufacturer": "Classic",
+        "releases": [
+            {
+                "release_id": "2012-classic-31-ford-woody-spectraflame-root-beer-x0534",
+                "toy_number": "X0534",
+                "casting_id": "classic-31-ford-woody",
+                "year": 2012,
+                "series_id": "hwc",
+                "series_index": 2,
+                "specs": {
+                    "color": "Spectraflame Root Beer",
+                    "tampo": "Black top",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "notes_variations": "4,000 produced"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/Hw_pic_3.jpg/revision/latest?cb=20161214223357"
+                }
+            }
+        ]
+    }
+]

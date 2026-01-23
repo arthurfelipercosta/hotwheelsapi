@@ -1,0 +1,1284 @@
+[
+    {
+        "casting_id": "motor-cycles",
+        "name": "Motor Cycles",
+        "description": {
+            "en-us": "",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Motor",
+        "releases": [
+            {
+                "release_id": "0-motor-cycles-green-w5407",
+                "toy_number": "W5407",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORMC"
+                    },
+                    "casting_name": "HW450F",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-orange-w5411",
+                "toy_number": "W5411",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red MC3"
+                    },
+                    "casting_name": "OCC Splitback",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-dark-blue-w5414",
+                "toy_number": "W5414",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC3"
+                    },
+                    "casting_name": "Pit Cruiser",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/DSCN8067.jpg/revision/latest?cb=20131124022602"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-teal-x6568",
+                "toy_number": "X6568",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Teal",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Blue MC3"
+                    },
+                    "casting_name": "Fright Bike",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-red-x6569",
+                "toy_number": "X6569",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black MCPR5"
+                    },
+                    "casting_name": "Ducati 1098R",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-teal-x2075",
+                "toy_number": "X2075",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Teal",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Blue MC3"
+                    },
+                    "casting_name": "Fright Bike",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s): E19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-black-x2076",
+                "toy_number": "X2076",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome rimmed MC5"
+                    },
+                    "casting_name": "Hammer Sled",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/Hammer_Sled-2013_Motor_Cycles.jpg/revision/latest?cb=20130428123621"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-silver-x2077",
+                "toy_number": "X2077",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Tomahawk"
+                    },
+                    "casting_name": "Dodge Tomahawk",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/DSCN2890.jpg/revision/latest?cb=20131124022327"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-metallic-copper-x2078",
+                "toy_number": "X2078",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Gold rim MC5"
+                    },
+                    "casting_name": "Airy 8",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Airy_8-2012_Motor_Cycles.jpg/revision/latest?cb=20131026140333"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-magenta-x2079",
+                "toy_number": "X2079",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Magenta",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Orange MC3"
+                    },
+                    "casting_name": "Canyon Carver",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base Code(s): E37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/2013-MotorCycles-CanyonCarver-Purple.jpg/revision/latest?cb=20130217021914"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-yellow-x2080",
+                "toy_number": "X2080",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black MCPR5"
+                    },
+                    "casting_name": "Ducati 1098R",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/HW-Motor_Cycles-Ducati_1098R.jpg/revision/latest?cb=20140204031557"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-metalflake-light-blue-x2075",
+                "toy_number": "X2075",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red & Black MC3"
+                    },
+                    "casting_name": "Scorchin' Scooter",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s): F11, F38",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/HW-MotorCycles-Scorchin%27_Scooter.jpg/revision/latest?cb=20131229044013"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-black-x2082",
+                "toy_number": "X2082",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Wide MC"
+                    },
+                    "casting_name": "Bat-Pod",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Retool",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/2013-MotorCycles-BatPod.jpg/revision/latest?cb=20130225012450"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-blue-x2083",
+                "toy_number": "X2083",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ORMC"
+                    },
+                    "casting_name": "Tred Shredder",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New Casting Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/HW-Motor_Cycles-Tred_Shredder.jpg/revision/latest?cb=20140211020515"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-white-x2084",
+                "toy_number": "X2084",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Clear red MC3"
+                    },
+                    "casting_name": "Bad Bagger",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Bad_Bagger_2012_24.jpg/revision/latest?cb=20181119134218"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-yellow-x2085",
+                "toy_number": "X2085",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC3"
+                    },
+                    "casting_name": "W-Oozie",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/W-Oozie_Crooze_2013_24.jpg/revision/latest?cb=20181119133410"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-metallic-green-x2086",
+                "toy_number": "X2086",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow Rimmed MC3"
+                    },
+                    "casting_name": "Blast Lane",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Blast_Lane_2012_24.jpg/revision/latest?cb=20181119134040"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-flat-black-silver-x2087",
+                "toy_number": "X2087",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Black & Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Clear red MC3"
+                    },
+                    "casting_name": "Blastous",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-red-x2088",
+                "toy_number": "X2088",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "OH5 / MC3"
+                    },
+                    "casting_name": "3-Squealer",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "New Casting Blue rider with black hat Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/3-SQUEALER_-2013.jpg/revision/latest?cb=20130428123118"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-green-x2089",
+                "toy_number": "X2089",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Green MC3 / Green PR5"
+                    },
+                    "casting_name": "Tri & Stop Me",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-white-x2090",
+                "toy_number": "X2090",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Orange ORMC"
+                    },
+                    "casting_name": "HW450F",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/51/HW450F-2013_Motor_Cycles.jpg/revision/latest?cb=20130331105640"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-blue-x2091",
+                "toy_number": "X2091",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow MC3"
+                    },
+                    "casting_name": "Pit Cruiser",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-red-x2088-v2",
+                "toy_number": "X2088",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "OH5 & MC3"
+                    },
+                    "casting_name": "3-Squealer",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Black Rider with black hat Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-red-satin-grey-y0279",
+                "toy_number": "Y0279",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red &  Satin Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red rim MC3"
+                    },
+                    "casting_name": "Street Noz",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s): F17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/Street_Noz-Motor_Cycles_2013.jpg/revision/latest?cb=20130727165341"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-green-y0280",
+                "toy_number": "Y0280",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Green MC3"
+                    },
+                    "casting_name": "Gamma Racer",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/GammaRacer.jpg/revision/latest?cb=20220226090615"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-flat-beige-red-y0281",
+                "toy_number": "Y0281",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat Beige & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Red MC3"
+                    },
+                    "casting_name": "Skullface",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s): F41",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/HW-Motor_Cycles-SkullFace.jpg/revision/latest?cb=20140211020731"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-yellow-y0282",
+                "toy_number": "Y0282",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red MC3"
+                    },
+                    "casting_name": "Urban Weaver",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/UrbanWeaver_%281%29.jpg/revision/latest?cb=20250928013027"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-gold-y0283",
+                "toy_number": "Y0283",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold MC3"
+                    },
+                    "casting_name": "Speed Seeker Moto",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/SpeedSeekerMotojwj.jpg/revision/latest?cb=20230209065109"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-clear-dark-red-y0284",
+                "toy_number": "Y0284",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Clear Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black MC3"
+                    },
+                    "casting_name": "Fright Bike",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/DSCN6109.jpg/revision/latest?cb=20131124022902"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-white-y0285",
+                "toy_number": "Y0285",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black MCPR5"
+                    },
+                    "casting_name": "Ducati 1098R",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-black-y0286",
+                "toy_number": "Y0286",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow ORMC"
+                    },
+                    "casting_name": "HW450F",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-green-y0287",
+                "toy_number": "Y0287",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Green MC3"
+                    },
+                    "casting_name": "OCC Splitback",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-red-y0288",
+                "toy_number": "Y0288",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC3"
+                    },
+                    "casting_name": "Pit Cruiser",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/PitCruiserMoto2013.jpg/revision/latest?cb=20211025091827"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-grey-y0289",
+                "toy_number": "Y0289",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC3"
+                    },
+                    "casting_name": "Yamaha VMAX",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/HW-Motor_Cycles-Yamaha_Vmax.jpg/revision/latest?cb=20140211020830"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-blue-y0290",
+                "toy_number": "Y0290",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome rim MC3"
+                    },
+                    "casting_name": "Harley-Davidson Fat Boy",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base Code: F17",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Harley-Davidson_Fat_Boy-Motor_Cycles_2013.jpg/revision/latest?cb=20130727171035"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-metallic-pale-blue-y0291",
+                "toy_number": "Y0291",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Pale Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow rim, Black PR5 & Yellow MC5"
+                    },
+                    "casting_name": "Blastous Moto 2",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Blastous_Moto-Motor_Cycles_2013.jpg/revision/latest?cb=20130727161833"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-orange-cgb90",
+                "toy_number": "CGB90",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold ORMC"
+                    },
+                    "casting_name": "Tred Shredder",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-orange-cgc01",
+                "toy_number": "CGC01",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Blue MC3 & Orange OH5"
+                    },
+                    "casting_name": "Tri & Stop Me",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-turquoise-cgc02",
+                "toy_number": "CGC02",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Clear Blue MC3"
+                    },
+                    "casting_name": "Blast Lane",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-flat-black-cgc03",
+                "toy_number": "CGC03",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White/black MC3"
+                    },
+                    "casting_name": "Scorchin' Scooter",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-green-cgc04",
+                "toy_number": "CGC04",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC3"
+                    },
+                    "casting_name": "W-Oozie",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-purple-cgc08",
+                "toy_number": "CGC08",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Yellow MC3"
+                    },
+                    "casting_name": "Pit Cruiser",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-gold-cgc09",
+                "toy_number": "CGC09",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Clear yellow MC3"
+                    },
+                    "casting_name": "Gamma Racer",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-flat-black-cgc11",
+                "toy_number": "CGC11",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Flat black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red MC3"
+                    },
+                    "casting_name": "Street Noz",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-yellow-cgc12",
+                "toy_number": "CGC12",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Clear yellow MC3"
+                    },
+                    "casting_name": "Blastous II",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-unfinished-cgc13",
+                "toy_number": "CGC13",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Unfinished",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "casting_name": "Airy 8",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-motor-cycles-purple-cgc14",
+                "toy_number": "CGC14",
+                "casting_id": "motor-cycles",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "MC3"
+                    },
+                    "casting_name": "Fright Bike",
+                    "photo_1_loose": "",
+                    "photo_2_card": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

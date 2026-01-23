@@ -1,0 +1,9 @@
+{
+    "series_id": "virtual",
+    "name": "Virtual",
+    "description": "Hot Wheels Virtual Series",
+    "releases": [
+        "../data/releases/2000/2000-hot-wheels-by-collector-number-unknown-27118.json",
+        "../data/releases/2000/2000-hot-wheels-by-collector-number-unknown-27118.json"
+    ]
+}

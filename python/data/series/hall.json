@@ -1,0 +1,9 @@
+{
+    "series_id": "hall",
+    "name": "Hall",
+    "description": "Hot Wheels Hall Series",
+    "releases": [
+        "../data/releases/2003/2003-beatnik-bandit-white-b0938.json",
+        "../data/releases/2003/2003-twin-mill-spectraflame-magenta-b0931.json"
+    ]
+}

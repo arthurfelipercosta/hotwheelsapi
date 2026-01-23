@@ -1,0 +1,15 @@
+{
+    "series_id": "automagic",
+    "name": "Automagic",
+    "description": "Hot Wheels Automagic Series",
+    "releases": [
+        "../data/releases/unknown/0-action-racers-blue-8348.json",
+        "../data/releases/unknown/0-action-racers-blue-8348.json",
+        "../data/releases/unknown/0-action-racers-goldenrod-8348.json",
+        "../data/releases/unknown/0-action-racers-goldenrod-8348.json",
+        "../data/releases/unknown/0-action-racers-gray-8348-v2.json",
+        "../data/releases/unknown/0-action-racers-gray-8348-v2.json",
+        "../data/releases/unknown/0-action-racers-gray-8348.json",
+        "../data/releases/unknown/0-action-racers-gray-8348.json"
+    ]
+}

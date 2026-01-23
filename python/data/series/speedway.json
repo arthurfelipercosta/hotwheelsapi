@@ -1,0 +1,8 @@
+{
+    "series_id": "speedway",
+    "name": "Speedway",
+    "description": "Hot Wheels Speedway Series",
+    "releases": [
+        "../data/releases/1978/1978-mercedes-benz-c-111-red-6978.json"
+    ]
+}

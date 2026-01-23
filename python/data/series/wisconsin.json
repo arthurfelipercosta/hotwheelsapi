@@ -1,0 +1,8 @@
+{
+    "series_id": "wisconsin",
+    "name": "Wisconsin",
+    "description": "Hot Wheels Wisconsin Series",
+    "releases": [
+        "../data/releases/1975/1975-amx2-red-7654.json"
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "series_id": "original",
+    "name": "Original",
+    "description": "Hot Wheels Original Series",
+    "releases": [
+        "../data/releases/2011/2011-custom-fleetside-spectraflame-purple-c6041.json",
+        "../data/releases/2018/2018-custom-barracuda-spectraflame-blue-fpn47.json"
+    ]
+}

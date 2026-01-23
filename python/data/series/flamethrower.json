@@ -1,0 +1,15 @@
+{
+    "series_id": "flamethrower",
+    "name": "Flamethrower",
+    "description": "Hot Wheels Flamethrower Series",
+    "releases": [
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15223.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15223.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15224.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15224.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15225.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15225.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15226.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15226.json"
+    ]
+}

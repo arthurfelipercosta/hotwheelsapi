@@ -1,0 +1,515 @@
+[
+    {
+        "casting_id": "olds-442",
+        "name": "Olds 442",
+        "description": {
+            "en-us": "Olds 442 Debut series Mainline Produced 1971 only (original) 2004 – 2013 ( retool ) Designer Larry Wood Number 6467",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1971,
+        "manufacturer": "Olds",
+        "releases": [
+            {
+                "release_id": "2004-olds-442-spectraflame-yellow-c6042",
+                "toy_number": "C6042",
+                "casting_id": "olds-442",
+                "year": 2004,
+                "series_id": "hwccom",
+                "series_index": 4,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "White stripes & \"442\" on sides; white hood scoops; black spoiler; \"HWC\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "RLDDRR"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "10,500 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/2004hwcrealridersolds442.jpg/revision/latest?cb=20100227214817"
+                }
+            },
+            {
+                "release_id": "2004-olds-442-spectraflame-red-g7187-g7190",
+                "toy_number": "G7187, G7190",
+                "casting_id": "olds-442",
+                "year": 2004,
+                "series_id": "larry",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "Tan & light red flames, \"OLDS 442\", & tan stripes on sides; black hood scoops & spoiler; Larry Wood World Tour logo on rear window; \"WRLDTR\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "RLC Exclusive 2,500 produced for the tin set 4,000 produced for single release",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/RLC_2004_Larry_Wood_World_Tour_4_Car_Set_Olds_442_China_G7188.jpg/revision/latest?cb=20221208114124"
+                }
+            },
+            {
+                "release_id": "2005-olds-442-spectraflame-light-blue-h7813",
+                "toy_number": "H7813",
+                "casting_id": "olds-442",
+                "year": 2005,
+                "series_id": "toy",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Blue",
+                    "tampo": "Light Blue Flames",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/2005_Toy_Fair_Exclusive_Blue_Olds_442_Hot_Wheels_Classics_Series.jpg/revision/latest?cb=20210125165510"
+                }
+            },
+            {
+                "release_id": "2005-olds-442-chrome-h2913",
+                "toy_number": "H2913",
+                "casting_id": "olds-442",
+                "year": 2005,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Red rally stripes with chrome stars along hood scoops, roof, & trunk; black spoiler; RLC logo, HWC.com logo, & various sponsor logos on sides; Red Line Club logo on rear window; \"IRENEWD\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "4,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/2005rlcolds442red.jpg/revision/latest?cb=20100308011855"
+                }
+            },
+            {
+                "release_id": "2005-olds-442-chrome-h2914",
+                "toy_number": "H2914",
+                "casting_id": "olds-442",
+                "year": 2005,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Blue rally stripes with chrome stars along hood scoops, roof, & trunk; black spoiler; RLC logo, HWC.com logo, & various sponsor logos on sides; Red Line Club logo on rear window; \"SOCLOSE\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "5,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/2005rlcolds442blue.jpg/revision/latest?cb=20100308011855"
+                }
+            },
+            {
+                "release_id": "2005-olds-442-chrome-h2915",
+                "toy_number": "H2915",
+                "casting_id": "olds-442",
+                "year": 2005,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Black rally stripes with chrome stars along hood scoops, roof, & trunk; black spoiler; RLC logo, HWC.com logo, & various sponsor logos on sides; Red Line Club logo on rear window; \"BACNBLK\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "6,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/2005rlcolds442black.jpg/revision/latest?cb=20100308011854"
+                }
+            },
+            {
+                "release_id": "2005-olds-442-chrome-h2916",
+                "toy_number": "H2916",
+                "casting_id": "olds-442",
+                "year": 2005,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "White rally stripes with chrome stars along hood scoops, roof, & trunk; black spoiler; RLC logo, HWC.com logo, & various sponsor logos on sides; Red Line Club logo on rear window; \"NOT2L8\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "7,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/2005rlcolds442white.jpg/revision/latest?cb=20100308011855"
+                }
+            },
+            {
+                "release_id": "2006-olds-442-spectraflame-gold-k3822",
+                "toy_number": "K3822",
+                "casting_id": "olds-442",
+                "year": 2006,
+                "series_id": "6th",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame gold",
+                    "tampo": "Black stripes & \"442\" on sides & hood, Hot Wheels logo on sides, 6th Annual Collectors Nationals logo on roof, Children's Miracle Network logo on rear windshield, \"ATLNATS\" on rear license plate, black spoiler, detailed headlights & taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Light smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "DDRR"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "Charity Car 3,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/6th_Annual_Hot_Wheels_Collectors_Nationals_OLDS_442.jpg/revision/latest?cb=20210125163250"
+                }
+            },
+            {
+                "release_id": "2009-olds-442-metalflake-silver-n8566",
+                "toy_number": "N8566",
+                "casting_id": "olds-442",
+                "year": 2009,
+                "series_id": "holiday",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "Two Red Racing Stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "Red-Rim, Black PR5"
+                    },
+                    "col": ""
+                },
+                "country": "Thailand",
+                "notes": "Hood does not open Wal-Mart Exclusive. Base Code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/Olds_442_-_09HHR.JPG/revision/latest?cb=20151224044757"
+                }
+            },
+            {
+                "release_id": "2009-olds-442-forest-green-t2786",
+                "toy_number": "T2786",
+                "casting_id": "olds-442",
+                "year": 2009,
+                "series_id": "holiday",
+                "series_index": null,
+                "specs": {
+                    "color": "Forest Green",
+                    "tampo": "Two White Racing Stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "Red-Rim, Black PR5"
+                    },
+                    "col": ""
+                },
+                "country": "Thailand",
+                "notes": "Hood does not open Target Exclusive. Base Code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/Olds_442_-_09HHR-Green.JPG/revision/latest?cb=20091110075642"
+                }
+            },
+            {
+                "release_id": "2010-olds-442-metallic-yellow-r7593",
+                "toy_number": "R7593",
+                "casting_id": "olds-442",
+                "year": 2010,
+                "series_id": "hot",
+                "series_index": 10,
+                "specs": {
+                    "color": "Metallic Yellow",
+                    "tampo": "2 Black 'Ram Air' Scoops",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "168/240"
+                },
+                "country": "Malaysia",
+                "notes": "Available in USA & International series Base Code(s): C12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/100_7471.jpg/revision/latest?cb=20100504012811"
+                }
+            },
+            {
+                "release_id": "2010-olds-442-metallic-black-r7593",
+                "toy_number": "R7593",
+                "casting_id": "olds-442",
+                "year": 2010,
+                "series_id": "hot",
+                "series_index": 10,
+                "specs": {
+                    "color": "Metallic Black",
+                    "tampo": "2 Orange 'Ram Air' Scoops",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "168/240"
+                },
+                "country": "Malaysia",
+                "notes": "Kmart Exclusive Base Code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/Olds442_Auction_Black.JPG/revision/latest?cb=20100923111537"
+                }
+            },
+            {
+                "release_id": "2010-olds-442-metallic-red-r7593",
+                "toy_number": "R7593",
+                "casting_id": "olds-442",
+                "year": 2010,
+                "series_id": "hot",
+                "series_index": 10,
+                "specs": {
+                    "color": "Metallic Red",
+                    "tampo": "2 Yellow 'Ram Air' Scoops",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "168/240"
+                },
+                "country": "Malaysia",
+                "notes": "Available in USA & International series Base Code(s): C47, C49, C51, D03",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/Olds_442_red_2010.png/revision/latest?cb=20101230025524"
+                }
+            },
+            {
+                "release_id": "2010-olds-442-metallic-red-r7593-v2",
+                "toy_number": "R7593",
+                "casting_id": "olds-442",
+                "year": 2010,
+                "series_id": "hot",
+                "series_index": 10,
+                "specs": {
+                    "color": "Metallic Red",
+                    "tampo": "2 Yellow 'Ram Air' Scoops",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Pink",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "col": "168/240"
+                },
+                "country": "Malaysia",
+                "notes": "Base Code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "2011-olds-442-metallic-teal-t9816",
+                "toy_number": "T9816",
+                "casting_id": "olds-442",
+                "year": 2011,
+                "series_id": "muscle",
+                "series_index": 9,
+                "specs": {
+                    "color": "Metallic Teal",
+                    "tampo": "White & Silver stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "109/244"
+                },
+                "country": "Malaysia",
+                "notes": "Also released on Green Lantern promo card Target card release includes 2 Car Bands Base code(s): D09, D10, D11, D17.",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/2011_Olds_442_015_white.jpg/revision/latest?cb=20110613205834"
+                }
+            },
+            {
+                "release_id": "2011-olds-442-metallic-teal-t9816-v2",
+                "toy_number": "T9816",
+                "casting_id": "olds-442",
+                "year": 2011,
+                "series_id": "muscle",
+                "series_index": 9,
+                "specs": {
+                    "color": "Metallic Teal",
+                    "tampo": "White and Silver stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue) with Hot Wheels Windshield Banner",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "col": "109/244"
+                },
+                "country": "Malaysia",
+                "notes": "Walmart Exclusive Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Olds442_Muscle_TealWM.JPG/revision/latest?cb=20110425201255"
+                }
+            },
+            {
+                "release_id": "2011-olds-442-metallic-red-v0028",
+                "toy_number": "V0028",
+                "casting_id": "olds-442",
+                "year": 2011,
+                "series_id": "muscle",
+                "series_index": 9,
+                "specs": {
+                    "color": "Metallic Red",
+                    "tampo": "Yellow and Gold stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gold Chrome Rim, Black MC5"
+                    },
+                    "col": "109/244"
+                },
+                "country": "Malaysia",
+                "notes": "Red spoiler Walmart Exclusive Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/IMG_7226.JPG/revision/latest?cb=20170106021322"
+                }
+            },
+            {
+                "release_id": "2011-olds-442-spectraflame-pink-v0525",
+                "toy_number": "V0525",
+                "casting_id": "olds-442",
+                "year": 2011,
+                "series_id": "25th",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Pink",
+                    "tampo": "White Stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": "109/244"
+                },
+                "country": "China",
+                "notes": "RLC Party Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/2011_Hot_Wheels_25th_Convention_Pink_Olds_442_RLC_Party_baggie_car.jpg/revision/latest?cb=20210125163540"
+                }
+            },
+            {
+                "release_id": "2012-olds-442-pearl-white-v5449",
+                "toy_number": "V5449",
+                "casting_id": "olds-442",
+                "year": 2012,
+                "series_id": "hw",
+                "series_index": 5,
+                "specs": {
+                    "color": "Pearl White",
+                    "tampo": "Black & Red Hurst logo, Gold stripes",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Gold",
+                    "wheel_type": {
+                        "0": "Gold Chrome 5SP"
+                    },
+                    "col": "145/247"
+                },
+                "country": "Malaysia",
+                "notes": "Base Code(s): E11, E13, E14, E16, E18",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/2012-HWP-Olds442-White.jpg/revision/latest?cb=20120610003413"
+                }
+            },
+            {
+                "release_id": "2013-olds-442-pink-y2084",
+                "toy_number": "Y2084",
+                "casting_id": "olds-442",
+                "year": 2013,
+                "series_id": "easter",
+                "series_index": 1,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "'13' on door, White Stripes & Blue Stars, Black roof",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted Light Blue",
+                    "interior_color": "Gold",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "col": "145/247"
+                },
+                "country": "Malaysia",
+                "notes": "Base code(s): E47",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/Hot_Wheels_Easter_2012_olds_442.jpg/revision/latest?cb=20210125164049"
+                }
+            }
+        ]
+    }
+]

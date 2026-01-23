@@ -1,0 +1,15 @@
+{
+    "series_id": "racing",
+    "name": "Racing",
+    "description": "Hot Wheels Racing Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13323.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13323.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13324.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13324.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13325.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13325.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13326.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13326.json"
+    ]
+}

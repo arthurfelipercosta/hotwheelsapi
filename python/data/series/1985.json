@@ -1,0 +1,11 @@
+{
+    "series_id": "1985",
+    "name": "1985",
+    "description": "Hot Wheels 1985 Series",
+    "releases": [
+        "../data/releases/1985/1985-hot-wheels-by-collector-number-unknown-9374.json",
+        "../data/releases/1985/1985-hot-wheels-by-collector-number-unknown-9374.json",
+        "../data/releases/1985/1985-hot-wheels-by-collector-number-unknown-9375.json",
+        "../data/releases/1985/1985-hot-wheels-by-collector-number-unknown-9375.json"
+    ]
+}

@@ -1,0 +1,1627 @@
+[
+    {
+        "casting_id": "fast-furious-series",
+        "name": "Fast & Furious Series",
+        "description": {
+            "en-us": "",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Fast",
+        "releases": [
+            {
+                "release_id": "0-fast-furious-series-black-y2127",
+                "toy_number": "Y2127",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red R/T Logo on doors",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "1/8",
+                    "casting_name": "'70 Dodge Charger R/T"
+                },
+                "country": "Malaysia",
+                "notes": "The Fast and The Furious Base code(s): F10,",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/Hot_Wheels_2013_Fast_%26_Furious_70_Dodge_Charger_R-T.jpg/revision/latest?cb=20131227154805"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-orange-y2133",
+                "toy_number": "Y2133",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Green, Gray and Black graphics, silver painted wing; air intakes on hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "2/8",
+                    "casting_name": "Toyota Supra"
+                },
+                "country": "Malaysia",
+                "notes": "The Fast and The Furious Base code(s): F10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/Toyota_Supra_orange_fast_furious_series_PR5_2013.JPG/revision/latest?cb=20130606004621"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-gray-y2131",
+                "toy_number": "Y2131",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "Blue stripe design on sides and parallel lines on hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "series": "3/8",
+                    "casting_name": "Nissan Skyline GT-R (R34)"
+                },
+                "country": "Malaysia",
+                "notes": "2 Fast 2 Furious Base code(s): F10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/Nissan_Skyline_GT-R_R34_fast_furiuos_2013.JPG/revision/latest?cb=20130617195236"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-dark-green-y2134",
+                "toy_number": "Y2134",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Green",
+                    "tampo": "White stripes on hood, top, trunk and sides",
+                    "base_color": "",
+                    "base_type": "Chrome Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "4/8",
+                    "casting_name": "'67 Mustang"
+                },
+                "country": "Malaysia",
+                "notes": "The Fast and The Furious: Tokio Drift Base code(s): F09, F10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Hot_Wheels_2013_Fast_%26_Furious_67_Ford_Mustang.jpg/revision/latest?cb=20131227154851"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-gray-y2126",
+                "toy_number": "Y2126",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "N/A",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "5/8",
+                    "casting_name": "'70 Chevelle SS"
+                },
+                "country": "Malaysia",
+                "notes": "Fast & Furious Base code(s): F10,",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/Hot_car.jpg/revision/latest?cb=20130629181847"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-gray-y2129",
+                "toy_number": "Y2129",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "Rear lights and naca ducts",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gray 10SP"
+                    },
+                    "series": "6/8",
+                    "casting_name": "2009 Nissan GT-R"
+                },
+                "country": "Malaysia",
+                "notes": "Fast Five Base code(s): F10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/%2709_Nissan_GT-R_fast_furious_2013.JPG/revision/latest?cb=20130617195648"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-y2130",
+                "toy_number": "Y2130",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Gray Hemi stripe",
+                    "base_color": "Dark Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Dark Gray",
+                    "wheel_type": {
+                        "0": "Chrome lined, Black PR5"
+                    },
+                    "series": "7/8",
+                    "casting_name": "'08 Dodge Challenger SRT8"
+                },
+                "country": "Malaysia",
+                "notes": "Fast Five Base code(s): F11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/Fast_And_Furious_08_Dodge_Challenger_SRT8.jpg/revision/latest?cb=20131106082605"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-matte-black-y2132",
+                "toy_number": "Y2132",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "Lights. Dodge, Charger and R/T logos on back",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "series": "8/8",
+                    "casting_name": "'11 Dodge Charger R/T"
+                },
+                "country": "Malaysia",
+                "notes": "Fast Five Base code(s): F10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/%2711_dodge_charger_rt_flat_black_fast_furious_2013.JPG/revision/latest?cb=20130617200406"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-y2127-v2",
+                "toy_number": "Y2127",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red R/T logo on doors",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "1/8",
+                    "casting_name": "'70 Dodge Charger R/T"
+                },
+                "country": "Malaysia",
+                "notes": "The Fast and The Furious Base code(s): G21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/Hot_Wheels_2013_Fast_%26_Furious_70_Dodge_Charger_R-T.jpg/revision/latest?cb=20131227154805"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-orange-y2133-v2",
+                "toy_number": "Y2133",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Green, Gray and Black graphics, silver painted wing, air intakes on hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "2/8",
+                    "casting_name": "Toyota Supra"
+                },
+                "country": "Malaysia",
+                "notes": "The Fast and The Furious Base code(s): G21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/Toyota_Supra_orange_fast_furious_series_PR5_2013.JPG/revision/latest?cb=20130606004621"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-gray-y2131-v2",
+                "toy_number": "Y2131",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "Blue stripe design on sides and parallel lines on hood",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "series": "3/8",
+                    "casting_name": "Nissan Skyline GT-R (R34)"
+                },
+                "country": "Malaysia",
+                "notes": "2 Fast 2 Furious Has metal spoiler (body color) Base code(s): G21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/Nissan_Skyline_GT-R_R34_ff.jpg/revision/latest?cb=20170420071128"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-dark-green-y2134-v2",
+                "toy_number": "Y2134",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Green",
+                    "tampo": "White stripes on hood, top, trunk and sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "4/8",
+                    "casting_name": "'67 Mustang"
+                },
+                "country": "Malaysia",
+                "notes": "The Fast and The Furious: Tokyo Drift Base code(s): G21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Hot_Wheels_2013_Fast_%26_Furious_67_Ford_Mustang.jpg/revision/latest?cb=20131227154851"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metalflake-green-cdr62",
+                "toy_number": "CDR62",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "White stripes on sides",
+                    "base_color": "Green",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "J5"
+                    },
+                    "series": "5/8",
+                    "casting_name": "'72 Ford Gran Torino Sport"
+                },
+                "country": "Malaysia",
+                "notes": "Fast & Furious Base code(s): G21, G28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/2014_CDR62_72_Ford_Gran_Torino_Sport_F%26F.jpg/revision/latest?cb=20141027200340"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-y2130-v2",
+                "toy_number": "Y2130",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Gray Hemi stripe",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Dark Gray",
+                    "wheel_type": {
+                        "0": "Chrome lined, Black PR5"
+                    },
+                    "series": "6/8",
+                    "casting_name": "'08 Dodge Challenger SRT8"
+                },
+                "country": "Malaysia",
+                "notes": "Fast Five Base code(s): G21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/Fast_And_Furious_08_Dodge_Challenger_SRT8.jpg/revision/latest?cb=20131106082605"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-matte-black-y2132-v2",
+                "toy_number": "Y2132",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "Lights, Dodge, Charger and R/T logos on back",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "series": "7/8",
+                    "casting_name": "'11 Dodge Charger R/T"
+                },
+                "country": "Malaysia",
+                "notes": "Fast Five Base code(s): G21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/%2711_dodge_charger_rt_flat_black_fast_furious_2013.JPG/revision/latest?cb=20130617200406"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-dark-red-cdr61",
+                "toy_number": "CDR61",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark red",
+                    "tampo": "Headlights",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "8/8",
+                    "casting_name": "'69 Dodge Charger Daytona"
+                },
+                "country": "Malaysia",
+                "notes": "Fast & Furious 6 Base code(s): G21, G28",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/2014_CDR61_69_Dodge_Charger_Daytona_F%26F.jpg/revision/latest?cb=20141027200408"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-dark-red-cmk18",
+                "toy_number": "CMK18",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark red",
+                    "tampo": "Headlights, side markers, & hood pins",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoked",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome OH5"
+                    },
+                    "series": "1/8",
+                    "casting_name": "'69 Dodge Charger Daytona"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious 6 Base code(s): H34",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/DSC_5522.jpg/revision/latest?cb=20170731091823"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metalflake-copper-cmj22",
+                "toy_number": "CMJ22",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake copper",
+                    "tampo": "Original from the movie",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoked",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chomre OH5"
+                    },
+                    "series": "2/8",
+                    "casting_name": "'94 Toyota Supra"
+                },
+                "country": "Thailand",
+                "notes": "2 Fast 2 Furious Base code(s): G48, H37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Toyota-Supra-d.jpg/revision/latest?cb=20160406130855"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-matte-black-cmj23",
+                "toy_number": "CMJ23",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "Turning lights, 'R/T' on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Chrome Rim, Black PR5"
+                    },
+                    "series": "3/8",
+                    "casting_name": "'70 Dodge Charger R/T"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious 6 Base code(s): H34, H37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/HW-2014-4th_of_July--01-Nissan_350Z-2.jpg/revision/latest?cb=20170417213450"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-green-cjl33",
+                "toy_number": "CJL33",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "White stripes on sides",
+                    "base_color": "Green",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "4/8",
+                    "casting_name": "'72 Ford Gran Torino Sport"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious Base code(s): G49, H36",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/DSC_5528.jpg/revision/latest?cb=20170731090539"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metalflake-dark-grey-cjl34",
+                "toy_number": "CJL34",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Grey",
+                    "tampo": "Black graphics from The Fast and the Furious, rear lights and logos",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Smoked",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome lined, Black PR5"
+                    },
+                    "series": "5/8",
+                    "casting_name": "Nissan 350Z"
+                },
+                "country": "Thailand",
+                "notes": "The Fast and The Furious: Tokyo Drift Base code(s): H36, H37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/68/Nissan-350Z-m.jpg/revision/latest?cb=20170417175358"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-cjl36",
+                "toy_number": "CJL36",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Turning lights and Buick logos",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Chrome & Black PR5"
+                    },
+                    "series": "6/8",
+                    "casting_name": "Buick Grand National"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious Base code(s): H37, H38",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/12628429_1656016837999097_3632825785652429176_o.jpg/revision/latest?cb=20160203154416"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-grey-black-cjl37",
+                "toy_number": "CJL37",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey & Black",
+                    "tampo": "Small Subaru badge on hood, STi badge on trunk",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Red rim, Black 10SP"
+                    },
+                    "series": "7/8",
+                    "casting_name": "Subaru WRX STI"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious Base code(s): H08",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/Subaru_WRX_STi_-_15_F%26F_1.JPG/revision/latest?cb=20160108194338"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metalflake-blue-cjl38",
+                "toy_number": "CJL38",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "White stripes on sides and top, front lights",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Chrome PR5"
+                    },
+                    "series": "8/8",
+                    "casting_name": "Ford GT 40"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): G48, H23, H37",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/DSC_5582.jpg/revision/latest?cb=20170731090315"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-orange-dvg75",
+                "toy_number": "DVG75",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Gray & Brown Tampos on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "1/8",
+                    "casting_name": "'94 Toyota Supra"
+                },
+                "country": "Thailand",
+                "notes": "The Fast and The Furious Base code(s): J22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/%2794_Toyota_Supra_2016.png/revision/latest?cb=20170113222934"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-pink-dvg79",
+                "toy_number": "DVG79",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "White design graphics on sides, detailed headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoked",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "2/8",
+                    "casting_name": "Honda S2000"
+                },
+                "country": "Thailand",
+                "notes": "2 Fast 2 Furious Base code(s): J21",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/Honda_S2000_2016.png/revision/latest?cb=20170113225013"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-green-dvg76",
+                "toy_number": "DVG76",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "White stripes on sides & top",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "3/8",
+                    "casting_name": "'67 Mustang"
+                },
+                "country": "Thailand",
+                "notes": "The Fast and The Furious: Tokyo Drift Base code(s): J22, J23",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/%2767_Mustang_2016.png/revision/latest?cb=20170113223417"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-matte-grey-dvg77",
+                "toy_number": "DVG77",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Grey",
+                    "tampo": "Silver details & Black stripes on sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "series": "4/8",
+                    "casting_name": "'70 Chevelle SS"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious Base code(s): J19",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/%2770_Chevelle_SS_2016.png/revision/latest?cb=20170113223823"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-blue-cjl38",
+                "toy_number": "CJL38",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Detailed headlights & White stripes on roof and sides",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "5/8",
+                    "casting_name": "Ford GT-40"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): J22",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/Ford_GT-40_2016.png/revision/latest?cb=20170113225505"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-dvg78",
+                "toy_number": "DVG78",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Gray Hemi stripe",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome & Black OH5"
+                    },
+                    "series": "6/8",
+                    "casting_name": "'08 Dodge Challenger SRT8"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious 6 Base code(s): J25",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/%2708_Dodge_Challenger_SRT-8_2016.png/revision/latest?cb=20170113224247"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-dark-red-cmk18-v2",
+                "toy_number": "CMK18",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "dark red",
+                    "tampo": "Detailed Headlights",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "MC5"
+                    },
+                    "series": "7/8",
+                    "casting_name": "'69 Dodge Charger Daytona"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious 6 Base code(s): J30",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/%2769_Dodge_Charger_Daytona_2016.png/revision/latest?cb=20170113222300"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-dwj58",
+                "toy_number": "DWJ58",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Detailed Headlights, 'R/T' on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "series": "8/8",
+                    "casting_name": "'70 Dodge Charger R/T"
+                },
+                "country": "Thailand",
+                "notes": "Furious 7 Base code(s): J29",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/%2770_Dodge_Charger_R-T.png/revision/latest?cb=20170113224658"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-dwf70",
+                "toy_number": "DWF70",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Ninja stars on sides and hood, front details and Yokohama logo on doors",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "series": "1/8",
+                    "casting_name": "Honda S2000"
+                },
+                "country": "Thailand",
+                "notes": "The Fast and The Furious Base code(s): J48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/S2000_Black_17.jpg/revision/latest?cb=20181216143245"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-gray-dwf69",
+                "toy_number": "DWF69",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "Blue stripes on side and rear details",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "series": "2/8",
+                    "casting_name": "Nissan Skyline GT-R (R34)"
+                },
+                "country": "Thailand",
+                "notes": "2 Fast 2 Furious Base code(s): J45, J48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/DWF69-01.JPG/revision/latest?cb=20220313044440"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-grey-dwf73",
+                "toy_number": "DWF73",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "Hemi stripe on rear quarter panels",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Beige",
+                    "wheel_type": {
+                        "0": "Chrome & Black PR5"
+                    },
+                    "series": "3/8",
+                    "casting_name": "'70 Plymouth Road Runner"
+                },
+                "country": "Thailand",
+                "notes": "The Fast and The Furious: Tokyo Drift Base code(s): J45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/%2770_Plymouth_Road_Runner_DWF73.JPG/revision/latest?cb=20170328114054"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-blue-dwf74",
+                "toy_number": "DWF74",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Black GT3 RS stripe on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome LW"
+                    },
+                    "series": "4/8",
+                    "casting_name": "Porsche 911 GT3 Cup"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): J43, J44, J48, J50, J52, K02, K05",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/911GT3FF.jpg/revision/latest?cb=20170613072755"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metalflake-silver-dwf76",
+                "toy_number": "DWF76",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "Rear details",
+                    "base_color": "Dark Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "5/8",
+                    "casting_name": "Corvette Grand Sport Roadster"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): J42, J45, J47",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Corvette_grand_sport_roadster_silver.jpg/revision/latest?cb=20170420071509"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-blue-dwf75",
+                "toy_number": "DWF75",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "White stripes on side and hood",
+                    "base_color": "Blue",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "Gold MC5"
+                    },
+                    "series": "6/8",
+                    "casting_name": "'70 Ford Escort RS1600"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious 6 Base code(s): J45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/14/DWF75-01.JPG/revision/latest?cb=20210829171357"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-white-dwf71",
+                "toy_number": "DWF71",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Detailed headlights and taillights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome LW"
+                    },
+                    "series": "7/8",
+                    "casting_name": "'94 Toyota Supra"
+                },
+                "country": "Thailand",
+                "notes": "Furious 7 Base code(s): J45, J48",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/CC029D46-001E-4359-B329-865AC1E72053.jpeg/revision/latest?cb=20190201215605"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-dark-blue-dwf72",
+                "toy_number": "DWF72",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "Black hood, black and silver stripe on side",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Grey 10SP"
+                    },
+                    "series": "8/8",
+                    "casting_name": "Subaru WRX STI"
+                },
+                "country": "Thailand",
+                "notes": "Furious 7 Base code(s): J40, J41, J43, K01",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/DWF72-01.JPG/revision/latest?cb=20220313050119"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-pink-fkf10",
+                "toy_number": "FKF10",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "White design graphics on sides, detailed headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoked",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Silver Y5"
+                    },
+                    "series": "1/6",
+                    "casting_name": "Honda S2000"
+                },
+                "country": "Thailand",
+                "notes": "2 Fast 2 Furious Base code(s): L10, L12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/S2000.png/revision/latest?cb=20180525111256"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-gloss-gray-fkf07",
+                "toy_number": "FKF07",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gloss Gray",
+                    "tampo": "Silver door handles. Detailed sidemarkers",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gray 5SP"
+                    },
+                    "series": "2/6",
+                    "casting_name": "'70 Chevelle SS"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious Base code(s): L12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/Chevelle.png/revision/latest?cb=20180525111723"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-blue-fkf11",
+                "toy_number": "FKF11",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "White stripes, painted headlights and fuel filler caps, \"FORD\" on sides",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "series": "3/6",
+                    "casting_name": "Ford GT-40"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): J45, L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/16/FKF11_-_Ford_GT-40-2.jpg/revision/latest?cb=20190805162202"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-fkf13",
+                "toy_number": "FKF13",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Skyline logos, reflectors, \"GT-R\" on back, detailed taillights",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Gray 10SP"
+                    },
+                    "series": "4/6",
+                    "casting_name": "Nissan Skyline"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/FF2018Hakosuka.jpg/revision/latest?cb=20180808083521"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-silver-fkf14",
+                "toy_number": "FKF14",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Detailed NACA ducts, painted taillights, \"GT-R\" on rear",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Dark gray",
+                    "wheel_type": {
+                        "0": "Chrome black OH5"
+                    },
+                    "series": "5/6",
+                    "casting_name": "2009 Nissan GT-R"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): J42, J47, L10",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/FF2018R35.jpg/revision/latest?cb=20180808083746"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-orange-fkf09",
+                "toy_number": "FKF09",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Detailed Headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Smoke tint",
+                    "interior_color": "Dark gray",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "series": "6/6",
+                    "casting_name": "Lamborghini Murciélago"
+                },
+                "country": "Thailand",
+                "notes": "Fate of The Furious Base code(s): J45",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/FKF09-01.JPG/revision/latest?cb=20211125070322"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metallic-black-fyy55",
+                "toy_number": "FYY55",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Black",
+                    "tampo": "'Buick Grand National' logo",
+                    "base_color": "Gray",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "Black 5SP"
+                    },
+                    "series": "1/6",
+                    "casting_name": "Buick Grand National"
+                },
+                "country": "Thailand",
+                "notes": "Fast & Furious Base code(s): M12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Buick_Grand_National_30.jpg/revision/latest?cb=20190617025209"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-white-fyy54",
+                "toy_number": "FYY54",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "HKS super oil, Yokohama, & Rays wheels logos on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "series": "2/6",
+                    "casting_name": "'95 Mazda RX-7"
+                },
+                "country": "Thailand",
+                "notes": "The Fast and The Furious Base code(s): M12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/95_RX7_White_F%26F_19.jpg/revision/latest?cb=20190702084118"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-antifreeze-fyy56",
+                "toy_number": "FYY56",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Antifreeze",
+                    "tampo": "White and green designs on side",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "3/6",
+                    "casting_name": "Mitsubishi Lancer Evolution"
+                },
+                "country": "Thailand",
+                "notes": "2 Fast 2 Furious Base code(s): M12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Mitsubishi_Lancer_Evolution_7_-_19_FastandFurious_1200pxOTD.png/revision/latest?cb=20190701085150"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-beige-fyy53",
+                "toy_number": "FYY53",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Beige",
+                    "tampo": "Silver roof & Pillars, Dark Grey hood, Silver stripes on side",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black 5SP"
+                    },
+                    "series": "4/6",
+                    "casting_name": "'70 Monte Carlo"
+                },
+                "country": "Thailand",
+                "notes": "The Fast and The Furious: Tokyo Drift Base code(s): M12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/70_Monte_Calo_Beige_F%26F_19.jpg/revision/latest?cb=20190702083422"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-silver-fyy52",
+                "toy_number": "FYY52",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Detailed headlights, carbon fiber details on hood, Nissan Z emblem on sides",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome rim, Black 10SP"
+                    },
+                    "series": "5/6",
+                    "casting_name": "Nissan 370Z"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): M12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/370Z_Silver_F%26F_19.jpg/revision/latest?cb=20190702084300"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-red-fyy57",
+                "toy_number": "FYY57",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White & Silver stripes with Impala emblem on sides",
+                    "base_color": "",
+                    "base_type": "Chrome Plastic",
+                    "window_color": "Tinted (Smoke)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "series": "6/6",
+                    "casting_name": "'61 Chevrolet Impala"
+                },
+                "country": "Thailand",
+                "notes": "The Fate of The Furious Base code(s): M10, M12",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/61_Impala_Red_F%26F_19.jpg/revision/latest?cb=20190702084029"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-dark-grey-gjv57",
+                "toy_number": "GJV57",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Grey",
+                    "tampo": "Detailed Headlights. Black stripes along bonnet, roof & trunk",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black Y5"
+                    },
+                    "series": "1/5",
+                    "casting_name": "'15 Mercedes-AMG GT"
+                },
+                "country": "Malaysia",
+                "notes": "The Fate of The Furious Base code(s): M43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/GJV57-01.JPG/revision/latest?cb=20220313054808"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-yellow-gjv58",
+                "toy_number": "GJV58",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Detailed Headlights.",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "series": "2/5",
+                    "casting_name": "Nissan 370Z"
+                },
+                "country": "Malaysia",
+                "notes": "Fast & Furious 6 Base code(s): M43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/2020_Fast_%26_Furious_-_370Z.jpg/revision/latest?cb=20200223210623"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metalflake-dark-grey-gjv59",
+                "toy_number": "GJV59",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Grey",
+                    "tampo": "Detailed Headlights",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Black 10SP"
+                    },
+                    "series": "3/5",
+                    "casting_name": "McLaren 720S"
+                },
+                "country": "Malaysia",
+                "notes": "Hobbs & Shaw Base code(s): M43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/GJV59_-_McLaren_720S-1.jpg/revision/latest?cb=20210413145501"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-white-gjv60",
+                "toy_number": "GJV60",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Detailed Headlights & Taillights.",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome LW"
+                    },
+                    "series": "4/5",
+                    "casting_name": "Lamborghini Gallardo LP 560-4"
+                },
+                "country": "Malaysia",
+                "notes": "Fast & Furious 6 Base code(s): M43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/GJV60-01.JPG/revision/latest?cb=20220312034947"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-bronze-gjv61",
+                "toy_number": "GJV61",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Bronze",
+                    "tampo": "Metalflake Gold paint job on trunk, roof, hood scoop",
+                    "base_color": "",
+                    "base_type": "Chrome Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Chrome rim, Black MC5"
+                    },
+                    "series": "5/5",
+                    "casting_name": "'69 Ford Torino Talladega"
+                },
+                "country": "Malaysia",
+                "notes": "Furious 7 Base code(s): M43",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/GJV61-01.JPG/revision/latest?cb=20200406124158"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-green-grp54",
+                "toy_number": "GRP54",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Green",
+                    "tampo": "Green Sides with a Black Line",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Grey",
+                    "wheel_type": {
+                        "0": "OH5"
+                    },
+                    "series": "1/5",
+                    "casting_name": "Dodge Challenger Drift Car"
+                },
+                "country": "Thailand",
+                "notes": "Furious 7 Base code(s): N47",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/DriftChallenger.jpg/revision/latest?cb=20220824112836"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-dark-grey-grp55",
+                "toy_number": "GRP55",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Grey",
+                    "tampo": "Black Stripe",
+                    "base_color": "Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "J5"
+                    },
+                    "series": "2/5",
+                    "casting_name": "Ice Charger"
+                },
+                "country": "Thailand",
+                "notes": "The Fate of the Furious Base code(s): N46, N47",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/IceCharger2021.jpg/revision/latest?cb=20220824112854"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metalflake-grey-grp56",
+                "toy_number": "GRP56",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Grey",
+                    "tampo": "Blue side stripes",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "10SP"
+                    },
+                    "series": "3/5",
+                    "casting_name": "Nissan Skyline GT-R (BNR34)"
+                },
+                "country": "Thailand",
+                "notes": "2Fast 2Furious Base code(s): N45, N47",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/NissanR34.jpg/revision/latest?cb=20220824112911"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-black-grp57",
+                "toy_number": "GRP57",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Grey Stripes on top",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Black)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "4/5",
+                    "casting_name": "'71 Plymouth GTX"
+                },
+                "country": "Thailand",
+                "notes": "The Fate of the Furious Base code(s): N45, N46",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/%2771PlymouthGTX.jpg/revision/latest?cb=20220824112937"
+                }
+            },
+            {
+                "release_id": "0-fast-furious-series-metalflake-silver-grp58",
+                "toy_number": "GRP58",
+                "casting_id": "fast-furious-series",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "Red rearlights, KRE-4962 on White license plate",
+                    "base_color": "Dark Grey",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "series": "5/5",
+                    "casting_name": "Corvette Grand Sport"
+                },
+                "country": "Thailand",
+                "notes": "Fast Five Base code(s): N45, N46, N47",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/CorvetteGrandSport.jpg/revision/latest?cb=20220824113003"
+                }
+            }
+        ]
+    }
+]

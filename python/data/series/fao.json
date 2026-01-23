@@ -1,0 +1,24 @@
+{
+    "series_id": "fao",
+    "name": "Fao",
+    "description": "Hot Wheels Fao Series",
+    "releases": [
+        "../data/releases/1994/1994-beatnik-bandit-metallic-light-bluepurple-12293.json",
+        "../data/releases/1994/1994-silhouette-maroon-5715.json",
+        "../data/releases/1994/1994-splittin-image-green-5708.json",
+        "../data/releases/1994/1994-twin-mill-metalflake-greyish-blue-5709.json",
+        "../data/releases/1995/1995-classic-32-ford-vicky-gold-chrome-13828.json",
+        "../data/releases/1995/1995-classic-32-ford-vicky-gold-chrome-15925.json",
+        "../data/releases/1995/1995-classic-32-ford-vicky-yellow-10494.json",
+        "../data/releases/1995/1995-custom-mustang-24k-gold-15925.json",
+        "../data/releases/1995/1995-custom-mustang-gold-chrome-13828.json",
+        "../data/releases/1995/1995-deora-gold-chrome-13828.json",
+        "../data/releases/1995/1995-mutt-mobile-gold-chrome-13828.json",
+        "../data/releases/1995/1995-scool-bus-gold-chrome-13828.json",
+        "../data/releases/1995/1995-silhouette-gold-chrome-13828.json",
+        "../data/releases/1995/1995-splittin-image-gold-chrome-13828.json",
+        "../data/releases/1995/1995-twin-mill-gold-chrome-13828.json",
+        "../data/releases/1998/1998-custom-mustang-blue-17138.json",
+        "../data/releases/2022/2022-twin-mill-metalflake-gold-hnb86.json"
+    ]
+}

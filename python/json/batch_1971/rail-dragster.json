@@ -1,0 +1,111 @@
+[
+    {
+        "casting_id": "rail-dragster",
+        "name": "Rail Dragster",
+        "description": {
+            "en-us": "Rail Dragster Debut series 1971 Hot Wheels Produced 1971 Designer Larry Wood Number 5952",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1971,
+        "manufacturer": "Rail",
+        "releases": [
+            {
+                "release_id": "1971-rail-dragster-spectraflame-blue-5952",
+                "toy_number": "5952",
+                "casting_id": "rail-dragster",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "Red Hot Wheels Logo and 'Tom McEwen Mongoose I'",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "N/A",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BLW Rear wheels, Clear RWSP"
+                    }
+                },
+                "country": "USA",
+                "notes": "Named Mongoose Rail Dragster",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/Mongooseraildragster.jpg/revision/latest?cb=20080314160739"
+                }
+            },
+            {
+                "release_id": "1971-rail-dragster-spectraflame-blue-5952-v2",
+                "toy_number": "5952",
+                "casting_id": "rail-dragster",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "Red Hot Wheels Logo and 'Tom McEwen Mongoose I'",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "N/A",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BLW Rear wheels, Black RWSP"
+                    }
+                },
+                "country": "USA",
+                "notes": "Named Mongoose Rail Dragster",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-rail-dragster-enamel-white-5951",
+                "toy_number": "5951",
+                "casting_id": "rail-dragster",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel White",
+                    "tampo": "Red Hot Wheels Logo and 'Don Prudhomme Snake I'",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "N/A",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BLW Rear wheels, Clear RWSP"
+                    }
+                },
+                "country": "USA",
+                "notes": "Named Snake Rail Dragster",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-rail-dragster-enamel-white-5951-v2",
+                "toy_number": "5951",
+                "casting_id": "rail-dragster",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel White",
+                    "tampo": "Red Hot Wheels Logo and 'Don Prudhomme Snake I'",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "N/A",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "BLW Rear wheels, Black RWSP"
+                    }
+                },
+                "country": "USA",
+                "notes": "Named Snake Rail Dragster",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/Snakeraildragster.jpg/revision/latest?cb=20080314160743"
+                }
+            }
+        ]
+    }
+]

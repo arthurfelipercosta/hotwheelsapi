@@ -1,0 +1,782 @@
+[
+    {
+        "casting_id": "custom-cougar",
+        "name": "Custom Cougar",
+        "description": {
+            "en-us": "Custom Cougar Debut series 1968 Hot Wheels Produced 1968 (Original) 2018 - 2025 ( Retool ) Designer Harry Bradley (Original) Mark Jones (2018 Retool) Number 6205",
+            "pt-br": ""
+        },
+        "designer": "Harry Bradley (Original) Mark Jones (2018 Retool)",
+        "debut_year": 1968,
+        "manufacturer": "Custom",
+        "releases": [
+            {
+                "release_id": "1968-custom-cougar-spectraflame-blue-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/1968_Custom_Couger_Blue_US_white_int.jpg/revision/latest?cb=20130221174300"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-lime-green-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Lime Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-green-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/284px-Customcougargreen.jpg/revision/latest?cb=20090825195931"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-orange-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-olive-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-gold-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/Custom_cougar.jpg/revision/latest?cb=20090825195615"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-purple-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-aqua-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-antifreeze-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/1968_Custom_Couger_antifreeze_US_Dark_int.jpg/revision/latest?cb=20130221174531"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-red-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-light-blue-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-brown-6205",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-brown-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-blue-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/1968_HK_Custom_Cougar_Blue-Blue.jpg/revision/latest?cb=20211217120302"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-blue-6205-v3",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/1968_Custom_Couger_Blue_HK_DArk_int.jpg/revision/latest?cb=20130221175305"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-orange-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/CustomCougarHKOrange.jpeg/revision/latest?cb=20150405022130"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-olive-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/Custom_Cougar_Olive_with_black_roof.JPG/revision/latest?cb=20120910210747"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-gold-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-red-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-aqua-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Custom_Cougar_aqua.jpg/revision/latest?cb=20210918154721"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-green-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-purple-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-lime-green-6205-v2",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Lime Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-blue-6205-v4",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-blue-6205-v5",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "HK",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/Custom_Cougar_Painted_Tooth_Blue.jpg/revision/latest?cb=20230418043729"
+                }
+            },
+            {
+                "release_id": "1968-custom-cougar-spectraflame-orange-6205-v3",
+                "toy_number": "6205",
+                "casting_id": "custom-cougar",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Tinted Blue",
+                    "interior_color": "Orange",
+                    "wheel_type": {
+                        "0": "RL Deep Dish"
+                    },
+                    "sticker": "None",
+                    "chassis_color_type": "Unpainted / Metal",
+                    "notes_variations": "with black roof"
+                },
+                "country": "HK",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/1968_Custom_Cougar_Painted_Tooth_Orange_HK.jpg/revision/latest?cb=20220213115205"
+                }
+            },
+            {
+                "release_id": "2018-custom-cougar-spectraflame-orange-fcm81",
+                "toy_number": "FCM81",
+                "casting_id": "custom-cougar",
+                "year": 2018,
+                "series_id": "hotwheelscollectorscom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "Black Grille, Taillights, Black Roof",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Tinted Blue",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "chassis_color_type": "Unpainted / Metal, Painted Tooth",
+                    "notes_variations": "Opening Hood 6,000 Produced"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HWC_Original_16_Custom_Cougar.png/revision/latest?cb=20181203163132"
+                }
+            },
+            {
+                "release_id": "2018-custom-cougar-spectraflame-purple-fnc23",
+                "toy_number": "FNC23",
+                "casting_id": "custom-cougar",
+                "year": 2018,
+                "series_id": "hotwheelscollectorscom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "Black Grille, Taillights, Black Roof",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Tinted Blue",
+                    "interior_color": "Purple",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "chassis_color_type": "Unpainted / Metal, Painted Tooth",
+                    "notes_variations": "Opening Hood"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/HWC_Original_16_Display_Set_Custom_Cougar.jpg/revision/latest?cb=20190302011033"
+                }
+            },
+            {
+                "release_id": "2025-custom-cougar-spectraflame-ruby-red-jcp66",
+                "toy_number": "JCP66",
+                "casting_id": "custom-cougar",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Ruby Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "light smoke tint",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "chassis_color_type": "Chromed / Metal",
+                    "notes_variations": "Production code(s):"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

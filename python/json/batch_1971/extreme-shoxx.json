@@ -1,0 +1,465 @@
+[
+    {
+        "casting_id": "extreme-shoxx",
+        "name": "Extreme Shoxx",
+        "description": {
+            "en-us": "Extreme Shoxx was a short-lived series of Hot Wheels cars produced from 2014 to 2015 as part of Hot Wheels's \"Off Road\" segments. The selling point of the cars was their \"Extreme Shoxx suspension\", which featured a screw-like system which would adjust tension on a flexible plastic spring to give the cars more or less suspension depending on how the system was adjusted; this would adjust two adjusting pivoting points on the main chassis. The series did not continue beyond 2015, likely due to poor sales. 2015 releases excluding the yellow Da'Kar were not widely distributed and some unknown releases may exist.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Extreme",
+        "releases": [
+            {
+                "release_id": "2014-extreme-shoxx-red-bgl32",
+                "toy_number": "BGL32",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Skull designs",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Baja Bone Shaker"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/Baja_Bone_Shaker_Extreme_Shoxx_1.jpg/revision/latest?cb=20210217100749"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-green-bgl33",
+                "toy_number": "BGL33",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "\"40\", Hot Wheels logo on sides",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Mega-Duty II"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/Extreme_Shoxx_Mega_Duty_2.0_Green_loose.jpg/revision/latest?cb=20240512213342"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-blue-bgl34",
+                "toy_number": "BGL34",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Dirt-like designs",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Rockster"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/Extreme_Shoxx_Rockster_Blue_loose.jpg/revision/latest?cb=20240512213441"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-blue-bgl35",
+                "toy_number": "BGL35",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Line designs",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Quicksand"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/EX_Quicksand.jpg/revision/latest?cb=20241206231309"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-white-bgl36",
+                "toy_number": "BGL36",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Skull designs, \"68\" on side",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Baja Truck"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-orange-bgl37",
+                "toy_number": "BGL37",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Checkerboard designs",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Da'Kar"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/Extreme_Shoxx_DaKar_Orange_loose.jpg/revision/latest?cb=20240512213256"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-green-bgl38",
+                "toy_number": "BGL38",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "Yellow / Black design, \"88\", HW logo",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Rip Shredder"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/Extreme_Shoxx_Off_Road_Shredder_Desert_Sand_Green.jpg/revision/latest?cb=20190603012116"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-black-bgl39",
+                "toy_number": "BGL39",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Flames",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Red",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Rip Rod"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Extreme_Shoxx_Off_Road_Rip_Rod_Sand_Buggy.jpg/revision/latest?cb=20190603011907"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-yellow-bgl40",
+                "toy_number": "BGL40",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Flames",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Red",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Baja Bone Shaker"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-black-bgl41",
+                "toy_number": "BGL41",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Hazard stripes",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Red",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Mega-Duty II"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/EX_Mega_Duty_%283%29.JPG/revision/latest?cb=20241206231236"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-sky-blue-bgl42",
+                "toy_number": "BGL42",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Sky Blue",
+                    "tampo": "Star design, camo design",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Quicksand"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Extreme_Shoxx_Quicksand_Blue_loose.jpg/revision/latest?cb=20240512213353"
+                }
+            },
+            {
+                "release_id": "2014-extreme-shoxx-purple-bgl43",
+                "toy_number": "BGL43",
+                "casting_id": "extreme-shoxx",
+                "year": 2014,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "Biohazard logo",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Rockster"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Extreme_Shoxx_Rockster_Purple_loose.jpg/revision/latest?cb=20240512213512"
+                }
+            },
+            {
+                "release_id": "2015-extreme-shoxx-transparent-yellow-ccj67",
+                "toy_number": "CCJ67",
+                "casting_id": "extreme-shoxx",
+                "year": 2015,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Transparent yellow",
+                    "tampo": "\"3\" on sides",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Da'Kar"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/Extreme_Shoxx_off_road_Da_Kar.jpg/revision/latest?cb=20190603012430"
+                }
+            },
+            {
+                "release_id": "2015-extreme-shoxx-transparent-sky-blue-cgb34",
+                "toy_number": "CGB34",
+                "casting_id": "extreme-shoxx",
+                "year": 2015,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Transparent sky blue",
+                    "tampo": "\"HWRT\" on hood",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Bull Whip"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Bullwhip_extreme_shoxx.jpg/revision/latest?cb=20250307205551"
+                }
+            },
+            {
+                "release_id": "2015-extreme-shoxx-blue-cgb38",
+                "toy_number": "CGB38",
+                "casting_id": "extreme-shoxx",
+                "year": 2015,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "Skull designs, \"99\" on side",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Baja Truck"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2015-extreme-shoxx-orange-cgb39",
+                "toy_number": "CGB39",
+                "casting_id": "extreme-shoxx",
+                "year": 2015,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Line designs",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Rip Shredder"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2015-extreme-shoxx-yellow-cgb45",
+                "toy_number": "CGB45",
+                "casting_id": "extreme-shoxx",
+                "year": 2015,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Hot Wheels logo on side",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Rip Rod"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2015-extreme-shoxx-yellow-cgb45-v2",
+                "toy_number": "CGB45",
+                "casting_id": "extreme-shoxx",
+                "year": 2015,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Black & Orange Tiger face & pattern, Green \"68\", various logos",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "None",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "ESW"
+                    },
+                    "model_name": "Baja Truck"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

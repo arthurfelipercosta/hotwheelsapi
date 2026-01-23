@@ -1,0 +1,9 @@
+{
+    "series_id": "van",
+    "name": "Van",
+    "description": "Hot Wheels Van Series",
+    "releases": [
+        "../data/releases/1997/1997-custom-mustang-white-16899.json",
+        "../data/releases/1998/1998-deora-pink-18584.json"
+    ]
+}

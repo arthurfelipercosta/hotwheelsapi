@@ -1,0 +1,9 @@
+{
+    "series_id": "100th",
+    "name": "100Th",
+    "description": "Hot Wheels 100Th Series",
+    "releases": [
+        "../data/releases/1996/1996-classic-32-ford-vicky-metallic-sea-green-16266.json",
+        "../data/releases/1996/1996-custom-mustang-red-16266.json"
+    ]
+}

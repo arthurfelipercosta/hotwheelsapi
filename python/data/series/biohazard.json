@@ -1,0 +1,15 @@
+{
+    "series_id": "biohazard",
+    "name": "Biohazard",
+    "description": "Hot Wheels Biohazard Series",
+    "releases": [
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18783.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18783.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18784.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18784.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18785.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18785.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18786.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18786.json"
+    ]
+}

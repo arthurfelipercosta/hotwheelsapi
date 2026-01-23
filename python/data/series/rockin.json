@@ -1,0 +1,15 @@
+{
+    "series_id": "rockin",
+    "name": "Rockin",
+    "description": "Hot Wheels Rockin Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16942.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16942.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16943.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16943.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16944.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16944.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16945.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16945.json"
+    ]
+}

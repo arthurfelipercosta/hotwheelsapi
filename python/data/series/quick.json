@@ -1,0 +1,15 @@
+{
+    "series_id": "quick",
+    "name": "Quick",
+    "description": "Hot Wheels Quick Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16918.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16918.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16919.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16919.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16920.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16920.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16921.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16921.json"
+    ]
+}

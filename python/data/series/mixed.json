@@ -1,0 +1,15 @@
+{
+    "series_id": "mixed",
+    "name": "Mixed",
+    "description": "Hot Wheels Mixed Series",
+    "releases": [
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18799.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18799.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18800.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18800.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18801.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18801.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18802.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18802.json"
+    ]
+}

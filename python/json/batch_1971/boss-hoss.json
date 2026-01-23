@@ -1,0 +1,840 @@
+[
+    {
+        "casting_id": "boss-hoss",
+        "name": "Boss Hoss",
+        "description": {
+            "en-us": "Note: For the motorcycle named Boss Hoss, see Boss Hoss Motorcycle .",
+            "pt-br": ""
+        },
+        "designer": "Ira Gilford",
+        "debut_year": 1970,
+        "manufacturer": "Boss",
+        "releases": [
+            {
+                "release_id": "1970-boss-hoss-chrome-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1970,
+                "series_id": "club",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Bosshoss.jpg/revision/latest?cb=20080312162600"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-blue-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Boss_Hoss_Blue_Flyin_colors.jpg/revision/latest?cb=20130215144429"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-aqua-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Mustang_Boss_Hoss_aqua.jpg/revision/latest?cb=20210919151025"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-green-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/33/Hot_Wheels_Boss_hoss_Green.jpg/revision/latest?cb=20140916190321"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-olive-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-orange-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-brown-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-apple-green-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Apple Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/Mustang_Boss_Hoss_apple_green.jpg/revision/latest?cb=20210919152652"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-red-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/Mustang_Boss_Hoss_red.jpg/revision/latest?cb=20210919152409"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-rose-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Rose",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-pink-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Pink",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-purple-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Bosshoss1971.jpg/revision/latest?cb=20080413212951"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-aqua-6499-v2",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Black Roof , Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-green-6499-v2",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Black Roof , Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-olive-6499-v2",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Black Roof , Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-brown-6499-v2",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Brown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Black Roof , Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-red-6499-v2",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Black Roof , Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-purple-6499-v2",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Black Roof , Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-aqua-6499-v3",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Over-Chrome",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-blue-6499-v2",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Over-Chrome",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-red-6499-v3",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Over-Chrome",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-green-6499-v3",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Over-Chrome",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/Mustang_Boss_Hoss_green_over_chrome.jpg/revision/latest?cb=20210920172540"
+                }
+            },
+            {
+                "release_id": "1971-boss-hoss-spectraflame-watermelon-6499",
+                "toy_number": "6499",
+                "casting_id": "boss-hoss",
+                "year": 1971,
+                "series_id": "spoilers",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Watermelon",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White, Silver or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "sticker": "Two Black Stripes, White Circle and number 1-9"
+                },
+                "country": "Hong Kong",
+                "notes": "Over-Chrome",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/1971_HK_Spoilers_Mustang_Boss_Hoss_Watermelon_over_Chrome.jpg/revision/latest?cb=20211121074023"
+                }
+            },
+            {
+                "release_id": "2005-boss-hoss-spectraflame-light-green-h2928",
+                "toy_number": "H2928",
+                "casting_id": "boss-hoss",
+                "year": 2005,
+                "series_id": "hwccom",
+                "series_index": 6,
+                "specs": {
+                    "color": "Spectraflame Light Green",
+                    "tampo": "White stripes on sides & top, \"9\", Hot Wheels logo, & various sponsor logos on sides, \"THEBOSS\" on rear California license plate, painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Red Line RRPrf"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "Named Custom Mustang 11,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/MustangCusRF.jpg/revision/latest?cb=20081223041515"
+                }
+            },
+            {
+                "release_id": "2006-boss-hoss-silver-k3833",
+                "toy_number": "K3833",
+                "casting_id": "boss-hoss",
+                "year": 2006,
+                "series_id": "20th",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Blue Stripes with 'Make A Wish' tampos on sides, 20th Convention logo on roof.  \"HWCC 06\" California license plate on rear.",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Chrome",
+                    "wheel_type": {
+                        "0": "DDRR"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "Charity Car Named: Custom Mustang 3,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/DSC_3614.jpg/revision/latest?cb=20160619090409"
+                }
+            },
+            {
+                "release_id": "2008-boss-hoss-chrome-l8676",
+                "toy_number": "L8676",
+                "casting_id": "boss-hoss",
+                "year": 2008,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Chrome",
+                    "tampo": "Red stripes on sides & hood; \"68\", Red Line Club & HWC.com logo on sides; large Red Line Club logo on roof; \"MUSTANG\" on rear; \"40YRS1\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "4,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2008rlcbosshosschrome.jpg/revision/latest?cb=20100413072813"
+                }
+            },
+            {
+                "release_id": "2008-boss-hoss-spectraflame-red-l8677",
+                "toy_number": "L8677",
+                "casting_id": "boss-hoss",
+                "year": 2008,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "White stripes on sides & hood; \"68\", Red Line Club & HWC.com logo on sides; large Red Line Club logo on roof; \"MUSTANG\" on rear; \"40YRS2\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "5,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/2008rlcbosshossred.jpg/revision/latest?cb=20100413072813"
+                }
+            },
+            {
+                "release_id": "2008-boss-hoss-spectraflame-blue-l8678",
+                "toy_number": "L8678",
+                "casting_id": "boss-hoss",
+                "year": 2008,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "Black stripes on sides & hood; \"68\", Red Line Club & HWC.com logo on sides; large Red Line Club logo on roof; \"MUSTANG\" on rear; \"40YRS3\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "6,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/2008rlcbosshossblue.jpg/revision/latest?cb=20100413072812"
+                }
+            },
+            {
+                "release_id": "2008-boss-hoss-spectraflame-purple-l8679",
+                "toy_number": "L8679",
+                "casting_id": "boss-hoss",
+                "year": 2008,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "White stripes on sides & hood; \"68\", Red Line Club & HWC.com logo on sides; large Red Line Club logo on roof; \"MUSTANG\" on rear; \"40YRS4\" on rear California license plate; painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "7,000 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/2008rlcbosshosspurple.jpg/revision/latest?cb=20100413072813"
+                }
+            },
+            {
+                "release_id": "2013-boss-hoss-metalflake-blue-y0592",
+                "toy_number": "Y0592",
+                "casting_id": "boss-hoss",
+                "year": 2013,
+                "series_id": "13th",
+                "series_index": 3,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Black and light blue stripes, \"BOSS HOSS\" on sides, black roof & trunk, 13th Annual Collectors Nationals logo on roof, \"INDY 13\" on white rear license plate, detailed taillights",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "Hoosier RR5SP"
+                    },
+                    "col": ""
+                },
+                "country": "Thailand",
+                "notes": "1,000 produced Base code(s) : F03",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Boss_Hoss_%28Retooled%29-17518.jpg/revision/latest?cb=20140715042809"
+                }
+            },
+            {
+                "release_id": "2017-boss-hoss-spectraflame-party-pink-fcm61",
+                "toy_number": "FCM61",
+                "casting_id": "boss-hoss",
+                "year": 2017,
+                "series_id": "31st",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Party Pink",
+                    "tampo": "White roof; white & red stripes on sides; painted headlights & taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "RLC Party Also sold online through the RLC",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/2017_31st_Annual_Hot_Wheels_Collectors_Convention_Boss_Hoss.png/revision/latest?cb=20181208141155"
+                }
+            },
+            {
+                "release_id": "2017-boss-hoss-spectraflame-blue-w-black-roof-dmh88",
+                "toy_number": "DMH88",
+                "casting_id": "boss-hoss",
+                "year": 2017,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue w/ Black Roof",
+                    "tampo": "'5' on Side",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Blue tint",
+                    "interior_color": "Blue",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "8,000 produced Production code(s): 2567 EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/BossHossRLCSpoilers.jpg/revision/latest?cb=20201122133925"
+                }
+            },
+            {
+                "release_id": "2022-boss-hoss-spectraflame-olive-hgw16",
+                "toy_number": "HGW16",
+                "casting_id": "boss-hoss",
+                "year": 2022,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "Black stripe on sides with “RLC”",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    },
+                    "col": ""
+                },
+                "country": "China",
+                "notes": "30,000 produced Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            }
+        ]
+    }
+]

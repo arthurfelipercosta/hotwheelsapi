@@ -1,0 +1,8 @@
+{
+    "series_id": "club",
+    "name": "Club",
+    "description": "Hot Wheels Club Series",
+    "releases": [
+        "../data/releases/1970/1970-boss-hoss-chrome-6499.json"
+    ]
+}

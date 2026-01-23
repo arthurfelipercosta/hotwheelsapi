@@ -1,0 +1,67 @@
+[
+    {
+        "casting_id": "racer-rig",
+        "name": "Racer Rig",
+        "description": {
+            "en-us": "Racer Rig Debut series 1971 Heavyweights Produced 1971 Designer Larry Wood & Ira Gilford Number 6194",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood & Ira Gilford",
+        "debut_year": 1971,
+        "manufacturer": "Racer",
+        "releases": [
+            {
+                "release_id": "1971-racer-rig-unknown-6018",
+                "toy_number": "6018",
+                "casting_id": "racer-rig",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Enamel White",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-racer-rig-unknown-6018-v2",
+                "toy_number": "6018",
+                "casting_id": "racer-rig",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "unknown",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Dark Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "color_tampo": "Spectraflame Red",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/81008_023-1-.jpg/revision/latest?cb=20110626134449"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,115 @@
+[
+    {
+        "casting_id": "ford-j-car",
+        "name": "Ford J-Car",
+        "description": {
+            "en-us": "Ford J-Car Debut series Sweet Sixteen Produced 1968 (Original) 2010 - 2025 ( Retool ) Designer Harry Bradley Number 6214",
+            "pt-br": ""
+        },
+        "designer": "Harry Bradley",
+        "debut_year": 1968,
+        "manufacturer": "Ford",
+        "releases": [
+            {
+                "release_id": "2010-ford-j-car-spectraflame-powder-blue-r8389",
+                "toy_number": "R8389",
+                "casting_id": "ford-j-car",
+                "year": 2010,
+                "series_id": "hwccom",
+                "series_index": 3,
+                "specs": {
+                    "color": "Spectraflame Powder Blue",
+                    "tampo": "'1' on sides & hood, \"Ford\" in black & white stripe on sides, painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "notes_variations": "5,000 produced Base code(s): C18"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/FordJCar_RLC_Blue.JPG/revision/latest?cb=20100626204228"
+                }
+            },
+            {
+                "release_id": "2015-ford-j-car-spectraflame-dark-green-blr25",
+                "toy_number": "BLR25",
+                "casting_id": "ford-j-car",
+                "year": 2015,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Dark Green",
+                    "tampo": "Number “2” on hood & sides",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Silver",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "notes_variations": "Came with collectors button Base Code(s)"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2018-ford-j-car-spectraflame-navy-blue-fnc23",
+                "toy_number": "FNC23",
+                "casting_id": "ford-j-car",
+                "year": 2018,
+                "series_id": "hwccom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Navy Blue",
+                    "tampo": "Tail Lights, Black Rear Panel, Black & White Stripes with 'FORD' & '3'",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "notes_variations": "Opening Rear Hatch"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/HWC_Original_16_Display_Set_Ford_J-Car.jpg/revision/latest?cb=20190302005306"
+                }
+            },
+            {
+                "release_id": "2025-ford-j-car-spectraflame-ruby-red-jcp66",
+                "toy_number": "JCP66",
+                "casting_id": "ford-j-car",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Ruby Red",
+                    "tampo": "taillights",
+                    "base_color": "Chromed",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "notes_variations": "4,120 Sets Opening Engine Deck Production code(s):"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

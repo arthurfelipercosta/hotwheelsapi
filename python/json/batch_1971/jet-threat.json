@@ -1,0 +1,583 @@
+[
+    {
+        "casting_id": "jet-threat",
+        "name": "Jet Threat",
+        "description": {
+            "en-us": "Jet Threat Debut series 1971 Hot Wheels Produced 1971 - 1973 , 1976 - 1978 Designer Larry Wood Number 6179",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1971,
+        "manufacturer": "Jet",
+        "releases": [
+            {
+                "release_id": "1971-jet-threat-spectraflame-yellow-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/Yellow_Jet_Threat_wiki.jpg/revision/latest?cb=20130224183421"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-light-apple-green-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light 'Apple' Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/406445960_o-1-.jpg/revision/latest?cb=20100918113536"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-red-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Jet_Threat_red_1971.JPG/revision/latest?cb=20120910214129"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-aqua-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": "Playable in Hot Wheels: Turbo Racing"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/JetThreatAqua.JPG/revision/latest?cb=20180325025723"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-blue-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": "Playable in Hot Wheels: Turbo Racing"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Jet_Threat_1971_Blue.jpg/revision/latest?cb=20211103080405"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-green-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": "Playable in Hot Wheels: Turbo Racing"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c8/Jet_Threat_green.jpg/revision/latest?cb=20210918143821"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-lime-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Lime",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": "Playable in Hot Wheels: Turbo Racing"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/Jetthreat.jpg/revision/latest?cb=20080314160524"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-magenta-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": "Playable in Hot Wheels: Turbo Racing"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-purple-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": "Hard to Find"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-rose-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Rose",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1971-jet-threat-spectraflame-gold-6179",
+                "toy_number": "6179",
+                "casting_id": "jet-threat",
+                "year": 1971,
+                "series_id": "1971",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "Yellow & Orange stripes,'15'",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-jet-threat-enamel-light-blue-shell08",
+                "toy_number": "Shell08",
+                "casting_id": "jet-threat",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Light Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/TRJetThreat.jpg/revision/latest?cb=20130917132219"
+                }
+            },
+            {
+                "release_id": "1973-jet-threat-flourescent-dark-blue-shell08",
+                "toy_number": "Shell08",
+                "casting_id": "jet-threat",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Flourescent Dark Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-jet-threat-enamel-pink-shell08",
+                "toy_number": "Shell08",
+                "casting_id": "jet-threat",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Pink",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/Jet_threat.jpg/revision/latest?cb=20100918113536"
+                }
+            },
+            {
+                "release_id": "1973-jet-threat-enamel-red-shell08",
+                "toy_number": "Shell08",
+                "casting_id": "jet-threat",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/JetThreat1973Red.png/revision/latest?cb=20170717235401"
+                }
+            },
+            {
+                "release_id": "1973-jet-threat-enamel-yellow-shell08",
+                "toy_number": "Shell08",
+                "casting_id": "jet-threat",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Yellow",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-jet-threat-flourescent-green-shell08",
+                "toy_number": "Shell08",
+                "casting_id": "jet-threat",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Flourescent Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-jet-threat-enamel-lime-green-shell08",
+                "toy_number": "Shell08",
+                "casting_id": "jet-threat",
+                "year": 1973,
+                "series_id": "1973",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Lime Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None",
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/Mike_jet_threat.jpg/revision/latest?cb=20210408023642"
+                }
+            },
+            {
+                "release_id": "1976-jet-threat-enamel-plum-8235",
+                "toy_number": "8235",
+                "casting_id": "jet-threat",
+                "year": 1976,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Plum",
+                    "tampo": "Yellow Flames",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/Jetthreat2.jpg/revision/latest?cb=20080414062919"
+                }
+            },
+            {
+                "release_id": "1977-jet-threat-enamel-plum-8235",
+                "toy_number": "8235",
+                "casting_id": "jet-threat",
+                "year": 1977,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Plum",
+                    "tampo": "Yellow Flames",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/Jet_Threat_PrpBW.JPG/revision/latest?cb=20090301204105"
+                }
+            },
+            {
+                "release_id": "1978-jet-threat-enamel-dark-blue-8235",
+                "toy_number": "8235",
+                "casting_id": "jet-threat",
+                "year": 1978,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Dark Blue",
+                    "tampo": "Orange Stripe with Yellow 'Jet Threat'",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Jet_Threat_Blu.JPG/revision/latest?cb=20090301204043"
+                }
+            },
+            {
+                "release_id": "1978-jet-threat-enamel-dark-blue-8235-v2",
+                "toy_number": "8235",
+                "casting_id": "jet-threat",
+                "year": 1978,
+                "series_id": "drag",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Dark Blue",
+                    "tampo": "Orange Stripe with Yellow 'Jet Threat'",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Body color",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "notes_variations": "Rare"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Jet_Threat_Blu.JPG/revision/latest?cb=20090301204043"
+                }
+            }
+        ]
+    }
+]

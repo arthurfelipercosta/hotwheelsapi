@@ -1,0 +1,8 @@
+{
+    "series_id": "clover",
+    "name": "Clover",
+    "description": "Hot Wheels Clover Series",
+    "releases": [
+        "../data/releases/2010/2010-funny-money-black-r7908.json"
+    ]
+}

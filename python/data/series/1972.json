@@ -1,0 +1,21 @@
+{
+    "series_id": "1972",
+    "name": "1972",
+    "description": "Hot Wheels 1972 Series",
+    "releases": [
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-aqua-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-blue-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-gold-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-light-green-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-lime-green-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-magenta-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-pink-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-red-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-rose-6021.json",
+        "../data/releases/1972/1972-ferrari-512s-spectraflame-yellow-6021.json",
+        "../data/releases/1972/1972-rear-engine-snake-enamel-blue-5699-v2.json",
+        "../data/releases/1972/1972-rear-engine-snake-enamel-blue-5699.json",
+        "../data/releases/1972/1972-rear-engine-snake-yellow-5956-v2.json",
+        "../data/releases/1972/1972-rear-engine-snake-yellow-5956.json"
+    ]
+}

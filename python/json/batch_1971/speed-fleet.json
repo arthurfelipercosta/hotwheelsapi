@@ -1,0 +1,2013 @@
+[
+    {
+        "casting_id": "speed-fleet",
+        "name": "Speed Fleet",
+        "description": {
+            "en-us": "Hot Wheels Speed Fleet was a line of vehicles released between 1987 and 1990.  The special cards for this line featured a Sol-Aire CX4 .",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Speed",
+        "releases": [
+            {
+                "release_id": "1989-speed-fleet-blue-1457",
+                "toy_number": "1457",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "'80's Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Tan bag in back, with hood emblem",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/%2780%27s_Corvette_-_5999df.jpg/revision/latest?cb=20081018212543"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-black-5128",
+                "toy_number": "5128",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "'80s Firebird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Yellow stripe and Formula on the sides",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/87/80s_Firebird_BlkBWForm.JPG/revision/latest?cb=20090110151438"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-metalflake-gray-dark-blue-5026",
+                "toy_number": "5026",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gray & Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Alien",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Short run color",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/Alien_BluUH.JPG/revision/latest?cb=20090105155025"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-metalflake-gray-red-5026",
+                "toy_number": "5026",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gray & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Alien",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Alien_redUH.JPG/revision/latest?cb=20090105160948"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-turquoise-5138",
+                "toy_number": "5138",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Blown Camaro Z-28",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Magenta stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Blown_Camaro_TrqPrpGW.JPG/revision/latest?cb=20090115002718"
+                }
+            },
+            {
+                "release_id": "1990-speed-fleet-turquoise-5138",
+                "toy_number": "5138",
+                "casting_id": "speed-fleet",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Blown Camaro Z-28",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Blue stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/Blown_Camaro_TrqBulGW.JPG/revision/latest?cb=20090115002643"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-black-1791",
+                "toy_number": "1791",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Chevy Stocker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Small wheels in front, medium in back",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/Chevy_stocker_1989_black.png/revision/latest?cb=20120411222651"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-metalflake-dark-red-7670",
+                "toy_number": "7670",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Custom Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Blue tinted windshield",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/IMG_3403.jpg/revision/latest?cb=20191116061934"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-red-1468",
+                "toy_number": "1468",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Ferrari F40",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/Ferrari_F40_-_6187df.jpg/revision/latest?cb=20081031102320"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-red-5111",
+                "toy_number": "5111",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Ferrari Testarossa",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Tan & red interior",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/Ferrari_Testarrosa_Red2.JPG/revision/latest?cb=20081222054000"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-red-1458",
+                "toy_number": "1458",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Fiero 2M4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/Fiero_GHO.JPG/revision/latest?cb=20090114182926"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-yellow-5121",
+                "toy_number": "5121",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Firebird Funny Car",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Magenta stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/IMG_5596.jpg/revision/latest?cb=20090903074955"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-yellow-5121",
+                "toy_number": "5121",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Firebird Funny Car",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Black stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/IMG_5595.jpg/revision/latest?cb=20090903074909"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-purple-1789",
+                "toy_number": "1789",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "GT Racer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/GT_Racer_Prpl.JPG/revision/latest?cb=20081222013127"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-blue-1789",
+                "toy_number": "1789",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "GT Racer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/GT_Racer_MtBlu.JPG/revision/latest?cb=20081222013419"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-metalflake-blue-2014",
+                "toy_number": "2014",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Hot Bird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/07/3681.JPG/revision/latest?cb=20080406053517"
+                }
+            },
+            {
+                "release_id": "1990-speed-fleet-black-2014",
+                "toy_number": "2014",
+                "casting_id": "speed-fleet",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Hot Bird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Tan interior",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/1990_hot_bird_tan_interior_37_on_base.JPG/revision/latest?cb=20210618151208"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-white-4384",
+                "toy_number": "4384",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Lamborghini Countach",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/Cod60.jpg/revision/latest?cb=20081031024712"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-white-3794",
+                "toy_number": "3794",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Lamborghini Countach",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "With hood emblem",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/Cod62.jpg/revision/latest?cb=20081031024719"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-white-3794-v2",
+                "toy_number": "3794",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Lamborghini Countach",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Without hood emblem, spoiler part of body",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/Cod61.jpg/revision/latest?cb=20081031024716"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-white-7529",
+                "toy_number": "7529",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Nissan 300ZX",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/Nissan_300ZX_Wht300GHO.JPG/revision/latest?cb=20090105045148"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-white-1469",
+                "toy_number": "1469",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Peugeot 205 Rallye",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Peugeot_205_Rallye_2.JPG/revision/latest?cb=20090104191139"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-red-1796",
+                "toy_number": "1796",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Pontiac Banshee",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "With 'Pontiac' imprint on rear",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/76/IMG_7052.jpg/revision/latest?cb=20090903081524"
+                }
+            },
+            {
+                "release_id": "1990-speed-fleet-red-1796",
+                "toy_number": "1796",
+                "casting_id": "speed-fleet",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Pontiac Banshee",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Without 'Pontiac' imprint on rear",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-metalflake-red-4631",
+                "toy_number": "4631",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Porsche 959",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Porsche_959_MtRed.JPG/revision/latest?cb=20090120022100"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-yellow-4699",
+                "toy_number": "4699",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Shadow Jet",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Magenta tampo",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/Shadow_Jet_YelPrp.JPG/revision/latest?cb=20090213163734"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-yellow-4699",
+                "toy_number": "4699",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Shadow Jet",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Blue tampo",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/49/Shadow_Jet_YelBlu.JPG/revision/latest?cb=20090213163715"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-black-1494",
+                "toy_number": "1494",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Sol-Aire CX4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Magenta stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/17/Sol_Aire_blkprp.JPG/revision/latest?cb=20091010213745"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-black-1494-v2",
+                "toy_number": "1494",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Sol-Aire CX4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Blue stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/93/Sol_Aire_blkblu.JPG/revision/latest?cb=20091010213745"
+                }
+            },
+            {
+                "release_id": "1990-speed-fleet-red-4916",
+                "toy_number": "4916",
+                "casting_id": "speed-fleet",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Thunderbird Stocker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Back wheels regular size, front wheels small",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/dc/T-Bird_Stocker_Red.JPG/revision/latest?cb=20090216002816"
+                }
+            },
+            {
+                "release_id": "1990-speed-fleet-red-4916-v2",
+                "toy_number": "4916",
+                "casting_id": "speed-fleet",
+                "year": 1990,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Thunderbird Stocker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "All wheels small",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-black-1456",
+                "toy_number": "1456",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Thunderburner",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/ThunderBurner_BlkGW.JPG/revision/latest?cb=20081220233030"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-white-5139",
+                "toy_number": "5139",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Thunderburner",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/ThunderBurner_Wht1.JPG/revision/latest?cb=20081221022503"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-yellow-5112",
+                "toy_number": "5112",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Tricar X8",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Red base",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Tricar_X8_Yel.JPG/revision/latest?cb=20091021134132"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-turquoise-7671",
+                "toy_number": "7671",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "V.W. Bug",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Magenta stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/91/VW_Bug_AGENTAIR_1.jpg/revision/latest?cb=20080909033814"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-turquoise-7671-v2",
+                "toy_number": "7671",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "V.W. Bug",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Blue stripe",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/VWBug_TrqBluL.JPG/revision/latest?cb=20100419021239"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-purple-1484",
+                "toy_number": "1484",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "XT-3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/XT-3_PrpRd.JPG/revision/latest?cb=20090109041523"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-black-1484",
+                "toy_number": "1484",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "XT-3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Yellow canopy",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-red-1473",
+                "toy_number": "1473",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "3-Window '34",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/3_Window_34_RedZ.JPG/revision/latest?cb=20091017041825"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-maroon-2533",
+                "toy_number": "2533",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "'31 Doozie",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/31_Doozie_Mrn.JPG/revision/latest?cb=20090114215011"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-yellow-2530",
+                "toy_number": "2530",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "'40's Woodie",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/%2740%27s_Woodie_1989_Classics_-_7590df.jpg/revision/latest?cb=20090301091334"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-red-white-2523",
+                "toy_number": "2523",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "'55 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/55chevy_flyin_color_red_n_white.jpg/revision/latest?cb=20130206045629"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-metalflake-blue-1538",
+                "toy_number": "1538",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "'57 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Emblem on sides",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/57_Chevy_BluGWw.JPG/revision/latest?cb=20090309022231"
+                }
+            },
+            {
+                "release_id": "1986-speed-fleet-black-2536",
+                "toy_number": "2536",
+                "casting_id": "speed-fleet",
+                "year": 1986,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "'57 T-Bird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/57TBird_blk_w-tampo_HK_BW_1985.jpg/revision/latest?cb=20130116052307"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-turquoise-1542",
+                "toy_number": "1542",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Turquoise",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "'65 Mustang Convertible",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "Black interior",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/Light_Blue_%2765_Mustang_Convertible_-_6349df.jpg/revision/latest?cb=20081103134336"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-black-1457",
+                "toy_number": "1457",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "'80's Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "Gray bag in back",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/80scorvette_Black.jpg/revision/latest?cb=20090902070815"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-red-9532",
+                "toy_number": "9532",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Camaro Z-28",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/Camaroz28.uh.jpg/revision/latest?cb=20090622164401"
+                }
+            },
+            {
+                "release_id": "1986-speed-fleet-metallic-blue-2529",
+                "toy_number": "2529",
+                "casting_id": "speed-fleet",
+                "year": 1986,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "Classic Caddy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/%2735_Classic_Caddy_Classics_-_5379df.jpg/revision/latest?cb=20100511063223"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-metalflake-gray-1448",
+                "toy_number": "1448",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Corvette Stingray",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Corvette_Stingray_SilvBW.JPG/revision/latest?cb=20081208170914"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-white-1897",
+                "toy_number": "1897",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Ferrari Testarossa",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Ferrari_Testarossa_WhtUH.JPG/revision/latest?cb=20100321043008"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-red-1458-v2",
+                "toy_number": "1458",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Fiero 2M4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/Fiero_GHO.JPG/revision/latest?cb=20090114182926"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-metalflake-dark-red-3250",
+                "toy_number": "3250",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Firebird Funny Car",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/Firebird_Funny_DkRedl.JPG/revision/latest?cb=20081221051648"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-metalflake-blue-1483",
+                "toy_number": "1483",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Firebird Funny Car",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/MVC-400S_Copy_1.jpg/revision/latest?cb=20090901072741"
+                }
+            },
+            {
+                "release_id": "1986-speed-fleet-zamac-2546",
+                "toy_number": "2546",
+                "casting_id": "speed-fleet",
+                "year": 1986,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "ZAMAC",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Jet Sweep X5",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Jet_Sweep_Unpntd.JPG/revision/latest?cb=20090116170655"
+                }
+            },
+            {
+                "release_id": "1986-speed-fleet-metalflake-silver-2546",
+                "toy_number": "2546",
+                "casting_id": "speed-fleet",
+                "year": 1986,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Jet Sweep X5",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/Jet_Sweep_Silv.JPG/revision/latest?cb=20090116170635"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-white-4384-v2",
+                "toy_number": "4384",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Lamborghini Countach",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/Cod60.jpg/revision/latest?cb=20081031024712"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-white-4206",
+                "toy_number": "4206",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Mercedes 380 SEL",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/Mercedes_380_SEL_Wht.JPG/revision/latest?cb=20090218214447"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-red-3911",
+                "toy_number": "3911",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "WW"
+                    },
+                    "model_name": "Mercedes 540K",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/63/Mercedes_540K_-_5375ef.jpg/revision/latest?cb=20090612150917"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-metalflake-gray-1497",
+                "toy_number": "1497",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Nightstreaker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/P928_Silv.JPG/revision/latest?cb=20090313204609"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-yellow-1454",
+                "toy_number": "1454",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Nissan 300ZX",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Nissan_300ZX_YelGHO.JPG/revision/latest?cb=20090105045309"
+                }
+            },
+            {
+                "release_id": "1989-speed-fleet-black-7648",
+                "toy_number": "7648",
+                "casting_id": "speed-fleet",
+                "year": 1989,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "P-911 Turbo",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/be/P-911_Blk_95BW.JPG/revision/latest?cb=20090313132223"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-red-2538",
+                "toy_number": "2538",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Power Plower",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/Power_Plower_RedBW.JPG/revision/latest?cb=20081222034101"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-red-1500",
+                "toy_number": "1500",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Road Torch",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/1987ML-RoadTorch_%28Large%29.JPG/revision/latest?cb=20220319074837"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-metalflake-silver-9535",
+                "toy_number": "9535",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Silver Bullet",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Silver_Bullit_Slv.JPG/revision/latest?cb=20090219220613"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-metalflake-silver-5902",
+                "toy_number": "5902",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Sol-Aire CX4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/Sol_Aire_silv.JPG/revision/latest?cb=20091010215807"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-red-5902",
+                "toy_number": "5902",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Sol-Aire CX4",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/Sol_Aire_redmag.JPG/revision/latest?cb=20091018113649"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-white-1512",
+                "toy_number": "1512",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "UH"
+                    },
+                    "model_name": "Speed Seeker",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Speed_Speeker_Wht.JPG/revision/latest?cb=20090131001017"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-magenta-1486",
+                "toy_number": "1486",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Magenta",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Split Window '63",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/Split63Mag.JPG/revision/latest?cb=20180121202234"
+                }
+            },
+            {
+                "release_id": "1986-speed-fleet-metallic-blue-9538",
+                "toy_number": "9538",
+                "casting_id": "speed-fleet",
+                "year": 1986,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Gold BW"
+                    },
+                    "model_name": "Street Beast",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/Ferrari_308_Quick_Trick.jpg/revision/latest?cb=20211213083446"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-black-1456",
+                "toy_number": "1456",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "GHO"
+                    },
+                    "model_name": "Thunderburner",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/ThunderBurner_BlkGW.JPG/revision/latest?cb=20081220233030"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-maroon-purple-1491",
+                "toy_number": "1491",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Maroon & Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Thunderstreak",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/Thunderstreak_MrnBW.JPG/revision/latest?cb=20090201163523"
+                }
+            },
+            {
+                "release_id": "1988-speed-fleet-blue-yellow-1491",
+                "toy_number": "1491",
+                "casting_id": "speed-fleet",
+                "year": 1988,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Thunderstreak",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/Thunderstreak_Krco.JPG/revision/latest?cb=20090201163456"
+                }
+            },
+            {
+                "release_id": "1986-speed-fleet-metalflake-gray-2525",
+                "toy_number": "2525",
+                "casting_id": "speed-fleet",
+                "year": 1986,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "Tricar X8",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/Tricar_X8_Slv.JPG/revision/latest?cb=20091021134133"
+                }
+            },
+            {
+                "release_id": "1987-speed-fleet-black-7531",
+                "toy_number": "7531",
+                "casting_id": "speed-fleet",
+                "year": 1987,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "model_name": "XT-3",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "Malaysia",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/XT-3_Blk.JPG/revision/latest?cb=20090108182357"
+                }
+            }
+        ]
+    }
+]

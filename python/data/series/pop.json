@@ -1,0 +1,9 @@
+{
+    "series_id": "pop",
+    "name": "Pop",
+    "description": "Hot Wheels Pop Series",
+    "releases": [
+        "../data/releases/1999/1999-classic-32-ford-vicky-yellow-65694.json",
+        "../data/releases/2013/2013-funny-money-green-x8315.json"
+    ]
+}

@@ -1,0 +1,115 @@
+[
+    {
+        "casting_id": "classic-cord",
+        "name": "Classic Cord",
+        "description": {
+            "en-us": "Classic Cord Debut series 1971 Hot Wheels Produced 1971 - 1972 (Original) 2005 - 2010 ( Retool ) Designer Larry Wood Number 6472",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1971,
+        "manufacturer": "Classic",
+        "releases": [
+            {
+                "release_id": "2005-classic-cord-spectraflame-steel-blue-h2925",
+                "toy_number": "H2925",
+                "casting_id": "classic-cord",
+                "year": 2005,
+                "series_id": "hotwheelscollectorscom",
+                "series_index": 4,
+                "specs": {
+                    "color": "Spectraflame Steel Blue",
+                    "tampo": "Black roof, white scallops on sides & hood, \"HW DREW\" on rear California license plate, painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "notes_variations": "11,000 produced"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/2005hwcneoclassicsclassiccord.jpg/revision/latest?cb=20100308005002"
+                }
+            },
+            {
+                "release_id": "2006-classic-cord-spectraflame-pink-k3816",
+                "toy_number": "K3816",
+                "casting_id": "classic-cord",
+                "year": 2006,
+                "series_id": "6th",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Pink",
+                    "tampo": "White Scallops on Sides, Front Fenders & Hood",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "notes_variations": "11,000 produced"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Cord_-_RLC_Party.JPG/revision/latest?cb=20111208045853"
+                }
+            },
+            {
+                "release_id": "2007-classic-cord-dark-green-k9854",
+                "toy_number": "K9854",
+                "casting_id": "classic-cord",
+                "year": 2007,
+                "series_id": "2007",
+                "series_index": 2,
+                "specs": {
+                    "color": "Dark Green",
+                    "tampo": "White roof, very light green to light Green flames outlined in green on sides & hood, RLC logo on sides, white \"3\" centered on a black spade centered in green pinstripe design on trunk, \"6POINTR\" on rear license plate, painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "notes_variations": "4,041 produced"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/2007rlcrewardsclassiccord.jpg/revision/latest?cb=20100406083739"
+                }
+            },
+            {
+                "release_id": "2010-classic-cord-spectraflame-gold-r8395",
+                "toy_number": "R8395",
+                "casting_id": "classic-cord",
+                "year": 2010,
+                "series_id": "hotwheelscollectorscom",
+                "series_index": 1,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "Black roof, \"CORD812\" on rear license plate, painted taillights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "WWRR6SP"
+                    },
+                    "notes_variations": "5,000 produced Base code(s): C05"
+                },
+                "country": "Thailand",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/ClassicCord_HWC.JPG/revision/latest?cb=20100502105651"
+                }
+            }
+        ]
+    }
+]

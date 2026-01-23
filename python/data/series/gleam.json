@@ -1,0 +1,17 @@
+{
+    "series_id": "gleam",
+    "name": "Gleam",
+    "description": "Hot Wheels Gleam Series",
+    "releases": [
+        "../data/releases/1992/1992-hot-wheels-by-collector-number-unknown-1781.json",
+        "../data/releases/1992/1992-hot-wheels-by-collector-number-unknown-1781.json",
+        "../data/releases/1992/1992-hot-wheels-by-collector-number-unknown-1793-v2.json",
+        "../data/releases/1992/1992-hot-wheels-by-collector-number-unknown-1793-v2.json",
+        "../data/releases/1992/1992-hot-wheels-by-collector-number-unknown-1793.json",
+        "../data/releases/1992/1992-hot-wheels-by-collector-number-unknown-1793.json",
+        "../data/releases/1994/1994-hot-wheels-by-collector-number-unknown-1794-v2.json",
+        "../data/releases/1994/1994-hot-wheels-by-collector-number-unknown-1794-v2.json",
+        "../data/releases/1994/1994-hot-wheels-by-collector-number-unknown-1794.json",
+        "../data/releases/1994/1994-hot-wheels-by-collector-number-unknown-1794.json"
+    ]
+}

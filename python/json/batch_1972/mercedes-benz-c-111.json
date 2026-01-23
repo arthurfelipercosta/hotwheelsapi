@@ -1,0 +1,639 @@
+[
+    {
+        "casting_id": "mercedes-benz-c-111",
+        "name": "Mercedes-Benz C-111",
+        "description": {
+            "en-us": "Mercedes-Benz C-111 Debut series Mainline Produced 1972 - 1978 Designer Larry Wood Number 6169",
+            "pt-br": ""
+        },
+        "designer": "Larry Wood",
+        "debut_year": 1972,
+        "manufacturer": "Mercedes-Benz",
+        "releases": [
+            {
+                "release_id": "1972-mercedes-benz-c-111-spectraflame-blue-6169",
+                "toy_number": "6169",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Mercedes-BenzC-111.jpg/revision/latest?cb=20080315160141"
+                }
+            },
+            {
+                "release_id": "1972-mercedes-benz-c-111-spectraflame-aqua-6169",
+                "toy_number": "6169",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1972-mercedes-benz-c-111-spectraflame-light-apple-green-6169",
+                "toy_number": "6169",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light 'Apple' Green",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/100_7907.jpg/revision/latest?cb=20170709111627"
+                }
+            },
+            {
+                "release_id": "1972-mercedes-benz-c-111-spectraflame-yellow-6169",
+                "toy_number": "6169",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Yellow",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1972-mercedes-benz-c-111-spectraflame-gold-6169",
+                "toy_number": "6169",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray or Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/08/100_1192.jpg/revision/latest?cb=20181105200833"
+                }
+            },
+            {
+                "release_id": "1972-mercedes-benz-c-111-spectraflame-red-6169",
+                "toy_number": "6169",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/MercedesC1119721Red.JPG/revision/latest?cb=20180916041429"
+                }
+            },
+            {
+                "release_id": "1972-mercedes-benz-c-111-spectraflame-rose-6169",
+                "toy_number": "6169",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Rose",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1972-mercedes-benz-c-111-spectraflame-magenta-6169",
+                "toy_number": "6169",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1972,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Magenta",
+                    "tampo": "",
+                    "base_color": "Black",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/1972_Mercedes_Benz_C_111_Magenta.jpg/revision/latest?cb=20211127095429"
+                }
+            },
+            {
+                "release_id": "1973-mercedes-benz-c-111-enamel-dark-blue-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1973,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Dark Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray or Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Capped or Open Rear Wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Mercedesbenzc111.jpg/revision/latest?cb=20080413010905"
+                }
+            },
+            {
+                "release_id": "1973-mercedes-benz-c-111-enamel-blue-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1973,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Capped or Open Rear Wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/73_light_blue_enamel_Mercedes_benz_c111.jpg/revision/latest?cb=20130210133957"
+                }
+            },
+            {
+                "release_id": "1973-mercedes-benz-c-111-enamel-light-blue-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1973,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Light Blue",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Capped or Open Rear Wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/MercedesC111LightBlue.JPG/revision/latest?cb=20180916041352"
+                }
+            },
+            {
+                "release_id": "1973-mercedes-benz-c-111-enamel-flourescent-light-green-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1973,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Flourescent Light Green",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Capped or Open Rear Wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Mercedes_Benz_C-111_enamel_lime_green_metal-flake.JPG/revision/latest?cb=20170607190204"
+                }
+            },
+            {
+                "release_id": "1973-mercedes-benz-c-111-enamel-light-lemon-yellow-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1973,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Light 'Lemon' Yellow",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Capped or Open Rear Wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/100_1193.jpg/revision/latest?cb=20181105201011"
+                }
+            },
+            {
+                "release_id": "1973-mercedes-benz-c-111-enamel-flourescent-pink-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1973,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Flourescent Pink",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Capped or Open Rear Wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1973-mercedes-benz-c-111-enamel-red-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1973,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Brown",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Capped Rear Wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/1973_Mercedes-Benz_C-111_enamel_Red_Capped_Rear_Wheels.jpg/revision/latest?cb=20211208100536"
+                }
+            },
+            {
+                "release_id": "1973-mercedes-benz-c-111-enamel-red-6978-v2",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1973,
+                "series_id": "mainline",
+                "series_index": null,
+                "specs": {
+                    "color": "Enamel Red",
+                    "tampo": "",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White or Gray",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Open Rear Wheels",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/41/Gen09_005.jpg/revision/latest?cb=20090117174617"
+                }
+            },
+            {
+                "release_id": "1974-mercedes-benz-c-111-red-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1974,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Gray",
+                    "wheel_type": {
+                        "0": "RL (Capped Rear)"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/1974_Mercedes-benz_c-111_grey_int_blue_tint_window_capped_rear.jpg/revision/latest?cb=20130131042844"
+                }
+            },
+            {
+                "release_id": "1974-mercedes-benz-c-111-red-6978-v2",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1974,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL (Capped Rear)"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/100_8110.jpg/revision/latest?cb=20170709085624"
+                }
+            },
+            {
+                "release_id": "1974-mercedes-benz-c-111-red-6978-v3",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1974,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL (Capped Rear)"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/Mercedes-Benz_C-111.JPG/revision/latest?cb=20170607192129"
+                }
+            },
+            {
+                "release_id": "1974-mercedes-benz-c-111-red-6978-v4",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1974,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/09/Mercedes_C111_RedRL.JPG/revision/latest?cb=20090118035307"
+                }
+            },
+            {
+                "release_id": "1974-mercedes-benz-c-111-red-6978-v5",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1974,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars, White 'C111' on trunk",
+                    "base_color": "Unpainted",
+                    "base_type": "Metal",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Very Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/Mercededsbenzc111-74_cat.jpg/revision/latest?cb=20130207043801"
+                }
+            },
+            {
+                "release_id": "1975-mercedes-benz-c-111-red-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1975,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/Mercedesc111.jpg/revision/latest?cb=20090614103440"
+                }
+            },
+            {
+                "release_id": "1976-mercedes-benz-c-111-red-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1976,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/77_mercedes_benz_c-111_blk_base_BW.jpg/revision/latest?cb=20130131043008"
+                }
+            },
+            {
+                "release_id": "1976-mercedes-benz-c-111-red-6978-v2",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1976,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars",
+                    "base_color": "Chrome",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RL"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/Mercedesc111.jpg/revision/latest?cb=20090614103440"
+                }
+            },
+            {
+                "release_id": "1977-mercedes-benz-c-111-red-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1977,
+                "series_id": "flying",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars, White 'C111' on trunk",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "Also released in Japan Red Box and Italian Mebetoys Box",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/76_mercedes_benz_c-111_blk_base_RL.jpg/revision/latest?cb=20130131042930"
+                }
+            },
+            {
+                "release_id": "1978-mercedes-benz-c-111-red-6978",
+                "toy_number": "6978",
+                "casting_id": "mercedes-benz-c-111",
+                "year": 1978,
+                "series_id": "speedway",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "White, Blue & Yellow Stripes and Stars, White 'C111' on trunk",
+                    "base_color": "Black",
+                    "base_type": "Plastic",
+                    "window_color": "Tinted (Blue)",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "BW"
+                    }
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/76_mercedes_benz_c-111_blk_base_RL.jpg/revision/latest?cb=20130131042930"
+                }
+            }
+        ]
+    }
+]

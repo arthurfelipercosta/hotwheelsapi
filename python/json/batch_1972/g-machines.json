@@ -1,0 +1,2900 @@
+[
+    {
+        "casting_id": "g-machines",
+        "name": "G-Machines",
+        "description": {
+            "en-us": "G-Machines were a series 1:50 scale premium cars released from 2006 - 2008. The line emphasized bold, aggressive styling with exaggerated proportions, reminiscent of the 'Tooned series.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "G-Machines",
+        "releases": [
+            {
+                "release_id": "0-g-machines-blue-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Camaro",
+                    "tampos": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/01-68-Camaro-a.jpg/revision/latest?cb=20250126220944"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Camaro",
+                    "tampos": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/01-68-Camaro-b.jpg/revision/latest?cb=20250126221024"
+                }
+            },
+            {
+                "release_id": "0-g-machines-yellow-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Camaro",
+                    "tampos": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4f/01-68-Camaro-c.jpg/revision/latest?cb=20250126221146"
+                }
+            },
+            {
+                "release_id": "0-g-machines-copper-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Camaro",
+                    "tampos": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/01-68-Camaro-d.jpg/revision/latest?cb=20250126221225"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Camaro",
+                    "tampos": "Black Stripe on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/02-70-Camaro-a.jpg/revision/latest?cb=20250126221331"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Camaro",
+                    "tampos": "White Stripe on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/02-70-Camaro-b.jpg/revision/latest?cb=20250126221449"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Camaro",
+                    "tampos": "Silver Stripe on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/21/02-70-Camaro-c.jpg/revision/latest?cb=20250126221515"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-j2718-v3",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Chevelle",
+                    "tampos": "Black Stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/03-70-Chevelle-a.jpg/revision/latest?cb=20250126221605"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Chevelle",
+                    "tampos": "Red Stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/43/03-70-Chevelle-b.jpg/revision/latest?cb=20250126221633"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Chevelle",
+                    "tampos": "Orange Stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/03-70-Chevelle-c.jpg/revision/latest?cb=20250126221659"
+                }
+            },
+            {
+                "release_id": "0-g-machines-light-blue-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Chevelle",
+                    "tampos": "Silver Stripes on hood & trunk"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/70_Chevelle_150_%283%29.JPG/revision/latest?cb=20241230200320"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-blue-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver & Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'67 GTO",
+                    "tampos": "Blue Stripe on hood, Red Stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/04-67-GTO-b.jpg/revision/latest?cb=20250126221800"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'67 GTO",
+                    "tampos": "Gray Stripe on hood, Orange Stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/04-67-GTO-a.jpg/revision/latest?cb=20250126221836"
+                }
+            },
+            {
+                "release_id": "0-g-machines-orange-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'67 GTO",
+                    "tampos": "Silver \"GTO\" on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/04-67-GTO-c.jpg/revision/latest?cb=20250126221906"
+                }
+            },
+            {
+                "release_id": "0-g-machines-purple-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'67 GTO",
+                    "tampos": "Silver \"GTO\" on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/04-67-GTO-d.jpg/revision/latest?cb=20250126221935"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Mustang Mach 1",
+                    "tampos": "Black hood, Black stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/05-70-Boss-b.jpg/revision/latest?cb=20250126222054"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-j2718-v3",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Mustang Mach 1",
+                    "tampos": "Yellow stripes on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/05-70-Boss-a.jpg/revision/latest?cb=20250126222122"
+                }
+            },
+            {
+                "release_id": "0-g-machines-green-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Mustang Mach 1",
+                    "tampos": "Black hood, Black stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/05-70-Boss-c.jpg/revision/latest?cb=20250126222152"
+                }
+            },
+            {
+                "release_id": "0-g-machines-yellow-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Mustang Mach 1",
+                    "tampos": "Black stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/05-70-Boss-d.jpg/revision/latest?cb=20250126222218"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Mustang",
+                    "tampos": "Blue stripes on hood and sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/06-68-Mustang-b.jpg/revision/latest?cb=20250126222304"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gold-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Mustang",
+                    "tampos": "Black stripes on hood and sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/48/06-68-Mustang-a.jpg/revision/latest?cb=20250126222325"
+                }
+            },
+            {
+                "release_id": "0-g-machines-dark-blue-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Mustang",
+                    "tampos": "Black stripes on hood and sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/06-68-Mustang-c.jpg/revision/latest?cb=20250126222350"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-j2718-v3",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Mustang",
+                    "tampos": "Black hood, black stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/00/06-68-Mustang-d.jpg/revision/latest?cb=20250126222415"
+                }
+            },
+            {
+                "release_id": "0-g-machines-orange-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'69 Charger",
+                    "tampos": "Black stripe and Orange flames on rear"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/07-69-Charger-a.jpg/revision/latest?cb=20250126222516"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-j2718-v4",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'69 Charger",
+                    "tampos": "Orange stripes and top & sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/07-69-Charger-b.jpg/revision/latest?cb=20250126222700"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-gold-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'69 Charger",
+                    "tampos": "Gold stripes on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/07-69-Charger-c.jpg/revision/latest?cb=20250126222741"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-j2718-v4",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'69 Charger",
+                    "tampos": "Black stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/07-69-Charger-d.jpg/revision/latest?cb=20250126222811"
+                }
+            },
+            {
+                "release_id": "0-g-machines-purple-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'71 Challenger",
+                    "tampos": "Black stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/53/08-71-Challenger-a.jpg/revision/latest?cb=20250126222924"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-j2718-v5",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'71 Challenger",
+                    "tampos": "Black stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/08-71-Challenger-d.jpg/revision/latest?cb=20250126223005"
+                }
+            },
+            {
+                "release_id": "0-g-machines-yellow-j2718-v3",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'71 Challenger",
+                    "tampos": "Black stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/08-71-Challenger-c.jpg/revision/latest?cb=20250126223050"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-j2718-v5",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'71 Challenger",
+                    "tampos": "Blue flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/08-71-Challenger-b.jpg/revision/latest?cb=20250126223125"
+                }
+            },
+            {
+                "release_id": "0-g-machines-spectraflame-green-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Plymouth Hemi Cuda",
+                    "tampos": "Black stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/09-70-Cuda-a.jpg/revision/latest?cb=20250126223215"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gray-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Plymouth Hemi Cuda",
+                    "tampos": "\"70\" and various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/09-70-Cuda-b.jpg/revision/latest?cb=20250126223239"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-silver-j2718",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Plymouth Hemi Cuda",
+                    "tampos": "Red stripes on rear"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/09-70-Cuda-c.jpg/revision/latest?cb=20250126223305"
+                }
+            },
+            {
+                "release_id": "0-g-machines-green-j2718-v2",
+                "toy_number": "J2718",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Plymouth Hemi Cuda",
+                    "tampos": "Black hood, Black stripes and \"HEMI\" on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/20/09-70-Cuda-d.jpg/revision/latest?cb=20250126223331"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-l0866",
+                "toy_number": "L0866",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "1/6",
+                    "model_name": "'66 Mustang Fastback",
+                    "tampos": "White stripes on top and sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/2007-01-1-66Mustang.jpg/revision/latest?cb=20250126225754"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-l0887",
+                "toy_number": "L0887",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "2/6",
+                    "model_name": "'65 Shelby Cobra 427 S/C",
+                    "tampos": "Silver stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/2007-02-1-Cobra.jpg/revision/latest?cb=20250126225823"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-l0888",
+                "toy_number": "L0888",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "3/6",
+                    "model_name": "'71 Chevy El Camino",
+                    "tampos": "Orange stripes on hood and sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/2007-03-1-ElCamino.jpg/revision/latest?cb=20250126212447"
+                }
+            },
+            {
+                "release_id": "0-g-machines-orange-l0884",
+                "toy_number": "L0884",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "4/6",
+                    "model_name": "'06 Dodge Challenger Concept",
+                    "tampos": "Black stripes on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/2007-04-1-Challenger.jpg/revision/latest?cb=20250126230003"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gold-l0885",
+                "toy_number": "L0885",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "5/6",
+                    "model_name": "'67 Chevy Nova",
+                    "tampos": "Black & Silver stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/2007-05-1-ChevyNova.jpg/revision/latest?cb=20250126230037"
+                }
+            },
+            {
+                "release_id": "0-g-machines-light-blue-l0889",
+                "toy_number": "L0889",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "6/6",
+                    "model_name": "'63 Chevy Corvette",
+                    "tampos": "White stripe on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/Dscn0081.jpg/revision/latest?cb=20240107011724"
+                }
+            },
+            {
+                "release_id": "0-g-machines-green-l0890",
+                "toy_number": "L0890",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "1/6",
+                    "model_name": "'06 Dodge Challenger Concept",
+                    "tampos": "Black stripes on hood"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/2007-B1-Challenger.jpg/revision/latest?cb=20250126230141",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/2007-B2-66Mustang.jpg/revision/latest?cb=20250126230214"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-l0901",
+                "toy_number": "L0901",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "3/6",
+                    "model_name": "'63 Chevy Corvette",
+                    "tampos": "Blue stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/Dscn1039.jpg/revision/latest?cb=20240107011725"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-l0902",
+                "toy_number": "L0902",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "4/6",
+                    "model_name": "'71 Chevy El Camino",
+                    "tampos": "Blue flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/2007-B4-ElCamino.jpg/revision/latest?cb=20250126212846"
+                }
+            },
+            {
+                "release_id": "0-g-machines-yellow-l0907",
+                "toy_number": "L0907",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "5/6",
+                    "model_name": "'67 Chevy Nova",
+                    "tampos": "Black stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/2007-B5-ChevyNova.jpg/revision/latest?cb=20250126230642"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-black-l0908",
+                "toy_number": "L0908",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "6/6",
+                    "model_name": "'65 Shelby Cobra 427 S/C",
+                    "tampos": "Black hood, Black stripes on rear"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/2007-B6-Cobra.jpg/revision/latest?cb=20250126230731"
+                }
+            },
+            {
+                "release_id": "0-g-machines-green-l4537",
+                "toy_number": "L4537",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "1/11",
+                    "model_name": "'71 Dodge Challenger",
+                    "tampos": "Black stripes & \"33\" on hood & sides, various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/2007-C1-Challenger.jpg/revision/latest?cb=20250126232039"
+                }
+            },
+            {
+                "release_id": "0-g-machines-orange-black-l4538",
+                "toy_number": "L4538",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "2/11",
+                    "model_name": "'70 Plymouth Barracuda",
+                    "tampos": "Black stripe on sides, \"39\", \"Plymouth\", and various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/31/2007-C2-Barracuda.jpg/revision/latest?cb=20250126232106"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-black-l4539",
+                "toy_number": "L4539",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "3/11",
+                    "model_name": "'70 Ford Mustang",
+                    "tampos": "Silver stripes on sides, \"6\" on hood & sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/84/2007-C3-Mustang.jpg/revision/latest?cb=20250126232158"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-l4540",
+                "toy_number": "L4540",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "4/11",
+                    "model_name": "'70 Chevy Camaro",
+                    "tampos": "Silver stripes on top and sides, \"70\" on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/2007-C4-Camaro.jpg/revision/latest?cb=20250126232226"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-l0905",
+                "toy_number": "L0905",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "5/11",
+                    "model_name": "'63 Chevy Corvette",
+                    "tampos": "White stripe on top, \"63\" on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/Dscn0461.jpg/revision/latest?cb=20240107011724"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-black-l4542",
+                "toy_number": "L4542",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver & Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "6/11",
+                    "model_name": "'69 Dodge Charger",
+                    "tampos": "Silver stripes on hood, orange stripes on sides, \"69\" on roof and sides, various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/2007-C06-DodgeCharger.jpg/revision/latest?cb=20250126232330"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-l0896",
+                "toy_number": "L0896",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "7/11",
+                    "model_name": "'06 Dodge Challenger Concept",
+                    "tampos": "Silver stripes & \"8\" on hood & sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/2007-C07-challenger.jpg/revision/latest?cb=20250126232409"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-red-l4543",
+                "toy_number": "L4543",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "8/11",
+                    "model_name": "'67 Chevy Nova",
+                    "tampos": "White stripe on top, \"50\" and various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/2007-C08-ChevyNova.jpg/revision/latest?cb=20250126232448"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-l0892",
+                "toy_number": "L0892",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "9/11",
+                    "model_name": "'68 Mustang Fastback",
+                    "tampos": "Yellow & Gray stripes & \"30\" on hood & sides, various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/2007-C09-Mustang68.jpg/revision/latest?cb=20250126232516"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gold-l0900",
+                "toy_number": "L0900",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "10/11",
+                    "model_name": "'65 Shelby Cobra 427 S/C",
+                    "tampos": "Black stripes & \"103\" on hood and sides, various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/2007-C10-Cobra.jpg/revision/latest?cb=20250126232552"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-silver-l4541",
+                "toy_number": "L4541",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "11/11",
+                    "model_name": "'70 Plymouth Barracuda",
+                    "tampos": "Black stripes on sides, \"16\" on hood and sides, various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/2007-C11-Barracuda.jpg/revision/latest?cb=20250126232619"
+                }
+            },
+            {
+                "release_id": "0-g-machines-orange-l4563",
+                "toy_number": "L4563",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "1/5",
+                    "model_name": "'70 Chevy Camaro",
+                    "tampos": "Black & Red stripes sides, \"03\" and various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/2007-D1-Camaro.jpg/revision/latest?cb=20250126232757"
+                }
+            },
+            {
+                "release_id": "0-g-machines-yellow-l4564",
+                "toy_number": "L4564",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "2/5",
+                    "model_name": "'70 Ford Mustang",
+                    "tampos": "Black stripes on hood and sides, \"35\" and various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/2007-D2-Mustang.jpg/revision/latest?cb=20250126232834"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-l4565",
+                "toy_number": "L4565",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "3/5",
+                    "model_name": "'70 Plymouth Barracuda",
+                    "tampos": "Red stripes on hood and sides, \"13\" and various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/27/2007-D3-Barracuda.jpg/revision/latest?cb=20250126232903"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-l0891",
+                "toy_number": "L0891",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "4/5",
+                    "model_name": "'65 Shelby Cobra 427 S/C",
+                    "tampos": "Yellow stripes on hood and rear, Blue stripes & \"22\" on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/2007-D4-Cobra.jpg/revision/latest?cb=20250126232930"
+                }
+            },
+            {
+                "release_id": "0-g-machines-green-l4566",
+                "toy_number": "L4566",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "5/5",
+                    "model_name": "'70 Ford Mustang",
+                    "tampos": "Black hood with White stripes, \"98\", and various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/2007-D5-Mustang.jpg/revision/latest?cb=20250126233011"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-l4571",
+                "toy_number": "L4571",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "1/5",
+                    "model_name": "'69 Dodge Charger",
+                    "tampos": "White & Yellow stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/2007-F1-DodgeCharger.jpg/revision/latest?cb=20250126233142"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-l4572",
+                "toy_number": "L4572",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "2/5",
+                    "model_name": "'70 Chevy Camaro",
+                    "tampos": "Red stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/2007-F2-70Camaro.jpg/revision/latest?cb=20250126233207"
+                }
+            },
+            {
+                "release_id": "0-g-machines-green-l4573",
+                "toy_number": "L4573",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "3/5",
+                    "model_name": "'67 Pontiac GTO",
+                    "tampos": "Dark Green & Brown stripes on top & sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/2007-F3-PontiacGTO.jpg/revision/latest?cb=20250126233234"
+                }
+            },
+            {
+                "release_id": "0-g-machines-yellow-l0911",
+                "toy_number": "L0911",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "4/5",
+                    "model_name": "'66 Ford Mustang",
+                    "tampos": "Orange stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/2007-F4-66FordMustang.jpg/revision/latest?cb=20250126233312"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-brown-l0906",
+                "toy_number": "L0906",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "5/5",
+                    "model_name": "'71 Chevy El Camino",
+                    "tampos": "Gold stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/2007-F5-71ChevyElCamino.jpg/revision/latest?cb=20250126213153"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-red-l4544",
+                "toy_number": "L4544",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "1/11",
+                    "model_name": "'71 Dodge Challenger",
+                    "tampos": "White stripe & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/2007-F01-Challenger.jpg/revision/latest?cb=20250126233423"
+                }
+            },
+            {
+                "release_id": "0-g-machines-purple-l4545",
+                "toy_number": "L4545",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "2/11",
+                    "model_name": "'70 Plymouth Barracuda",
+                    "tampos": "Black hood, various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/2007-G2-PlymouthBarracuda.jpg/revision/latest?cb=20250126233448"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-l4546",
+                "toy_number": "L4546",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "3/11",
+                    "model_name": "'70 Ford Mustang",
+                    "tampos": "Green flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/59/70_Mustang_Big_scale.JPG/revision/latest?cb=20241219232616"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-l4547",
+                "toy_number": "L4547",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "4/11",
+                    "model_name": "'70 Chevy Camaro",
+                    "tampos": "White & Orange stripes on hood and sides, Hot Wheels logo on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/GMachines70ChevyCamaroBlue2007.jpg/revision/latest?cb=20230621013711"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gold-l4548",
+                "toy_number": "L4548",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "5/11",
+                    "model_name": "'70 Chevy Chevelle",
+                    "tampos": "Hot Wheels logo, Black & Orange stripes & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/78/2007-G05-70ChevyChevelle.jpg/revision/latest?cb=20250126233530"
+                }
+            },
+            {
+                "release_id": "0-g-machines-yellow-l4549",
+                "toy_number": "L4549",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "6/11",
+                    "model_name": "'69 Dodge Charger",
+                    "tampos": "Black roof, Black stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/2007-G6-DodgeCharger.jpg.jpg/revision/latest?cb=20250126233603"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-l4550",
+                "toy_number": "L4550",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "7/11",
+                    "model_name": "'67 Pontiac GTO",
+                    "tampos": "Orange stripe, \"Hot Wheels\" & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/2007-G7-67PontiacGTO.jpg/revision/latest?cb=20250126233637"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-l0894",
+                "toy_number": "L0894",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "8/11",
+                    "model_name": "'71 Chevy El Camino",
+                    "tampos": "Orange stripe, \"Hot Wheels\" & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/2007-G8-71ChevyElCamino.jpg/revision/latest?cb=20250126214501"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-l0895",
+                "toy_number": "L0895",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "9/11",
+                    "model_name": "'67 Chevy Nova",
+                    "tampos": "Orange stripe, \"Hot Wheels\" & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/80/2007-G09-67ChevyNova.jpg/revision/latest?cb=20250126233731"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-l4551",
+                "toy_number": "L4551",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "10/11",
+                    "model_name": "'70 Chevy Chevelle",
+                    "tampos": "Blue & Red flames on hood & sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/2007-G10-70ChevyChevelle.jpg/revision/latest?cb=20250126233757"
+                }
+            },
+            {
+                "release_id": "0-g-machines-green-l0903",
+                "toy_number": "L0903",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "11/11",
+                    "model_name": "'63 Chevy Corvette",
+                    "tampos": "Lime Green Sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/Dscn2305.jpg/revision/latest?cb=20240107011724"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-l4567",
+                "toy_number": "L4567",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "1/5",
+                    "model_name": "'70 Plymouth Barracuda",
+                    "tampos": "Yellow stripes & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/2007-E1-Barracuda.jpg/revision/latest?cb=20250126234227"
+                }
+            },
+            {
+                "release_id": "0-g-machines-dark-blue-l0893",
+                "toy_number": "L0893",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "2/5",
+                    "model_name": "'63 Chevy Corvette",
+                    "tampos": "Red & Yellow stripes, \"Corvette\" & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Dscn1545.jpg/revision/latest?cb=20240107011721",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/8/89/2007-E3-Barracuda.jpg/revision/latest?cb=20250126234138",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/2007-E4-Mustang.jpg/revision/latest?cb=20250126234201"
+                }
+            },
+            {
+                "release_id": "0-g-machines-light-blue-l4570",
+                "toy_number": "L4570",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "5/5",
+                    "model_name": "'67 Pontiac GTO",
+                    "tampos": "Black roof"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/2007-E5-PontiacGTO.jpg/revision/latest?cb=20250126234018"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-l4552",
+                "toy_number": "L4552",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "1/8",
+                    "model_name": "'71 Dodge Challenger",
+                    "tampos": "Red stripes on top & sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/02/I-01-Challenger.jpg/revision/latest?cb=20250128134835"
+                }
+            },
+            {
+                "release_id": "0-g-machines-orange-l4553",
+                "toy_number": "L4553",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "2/8",
+                    "model_name": "'70 Chevy Chevelle",
+                    "tampos": "Black stripes on top"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/94/I-02-70Chevelle.jpg/revision/latest?cb=20250128134912"
+                }
+            },
+            {
+                "release_id": "0-g-machines-metallic-gold-l4554",
+                "toy_number": "L4554",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "3/8",
+                    "model_name": "'69 Dodge Charger",
+                    "tampos": "Black stripes, HEMI on sides & rear"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/97/I-03-DodgeCharger.jpg/revision/latest?cb=20250128134937"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-l4555",
+                "toy_number": "L4555",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "4/8",
+                    "model_name": "'06 Dodge Charger SRT-8",
+                    "tampos": "Black stripes on hood & sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/19/I-04-ChargerSRT8.jpg/revision/latest?cb=20250128135007"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gold-white-l4556",
+                "toy_number": "L4556",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold & White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "5/8",
+                    "model_name": "'67 Pontiac GTO",
+                    "tampos": "White stripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/25/I-05-GTO.jpg/revision/latest?cb=20250128135129"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-gray-l4557",
+                "toy_number": "L4557",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "6/8",
+                    "model_name": "'05 Dodge Magnum",
+                    "tampos": "White stripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/be/I-06-05DodgeMagnum.jpg/revision/latest?cb=20250128135155"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-l0904",
+                "toy_number": "L0904",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "7/8",
+                    "model_name": "'71 Chevy El Camino",
+                    "tampos": "Yellow flames on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/I-07-ElCamino.jpg/revision/latest?cb=20250126214601"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-l0909",
+                "toy_number": "L0909",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "8/8",
+                    "model_name": "'67 Chevy Nova",
+                    "tampos": "Orange stripe on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/I-08-67Nova.jpg/revision/latest?cb=20250128135302",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/0/04/2007-H1-71DodgeChallenger.jpg/revision/latest?cb=20250126234347"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gray-red-l4575",
+                "toy_number": "L4575",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray & Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "2/4",
+                    "model_name": "'69 Dodge Charger",
+                    "tampos": "Red stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/2007-H2-69DodgeCharger.jpg/revision/latest?cb=20250126234411"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-blue-l0912",
+                "toy_number": "L0912",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "series": "3/4",
+                    "model_name": "'63 Chevy Corvette",
+                    "tampos": "Blue & Red stripes on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/Dscn1658.jpg/revision/latest?cb=20240107011723",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/3/36/2007-H4-70PlymouthBarracuda.jpg/revision/latest?cb=20250126234442",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/J-01-68Mustang.jpg/revision/latest?cb=20250126234609",
+                    "3": "https://static.wikia.nocookie.net/hotwheels/images/5/51/230621194822.jpg/revision/latest?cb=20230621114831",
+                    "4": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/J-03-70Barracuda.jpg/revision/latest?cb=20250126234638",
+                    "5": "https://static.wikia.nocookie.net/hotwheels/images/4/45/J-04-71Challenger.jpg/revision/latest?cb=20250126234710",
+                    "6": "https://static.wikia.nocookie.net/hotwheels/images/4/47/J-05-68Camaro.jpg/revision/latest?cb=20250126234741",
+                    "7": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/J-06-70Mustang.jpg/revision/latest?cb=20250126234810",
+                    "8": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/J-07-67PontiacGTO.jpg/revision/latest?cb=20250126234840",
+                    "9": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/J-08-70Chevelle.jpg/revision/latest?cb=20250126234913",
+                    "10": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/Z-SEMA-67GTO.jpg/revision/latest?cb=20250127120216"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gold-m2342",
+                "toy_number": "M2342",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'70 Pontiac GTO",
+                    "tampos": "Red stripe on hood, Silver \"GTO\" & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/K-01-67GTO.jpg/revision/latest?cb=20250127120346"
+                }
+            },
+            {
+                "release_id": "0-g-machines-red-m2356",
+                "toy_number": "M2356",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "'68 Chevy Camaro",
+                    "tampos": "Red stripe on hood, Silver \"GTO\" & various sponsors on sides"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/33/K-02-68Camaro.jpg/revision/latest?cb=20250127224312",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/K-05-70_PlymouthHemiCuda.jpg/revision/latest?cb=20250127224408",
+                    "3": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/K-06-69RoadRunner.jpg/revision/latest?cb=20250127224536",
+                    "4": "https://static.wikia.nocookie.net/hotwheels/images/1/16/K-07-70PlymouthGTX.jpg/revision/latest?cb=20250127224603",
+                    "5": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/K-08-70Cuda.jpg/revision/latest?cb=20250127224636",
+                    "6": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/K-09-77PontiacFirebird.jpg/revision/latest?cb=20250127224659",
+                    "7": "https://static.wikia.nocookie.net/hotwheels/images/4/48/L-01-70GTX.jpg/revision/latest?cb=20250127224727",
+                    "8": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/L-03-71Challenger.jpg/revision/latest?cb=20250127224758",
+                    "9": "https://static.wikia.nocookie.net/hotwheels/images/d/da/L-04-70Mustang.jpg/revision/latest?cb=20250127224825",
+                    "10": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/L-05-ElCamino.jpg/revision/latest?cb=20250126214715",
+                    "11": "https://static.wikia.nocookie.net/hotwheels/images/1/13/L-06-70Cuda.jpg/revision/latest?cb=20250127224907",
+                    "12": "https://static.wikia.nocookie.net/hotwheels/images/8/81/L-07-70GTO.jpg/revision/latest?cb=20250127224934",
+                    "13": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/M-01-68Camaro.jpg/revision/latest?cb=20250127225004"
+                }
+            },
+            {
+                "release_id": "0-g-machines-gray-orange-m2412",
+                "toy_number": "M2412",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray & Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "RR"
+                    },
+                    "model_name": "Petrol Charger",
+                    "tampos": "Gray & Orange stripes on hood and sides, various sponsors"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/M-02-PetrolCharger.jpg/revision/latest?cb=20250127225029",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/0/07/Dscn2883.jpg/revision/latest?cb=20240107011724",
+                    "2": "https://static.wikia.nocookie.net/hotwheels/images/4/41/N-02-71Challenger.jpg/revision/latest?cb=20250127225058",
+                    "3": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/N-03-70ChevyNova.jpg/revision/latest?cb=20250127225121",
+                    "4": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/N-04-66FordMustang.jpg/revision/latest?cb=20250127225143",
+                    "5": "https://static.wikia.nocookie.net/hotwheels/images/0/05/N-05-71Challenger.jpg/revision/latest?cb=20250127225208",
+                    "6": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Dsc_1737.jpg/revision/latest?cb=20240107011724",
+                    "7": "https://static.wikia.nocookie.net/hotwheels/images/2/22/N-07-70ChevyNova.jpg/revision/latest?cb=20250127225244",
+                    "8": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/N-08-70ChevyNova.jpg/revision/latest?cb=20250127225314",
+                    "9": "https://static.wikia.nocookie.net/hotwheels/images/1/18/N-09-70ChevyNova.jpg/revision/latest?cb=20250127225338",
+                    "10": "https://static.wikia.nocookie.net/hotwheels/images/6/69/N-10-66FordMustang.jpg/revision/latest?cb=20250127225359",
+                    "11": "https://static.wikia.nocookie.net/hotwheels/images/5/51/X-CamaroGreen.jpg/revision/latest?cb=20250127225516",
+                    "12": "https://static.wikia.nocookie.net/hotwheels/images/2/20/X-ChallengerBlue.jpg/revision/latest?cb=20250127225537",
+                    "13": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/X-ChallengerConceptSilver.jpg/revision/latest?cb=20250127225603",
+                    "14": "https://static.wikia.nocookie.net/hotwheels/images/9/92/X-ChargerMostarda.jpg/revision/latest?cb=20250127225651",
+                    "15": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/X-ChargerOrange.jpg/revision/latest?cb=20250127225711",
+                    "16": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/X-ChevelleBlackOrange.jpg/revision/latest?cb=20250127225731",
+                    "17": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/X-MustangMostarda.jpg/revision/latest?cb=20250127225755",
+                    "18": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-roof-orange-stripes-on-sides-68-camaro",
+                "toy_number": "'68 Camaro",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black roof, Orange stripes on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-black-roof-orange-stripes-on-sides-68-mustang",
+                "toy_number": "'68 Mustang",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black roof, Orange stripes on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Orange",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-green-stripes-on-hood-and-sides-68-mustang",
+                "toy_number": "'68 Mustang",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green stripes on hood and sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "",
+                        "1": "RR"
+                    },
+                    "casting_name": "Green",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-5-on-sides-and-hood-yellows-stripes-and-various-sponsors-on-sides-68-camaro",
+                "toy_number": "'68 Camaro",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"5\" on sides and hood, Yellows stripes and various sponsors on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Dark Blue",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-yellow-stripes-on-top-68-camaro",
+                "toy_number": "'68 Camaro",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow stripes on top",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "White",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-stripes-on-sides-68-camaro",
+                "toy_number": "'68 Camaro",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver stripes on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "",
+                        "1": "RR"
+                    },
+                    "casting_name": "Purple",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-stripes-on-top-ford-67-and-various-sponsors-on-sides-68-mustang",
+                "toy_number": "'68 Mustang",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White stripes on top, \"Ford\", \"67\" and various sponsors on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red & Silver",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-orange-stripes-on-hood-and-sides-68-mustang",
+                "toy_number": "'68 Mustang",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange stripes on hood and sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Black",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-stripe-on-sides-68-mustang",
+                "toy_number": "'68 Mustang",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White stripe on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "",
+                        "1": "RR"
+                    },
+                    "casting_name": "Green",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/2007-04-1-Challenger.jpg/revision/latest?cb=20250126230003"
+                }
+            },
+            {
+                "release_id": "0-g-machines-silver-stripes-on-top-shelby-cobra-427-sc",
+                "toy_number": "Shelby Cobra 427 S/C",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver stripes on top",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Blue",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": "Came with \"Hot Wheels\" Hat"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/2007-02-1-Cobra.jpg/revision/latest?cb=20250126225823"
+                }
+            },
+            {
+                "release_id": "0-g-machines-white-stripes-on-top-and-sides-66-ford-mustang",
+                "toy_number": "'66 Ford Mustang",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White stripes on top and sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Red",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": "Came with \"Hot Wheels\" Hat"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/2007-01-1-66Mustang.jpg/revision/latest?cb=20250126225754"
+                }
+            },
+            {
+                "release_id": "0-g-machines-blue-stripe-on-hood-red-stripes-on-sides-pontiac-gto",
+                "toy_number": "Pontiac GTO",
+                "casting_id": "g-machines",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue Stripe on hood, Red Stripes on sides",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "casting_name": "Silver & Blue",
+                    "tampos": "RR",
+                    "photo_loose": "",
+                    "photo_boxed": "Came with \"Hot Wheels\" Hat"
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/04-67-GTO-b.jpg/revision/latest?cb=20250126221800"
+                }
+            }
+        ]
+    }
+]

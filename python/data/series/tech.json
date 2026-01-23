@@ -1,0 +1,15 @@
+{
+    "series_id": "tech",
+    "name": "Tech",
+    "description": "Hot Wheels Tech Series",
+    "releases": [
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18811.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18811.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18812.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18812.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18813.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18813.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18814.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18814.json"
+    ]
+}

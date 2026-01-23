@@ -1,0 +1,327 @@
+[
+    {
+        "casting_id": "shogun-racers",
+        "name": "Shogun Racers",
+        "description": {
+            "en-us": "Shogun Racers Morphing Tuners™ is a series of large scale transforming cars released in 2001 . Each cars' transformation is suited to racing on a specific type of terrain. Every vehicle came with a manga styled comic and diorama base. Only 6 unique comics were made, later recolors reused the comics from the original releases.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Shogun",
+        "releases": [
+            {
+                "release_id": "0-shogun-racers-purple-28874",
+                "toy_number": "28874",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Air Racer",
+                    "comic": "#1"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-grey-28875",
+                "toy_number": "28875",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Sea Racer",
+                    "comic": "#3"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-red-28879",
+                "toy_number": "28879",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Snow Racer",
+                    "comic": "#5"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-black-28877",
+                "toy_number": "28877",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Air Racer",
+                    "comic": "#2"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/Sho_Gun_%2812%29.JPG/revision/latest?cb=20221003172513"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-yellow-28878",
+                "toy_number": "28878",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Sea Racer",
+                    "comic": "#4"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-silver-28876",
+                "toy_number": "28876",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Snow Racer",
+                    "comic": "#6"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-unknown-28874",
+                "toy_number": "28874",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Unknown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Air Racer",
+                    "comic": "#1"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/01/INA.jpg/revision/latest?cb=20250129021727"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-orange-28875",
+                "toy_number": "28875",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Sea Racer",
+                    "comic": "#3"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/SeaRacerOrangeBox.jpg/revision/latest?cb=20250807054716"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-gold-28879",
+                "toy_number": "28879",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Snow Racer",
+                    "comic": "#5"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/SnowRacerGoldBox.jpg/revision/latest?cb=20250807054740"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-blue-28877",
+                "toy_number": "28877",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Air Racer",
+                    "comic": "#2"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/AirRacerBlueBox.jpg/revision/latest?cb=20250807054646"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-green-28878",
+                "toy_number": "28878",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Sea Racer",
+                    "comic": "#4"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/SeaRacerGreenBox.jpg/revision/latest?cb=20250807054700"
+                }
+            },
+            {
+                "release_id": "0-shogun-racers-black-28876",
+                "toy_number": "28876",
+                "casting_id": "shogun-racers",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "car": "Snow Racer",
+                    "comic": "#6"
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/SnowRacerBlackBox.jpg/revision/latest?cb=20250807054726"
+                }
+            }
+        ]
+    }
+]

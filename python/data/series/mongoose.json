@@ -1,0 +1,13 @@
+{
+    "series_id": "mongoose",
+    "name": "Mongoose",
+    "description": "Hot Wheels Mongoose Series",
+    "releases": [
+        "../data/releases/1971/1971-mongoose-dark-blue-5954.json",
+        "../data/releases/1971/1971-mongoose-light-blue-5954.json",
+        "../data/releases/1971/1971-snake-enamel-white-5953-v2.json",
+        "../data/releases/1971/1971-snake-enamel-white-5953.json",
+        "../data/releases/1994/1994-mongoose-dark-blue-10783.json",
+        "../data/releases/2005/2005-mongoose-red-h9604.json"
+    ]
+}

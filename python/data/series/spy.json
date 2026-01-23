@@ -1,0 +1,15 @@
+{
+    "series_id": "spy",
+    "name": "Spy",
+    "description": "Hot Wheels Spy Series",
+    "releases": [
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16927.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16927.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16928.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16928.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16929.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16929.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16962.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16962.json"
+    ]
+}

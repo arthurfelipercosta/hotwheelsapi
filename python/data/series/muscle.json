@@ -1,0 +1,10 @@
+{
+    "series_id": "muscle",
+    "name": "Muscle",
+    "description": "Hot Wheels Muscle Series",
+    "releases": [
+        "../data/releases/2011/2011-olds-442-metallic-red-v0028.json",
+        "../data/releases/2011/2011-olds-442-metallic-teal-t9816-v2.json",
+        "../data/releases/2011/2011-olds-442-metallic-teal-t9816.json"
+    ]
+}

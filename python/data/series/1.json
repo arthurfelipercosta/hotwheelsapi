@@ -1,0 +1,15 @@
+{
+    "series_id": "1",
+    "name": "1",
+    "description": "Hot Wheels 1 Series",
+    "releases": [
+        "../data/releases/unknown/0-mario-kart-red-gvd31.json",
+        "../data/releases/unknown/0-mario-kart-red-gvd31.json",
+        "../data/releases/unknown/0-mario-kart-white-gvd34.json",
+        "../data/releases/unknown/0-mario-kart-white-gvd34.json",
+        "../data/releases/unknown/0-mario-kart-yellow-gvd32.json",
+        "../data/releases/unknown/0-mario-kart-yellow-gvd32.json",
+        "../data/releases/unknown/0-mario-kart-yellow-gvd33.json",
+        "../data/releases/unknown/0-mario-kart-yellow-gvd33.json"
+    ]
+}

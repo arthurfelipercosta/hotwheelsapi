@@ -1,0 +1,919 @@
+[
+    {
+        "casting_id": "custom-t-bird",
+        "name": "Custom T-Bird",
+        "description": {
+            "en-us": "Custom T-Bird Debut series 1968 Hot Wheels Produced 1968 - 1970 (Original) 2018 - 2025 ( Retool ) Designer Harry Bradley (Original) Mark Jones ( Retool ) Number 6207",
+            "pt-br": ""
+        },
+        "designer": "Harry Bradley (Original) Mark Jones ( Retool )",
+        "debut_year": 1968,
+        "manufacturer": "Custom",
+        "releases": [
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-light-blue-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-blue-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/1968_USA_Custom_T-Bird_Blue.jpg/revision/latest?cb=20211216191108"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-blue-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "No Black Roof Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-aqua-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/Custom_T-Bird_Aqua.jpg/revision/latest?cb=20230418044039"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-aqua-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "No Black Roof Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-aqua-6207-v3",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Door Lines Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-green-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-green-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "No Black Roof Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-olive-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Very Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-gold-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-gold-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Dark",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "No Black Roof Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-gold-6207-v3",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "No Black Roof Store Display Very Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Custom_T-Bird_Store_Display.jpeg/revision/latest?cb=20241028232209"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-gold-6207-v4",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Door Lines Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/Custom_T-Bird_Doorline_Gold.jpg/revision/latest?cb=20230418044053"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-antifreeze-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-antifreeze-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "No Black Roof Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-antifreeze-6207-v3",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Door Lines Very Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-orange-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-copper-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/1968_TBIRD_Copper-Lt_brown_US_dark_Int.jpg/revision/latest?cb=20130222172005"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-red-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-red-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "No Black Roof \"Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Customtbirdred.jpg/revision/latest?cb=20080308182722"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-purple-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-purple-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Clear",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "USA",
+                "notes": "No Black Roof Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-blue-6207-v3",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-aqua-6207-v4",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/18/Custom_T-Bird_Aqua_with_black_roof.JPG/revision/latest?cb=20120910210746"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-green-6207-v3",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "Hard to Find",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/1968_Custom_T-Bird_Spectraflame_Green.jpg/revision/latest?cb=20220409151329"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-olive-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Olive",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-copper-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-gold-6207-v5",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/1968_HK_Custom_T-Bird_Gold.jpg/revision/latest?cb=20211216184641"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-orange-6207-v2",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-red-6207-v3",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-creamy-pink-6207",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Creamy Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/99/1968_HK_Custom_T-Bird_Creamy_Pink.jpg/revision/latest?cb=20211216191555"
+                }
+            },
+            {
+                "release_id": "1968-custom-t-bird-spectraflame-purple-6207-v3",
+                "toy_number": "6207",
+                "casting_id": "custom-t-bird",
+                "year": 1968,
+                "series_id": "1968",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "ZAMAC",
+                    "window_color": "Blue tint",
+                    "interior_color": "Multiple",
+                    "wheel_type": {
+                        "0": "RL"
+                    },
+                    "stickers": "None"
+                },
+                "country": "Hong Kong",
+                "notes": "Rare",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2018-custom-t-bird-spectraflame-olive-fcm75",
+                "toy_number": "FCM75",
+                "casting_id": "custom-t-bird",
+                "year": 2018,
+                "series_id": "hotwheelscollectorscom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame olive",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Cream",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "graphics": "\"BG BAD BRD\" California License Plate",
+                    "base_color_types": "Chrome / Metal"
+                },
+                "country": "China",
+                "notes": "6,000 produced Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/da/Custom_T-Bird_-_18_HWCO16_1200pxOTD.png/revision/latest?cb=20180326071744"
+                }
+            },
+            {
+                "release_id": "2018-custom-t-bird-spectraflame-pink-fnc23",
+                "toy_number": "FNC23",
+                "casting_id": "custom-t-bird",
+                "year": 2018,
+                "series_id": "hotwheelscollectorscom",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Light blue tint",
+                    "interior_color": "Cream",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "graphics": "Black Grille, Tail Lights, Black Rear Panel, Black Roof",
+                    "base_color_types": "Chrome / Metal"
+                },
+                "country": "China",
+                "notes": "1,500 produced Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/HWC_Original_16_Display_Set_Custom_T-Bird.jpg/revision/latest?cb=20190302011235"
+                }
+            },
+            {
+                "release_id": "2025-custom-t-bird-metallic-teal-hxd50-jkn09-signed",
+                "toy_number": "HXD50 JKN09 (signed)",
+                "casting_id": "custom-t-bird",
+                "year": 2025,
+                "series_id": "hot",
+                "series_index": null,
+                "specs": {
+                    "color": "Metallic teal",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Light blue tint",
+                    "interior_color": "White",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    },
+                    "graphics": "Karbombz! style artwork on sides and body, \"KENNY SCHARF\" on rear white license plate",
+                    "base_color_types": "Chrome / Metal"
+                },
+                "country": "China",
+                "notes": "Named Kenny Scharf's \"ZOOOM!\" Custom T-Bird Production code(s): 2884EAA, 2914EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/IMG_2973.JPG/revision/latest?cb=20250614210836"
+                }
+            },
+            {
+                "release_id": "2025-custom-t-bird-spectraflame-ruby-red-jcp66",
+                "toy_number": "JCP66",
+                "casting_id": "custom-t-bird",
+                "year": 2025,
+                "series_id": "mattel",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Ruby Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "graphics": "Black grille, taillights",
+                    "base_color_types": "Chrome / Metal"
+                },
+                "country": "China",
+                "notes": "4,120 sets Opening Hood Production code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

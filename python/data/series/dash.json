@@ -1,0 +1,15 @@
+{
+    "series_id": "dash",
+    "name": "Dash",
+    "description": "Hot Wheels Dash Series",
+    "releases": [
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18787.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18787.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18788.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18788.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18789.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18789.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18790.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18790.json"
+    ]
+}

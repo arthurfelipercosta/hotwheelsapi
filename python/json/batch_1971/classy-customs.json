@@ -1,0 +1,351 @@
+[
+    {
+        "casting_id": "classy-customs",
+        "name": "Classy Customs",
+        "description": {
+            "en-us": "The Classy Customs series was one of seven themes as part of what some call the \"Patch Cards\". You could mail in six proofs of purchase and 25 cents for shipping and handling to receive one patch. These were produced in 1978 and 1979, and all were made in Hong Kong. Several of these models were also found on the Flying Colors cards.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Classy",
+        "releases": [
+            {
+                "release_id": "0-classy-customs-magenta-2511",
+                "toy_number": "2511",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Magenta",
+                    "tampo": "Yellow, Orange, White, stripes with stars",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "60",
+                    "vehicle_name": "Bubble Gunner",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/Bubble_Gunner_Mag_L.JPG/revision/latest?cb=20090924141354"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-gold-chrome-6976",
+                "toy_number": "6976",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gold Chrome",
+                    "tampo": "Red, Dark Red &Black \"the Golden One\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "6",
+                    "vehicle_name": "Buzz Off",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/BuzzOff_GoldBW.JPG/revision/latest?cb=20110320115955"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-light-green-6980",
+                "toy_number": "6980",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Green",
+                    "tampo": "Dark Green & Orange Swirl",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "8",
+                    "vehicle_name": "Ice 'T'",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/1974_Lt_Green_ICE_T_BW.jpg/revision/latest?cb=20130128204151"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-grey-2510",
+                "toy_number": "2510",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "Red, Yellow & Blue tampos on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "55",
+                    "vehicle_name": "Inside Story",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/Inside_Story_GryL.JPG/revision/latest?cb=20091003040156"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-orange-9211",
+                "toy_number": "9211",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "Maroon, Purple and White \"4\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "41",
+                    "vehicle_name": "Large Charge",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/Large_Charge_Org.JPG/revision/latest?cb=20090219222652"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-navy-blue-6966",
+                "toy_number": "6966",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Navy Blue",
+                    "tampo": "Gold \"Police\" and \"3\" on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "3",
+                    "vehicle_name": "Paddy Wagon",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/Paddy_Wagon_BW77.JPG/revision/latest?cb=20090301195114"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-red-6964",
+                "toy_number": "6964",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "None",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "2",
+                    "vehicle_name": "Red Baron",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e3/Red_Baron_RedBWR.JPG/revision/latest?cb=20091029143240"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-white-2018",
+                "toy_number": "2018",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Yellow, Black and Red",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "47",
+                    "vehicle_name": "Science Friction",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Science_friction_bw.JPG/revision/latest?cb=20080329080045"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-white-9644",
+                "toy_number": "9644",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Red, Yellow, Purple \"5\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "24",
+                    "vehicle_name": "Second Wind",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/88/Second_Wind_WhtBWGrn.JPG/revision/latest?cb=20090929030402"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-red-2503",
+                "toy_number": "2503",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "'M-8 Rescue' on sides, circuit board on top",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "7",
+                    "vehicle_name": "Spacer Racer",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/60/Spacer_Racer_Red.JPG/revision/latest?cb=20090106144927"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-light-green-9641",
+                "toy_number": "9641",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Green",
+                    "tampo": "Black, Red and Yellow \"Spoiler Sport\" and sunset graphics",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "16",
+                    "vehicle_name": "Spoiler Sport",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "2 small windows in rear",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/Spoiler_Sport_-_6425df.jpg/revision/latest?cb=20081112091549"
+                }
+            },
+            {
+                "release_id": "0-classy-customs-brown-2020",
+                "toy_number": "2020",
+                "casting_id": "classy-customs",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Brown",
+                    "tampo": "Orange & Yellow tampos on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BW"
+                    },
+                    "collector": "13",
+                    "vehicle_name": "Stagefright",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Stagefright_loose.JPG/revision/latest?cb=20080328051159"
+                }
+            }
+        ]
+    }
+]

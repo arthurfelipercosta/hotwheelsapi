@@ -1,0 +1,1695 @@
+[
+    {
+        "casting_id": "cool-classics",
+        "name": "Cool Classics",
+        "description": {
+            "en-us": "Hot Wheels Cool Classics was first released in 2013. They are marketed towards adult collectors and were priced around $3.99 ( USD ). Each car features a metal base, Spectrafrost colors, and Retro Slot Wheels .  All were made in Thailand.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Cool",
+        "releases": [
+            {
+                "release_id": "0-cool-classics-spectrafrost-gold-y9424",
+                "toy_number": "Y9424",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/30",
+                    "model_name": "'63 Chrysler Turbine",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/DSC_0002.jpg/revision/latest?cb=20130903023132"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-red-y9425",
+                "toy_number": "Y9425",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/30",
+                    "model_name": "Blastous Moto",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/HW-Cool_Classics--02-Blastous_Moto.jpg/revision/latest?cb=20140226024950"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-orange-y9426",
+                "toy_number": "Y9426",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/30",
+                    "model_name": "'63 Plymouth Belvedere 426 Wedge",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/af/63_Plymouth_Belvedere_426_Wedge_01.jpg/revision/latest?cb=20130907011424"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-purple-y9427",
+                "toy_number": "Y9427",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/30",
+                    "model_name": "'40 Ford Coupe",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/73/40-ford-coupe_hot-wheels_cool-classics_1.jpg/revision/latest?cb=20140121180050"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-blue-y9428",
+                "toy_number": "Y9428",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "5/30",
+                    "model_name": "'65 Mercury Comet Cyclone",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/06/Mercury_Comet_Cyclone_01.jpg/revision/latest?cb=20130907011245"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-antifreeze-y9429",
+                "toy_number": "Y9429",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "6/30",
+                    "model_name": "Turbo Mustang",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Turbo_Mustang-0.jpg/revision/latest?cb=20160829112626"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-purple-y9430",
+                "toy_number": "Y9430",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "7/30",
+                    "model_name": "'67 Pontiac Firebird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/Hot_Wheels_2013_Cool_Classics_67_Pontiac_Firebird_400.jpg/revision/latest?cb=20131206155742"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-red-y9431",
+                "toy_number": "Y9431",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "8/30",
+                    "model_name": "'67 Ford Mustang Coupe",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Hot_Wheels_2013_Cool_Classics_67_Custom_Ford_Mustang_Coupe.jpg/revision/latest?cb=20140220161216"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-gold-y9432",
+                "toy_number": "Y9432",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "9/30",
+                    "model_name": "Custom V-8 Vega",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/HW-Cool_Classics--09-Custom_V_8_Vega.jpg/revision/latest?cb=20140226025136"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-pink-y9433",
+                "toy_number": "Y9433",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "10/30",
+                    "model_name": "T-Bucket",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/44/HW-Cool_Classics--10-T_Bucket.jpg/revision/latest?cb=20140226025238"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-green-y9434",
+                "toy_number": "Y9434",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "11/30",
+                    "model_name": "AMC Rebel Machine",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/Hot_Wheels_2013_Cool_Classics_AMC_Rebel_Machine.jpg/revision/latest?cb=20131206155519"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-black-y9435",
+                "toy_number": "Y9435",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "12/30",
+                    "model_name": "'65 Mustang",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Cars_001.jpg/revision/latest?cb=20140103012700"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-blue-y9436",
+                "toy_number": "Y9436",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "13/30",
+                    "model_name": "Shelby Cobra \"Daytona\" Coupe",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/HW-Cool_Classics--13-Shelby_Cobra_Daytona_Coupe.jpg/revision/latest?cb=20140226025355"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-red-y9437",
+                "toy_number": "Y9437",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "14/30",
+                    "model_name": "Volkswagen Beetle",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ec/WP_20131205_005.jpg/revision/latest?cb=20131206043540"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-antifreeze-y9438",
+                "toy_number": "Y9438",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "15/30",
+                    "model_name": "'67 Oldsmobile 442",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/86/HW-Cool_Classics--15-%2767_Oldsmobile.jpg/revision/latest?cb=20140226025537"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-gray-y9439",
+                "toy_number": "Y9439",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "16/30",
+                    "model_name": "'69 Mercury Cyclone",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/HW-Cool_Classics--16-%2769_Mercury_Cyclone.jpg/revision/latest?cb=20140226025652"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-aqua-y9440",
+                "toy_number": "Y9440",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "17/30",
+                    "model_name": "'51 Buick LeSabre Concept",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/LeSabreConcept.Side.JPG/revision/latest?cb=20180729023206"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-gold-y9441",
+                "toy_number": "Y9441",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "18/30",
+                    "model_name": "'62 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/HW-Cool_Classics--18-%2762_Chevy.jpg/revision/latest?cb=20140226025813"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-copper-y9442",
+                "toy_number": "Y9442",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "19/30",
+                    "model_name": "Chevelle SS Express",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/HW-Cool_Classics--19-Chevelle_SS_Express.jpg/revision/latest?cb=20140226025912"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-pink-y9443",
+                "toy_number": "Y9443",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "20/30",
+                    "model_name": "'64 Impala",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c6/HW-Cool_Classics--20-%2764_Impala.jpg/revision/latest?cb=20140226030013"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-antifreeze-y9444",
+                "toy_number": "Y9444",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "21/30",
+                    "model_name": "Plymouth Duster Thruster",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Cars_002.jpg/revision/latest?cb=20140103012605"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-purple-y9445",
+                "toy_number": "Y9445",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "22/30",
+                    "model_name": "1957 Chrysler 300",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/HW-Cool_Classics--22-1957_Chrysler_300.jpg/revision/latest?cb=20140226030110"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-blue-y9446",
+                "toy_number": "Y9446",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "23/30",
+                    "model_name": "Dixie Challenger",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/Dixie_Challanger.jpg/revision/latest?cb=20140103010811"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-red-y9447",
+                "toy_number": "Y9447",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "24/30",
+                    "model_name": "'68 Hemi Barracuda",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/HW-Cool_Classics--24-%2768_Hemi_Barracuda.jpg/revision/latest?cb=20140226030232"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-green-y9448",
+                "toy_number": "Y9448",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "25/30",
+                    "model_name": "1968 Mercury Cougar",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/%2768_Cougar-2013_Cool_Classics.jpg/revision/latest?cb=20170804145649"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-blue-y9449",
+                "toy_number": "Y9449",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "26/30",
+                    "model_name": "'67 Shelby GT500",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/20250429092013.jpg/revision/latest?cb=20250429142104"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-black-y9450",
+                "toy_number": "Y9450",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "27/30",
+                    "model_name": "'61 Impala",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/HW-Cool_Classics--27-%2761_Impala.jpg/revision/latest?cb=20140226030516"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-pink-y9451",
+                "toy_number": "Y9451",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "28/30",
+                    "model_name": "'68 COPO Camaro",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/2013-28-CoolClassics-68COPOCamaro-Pink-Carded.jpg/revision/latest?cb=20140218203645"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-copper-y9452",
+                "toy_number": "Y9452",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "29/30",
+                    "model_name": "'70 Ford Mustang Mach 1",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/2013-29-CoolClassics-70FordMustangMach1-Orange-Carded.jpg/revision/latest?cb=20140218203607"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-gold-y9453",
+                "toy_number": "Y9453",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "30/30",
+                    "model_name": "Custom '53 Chevy",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/65/HW-Cool_Classics--30-Custom_%2753_Chevy.jpg/revision/latest?cb=20140226030659"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-black-bdr22",
+                "toy_number": "BDR22",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "1/30",
+                    "model_name": "'32 Ford",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/28/HW-2014-Cool_Classics--01-%2732_Ford.jpg/revision/latest?cb=20140709022146"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-orange-bdr31",
+                "toy_number": "BDR31",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "2/30",
+                    "model_name": "1987 Toyota Pickup",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/77/2014-CoolClassics-2-1987ToyotaPickup-Orange-Carded.jpg/revision/latest?cb=20140218204811"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-antifreeze-bdr24",
+                "toy_number": "BDR24",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "3/30",
+                    "model_name": "'67 Pontiac Firebird 400",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/67_Pontiac_Firebird_400_%28BDR24%29.jpg/revision/latest?cb=20170919005022"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-blue-bdr25",
+                "toy_number": "BDR25",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "4/30",
+                    "model_name": "'77 Pontiac Firebird",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/2014-CoolClassics-4-77PontiacFirebird-Blue-Carded.jpg/revision/latest?cb=20140218204836"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-gold-bdr26",
+                "toy_number": "BDR26",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "5/30",
+                    "model_name": "Chevy Camaro Concept",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/2014-CoolClassics-5-ChevyCamaroConcept-Gold-Carded.jpg/revision/latest?cb=20140218204848"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-purple-bdr27",
+                "toy_number": "BDR27",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "6/30",
+                    "model_name": "Purple Passion",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/HW-2014-Cool_Classics--06-Purple_Passion.jpg/revision/latest?cb=20140709022219"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-brown-bdr28",
+                "toy_number": "BDR28",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "7/30",
+                    "model_name": "'29 Ford Pickup",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/HW-2014-Cool_Classics--07-%2729_Ford_Pick_Up.JPG/revision/latest?cb=20140413041048"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-dark-blue-bdr29",
+                "toy_number": "BDR29",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "8/30",
+                    "model_name": "'67 Camaro",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/HW-2014-Cool_Classics--08-%2767_Camaro.jpg/revision/latest?cb=20140709022257"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-yellow-bdr30",
+                "toy_number": "BDR30",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "9/30",
+                    "model_name": "'52 Hudson Hornet",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/HW-2014-Cool_Classics--09-%2752_Hudson_Hornet.jpg/revision/latest?cb=20140709022328"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-orange-bdr23",
+                "toy_number": "BDR23",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "10/30",
+                    "model_name": "'68 Olds 442",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/HW-2014-Cool_Classics--10-%2768_Olds_442.jpg/revision/latest?cb=20140709022405"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-blue-bdr32",
+                "toy_number": "BDR32",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "11/30",
+                    "model_name": "'85 Honda CR-X",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/HW-2014-Cool_Classics--11-%2785_Honda_CR-X.jpg/revision/latest?cb=20140709022440"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-black-bdr48",
+                "toy_number": "BDR48",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "12/30",
+                    "model_name": "'73 Ford Gran Torino",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/HW-2014-Cool_Classics--12-%2773_Ford_Gran_Torino.jpg/revision/latest?cb=20140709022513"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-red-bdr34",
+                "toy_number": "BDR34",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "13/30",
+                    "model_name": "Amphicar",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/HW-2014-Cool_Classics--13-Amphicar.jpg/revision/latest?cb=20140709022551"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-pink-bdr35",
+                "toy_number": "BDR35",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "14/30",
+                    "model_name": "'47 Chevy Fleetline",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/HW-2014-Cool_Classics--14-%2747_Chevy_Fleetline.jpg/revision/latest?cb=20140420001428"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-green-bdr36",
+                "toy_number": "BDR36",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "15/30",
+                    "model_name": "Straight Pipes",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/55/HW-2014-Cool_Classics--15-Straight_Pipes.jpg/revision/latest?cb=20140709022621"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-blue-bdr37",
+                "toy_number": "BDR37",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "16/30",
+                    "model_name": "'65 Ford Galaxie",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/db/HW-2014-Cool_Classics--16-%2765_Ford_Galaxie.jpg/revision/latest?cb=20141112053327"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-antifreeze-bdr38",
+                "toy_number": "BDR38",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Antifreeze",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "17/30",
+                    "model_name": "Astro Funk",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/HW-2014-Cool_Classics--17-Astro_Funk.jpg/revision/latest?cb=20141112053356"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-black-bdr39",
+                "toy_number": "BDR39",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "18/30",
+                    "model_name": "'84 Ford Mustang SVO",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/HW-2014-Cool_Classics--18-%2784_Ford_Mustang_SVO.jpg/revision/latest?cb=20141227050607"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-purple-bdr40",
+                "toy_number": "BDR40",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "19/30",
+                    "model_name": "Volkswagen Drag Beetle",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/HW-2014-Cool_Classics--19-Volkswagen_Drag_Beetle.jpg/revision/latest?cb=20141112053427"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-copper-bdr41",
+                "toy_number": "BDR41",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Copper",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "20/30",
+                    "model_name": "1955 Corvette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/1955_Corvette_cool_classics.jpg/revision/latest?cb=20141106103820"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-aqua-bdr42",
+                "toy_number": "BDR42",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Aqua",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "21/30",
+                    "model_name": "'69 Mustang Boss 302",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/HW-2014-Cool_Classics--21-%2769_Mustang_Boss_302.jpg/revision/latest?cb=20150309042448"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-gold-bdr43",
+                "toy_number": "BDR43",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "22/30",
+                    "model_name": "'84 Hurst Olds",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/HW-2014-Cool_Classics--22-%2784_Hurst_Olds.jpg/revision/latest?cb=20150309042517"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-olive-bdr44",
+                "toy_number": "BDR44",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Olive",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "23/30",
+                    "model_name": "Honda S2000",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/HW-2014-Cool_Classics--23-Honda_S2000.jpg/revision/latest?cb=20150309042547"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-silver-bdr45",
+                "toy_number": "BDR45",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "24/30",
+                    "model_name": "Ford GT",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/0/03/HW-2014-Cool_Classics--24-Ford_GT.jpg/revision/latest?cb=20150309042607"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-red-bdr46",
+                "toy_number": "BDR46",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "25/30",
+                    "model_name": "'65 Volkswagen Fastback",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/HW-2014-Cool_Classics--25-%2765_Volkswagen_Fastback.jpg/revision/latest?cb=20150309042632"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-silver-bdr47",
+                "toy_number": "BDR47",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "26/30",
+                    "model_name": "Datsun 240Z",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/74/HW-2014-Cool_Classics--26-Datsun_240Z.jpg/revision/latest?cb=20150507024106"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-gold-bdr33",
+                "toy_number": "BDR33",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Gold",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "27/30",
+                    "model_name": "Datsun Bluebird 510",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/62/HW-2014-Cool_Classics--27-Datsun_Bluebird_510.jpg/revision/latest?cb=20150507024132"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-green-bdr49",
+                "toy_number": "BDR49",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "28/30",
+                    "model_name": "1976 Chevy Chevette",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/22/HW-2014-Cool_Classics--28-1976_Chevy_Chevette.jpg/revision/latest?cb=20150507024152"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-red-bdr50",
+                "toy_number": "BDR50",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "29/30",
+                    "model_name": "Subaru BRAT",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/HW-2014-Cool_Classics--29-Subaru_Brat.jpg/revision/latest?cb=20150507024209"
+                }
+            },
+            {
+                "release_id": "0-cool-classics-spectrafrost-blue-bdr51",
+                "toy_number": "BDR51",
+                "casting_id": "cool-classics",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectrafrost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": ""
+                    },
+                    "series": "30/30",
+                    "model_name": "'10 Ford Shelby GT500 Super Snake",
+                    "photo_loose": "",
+                    "photo_carded": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/37/HW-2014-Cool_Classics--30-%2710_Ford_Shelby_GT500_Super_Snake.jpg/revision/latest?cb=20150507024232"
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "casting_id": "classic-36-ford-coupe",
+        "name": "Classic '36 Ford Coupe",
+        "description": {
+            "en-us": "Classic '36 Ford Coupe Debut series Mainline Produced 1969 (Original) 2005 - 2011 ( Retool ) Designer Ira Gilford Number 6253",
+            "pt-br": ""
+        },
+        "designer": "Ira Gilford",
+        "debut_year": 1969,
+        "manufacturer": "Classic",
+        "releases": [
+            {
+                "release_id": "2005-classic-36-ford-coupe-spectraflame-antifreeze-h2923",
+                "toy_number": "H2923",
+                "casting_id": "classic-36-ford-coupe",
+                "year": 2005,
+                "series_id": "hwccom",
+                "series_index": 2,
+                "specs": {
+                    "color": "Spectraflame Antifreeze",
+                    "tampo": "Green & light green ghost flames on sides & hood, painted headlights, \"HW MARK\" on rear California license plate",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Tan",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "11,000 produced Rumble seat opens",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/Ford36CoupeRF.jpg/revision/latest?cb=20081217042124"
+                }
+            },
+            {
+                "release_id": "2006-classic-36-ford-coupe-spectraflame-pink-k3826",
+                "toy_number": "K3826",
+                "casting_id": "classic-36-ford-coupe",
+                "year": 2006,
+                "series_id": "rlc",
+                "series_index": null,
+                "specs": {
+                    "color": "Spectraflame Pink",
+                    "tampo": "Ghost Flames",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "2007-classic-36-ford-coupe-flat-black-l2119",
+                "toy_number": "L2119",
+                "casting_id": "classic-36-ford-coupe",
+                "year": 2007,
+                "series_id": "rlc",
+                "series_index": 1,
+                "specs": {
+                    "color": "Flat Black",
+                    "tampo": "Red design outlined in white on sides & hood, RLC logo on sides, Hot Wheels logo centered in red & white pinstriping design, painted headlights",
+                    "base_color": "Chrome",
+                    "base_type": "Metal",
+                    "window_color": "Red tint",
+                    "interior_color": "Red",
+                    "wheel_type": {
+                        "0": "NCRL"
+                    }
+                },
+                "country": "China",
+                "notes": "4,768 produced",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/2007rlcrewards36fordcoupe.jpg/revision/latest?cb=20100406083739"
+                }
+            },
+            {
+                "release_id": "2011-classic-36-ford-coupe-dark-blue-and-black-v0513",
+                "toy_number": "V0513",
+                "casting_id": "classic-36-ford-coupe",
+                "year": 2011,
+                "series_id": "11th",
+                "series_index": 4,
+                "specs": {
+                    "color": "Dark Blue and Black",
+                    "tampo": "Black & white flames on sides and hood, white pinstriping on hood and rear, 11th Annual Collectors Nationals logo on roof, \"FINALE\" on white rear license  plate, detailed headlights",
+                    "base_color": "Silver",
+                    "base_type": "Metal",
+                    "window_color": "Clear",
+                    "interior_color": "Black",
+                    "wheel_type": {
+                        "0": "RR5SP"
+                    }
+                },
+                "country": "Thailand",
+                "notes": "Finale Car 1,200 produced Base code(s): D11",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/11th_Collectors_Nationals_36_Ford_Coupe.png/revision/latest?cb=20221026090208",
+                    "1": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

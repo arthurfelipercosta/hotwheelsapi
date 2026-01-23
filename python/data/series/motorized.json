@@ -1,0 +1,11 @@
+{
+    "series_id": "motorized",
+    "name": "Motorized",
+    "description": "Hot Wheels Motorized Series",
+    "releases": [
+        "../data/releases/unknown/0-action-racers-black-2471.json",
+        "../data/releases/unknown/0-action-racers-black-2471.json",
+        "../data/releases/unknown/0-action-racers-orange-sherbet-2471.json",
+        "../data/releases/unknown/0-action-racers-orange-sherbet-2471.json"
+    ]
+}

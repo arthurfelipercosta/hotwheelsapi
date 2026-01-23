@@ -1,0 +1,23 @@
+{
+    "series_id": "silver",
+    "name": "Silver",
+    "description": "Hot Wheels Silver Series",
+    "releases": [
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13309.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13309.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13310.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13310.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13312.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13312.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13315.json",
+        "../data/releases/1995/1995-hot-wheels-by-collector-number-unknown-13315.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15268.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15268.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15269.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15269.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15270.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15270.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15271.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15271.json"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "series_id": "spoilers",
+    "name": "Spoilers",
+    "description": "Hot Wheels Spoilers Series",
+    "releases": [
+        "../data/releases/1971/1971-boss-hoss-spectraflame-apple-green-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-aqua-6499-v2.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-aqua-6499-v3.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-aqua-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-blue-6499-v2.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-blue-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-brown-6499-v2.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-brown-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-green-6499-v2.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-green-6499-v3.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-green-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-olive-6499-v2.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-olive-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-orange-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-pink-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-purple-6499-v2.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-purple-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-red-6499-v2.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-red-6499-v3.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-red-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-rose-6499.json",
+        "../data/releases/1971/1971-boss-hoss-spectraflame-watermelon-6499.json"
+    ]
+}

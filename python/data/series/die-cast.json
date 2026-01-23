@@ -1,0 +1,19 @@
+{
+    "series_id": "die-cast",
+    "name": "Die Cast",
+    "description": "Hot Wheels Die Cast Series",
+    "releases": [
+        "../data/releases/unknown/0-action-racers-blue-2440.json",
+        "../data/releases/unknown/0-action-racers-blue-2440.json",
+        "../data/releases/unknown/0-action-racers-blue-8818.json",
+        "../data/releases/unknown/0-action-racers-blue-8818.json",
+        "../data/releases/unknown/0-action-racers-bubblegum-pink-greenish-grey-2441.json",
+        "../data/releases/unknown/0-action-racers-bubblegum-pink-greenish-grey-2441.json",
+        "../data/releases/unknown/0-action-racers-neon-orange-2440-v2.json",
+        "../data/releases/unknown/0-action-racers-neon-orange-2440-v2.json",
+        "../data/releases/unknown/0-action-racers-purple-2453.json",
+        "../data/releases/unknown/0-action-racers-purple-2453.json",
+        "../data/releases/unknown/0-action-racers-red-2441.json",
+        "../data/releases/unknown/0-action-racers-red-2441.json"
+    ]
+}

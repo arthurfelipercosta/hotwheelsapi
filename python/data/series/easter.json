@@ -1,0 +1,8 @@
+{
+    "series_id": "easter",
+    "name": "Easter",
+    "description": "Hot Wheels Easter Series",
+    "releases": [
+        "../data/releases/2013/2013-olds-442-pink-y2084.json"
+    ]
+}

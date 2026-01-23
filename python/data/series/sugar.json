@@ -1,0 +1,23 @@
+{
+    "series_id": "sugar",
+    "name": "Sugar",
+    "description": "Hot Wheels Sugar Series",
+    "releases": [
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18807.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18807.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18808.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18808.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18809.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18809.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18810.json",
+        "../data/releases/1998/1998-hot-wheels-by-collector-number-unknown-18810.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21317.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21317.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21318.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21318.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21319.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21319.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21320.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21320.json"
+    ]
+}

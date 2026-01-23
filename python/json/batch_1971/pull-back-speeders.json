@@ -1,0 +1,4037 @@
+[
+    {
+        "casting_id": "pull-back-speeders",
+        "name": "Pull-Back Speeders",
+        "description": {
+            "en-us": "Pull-Back Speeders are a line of 1:43 scale pull-back cars with moving parts, featuring a mix of licensed and fantasy castings. Not to be confused with the unrelated 1:43 Pull-Backs . Notably all cars are marked as made in Thailand or China.",
+            "pt-br": ""
+        },
+        "designer": "Unknown",
+        "debut_year": null,
+        "manufacturer": "Pull-Back",
+        "releases": [
+            {
+                "release_id": "0-pull-back-speeders-metalflake-blue-hpr71",
+                "toy_number": "HPR71",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome DD8"
+                    },
+                    "casting_name": "Bone Shaker",
+                    "tampos": "Black & White Flames, Skull, HW Logo",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s): S20A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/B86B8C58-6BCA-43E1-B7E6-83056192F27D.jpg/revision/latest?cb=20230909011658"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-hpr72",
+                "toy_number": "HPR72",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "casting_name": "Twin Mill",
+                    "tampos": "Black & Silver Scallop design, White HW Logo and \"5\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s): S21A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/TwinMillPBS.jpg/revision/latest?cb=20240929121931"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-hpr83",
+                "toy_number": "HPR83",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black DD8"
+                    },
+                    "casting_name": "Fusion Busta",
+                    "tampos": "Red & White Stripe Design, \"Screaming Skullz\", Skull",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/FusionBusta2023PullBackSpeeders.jpg/revision/latest?cb=20250206030443"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-orange-hpr79",
+                "toy_number": "HPR79",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "casting_name": "Porsche 911 GT3",
+                    "tampos": "Black Stripes, \"Porsche\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/PullbackSpeedersPorsche911GT32023Orange.jpg/revision/latest?cb=20240109070854"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-moody-blue-hpr75",
+                "toy_number": "HPR75",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte \"Moody\" Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Copper Lip PR5"
+                    },
+                    "casting_name": "Muscle & Blown",
+                    "tampos": "Gold circle, \"53\", \"DIMA Fabrication\" on sides, stripe design",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Pullback-blown.jpeg/revision/latest?cb=20240103030738"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-silver-hpr76",
+                "toy_number": "HPR76",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Lip PR5 & DD8"
+                    },
+                    "casting_name": "Lolux",
+                    "tampos": "Pink stripe design, Bright Blue stripe, Dark Blue \"Lolux\" and Skull",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/PullbackSpeedersLolux2023Silver.jpg/revision/latest?cb=20240109070827"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-light-blue-hpr77",
+                "toy_number": "HPR77",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Lip AeroDisc"
+                    },
+                    "casting_name": "Mighty K",
+                    "tampos": "Red Zig Zag pattern, White & Black \"ASADA Tire Shop\", Japanese text, HW logo, various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/5A52A3DF-011A-4047-94DD-537CB481DF53.jpg/revision/latest?cb=20230909011120"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hpr86",
+                "toy_number": "HPR86",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome BLOR"
+                    },
+                    "casting_name": "GMC Hummer EV",
+                    "tampos": "Black grille detail, White \"HUMMER\", Light Detail",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/67399DC7-4B85-49F7-9226-95109BCE8097.jpg/revision/latest?cb=20230909010004"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-light-blue-hpr81",
+                "toy_number": "HPR81",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White AeroDisc & White Lip PR5"
+                    },
+                    "casting_name": "GT-Scorcher",
+                    "tampos": "White, Black & Pink striping, \"GT-Scorcher\", \"2\", various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/PullbackSpeedersGTScorcer2023.jpg/revision/latest?cb=20240109070728"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-brown-hpr87",
+                "toy_number": "HPR87",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip DD8"
+                    },
+                    "casting_name": "Bone Shaker",
+                    "tampos": "White skull with tan helmet and wings, \"H/W\", Black scallops",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/PullbackShaker.jpg/revision/latest?cb=20241210022123"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-blue-hpr80",
+                "toy_number": "HPR80",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome DD8"
+                    },
+                    "casting_name": "Heavy Hitcher",
+                    "tampos": "Silver, Red & White stripes, Black checker pattern, \"Team Towing\", \"68\", HW Logo",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/HeavyHitcherPBS.jpg/revision/latest?cb=20240620102345"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-black-hpr85",
+                "toy_number": "HPR85",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White (rear) & Black (front) DD8"
+                    },
+                    "casting_name": "Alpha Pursuit",
+                    "tampos": "White & Green stripes, Black \"Police\", \"Officer Angulo\", \"0014\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/AlphaPursuitBlackPullBackSpeeders.jpg/revision/latest?cb=20250206030954"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-black-hwv44",
+                "toy_number": "HWV44",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome DD8"
+                    },
+                    "casting_name": "Lolux",
+                    "tampos": "Grey Flame design, Green Skull, White various logos, \"06\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hpr73",
+                "toy_number": "HPR73",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "casting_name": "Lancer Evolution IX",
+                    "tampos": "Carbon fiber hood, Black & Red stripe, various logos, \"06\", HW logo, Headlight details",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/LancerEvolutionIXPBS.jpg/revision/latest?cb=20240928150525"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-silver-hpr74",
+                "toy_number": "HPR74",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "casting_name": "Corvette C8.R",
+                    "tampos": "Red Stripes, Red Corvette logo, \"6\", HW Logo",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-grey-hpr90",
+                "toy_number": "HPR90",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Grey",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black BLOR"
+                    },
+                    "casting_name": "GMC Hummer EV",
+                    "tampos": "Black grille detail, White \"HUMMER\", Light Detail",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-green-hpr89",
+                "toy_number": "HPR89",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "casting_name": "Porsche 911 GT3",
+                    "tampos": "Black Stripes, \"Porsche\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-blue-hpr88",
+                "toy_number": "HPR88",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome PR5"
+                    },
+                    "casting_name": "Twin Mill",
+                    "tampos": "White Stripes, HW logo",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/TwinMillBluePullBackSpeeders.jpg/revision/latest?cb=20250206031107"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-dark-blue-hrr40",
+                "toy_number": "HRR40",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "casting_name": "2022 Camaro ZL1",
+                    "tampos": "Light Details, Chevy Badge",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/PullbackSpeeders2022CamaroZL12023.jpg/revision/latest?cb=20240109070716"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-purple-hpr84",
+                "toy_number": "HPR84",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome AeroDisc"
+                    },
+                    "casting_name": "Mad Manga",
+                    "tampos": "Silver stripes on sides & across top, star on hood",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Unreleased",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-blue-hpr92",
+                "toy_number": "HPR92",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "Black & White Flames, Skull, HW Logo",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome DD8"
+                    },
+                    "casting": "Bone Shaker",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/B86B8C58-6BCA-43E1-B7E6-83056192F27D.jpg/revision/latest?cb=20230909011658"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-silver-scallop-design-white-hw-logo-and-5-twin-mill",
+                "toy_number": "Twin Mill",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Silver Scallop design, White HW Logo and \"5\"",
+                    "tampo": "Chrome Lip PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/TwinMillPBS.jpg/revision/latest?cb=20240929121931"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-purple-hpr93",
+                "toy_number": "HPR93",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "Silver stripes on sides & across top, star on hood",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome AeroDisc"
+                    },
+                    "casting": "Mad Manga",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Unreleased Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-carbon-fiber-hood-black-red-stripe-various-logos-06-hw-logo-headlight-details-lancer-evolution-ix",
+                "toy_number": "Lancer Evolution IX",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Carbon fiber hood, Black & Red stripe, various logos, \"06\", HW logo, Headlight details",
+                    "tampo": "Chrome Lip PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Unreleased Base code(s):"
+                    },
+                    "casting": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hpr94",
+                "toy_number": "HPR94",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "Black grille detail, White \"HUMMER\", Light Detail",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome BLOR"
+                    },
+                    "casting": "GMC Hummer EV",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/67399DC7-4B85-49F7-9226-95109BCE8097.jpg/revision/latest?cb=20230909010004"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-stripes-red-corvette-logo-6-hw-logo-corvette-c8r",
+                "toy_number": "Corvette C8.R",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red Stripes, Red Corvette logo, \"6\", HW Logo",
+                    "tampo": "Black PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Silver",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-dark-blue-hpr95",
+                "toy_number": "HPR95",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Blue",
+                    "tampo": "Light Details, Chevy Badge",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "casting": "2022 Camaro ZL1",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S40A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/38/PullbackSpeeders2022CamaroZL12023.jpg/revision/latest?cb=20240109070716"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-pink-stripe-design-bright-blue-stripe-dark-blue-lolux-and-skull-lolux",
+                "toy_number": "Lolux",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink stripe design, Bright Blue stripe, Dark Blue \"Lolux\" and Skull",
+                    "tampo": "White Lip PR5 & DD8",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S36A"
+                    },
+                    "casting": "Silver",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/PullbackSpeedersLolux2023Silver.jpg/revision/latest?cb=20240109070827"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-light-blue-hpr96",
+                "toy_number": "HPR96",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "White, Black & Pink striping, \"GT-Scorcher\", \"2\", various logos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White AeroDisc front & White Lip PR5 rear"
+                    },
+                    "casting": "GT-Scorcher",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s): S40A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/PullbackSpeedersGTScorcer2023.jpg/revision/latest?cb=20240109070728"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-stripes-porsche-porsche-911-gt3",
+                "toy_number": "Porsche 911 GT3",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black Stripes, \"Porsche\"",
+                    "tampo": "Black PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s): S41A"
+                    },
+                    "casting": "Orange",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/PullbackSpeedersPorsche911GT32023Orange.jpg/revision/latest?cb=20240109070854"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-hwh45",
+                "toy_number": "HWH45",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "GMC Hummer EV",
+                    "segment": "Factory Fresh 1/4",
+                    "tampos": "Black grille detail, White \"HUMMER\", Light Detail",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s): S48A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/GMCHummerEVPBS.jpg/revision/latest?cb=20240524064723"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-neon-yellow-hwh46",
+                "toy_number": "HWH46",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Neon Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "casting_name": "2022 Camaro ZL1",
+                    "segment": "Factory Fresh 2/4",
+                    "tampos": "Light Details, Chevrolet badge, Black Hood",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s): S47A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/2022CamaroZL1.jpg/revision/latest?cb=20240524064752"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-moody-blue-hpr75-v2",
+                "toy_number": "HPR75",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte \"moody\" blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Copper Lip PR5"
+                    },
+                    "casting_name": "Muscle and Blown",
+                    "segment": "HW Dream Garage 2/4",
+                    "tampos": "Gold circle, \"53\", \"DIMA Fabrication\" on sides, stripe design",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s): S36A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/PullbackSpeedersMuscleandBlown2024.jpg/revision/latest?cb=20240507033250"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-yellow-hwh34",
+                "toy_number": "HWH34",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Lip, Grey BLOR"
+                    },
+                    "casting_name": "Porsche 914 Safari",
+                    "segment": "HW Speed Graphics 1/3",
+                    "tampos": "Orange & Red Stripes, White & Black Half Circle w/ \"21\", \"Porsche\", Hot Wheels flame logo, various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s): S41A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Porsche914SafariPBS.jpg/revision/latest?cb=20240518123446"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-blue-hwh35",
+                "toy_number": "HWH35",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White DD8"
+                    },
+                    "casting_name": "Dimachinni Veloce",
+                    "segment": "HW Speed Graphics 2/3",
+                    "tampos": "White & Black \"73\" on sides, \"Dimachinni', Green Stripe, various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/DimachinniVelocePBS.jpg/revision/latest?cb=20240518123317"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-blue-hpr71-v2",
+                "toy_number": "HPR71",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Bone Shaker",
+                    "segment": "HW Torque 1/3",
+                    "tampos": "Black & White Flames, Skull, HW Logo",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/B86B8C58-6BCA-43E1-B7E6-83056192F27D.jpg/revision/latest?cb=20230909011658"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-gray-hwh33",
+                "toy_number": "HWH33",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip, Orange PR5"
+                    },
+                    "casting_name": "1969 Ford Mustang",
+                    "segment": "Muscle Mania 1/3",
+                    "tampos": "Orange, White & Black Stripes, Circle design with Japanese characters",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/1969MustangDrifter.jpg/revision/latest?cb=20240518123553"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-blue-hpr80-v2",
+                "toy_number": "HPR80",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Heavy Hitcher",
+                    "segment": "Night Burnerz 1/3",
+                    "tampos": "Silver, Red & White stripes, Black checker pattern, \"Team Towing\", \"68\", HW Logo",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/HeavyHitcherPBS.jpg/revision/latest?cb=20240620102345"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-dark-red-hwh36",
+                "toy_number": "HWH36",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome AeroDisc"
+                    },
+                    "casting_name": "2004 Mazda RX8 Custom",
+                    "segment": "HW Drift 1/4",
+                    "tampos": "Pink, Black, Silver, White design, \"Mazda\", HW Logo, \"09\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/MazdaRX-8Custom.jpg/revision/latest?cb=20240929121958"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-purple-hwh38",
+                "toy_number": "HWH38",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White DD8"
+                    },
+                    "casting_name": "Mod Speeder",
+                    "segment": "Muscle Mania 2/3",
+                    "tampos": "White & Pink Stripes, 55, various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/ModSpeederPullBackSpeedersLooseFront.jpg/revision/latest?cb=20240628230527"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-blue-hwh47",
+                "toy_number": "HWH47",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome PR5"
+                    },
+                    "casting_name": "Porsche 911 GT3",
+                    "segment": "Factory Fresh 3/4",
+                    "tampos": "Black Stripes, \"Porsche\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/Porsche992GT3PBS.jpg/revision/latest?cb=20240928150508"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-pink-hwh48",
+                "toy_number": "HWH48",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Pink",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White DD8"
+                    },
+                    "casting_name": "Alpha Pursuit",
+                    "segment": "Night Burnerz 2/3",
+                    "tampos": "Light Blue & White Stripe design, \"HW\", Yellow \"Official Pace Car\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/AlphaPursuitPullbackSpeedersLooseFront.jpg/revision/latest?cb=20240628230103"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-light-blue-hpr77-v2",
+                "toy_number": "HPR77",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Lip AeroDisc"
+                    },
+                    "casting_name": "Mighty K",
+                    "segment": "HW Drift 2/4",
+                    "tampos": "Red Zig Zag pattern, White & Black \"ASADA Tire Shop\", Japanese text, HW logo, various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/5A52A3DF-011A-4047-94DD-537CB481DF53.jpg/revision/latest?cb=20230909011120"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-hpr72-v2",
+                "toy_number": "HPR72",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "casting_name": "Twin Mill",
+                    "segment": "HW Dream Garage 2/3",
+                    "tampos": "Black & Silver Scallop design, White HW Logo and \"5\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/TwinMillPBS.jpg/revision/latest?cb=20240929121931"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-silver-hpr76-v2",
+                "toy_number": "HPR76",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Lip PR5 & DD8"
+                    },
+                    "casting_name": "Lolux",
+                    "segment": "HW Drift 3/4",
+                    "tampos": "Pink stripe design, Bright Blue stripe, Dark Blue \"Lolux\" and Skull",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/PullbackSpeedersLolux2023Silver.jpg/revision/latest?cb=20240109070827"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hpr73-v2",
+                "toy_number": "HPR73",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "casting_name": "Lancer Evolution IX",
+                    "segment": "HW Speed Graphics 3/3",
+                    "tampos": "Carbon fiber hood, Black & Red stripe, various logos, \"06\", HW logo, Headlight details",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/LancerEvolutionIXPBS.jpg/revision/latest?cb=20240928150525"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-desert-sand-hwh41",
+                "toy_number": "HWH41",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte desert sand",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "Off Duty",
+                    "segment": "HW Torque 2/3",
+                    "tampos": "Black and white accents, \"30\" on sides, \"WILAK RACE WHEELS\" on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-gray-hyc40-jdb03",
+                "toy_number": "HYC40 JDB03",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "Mercedes-Benz Unimog",
+                    "segment": "HW Race Day 1/2",
+                    "tampos": "Black and red accents, \"68\" on sides, various sponsors on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 3 Base code(s): T11A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Pull-Back_Speeders_JDB03_Unimog_o1.jpg/revision/latest?cb=20240928151815"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-dark-blue-hwh39",
+                "toy_number": "HWH39",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "Dodge Challenger R/T Scat Pack",
+                    "segment": "Muscle Mania 3/3",
+                    "tampos": "Detailed headlights and taillights, \"SPEED DEMONS\", \"392\" on front fender, \"HOT WHEELS\" on rear fender",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/DodgeScatPack.jpg/revision/latest?cb=20241020132207"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-moody-blue-hwh50-jdb02",
+                "toy_number": "HWH50 JDB02",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "\"Moody\" blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "Porsche 914 Safari",
+                    "segment": "HW Speed Graphics 1/3",
+                    "tampos": "Black and yellow Stripes, White & Black Half Circle w/ \"07\", \"Porsche\", Treasure Hunt flame logo, various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 3 Base code(s): T11A, T12A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/Pull-Back_Speeders_914_Safari_Blue_o1.jpg/revision/latest?cb=20240927154042"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-light-blue-hpr81-v2",
+                "toy_number": "HPR81",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White AeroDisc & White Lip PR5"
+                    },
+                    "casting_name": "GT-Scorcher",
+                    "segment": "HW Torque 3/3",
+                    "tampos": "White, Black & Pink striping, \"GT-Scorcher\", \"2\", various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/PullbackSpeedersGTScorcer2023.jpg/revision/latest?cb=20240109070728"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-purple-hpr84-v2",
+                "toy_number": "HPR84",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome AeroDisc"
+                    },
+                    "casting_name": "Mad Manga",
+                    "segment": "Night Burnerz 3/3",
+                    "tampos": "Silver stripes on sides & across top, star on hood",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/82/Mad_Manga_Pullbacks_%288%29.JPG/revision/latest?cb=20240718150058"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-black-hpr85-v2",
+                "toy_number": "HPR85",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White (rear) & Black (front) DD8"
+                    },
+                    "casting_name": "Alpha Pursuit",
+                    "segment": "Night Burnerz 2/3",
+                    "tampos": "White & Green stripes, Black \"Police\", \"Officer Angulo\", \"0014\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/AlphaPursuitBlackPullBackSpeeders.jpg/revision/latest?cb=20250206030954"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hpr86-v2",
+                "toy_number": "HPR86",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "GMC Hummer EV",
+                    "segment": "Factory Fresh 1/4",
+                    "tampos": "Black grille detail, White \"HUMMER\", Light Detail",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/67399DC7-4B85-49F7-9226-95109BCE8097.jpg/revision/latest?cb=20230909010004"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hwh43",
+                "toy_number": "HWH43",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "2023 Nissan Z Custom",
+                    "segment": "HW Drift 4/4",
+                    "tampos": "Detailed headlights and taillights, red highlights, \"24\" on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/NissanZCustomGT4NISMOPullback.jpg/revision/latest?cb=20250125011318"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-hwh44",
+                "toy_number": "HWH44",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Batmobile",
+                    "segment": "HW Dream Garage 3/3",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/BatmobilePBS.jpg/revision/latest?cb=20250617123652"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-dark-blue-hwh51",
+                "toy_number": "HWH51",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White DD8"
+                    },
+                    "casting_name": "1969 Ford Mustang",
+                    "segment": "Muscle Mania 1/3",
+                    "tampos": "Light blue graphics, white highlights",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/69_mustang_blue.jpg/revision/latest?cb=20250505121455"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-neon-green-hwh52",
+                "toy_number": "HWH52",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Neon green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Muscle and Blown",
+                    "segment": "HW Dream Garage 1/3",
+                    "tampos": "Yellow and black accents, \"68\" on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hwh49",
+                "toy_number": "HWH49",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "2004 Mazda RX8 Custom",
+                    "segment": "HW Drift 1/4",
+                    "tampos": "Blue accents, yellow highlights, \"2\", \"Mazda\" on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-jcm07",
+                "toy_number": "JCM07",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Dimachinni Veloce",
+                    "segment": "HW Speed Graphics 2/3",
+                    "tampos": "\"33\" on sides, gray highlights",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-silver-hpr74-v2",
+                "toy_number": "HPR74",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "casting_name": "Corvette C8.R",
+                    "segment": "HW Race Day 2/2",
+                    "tampos": "Red Stripes, Red Corvette logo, \"6\", HW Logo",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Wave 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-hwh40",
+                "toy_number": "HWH40",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "2023 Honda Civic Type R",
+                    "segment": "Factory Fresh 4/4",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Unreleased Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-dark-red-hwh53",
+                "toy_number": "HWH53",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "Pink, Black, Silver, White design, \"Mazda\", HW Logo, \"09\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome AeroDisc"
+                    },
+                    "casting": "2004 Mazda RX8 Custom",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/MazdaRX-8Custom.jpg/revision/latest?cb=20240929121958"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-pink-stripes-55-various-logos-mod-speeder",
+                "toy_number": "Mod Speeder",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White & Pink Stripes, 55, various logos",
+                    "tampo": "White DD8",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Matte Purple",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/71/ModSpeederPullBackSpeedersLooseFront.jpg/revision/latest?cb=20240628230527"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-moody-blue-hwh54",
+                "toy_number": "HWH54",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte \"moody\" blue",
+                    "tampo": "Gold circle, \"53\", \"DIMA Fabrication\" on sides, stripe design",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Copper Lip PR5"
+                    },
+                    "casting": "Muscle and Blown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/PullbackSpeedersMuscleandBlown2024.jpg/revision/latest?cb=20240507033250"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-orange-red-stripes-white-black-half-circle-w-21-porsche-treasure-hunt-flame-logo-various-logos-porsche-914-safari",
+                "toy_number": "Porsche 914 Safari",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange & Red Stripes, White & Black Half Circle w/ \"21\", \"Porsche\", Treasure Hunt flame logo, various logos",
+                    "tampo": "Red Lip, Grey BLOR",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Yellow",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/423422560_821130336444018_5338024423461208696_n.jpg/revision/latest?cb=20240204080410"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-hwh55",
+                "toy_number": "HWH55",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "Black grille detail, White \"HUMMER\", Light Detail",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting": "GMC Hummer EV",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/GMCHummerEVPBS.jpg/revision/latest?cb=20240524064723"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-light-blue-white-stripe-design-hw-yellow-official-pace-car-alpha-pursuit",
+                "toy_number": "Alpha Pursuit",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light Blue & White Stripe design, \"HW\", Yellow \"Official Pace Car\"",
+                    "tampo": "White DD8",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Matte pink",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/AlphaPursuitPullbackSpeedersLooseFront.jpg/revision/latest?cb=20240628230103"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-neon-yellow-hwh56",
+                "toy_number": "HWH56",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Neon yellow",
+                    "tampo": "Light Details, Chevrolet badge, Black Hood",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip PR5"
+                    },
+                    "casting": "2022 Camaro ZL1",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/2022CamaroZL1.jpg/revision/latest?cb=20240524064752"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-white-flames-skull-hw-logo-bone-shaker",
+                "toy_number": "Bone Shaker",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & White Flames, Skull, HW Logo",
+                    "tampo": "DD8",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Metalflake blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/B86B8C58-6BCA-43E1-B7E6-83056192F27D.jpg/revision/latest?cb=20230909011658"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-silver-hwh57",
+                "toy_number": "HWH57",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Silver",
+                    "tampo": "Pink stripe design, Bright Blue stripe, Dark Blue \"Lolux\" and Skull",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White Lip PR5 & DD8"
+                    },
+                    "casting": "Lolux",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/PullbackSpeedersLolux2023Silver.jpg/revision/latest?cb=20240109070827"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-orange-white-black-stripes-circle-design-with-japanese-characters-1969-ford-mustang",
+                "toy_number": "1969 Ford Mustang",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange, White & Black Stripes, Circle design with Japanese characters",
+                    "tampo": "Chrome Lip, Orange PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Gray",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d5/1969MustangDrifter.jpg/revision/latest?cb=20240518123553"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-light-blue-hwh58",
+                "toy_number": "HWH58",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light blue",
+                    "tampo": "Red Zig Zag pattern, White & Black \"ASADA Tire Shop\", Japanese text, HW logo, various logos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Lip AeroDisc"
+                    },
+                    "casting": "Mighty K",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/5A52A3DF-011A-4047-94DD-537CB481DF53.jpg/revision/latest?cb=20230909011120"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-silver-scallop-design-white-hw-logo-and-5-twin-mill-v2",
+                "toy_number": "Twin Mill",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black & Silver Scallop design, White HW Logo and \"5\"",
+                    "tampo": "Chrome Lip PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Red",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/39/TwinMillPBS.jpg/revision/latest?cb=20240929121931"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-light-blue-hwh60",
+                "toy_number": "HWH60",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake light blue",
+                    "tampo": "White, Black & Pink striping, \"GT-Scorcher\", \"2\", various logos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc / PR5"
+                    },
+                    "casting": "GT-Scorcher",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/PullbackSpeedersGTScorcer2023.jpg/revision/latest?cb=20240109070728"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-detailed-headlights-and-taillights-speed-demons-392-on-front-fender-hot-wheels-on-rear-fender-dodge-challenger-rt-scat-pack",
+                "toy_number": "Dodge Challenger R/T Scat Pack",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Detailed headlights and taillights, \"SPEED DEMONS\", \"392\" on front fender, \"HOT WHEELS\" on rear fender",
+                    "tampo": "PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Dark blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/56/DodgeScatPack.jpg/revision/latest?cb=20241020132207"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-desert-sand-hwh61",
+                "toy_number": "HWH61",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte desert sand",
+                    "tampo": "Black and white accents, \"30\" on sides, \"WILAK RACE WHEELS\" on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting": "Off Duty",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-and-yellow-stripes-white-black-half-circle-w-07-porsche-treasure-hunt-flame-logo-various-logos-porsche-914-safari",
+                "toy_number": "Porsche 914 Safari",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black and yellow Stripes, White & Black Half Circle w/ \"07\", \"Porsche\", Treasure Hunt flame logo, various logos",
+                    "tampo": "BLOR",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "\"Moody\" blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/d/de/Pull-Back_Speeders_914_Safari_Blue_o1.jpg/revision/latest?cb=20240927154042"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-hwh62",
+                "toy_number": "HWH62",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "\"33\" on sides, gray highlights",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting": "Dimachinni Veloce",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-light-blue-graphics-white-highlights-1969-ford-mustang",
+                "toy_number": "1969 Ford Mustang",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Light blue graphics, white highlights",
+                    "tampo": "PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Dark blue",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-neon-green-hwh63",
+                "toy_number": "HWH63",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Neon green",
+                    "tampo": "Yellow and black accents, \"68\" on sides",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting": "Muscle and Blown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-detailed-headlights-and-taillights-red-highlights-24-on-sides-2023-nissan-z-custom",
+                "toy_number": "2023 Nissan Z Custom",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Detailed headlights and taillights, red highlights, \"24\" on sides",
+                    "tampo": "PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/NissanZCustomGT4NISMOPullback.jpg/revision/latest?cb=20250125011318"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-hwh64",
+                "toy_number": "HWH64",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "White & Green stripes, Black \"Police\", \"Officer Angulo\", \"0014\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting": "Alpha Pursuit",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/AlphaPursuitBlackPullBackSpeeders.jpg/revision/latest?cb=20250206030954"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-detailed-headlights-and-taillights-batmobile",
+                "toy_number": "Batmobile",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Detailed headlights and taillights",
+                    "tampo": "AeroDisc",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Matte black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/BatmobilePBS.jpg/revision/latest?cb=20250617123652"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-gray-jcl97",
+                "toy_number": "JCL97",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Custom 1968 Camaro",
+                    "segment": "Muscle Mania 1/6",
+                    "tampos": "Screaming Skullz iconography",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/PunkCamaroPBS.jpg/revision/latest?cb=20250619064134"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-green-jcm00",
+                "toy_number": "JCM00",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Veloci-Racer",
+                    "segment": "Muscle Mania 2/6",
+                    "tampos": "Robotic scales and joints",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/VelociRacerPBS.jpg/revision/latest?cb=20250619064150"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hwh42",
+                "toy_number": "HWH42",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "2022 BMW M4 GT3",
+                    "segment": "HW Torque 1/6",
+                    "tampos": "BMW M racing livery",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/8/89/BMWM4GT3PBS.jpg/revision/latest?cb=20250619064202"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-purple-hpr84-v3",
+                "toy_number": "HPR84",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Purple",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome AeroDisc"
+                    },
+                    "casting_name": "Mad Manga",
+                    "segment": "HW Modified 1/4",
+                    "tampos": "Silver stripes on sides & across top, star on hood",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/6/67/MadMangaPBS.jpg/revision/latest?cb=20250619064215"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-black-hwv44-v2",
+                "toy_number": "HWV44",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome DD8"
+                    },
+                    "casting_name": "Lolux",
+                    "segment": "Muscle Mania 3/6",
+                    "tampos": "Grey Flame design, Green Skull, White various logos, \"06\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/LoluxPBS.jpg/revision/latest?cb=20250619064226"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-black-hpr85-v3",
+                "toy_number": "HPR85",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White (rear) & Black (front) DD8"
+                    },
+                    "casting_name": "Alpha Pursuit",
+                    "segment": "HW Torque 2/6",
+                    "tampos": "White & Green stripes, Black \"Police\", \"Officer Angulo\", \"0014\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/AlphaPursuitBlackPullBackSpeeders.jpg/revision/latest?cb=20250206030954"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-gray-hyc40",
+                "toy_number": "HYC40",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "Mercedes-Benz Unimog",
+                    "segment": "Night Burnerz 1/5",
+                    "tampos": "Black and red accents, \"68\" on sides, various sponsors on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/UnimogPBS.jpg/revision/latest?cb=20250619064240"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-yellow-hwh34-v2",
+                "toy_number": "HWH34",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Lip, Grey BLOR"
+                    },
+                    "casting_name": "Porsche 914 Safari",
+                    "segment": "HW Modified 2/4",
+                    "tampos": "Orange & Red Stripes, White & Black Half Circle w/ \"21\", \"Porsche\", Treasure Hunt flame logo, various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Porsche914SafariPBS.jpg/revision/latest?cb=20240518123446"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-jcl98",
+                "toy_number": "JCL98",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "Toyota Tacoma Custom",
+                    "segment": "Factory Fresh 1/4",
+                    "tampos": "Detailed trim, \"68\", lightning bolt design on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/2017ToyotaTacomaPBS.jpg/revision/latest?cb=20250707101210"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-jcm06-jdb26",
+                "toy_number": "JCM06 JDB26",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "Twin Mill",
+                    "segment": "Street Power 1/4",
+                    "tampos": "Barbie graphics and wordmarks on side",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s): U03A",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Barbie_Twinmill.jpg/revision/latest?cb=20250604165120"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-gray-jcm08",
+                "toy_number": "JCM08",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "2023 Nissan Z Custom",
+                    "segment": "HW Modified 3/4",
+                    "tampos": "Detailed trim, \"68\", black diagonals on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/2023NissanZGT4PBS.jpg/revision/latest?cb=20250731122223"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-blue-hpr80-v3",
+                "toy_number": "HPR80",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Heavy Hitcher",
+                    "segment": "HW Torque 3/6",
+                    "tampos": "Silver, Red & White stripes, Black checker pattern, \"Team Towing\", \"68\", HW Logo",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/HeavyHitcherPBS.jpg/revision/latest?cb=20240620102345"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-hpr83-v2",
+                "toy_number": "HPR83",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black DD8"
+                    },
+                    "casting_name": "Fusion Busta",
+                    "segment": "Street Power 2/4",
+                    "tampos": "Red & White Stripe Design, \"Screaming Skullz\", Skull",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/FusionBusta2023PullBackSpeeders.jpg/revision/latest?cb=20250206030443"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-hwh44-jdb29",
+                "toy_number": "HWH44 JDB29",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Batmobile",
+                    "segment": "Night Burnerz 2/5",
+                    "tampos": "Detailed headlights and taillights",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/BatmobilePBS.jpg/revision/latest?cb=20250617123652"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-jcm07-v2",
+                "toy_number": "JCM07",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Dimachinni Veloce",
+                    "segment": "Night Burnerz 3/5",
+                    "tampos": "\"33\" on sides, gray highlights",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-light-blue-hpr81-v3",
+                "toy_number": "HPR81",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White AeroDisc & White Lip PR5"
+                    },
+                    "casting_name": "GT-Scorcher",
+                    "segment": "HW Modified 4/4",
+                    "tampos": "White, Black & Pink striping, \"GT-Scorcher\", \"2\", various logos",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/PullbackSpeedersGTScorcer2023.jpg/revision/latest?cb=20240109070728"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-cream-jcl99",
+                "toy_number": "JCL99",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Cream",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "1966 Ford Bronco",
+                    "segment": "Factory Fresh 3/4",
+                    "tampos": "Detailed headlights, taillights and trim",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-jcm10",
+                "toy_number": "JCM10",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Custom 1968 Camaro",
+                    "segment": "Muscle Mania 1/6",
+                    "tampos": "White, gray and black striping",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-corvette-racing-yellow-jcm12",
+                "toy_number": "JCM12",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Corvette Racing Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "Corvette C8.R",
+                    "segment": "HW Torque 5/6",
+                    "tampos": "Corvette Racing Livery",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-orange-hpr79-v2",
+                "toy_number": "HPR79",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Orange",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black PR5"
+                    },
+                    "casting_name": "Porsche 911 GT3",
+                    "segment": "Street Power 4/4",
+                    "tampos": "Black Stripes, \"Porsche\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/PullbackSpeedersPorsche911GT32023Orange.jpg/revision/latest?cb=20240109070854"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-neon-green-hwh52-v2",
+                "toy_number": "HWH52",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Neon green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Muscle and Blown",
+                    "segment": "Muscle Mania 6/6",
+                    "tampos": "Yellow and black accents, \"68\" on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-blue-jcm01",
+                "toy_number": "JCM01",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "1999 Nissan Skyline GT-R (R34)",
+                    "segment": "Night Burnerz 4/5",
+                    "tampos": "\"ホットホィール\", White circle w/ \"11\" & sponsor logos on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-dark-green-jcm02",
+                "toy_number": "JCM02",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "Lamborghini Huracán Super Trofeo EVO2",
+                    "segment": "Street Power 3/4",
+                    "tampos": "Orange accents, \"63\" on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-jcm03",
+                "toy_number": "JCM03",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "Audi Sport quattro S1 E2",
+                    "segment": "HW Torque 4/4",
+                    "tampos": "Detailed headlights and taillights, Audi Sport livery",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-blue-jcm04",
+                "toy_number": "JCM04",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "Baja Truck",
+                    "segment": "Muscle Mania 4/6",
+                    "tampos": "\"68\" on sides & hood; blue graphics on sides, hood, & roof; red rally stripes on hood & roof; Hot Wheels logo & various sponsor logos on sides",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-boost-blue-jcm05",
+                "toy_number": "JCM05",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Boost Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "2023 Honda Civic Type R",
+                    "segment": "Factory Fresh 2/4",
+                    "tampos": "Detailed taillights and trim",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/PullbackSpeedersHondaCivicTypeRFL5Front.jpg/revision/latest?cb=20251029043253"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-jcm09",
+                "toy_number": "JCM09",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "Dodge Challenger R/T Scat Pack",
+                    "segment": "Factory Fresh 4/4",
+                    "tampos": "Detailed headlights and taillights, black hood",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-blue-jcm11",
+                "toy_number": "JCM11",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "BLOR"
+                    },
+                    "casting_name": "1966 Ford Bronco",
+                    "segment": "Factory Fresh 3/4",
+                    "tampos": "Detailed headlights, taillights and trim",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-brown-hpr87-v2",
+                "toy_number": "HPR87",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Brown",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome Lip DD8"
+                    },
+                    "casting_name": "Bone Shaker",
+                    "segment": "Muscle Mania 5/6",
+                    "tampos": "White skull with tan helmet and wings, \"H/W\", Black scallops",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-dark-red-hwh36-v2",
+                "toy_number": "HWH36",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Dark Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome AeroDisc"
+                    },
+                    "casting_name": "2004 Mazda RX-8 Custom",
+                    "segment": "Night Burnerz 5/6",
+                    "tampos": "Pink, Black, Silver, White design, \"Mazda\", HW Logo, \"09\"",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 4 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/2/29/MazdaRX-8Custom.jpg/revision/latest?cb=20240929121958"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-black-jcm13",
+                "toy_number": "JCM13",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "White & Green stripes, Black \"Police\", \"Officer Angulo\", \"0014\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White (rear) & Black (front) DD8"
+                    },
+                    "casting": "Alpha Pursuit",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/AlphaPursuitBlackPullBackSpeeders.jpg/revision/latest?cb=20250206030954"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-screaming-skullz-iconography-custom-1968-camaro",
+                "toy_number": "Custom 1968 Camaro",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Screaming Skullz iconography",
+                    "tampo": "DD8",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Gray",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-yellow-jcm14",
+                "toy_number": "JCM14",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "Orange & Red Stripes, White & Black Half Circle w/ \"21\", \"Porsche\", Treasure Hunt flame logo, various logos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red Lip, Grey BLOR"
+                    },
+                    "casting": "Porsche 914 Safari",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Porsche914SafariPBS.jpg/revision/latest?cb=20240518123446"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-robotic-scales-and-joints-veloci-racer",
+                "toy_number": "Veloci-Racer",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Robotic scales and joints",
+                    "tampo": "DD8",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Green",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-jcm15",
+                "toy_number": "JCM15",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black",
+                    "tampo": "Red & White Stripe Design, \"Screaming Skullz\", Skull",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Black DD8"
+                    },
+                    "casting": "Fusion Busta",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/FusionBusta2023PullBackSpeeders.jpg/revision/latest?cb=20250206030443"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-detailed-headlights-and-taillights-batmobile-v2",
+                "toy_number": "Batmobile",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Detailed headlights and taillights",
+                    "tampo": "AeroDisc",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Black",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/3/36/BatmobilePBS.jpg/revision/latest?cb=20250617123652"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-matte-black-jcm16",
+                "toy_number": "JCM16",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Matte Black",
+                    "tampo": "Grey Flame design, Green Skull, White various logos, \"06\"",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome DD8"
+                    },
+                    "casting": "Lolux",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-black-and-red-accents-68-on-sides-various-sponsors-on-sides-mercedes-benz-unimog",
+                "toy_number": "Mercedes-Benz Unimog",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Black and red accents, \"68\" on sides, various sponsors on sides",
+                    "tampo": "BLOR",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Matte gray",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Pull-Back_Speeders_JDB03_Unimog_o1.jpg/revision/latest?cb=20240928151815"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-jcm17",
+                "toy_number": "JCM17",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "\"33\" on sides, gray highlights",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting": "Dimachinni Veloce",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-detailed-trim-68-black-diagonals-on-sides-2023-nissan-z-custom",
+                "toy_number": "2023 Nissan Z Custom",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Detailed trim, \"68\", black diagonals on sides",
+                    "tampo": "PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "Gray",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-light-blue-jcm18",
+                "toy_number": "JCM18",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Light Blue",
+                    "tampo": "White, Black & Pink striping, \"GT-Scorcher\", \"2\", various logos",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White AeroDisc & White Lip PR5"
+                    },
+                    "casting": "GT-Scorcher",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/70/PullbackSpeedersGTScorcer2023.jpg/revision/latest?cb=20240109070728"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-barbie-graphics-and-wordmarks-on-side-twin-mill",
+                "toy_number": "Twin Mill",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Barbie graphics and wordmarks on side",
+                    "tampo": "PR5",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Base code(s):"
+                    },
+                    "casting": "White",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-green-jkp89",
+                "toy_number": "JKP89",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Volkswagen Beetle (Type 1 Käfer)",
+                    "collector": "1/32",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s): 2585EAA, 2655EAA",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/JKP89_K%C3%A4fer_o4D.jpg/revision/latest?cb=20260103082609"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-tan-jkp90",
+                "toy_number": "JKP90",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Tan",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "casting_name": "Stockar",
+                    "collector": "2/32",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/StockarPBS.jpeg/revision/latest?cb=20251225171442"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-jkp97",
+                "toy_number": "JKP97",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Mod Speeder",
+                    "collector": "3/32",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-dark-blue-jkp98-jkr38",
+                "toy_number": "JKP98 JKR38",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "BMW M4 GT3",
+                    "collector": "4/32",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-hpr73-v3",
+                "toy_number": "HPR73",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome lip PR5"
+                    },
+                    "casting_name": "Lancer Evolution IX",
+                    "collector": "5/32",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/47/LancerEvolutionIXPBS.jpg/revision/latest?cb=20240928150525"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-dark-blue-hwh51-v2",
+                "toy_number": "HWH51",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "White DD8"
+                    },
+                    "casting_name": "1969 Ford Mustang",
+                    "collector": "6/32",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/1/13/69_mustang_blue.jpg/revision/latest?cb=20250505121455"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-metalflake-blue-hpr80-v4",
+                "toy_number": "HPR80",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Metalflake Blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Chrome DD8"
+                    },
+                    "casting_name": "Heavy Hitcher",
+                    "collector": "7/32",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/4/46/HeavyHitcherPBS.jpg/revision/latest?cb=20240620102345"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-yellow-hwh34-v3",
+                "toy_number": "HWH34",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "Red lip, Grey BLOR"
+                    },
+                    "casting_name": "Porsche 914 Safari",
+                    "collector": "8/32",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 1 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Porsche914SafariPBS.jpg/revision/latest?cb=20240518123446"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-dark-blue-jkp91",
+                "toy_number": "JKP91",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "2003 Subaru Impreza WRX Wagon Bugeye",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-dark-blue-jkp92",
+                "toy_number": "JKP92",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark blue",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "5SP"
+                    },
+                    "casting_name": "Duck N' Roll",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-red-jkr01",
+                "toy_number": "JKR01",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Red",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "GT Scorcher",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-teal-jkr04",
+                "toy_number": "JKR04",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Teal",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Mad Manga",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 2 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-gray-jkp93",
+                "toy_number": "JKP93",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Gray",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "'20 Shelby GT500",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-dark-green-jkp94",
+                "toy_number": "JKP94",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Dark Green",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "'24 Aston Martin Vantage GT3",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-yellow-jkr00",
+                "toy_number": "JKR00",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Yellow",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "AeroDisc"
+                    },
+                    "casting_name": "Mighty K",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-white-jkr02",
+                "toy_number": "JKR02",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "White",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "DD8"
+                    },
+                    "casting_name": "Fusion Busta",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            },
+            {
+                "release_id": "0-pull-back-speeders-millenium-jade-jkr03",
+                "toy_number": "JKR03",
+                "casting_id": "pull-back-speeders",
+                "year": 0,
+                "series_id": "unknown",
+                "series_index": null,
+                "specs": {
+                    "color": "Millenium Jade",
+                    "tampo": "",
+                    "base_color": "",
+                    "base_type": "",
+                    "window_color": "",
+                    "interior_color": "",
+                    "wheel_type": {
+                        "0": "PR5"
+                    },
+                    "casting_name": "1999 Nissan Skyline GT-R (R34)",
+                    "collector": "Unknown",
+                    "photo_loose": "",
+                    "photo_boxed": ""
+                },
+                "country": "",
+                "notes": "Mix 3 Base code(s):",
+                "images": {
+                    "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+                }
+            }
+        ]
+    }
+]

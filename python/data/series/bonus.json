@@ -1,0 +1,10 @@
+{
+    "series_id": "bonus",
+    "name": "Bonus",
+    "description": "Hot Wheels Bonus Series",
+    "releases": [
+        "../data/releases/1996/1996-custom-mustang-metalflake-dark-grey-13828.json",
+        "../data/releases/1996/1996-deora-metalflake-blue-13828.json",
+        "../data/releases/1996/1996-twin-mill-metalflake-yellow-16139.json"
+    ]
+}

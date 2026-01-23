@@ -1,0 +1,9 @@
+{
+    "series_id": "6th",
+    "name": "6Th",
+    "description": "Hot Wheels 6Th Series",
+    "releases": [
+        "../data/releases/2006/2006-classic-cord-spectraflame-pink-k3816.json",
+        "../data/releases/2006/2006-olds-442-spectraflame-gold-k3822.json"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "series_id": "street",
+    "name": "Street",
+    "description": "Hot Wheels Street Series",
+    "releases": [
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15258.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15258.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15260.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15260.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15261.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15261.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15267.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-15267.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16930.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16930.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16931.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16931.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16932.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16932.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16933.json",
+        "../data/releases/1997/1997-hot-wheels-by-collector-number-unknown-16933.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21108.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21108.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21109.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21109.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21110.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21110.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21111.json",
+        "../data/releases/1999/1999-hot-wheels-by-collector-number-unknown-21111.json"
+    ]
+}

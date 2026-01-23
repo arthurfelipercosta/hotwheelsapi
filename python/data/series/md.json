@@ -1,0 +1,13 @@
+{
+    "series_id": "md",
+    "name": "Md",
+    "description": "Hot Wheels Md Series",
+    "releases": [
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-14972.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-14972.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-14973.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-14973.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-14974.json",
+        "../data/releases/1996/1996-hot-wheels-by-collector-number-unknown-14974.json"
+    ]
+}

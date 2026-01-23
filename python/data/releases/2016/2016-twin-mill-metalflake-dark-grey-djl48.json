@@ -1,0 +1,25 @@
+{
+    "release_id": "2016-twin-mill-metalflake-dark-grey-djl48",
+    "toy_number": "DJL48",
+    "casting_id": "twin-mill",
+    "year": 2016,
+    "series_id": "batman",
+    "series_index": 1,
+    "specs": {
+        "color": "Metalflake Dark Grey",
+        "tampo": "Blue & Black stripes on top, Superman logo on hood, Batman logo on roof, Batman v Superman logo on sides",
+        "base_color": "Metalflake Purple",
+        "base_type": "Metal",
+        "window_color": "Blue Tint",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black OH5"
+        },
+        "col": "221/250"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/Twin_Mill_-_16_Batman_v_Superman_600pxOTD.jpg/revision/latest?cb=20160716001049"
+    }
+}

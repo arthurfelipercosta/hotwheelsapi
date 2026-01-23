@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-purple-gjh59",
+    "toy_number": "GJH59",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Purple",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Dry Bones",
+        "casting_name": "Standard Kart",
+        "waves": "2020: 1, 4 2021: 5 2022: 4 2023: 5",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): N04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/Open_Dry_Bones_Standard_Kart.jpg/revision/latest?cb=20210307042841"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-brown-grn24",
+    "toy_number": "GRN24",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Brown",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Donkey Kong",
+        "casting_name": "Standard Kart",
+        "waves": "2021: 2, 4, 7 2022: 4 2023: 1, 2",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): P41, P42, R36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/79/Open_Donkey_Kong_Standard_Kart.jpg/revision/latest?cb=20210307045844"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-yellow-gvd32",
+    "toy_number": "GVD32",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "1",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Yoshi",
+        "glider": "Parafoil",
+        "casting_name": "Sports Coupe",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/Open_Yoshi_Sports_Coupe_%2B_Parafoil_Glider.jpg/revision/latest?cb=20210307052115"
+    }
+}

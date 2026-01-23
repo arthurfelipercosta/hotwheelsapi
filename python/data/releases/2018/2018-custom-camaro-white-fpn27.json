@@ -1,0 +1,25 @@
+{
+    "release_id": "2018-custom-camaro-white-fpn27",
+    "toy_number": "FPN27",
+    "casting_id": "custom-camaro",
+    "year": 2018,
+    "series_id": "rlc",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "Hot Wheels 50th Anniversary Logos",
+        "base_color": "Chrome",
+        "base_type": "Metal",
+        "window_color": "Blue",
+        "interior_color": "White",
+        "wheel_type": {
+            "0": "NCRL"
+        },
+        "col": ""
+    },
+    "country": "China",
+    "notes": "Opening Hood",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/12/HWC_Special_Edition_Custom_Camaro.jpg/revision/latest?cb=20181203151817"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "release_id": "0-fast-furious-series-metalflake-grey-grp56",
+    "toy_number": "GRP56",
+    "casting_id": "fast-furious-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Grey",
+        "tampo": "Blue side stripes",
+        "base_color": "Black",
+        "base_type": "Plastic",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        },
+        "series": "3/5",
+        "casting_name": "Nissan Skyline GT-R (BNR34)"
+    },
+    "country": "Thailand",
+    "notes": "2Fast 2Furious Base code(s): N45, N47",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/NissanR34.jpg/revision/latest?cb=20220824112911"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "release_id": "0-holiday-hot-rods-light-blue-w3106",
+    "toy_number": "W3106",
+    "casting_id": "holiday-hot-rods",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "ZAMAC",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Gold Chrome OH5"
+        },
+        "casting": "1/4 Mile Coupe",
+        "photo_loose": "100px",
+        "photo_carded": ""
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/2011_Walmart_Holiday_HW_Quarter_Mile_Coupe.jpg/revision/latest?cb=20111231102404"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-blue-gml07",
+    "toy_number": "GML07",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "02/04",
+        "casting_name": "Custom '18 Ford Mustang GT"
+    },
+    "country": "",
+    "notes": "Base code(s): N04",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/HW_GML07_Custom_%E2%80%9918_Ford_Mustang_GT.jpg/revision/latest?cb=20201012032429"
+    }
+}

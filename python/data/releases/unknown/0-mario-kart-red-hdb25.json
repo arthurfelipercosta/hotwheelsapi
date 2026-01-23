@@ -1,0 +1,28 @@
+{
+    "release_id": "0-mario-kart-red-hdb25",
+    "toy_number": "HDB25",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "6",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Baby Mario",
+        "casting_name": "Standard Kart",
+        "photo_loose": "",
+        "photo_boxed": ""
+    },
+    "country": "",
+    "notes": "First Appearance Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/ad/Baby_Mario_Loose.jpg/revision/latest?cb=20230426162333"
+    }
+}

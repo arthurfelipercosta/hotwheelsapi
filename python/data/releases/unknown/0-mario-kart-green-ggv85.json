@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-green-ggv85",
+    "toy_number": "GGV85",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Green",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Grey MK4S"
+        },
+        "character": "Koopa Troopa",
+        "casting_name": "Circuit Special",
+        "waves": "2019: 2, 4, 6 2020: 2 2021: 2, 6 2022: 3 2023: 2, 3",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): M26, M28, M29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/Koopa_circuit_car.jpg/revision/latest?cb=20220729234857"
+    }
+}

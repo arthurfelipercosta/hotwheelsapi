@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-blue-hdb35",
+    "toy_number": "HDB35",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Toad",
+        "casting_name": "Mach 8",
+        "waves": "2021: 7 2022: 3",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): P41",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/64/Toad_mach_8.jpg/revision/latest?cb=20230426185826"
+    }
+}

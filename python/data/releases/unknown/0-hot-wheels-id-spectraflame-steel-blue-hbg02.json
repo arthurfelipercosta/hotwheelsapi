@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-steel-blue-hbg02",
+    "toy_number": "HBG02",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Steel Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "04/04",
+        "casting_name": "Sting Rod II"
+    },
+    "country": "",
+    "notes": "Modified casting Base code(s): N50",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HBG02_Sting_Rod_II.jpg/revision/latest?cb=20210420041135"
+    }
+}

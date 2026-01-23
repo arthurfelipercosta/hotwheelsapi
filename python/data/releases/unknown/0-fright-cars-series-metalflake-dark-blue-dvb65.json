@@ -1,0 +1,27 @@
+{
+    "release_id": "0-fright-cars-series-metalflake-dark-blue-dvb65",
+    "toy_number": "DVB65",
+    "casting_id": "fright-cars-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Dark Blue",
+        "tampo": "",
+        "base_color": "Grey / Plastic",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Black & Beige PR5"
+        },
+        "series": "1",
+        "casting_name": "Rigor Motor",
+        "tampos": "Skull on top, HW logo & 'Rigor Motor' on sides"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): J41, J42, J43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Rigor_Motor_2017.png/revision/latest?cb=20170115102928"
+    }
+}

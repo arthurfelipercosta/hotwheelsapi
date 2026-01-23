@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-pink-jjp81",
+    "toy_number": "JJP81",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Pink",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Pauline",
+        "casting_name": "Badwagon",
+        "waves": "SDCC",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): U27A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/54/JJP81_Pauline_Badwagon.jpg/revision/latest?cb=20250813122650"
+    }
+}

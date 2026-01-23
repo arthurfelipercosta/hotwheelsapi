@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-metalflake-silver-cfl29",
+    "toy_number": "CFL29",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Silver",
+        "tampo": "",
+        "base_color": "Black/Plastic",
+        "base_type": "",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "10SP"
+        },
+        "in_series": "8",
+        "casting_name": "McLaren P1",
+        "tampos": "Tampo'd headlights, taillights, McLaren logo"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): H04, H13 New Model",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Mclaren-p1-grey-HW.jpg/revision/latest?cb=20150718203555"
+    }
+}

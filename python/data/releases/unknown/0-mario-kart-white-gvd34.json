@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-gvd34",
+    "toy_number": "GVD34",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "1",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Toad",
+        "glider": "Plane Glider",
+        "casting_name": "P-Wing",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Toad_P-Wing_%2B_Plane_Glider.jpg/revision/latest?cb=20210307051633"
+    }
+}

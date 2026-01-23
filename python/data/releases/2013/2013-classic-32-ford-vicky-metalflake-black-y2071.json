@@ -1,0 +1,25 @@
+{
+    "release_id": "2013-classic-32-ford-vicky-metalflake-black-y2071",
+    "toy_number": "Y2071",
+    "casting_id": "classic-32-ford-vicky",
+    "year": 2013,
+    "series_id": "jukebox",
+    "series_index": 3,
+    "specs": {
+        "color": "Metalflake Black",
+        "tampo": "Gold 'Blues' & stripes on sides, Red Roof",
+        "base_color": "",
+        "base_type": "ZAMAC",
+        "window_color": "Clear",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Gold WSP"
+        },
+        "col": "138/166"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F24, F25",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/10/HW-Jukebox/revision/latest?cb=20140517050139"
+    }
+}

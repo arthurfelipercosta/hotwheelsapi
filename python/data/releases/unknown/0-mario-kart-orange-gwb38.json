@@ -1,0 +1,28 @@
+{
+    "release_id": "0-mario-kart-orange-gwb38",
+    "toy_number": "GWB38",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "6",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Orange Shy Guy",
+        "casting_name": "Standard Kart",
+        "photo_loose": "",
+        "photo_boxed": ""
+    },
+    "country": "",
+    "notes": "First Appearance Base code(s): S36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Orange_shy_guy.jpg/revision/latest?cb=20220730225721"
+    }
+}

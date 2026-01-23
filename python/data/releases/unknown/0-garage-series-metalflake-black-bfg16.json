@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-metalflake-black-bfg16",
+    "toy_number": "BFG16",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Black",
+        "tampo": "",
+        "base_color": "Grey / Plastic",
+        "base_type": "",
+        "window_color": "Tinted (Red)",
+        "interior_color": "Chrome Gold",
+        "wheel_type": {
+            "0": "Chrome Red 5SP"
+        },
+        "in_series": "4",
+        "casting_name": "Screamliner",
+        "tampos": "Yellow & Red flames on sides"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G24, G25, G29 New Model",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/2014-204-Screamliner-Black.jpg/revision/latest?cb=20140920172527"
+    }
+}

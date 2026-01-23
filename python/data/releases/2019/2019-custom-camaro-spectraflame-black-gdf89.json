@@ -1,0 +1,25 @@
+{
+    "release_id": "2019-custom-camaro-spectraflame-black-gdf89",
+    "toy_number": "GDF89",
+    "casting_id": "custom-camaro",
+    "year": 2019,
+    "series_id": "rlc",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Black",
+        "tampo": "Black Grille, Tail Lights, Black Rear Panel, Black Roof",
+        "base_color": "Chrome Chassis + Engine",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "Red w/ Black steering wheel",
+        "wheel_type": {
+            "0": "NCRL"
+        },
+        "col": ""
+    },
+    "country": "China",
+    "notes": "Opening Hood",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/2019_RLC_Custom_Camaro.png/revision/latest?cb=20190301234031"
+    }
+}

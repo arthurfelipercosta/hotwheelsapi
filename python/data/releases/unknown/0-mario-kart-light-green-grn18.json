@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-light-green-grn18",
+    "toy_number": "GRN18",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Light Green",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Grey MK4S"
+        },
+        "character": "Luigi",
+        "casting_name": "Circuit Special",
+        "waves": "2021: 1, 4",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Open_Luigi_in_Circuit_Special.jpg/revision/latest?cb=20210307050245"
+    }
+}

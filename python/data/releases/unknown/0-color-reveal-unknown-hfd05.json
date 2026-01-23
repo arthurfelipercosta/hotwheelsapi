@@ -1,0 +1,32 @@
+{
+    "release_id": "0-color-reveal-unknown-hfd05",
+    "toy_number": "HFD05",
+    "casting_id": "color-reveal",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "unknown",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "DD8"
+        },
+        "casting_name": "Turbine Time",
+        "paint_coat": "Orange",
+        "body_color_warm": "White",
+        "body_color_cold": "Grey",
+        "production_code": "03",
+        "photo_1_paint_coat": "",
+        "photo_2_warm": "",
+        "photo_3_cold": ""
+    },
+    "country": "",
+    "notes": "Mix 1 Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/72/BAAD9E68-139E-4906-8D89-F69E9027E8A1.jpg/revision/latest?cb=20220822204844"
+    }
+}

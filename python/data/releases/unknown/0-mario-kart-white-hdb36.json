@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-hdb36",
+    "toy_number": "HDB36",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Mario",
+        "casting_name": "Circuit Special",
+        "waves": "2022: 2",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): R05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/Open_Mario_Circuit_Special.jpg/revision/latest?cb=20220815201623"
+    }
+}

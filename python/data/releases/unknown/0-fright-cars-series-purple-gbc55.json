@@ -1,0 +1,28 @@
+{
+    "release_id": "0-fright-cars-series-purple-gbc55",
+    "toy_number": "GBC55",
+    "casting_id": "fright-cars-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Purple",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Blue Tire, Black OH5"
+        },
+        "series": "1/6",
+        "casting_name": "Rigor Motor",
+        "tampos": "Grey crossbones, \"19\" & Halloween logo on top",
+        "photo_car": ""
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M11, M17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/2019happyhalloweenrigormotor.jpg/revision/latest?cb=20221018055614"
+    }
+}

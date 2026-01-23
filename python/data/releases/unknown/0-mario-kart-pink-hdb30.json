@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-pink-hdb30",
+    "toy_number": "HDB30",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Pink",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Baby Peach",
+        "casting_name": "Pipe Frame",
+        "waves": "2022: 5 2023: 3",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): R33, R48 S51, T04, T06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/42/Baby_peach_open.jpg/revision/latest?cb=20221007120015"
+    }
+}

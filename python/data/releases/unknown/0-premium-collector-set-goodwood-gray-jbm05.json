@@ -1,0 +1,27 @@
+{
+    "release_id": "0-premium-collector-set-goodwood-gray-jbm05",
+    "toy_number": "JBM05",
+    "casting_id": "premium-collector-set",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Goodwood Gray",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "RR10SPM"
+        },
+        "casting_name": "2020 Toyota GR Supra",
+        "photo_loose": "",
+        "photo_boxed": ""
+    },
+    "country": "",
+    "notes": "Base code(s): T37, T46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/2020_Toyota_GR_Supra_Track_Day.jpg/revision/latest?cb=20250208025130"
+    }
+}

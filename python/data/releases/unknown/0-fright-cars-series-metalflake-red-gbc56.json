@@ -1,0 +1,28 @@
+{
+    "release_id": "0-fright-cars-series-metalflake-red-gbc56",
+    "toy_number": "GBC56",
+    "casting_id": "fright-cars-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Red",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Green Tire, Chrome Orange MC5"
+        },
+        "series": "2/6",
+        "casting_name": "Torque Screw",
+        "tampos": "Wolf head & \"Halloween 2019\" on sides",
+        "photo_car": ""
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M11, M18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/2019happyhalloweentourquescrew.jpg/revision/latest?cb=20221018055747"
+    }
+}

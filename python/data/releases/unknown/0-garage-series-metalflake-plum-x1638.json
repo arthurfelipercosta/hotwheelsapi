@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-metalflake-plum-x1638",
+    "toy_number": "X1638",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Plum",
+        "tampo": "",
+        "base_color": "tinted chrome",
+        "base_type": "",
+        "window_color": "clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "MC5"
+        },
+        "in_series": "10",
+        "casting_name": "'69 Dodge Charger Daytona",
+        "tampos": "Detail tampos"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F15 New Model",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/69_dodge_charger_daytona_2013_HW_garage_new_model.JPG/revision/latest?cb=20130701032102"
+    }
+}

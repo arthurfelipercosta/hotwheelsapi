@@ -1,0 +1,24 @@
+{
+    "release_id": "2012-mongoose-red-w8308",
+    "toy_number": "W8308",
+    "casting_id": "mongoose",
+    "year": 2012,
+    "series_id": "hot",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "Mongoose race deco on sides, white & blue stripes with white stars along top",
+        "base_color": "",
+        "base_type": "ZAMAC",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RRMag"
+        }
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): D48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a9/MongooseDuster.JPG/revision/latest?cb=20150320194944"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-yellow-hbg16",
+    "toy_number": "HBG16",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Yellow",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "01/03",
+        "casting_name": "Porsche 911 GT3 RS"
+    },
+    "country": "",
+    "notes": "Base code(s): P20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/98/HBG16_Porsche_911_GT3_RS_Loose.jpg/revision/latest?cb=20211003212856"
+    }
+}

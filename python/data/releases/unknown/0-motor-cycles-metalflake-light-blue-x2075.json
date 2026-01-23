@@ -1,0 +1,27 @@
+{
+    "release_id": "0-motor-cycles-metalflake-light-blue-x2075",
+    "toy_number": "X2075",
+    "casting_id": "motor-cycles",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Light Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Chrome Red & Black MC3"
+        },
+        "casting_name": "Scorchin' Scooter",
+        "photo_1_loose": "",
+        "photo_2_card": ""
+    },
+    "country": "",
+    "notes": "Base code(s): F11, F38",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/40/HW-MotorCycles-Scorchin%27_Scooter.jpg/revision/latest?cb=20131229044013"
+    }
+}

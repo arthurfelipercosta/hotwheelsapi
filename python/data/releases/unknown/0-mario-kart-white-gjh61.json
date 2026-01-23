@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-gjh61",
+    "toy_number": "GJH61",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Shy Guy",
+        "casting_name": "B Dasher",
+        "waves": "2020: 3, 4 2021: 5 2023: 1, 4",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): N19, R36",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Shy_guy_b_dasher_car.jpg/revision/latest?cb=20220729233612"
+    }
+}

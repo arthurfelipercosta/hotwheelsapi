@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-yellow-gvd38",
+    "toy_number": "GVD38",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "4",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Wario",
+        "glider": "Waddle Wing",
+        "casting_name": "Sports Coupe",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Wario_waddle_wing.jpg/revision/latest?cb=20220809162136"
+    }
+}

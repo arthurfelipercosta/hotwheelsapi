@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-gvd37",
+    "toy_number": "GVD37",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "3",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Donkey Kong",
+        "glider": "Super Glider",
+        "casting_name": "B Dasher",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/Dk_glider_car.jpg/revision/latest?cb=20220730221802"
+    }
+}

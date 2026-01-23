@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-green-grn19",
+    "toy_number": "GRN19",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Green",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Yoshi",
+        "casting_name": "Pipe Frame",
+        "waves": "2021: 2, 4 2023: 1, 5",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): P10",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/26/Open_Yoshi_Pipe_Frame.jpg/revision/latest?cb=20210307045615"
+    }
+}

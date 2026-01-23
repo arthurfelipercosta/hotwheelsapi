@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-hdb43",
+    "toy_number": "HDB43",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "6",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Rosalina",
+        "glider": "Cloud Glider",
+        "casting_name": "P-Wing",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/Rosalina_glider_cloud.jpg/revision/latest?cb=20220730223828"
+    }
+}

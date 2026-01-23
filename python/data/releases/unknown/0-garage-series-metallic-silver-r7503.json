@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-metallic-silver-r7503",
+    "toy_number": "R7503",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Silver",
+        "tampo": "",
+        "base_color": "Blue / Plastic",
+        "base_type": "",
+        "window_color": "Tinted",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Blue Rim, Black OH5"
+        },
+        "in_series": "10",
+        "casting_name": "La Fasta",
+        "tampos": "Blue \"La Fasta\" on sides"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C08, C06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/LaFasta_garage_silver.JPG/revision/latest?cb=20100114121043"
+    }
+}

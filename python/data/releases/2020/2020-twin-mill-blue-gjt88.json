@@ -1,0 +1,26 @@
+{
+    "release_id": "2020-twin-mill-blue-gjt88",
+    "toy_number": "GJT88",
+    "casting_id": "twin-mill",
+    "year": 2020,
+    "series_id": "hot",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Detailed headlights & tailights, Silver Twin Mill on sides",
+        "base_color": "Blue",
+        "base_type": "Metal",
+        "window_color": "Tinted",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Redline RRLW5"
+        },
+        "col": "093/250"
+    },
+    "country": "Thailand",
+    "notes": "Base code(s): N28, N29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Hot_Wheels_Boulevard_2020_Twin_Mill.jpg/revision/latest?cb=20200630084710",
+        "1": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/Twinmillblvrd2.jpg/revision/latest?cb=20201115202938"
+    }
+}

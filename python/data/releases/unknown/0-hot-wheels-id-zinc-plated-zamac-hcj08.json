@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-zinc-plated-zamac-hcj08",
+    "toy_number": "HCJ08",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Zinc-plated ZAMAC",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "01/03",
+        "casting_name": "Nissan Skyline GT-R (BNR34)"
+    },
+    "country": "",
+    "notes": "Base code(s): P20",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/HCJ08_Nissan_Skyline_GT-R_%28BNR34%29_Loose.jpg/revision/latest?cb=20211003212950"
+    }
+}

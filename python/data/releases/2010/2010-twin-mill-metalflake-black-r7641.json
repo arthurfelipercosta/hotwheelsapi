@@ -1,0 +1,25 @@
+{
+    "release_id": "2010-twin-mill-metalflake-black-r7641",
+    "toy_number": "R7641",
+    "casting_id": "twin-mill",
+    "year": 2010,
+    "series_id": "race",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Black",
+        "tampo": "Red & Black flames on sides & front",
+        "base_color": "Unpainted",
+        "base_type": "Metal",
+        "window_color": "Red Tint",
+        "interior_color": "Gray",
+        "wheel_type": {
+            "0": "Red rim, Black PR5"
+        },
+        "col": "212/240"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): B28, B29, B31",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/Twinmill_volcanoblack.JPG/revision/latest?cb=20091007075450"
+    }
+}

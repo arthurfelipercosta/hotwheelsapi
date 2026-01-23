@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-black-hbg27",
+    "toy_number": "HBG27",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Black",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID2"
+        },
+        "series": "03/03",
+        "casting_name": "McLaren F1 GTR"
+    },
+    "country": "",
+    "notes": "Base code(s): P30",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/McLarenF1GTR.jpg/revision/latest?cb=20230220221756"
+    }
+}

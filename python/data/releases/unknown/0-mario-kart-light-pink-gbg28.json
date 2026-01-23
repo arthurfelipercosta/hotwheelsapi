@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-light-pink-gbg28",
+    "toy_number": "GBG28",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Light Pink",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Peach",
+        "casting_name": "Standard Kart",
+        "waves": "2019: 1, 2, 3, 6 2020: 1 2021: 2, 7 2022: 3 2023: 2, 4",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "New cards have same ID# with Princess Peach label Base code(s): M14, M21, M22, M24",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/Hot_Wheels_%28GBG28%29_-_Peach_%28Standard_Kart%29_loose.jpg/revision/latest?cb=20210502223750"
+    }
+}

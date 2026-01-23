@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-clearcoat-zamac-hbf88",
+    "toy_number": "HBF88",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Clearcoat ZAMAC",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "01/04",
+        "casting_name": "Ford RS200"
+    },
+    "country": "",
+    "notes": "Modified casting Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/HBF88_Ford_RS200.jpg/revision/latest?cb=20210224042004"
+    }
+}

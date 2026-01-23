@@ -1,0 +1,25 @@
+{
+    "release_id": "2022-twin-mill-metalflake-gold-hnb86",
+    "toy_number": "HNB86",
+    "casting_id": "twin-mill",
+    "year": 2022,
+    "series_id": "fao",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake gold",
+        "tampo": "Goldenrod stripes on hood. \"Twin Mill\" on sides. Headlights & taillight.",
+        "base_color": "Metalflake gold",
+        "base_type": "Metal",
+        "window_color": "Smoke tint",
+        "interior_color": "Gold Chrome",
+        "wheel_type": {
+            "0": "Gold Chrome PR5"
+        },
+        "col": "191/250"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): R23",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/2022_Twin_Mill_FAO_Schwarz_Gold_Multipack.jpg/revision/latest?cb=20220913125128"
+    }
+}

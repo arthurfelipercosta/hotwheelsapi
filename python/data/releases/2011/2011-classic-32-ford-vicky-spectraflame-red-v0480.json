@@ -1,0 +1,25 @@
+{
+    "release_id": "2011-classic-32-ford-vicky-spectraflame-red-v0480",
+    "toy_number": "V0480",
+    "casting_id": "classic-32-ford-vicky",
+    "year": 2011,
+    "series_id": "hwccom",
+    "series_index": 5,
+    "specs": {
+        "color": "Spectraflame Red",
+        "tampo": "RLC logo on sides, white pinstriping on rear, \"VCKSTR\" on rear California license plate",
+        "base_color": "Chrome",
+        "base_type": "Metal",
+        "window_color": "Clear",
+        "interior_color": "Tan",
+        "wheel_type": {
+            "0": "NCRL"
+        },
+        "col": "138/166"
+    },
+    "country": "China",
+    "notes": "4,000 produced",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/RLC_2011_%2732_Ford_Vicky_Red_China_V0480.jpg/revision/latest?cb=20230705210653"
+    }
+}

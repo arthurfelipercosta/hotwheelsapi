@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-light-blue-bfd79",
+    "toy_number": "BFD79",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "",
+        "base_color": "Chrome / Plastic",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "purple",
+        "wheel_type": {
+            "0": "OH5"
+        },
+        "in_series": "8",
+        "casting_name": "'64 Lincoln Continental",
+        "tampos": "Dark purple and blue stripes on the sides and hood"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/%2764_Lincoln_Continental-2014_208.jpg/revision/latest?cb=20140531142103"
+    }
+}

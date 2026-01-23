@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-dark-blue-bfg01",
+    "toy_number": "BFG01",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "",
+        "base_color": "Yellow Plastic",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "Grey",
+        "wheel_type": {
+            "0": "5SP"
+        },
+        "in_series": "1",
+        "casting_name": "Volkswagen Kool Kombi",
+        "tampos": "White, Dark Yellow & Orange deco on sides & front"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F52, G03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/57/P1120842.JPG/revision/latest?cb=20140331150121"
+    }
+}

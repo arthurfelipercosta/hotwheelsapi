@@ -1,0 +1,28 @@
+{
+    "release_id": "0-car-culture-2-packs-red-hbl97",
+    "toy_number": "HBL97",
+    "casting_id": "car-culture-2-packs",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "RR5SPM"
+        },
+        "theme": "Larry Chen",
+        "casting": "Nissan Skyline GT-R (BNR32)",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): P19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/2PackLarryChenR32.jpg/revision/latest?cb=20210817035349"
+    }
+}

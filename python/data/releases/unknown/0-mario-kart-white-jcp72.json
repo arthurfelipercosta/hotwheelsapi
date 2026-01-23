@@ -1,0 +1,28 @@
+{
+    "release_id": "0-mario-kart-white-jcp72",
+    "toy_number": "JCP72",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "6",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Mario",
+        "casting_name": "Circuit Special",
+        "photo_loose": "",
+        "photo_boxed": ""
+    },
+    "country": "",
+    "notes": "Base code(s): R05",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/Open_Mario_Circuit_Special.jpg/revision/latest?cb=20220815201623"
+    }
+}

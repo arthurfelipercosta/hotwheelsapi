@@ -1,0 +1,27 @@
+{
+    "release_id": "0-holiday-hot-rods-metallic-red-v1440",
+    "toy_number": "V1440",
+    "casting_id": "holiday-hot-rods",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Red",
+        "tampo": "",
+        "base_color": "Metallic Green",
+        "base_type": "Metal",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Gold Chrome",
+        "wheel_type": {
+            "0": "Gold Chrome SK5 front, 5SP rear"
+        },
+        "casting": "Rocket Oil Special",
+        "photo_loose": "100px",
+        "photo_carded": ""
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/RocketOilSpecial_10Hol_Wal.JPG/revision/latest?cb=20101117105858"
+    }
+}

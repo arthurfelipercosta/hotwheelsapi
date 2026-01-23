@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-brown-gjh55",
+    "toy_number": "GJH55",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Brown",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Tanooki Mario",
+        "casting_name": "Standard Kart",
+        "waves": "2019: 4, 5 2020: 2 2021: 2, 4",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): M43, M46",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/0/05/970662.jpg/revision/latest?cb=20200914233007"
+    }
+}

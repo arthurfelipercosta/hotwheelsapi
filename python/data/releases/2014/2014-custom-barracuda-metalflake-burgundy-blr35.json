@@ -1,0 +1,24 @@
+{
+    "release_id": "2014-custom-barracuda-metalflake-burgundy-blr35",
+    "toy_number": "BLR35",
+    "casting_id": "custom-barracuda",
+    "year": 2014,
+    "series_id": "14th",
+    "series_index": 4,
+    "specs": {
+        "color": "Metalflake Burgundy",
+        "tampo": "Checkered flag, blue accents, \"Barracuda\", and Hot Wheels logo on sides, matte black hood, 14th Annual Collectors Nationals logo on roof, silver trim and air intakes, painted headlights & taillight bar",
+        "base_color": "",
+        "base_type": "ZAMAC",
+        "window_color": "Clear",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "RR5SP & Mini RR5SP"
+        }
+    },
+    "country": "Thailand",
+    "notes": "1,200 produced Finale car Base code(s): G07",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/14th_Nationals_Custom_Barracuda.jpg/revision/latest?cb=20200318174513"
+    }
+}

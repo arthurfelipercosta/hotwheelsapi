@@ -1,0 +1,27 @@
+{
+    "release_id": "0-holiday-hot-rods-metallic-gold-v1439",
+    "toy_number": "V1439",
+    "casting_id": "holiday-hot-rods",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metallic Gold",
+        "tampo": "",
+        "base_color": "White",
+        "base_type": "Plastic",
+        "window_color": "Tinted",
+        "interior_color": "Red",
+        "wheel_type": {
+            "0": "Red Chrome rim, Black OH5"
+        },
+        "casting": "Ford Shelby GR-1",
+        "photo_loose": "100px",
+        "photo_carded": ""
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/75/FordShelbyGR-1_10Hol_Wal.JPG/revision/latest?cb=20101117105858"
+    }
+}

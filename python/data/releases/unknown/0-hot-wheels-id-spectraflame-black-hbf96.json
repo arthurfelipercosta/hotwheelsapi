@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-black-hbf96",
+    "toy_number": "HBF96",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Black",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "03/04",
+        "casting_name": "Driftsta"
+    },
+    "country": "",
+    "notes": "Base code(s): N44",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/Driftstaid.jpg/revision/latest?cb=20230226095103"
+    }
+}

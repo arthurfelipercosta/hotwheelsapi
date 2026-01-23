@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-blue-gmk89",
+    "toy_number": "GMK89",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "01/04",
+        "casting_name": "McLaren Senna"
+    },
+    "country": "",
+    "notes": "Base code(s): N06",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/43/McLaren_Senna_38a.jpg/revision/latest?cb=20200526191219"
+    }
+}

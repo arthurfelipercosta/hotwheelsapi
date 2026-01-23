@@ -1,0 +1,28 @@
+{
+    "release_id": "0-car-culture-2-packs-white-jbl05",
+    "toy_number": "JBL05",
+    "casting_id": "car-culture-2-packs",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "RR6SPM"
+        },
+        "theme": "Nissan GT-R",
+        "casting": "Nissan GT-R NISMO GT3",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): U31A",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/NISMOGT-RGT3.jpg/revision/latest?cb=20250820130826"
+    }
+}

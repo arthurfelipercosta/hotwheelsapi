@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-hilite-purple-hbg06",
+    "toy_number": "HBG06",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame hilite purple",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "04/04",
+        "casting_name": "Asphalt Assault"
+    },
+    "country": "",
+    "notes": "Base code(s): P03",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/HBG06_Asphalt_Assault.jpg/revision/latest?cb=20210523151507"
+    }
+}

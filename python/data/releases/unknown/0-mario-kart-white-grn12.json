@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-grn12",
+    "toy_number": "GRN12",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Baby Mario",
+        "casting_name": "B Dasher",
+        "waves": "2021: 1, 6 2022: 3",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): N43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/30/Hot_Wheels_%28GRN12%29_-_Baby_Mario_%28B_Dasher%29_loose.jpg/revision/latest?cb=20210501062959"
+    }
+}

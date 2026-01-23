@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-ice-blue-gml05",
+    "toy_number": "GML05",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Ice Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "01/04",
+        "casting_name": "Volkswagen Beetle"
+    },
+    "country": "",
+    "notes": "Modified casting Base code(s): M48",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/HW_GML05_Volkswagen_Beetle.jpg/revision/latest?cb=20201012032450"
+    }
+}

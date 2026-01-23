@@ -1,0 +1,27 @@
+{
+    "release_id": "0-holiday-hot-rods-red-w3107",
+    "toy_number": "W3107",
+    "casting_id": "holiday-hot-rods",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "",
+        "base_color": "Black",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Green)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Gold MC5"
+        },
+        "casting": "Datsun 240Z",
+        "photo_loose": "100px",
+        "photo_carded": ""
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Datsun_240Z_red_Holiday_Hot_Rods_2011.JPG/revision/latest?cb=20121128010203"
+    }
+}

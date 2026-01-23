@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-red-blue-gbg30",
+    "toy_number": "GBG30",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Red & Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Toad",
+        "casting_name": "Sneeker",
+        "waves": "2019: 2, 4, 5 2020: 3 2021: 1 2022: 2, 5 2023: 1 2024: 1",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): M31, M39",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/0LSPup4z1597817311-420x420.jpg/revision/latest?cb=20200914232144"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-sky-blue-bfg21",
+    "toy_number": "BFG21",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Sky Blue",
+        "tampo": "",
+        "base_color": "Black Plastic",
+        "base_type": "",
+        "window_color": "Tinted (Black)",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "Chrome rim, Black PR5"
+        },
+        "in_series": "7",
+        "casting_name": "'14 Corvette Stingray",
+        "tampos": "Detailed headlights & taillights, Corvette emblem on front & rear, 'Corvette' on rear"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): G26, G29",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/14_corvette_stingray_blue.JPG/revision/latest?cb=20141027054422"
+    }
+}

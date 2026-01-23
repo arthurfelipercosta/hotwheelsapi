@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-teal-gbg33",
+    "toy_number": "GBG33",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Teal",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Rosalina",
+        "casting_name": "Standard Kart",
+        "waves": "2019: 5",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): M43",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/Rosalina_standard_car.jpg/revision/latest?cb=20220729234936"
+    }
+}

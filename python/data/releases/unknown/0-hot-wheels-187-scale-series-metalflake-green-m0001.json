@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-187-scale-series-metalflake-green-m0001",
+    "toy_number": "M0001",
+    "casting_id": "hot-wheels-187-scale-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Metalflake Green",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "Y8"
+        },
+        "model_name": "Honda Civic Si",
+        "tampos": "Light Green tampo on sides, 'Civic' on rear window"
+    },
+    "country": "China",
+    "notes": "New Casting",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/24/GreenCivic.jpg/revision/latest?cb=20240129063532"
+    }
+}

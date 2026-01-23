@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-gjh58",
+    "toy_number": "GJH58",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Peach",
+        "casting_name": "P-Wing",
+        "waves": "2020: 2, 4",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): N10, N11, N12",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/15/Peach_p_wing_car.jpg/revision/latest?cb=20220729233533"
+    }
+}

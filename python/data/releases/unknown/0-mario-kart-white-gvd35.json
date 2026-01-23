@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-gvd35",
+    "toy_number": "GVD35",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "2",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Luigi",
+        "glider": "Cloud Glider",
+        "casting_name": "P-Wing",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/Luigi_glider_car.jpg/revision/latest?cb=20220730223405"
+    }
+}

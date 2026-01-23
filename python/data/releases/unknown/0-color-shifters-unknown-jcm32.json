@@ -1,0 +1,28 @@
+{
+    "release_id": "0-color-shifters-unknown-jcm32",
+    "toy_number": "JCM32",
+    "casting_id": "color-shifters",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "unknown",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "10SP"
+        },
+        "model_name": "1980 Chevy Corvette",
+        "cold": "Khaki",
+        "moderate": "N/A",
+        "warm": "Blue"
+    },
+    "country": "",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/Loudpedal.jpg/revision/latest?cb=20250925014805"
+    }
+}

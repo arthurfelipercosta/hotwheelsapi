@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-red-bfd74",
+    "toy_number": "BFD74",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "",
+        "base_color": "Blue Plastic",
+        "base_type": "",
+        "window_color": "Tinted (Blue)",
+        "interior_color": "Yellow",
+        "wheel_type": {
+            "0": "White 5SP"
+        },
+        "in_series": "1",
+        "casting_name": "Volkswagen Kool Kombi",
+        "tampos": "White, Dark Blue, Blue & Yellow deco on sides & front"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): F30, F40",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/Hot-wheels-kool-kombi-2014-.jpg/revision/latest?cb=20131103172649"
+    }
+}

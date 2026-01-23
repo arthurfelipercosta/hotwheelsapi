@@ -1,0 +1,24 @@
+{
+    "release_id": "2022-custom-corvette-spectraflame-black-hck29",
+    "toy_number": "HCK29",
+    "casting_id": "custom-corvette",
+    "year": 2022,
+    "series_id": "rlc",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Black",
+        "tampo": "Red Stripe from hood to rear",
+        "base_color": "Chrome",
+        "base_type": "Metal",
+        "window_color": "Tinted",
+        "interior_color": "Black",
+        "wheel_type": {
+            "0": "NCRL"
+        }
+    },
+    "country": "China",
+    "notes": "25,000 produced",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/RLC_Exclusive_Custom_Corvette.jpg/revision/latest?cb=20220225090729"
+    }
+}

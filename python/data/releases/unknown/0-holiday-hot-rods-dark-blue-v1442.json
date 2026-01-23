@@ -1,0 +1,27 @@
+{
+    "release_id": "0-holiday-hot-rods-dark-blue-v1442",
+    "toy_number": "V1442",
+    "casting_id": "holiday-hot-rods",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Dark Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "ZAMAC",
+        "window_color": "Tinted (Orange)",
+        "interior_color": "Unpainted Metal",
+        "wheel_type": {
+            "0": "Gold 5SP"
+        },
+        "casting": "Volkswagen Drag Truck",
+        "photo_loose": "100px",
+        "photo_carded": ""
+    },
+    "country": "Thailand",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/2011_new_years_drag_truck.png/revision/latest?cb=20101209001215"
+    }
+}

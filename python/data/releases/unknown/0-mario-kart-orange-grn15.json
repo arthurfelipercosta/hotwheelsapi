@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-orange-grn15",
+    "toy_number": "GRN15",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Orange",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Diddy Kong",
+        "casting_name": "Pipe Frame",
+        "waves": "2021: 2, 5 2022: 2 2023: 2, 3",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/Open_Diddy_Kong_Pipe_Frame.jpg/revision/latest?cb=20210307045730"
+    }
+}

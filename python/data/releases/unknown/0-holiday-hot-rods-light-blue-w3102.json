@@ -1,0 +1,27 @@
+{
+    "release_id": "0-holiday-hot-rods-light-blue-w3102",
+    "toy_number": "W3102",
+    "casting_id": "holiday-hot-rods",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "",
+        "base_color": "Black",
+        "base_type": "Plastic",
+        "window_color": "Tinted (Yellow)",
+        "interior_color": "Orange",
+        "wheel_type": {
+            "0": "Gold 10SP with white tires"
+        },
+        "casting": "Ford Focus RS",
+        "photo_loose": "100px",
+        "photo_carded": ""
+    },
+    "country": "Malaysia",
+    "notes": "",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/09_Ford_Focus_RS_Winter_Rally_2011.jpg/revision/latest?cb=20200210140201"
+    }
+}

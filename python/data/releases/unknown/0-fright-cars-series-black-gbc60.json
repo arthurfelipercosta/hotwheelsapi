@@ -1,0 +1,28 @@
+{
+    "release_id": "0-fright-cars-series-black-gbc60",
+    "toy_number": "GBC60",
+    "casting_id": "fright-cars-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Black",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "White Tire, Black RA6"
+        },
+        "series": "6/6",
+        "casting_name": "Power Rocket",
+        "tampos": "Orange Flames on sides. \"Happy Halloween\", \"19\", Halloween Series logo (pumpkin head)",
+        "photo_car": ""
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): M10, M11",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/23/Power_Rocket-Halloween_2019.4.jpg/revision/latest?cb=20190831192205"
+    }
+}

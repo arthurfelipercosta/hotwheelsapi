@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-red-gbg26",
+    "toy_number": "GBG26",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Red",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Mario",
+        "casting_name": "Standard Kart",
+        "waves": "2019: 1, 2, 3, 4, 5, 6 2020: 1, 2, 3 2021: 1, 6, 7 2022: 4 2023: 4, 5 2024: 1",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): M13, M20, M22, M39, N19",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/Hot_Wheels_%28GBG26%29_-_Mario_%28Standard_Kart%29_loose.jpg/revision/latest?cb=20210502224708"
+    }
+}

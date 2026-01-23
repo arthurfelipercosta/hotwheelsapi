@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-zinc-plated-zamac-hbg15",
+    "toy_number": "HBG15",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Zinc-plated ZAMAC",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "02/04",
+        "casting_name": "Custom '67 Pontiac Firebird"
+    },
+    "country": "",
+    "notes": "Base code(s): P18",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/BVbirdID.jpg/revision/latest?cb=20230128053718"
+    }
+}

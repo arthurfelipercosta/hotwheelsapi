@@ -1,0 +1,31 @@
+{
+    "release_id": "0-mario-kart-pink-hkd43-pack",
+    "toy_number": "HKD43 (Pack #)",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Pink",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "",
+            "1": "MK4S"
+        },
+        "character": "Princess Peach",
+        "casting_name": "Theatrical Princess Peach",
+        "waves": "Pack Exclusive",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/9/96/Mario_-_Princess_Peach_Theatrical_Motorbike.JPG/revision/latest?cb=20250316171547",
+        "1": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Gold_Mario_Glider.jpg/revision/latest?cb=20220809205916"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-blue-grn23",
+    "toy_number": "GRN23",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Blue Yoshi",
+        "casting_name": "Standard Kart",
+        "waves": "2022: 4",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/58/Images-1600170658.jpg/revision/latest?cb=20200915115058"
+    }
+}

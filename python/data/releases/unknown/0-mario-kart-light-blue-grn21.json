@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-light-blue-grn21",
+    "toy_number": "GRN21",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Light Blue",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Light-Blue Shy Guy",
+        "casting_name": "Standard Kart",
+        "waves": "2021: 4, 7 2022: 1 2023: 3",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): P12, P13",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/6/69/Open_Light-Blue_Shy_Guy_Standard_Kart.jpg/revision/latest?cb=20210502204818"
+    }
+}

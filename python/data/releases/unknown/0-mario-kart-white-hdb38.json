@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-white-hdb38",
+    "toy_number": "HDB38",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "6",
+    "series_index": null,
+    "specs": {
+        "color": "White",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MK4S"
+        },
+        "character": "Waluigi",
+        "glider": "Super Glider",
+        "casting_name": "B Dasher",
+        "photo_loose": "",
+        "photo_boxed": ""
+    },
+    "country": "",
+    "notes": "First Appearance",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/d/df/Waluigi_glider.jpg/revision/latest?cb=20220910221922"
+    }
+}

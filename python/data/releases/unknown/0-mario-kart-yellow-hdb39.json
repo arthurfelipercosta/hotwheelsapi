@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-yellow-hdb39",
+    "toy_number": "HDB39",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "6",
+    "series_index": null,
+    "specs": {
+        "color": "Yellow",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Tanooki Mario",
+        "glider": "Super Glider",
+        "casting_name": "Sports Coupe",
+        "photo_loose": "",
+        "photo_boxed": ""
+    },
+    "country": "",
+    "notes": "First Appearance",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Tanooki_Mario_glider_open.jpg/revision/latest?cb=20221030131411"
+    }
+}

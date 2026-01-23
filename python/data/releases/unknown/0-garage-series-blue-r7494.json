@@ -1,0 +1,27 @@
+{
+    "release_id": "0-garage-series-blue-r7494",
+    "toy_number": "R7494",
+    "casting_id": "garage-series",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "",
+        "base_color": "White / Plastic",
+        "base_type": "",
+        "window_color": "Clear",
+        "interior_color": "Blue",
+        "wheel_type": {
+            "0": "White PR5"
+        },
+        "in_series": "1",
+        "casting_name": "2010 Ford Mustang GT",
+        "tampos": "White Stripes Tampo and White GT on sides"
+    },
+    "country": "Malaysia",
+    "notes": "Base code(s): C05, C16, C17",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/2010_ford_mustang_gt_blue.jpg/revision/latest?cb=20100402230929"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "release_id": "0-mario-kart-green-hdb27",
+    "toy_number": "HDB27",
+    "casting_id": "mario-kart",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Green",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "MKHub"
+        },
+        "character": "Bowser Jr.",
+        "casting_name": "Flame Flyer",
+        "waves": "2022: 1",
+        "photo_loose": "",
+        "photo_carded": ""
+    },
+    "country": "",
+    "notes": "Base code(s): P52, R01, R02",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/Bowser_Jr_Flame_Car.jpg/revision/latest?cb=20220729233249"
+    }
+}

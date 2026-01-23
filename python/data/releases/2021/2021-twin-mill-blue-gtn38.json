@@ -1,0 +1,25 @@
+{
+    "release_id": "2021-twin-mill-blue-gtn38",
+    "toy_number": "GTN38",
+    "casting_id": "twin-mill",
+    "year": 2021,
+    "series_id": "hw",
+    "series_index": null,
+    "specs": {
+        "color": "Blue",
+        "tampo": "Light blue stripes along top sides, Hot Wheels on rear",
+        "base_color": "Blue",
+        "base_type": "Metal",
+        "window_color": "Tinted",
+        "interior_color": "Chrome",
+        "wheel_type": {
+            "0": "Chrome rim, Black MC5"
+        },
+        "col": "Redline RR5SP"
+    },
+    "country": "Indonesia",
+    "notes": "Base code(s): H51",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/1/11/TwinMill.jpg/revision/latest?cb=20210309041631"
+    }
+}

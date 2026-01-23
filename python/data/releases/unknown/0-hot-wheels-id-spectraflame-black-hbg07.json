@@ -1,0 +1,26 @@
+{
+    "release_id": "0-hot-wheels-id-spectraflame-black-hbg07",
+    "toy_number": "HBG07",
+    "casting_id": "hot-wheels-id",
+    "year": 0,
+    "series_id": "unknown",
+    "series_index": null,
+    "specs": {
+        "color": "Spectraflame Black",
+        "tampo": "",
+        "base_color": "",
+        "base_type": "",
+        "window_color": "",
+        "interior_color": "",
+        "wheel_type": {
+            "0": "ID"
+        },
+        "series": "03/04",
+        "casting_name": "Nissan Skyline GT-R (BNR34)"
+    },
+    "country": "",
+    "notes": "Base code(s):",
+    "images": {
+        "0": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/HBG07_Nissan_Skyline_GT-R_BNR34.jpg/revision/latest?cb=20210420041259"
+    }
+}
